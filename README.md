@@ -1,4 +1,4 @@
-# IC_Thesis
+# The First IFRS Sustainability Reporting QA RAG Chatbot
 
 This is the first published RAG chatbot and synthetic evaluation database for IFRS Sustainability Reporting standards.
 
