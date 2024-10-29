@@ -1,5 +1,9 @@
 # IC_Thesis
 
+This is the first published RAG chatbot and synthetic evaluation database for IFRS Sustainability Reporting standards.
+
+It contains an LLM-generated question-answer dataset, along with two RAG pipelines. 
+
 ## Prerequisites
 
 - Python 3.x
