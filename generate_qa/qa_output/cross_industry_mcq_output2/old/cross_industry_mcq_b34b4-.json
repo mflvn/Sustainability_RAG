@@ -1,0 +1,146 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When reporting on energy consumption, which of the following is a key difference between the E-Commerce and Gas Utilities & Distributors industries according to IFRS standards?",
+    "optionA": "E-Commerce must report on data center energy use, while Gas Utilities don't have this requirement",
+    "optionB": "Gas Utilities must report on customer gas savings, while E-Commerce doesn't have this requirement",
+    "optionC": "E-Commerce must report on renewable energy percentage, while Gas Utilities don't have this requirement",
+    "optionD": "Gas Utilities must report on pipeline integrity, while E-Commerce doesn't have this requirement",
+    "optionE": "Both industries have identical energy reporting requirements",
+    "answer": "C: E-Commerce must report on renewable energy percentage, while Gas Utilities don't have this requirement",
+    "explanation": "The E-Commerce industry is required to disclose the percentage of energy consumed that is renewable energy (CG-EC-130a.1), while the Gas Utilities & Distributors industry does not have a similar requirement. Instead, Gas Utilities focus on customer gas savings and pipeline integrity.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors"
+    ],
+    "pages": [
+      "27",
+      "337-338"
+    ],
+    "pairing_explanation": "Gas utilities' emissions and energy efficiency intersect with e-commerce\u2019s logistics footprint, offering insights into sustainable operations across different sectors.",
+    "industries": [
+      "b34-gas-utilities-and-distributors",
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "Which of the following metrics is required for both E-Commerce and Gas Utilities & Distributors industries in their IFRS sustainability reporting?",
+    "optionA": "Total energy consumed",
+    "optionB": "Number of customers served",
+    "optionC": "Greenhouse gas emissions from product shipments",
+    "optionD": "Water consumption in data centers",
+    "optionE": "Length of gas distribution pipelines",
+    "answer": "B: Number of customers served",
+    "explanation": "Both industries are required to report on the number of customers served as an activity metric. For E-Commerce, it's reported as 'Entity-defined measure of user activity' (CG-EC-000.A), while for Gas Utilities it's reported as 'Number of: (1) residential, (2) commercial, and (3) industrial customers served' (IF-GU-000.A).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors"
+    ],
+    "pages": [
+      "25",
+      "335"
+    ],
+    "pairing_explanation": "Gas utilities' emissions and energy efficiency intersect with e-commerce\u2019s logistics footprint, offering insights into sustainable operations across different sectors.",
+    "industries": [
+      "b34-gas-utilities-and-distributors",
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the environmental impact of operations, what is a key difference in metric selection between E-Commerce and Gas Utilities & Distributors?",
+    "optionA": "E-Commerce focuses on water usage, while Gas Utilities focus on gas leakage",
+    "optionB": "E-Commerce measures product shipment emissions, while Gas Utilities measure pipeline incidents",
+    "optionC": "E-Commerce calculates data center efficiency, while Gas Utilities calculate customer energy savings",
+    "optionD": "Both industries use identical metrics for environmental impact",
+    "optionE": "E-Commerce measures renewable energy use, while Gas Utilities measure carbon offsets",
+    "answer": "B: E-Commerce measures product shipment emissions, while Gas Utilities measure pipeline incidents",
+    "explanation": "E-Commerce companies are required to disclose the 'Total greenhouse gas (GHG) footprint of product shipments' (CG-EC-410a.1), while Gas Utilities & Distributors must report on the 'Number of (1) reportable pipeline incidents, (2) corrective actions received, and (3) violations of pipeline safety statutes' (IF-GU-540a.1). These metrics reflect the different nature of environmental impacts in each industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors"
+    ],
+    "pages": [
+      "31-32",
+      "340-341"
+    ],
+    "pairing_explanation": "Gas utilities' emissions and energy efficiency intersect with e-commerce\u2019s logistics footprint, offering insights into sustainable operations across different sectors.",
+    "industries": [
+      "b34-gas-utilities-and-distributors",
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "In calculating efficiency metrics, how do the approaches differ between E-Commerce and Gas Utilities & Distributors industries?",
+    "optionA": "E-Commerce calculates energy efficiency of data centers, while Gas Utilities calculate customer gas savings",
+    "optionB": "E-Commerce measures product delivery efficiency, while Gas Utilities measure pipeline transmission efficiency",
+    "optionC": "Both industries use the same efficiency metrics focused on energy consumption",
+    "optionD": "E-Commerce calculates warehouse efficiency, while Gas Utilities calculate power plant efficiency",
+    "optionE": "Neither industry is required to report efficiency metrics",
+    "answer": "A: E-Commerce calculates energy efficiency of data centers, while Gas Utilities calculate customer gas savings",
+    "explanation": "E-Commerce companies may disclose the power usage effectiveness (PUE) for data centers (CG-EC-130a.1), which is a measure of energy efficiency. Gas Utilities, on the other hand, are required to report on 'Customer gas savings from efficiency measures by market' (IF-GU-420a.2). These different approaches reflect the distinct focus areas for efficiency in each industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors"
+    ],
+    "pages": [
+      "28-29",
+      "337-338"
+    ],
+    "pairing_explanation": "Gas utilities' emissions and energy efficiency intersect with e-commerce\u2019s logistics footprint, offering insights into sustainable operations across different sectors.",
+    "industries": [
+      "b34-gas-utilities-and-distributors",
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the IFRS sustainability reporting requirements for infrastructure management differ between E-Commerce and Gas Utilities & Distributors industries?",
+    "optionA": "E-Commerce focuses on data center infrastructure, while Gas Utilities focus on pipeline infrastructure",
+    "optionB": "E-Commerce reports on warehouse infrastructure, while Gas Utilities report on storage facility infrastructure",
+    "optionC": "Both industries have identical infrastructure management reporting requirements",
+    "optionD": "E-Commerce reports on delivery vehicle infrastructure, while Gas Utilities report on meter infrastructure",
+    "optionE": "Neither industry has specific infrastructure management reporting requirements",
+    "answer": "A: E-Commerce focuses on data center infrastructure, while Gas Utilities focus on pipeline infrastructure",
+    "explanation": "E-Commerce companies are required to discuss 'the integration of environmental considerations into strategic planning for data center needs' (CG-EC-130a.3), while Gas Utilities must provide a 'Description of efforts to manage the integrity of gas delivery infrastructure, including risks related to safety and emissions' (IF-GU-540a.4). This reflects the critical infrastructure specific to each industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors"
+    ],
+    "pages": [
+      "29-30",
+      "343-345"
+    ],
+    "pairing_explanation": "Gas utilities' emissions and energy efficiency intersect with e-commerce\u2019s logistics footprint, offering insights into sustainable operations across different sectors.",
+    "industries": [
+      "b34-gas-utilities-and-distributors",
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "In terms of sustainability reporting on distribution networks, what is a key difference between E-Commerce and Gas Utilities & Distributors industries?",
+    "optionA": "E-Commerce reports on digital distribution networks, while Gas Utilities report on physical pipeline networks",
+    "optionB": "E-Commerce focuses on last-mile delivery efficiency, while Gas Utilities focus on pipeline integrity",
+    "optionC": "Both industries report on the same aspects of their distribution networks",
+    "optionD": "E-Commerce reports on warehouse distribution, while Gas Utilities report on storage facility distribution",
+    "optionE": "Neither industry has specific reporting requirements for distribution networks",
+    "answer": "B: E-Commerce focuses on last-mile delivery efficiency, while Gas Utilities focus on pipeline integrity",
+    "explanation": "E-Commerce companies are required to discuss 'strategies to reduce the environmental impact of product delivery' (CG-EC-410a.2), which includes last-mile delivery efficiency. Gas Utilities, on the other hand, must report on 'Percentage of gas (1) transmission and (2) distribution pipelines inspected' (IF-GU-540a.3) and other metrics related to pipeline integrity. This highlights the different nature of distribution networks in these industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors"
+    ],
+    "pages": [
+      "32",
+      "342-343"
+    ],
+    "pairing_explanation": "Gas utilities' emissions and energy efficiency intersect with e-commerce\u2019s logistics footprint, offering insights into sustainable operations across different sectors.",
+    "industries": [
+      "b34-gas-utilities-and-distributors",
+      "b4-e-commerce"
+    ]
+  }
+]

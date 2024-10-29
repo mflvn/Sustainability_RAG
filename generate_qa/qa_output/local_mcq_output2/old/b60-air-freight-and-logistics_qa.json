@@ -1,0 +1,152 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2 Climate-related Disclosures for the Air Freight & Logistics industry, which of the following is NOT a required disclosure for Scope 1 emissions?",
+    "optionA": "Gross global Scope 1 emissions in metric tons of CO2-e",
+    "optionB": "Emissions of all seven GHGs covered under the Kyoto Protocol",
+    "optionC": "Calculation methodology used for emissions disclosure",
+    "optionD": "Breakdown of emissions by specific air routes",
+    "optionE": "Any change in emissions from the previous reporting period",
+    "answer": "D. Breakdown of emissions by specific air routes",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Air Freight & Logistics",
+    "page": "591-592",
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When discussing long-term and short-term strategies to manage Scope 1 emissions, which of the following is NOT mentioned as a relevant aviation-related activity or investment in the IFRS S2 guidelines?",
+    "optionA": "Fuel optimization efforts",
+    "optionB": "Route design (e.g., NextGen)",
+    "optionC": "Use of winglets",
+    "optionD": "Upgrading of the fleet with new aircraft",
+    "optionE": "Implementation of carbon capture technology on aircraft",
+    "answer": "E. Implementation of carbon capture technology on aircraft",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Air Freight & Logistics",
+    "page": "593",
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2, how should an air freight and logistics company calculate the percentage of sustainable fuel consumed in air transport-related operations?",
+    "optionA": "Sustainable fuel consumed / Total fuel purchased",
+    "optionB": "Sustainable fuel consumed / Total alternative fuel consumed",
+    "optionC": "Sustainable fuel consumed / Total fuel consumed by air transport-related operations",
+    "optionD": "Sustainable fuel consumed / Total fuel consumed by all operations",
+    "optionE": "Sustainable fuel consumed / Total renewable fuel consumed",
+    "answer": "C. Sustainable fuel consumed / Total fuel consumed by air transport-related operations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Air Freight & Logistics",
+    "page": "595",
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing the total greenhouse gas (GHG) footprint across transport modes, which of the following is NOT included in the scope according to IFRS S2?",
+    "optionA": "Emissions from the entity's own assets (Scope 1)",
+    "optionB": "Emissions from contract carriers",
+    "optionC": "Emissions from outsourced freight forwarding services",
+    "optionD": "Emissions from all modes of transportation (road, air, barge, marine, rail)",
+    "optionE": "Well-to-tank emissions associated with primary energy production",
+    "answer": "E. Well-to-tank emissions associated with primary energy production",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Air Freight & Logistics",
+    "page": "596-597",
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "According to IFRS S2, how should an air freight and logistics company disclose its gross global Scope 1 greenhouse gas (GHG) emissions?",
+    "optionA": "In metric tons of CO2 only",
+    "optionB": "Separately for each type of GHG",
+    "optionC": "In metric tons of carbon dioxide equivalent (CO2-e)",
+    "optionD": "In gigajoules (GJ) of energy consumed",
+    "optionE": "As a percentage reduction from the previous year",
+    "answer": "C. In metric tons of carbon dioxide equivalent (CO2-e)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Air Freight & Logistics",
+    "page": "591",
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of carriers with BASIC percentiles above the FMCSA intervention threshold, which of the following is the correct formula according to IFRS S2?",
+    "optionA": "Number of carriers over threshold / Total number of carriers the entity has ever contracted with",
+    "optionB": "Number of carriers over threshold / Total number of carriers in the industry",
+    "optionC": "Number of carriers over threshold / Number of carriers below threshold",
+    "optionD": "Number of carriers over threshold / Total number of carriers contracted during the reporting period",
+    "optionE": "Number of carriers over threshold / Number of shipments made during the reporting period",
+    "answer": "D. Number of carriers over threshold / Total number of carriers contracted during the reporting period",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Air Freight & Logistics",
+    "page": "596",
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "In the air freight and logistics industry, what unique challenge does IFRS S2 address regarding the disclosure of fuel consumption for air transport operations?",
+    "optionA": "Differentiating between domestic and international flights",
+    "optionB": "Separating fuel consumption by aircraft type",
+    "optionC": "Distinguishing between alternative and sustainable fuel usage",
+    "optionD": "Reporting fuel consumption in liters instead of gigajoules",
+    "optionE": "Excluding fuel consumed during ground operations",
+    "answer": "C. Distinguishing between alternative and sustainable fuel usage",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Air Freight & Logistics",
+    "page": "594-595",
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What unique consideration does IFRS S2 require for air freight companies when discussing their strategy to manage Scope 1 emissions?",
+    "optionA": "Focusing solely on ground vehicle emissions",
+    "optionB": "Ignoring emissions from auxiliary power units (APUs)",
+    "optionC": "Considering only long-haul flight emissions",
+    "optionD": "Including aviation-specific activities like use of winglets and route design",
+    "optionE": "Excluding emissions from cargo handling equipment",
+    "answer": "D. Including aviation-specific activities like use of winglets and route design",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Air Freight & Logistics",
+    "page": "593",
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What unique aspect of supply chain management does IFRS S2 require air freight and logistics companies to report on, which is specific to their industry?",
+    "optionA": "The number of warehouses operated",
+    "optionB": "The percentage of carriers with BASIC percentiles above the FMCSA intervention threshold",
+    "optionC": "The average age of the truck fleet",
+    "optionD": "The number of intermodal connections",
+    "optionE": "The percentage of deliveries made on time",
+    "answer": "B. The percentage of carriers with BASIC percentiles above the FMCSA intervention threshold",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Air Freight & Logistics",
+    "page": "596",
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "According to IFRS S2, what unique challenge does the air freight and logistics industry face when reporting on its greenhouse gas emissions, particularly related to air transport operations?",
+    "optionA": "Calculating emissions only from ground operations",
+    "optionB": "Reporting emissions from employee commutes",
+    "optionC": "Addressing the higher climate impact of emissions at altitude",
+    "optionD": "Focusing solely on CO2 emissions",
+    "optionE": "Excluding emissions from contracted carriers",
+    "answer": "C. Addressing the higher climate impact of emissions at altitude",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Air Freight & Logistics",
+    "page": "591",
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ]
+  }
+]

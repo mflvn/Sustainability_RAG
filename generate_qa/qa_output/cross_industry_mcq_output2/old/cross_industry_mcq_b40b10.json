@@ -1,0 +1,146 @@
+[
+  {
+    "qa_type": "1",
+    "question": "When reporting on greenhouse gas emissions, how do the disclosure requirements differ between the Metals & Mining industry and the Biofuels industry?",
+    "optionA": "Metals & Mining requires Scope 1 emissions, while Biofuels requires lifecycle emissions",
+    "optionB": "Metals & Mining requires Scope 2 emissions, while Biofuels requires Scope 1 emissions",
+    "optionC": "Both industries require the same Scope 1 and Scope 2 emissions disclosures",
+    "optionD": "Metals & Mining requires emissions by mineral type, while Biofuels requires emissions by fuel type",
+    "optionE": "Neither industry requires greenhouse gas emissions disclosures",
+    "answer": "A. Metals & Mining requires Scope 1 emissions, while Biofuels requires lifecycle emissions",
+    "explanation": "The Metals & Mining industry requires disclosure of Scope 1 greenhouse gas emissions (EM-MM-110a.1), while the Biofuels industry requires reporting of lifecycle greenhouse gas emissions by biofuel type (RR-BI-410a.1). This difference reflects the varying environmental impacts and regulatory focuses of each industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Biofuels"
+    ],
+    "pages": [
+      "82",
+      "431"
+    ],
+    "pairing_explanation": "Biofuels and metals mining both explore alternatives to traditional energy and materials, facing sustainability challenges in extraction and lifecycle impacts.",
+    "industries": [
+      "b40-biofuels",
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "2",
+    "question": "How does the calculation of water consumption metrics differ between the Metals & Mining and Biofuels industries?",
+    "optionA": "Metals & Mining calculates total water withdrawn, while Biofuels only considers freshwater",
+    "optionB": "Biofuels includes rainwater in calculations, while Metals & Mining does not",
+    "optionC": "Metals & Mining reports water consumption in gallons, while Biofuels uses cubic meters",
+    "optionD": "Biofuels requires reporting of water quality incidents, while Metals & Mining does not",
+    "optionE": "There is no significant difference in water consumption metric calculations between the two industries",
+    "answer": "E. There is no significant difference in water consumption metric calculations between the two industries",
+    "explanation": "Both the Metals & Mining (EM-MM-140a.1) and Biofuels (RR-BI-140a.1) industries use similar methods for calculating water consumption metrics. Both require reporting total water withdrawn and consumed in thousands of cubic meters, and both need to disclose percentages in regions with High or Extremely High Baseline Water Stress.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Biofuels"
+    ],
+    "pages": [
+      "88",
+      "427"
+    ],
+    "pairing_explanation": "Biofuels and metals mining both explore alternatives to traditional energy and materials, facing sustainability challenges in extraction and lifecycle impacts.",
+    "industries": [
+      "b40-biofuels",
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "3",
+    "question": "How do the sustainability reporting considerations for feedstock sourcing in the Biofuels industry compare to those for raw material sourcing in the Metals & Mining industry?",
+    "optionA": "Biofuels focus on land use change, while Metals & Mining focus on extraction methods",
+    "optionB": "Metals & Mining require third-party certifications, while Biofuels do not",
+    "optionC": "Biofuels consider biodiversity impacts, while Metals & Mining only consider water usage",
+    "optionD": "Both industries equally prioritize supply chain transparency and environmental impact",
+    "optionE": "Metals & Mining focus on recycled content, while Biofuels focus on renewable sources",
+    "answer": "A. Biofuels focus on land use change, while Metals & Mining focus on extraction methods",
+    "explanation": "The Biofuels industry has specific reporting considerations for feedstock production, including land use change, biodiversity, and soil health (RR-BI-430a.1). In contrast, the Metals & Mining industry focuses more on extraction methods, water usage, and energy consumption in its raw material sourcing (EM-MM-130a.1, EM-MM-140a.1). This difference reflects the unique environmental challenges each industry faces in its supply chain.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Biofuels"
+    ],
+    "pages": [
+      "82",
+      "433"
+    ],
+    "pairing_explanation": "Biofuels and metals mining both explore alternatives to traditional energy and materials, facing sustainability challenges in extraction and lifecycle impacts.",
+    "industries": [
+      "b40-biofuels",
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "1",
+    "question": "What is the key difference in energy management reporting requirements between the Metals & Mining and Biofuels industries?",
+    "optionA": "Metals & Mining must report renewable energy percentage, while Biofuels do not",
+    "optionB": "Biofuels must report energy consumption by feedstock type, while Metals & Mining do not",
+    "optionC": "Metals & Mining must report grid electricity percentage, while Biofuels do not",
+    "optionD": "Biofuels must report energy intensity, while Metals & Mining do not",
+    "optionE": "There is no significant difference in energy management reporting requirements",
+    "answer": "A. Metals & Mining must report renewable energy percentage, while Biofuels do not",
+    "explanation": "The Metals & Mining industry is required to report the percentage of energy consumed that is renewable (EM-MM-130a.1), while the Biofuels industry does not have a specific requirement to report renewable energy percentage. This difference likely stems from the different energy profiles and environmental impacts of these industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Biofuels"
+    ],
+    "pages": [
+      "86",
+      "431"
+    ],
+    "pairing_explanation": "Biofuels and metals mining both explore alternatives to traditional energy and materials, facing sustainability challenges in extraction and lifecycle impacts.",
+    "industries": [
+      "b40-biofuels",
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "2",
+    "question": "How does the calculation of environmental compliance metrics differ between the Metals & Mining and Biofuels industries?",
+    "optionA": "Metals & Mining focuses on air quality violations, while Biofuels focuses on water quality violations",
+    "optionB": "Biofuels requires reporting of monetary fines, while Metals & Mining does not",
+    "optionC": "Metals & Mining includes non-monetary sanctions, while Biofuels only includes monetary penalties",
+    "optionD": "Biofuels requires reporting of potential violations, while Metals & Mining only reports actual violations",
+    "optionE": "There is no significant difference in environmental compliance metric calculations between the two industries",
+    "answer": "E. There is no significant difference in environmental compliance metric calculations between the two industries",
+    "explanation": "Both the Metals & Mining (EM-MM-140a.2) and Biofuels (RR-BI-140a.3) industries use similar methods for calculating environmental compliance metrics related to water quality. Both require reporting the number of incidents of non-compliance associated with water quality permits, standards, and regulations, focusing on formal enforcement actions.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Biofuels"
+    ],
+    "pages": [
+      "89",
+      "430"
+    ],
+    "pairing_explanation": "Biofuels and metals mining both explore alternatives to traditional energy and materials, facing sustainability challenges in extraction and lifecycle impacts.",
+    "industries": [
+      "b40-biofuels",
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "3",
+    "question": "How do the sustainability reporting considerations for government relations differ between the Metals & Mining and Biofuels industries?",
+    "optionA": "Metals & Mining focuses on environmental regulations, while Biofuels focuses on production subsidies",
+    "optionB": "Biofuels must report lobbying activities, while Metals & Mining does not",
+    "optionC": "Metals & Mining reports on community relations, while Biofuels focuses on policy proposals",
+    "optionD": "Biofuels must disclose government subsidies received, while Metals & Mining has no such requirement",
+    "optionE": "Both industries have identical reporting requirements for government relations",
+    "answer": "D. Biofuels must disclose government subsidies received, while Metals & Mining has no such requirement",
+    "explanation": "The Biofuels industry has a specific requirement to disclose the amount of subsidies received through government programs (RR-BI-530a.1). In contrast, the Metals & Mining industry does not have an explicit requirement to report government subsidies. This difference reflects the unique regulatory environment and policy support structures in the Biofuels industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Biofuels"
+    ],
+    "pages": [
+      "82",
+      "435"
+    ],
+    "pairing_explanation": "Biofuels and metals mining both explore alternatives to traditional energy and materials, facing sustainability challenges in extraction and lifecycle impacts.",
+    "industries": [
+      "b40-biofuels",
+      "b10-metals-and-mining"
+    ]
+  }
+]

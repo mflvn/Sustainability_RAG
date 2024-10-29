@@ -1,0 +1,74 @@
+[
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the Building Products & Furnishings and Real Estate industries differ in their approach to energy management?",
+    "optionA": "Building Products focuses on manufacturing energy, while Real Estate focuses on operational energy",
+    "optionB": "Building Products emphasizes renewable energy, while Real Estate prioritizes grid electricity",
+    "optionC": "Building Products targets energy efficiency in production, while Real Estate manages energy consumption in buildings",
+    "optionD": "Building Products considers only embodied energy, while Real Estate only considers operational energy",
+    "optionE": "There is no significant difference in energy management approaches between the two industries",
+    "answer": "C. Building Products targets energy efficiency in production, while Real Estate manages energy consumption in buildings",
+    "explanation": "The Building Products & Furnishings industry focuses on energy management in manufacturing processes, aiming to reduce energy consumption and costs in production. In contrast, the Real Estate industry emphasizes energy management in existing buildings, focusing on operational energy consumption, tenant behavior, and building performance. This difference reflects their distinct roles in the building lifecycle.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate"
+    ],
+    "pages": [
+      "16",
+      "360-363"
+    ],
+    "pairing_explanation": "Both industries deal with materials for buildings, offering a perspective on sustainability in product lifecycle and land use.",
+    "industries": [
+      "b3-building-products-and-furnishings",
+      "b36-real-estate"
+    ]
+  },
+  {
+    "qa_type": "Metric Comparison",
+    "question": "Which sustainability metric is common to both the Building Products & Furnishings and Real Estate industries, but applied differently?",
+    "optionA": "Percentage of recycled materials used",
+    "optionB": "Water consumption data coverage",
+    "optionC": "Energy consumption data",
+    "optionD": "Greenhouse gas emissions",
+    "optionE": "Waste management practices",
+    "answer": "C. Energy consumption data",
+    "explanation": "Both industries track energy consumption data, but apply it differently. The Building Products & Furnishings industry focuses on total energy consumed in manufacturing, percentage of grid electricity, and percentage of renewable energy (CG-BF-130a.1). The Real Estate industry measures energy consumption data coverage as a percentage of floor area, total energy consumed by portfolio area, and like-for-like percentage change in energy consumption (IF-RE-130a.1, IF-RE-130a.2, IF-RE-130a.3). This reflects their different roles in the building lifecycle \u2013 production vs. operation.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate"
+    ],
+    "pages": [
+      "16-18",
+      "360-366"
+    ],
+    "pairing_explanation": "Both industries deal with materials for buildings, offering a perspective on sustainability in product lifecycle and land use.",
+    "industries": [
+      "b3-building-products-and-furnishings",
+      "b36-real-estate"
+    ]
+  },
+  {
+    "qa_type": "Trend Identification",
+    "question": "What common sustainability trend is emerging in both the Building Products & Furnishings and Real Estate industries?",
+    "optionA": "Increased focus on biodiversity conservation",
+    "optionB": "Adoption of circular economy principles",
+    "optionC": "Emphasis on employee health and safety",
+    "optionD": "Integration of sustainability into product lifecycle and building operations",
+    "optionE": "Prioritization of local sourcing for all materials",
+    "answer": "D. Integration of sustainability into product lifecycle and building operations",
+    "explanation": "Both industries are increasingly integrating sustainability throughout their operations. In Building Products & Furnishings, this is evident in the focus on product lifecycle environmental impacts (CG-BF-410a.1, CG-BF-410a.2) and efforts to manage impacts from raw material sourcing to end-of-life. In Real Estate, this trend is seen in the management of tenant sustainability impacts (IF-RE-410a.1, IF-RE-410a.2, IF-RE-410a.3) and the integration of energy and water management into property investment and operational strategies. This shared trend reflects a holistic approach to sustainability across the building material production and use cycle.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate"
+    ],
+    "pages": [
+      "18-21",
+      "383-390"
+    ],
+    "pairing_explanation": "Both industries deal with materials for buildings, offering a perspective on sustainability in product lifecycle and land use.",
+    "industries": [
+      "b3-building-products-and-furnishings",
+      "b36-real-estate"
+    ]
+  }
+]

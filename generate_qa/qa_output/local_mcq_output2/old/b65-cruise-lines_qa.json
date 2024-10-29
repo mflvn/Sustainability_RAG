@@ -1,0 +1,137 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When calculating Scope 1 emissions for a cruise line company, which of the following greenhouse gases should be included?",
+    "optionA": "Only carbon dioxide (CO2)",
+    "optionB": "Carbon dioxide (CO2) and methane (CH4) only",
+    "optionC": "The six gases covered under the Kyoto Protocol",
+    "optionD": "All seven greenhouse gases covered under the Kyoto Protocol",
+    "optionE": "Only gases directly emitted from ship engines",
+    "answer": "D. All seven greenhouse gases covered under the Kyoto Protocol",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "618-619",
+    "industries": [
+      "b65-cruise-lines"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "What is the preferred source for Global Warming Potential (GWP) values when calculating greenhouse gas emissions for a cruise line's sustainability report?",
+    "optionA": "The Greenhouse Gas Protocol",
+    "optionB": "The International Maritime Organization (IMO) guidelines",
+    "optionC": "The Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report (2014)",
+    "optionD": "The U.S. Environmental Protection Agency (EPA) guidelines",
+    "optionE": "The entity's own historical emission data",
+    "answer": "C. The Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report (2014)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "618",
+    "industries": [
+      "b65-cruise-lines"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When discussing long-term and short-term strategies to manage Scope 1 emissions, which of the following is NOT considered a relevant activity or investment for cruise lines?",
+    "optionA": "Route optimization",
+    "optionB": "Use of alternative fuels",
+    "optionC": "Improving efficiency through ship design",
+    "optionD": "Upgrading the fleet with new ships",
+    "optionE": "Increasing passenger capacity without efficiency improvements",
+    "answer": "E. Increasing passenger capacity without efficiency improvements",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "620",
+    "industries": [
+      "b65-cruise-lines"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When calculating the percentage of renewable energy consumed by a cruise line, which of the following sources should NOT be included?",
+    "optionA": "Renewable fuel consumed by the entity",
+    "optionB": "Renewable energy directly produced by the entity",
+    "optionC": "Renewable energy purchased through a PPA with explicit RECs",
+    "optionD": "Green-e Energy Certified utility program purchases",
+    "optionE": "The renewable portion of the general electricity grid mix",
+    "answer": "E. The renewable portion of the general electricity grid mix",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "621-622",
+    "industries": [
+      "b65-cruise-lines"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the average Energy Efficiency Design Index (EEDI) for new ships in a cruise line's fleet, which of the following is correct?",
+    "optionA": "Include all ships in the fleet regardless of build date",
+    "optionB": "Only include ships built after 2010",
+    "optionC": "Calculate a weighted average based on ship size",
+    "optionD": "Only include ships built after 2013 for which IMO has adopted EEDI",
+    "optionE": "Use the lowest EEDI value from the fleet",
+    "answer": "D. Only include ships built after 2013 for which IMO has adopted EEDI",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Cruise Lines",
+    "page": "622",
+    "industries": [
+      "b65-cruise-lines"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "How should a cruise line calculate the percentage of energy consumed from heavy fuel oil?",
+    "optionA": "Heavy fuel oil consumption divided by total fuel consumption",
+    "optionB": "Heavy fuel oil consumption divided by total energy consumption",
+    "optionC": "Heavy fuel oil consumption divided by renewable energy consumption",
+    "optionD": "Heavy fuel oil consumption divided by onshore power supply consumption",
+    "optionE": "Heavy fuel oil consumption divided by marine gas oil consumption",
+    "answer": "B. Heavy fuel oil consumption divided by total energy consumption",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Cruise Lines",
+    "page": "621",
+    "industries": [
+      "b65-cruise-lines"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What unique consideration should cruise lines make when reporting their Scope 1 emissions under the IFRS sustainability reporting standards?",
+    "optionA": "Only report emissions from onshore operations",
+    "optionB": "Exclude emissions from passenger activities onboard",
+    "optionC": "Include emissions from all seven GHGs covered under the Kyoto Protocol",
+    "optionD": "Report emissions only for voyages longer than 7 days",
+    "optionE": "Limit reporting to CO2 emissions from fuel combustion",
+    "answer": "C. Include emissions from all seven GHGs covered under the Kyoto Protocol",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Cruise Lines",
+    "page": "618-619",
+    "industries": [
+      "b65-cruise-lines"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What unique challenge do cruise lines face when reporting onshore power supply (OPS) consumption as part of their energy mix?",
+    "optionA": "OPS is not applicable to the cruise industry",
+    "optionB": "OPS must be reported separately from total energy consumption",
+    "optionC": "OPS can only be used when ships are in international waters",
+    "optionD": "OPS consumption is calculated while main and auxiliary engines are turned off at berth",
+    "optionE": "OPS reporting is optional for cruise lines",
+    "answer": "D. OPS consumption is calculated while main and auxiliary engines are turned off at berth",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Cruise Lines",
+    "page": "621",
+    "industries": [
+      "b65-cruise-lines"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What specific consideration must cruise lines make when reporting renewable energy from biomass sources in their sustainability reports?",
+    "optionA": "Biomass sources are automatically considered renewable",
+    "optionB": "Biomass energy must be excluded from renewable energy calculations",
+    "optionC": "Only biomass sourced from international suppliers can be included",
+    "optionD": "Biomass energy is limited to materials certified by third-party standards or eligible under specific frameworks",
+    "optionE": "Biomass can only be counted if it's used for onboard cooking",
+    "answer": "D. Biomass energy is limited to materials certified by third-party standards or eligible under specific frameworks",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Cruise Lines",
+    "page": "622",
+    "industries": [
+      "b65-cruise-lines"
+    ]
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2 Climate-related Disclosures for Rail Transportation, which of the following is NOT a required activity metric to be reported?",
+    "optionA": "Number of carloads transported",
+    "optionB": "Number of intermodal units transported",
+    "optionC": "Track miles",
+    "optionD": "Revenue ton miles (RTM)",
+    "optionE": "Average speed of locomotives",
+    "answer": "E. Average speed of locomotives",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Rail Transportation",
+    "page": "630",
+    "industries": [
+      "b67-rail-transportation"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing gross global Scope 1 emissions for Rail Transportation, which of the following greenhouse gases is NOT covered under the Kyoto Protocol and therefore not required to be reported?",
+    "optionA": "Carbon dioxide (CO\u2082)",
+    "optionB": "Methane (CH\u2084)",
+    "optionC": "Nitrous oxide (N\u2082O)",
+    "optionD": "Sulfur hexafluoride (SF\u2086)",
+    "optionE": "Ozone (O\u2083)",
+    "answer": "E. Ozone (O\u2083)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Rail Transportation",
+    "page": "632",
+    "industries": [
+      "b67-rail-transportation"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When discussing long-term and short-term strategies to manage Scope 1 emissions in Rail Transportation, which of the following is NOT mentioned as a relevant activity or investment?",
+    "optionA": "Decreased idling",
+    "optionB": "Trip optimization",
+    "optionC": "Maximizing loads",
+    "optionD": "New engines",
+    "optionE": "Implementing solar panels on locomotives",
+    "answer": "E. Implementing solar panels on locomotives",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Rail Transportation",
+    "page": "634",
+    "industries": [
+      "b67-rail-transportation"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When reporting on total fuel consumed in the Rail Transportation industry, which of the following is NOT an acceptable calculation methodology according to IFRS S2?",
+    "optionA": "Adding fuel purchases made during the reporting period to beginning inventory",
+    "optionB": "Tracking fuel consumed by vehicles",
+    "optionC": "Tracking fuel expenses",
+    "optionD": "Using design parameters of locomotives",
+    "optionE": "Subtracting ending fuel inventory from the sum of beginning inventory and purchases",
+    "answer": "D. Using design parameters of locomotives",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Rail Transportation",
+    "page": "634-635",
+    "industries": [
+      "b67-rail-transportation"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When reporting Revenue Ton Miles (RTM) for the Rail Transportation industry, how should this metric be calculated?",
+    "optionA": "Total weight of cargo divided by total miles traveled",
+    "optionB": "Total miles traveled multiplied by the number of train cars",
+    "optionC": "One ton of revenue traffic transported one kilometer",
+    "optionD": "Miles traveled on each leg multiplied by the number of tons of revenue traffic carried on that leg",
+    "optionE": "Total revenue divided by total miles traveled",
+    "answer": "D. Miles traveled on each leg multiplied by the number of tons of revenue traffic carried on that leg",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Rail Transportation",
+    "page": "631",
+    "industries": [
+      "b67-rail-transportation"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating track miles for the Rail Transportation industry activity metric, which of the following statements is correct?",
+    "optionA": "Only single track routes are counted",
+    "optionB": "Double track routes are counted as a single track mile",
+    "optionC": "Track miles include only the main line, excluding sidings",
+    "optionD": "Each route mile with double track is considered two track miles",
+    "optionE": "Track miles are calculated based on the number of trains operating on the route",
+    "answer": "D. Each route mile with double track is considered two track miles",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Rail Transportation",
+    "page": "630",
+    "industries": [
+      "b67-rail-transportation"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of renewable fuel consumed in the Rail Transportation industry, which of the following is NOT a requirement for a fuel to be considered renewable according to IFRS S2?",
+    "optionA": "Produced from renewable biomass",
+    "optionB": "Used to replace or reduce the quantity of fossil fuel in transportation fuel, heating oil, or jet fuel",
+    "optionC": "Achieved net greenhouse gas emissions reduction on a lifecycle basis",
+    "optionD": "Derived from non-food crop sources",
+    "optionE": "The entity must disclose the standard or regulation used to determine if a fuel is renewable",
+    "answer": "D. Derived from non-food crop sources",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Rail Transportation",
+    "page": "635",
+    "industries": [
+      "b67-rail-transportation"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What is a key challenge for rail transportation companies when reporting Scope 1 emissions, as per IFRS S2?",
+    "optionA": "Measuring emissions from passenger rail operations",
+    "optionB": "Accounting for emissions from electric locomotives",
+    "optionC": "Calculating emissions from diesel combustion in locomotive engines",
+    "optionD": "Reporting emissions from rail infrastructure construction",
+    "optionE": "Estimating emissions from employee commuting",
+    "answer": "C. Calculating emissions from diesel combustion in locomotive engines",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Rail Transportation",
+    "page": "632",
+    "industries": [
+      "b67-rail-transportation"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When reporting on fuel consumption in the rail transportation industry, what specific challenge does IFRS S2 require companies to address regarding renewable fuels?",
+    "optionA": "Sourcing renewable fuels from local suppliers",
+    "optionB": "Implementing biofuel storage systems",
+    "optionC": "Disclosing the standard used to determine if a fuel is renewable",
+    "optionD": "Developing in-house renewable fuel production",
+    "optionE": "Comparing renewable fuel costs to conventional fuels",
+    "answer": "C. Disclosing the standard used to determine if a fuel is renewable",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Rail Transportation",
+    "page": "635",
+    "industries": [
+      "b67-rail-transportation"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What industry-specific factor does IFRS S2 highlight as a key consideration for rail transportation companies when discussing their emissions reduction targets?",
+    "optionA": "The impact of weather conditions on fuel efficiency",
+    "optionB": "The role of train scheduling in emissions reduction",
+    "optionC": "The effect of cargo weight on emissions",
+    "optionD": "The influence of track electrification projects",
+    "optionE": "Operational improvements such as decreased idling and trip optimization",
+    "answer": "E. Operational improvements such as decreased idling and trip optimization",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Rail Transportation",
+    "page": "634",
+    "industries": [
+      "b67-rail-transportation"
+    ]
+  }
+]

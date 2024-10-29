@@ -1,0 +1,163 @@
+[
+  {
+    "qa_type": "single_hop",
+    "question": "What is the unit of measure for the 'Total area of: (1) retail space and (2) distribution centers' activity metric in the Multiline and Specialty Retailers & Distributors industry (as listed in the relevant table)?",
+    "optionA": "Square meters (m\u00b2)",
+    "optionB": "Square feet (ft\u00b2)",
+    "optionC": "Hectares (ha)",
+    "optionD": "Acres (ac)",
+    "optionE": "Meters",
+    "answer": "A",
+    "reference_text": [
+      "Total area of: (1) retail space and (2) distribution centers | Quantitative | Square meters (m\u00b2) | CG-MR-000.B"
+    ],
+    "pages": [
+      "39"
+    ],
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "For the listed energy consumption requirement, what does a company in the Multiline and Specialty Retailers & Distributors industry need to do when calculating energy consumption from fuels and biofuels?",
+    "optionA": "Use lower heating values (LHV)",
+    "optionB": "Use heating values (HV)",
+    "optionC": "Use net calorific values (NCV)",
+    "optionD": "Use thermal efficiency values (TEV)",
+    "optionE": "Use higher heating values (HHV)",
+    "answer": "E",
+    "reference_text": [
+      "In calculating energy consumption from fuels and biofuels, the entity shall use higher heating values (HHV), also known as gross calorific values (GCV), which are directly measured or taken from the Intergovernmental Panel on Climate Change (IPCC)."
+    ],
+    "pages": [
+      "40"
+    ],
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What is the code of the 'Total energy consumed, percentage grid electricity, percentage renewable' metric in the Multiline and Specialty Retailers & Distributors industry?",
+    "optionA": "CG-MR-130a.2",
+    "optionB": "CG-MR-000.A",
+    "optionC": "CG-MR-130b.1",
+    "optionD": "CG-MR-000.B",
+    "optionE": "CG-MR-130a.1",
+    "answer": "E",
+    "reference_text": [
+      "Energy Management in Retail & Distribution | (1) Total energy consumed, (2) percent\u00adage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent\u00adage (%) | CG-MR-130a.1"
+    ],
+    "pages": [
+      "39"
+    ],
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "For the listed renewable energy requirement, what is the scope of renewable energy from biomass sources limited to in the Multiline and Specialty Retailers & Distributors industry?",
+    "optionA": "Only energy from biomass sources certified by the Forest Stewardship Council",
+    "optionB": "Energy from any biomass source, regardless of certification",
+    "optionC": "Energy from biomass sources certified to any third-party standard or eligible for state renewable portfolio standards",
+    "optionD": "Only energy from biomass sources eligible for the Green-e Framework for Renewable Energy Certification",
+    "optionE": "Only energy from biomass sources certified to a third-party standard",
+    "answer": "C",
+    "reference_text": [
+      "Energy from biomass sources is limited to materials certified to a third-party standard (e.g., Forest Stewardship Council, Sustainable Forest Initiative, Programme for the Endorsement of Forest Certification, or American Tree Farm System), materials considered eligible sources of supply according to the Green-e Framework for Renewable Energy Certification, Version 1.0 (2017) or Green-e regional standards, and/or materials that are eligible for an applicable state renewable portfolio standard."
+    ],
+    "pages": [
+      "41"
+    ],
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the code for the 'Energy Management in Retail & Distribution' metric in the Multiline and Specialty Retailers & Distributors industry, and how should the renewable energy percentage be calculated for this metric?",
+    "optionA": "The code is CG-MR-130a.1, and the renewable energy percentage should be calculated as renewable energy consumption divided by total energy consumption.",
+    "optionB": "The code is CG-MR-000.A, and the renewable energy percentage should be calculated as renewable energy production divided by total energy consumption.",
+    "optionC": "The code is CG-MR-130a.1, and the renewable energy percentage should be calculated as renewable energy production divided by total energy production.",
+    "optionD": "The code is CG-MR-000.B, and the renewable energy percentage should be calculated as renewable energy consumption divided by grid electricity consumption.",
+    "optionE": "The code is CG-MR-000.B, and the renewable energy percentage should be calculated as renewable energy consumption divided by total energy consumption.",
+    "answer": "A",
+    "reference_text": [
+      "CG-MR-130a.1. (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable",
+      "3.2    The percentage shall be calculated as renewable energy consumption divided by total energy consumption."
+    ],
+    "pages": [
+      "39",
+      "40",
+      "41"
+    ],
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the unit of measure for the 'Total area of: (1) retail space and (2) distribution centers' activity metric in the Multiline and Specialty Retailers & Distributors industry, and how should the scope of energy consumption be defined for the 'Energy Management in Retail & Distribution' topic?",
+    "optionA": "The unit of measure is square meters (m\u00b2), and the scope of energy consumption includes only energy directly consumed by the entity during the reporting period.",
+    "optionB": "The unit of measure is square feet (ft\u00b2), and the scope of energy consumption includes only energy directly consumed by the entity during the reporting period.",
+    "optionC": "The unit of measure is square meters (m\u00b2), and the scope of energy consumption includes all energy consumed by the entity and its suppliers during the reporting period.",
+    "optionD": "The unit of measure is acres, and the scope of energy consumption includes only energy produced by the entity itself during the reporting period.",
+    "optionE": "The unit of measure is square feet (ft\u00b2), and the scope of energy consumption includes energy from all sources, including energy purchased from sources external to the entity and energy produced by the entity itself.",
+    "answer": "A",
+    "reference_text": [
+      "Total area of: (1) retail space and (2) distribution centers | Quantitative | Square meters (m\u00b2) | CG-MR-000.B",
+      "1.2    The scope of energy consumption includes only energy directly consumed by the entity during the reporting period."
+    ],
+    "pages": [
+      "39",
+      "40"
+    ],
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the category of the 'Total energy consumed' metric in the Multiline and Specialty Retailers & Distributors industry, and how should the entity calculate energy consumption from fuels and biofuels?",
+    "optionA": "The category is Qualitative, and the entity should use lower heating values (LHV) to calculate energy consumption from fuels and biofuels.",
+    "optionB": "The category is Quantitative, and the entity should use higher heating values (HHV), also known as gross calorific values (GCV), to calculate energy consumption from fuels and biofuels.",
+    "optionC": "The category is Quantitative, and the entity should use net calorific values (NCV) to calculate energy consumption from fuels and biofuels.",
+    "optionD": "The category is Descriptive, and the entity should use average heating values (AHV) to calculate energy consumption from fuels and biofuels.",
+    "optionE": "The category is Number, and the entity should use higher heating values (HHV), also known as gross calorific values (GCV), to calculate energy consumption from fuels and biofuels.",
+    "answer": "B",
+    "reference_text": [
+      "Energy Management in Retail & Distribution | (1) Total energy consumed, (2) percent\u00adage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent\u00adage (%) | CG-MR-130a.1",
+      "1.3    In calculating energy consumption from fuels and biofuels, the entity shall use higher heating values (HHV), also known as gross calorific values (GCV), which are directly measured or taken from the Intergovernmental Panel on Climate Change (IPCC)."
+    ],
+    "pages": [
+      "39",
+      "40"
+    ],
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the scope of renewable energy for the 'Energy Management in Retail & Distribution' topic in the Multiline and Specialty Retailers & Distributors industry, and how should a company handle renewable electricity generated on-site to claim it as renewable energy?",
+    "optionA": "The scope includes all renewable energy sources, and for on-site generation, the company must sell the RECs and GOs to claim it as renewable energy.",
+    "optionB": "The scope excludes biomass, and for on-site generation, the company must retain and retire the RECs and GOs on behalf of the entity to claim it as renewable energy.",
+    "optionC": "The scope includes geothermal, wind, solar, hydro, and biomass, and for on-site generation, the company must retain and retire or cancel the RECs and GOs on behalf of the entity to claim it as renewable energy.",
+    "optionD": "The scope only includes solar and wind energy, and for on-site generation, the company can claim it as renewable energy without any action on RECs and GOs.",
+    "optionE": "The scope includes solar and wind energy, and for on-site generation, the company must sell the RECs and GOs to claim it as renewable energy.",
+    "answer": "C",
+    "reference_text": [
+      "3.1    Renewable energy is defined as energy from sources that are replenished at a rate greater than or equal to their rate of depletion, such as geothermal, wind, solar, hydro, and biomass.",
+      "3.3.1 For any renewable electricity generated on-site, any RECs and GOs must be retained (i.e., not sold) and retired or cancelled on behalf of the entity in order for the entity to claim them as renewable energy."
+    ],
+    "pages": [
+      "40",
+      "41"
+    ],
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  }
+]

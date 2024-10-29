@@ -1,0 +1,112 @@
+[
+  {
+    "question": "What topics should I report on for Coal Operations and Apparel, Accessories & Footwear industries?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": [
+      "b7-coal-operations",
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "question": "Are there any common sustainability topics between the Building Products & Furnishings and Drug Retailers industries? If so, how do their reporting requirements differ for energy management?",
+    "type": "mcq",
+    "correct_answer": "C",
+    "model_answer": "C",
+    "is_correct": true,
+    "industries": [
+      "b3-building-products-and-furnishings",
+      "b27-drug-retailers"
+    ]
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Commercial Banks and Fuel Cells & Industrial Batteries industries?",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "A",
+    "is_correct": false,
+    "industries": [
+      "b16-commercial-banks",
+      "b42-fuel-cells-and-industrial-batteries"
+    ]
+  },
+  {
+    "question": "Which industry has more 'Qualitative' metrics to disclose in Table 1 between Coal Operations and Apparel, Accessories & Footwear industries?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "B",
+    "is_correct": false,
+    "industries": [
+      "b7-coal-operations",
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Building Products & Furnishings and Real Estate industries?",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "B",
+    "is_correct": true,
+    "industries": [
+      "b3-building-products-and-furnishings",
+      "b36-real-estate"
+    ]
+  },
+  {
+    "question": "Are there any common sustainability topics between Building Products & Furnishings and Real Estate industries? If so, how do their reporting requirements differ?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": [
+      "b3-building-products-and-furnishings",
+      "b36-real-estate"
+    ]
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Investment Banking & Brokerage and Marine Transportation industries?",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "A",
+    "is_correct": false,
+    "industries": [
+      "b18-investment-banking-and-brokerage",
+      "b66-marine-transportation"
+    ]
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Construction Materials and Home Builders industries.",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "C",
+    "is_correct": false,
+    "industries": [
+      "b8-construction-materials",
+      "b35-home-builders"
+    ]
+  },
+  {
+    "question": "List the activity metrics for Multiline and Specialty Retailers & Distributors and Waste Management industries.",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "B",
+    "is_correct": true,
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors",
+      "b38-waste-management"
+    ]
+  },
+  {
+    "question": "How does the calculation of certification-related metrics differ between Appliance Manufacturing and Oil & Gas - Refining & Marketing companies?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": [
+      "b2-appliance-manufacturing",
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  }
+]

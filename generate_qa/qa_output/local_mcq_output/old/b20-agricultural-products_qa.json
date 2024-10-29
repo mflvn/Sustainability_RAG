@@ -1,0 +1,377 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the three activity metrics used to measure production in the Agricultural Products industry?",
+    "optionA": "Number of employees, total revenue, and market share",
+    "optionB": "Production by principal crop, number of processing facilities, and total land area under active production",
+    "optionC": "Water consumption, energy usage, and greenhouse gas emissions",
+    "optionD": "Crop yield, fertilizer usage, and pesticide application",
+    "optionE": "Transportation costs, storage capacity, and distribution network size",
+    "answer": "B. Production by principal crop, number of processing facilities, and total land area under active production",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "188",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the industry description, what is critical for agricultural products companies to secure a reliable supply of raw materials and reduce the risk of price increases and volatility?",
+    "optionA": "Investing in advanced farming technologies",
+    "optionB": "Increasing vertical integration",
+    "optionC": "Expanding into new geographic markets",
+    "optionD": "Managing sustainability risks within the supply chain",
+    "optionE": "Developing genetically modified crops",
+    "answer": "D. Managing sustainability risks within the supply chain",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "188",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What is the recommended source for Global Warming Potential (GWP) values when calculating greenhouse gas emissions in CO2 equivalents?",
+    "optionA": "World Resources Institute (WRI)",
+    "optionB": "United Nations Environment Programme (UNEP)",
+    "optionC": "Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report (2014)",
+    "optionD": "Environmental Protection Agency (EPA)",
+    "optionE": "World Business Council on Sustainable Development (WBCSD)",
+    "answer": "C. Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report (2014)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "190",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What tool is recommended for entities to analyze their operations for water risks and identify activities in locations with High or Extremely High Baseline Water Stress?",
+    "optionA": "CDP Water Security questionnaire",
+    "optionB": "FAO AQUASTAT database",
+    "optionC": "UN Global Compact Water Mandate",
+    "optionD": "World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "optionE": "UNEP Global Environment Outlook",
+    "answer": "D. World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "197",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might an agricultural products company's strategy to manage Scope 1 emissions be influenced by both its fleet operations and processing facilities?",
+    "optionA": "By focusing solely on reducing emissions from processing facilities",
+    "optionB": "By implementing renewable energy in fleet vehicles only",
+    "optionC": "By balancing emission reduction efforts between fleet fuel consumption and operational energy use in processing facilities",
+    "optionD": "By offsetting all emissions through carbon credit purchases",
+    "optionE": "By relocating all operations to regions with lower emission regulations",
+    "answer": "C. By balancing emission reduction efforts between fleet fuel consumption and operational energy use in processing facilities",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "190-195",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How can an agricultural products company's water management strategy address both operational risks and supply chain concerns?",
+    "optionA": "By focusing solely on reducing water consumption in processing facilities",
+    "optionB": "By only investing in water-efficient irrigation systems for contracted farmers",
+    "optionC": "By implementing water recycling in processing facilities and sourcing from water-stressed regions",
+    "optionD": "By addressing water efficiency in operations and considering water stress in ingredient sourcing regions",
+    "optionE": "By exclusively using rainwater harvesting for all water needs",
+    "answer": "D. By addressing water efficiency in operations and considering water stress in ingredient sourcing regions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "196-202",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might climate change impact an agricultural products company's financial performance through its effects on both energy consumption and crop sourcing?",
+    "optionA": "Only through increased cooling costs in processing facilities",
+    "optionB": "Exclusively through reduced crop yields in sourcing regions",
+    "optionC": "By affecting energy costs for processing and altering crop availability and prices",
+    "optionD": "Through increased transportation costs due to extreme weather events",
+    "optionE": "By reducing water availability for processing operations only",
+    "answer": "C. By affecting energy costs for processing and altering crop availability and prices",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "194-202",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How can an agricultural products company's sustainability reporting on GHG emissions and water usage contribute to its long-term risk management strategy?",
+    "optionA": "By focusing solely on meeting regulatory compliance requirements",
+    "optionB": "By using the data only for internal process improvements",
+    "optionC": "By informing emission reduction targets and water management practices to mitigate future regulatory and supply chain risks",
+    "optionD": "By reporting the data without any strategic planning or risk assessment",
+    "optionE": "By using the data exclusively for marketing purposes",
+    "answer": "C. By informing emission reduction targets and water management practices to mitigate future regulatory and supply chain risks",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "190-202",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is the 'Agricultural Products' industry primarily engaged in, according to the industry description?",
+    "optionA": "Growing and harvesting crops",
+    "optionB": "Processing, trading, and distributing vegetables and fruits",
+    "optionC": "Retail sale of agricultural goods",
+    "optionD": "Manufacturing farming equipment",
+    "optionE": "Researching genetically modified organisms",
+    "answer": "B. Processing, trading, and distributing vegetables and fruits",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "188",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What does 'renewable fuel' mean in the context of fleet fuel consumption for agricultural products companies?",
+    "optionA": "Any fuel that is not petroleum-based",
+    "optionB": "Fuel produced from corn or soybeans",
+    "optionC": "Electricity used to power vehicles",
+    "optionD": "Fuel produced from renewable biomass that reduces fossil fuel use and achieves net GHG emissions reduction on a lifecycle basis",
+    "optionE": "Any fuel that is cheaper than conventional gasoline",
+    "answer": "D. Fuel produced from renewable biomass that reduces fossil fuel use and achieves net GHG emissions reduction on a lifecycle basis",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "192-193",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "How is water consumption defined for agricultural products companies in the context of water management reporting?",
+    "optionA": "Total water withdrawn from all sources",
+    "optionB": "Water used only for irrigation purposes",
+    "optionC": "Water that evaporates, is incorporated into products, or doesn't return to the same catchment area",
+    "optionD": "Water used for cleaning processing facilities",
+    "optionE": "Rainwater collected and stored by the entity",
+    "answer": "C. Water that evaporates, is incorporated into products, or doesn't return to the same catchment area",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "196-197",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What constitutes 'principal crops' for an agricultural products company in the context of climate change risk assessment?",
+    "optionA": "Any crop grown by the company",
+    "optionB": "Crops that are most affected by climate change",
+    "optionC": "Crops that accounted for 10 percent or more of consolidated revenue in any of the last three reporting periods",
+    "optionD": "The most water-intensive crops in the company's portfolio",
+    "optionE": "Crops with the highest market value",
+    "answer": "C. Crops that accounted for 10 percent or more of consolidated revenue in any of the last three reporting periods",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "200-201",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might climate change impact an agricultural products company's approach to ingredient sourcing, and what strategies could they employ to mitigate related risks?",
+    "optionA": "Focus solely on increasing crop yields",
+    "optionB": "Rely exclusively on genetically modified crops",
+    "optionC": "Implement diverse strategies including supply chain diversification and developing climate-resilient crop varieties",
+    "optionD": "Ignore climate change impacts and maintain current sourcing practices",
+    "optionE": "Shift entirely to indoor farming methods",
+    "answer": "C. Implement diverse strategies including supply chain diversification and developing climate-resilient crop varieties",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "200-201",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "In the context of water management for agricultural products companies, why is it important to consider regions with High or Extremely High Baseline Water Stress?",
+    "optionA": "It only affects the company's public image",
+    "optionB": "It's irrelevant to agricultural operations",
+    "optionC": "It helps in assessing potential regulatory risks",
+    "optionD": "It's crucial for evaluating supply chain vulnerabilities, operational risks, and long-term sustainability",
+    "optionE": "It only matters for companies operating in desert regions",
+    "answer": "D. It's crucial for evaluating supply chain vulnerabilities, operational risks, and long-term sustainability",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "196-197, 201-202",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How does the concept of 'energy management' in the agricultural products industry relate to broader sustainability and operational considerations?",
+    "optionA": "It only affects the company's electricity bills",
+    "optionB": "It's solely about reducing fossil fuel usage",
+    "optionC": "It encompasses environmental impacts, regulatory compliance, operational costs, and long-term resilience",
+    "optionD": "It's irrelevant to agricultural product processing",
+    "optionE": "It only matters for companies using renewable energy",
+    "answer": "C. It encompasses environmental impacts, regulatory compliance, operational costs, and long-term resilience",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "194-195",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "Why is the disclosure of incidents of non-compliance related to water quantity and quality important for understanding an agricultural products company's operational risks?",
+    "optionA": "It only affects the company's public relations",
+    "optionB": "It's irrelevant to the company's financial performance",
+    "optionC": "It provides insight into potential regulatory, financial, and reputational risks facing the company",
+    "optionD": "It only matters for companies operating in water-scarce regions",
+    "optionE": "It's solely about tracking government regulations",
+    "answer": "C. It provides insight into potential regulatory, financial, and reputational risks facing the company",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "199-200",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the specific policy for disclosing greenhouse gas emissions in the Agricultural Products industry according to the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Disclose only Scope 2 emissions",
+    "optionB": "Disclose gross global Scope 1 emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol",
+    "optionC": "Disclose only CO2 emissions",
+    "optionD": "Disclose emissions only if they exceed a certain threshold",
+    "optionE": "No disclosure is required for greenhouse gas emissions",
+    "answer": "B. Disclose gross global Scope 1 emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "190-191",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the required procedure for calculating the percentage of renewable energy consumed by an agricultural products company?",
+    "optionA": "Divide renewable energy by total energy excluding grid electricity",
+    "optionB": "Divide renewable energy by total grid electricity consumed",
+    "optionC": "Divide renewable energy by total energy consumed, including fleet vehicles",
+    "optionD": "Divide renewable energy consumption by total energy consumption, excluding fleet vehicles",
+    "optionE": "No specific calculation is required",
+    "answer": "D. Divide renewable energy consumption by total energy consumption, excluding fleet vehicles",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "194-195",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the IFRS S2 Climate-related Disclosures, what is the policy for determining water consumption in agricultural products operations?",
+    "optionA": "Only water directly used in product manufacturing is considered consumed",
+    "optionB": "All water withdrawn is considered consumed",
+    "optionC": "Water consumption includes evaporated water, water incorporated into products, and water not returned to the same catchment area",
+    "optionD": "Only water purchased from utilities is considered consumed",
+    "optionE": "Water consumption is not specifically defined",
+    "answer": "C. Water consumption includes evaporated water, water incorporated into products, and water not returned to the same catchment area",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "196-197",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the correct procedure for disclosing incidents of non-compliance associated with water quantity and/or quality permits, standards, and regulations?",
+    "optionA": "Disclose all incidents, regardless of enforcement action",
+    "optionB": "Only disclose incidents that resulted in fines",
+    "optionC": "Disclose only incidents that resulted in formal enforcement actions",
+    "optionD": "Report incidents confidentially to regulators only",
+    "optionE": "No disclosure is required for water-related non-compliance incidents",
+    "answer": "C. Disclose only incidents that resulted in formal enforcement actions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "199",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How could an agricultural products company's approach to water management in high-stress regions affect its financial performance and reputation?",
+    "optionA": "Water management has no impact on financial performance or reputation",
+    "optionB": "Focusing on water efficiency could increase costs without any benefits",
+    "optionC": "Ignoring water stress issues is the best strategy for maintaining profitability",
+    "optionD": "Implementing water-saving technologies could lead to short-term financial losses",
+    "optionE": "Proactive water management could reduce operational risks, lower costs, and enhance brand value",
+    "answer": "E. Proactive water management could reduce operational risks, lower costs, and enhance brand value",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "196-199",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might an agricultural products company's energy management strategy influence its long-term competitiveness in the industry?",
+    "optionA": "Energy management has no impact on long-term competitiveness",
+    "optionB": "Focusing solely on using fossil fuels will ensure long-term success",
+    "optionC": "Ignoring energy efficiency will lead to increased profitability",
+    "optionD": "Investing in renewable energy sources will always result in financial losses",
+    "optionE": "A comprehensive energy management strategy, including efficiency measures and renewable sources, could reduce costs and environmental impact, enhancing competitiveness",
+    "answer": "E. A comprehensive energy management strategy, including efficiency measures and renewable sources, could reduce costs and environmental impact, enhancing competitiveness",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "194-195",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How could transparent disclosure of greenhouse gas emissions and reduction strategies affect an agricultural products company's relationship with investors and stakeholders?",
+    "optionA": "Disclosure of emissions data will always lead to negative investor reactions",
+    "optionB": "Transparency has no impact on stakeholder relationships",
+    "optionC": "Hiding emissions data is the best strategy for maintaining positive relationships",
+    "optionD": "Investors are not interested in companies' environmental performance",
+    "optionE": "Transparent disclosure could build trust, demonstrate proactive management, and potentially attract environmentally conscious investors",
+    "answer": "E. Transparent disclosure could build trust, demonstrate proactive management, and potentially attract environmentally conscious investors",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "190-193",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a consideration in the document when discussing water management risks for agricultural products companies?",
+    "optionA": "Environmental constraints",
+    "optionB": "Regulatory constraints",
+    "optionC": "Financial constraints",
+    "optionD": "Technological constraints",
+    "optionE": "Stakeholder perceptions",
+    "answer": "D. Technological constraints",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "197-198",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a specific metric for measuring energy consumption in the Agricultural Products industry?",
+    "optionA": "Operational energy consumed",
+    "optionB": "Percentage of grid electricity used",
+    "optionC": "Percentage of renewable energy used",
+    "optionD": "Energy intensity per unit of production",
+    "optionE": "Fleet fuel consumed",
+    "answer": "D. Energy intensity per unit of production",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "194-195",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  }
+]

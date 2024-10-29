@@ -1,0 +1,128 @@
+[
+  {
+    "question": "What does a company need to disclose regarding the percentage of eligible products certified to an energy efficiency certification?",
+    "answer": "1 The entity shall disclose the percentage of its revenue from eligible products certified to an energy efficiency certification. 1.1 The entity shall calculate the percentage as the revenue from products meeting the requirements for the applicable certification divided by total revenue from products eligible for certification by each certification.",
+    "reference_text": [
+      "1 The entity shall disclose the percentage of its revenue from eligible products certified to an energy efficiency certification.",
+      "1.1 The entity shall calculate the percentage as the revenue from products meeting the requirements for the applicable certification divided by total revenue from products eligible for certification by each certification."
+    ],
+    "pages": [
+      "12"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "question": "What are the requirements for disclosing the percentage of eligible products certified to AHAM sustainability standards?",
+    "answer": "1 The entity shall disclose the percentage of its revenue from eligible products certified to an Association of Home Appliance Manufacturers (AHAM) sustainability standard. 1.1 Eligible products are those addressed by the scope of an AHAM sustainability standard. 1.2 The entity shall calculate the percentage as the revenue from products certified to an AHAM sustainability standard divided by total revenue from products eligible for certification to an AHAM sustainability standard.",
+    "reference_text": [
+      "1 The entity shall disclose the percentage of its revenue from eligible products certified to an Association of Home Appliance Manufacturers (AHAM) sustainability standard.",
+      "1.1 Eligible products are those addressed by the scope of an AHAM sustainability standard.",
+      "1.2 The entity shall calculate the percentage as the revenue from products certified to an AHAM sustainability standard divided by total revenue from products eligible for certification to an AHAM sustainability standard."
+    ],
+    "pages": [
+      "13"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "question": "What should a company describe regarding efforts to manage products' end-of-life impacts?",
+    "answer": "1 The entity shall describe its efforts to manage the end-of-life impacts of its products, including those related to safe and proper disposal or recycling of constituent chemicals and other product components, including, but not limited to, toxic heavy metals (e.g., mercury, cadmium), rigid polymers, refrigerants, and other metals (e.g., steel and aluminum).",
+    "reference_text": [
+      "1 The entity shall describe its efforts to manage the end-of-life impacts of its products, including those related to safe and proper disposal or recycling of constituent chemicals and other product components, including, but not limited to, toxic heavy metals (e.g., mercury, cadmium), rigid polymers, refrigerants, and other metals (e.g., steel and aluminum)."
+    ],
+    "pages": [
+      "13"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "question": "What should a company discuss regarding how it incorporates end-of-life considerations into product design?",
+    "answer": "3 The entity shall discuss how it incorporates end-of-life considerations into the design of its product(s) such as: 3.1 Use of materials that are easily and commonly recyclable in existing recycling infrastructure 3.2 Eliminating or minimizing the use of hazardous materials or materials that may otherwise pose environmental harm upon disposal (e.g., refrigerants with ozone depleting potential and/or global warming potential) 3.3 Designing products for disassembly (i.e., designing products so they can be easily, rapidly, and cost-effectively disassembled with commonly available tools) 3.4 Proper labeling of products and their component materials to facilitate disassembly and recycling",
+    "reference_text": [
+      "3 The entity shall discuss how it incorporates end-of-life considerations into the design of its product(s) such as:",
+      "3.1 Use of materials that are easily and commonly recyclable in existing recycling infrastructure",
+      "3.2 Eliminating or minimizing the use of hazardous materials or materials that may otherwise pose environmental harm upon disposal (e.g., refrigerants with ozone depleting potential and/or global warming potential)",
+      "3.3 Designing products for disassembly (i.e., designing products so they can be easily, rapidly, and cost-effectively disassembled with commonly available tools)",
+      "3.4 Proper labeling of products and their component materials to facilitate disassembly and recycling"
+    ],
+    "pages": [
+      "13",
+      "14"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "question": "What does a company need to disclose regarding the percentage of eligible products certified to an energy efficiency certification?",
+    "answer": "1 The entity shall disclose the percentage of its revenue from eligible products certified to an energy efficiency certification. 1.1 The entity shall calculate the percentage as the revenue from products meeting the requirements for the applicable certification divided by total revenue from products eligible for certification by each certification.",
+    "reference_text": [
+      "1 The entity shall disclose the percentage of its revenue from eligible products certified to an energy efficiency certification.",
+      "1.1 The entity shall calculate the percentage as the revenue from products meeting the requirements for the applicable certification divided by total revenue from products eligible for certification by each certification."
+    ],
+    "pages": [
+      "12"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "question": "What are the requirements for disclosing the percentage of eligible products certified to AHAM sustainability standards?",
+    "answer": "1 The entity shall disclose the percentage of its revenue from eligible products certified to an Association of Home Appliance Manufacturers (AHAM) sustainability standard. 1.1 Eligible products are those addressed by the scope of an AHAM sustainability standard. 1.2 The entity shall calculate the percentage as the revenue from products certified to an AHAM sustainability standard divided by total revenue from products eligible for certification to an AHAM sustainability standard.",
+    "reference_text": [
+      "1 The entity shall disclose the percentage of its revenue from eligible products certified to an Association of Home Appliance Manufacturers (AHAM) sustainability standard.",
+      "1.1 Eligible products are those addressed by the scope of an AHAM sustainability standard.",
+      "1.2 The entity shall calculate the percentage as the revenue from products certified to an AHAM sustainability standard divided by total revenue from products eligible for certification to an AHAM sustainability standard."
+    ],
+    "pages": [
+      "13"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "question": "What should a company describe regarding efforts to manage products' end-of-life impacts?",
+    "answer": "1 The entity shall describe its efforts to manage the end-of-life impacts of its products, including those related to safe and proper disposal or recycling of constituent chemicals and other product components, including, but not limited to, toxic heavy metals (e.g., mercury, cadmium), rigid polymers, refrigerants, and other metals (e.g., steel and aluminum).",
+    "reference_text": [
+      "1 The entity shall describe its efforts to manage the end-of-life impacts of its products, including those related to safe and proper disposal or recycling of constituent chemicals and other product components, including, but not limited to, toxic heavy metals (e.g., mercury, cadmium), rigid polymers, refrigerants, and other metals (e.g., steel and aluminum)."
+    ],
+    "pages": [
+      "13"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "question": "What aspects should a company discuss regarding its participation in extended producer responsibility (EPR) initiatives?",
+    "answer": "4 The entity shall discuss its participation in extended producer responsibility (EPR) initiatives, including the following aspects: 4.1 Whether the entity directly conducts product take-back, recovery, and recycling or if the entity supports infrastructure for product recovery and recycling through joint ventures, partnerships with retailers and others, or by funding research into recycling technologies 4.2 Whether the initiative is voluntary or mandatory (e.g., in order to maintain compliance with EU Directive 2012/19/EU on waste electrical and electronic equipment (WEEE) or the Japan home appliance recycling law) 4.3 Relevant performance measures or targets for the initiative such as the total amount of material recovered and the total amount of material recycled",
+    "reference_text": [
+      "4 The entity shall discuss its participation in extended producer responsibility (EPR) initiatives, including the following aspects:",
+      "4.1 Whether the entity directly conducts product take-back, recovery, and recycling or if the entity supports infrastructure for product recovery and recycling through joint ventures, partnerships with retailers and others, or by funding research into recycling technologies",
+      "4.2 Whether the initiative is voluntary or mandatory (e.g., in order to maintain compliance with EU Directive 2012/19/EU on waste electrical and electronic equipment (WEEE) or the Japan home appliance recycling law)",
+      "4.3 Relevant performance measures or targets for the initiative such as the total amount of material recovered and the total amount of material recycled"
+    ],
+    "pages": [
+      "14"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  }
+]

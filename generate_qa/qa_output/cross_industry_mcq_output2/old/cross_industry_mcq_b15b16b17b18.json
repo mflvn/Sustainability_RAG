@@ -1,0 +1,152 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When disclosing financed emissions, which of the following is a key difference between the reporting requirements for Asset Management & Custody Activities companies and Commercial Banks?",
+    "optionA": "Only Commercial Banks need to disclose Scope 3 emissions",
+    "optionB": "Asset Management companies must disclose emissions intensity, while Commercial Banks do not",
+    "optionC": "Commercial Banks must disclose undrawn loan commitments separately, while Asset Management companies do not have this requirement",
+    "optionD": "Asset Management companies need to disclose emissions for all industries, while Commercial Banks only report on carbon-related industries",
+    "optionE": "Commercial Banks report on a cash basis, while Asset Management companies use accrual accounting for emissions",
+    "answer": "C: Commercial Banks must disclose undrawn loan commitments separately, while Asset Management companies do not have this requirement",
+    "explanation": "According to the IFRS S2 Climate-related Disclosures, Commercial Banks are required to disclose undrawn loan commitments separately when reporting on financed emissions (FN-CB-2, FN-CB-3). This requirement is not present for Asset Management & Custody Activities companies. Both industries are required to disclose Scope 1, 2, and 3 emissions, as well as emissions for all industries, not just carbon-related ones.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Sustainability Disclosure Topics & Metrics"
+    ],
+    "pages": [
+      "149-152",
+      "170-172"
+    ],
+    "pairing_explanation": "These financial industries are key players in integrating sustainability into investment decisions and risk assessments. Cross-industry comparisons can illustrate how each is incorporating ESG criteria into their operations and offerings.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b16-commercial-banks",
+      "b17-insurance",
+      "b18-investment-banking-and-brokerage"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "How does the disclosure requirement for the approach to incorporation of environmental, social, and governance (ESG) factors differ between Insurance companies and Investment Banking & Brokerage firms?",
+    "optionA": "Insurance companies must disclose their approach for individual contracts, while Investment Banking firms do not",
+    "optionB": "Investment Banking firms need to describe their approach for securitization, while Insurance companies do not",
+    "optionC": "Insurance companies are required to discuss scenario analysis, but Investment Banking firms are not",
+    "optionD": "Investment Banking firms must disclose their approach for advisory services, while Insurance companies do not have this requirement",
+    "optionE": "There is no significant difference in the disclosure requirements for both industries",
+    "answer": "A: Insurance companies must disclose their approach for individual contracts, while Investment Banking firms do not",
+    "explanation": "The IFRS S2 Climate-related Disclosures require Insurance companies to describe their approach to incorporation of environmental risks into the underwriting process for individual contracts (FN-IN-450a.3). This specific requirement is not present for Investment Banking & Brokerage firms. While both industries need to disclose their general approach to ESG incorporation, the focus on individual contracts is unique to the Insurance industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Sustainability Disclosure Topics & Metrics"
+    ],
+    "pages": [
+      "165-168",
+      "176-180"
+    ],
+    "pairing_explanation": "These financial industries are key players in integrating sustainability into investment decisions and risk assessments. Cross-industry comparisons can illustrate how each is incorporating ESG criteria into their operations and offerings.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b16-commercial-banks",
+      "b17-insurance",
+      "b18-investment-banking-and-brokerage"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating financed emissions, what is a key difference in the metric used by Commercial Banks compared to Investment Banking & Brokerage firms?",
+    "optionA": "Commercial Banks use gross exposure, while Investment Banking firms use net exposure",
+    "optionB": "Investment Banking firms calculate emissions intensity, while Commercial Banks do not",
+    "optionC": "Commercial Banks include Scope 3 emissions, while Investment Banking firms exclude them",
+    "optionD": "Investment Banking firms use revenue as a factor, while Commercial Banks use gross exposure",
+    "optionE": "Commercial Banks calculate emissions per employee, while Investment Banking firms do not",
+    "answer": "D: Investment Banking firms use revenue as a factor, while Commercial Banks use gross exposure",
+    "explanation": "According to the IFRS S2 Climate-related Disclosures, Investment Banking & Brokerage firms are required to disclose facilitated emissions in relation to their revenue from key business lines (FN-IB-1). In contrast, Commercial Banks report financed emissions in relation to their gross exposure, including funded amounts and undrawn loan commitments (FN-CB-3). This difference reflects the distinct nature of their business models and how they contribute to or facilitate emissions through their activities.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Sustainability Disclosure Topics & Metrics"
+    ],
+    "pages": [
+      "150-152",
+      "181-182"
+    ],
+    "pairing_explanation": "These financial industries are key players in integrating sustainability into investment decisions and risk assessments. Cross-industry comparisons can illustrate how each is incorporating ESG criteria into their operations and offerings.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b16-commercial-banks",
+      "b17-insurance",
+      "b18-investment-banking-and-brokerage"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "In calculating climate-related risk exposure, what metric is unique to the Insurance industry compared to Asset Management & Custody Activities?",
+    "optionA": "Gross exposure to carbon-related industries",
+    "optionB": "Scope 3 emissions of investee companies",
+    "optionC": "Probable Maximum Loss (PML) from weather-related natural catastrophes",
+    "optionD": "Percentage of assets under management in green investments",
+    "optionE": "Carbon intensity of investment portfolios",
+    "answer": "C: Probable Maximum Loss (PML) from weather-related natural catastrophes",
+    "explanation": "The Insurance industry is uniquely required to disclose the Probable Maximum Loss (PML) of insured products from weather-related natural catastrophes (FN-IN-450a.1). This metric is specific to the insurance sector and reflects the potential financial impact of climate-related risks on their business. Asset Management & Custody Activities companies do not have a similar requirement, as their focus is primarily on investment-related climate risks rather than insurance-specific catastrophe risks.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Sustainability Disclosure Topics & Metrics"
+    ],
+    "pages": [
+      "135-140",
+      "163-165"
+    ],
+    "pairing_explanation": "These financial industries are key players in integrating sustainability into investment decisions and risk assessments. Cross-industry comparisons can illustrate how each is incorporating ESG criteria into their operations and offerings.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b16-commercial-banks",
+      "b17-insurance",
+      "b18-investment-banking-and-brokerage"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How does the focus on incentivizing sustainable behavior differ between the Insurance industry and the Commercial Banking industry in their sustainability reporting requirements?",
+    "optionA": "Only Insurance companies are required to report on products incentivizing sustainable behavior",
+    "optionB": "Commercial Banks must report on green loans, while Insurance companies focus on eco-friendly policies",
+    "optionC": "Insurance companies report on health and safety incentives, while Commercial Banks focus solely on environmental aspects",
+    "optionD": "Commercial Banks are required to disclose customer engagement on sustainability, but Insurance companies are not",
+    "optionE": "There is no difference; both industries have identical requirements for reporting on sustainability incentives",
+    "answer": "A: Only Insurance companies are required to report on products incentivizing sustainable behavior",
+    "explanation": "The IFRS S2 Climate-related Disclosures require Insurance companies to discuss products and/or product features that incentivize health, safety, and/or environmentally responsible actions or behaviors (FN-IN-410b.2). This specific requirement is not present for Commercial Banks. While Commercial Banks are expected to incorporate ESG factors into their credit analysis, they do not have a explicit requirement to report on products that incentivize sustainable behavior. This difference highlights the unique role insurance products can play in promoting sustainable practices among policyholders.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Sustainability Disclosure Topics & Metrics"
+    ],
+    "pages": [
+      "146-149",
+      "161-163"
+    ],
+    "pairing_explanation": "These financial industries are key players in integrating sustainability into investment decisions and risk assessments. Cross-industry comparisons can illustrate how each is incorporating ESG criteria into their operations and offerings.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b16-commercial-banks",
+      "b17-insurance",
+      "b18-investment-banking-and-brokerage"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing the Asset Management & Custody Activities industry with the Investment Banking & Brokerage industry, which of the following statements is true regarding their approach to ESG integration in sustainability reporting?",
+    "optionA": "Only Asset Management companies need to disclose their proxy voting policies",
+    "optionB": "Investment Banking firms must report on ESG integration in securitization, while Asset Management companies do not",
+    "optionC": "Asset Management companies focus on long-term investments, while Investment Banking firms only report on short-term transactions",
+    "optionD": "Only Investment Banking firms are required to disclose revenue from ESG-related activities",
+    "optionE": "Both industries have identical requirements for reporting on ESG integration",
+    "answer": "B: Investment Banking firms must report on ESG integration in securitization, while Asset Management companies do not",
+    "explanation": "Investment Banking & Brokerage firms are specifically required to describe their approach to incorporation of ESG factors in securitization activities (FN-IB-410a.3). This requirement is unique to the Investment Banking industry due to their role in creating and marketing securitized financial instruments. Asset Management & Custody Activities companies, on the other hand, focus more on ESG integration in investment management and do not have a specific requirement to report on securitization. Both industries need to disclose their general approach to ESG integration, but the specific activities they report on differ based on their core business functions.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Sustainability Disclosure Topics & Metrics"
+    ],
+    "pages": [
+      "135-140",
+      "176-180"
+    ],
+    "pairing_explanation": "These financial industries are key players in integrating sustainability into investment decisions and risk assessments. Cross-industry comparisons can illustrate how each is incorporating ESG criteria into their operations and offerings.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b16-commercial-banks",
+      "b17-insurance",
+      "b18-investment-banking-and-brokerage"
+    ]
+  }
+]

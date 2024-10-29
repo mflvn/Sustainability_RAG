@@ -1,0 +1,53 @@
+[
+  {
+    "question": "What are the common metrics shared between Coal Operations and Iron & Steel Producers industries, if any?",
+    "optionA": "EM-CO-110a.1 and EM-IS-110a.1, which are both about gross global Scope 1 emissions and percentage covered under emissions-limiting regulations.",
+    "optionB": "There are no common metrics shared between the two industries.",
+    "optionC": "EM-CO-110a.2 and EM-IS-110a.2, which are both about discussion of strategy/plan to manage Scope 1 emissions and emission reduction targets.",
+    "optionD": "EM-CO-140a.1 and EM-IS-140a.1, which are both about total fresh water withdrawn, percentage recycled, and percentage in regions with high water stress.",
+    "optionE": "EM-CO-420a.1 and EM-IS-430a.1, which are about sensitivity of reserves to price scenarios and managing supply chain risks respectively.",
+    "answer": "C",
+    "reference_text": [
+      "For Coal Operations, EM-CO-110a.2 is: 'Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets'",
+      "For Iron & Steel Producers, EM-IS-110a.2 is: 'Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets'"
+    ],
+    "pages": [
+      "45_b7",
+      "73_b9"
+    ],
+    "industries": [
+      "b7-coal-operations",
+      "b9-iron-and-steel-producers"
+    ],
+    "pairing_explanation": "These extractive industries have substantial environmental impacts, including emissions, land use, and water consumption, making them critical to compare in sustainability reporting.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "When preparing sustainability reports, how do the metrics for measuring Greenhouse Gas Emissions differ between the Coal Operations and Iron & Steel Producers industries?",
+    "optionA": "There is no difference in the metrics for measuring Greenhouse Gas Emissions between these two industries.",
+    "optionB": "Coal Operations has an additional metric for estimated carbon dioxide emissions embedded in proven coal reserves.",
+    "optionC": "Iron & Steel Producers has an additional metric for total energy consumed broken down by source.",
+    "optionD": "Coal Operations measures Scope 2 emissions while Iron & Steel Producers measures Scope 1 emissions.",
+    "optionE": "Coal Operations measures emissions reductions while Iron & Steel Producers measures emissions increases.",
+    "answer": "B",
+    "reference_text": [
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|-------|--------|----------|-----------------|------|",
+      "| Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%) | EM-CO-110a.1 |",
+      "| Greenhouse Gas Emissions | Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a | EM-CO-110a.2 |",
+      "| Reserves Valuation & Capital Expenditures | Estimated carbon dioxide emissions embedded in proven coal reserves | Quantitative | Metric tons (t) CO\u2082-e | EM-CO-420a.2 |",
+      "| Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%) | EM-IS-110a.1 |",
+      "| Greenhouse Gas Emissions | Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a | EM-IS-110a.2 |"
+    ],
+    "pages": [
+      "48_b7",
+      "71_b9"
+    ],
+    "industries": [
+      "b7-coal-operations",
+      "b9-iron-and-steel-producers"
+    ],
+    "pairing_explanation": "These extractive industries have substantial environmental impacts, including emissions, land use, and water consumption, making them critical to compare in sustainability reporting.",
+    "qa_type": "multi_hop"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "question": "What is the category of the metric 'Description of approach to incorporation of environmental, social, and governance (ESG) factors in credit analysis' in the Commercial Banks industry?",
+    "optionA": "Quantitative",
+    "optionB": "Discussion and Analysis",
+    "optionC": "Qualitative",
+    "optionD": "Financial",
+    "optionE": "Narrative",
+    "answer": "B",
+    "reference_text": [
+      "| Incorporation of Environ- mental, Social, and Governance Factors in Credit Analysis | Description of approach to incorporation of environmental, social, and governance (ESG) factors in credit analysis | Discussion and Analysis | n/a | FN-CB-410a.2 |"
+    ],
+    "pages": [
+      "Page 144"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0.5,
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "question": "What is the unit of measure for the metric 'Percentage of gross exposure included in the financed emissions calculation' in the Commercial Banks industry (as listed in the relevant table)?",
+    "optionA": "Metric tons (t) CO2-e",
+    "optionB": "Presentation currency",
+    "optionC": "Number",
+    "optionD": "Percentage %",
+    "optionE": "n/a",
+    "answer": "D",
+    "reference_text": [
+      "| | Percentage of gross exposure included in the financed emissions calculation | Quantitative | Percentage % | FN-CB-2 |"
+    ],
+    "pages": [
+      "Page 144"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0.5,
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "question": "What is the code of the metric 'Gross exposure to carbon-related industries, by industry' in the Commercial Banks industry (as listed in the relevant table)?",
+    "optionA": "FN-CB-410a.2",
+    "optionB": "FN-CB-000.A",
+    "optionC": "FN-CB-1",
+    "optionD": "FN-CB-3",
+    "optionE": "FN-CB-5",
+    "answer": "C",
+    "reference_text": [
+      "| | (1) Gross exposure to carbon-related industries, by industry, (2) total gross exposure to all industries, and (3) percentage of total gross exposure for each carbon-related industry | Quantitative | Presentation currency, Percentage % | FN-CB-1 |"
+    ],
+    "pages": [
+      "Page 144"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0.5,
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "question": "For the listed requirement 'Description of the methodology used to calculate financed emissions', what metric should a company in the Commercial Banks industry use for this?",
+    "optionA": "Absolute gross emissions",
+    "optionB": "Emissions intensity",
+    "optionC": "Gross exposure",
+    "optionD": "Financed emissions",
+    "optionE": "Asset classification",
+    "answer": "D",
+    "reference_text": [
+      "FN-CB-5. Description of the methodology used to calculate financed emissions",
+      "1 The entity shall describe the methodology used to calculate financed emissions.",
+      "1.1 Financed emissions refers to the portion of gross emissions of an investee or counterparty attributed to the loans and investments made by the entity to the investee or counterparty which falls under Scope 3: category 15 (investments) in accordance with the GHG Protocol Corporate Value Chain (Scope 3) Standard."
+    ],
+    "pages": [
+      "Page 154"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0.5,
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "question": "What is the category of the metric 'Gross exposure to carbon-related industries' in the Commercial Banks industry and how should this metric be calculated?",
+    "optionA": "Quantitative; calculated using the carrying amount of funded amounts and full amount of undrawn loan commitments.",
+    "optionB": "Discussion and Analysis; calculated using qualitative assessment of industry exposure.",
+    "optionC": "Quantitative; calculated using only the funded carrying amounts.",
+    "optionD": "Discussion and Analysis; calculated using both funded and unfunded amounts.",
+    "optionE": "Quantitative; calculated using the percentage of exposure to carbon-related industries.",
+    "answer": "A",
+    "reference_text": [
+      "1. The entity shall disclose its gross exposure to carbon-related industries, by industry.",
+      "1.1 For funded amounts, gross exposure is defined as the funded carrying amounts expressed in the presentation currency of the entity's financial statements whether prepared in accordance with IFRS Accounting Standards or other GAAP.",
+      "1.2 For undrawn loan commitments, gross exposure is defined as the full amount of the commitment expressed in the presentation currency of the entity's financial statements."
+    ],
+    "pages": [
+      "149"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0.5,
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "question": "What is the code of the metric 'Percentage of gross exposure included in the financed emissions calculation' in the Commercial Banks industry and how should this metric be disclosed?",
+    "optionA": "FN-CB-1; disclosed as a percentage of total gross exposure.",
+    "optionB": "FN-CB-2; disclosed as a percentage of gross exposure to asset classes included in the financed emissions calculation.",
+    "optionC": "FN-CB-3; disclosed as a narrative on the exposure included.",
+    "optionD": "FN-CB-4; disclosed as a percentage of funded amounts only.",
+    "optionE": "FN-CB-5; disclosed as a qualitative analysis of exposure.",
+    "answer": "B",
+    "reference_text": [
+      "FN-CB-2. Percentage of gross exposure included in the financed emissions calculation",
+      "1 The entity shall disclose the percentage of gross exposure to asset classes included in the financed emissions calculation.",
+      "2 The entity shall calculate the percentage by dividing the gross exposure included in the financed emissions calculation by total gross exposure to all industries and asset classes."
+    ],
+    "pages": [
+      "150"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0.5,
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "question": "For the 'Incorporation of Environmental, Social, and Governance Factors in Credit Analysis' topic, what is the unit of measure for the metric 'Description of approach to incorporation of ESG factors in credit analysis' in the Commercial Banks industry?",
+    "optionA": "Percentage",
+    "optionB": "Metric tons (t) CO2-e",
+    "optionC": "n/a",
+    "optionD": "Number",
+    "optionE": "Presentation currency",
+    "answer": "C",
+    "reference_text": [
+      "| Incorporation of Environ- mental, Social, and Governance Factors in Credit Analysis | Description of approach to incorporation of environmental, social, and governance (ESG) factors in credit analysis | Discussion and Analysis | n/a | FN-CB-410a.2 |"
+    ],
+    "pages": [
+      "144"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0.5,
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "question": "What is the category of the metric 'absolute gross Scope 1, Scope 2, and Scope 3 emissions' for each industry by asset class in the Commercial Banks industry and how should this metric be disclosed?",
+    "optionA": "Quantitative; disclosed in metric tons (t) CO2-e for each industry by asset class.",
+    "optionB": "Discussion and Analysis; disclosed as qualitative impacts of emissions.",
+    "optionC": "Quantitative; disclosed only for carbon-related industries.",
+    "optionD": "Discussion and Analysis; disclosed in narrative form for each industry.",
+    "optionE": "Quantitative; disclosed in metric tons (t) CO2-e without specifying industry.",
+    "answer": "A",
+    "reference_text": [
+      "FN-CB-3. For each industry by asset class: (1) absolute gross (a) Scope 1 emissions, (b) Scope 2 emissions, (c) Scope 3 emissions and (2) gross exposure (i.e., financed emissions)",
+      "1 The entity shall disclose its absolute gross financed emissions, disaggregated by Scope 1, Scope 2, and Scope 3 emissions for each industry by asset class.",
+      "1.2 Absolute gross emissions are defined as the total quantity of Scope 1 emissions, Scope 2 emissions or Scope 3 emissions expressed in metric tons of CO2 equivalent (i.e., mt CO2-e)."
+    ],
+    "pages": [
+      "151"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0.5,
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  }
+]

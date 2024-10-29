@@ -1,0 +1,148 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "How do the IFRS S2 Climate-related Disclosures differ in their requirements for water management reporting between the Biofuels industry and the Solar Technology & Project Developers industry?",
+    "optionA": "Only the Biofuels industry is required to report on water management",
+    "optionB": "The Solar industry must report on water quality, while Biofuels reports on water quantity",
+    "optionC": "Both industries have identical water management reporting requirements",
+    "optionD": "Biofuels has more detailed water management metrics and discussion requirements",
+    "optionE": "Solar industry has additional requirements for wastewater treatment disclosure",
+    "answer": "D: Biofuels has more detailed water management metrics and discussion requirements",
+    "explanation": "The Biofuels industry has more comprehensive water management reporting requirements under IFRS S2. It includes specific metrics like total water withdrawn, consumed, and percentage in water-stressed areas (RR-BI-140a.1), as well as detailed discussion requirements about water management risks and strategies (RR-BI-140a.2). The Solar Technology industry has similar metrics but less extensive discussion requirements for water management.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Biofuels",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Solar Technology & Project Developers"
+    ],
+    "pages": [
+      "427-430",
+      "475-478"
+    ],
+    "pairing_explanation": "These industries are central to the renewable energy sector. Comparing their sustainability practices highlights the advancements and challenges in alternative energy systems and their role in reducing carbon emissions.",
+    "industries": [
+      "b40-biofuels",
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "In the IFRS S2 Climate-related Disclosures, what is a key difference in the required disclosures for the Wind Technology & Project Developers industry compared to the Biofuels industry regarding environmental impact?",
+    "optionA": "Wind industry must disclose carbon emissions, while Biofuels does not",
+    "optionB": "Biofuels industry must report on feedstock sourcing, while Wind does not have a comparable requirement",
+    "optionC": "Wind industry must report on bird and bat mortality, while Biofuels has no wildlife impact reporting",
+    "optionD": "Both industries have identical environmental impact disclosure requirements",
+    "optionE": "Wind industry must disclose materials efficiency, while Biofuels focuses on water management",
+    "answer": "E: Wind industry must disclose materials efficiency, while Biofuels focuses on water management",
+    "explanation": "The Wind Technology & Project Developers industry has specific disclosure requirements for materials efficiency, including top five materials consumed by weight (RR-WT-440b.1) and average top head mass per turbine capacity (RR-WT-440b.2). In contrast, the Biofuels industry has detailed requirements for water management disclosures, including water withdrawn and consumed (RR-BI-140a.1) and water management risks (RR-BI-140a.2). This reflects the different environmental priorities and impacts of these two renewable energy industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Wind Technology & Project Developers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Biofuels"
+    ],
+    "pages": [
+      "484-486",
+      "427-430"
+    ],
+    "pairing_explanation": "These industries are central to the renewable energy sector. Comparing their sustainability practices highlights the advancements and challenges in alternative energy systems and their role in reducing carbon emissions.",
+    "industries": [
+      "b40-biofuels",
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the lifecycle greenhouse gas (GHG) emissions for biofuels under IFRS S2 Climate-related Disclosures, which of the following is NOT included in the scope?",
+    "optionA": "Emissions from feedstock generation",
+    "optionB": "Emissions from fuel production",
+    "optionC": "Emissions from fuel distribution",
+    "optionD": "Emissions from fuel consumption by end-users",
+    "optionE": "Emissions from waste disposal of production facilities",
+    "answer": "E: Emissions from waste disposal of production facilities",
+    "explanation": "According to the IFRS S2 Climate-related Disclosures for the Biofuels industry, the lifecycle GHG emissions calculation (RR-BI-410a.1) includes emissions from all stages of fuel and feedstock production and distribution, from feedstock generation through the distribution and delivery of the finished fuel to the ultimate consumer, and use of the fuel. It does not explicitly mention emissions from waste disposal of production facilities. The focus is on the direct lifecycle of the fuel itself.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Biofuels"
+    ],
+    "pages": [
+      "431-432"
+    ],
+    "pairing_explanation": "These industries are central to the renewable energy sector. Comparing their sustainability practices highlights the advancements and challenges in alternative energy systems and their role in reducing carbon emissions.",
+    "industries": [
+      "b40-biofuels",
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "In the Wind Technology & Project Developers industry, how is the 'average top head mass per turbine capacity' metric calculated according to IFRS S2 Climate-related Disclosures?",
+    "optionA": "Total mass of all turbines divided by total capacity",
+    "optionB": "Mass of nacelle and rotor in metric tons divided by turbine capacity in megawatts",
+    "optionC": "Mass of entire turbine including blades divided by nameplate capacity",
+    "optionD": "Mass of nacelle only divided by average annual energy output",
+    "optionE": "Total mass of all components divided by maximum theoretical output",
+    "answer": "B: Mass of nacelle and rotor in metric tons divided by turbine capacity in megawatts",
+    "explanation": "According to the IFRS S2 Climate-related Disclosures for the Wind Technology & Project Developers industry, the 'average top head mass per turbine capacity' metric (RR-WT-440b.2) is calculated as the mass of the top head (which includes the turbine nacelle and the turbine rotor, but excludes the blades) in metric tons divided by turbine capacity in megawatts (MW). The turbine capacity is defined as the rated turbine capacity or nameplate capacity.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Wind Technology & Project Developers"
+    ],
+    "pages": [
+      "485"
+    ],
+    "pairing_explanation": "These industries are central to the renewable energy sector. Comparing their sustainability practices highlights the advancements and challenges in alternative energy systems and their role in reducing carbon emissions.",
+    "industries": [
+      "b40-biofuels",
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the IFRS S2 Climate-related Disclosures for the Biofuels industry and the Solar Technology & Project Developers industry differ in their approach to addressing energy infrastructure integration?",
+    "optionA": "Only the Biofuels industry is required to address energy infrastructure integration",
+    "optionB": "The Solar industry focuses on grid integration, while Biofuels focuses on transportation infrastructure",
+    "optionC": "Both industries have identical requirements for energy infrastructure integration disclosure",
+    "optionD": "The Biofuels industry has no specific requirements, while Solar must address grid integration risks and opportunities",
+    "optionE": "The Solar industry must discuss both risks and opportunities, while Biofuels only addresses risks",
+    "answer": "D: The Biofuels industry has no specific requirements, while Solar must address grid integration risks and opportunities",
+    "explanation": "The IFRS S2 Climate-related Disclosures for the Solar Technology & Project Developers industry include specific requirements to describe risks associated with integration of solar energy into existing energy infrastructure (RR-ST-410a.1) and to discuss risks and opportunities associated with energy policy and its impact on solar energy integration (RR-ST-410a.2). In contrast, the Biofuels industry disclosures do not have a comparable specific requirement for addressing energy infrastructure integration. This difference reflects the unique challenges faced by the solar industry in integrating with the existing electrical grid.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Solar Technology & Project Developers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Biofuels"
+    ],
+    "pages": [
+      "479-482",
+      "426-435"
+    ],
+    "pairing_explanation": "These industries are central to the renewable energy sector. Comparing their sustainability practices highlights the advancements and challenges in alternative energy systems and their role in reducing carbon emissions.",
+    "industries": [
+      "b40-biofuels",
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing the IFRS S2 Climate-related Disclosures for the Wind Technology & Project Developers industry and the Biofuels industry, which of the following statements is true regarding their focus on supply chain sustainability?",
+    "optionA": "Both industries have identical requirements for supply chain sustainability disclosure",
+    "optionB": "The Wind industry focuses on materials efficiency, while Biofuels focuses on feedstock sourcing",
+    "optionC": "Only the Biofuels industry is required to address supply chain sustainability",
+    "optionD": "The Wind industry must disclose supplier diversity, while Biofuels reports on transportation emissions",
+    "optionE": "Neither industry has specific requirements related to supply chain sustainability",
+    "answer": "B: The Wind industry focuses on materials efficiency, while Biofuels focuses on feedstock sourcing",
+    "explanation": "The IFRS S2 Climate-related Disclosures for the Wind Technology & Project Developers industry include requirements to disclose materials efficiency, such as top five materials consumed by weight (RR-WT-440b.1) and approach to optimize materials efficiency (RR-WT-440b.3). In contrast, the Biofuels industry has specific requirements to discuss strategies to manage risks associated with environmental impacts of feedstock production (RR-BI-430a.1) and percentage of biofuel production third-party certified to an environmental sustainability standard (RR-BI-430a.2). This difference reflects the unique supply chain considerations for each industry, with wind focusing on efficient use of manufacturing materials and biofuels emphasizing sustainable sourcing of biological feedstocks.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Wind Technology & Project Developers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Biofuels"
+    ],
+    "pages": [
+      "484-486",
+      "433-434"
+    ],
+    "pairing_explanation": "These industries are central to the renewable energy sector. Comparing their sustainability practices highlights the advancements and challenges in alternative energy systems and their role in reducing carbon emissions.",
+    "industries": [
+      "b40-biofuels",
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ]
+  }
+]

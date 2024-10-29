@@ -1,0 +1,152 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to the IFRS S2 Climate-related Disclosures for Marine Transportation, which of the following is NOT a required activity metric for companies to report?",
+    "optionA": "Number of shipboard employees",
+    "optionB": "Total distance traveled by vessels",
+    "optionC": "Operating days",
+    "optionD": "Average speed of vessels",
+    "optionE": "Deadweight tonnage",
+    "answer": "D. Average speed of vessels",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Marine Transportation",
+    "page": "623",
+    "industries": [
+      "b66-marine-transportation"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing Scope 1 emissions for Marine Transportation companies, which of the following greenhouse gases is NOT covered under the Kyoto Protocol and therefore not required to be reported?",
+    "optionA": "Carbon dioxide (CO\u2082)",
+    "optionB": "Methane (CH\u2084)",
+    "optionC": "Nitrous oxide (N\u2082O)",
+    "optionD": "Sulfur hexafluoride (SF\u2086)",
+    "optionE": "Ozone (O\u2083)",
+    "answer": "E. Ozone (O\u2083)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Marine Transportation",
+    "page": "625",
+    "industries": [
+      "b66-marine-transportation"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When discussing long-term and short-term strategies to manage Scope 1 emissions, which of the following is NOT mentioned as a relevant activity or investment for marine transportation companies?",
+    "optionA": "Route optimization",
+    "optionB": "Use of alternative fuels",
+    "optionC": "System improvements",
+    "optionD": "Upgrading the fleet with new ships",
+    "optionE": "Increasing cargo capacity",
+    "answer": "E. Increasing cargo capacity",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Marine Transportation",
+    "page": "627",
+    "industries": [
+      "b66-marine-transportation"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When calculating the percentage of renewable energy consumed by a marine transportation company, which of the following sources should be EXCLUDED?",
+    "optionA": "Renewable fuel consumed by the entity",
+    "optionB": "Renewable energy directly produced by the entity",
+    "optionC": "Renewable energy purchased through a PPA with explicit RECs",
+    "optionD": "Green-e Energy Certified utility program purchases",
+    "optionE": "The renewable portion of the electricity grid mix outside the entity's control",
+    "answer": "E. The renewable portion of the electricity grid mix outside the entity's control",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Marine Transportation",
+    "page": "628-629",
+    "industries": [
+      "b66-marine-transportation"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the average Energy Efficiency Design Index (EEDI) for new ships, which of the following is the correct unit of measure?",
+    "optionA": "Metric tons of CO\u2082 per nautical mile",
+    "optionB": "Grams of CO\u2082 per ton-nautical mile",
+    "optionC": "Kilograms of CO\u2082 per deadweight ton",
+    "optionD": "Grams of CO\u2082 per TEU-nautical mile",
+    "optionE": "Metric tons of CO\u2082 per operating day",
+    "answer": "B. Grams of CO\u2082 per ton-nautical mile",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Marine Transportation",
+    "page": "629",
+    "industries": [
+      "b66-marine-transportation"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of heavy fuel oil consumed, what is the correct formula to use?",
+    "optionA": "Heavy fuel oil consumption / Total fuel consumption",
+    "optionB": "Heavy fuel oil consumption / (Total energy consumption - Renewable energy consumption)",
+    "optionC": "Heavy fuel oil consumption / Total energy consumption",
+    "optionD": "Heavy fuel oil consumption / (Total fuel consumption + Electricity consumption)",
+    "optionE": "Heavy fuel oil consumption / Gross global Scope 1 emissions",
+    "answer": "C. Heavy fuel oil consumption / Total energy consumption",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Marine Transportation",
+    "page": "628",
+    "industries": [
+      "b66-marine-transportation"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When consolidating and disclosing greenhouse gas (GHG) emissions data, which approach should a marine transportation company align with?",
+    "optionA": "Operational control approach",
+    "optionB": "Equity share approach",
+    "optionC": "Financial control approach",
+    "optionD": "Market share approach",
+    "optionE": "Geographical presence approach",
+    "answer": "C. Financial control approach",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Marine Transportation",
+    "page": "626",
+    "industries": [
+      "b66-marine-transportation"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A marine transportation company is struggling to set appropriate Scope 1 emissions reduction targets. Which of the following is NOT a required element when discussing emission reduction targets in sustainability reporting?",
+    "optionA": "The scope of the emission reduction target",
+    "optionB": "Whether the target is absolute- or intensity-based",
+    "optionC": "The percentage reduction against the base year",
+    "optionD": "The mechanism(s) for achieving the target",
+    "optionE": "The projected financial impact of achieving the target",
+    "answer": "E. The projected financial impact of achieving the target",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Marine Transportation",
+    "page": "626-627",
+    "industries": [
+      "b66-marine-transportation"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When disclosing renewable energy consumption, a marine transportation company is unsure about which sources to include. Which of the following renewable energy sources is NOT within the scope of this disclosure for the industry?",
+    "optionA": "Geothermal energy",
+    "optionB": "Wind energy",
+    "optionC": "Solar energy",
+    "optionD": "Hydroelectric energy",
+    "optionE": "The renewable portion of the electricity grid mix outside the company's control",
+    "answer": "E. The renewable portion of the electricity grid mix outside the company's control",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Marine Transportation",
+    "page": "628-629",
+    "industries": [
+      "b66-marine-transportation"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When calculating energy consumption from biofuels, a marine transportation company is unsure which value to use. According to the IFRS standards, which of the following should be used?",
+    "optionA": "Lower heating values (LHV)",
+    "optionB": "Average heating values (AHV)",
+    "optionC": "Median heating values (MHV)",
+    "optionD": "Higher heating values (HHV)",
+    "optionE": "Standard heating values (SHV)",
+    "answer": "D. Higher heating values (HHV)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Marine Transportation",
+    "page": "628",
+    "industries": [
+      "b66-marine-transportation"
+    ]
+  }
+]

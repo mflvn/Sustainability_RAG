@@ -1,0 +1,76 @@
+[
+  {
+    "question": "How should I report water consumption for the Electronic Manufacturing Services & Original Design Manufacturing industry?",
+    "answer": "The entity shall disclose the amount of water, in thousands of cubic meters, that was consumed in its operations. Water consumption is defined as: Water that evaporates during withdrawal, usage, and discharge; Water that is directly or indirectly incorporated into the entity's product or service; Water that does not otherwise return to the same catchment area from which it was withdrawn, such as water returned to another catchment area or the sea.",
+    "reference_text": [
+      "The entity shall disclose the amount of water, in thousands of cubic meters, that was consumed in its operations.",
+      "Water consumption is defined as:",
+      "Water that evaporates during withdrawal, usage, and discharge;",
+      "Water that is directly or indirectly incorporated into the entity's product or service;",
+      "Water that does not otherwise return to the same catchment area from which it was withdrawn, such as water returned to another catchment area or the sea."
+    ],
+    "pages": [
+      "Page 548",
+      "Page 549"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0.2,
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ]
+  },
+  {
+    "question": "What is the code of the metric for the weight of end-of-life products and e-waste recovered in the Electronic Manufacturing Services & Original Design Manufacturing industry?",
+    "answer": "TC-ES-410a.1",
+    "reference_text": [
+      "| Product Lifecycle Management | Weight of end-of-life products and e- waste recovered, percentage recycled | Quantitative | Metric tons (t), Percentage (%) | TC-ES-410a.1 |"
+    ],
+    "pages": [
+      "Page 547"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0.2,
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ]
+  },
+  {
+    "question": "What is the code of the 'Total water withdrawn' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry and how should this metric be calculated?",
+    "answer": "The code for the 'Total water withdrawn' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry is TC-ES-140a.1. The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from all sources. Water sources include surface water (including water from wetlands, rivers, lakes, and oceans), groundwater, rainwater collected directly and stored by the entity, and water and wastewater obtained from municipal water supplies, water utilities, or other entities.",
+    "reference_text": [
+      "| Water Management | (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percent- age (%) | TC-ES-140a.1 |",
+      "TC-ES-140a.1. (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress",
+      "1 The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from all sources.",
+      "1.1 Water sources include surface water (including water from wetlands, rivers, lakes, and oceans), groundwater, rainwater collected directly and stored by the entity, and water and wastewater obtained from municipal water supplies, water utilities, or other entities."
+    ],
+    "pages": [
+      "547",
+      "548",
+      "549"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0.2,
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ]
+  },
+  {
+    "question": "What is the category of the 'Weight of end-of-life products and e-waste recovered' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry and how should this metric be disclosed?",
+    "answer": "The category of the 'Weight of end-of-life products and e-waste recovered' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry is Quantitative. The entity shall disclose the weight, in metric tons, of end-of-life material that was recovered, including through reverse logistics services, recycling services, product take-back programs, and refurbishment services. End-of-life material that was recovered is defined as products, materials, and parts, including electronic waste material (e-waste), that at the end of their useful life would have otherwise been disposed of as waste or used for energy recovery, but have instead been collected.",
+    "reference_text": [
+      "| Product Lifecycle Management | Weight of end-of-life products and e- waste recovered, percentage recycled | Quantitative | Metric tons (t), Percentage (%) | TC-ES-410a.1 |",
+      "TC-ES-410a.1. Weight of end-of-life products and e-waste recovered, percentage recycled",
+      "1 The entity shall disclose the weight, in metric tons, of end-of-life material that was recovered, including through reverse logistics services, recycling services, product take-back programs, and refurbishment services.",
+      "1.1 End-of-life material that was recovered is defined as products, materials, and parts, including electronic waste material (e-waste), that at the end of their useful life would have otherwise been disposed of as waste or used for energy recovery, but have instead been collected."
+    ],
+    "pages": [
+      "547",
+      "550"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0.2,
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ]
+  }
+]

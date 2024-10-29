@@ -1,0 +1,128 @@
+[
+  {
+    "question": "What does a company need to disclose regarding its gross global Scope 1 greenhouse gas emissions according to the IFRS standards?",
+    "answer": "The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol\u2014carbon dioxide (CO\u2082), methane (CH\u2084), nitrous oxide (N\u2082O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF\u2086), and nitrogen trifluoride (NF\u2083).",
+    "reference_text": [
+      "1 The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol\u2014carbon dioxide (CO\u2082), methane (CH\u2084), nitrous oxide (N\u2082O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF\u2086), and nitrogen trifluoride (NF\u2083)."
+    ],
+    "pages": [
+      "116"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "question": "What should a company discuss regarding its strategy or plan to manage Scope 1 emissions according to the IFRS standards?",
+    "answer": "The entity shall discuss its long-term and short-term strategy or plan to manage its Scope 1 greenhouse gas (GHG) emissions.",
+    "reference_text": [
+      "1 The entity shall discuss its long-term and short-term strategy or plan to manage its Scope 1 greenhouse gas (GHG) emissions."
+    ],
+    "pages": [
+      "118"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "question": "What information should a company disclose regarding its fresh water withdrawal and recycling according to the IFRS standards?",
+    "answer": "1. The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from freshwater sources. 2. The entity shall disclose the percentage of water recycled as the volume, in thousands of cubic meters, recycled divided by the volume of water withdrawn.",
+    "reference_text": [
+      "1. The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from freshwater sources:",
+      "2. The entity shall disclose the percentage of water recycled as the volume, in thousands of cubic meters, recycled divided by the volume of water withdrawn."
+    ],
+    "pages": [
+      "121"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "question": "What should a company disclose regarding the total addressable market and its share for advanced biofuels and associated infrastructure according to the IFRS standards?",
+    "answer": "1 The entity shall provide an estimation of the total addressable market for advanced biofuels and associated infrastructure. 2 The entity shall disclose the share of the total addressable market for advanced biofuels and/or associated infrastructure that it currently captures with its products.",
+    "reference_text": [
+      "1    The entity shall provide an estimation of the total addressable market for advanced biofuels and associated infrastructure.",
+      "2    The entity shall disclose the share of the total addressable market for advanced biofuels and/or associated infrastructure that it currently captures with its products."
+    ],
+    "pages": [
+      "122"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "question": "What information must a company disclose regarding its gross global Scope 1 greenhouse gas emissions according to the IFRS standards?",
+    "answer": "The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol\u2014carbon dioxide (CO\u2082), methane (CH\u2084), nitrous oxide (N\u2082O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF\u2086), and nitrogen trifluoride (NF\u2083). Emissions of all GHGs shall be consolidated and disclosed in metric tons of carbon dioxide equivalents (CO\u2082-e), calculated in accordance with published 100-year time horizon global warming potential (GWP) values.",
+    "reference_text": [
+      "1 The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol\u2014carbon dioxide (CO\u2082), methane (CH\u2084), nitrous oxide (N\u2082O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF\u2086), and nitrogen trifluoride (NF\u2083).",
+      "1.1 Emissions of all GHGs shall be consolidated and disclosed in metric tons of carbon dioxide equivalents (CO\u2082-e), calculated in accordance with published 100-year time horizon global warming potential (GWP) values. To date, the preferred source for GWP factors is the Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report (2014)."
+    ],
+    "pages": [
+      "116"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "question": "What must a company discuss regarding its strategy and targets for managing Scope 1 emissions according to the IFRS standards?",
+    "answer": "The entity shall discuss its long-term and short-term strategy or plan to manage its Scope 1 greenhouse gas (GHG) emissions. The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the scope of the target, whether it is absolute or intensity-based, the percentage reduction, timelines, mechanisms for achieving the target, and any circumstances where the target may be recalculated.",
+    "reference_text": [
+      "1 The entity shall discuss its long-term and short-term strategy or plan to manage its Scope 1 greenhouse gas (GHG) emissions.",
+      "2 The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the following, where relevant:",
+      "2.1 The scope of the emission reduction target (e.g., the percentage of total emissions to which the target is applicable);",
+      "2.2 Whether the target is absolute or intensity-based, and the metric denominator, if it is an intensity-based target;",
+      "2.3 The percentage reduction against the base year, with the base year representing the first year against which emissions are evaluated towards the achievement of the target;",
+      "2.4 The timelines for the reduction activity, including the start year, the target year, and the base year;",
+      "2.5 The mechanism(s) for achieving the target; and",
+      "2.6 Any circumstances in which the target or base year emissions have been, or may be, recalculated retrospectively or the target or base year has been reset which may include, but are not limited to energy efficiency efforts, energy source diversification, carbon capture and storage, or the implementation of leak detection and repair processes."
+    ],
+    "pages": [
+      "118",
+      "119"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "question": "What information must a company disclose regarding its fresh water withdrawal and recycling according to the IFRS standards?",
+    "answer": "The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from freshwater sources. The entity shall disclose the percentage of water recycled as the volume, in thousands of cubic meters, recycled divided by the volume of water withdrawn.",
+    "reference_text": [
+      "1. The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from freshwater sources:",
+      "2. The entity shall disclose the percentage of water recycled as the volume, in thousands of cubic meters, recycled divided by the volume of water withdrawn."
+    ],
+    "pages": [
+      "121"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "question": "What must a company disclose regarding its market share and addressable market for advanced biofuels and associated infrastructure according to the IFRS standards?",
+    "answer": "The entity shall provide an estimation of the total addressable market for advanced biofuels and associated infrastructure. The entity shall disclose the share of the total addressable market for advanced biofuels and/or associated infrastructure that it currently captures with its products. Market share shall be calculated as revenues from these products divided by the size of the total addressable market.",
+    "reference_text": [
+      "1    The entity shall provide an estimation of the total addressable market for advanced biofuels and associated infrastructure.",
+      "2    The entity shall disclose the share of the total addressable market for advanced biofuels and/or associated infrastructure that it currently captures with its products.",
+      "2.1    Market share shall be calculated as revenues from these products divided by the size of the total addressable market."
+    ],
+    "pages": [
+      "122"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  }
+]

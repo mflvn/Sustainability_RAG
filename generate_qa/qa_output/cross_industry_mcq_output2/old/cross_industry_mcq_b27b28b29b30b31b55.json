@@ -1,0 +1,166 @@
+[
+  {
+    "qa_type": "1",
+    "question": "When comparing the Drug Retailers and Health Care Delivery industries, which of the following is a required disclosure for both sectors regarding energy management?",
+    "optionA": "Total energy consumed",
+    "optionB": "Percentage of renewable energy used",
+    "optionC": "Number of energy-efficient facilities",
+    "optionD": "Cost savings from energy reduction initiatives",
+    "optionE": "Energy intensity per square foot of retail space",
+    "answer": "A. Total energy consumed",
+    "explanation": "Both the Drug Retailers (HC-DR-130a.1) and Health Care Delivery (HC-DY-130a.1) industries are required to disclose the total energy consumed as part of their energy management metrics. This is a common requirement across these sectors to provide insight into their overall energy usage and potential environmental impact.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery"
+    ],
+    "pages": [
+      "280",
+      "283"
+    ],
+    "pairing_explanation": "These industries play critical roles in public health and technological advancement. Comparing their sustainability practices can provide insights into managing healthcare delivery, innovation, and overall public well-being.",
+    "industries": [
+      "b27-drug-retailers",
+      "b28-health-care-delivery",
+      "b29-health-care-distributors",
+      "b30-managed-care",
+      "b31-medical-equipment-and-supplies",
+      "b55-hardware"
+    ]
+  },
+  {
+    "qa_type": "1",
+    "question": "In the context of sustainability reporting for the Hardware and Medical Equipment & Supplies industries, which of the following is a common required disclosure related to product lifecycle management?",
+    "optionA": "Percentage of products containing IEC 62474 declarable substances",
+    "optionB": "Total amount of products accepted for take-back and reused, recycled, or donated",
+    "optionC": "Percentage of products meeting ENERGY STAR\u00ae criteria",
+    "optionD": "Number of product recalls due to environmental concerns",
+    "optionE": "Percentage of packaging made from recycled materials",
+    "answer": "B. Total amount of products accepted for take-back and reused, recycled, or donated",
+    "explanation": "Both the Hardware (TC-HW-410a.4) and Medical Equipment & Supplies (HC-MS-410a.2) industries are required to disclose the total amount of products accepted for take-back and reused, recycled, or donated. This metric is crucial for assessing the companies' efforts in managing the end-of-life cycle of their products and promoting a circular economy.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hardware",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies"
+    ],
+    "pages": [
+      "557",
+      "296"
+    ],
+    "pairing_explanation": "These industries play critical roles in public health and technological advancement. Comparing their sustainability practices can provide insights into managing healthcare delivery, innovation, and overall public well-being.",
+    "industries": [
+      "b27-drug-retailers",
+      "b28-health-care-delivery",
+      "b29-health-care-distributors",
+      "b30-managed-care",
+      "b31-medical-equipment-and-supplies",
+      "b55-hardware"
+    ]
+  },
+  {
+    "qa_type": "2",
+    "question": "When calculating the payload fuel economy metric for the Health Care Distributors industry, which of the following formulas should be used?",
+    "optionA": "Total miles traveled / Total gallons of fuel consumed",
+    "optionB": "Total gallons of fuel consumed / Total weight of goods transported",
+    "optionC": "Total gallons of fuel consumed / (Total weight of paid tonnage transported \u00d7 Total distance in miles goods were transported)",
+    "optionD": "Total weight of paid tonnage transported / Total gallons of fuel consumed",
+    "optionE": "Total distance in miles goods were transported / Total gallons of fuel consumed",
+    "answer": "C. Total gallons of fuel consumed / (Total weight of paid tonnage transported \u00d7 Total distance in miles goods were transported)",
+    "explanation": "The correct formula for calculating payload fuel economy in the Health Care Distributors industry is: total gallons of fuel consumed / revenue ton miles (RTM), where revenue ton miles (RTM) = total weight of paid tonnage transported (payload) \u00d7 total distance in miles goods were transported. This metric provides a comprehensive measure of fuel efficiency in relation to the weight and distance of goods transported.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors"
+    ],
+    "pages": [
+      "290"
+    ],
+    "pairing_explanation": "These industries play critical roles in public health and technological advancement. Comparing their sustainability practices can provide insights into managing healthcare delivery, innovation, and overall public well-being.",
+    "industries": [
+      "b27-drug-retailers",
+      "b28-health-care-delivery",
+      "b29-health-care-distributors",
+      "b30-managed-care",
+      "b31-medical-equipment-and-supplies",
+      "b55-hardware"
+    ]
+  },
+  {
+    "qa_type": "2",
+    "question": "In the Hardware industry, when calculating the percentage of products meeting EPEAT registration or equivalent for sustainability reporting, which of the following is the correct approach?",
+    "optionA": "Total number of EPEAT registered products / Total number of all products",
+    "optionB": "Revenue from EPEAT registered products / Total revenue from all products",
+    "optionC": "Number of EPEAT registered product categories / Total number of product categories",
+    "optionD": "Revenue from EPEAT registered products / Revenue from products eligible for EPEAT registration",
+    "optionE": "Number of EPEAT registered products / Number of products eligible for EPEAT registration",
+    "answer": "D. Revenue from EPEAT registered products / Revenue from products eligible for EPEAT registration",
+    "explanation": "The correct approach for calculating the percentage of products meeting EPEAT registration or equivalent in the Hardware industry is: Revenue from EPEAT registered products / Revenue from products eligible for EPEAT registration. This calculation method ensures that the metric reflects the proportion of eligible products that meet the EPEAT standards, providing a more accurate representation of the company's efforts in producing environmentally preferable electronic products.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hardware"
+    ],
+    "pages": [
+      "555"
+    ],
+    "pairing_explanation": "These industries play critical roles in public health and technological advancement. Comparing their sustainability practices can provide insights into managing healthcare delivery, innovation, and overall public well-being.",
+    "industries": [
+      "b27-drug-retailers",
+      "b28-health-care-delivery",
+      "b29-health-care-distributors",
+      "b30-managed-care",
+      "b31-medical-equipment-and-supplies",
+      "b55-hardware"
+    ]
+  },
+  {
+    "qa_type": "3",
+    "question": "When comparing the sustainability reporting considerations for the Managed Care and Health Care Delivery industries, which of the following is a unique focus for the Managed Care sector?",
+    "optionA": "Energy management in facilities",
+    "optionB": "Medical waste management",
+    "optionC": "Patient data security",
+    "optionD": "Climate change impacts on human health",
+    "optionE": "Water consumption in healthcare facilities",
+    "answer": "D. Climate change impacts on human health",
+    "explanation": "The Managed Care industry has a unique focus on climate change impacts on human health in its sustainability reporting considerations. The industry is required to discuss strategies to address the effects of climate change on business operations and how specific risks presented by changes in the geographic incidence, morbidity, and mortality of illnesses and diseases are incorporated into risk models (HC-MC-450a.1). This consideration is not explicitly mentioned for the Health Care Delivery industry in the given standards.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery"
+    ],
+    "pages": [
+      "293",
+      "288"
+    ],
+    "pairing_explanation": "These industries play critical roles in public health and technological advancement. Comparing their sustainability practices can provide insights into managing healthcare delivery, innovation, and overall public well-being.",
+    "industries": [
+      "b27-drug-retailers",
+      "b28-health-care-delivery",
+      "b29-health-care-distributors",
+      "b30-managed-care",
+      "b31-medical-equipment-and-supplies",
+      "b55-hardware"
+    ]
+  },
+  {
+    "qa_type": "3",
+    "question": "When comparing the sustainability reporting requirements for the Hardware and Medical Equipment & Supplies industries, which of the following is a unique consideration for the Medical Equipment & Supplies sector?",
+    "optionA": "Energy efficiency of products",
+    "optionB": "Use of recycled materials in manufacturing",
+    "optionC": "Product take-back programs",
+    "optionD": "Environmental impact of packaging",
+    "optionE": "Management of chemicals associated with human health concerns",
+    "answer": "E. Management of chemicals associated with human health concerns",
+    "explanation": "The Medical Equipment & Supplies industry has a unique consideration in its sustainability reporting requirements regarding the management of chemicals associated with human health concerns. Companies in this industry are required to discuss their process to assess and manage environmental and human health considerations associated with chemicals in products (HC-MS-410a.1). While both industries consider product lifecycle management, the explicit focus on chemicals related to human health is specific to the Medical Equipment & Supplies sector due to the nature of its products and their direct impact on patient health.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hardware",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies"
+    ],
+    "pages": [
+      "554",
+      "295"
+    ],
+    "pairing_explanation": "These industries play critical roles in public health and technological advancement. Comparing their sustainability practices can provide insights into managing healthcare delivery, innovation, and overall public well-being.",
+    "industries": [
+      "b27-drug-retailers",
+      "b28-health-care-delivery",
+      "b29-health-care-distributors",
+      "b30-managed-care",
+      "b31-medical-equipment-and-supplies",
+      "b55-hardware"
+    ]
+  }
+]

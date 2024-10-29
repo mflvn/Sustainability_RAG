@@ -1,0 +1,121 @@
+[
+  {
+    "question": "According to the IFRS standards, what must a company disclose regarding the total energy consumed for its hardware infrastructure?",
+    "answer": "The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ).",
+    "reference_text": [
+      "1. The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ)."
+    ],
+    "pages": [
+      "27"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "question": "What are the requirements for a company to claim the energy it consumes as renewable under the IFRS standards?",
+    "answer": "For any renewable electricity generated on-site, any RECs and GOs must be retained (i.e., not sold) and retired or cancelled on behalf of the entity in order for the entity to claim them as renewable energy. For renewable PPAs and green power products, the agreement must explicitly include and convey that RECs and GOs be retained or replaced and retired or cancelled on behalf of the entity in order for the entity to claim them as renewable energy.",
+    "reference_text": [
+      "3.3.1  For any renewable electricity generated on-site, any RECs and GOs must be retained (i.e., not sold) and retired or cancelled on behalf of the entity in order for the entity to claim them as renewable energy.",
+      "3.3.2  For renewable PPAs and green power products, the agreement must explicitly include and convey that RECs and GOs be retained or replaced and retired or cancelled on behalf of the entity in order for the entity to claim them as renewable energy."
+    ],
+    "pages": [
+      "28"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "question": "What must a company disclose regarding water withdrawn and consumed in regions with high or extremely high baseline water stress?",
+    "answer": "The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn. The entity shall disclose its water consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water consumed.",
+    "reference_text": [
+      "5. The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn.",
+      "6. The entity shall disclose its water consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water consumed."
+    ],
+    "pages": [
+      "29"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "question": "What should a company discuss regarding the integration of environmental considerations into strategic planning for data centers?",
+    "answer": "The entity shall discuss the environmental considerations that it integrates into siting, design, construction, refurbishment, and operational specifications for its data centers, including factors related to energy and water consumption.",
+    "reference_text": [
+      "1. The entity shall discuss the environmental considerations that it integrates into siting, design, construction, refurbishment, and operational specifications for its data centers, including factors related to energy and water consumption."
+    ],
+    "pages": [
+      "29-30"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "question": "According to the IFRS standards, what must a company disclose regarding the total energy consumed and the percentage from renewable sources for its data centers?",
+    "answer": "The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ). The entity shall disclose (3) the percentage of energy it consumed that is renewable energy.",
+    "reference_text": [
+      "1. The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ).",
+      "3. The entity shall disclose (3) the percentage of energy it consumed that is renewable energy."
+    ],
+    "pages": [
+      "27"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "question": "What factors should a company consider when integrating environmental considerations into the strategic planning for its data center needs?",
+    "answer": "Environmental factors may include, but are not limited to, energy-efficiency standards; layout design, such as \"hot aisle/cold aisle\" layouts; and location-based factors, such as accounting for regional humidity, average temperature, water availability and groundwater stress, water permits, regional- or state-level carbon legislation or pricing, and the carbon intensity of electricity from the local grid.",
+    "reference_text": [
+      "1.1 Environmental factors may include, but are not limited to, energy-efficiency standards; layout design, such as \"hot aisle/cold aisle\" layouts; and location-based factors, such as accounting for regional humidity, average temperature, water availability and groundwater stress, water permits, regional- or state-level carbon legislation or pricing, and the carbon intensity of electricity from the local grid."
+    ],
+    "pages": [
+      "30"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "question": "How should a company calculate the total greenhouse gas footprint of its product shipments according to the IFRS standards?",
+    "answer": "The entity shall calculate its disclosure according to EN 16258:2012, Methodology for calculation and declaration of energy consumption and GHG emissions of transport services (freight and passengers). Calculations shall be consistent with the methodology used to calculate the \"tank-to-wheels GHG emissions (Gt)\" result that is described in EN 16258:2012.",
+    "reference_text": [
+      "1.2 The entity shall calculate its disclosure according to EN 16258:2012, Methodology for calculation and declaration of energy consumption and GHG emissions of transport services (freight and passengers).",
+      "1.2.1 Calculations shall be consistent with the methodology used to calculate the \"tank-to-wheels GHG emissions (Gt)\" result that is described in EN 16258:2012."
+    ],
+    "pages": [
+      "31"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "question": "What strategies should a company discuss to reduce the environmental impact of product delivery according to the IFRS standards?",
+    "answer": "Relevant strategies to discuss include, but are not limited to: Discussion of logistics selection, mode selection, and management (e.g., rail transport vs. air freight transport) and/or operation for route efficiency; Discussion of packaging choices, including decisions to utilize recycled or renewable packaging material, decisions to optimize the amount of packaging materials used, use of refillable or reusable packaging, and design for efficient shipping and transport; Discussion of fuel choices and vehicle choices for fleets owned and/or operated by the entity, such as decisions to use renewable and low-emission fuels and low-emission vehicles; Other relevant strategies, such as efforts to reduce idling of vehicles owned and/or operated by the entity, innovations to improve the efficiency of \"last-mile\" delivery, and strategies to optimize delivery times to reduce traffic congestion.",
+    "reference_text": [
+      "2.1 Discussion of logistics selection, mode selection, and management (e.g., rail transport vs. air freight transport) and/or operation for route efficiency",
+      "2.2 Discussion of packaging choices, including, but not limited to, decisions to utilize recycled or renewable (e.g., bio-based plastic) packaging material, decisions to optimize the amount of packaging materials used (e.g., source reduction), use of refillable or reusable packaging, and design for efficient shipping and transport",
+      "2.3 Discussion of fuel choices and vehicle choices for fleets owned and/or operated by the entity, such as decisions to use renewable and low-emission fuels and low-emission vehicles",
+      "2.4 Other relevant strategies, such as efforts to reduce idling of vehicles owned and/or operated by the entity, innovations to improve the efficiency of \"last-mile\" delivery, and strategies to optimize delivery times to reduce traffic congestion"
+    ],
+    "pages": [
+      "32"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  }
+]

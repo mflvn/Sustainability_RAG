@@ -1,0 +1,146 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "According to IFRS standards, what is a key difference in energy management reporting requirements between the Building Products & Furnishings industry and the Real Estate industry?",
+    "optionA": "Only the Real Estate industry must report on renewable energy percentage",
+    "optionB": "Only the Building Products & Furnishings industry must report on grid electricity percentage",
+    "optionC": "The Real Estate industry must report energy consumption by property subsector, while Building Products & Furnishings reports it as a whole",
+    "optionD": "The Building Products & Furnishings industry must report energy ratings, while Real Estate does not",
+    "optionE": "There are no significant differences in energy management reporting requirements",
+    "answer": "C: The Real Estate industry must report energy consumption by property subsector, while Building Products & Furnishings reports it as a whole",
+    "explanation": "The Real Estate industry is required to disclose energy consumption data separately for each property subsector, as specified in IF-RE-130a.2. In contrast, the Building Products & Furnishings industry reports energy consumption as a whole for the company, without breaking it down by property type or subsector.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate"
+    ],
+    "pages": [
+      "16",
+      "362-363"
+    ],
+    "pairing_explanation": "Both industries deal with materials for buildings, offering a perspective on sustainability in product lifecycle and land use.",
+    "industries": [
+      "b3-building-products-and-furnishings",
+      "b36-real-estate"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When reporting on water management, what is a key difference between the Building Products & Furnishings industry and the Real Estate industry according to IFRS standards?",
+    "optionA": "Only the Real Estate industry must report on water stress",
+    "optionB": "The Building Products & Furnishings industry reports on water quality, while Real Estate does not",
+    "optionC": "Real Estate must report water withdrawal by property subsector, while Building Products & Furnishings does not have this requirement",
+    "optionD": "Building Products & Furnishings must report on wastewater treatment, while Real Estate does not",
+    "optionE": "There are no significant differences in water management reporting requirements",
+    "answer": "C: Real Estate must report water withdrawal by property subsector, while Building Products & Furnishings does not have this requirement",
+    "explanation": "The Real Estate industry is required to disclose water withdrawal data separately for each property subsector, as specified in IF-RE-140a.2. The Building Products & Furnishings industry does not have a similar requirement to break down water usage by property type or subsector.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate"
+    ],
+    "pages": [
+      "22-24",
+      "376-378"
+    ],
+    "pairing_explanation": "Both industries deal with materials for buildings, offering a perspective on sustainability in product lifecycle and land use.",
+    "industries": [
+      "b3-building-products-and-furnishings",
+      "b36-real-estate"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "How does the calculation of energy consumption differ between the Building Products & Furnishings industry and the Real Estate industry in IFRS sustainability reporting?",
+    "optionA": "Building Products & Furnishings uses kWh, while Real Estate uses GJ",
+    "optionB": "Real Estate calculates by property subsector, while Building Products & Furnishings calculates as a whole",
+    "optionC": "Building Products & Furnishings includes transportation energy, while Real Estate does not",
+    "optionD": "Real Estate uses a rolling average, while Building Products & Furnishings uses annual totals",
+    "optionE": "There is no significant difference in energy consumption calculation methods",
+    "answer": "B: Real Estate calculates by property subsector, while Building Products & Furnishings calculates as a whole",
+    "explanation": "The Real Estate industry is required to calculate and disclose energy consumption data separately for each property subsector (IF-RE-130a.2), while the Building Products & Furnishings industry calculates and reports energy consumption as a whole for the company, without breaking it down by property type or subsector.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate"
+    ],
+    "pages": [
+      "16-17",
+      "362-366"
+    ],
+    "pairing_explanation": "Both industries deal with materials for buildings, offering a perspective on sustainability in product lifecycle and land use.",
+    "industries": [
+      "b3-building-products-and-furnishings",
+      "b36-real-estate"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "In IFRS sustainability reporting, how does the calculation of water-related metrics differ between the Building Products & Furnishings industry and the Real Estate industry?",
+    "optionA": "Building Products & Furnishings reports in gallons, while Real Estate uses cubic meters",
+    "optionB": "Real Estate must calculate water stress by region, while Building Products & Furnishings does not",
+    "optionC": "Building Products & Furnishings includes water quality metrics, while Real Estate does not",
+    "optionD": "Real Estate calculates water withdrawal by property subsector, while Building Products & Furnishings does not have this requirement",
+    "optionE": "There is no significant difference in water-related metric calculations",
+    "answer": "D: Real Estate calculates water withdrawal by property subsector, while Building Products & Furnishings does not have this requirement",
+    "explanation": "The Real Estate industry is required to calculate and disclose water withdrawal data separately for each property subsector (IF-RE-140a.2), while the Building Products & Furnishings industry does not have a similar requirement to break down water usage calculations by property type or subsector.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate"
+    ],
+    "pages": [
+      "22-24",
+      "376-378"
+    ],
+    "pairing_explanation": "Both industries deal with materials for buildings, offering a perspective on sustainability in product lifecycle and land use.",
+    "industries": [
+      "b3-building-products-and-furnishings",
+      "b36-real-estate"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the Building Products & Furnishings and Real Estate industries differ in their approach to reporting on climate change adaptation in IFRS sustainability disclosures?",
+    "optionA": "Only Real Estate reports on properties in flood zones",
+    "optionB": "Building Products & Furnishings focuses on product resilience, while Real Estate focuses on property resilience",
+    "optionC": "Real Estate must report on climate scenarios, while Building Products & Furnishings does not",
+    "optionD": "Building Products & Furnishings reports on supply chain climate risks, while Real Estate does not",
+    "optionE": "There is no significant difference in climate change adaptation reporting",
+    "answer": "A: Only Real Estate reports on properties in flood zones",
+    "explanation": "The Real Estate industry has a specific requirement (IF-RE-450a.1) to disclose the area of properties located in 100-year flood zones, while the Building Products & Furnishings industry does not have a similar flood zone reporting requirement. This reflects the different nature of climate change risks faced by these industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate"
+    ],
+    "pages": [
+      "15-24",
+      "388-390"
+    ],
+    "pairing_explanation": "Both industries deal with materials for buildings, offering a perspective on sustainability in product lifecycle and land use.",
+    "industries": [
+      "b3-building-products-and-furnishings",
+      "b36-real-estate"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "What is a key difference in sustainability reporting focus between the Building Products & Furnishings industry and the Real Estate industry according to IFRS standards?",
+    "optionA": "Building Products & Furnishings focuses on product lifecycle, while Real Estate focuses on operational efficiency",
+    "optionB": "Real Estate reports on tenant sustainability, while Building Products & Furnishings does not have a similar focus",
+    "optionC": "Building Products & Furnishings emphasizes material sourcing, while Real Estate emphasizes location-based risks",
+    "optionD": "Real Estate focuses on energy ratings, while Building Products & Furnishings focuses on product energy efficiency",
+    "optionE": "There is no significant difference in sustainability reporting focus",
+    "answer": "B: Real Estate reports on tenant sustainability, while Building Products & Furnishings does not have a similar focus",
+    "explanation": "The Real Estate industry has specific requirements to report on tenant sustainability impacts (IF-RE-410a.1, IF-RE-410a.2, IF-RE-410a.3), including metrics related to tenant energy and water consumption and strategies for improving tenant sustainability. The Building Products & Furnishings industry does not have similar requirements focused on end-user or customer sustainability impacts.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate"
+    ],
+    "pages": [
+      "15-24",
+      "383-388"
+    ],
+    "pairing_explanation": "Both industries deal with materials for buildings, offering a perspective on sustainability in product lifecycle and land use.",
+    "industries": [
+      "b3-building-products-and-furnishings",
+      "b36-real-estate"
+    ]
+  }
+]

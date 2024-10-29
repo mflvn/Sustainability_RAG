@@ -1,0 +1,377 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the seven greenhouse gases (GHGs) covered under the Kyoto Protocol that metals and mining companies need to disclose in their Scope 1 emissions?",
+    "optionA": "Carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, sulfur hexafluoride, and nitrogen trifluoride",
+    "optionB": "Carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, sulfur hexafluoride, and ozone",
+    "optionC": "Carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, sulfur dioxide, and nitrogen trifluoride",
+    "optionD": "Carbon dioxide, methane, nitrous oxide, chlorofluorocarbons, perfluorocarbons, sulfur hexafluoride, and nitrogen trifluoride",
+    "optionE": "Carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, hydrochlorofluorocarbons, sulfur hexafluoride, and nitrogen trifluoride",
+    "answer": "A. Carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, sulfur hexafluoride, and nitrogen trifluoride",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "82",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the document, what is the preferred source for global warming potential (GWP) values used in calculating greenhouse gas emissions?",
+    "optionA": "The World Resources Institute (WRI) guidelines",
+    "optionB": "The Intergovernmental Panel on Climate Change (IPCC) Fourth Assessment Report",
+    "optionC": "The Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report (2014)",
+    "optionD": "The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard",
+    "optionE": "The United Nations Framework Convention on Climate Change (UNFCCC) guidelines",
+    "answer": "C. The Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report (2014)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "82",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What is the definition of 'renewable energy' according to the Energy Management section of the document?",
+    "optionA": "Energy from sources that are replenished within a human lifetime",
+    "optionB": "Energy from sources that are replenished at a rate greater than or equal to their rate of depletion",
+    "optionC": "Energy from non-fossil fuel sources",
+    "optionD": "Energy from sources that do not produce greenhouse gas emissions",
+    "optionE": "Energy from sources that are naturally occurring and continuously available",
+    "answer": "B. Energy from sources that are replenished at a rate greater than or equal to their rate of depletion",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "86-87",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the Water Management section, how is water consumption defined in the context of metals and mining operations?",
+    "optionA": "Water that is used in any part of the mining process",
+    "optionB": "Water that is withdrawn from freshwater sources",
+    "optionC": "Water that evaporates, is incorporated into products, or does not return to the same catchment area",
+    "optionD": "Water that is contaminated during the mining and processing operations",
+    "optionE": "Water that is recycled and reused within the mining facility",
+    "answer": "C. Water that evaporates, is incorporated into products, or does not return to the same catchment area",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "88",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might a metals and mining company's strategy to manage Scope 1 emissions be affected by both its geographical location and the emissions-limiting regulations in place?",
+    "optionA": "By focusing solely on reducing emissions in regions without regulations",
+    "optionB": "By implementing uniform emission reduction strategies across all operations",
+    "optionC": "By tailoring strategies to specific business units and regional regulations while setting global targets",
+    "optionD": "By ignoring geographical differences and focusing only on global emission targets",
+    "optionE": "By outsourcing high-emission activities to regions with fewer regulations",
+    "answer": "C. By tailoring strategies to specific business units and regional regulations while setting global targets",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "84-85",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How does the energy intensity of mining operations relate to deposit grades, and what implications does this have for a company's energy management strategy?",
+    "optionA": "Energy intensity decreases with lower grade deposits, so companies should focus on finding high-grade deposits",
+    "optionB": "Energy intensity increases with lower grade deposits, requiring companies to balance energy efficiency, source selection, and alternative energy use",
+    "optionC": "Energy intensity is unrelated to deposit grades, so companies should focus solely on renewable energy sources",
+    "optionD": "Energy intensity is constant regardless of deposit grades, so companies should prioritize grid electricity",
+    "optionE": "Energy intensity only relates to the depth of mining, not deposit grades, so companies should focus on shallow mining operations",
+    "answer": "B. Energy intensity increases with lower grade deposits, requiring companies to balance energy efficiency, source selection, and alternative energy use",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "86",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "In the context of water management for metals and mining companies, how do regional water availability and regulatory environments intersect to impact operational risks and strategies?",
+    "optionA": "They have no impact on operational risks or strategies",
+    "optionB": "They only affect water quality, not quantity management",
+    "optionC": "They influence risks and strategies uniformly across all regions",
+    "optionD": "They create varying levels of risk and require tailored strategies based on local water stress and regulations",
+    "optionE": "They only matter for companies operating in desert regions",
+    "answer": "D. They create varying levels of risk and require tailored strategies based on local water stress and regulations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "88-89",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How do the disclosure requirements for energy consumption, grid electricity usage, and renewable energy use collectively inform stakeholders about a metals and mining company's energy management practices?",
+    "optionA": "They only provide information about the company's carbon footprint",
+    "optionB": "They offer insights into energy efficiency but not sustainability practices",
+    "optionC": "They demonstrate the company's compliance with regulations but not its strategic approach to energy",
+    "optionD": "They provide a comprehensive view of the company's energy sources, efficiency, and commitment to sustainability",
+    "optionE": "They only matter for companies operating in regions with strict energy regulations",
+    "answer": "D. They provide a comprehensive view of the company's energy sources, efficiency, and commitment to sustainability",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "86-87",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "In the Metals & Mining industry, how is 'fresh water' defined for reporting purposes when there is no regulatory definition?",
+    "optionA": "Water that has less than 1000 parts per million of dissolved solids",
+    "optionB": "Water obtained from a water utility in compliance with jurisdictional drinking water regulations",
+    "optionC": "Water that has not been used in any industrial processes",
+    "optionD": "Water sourced directly from natural bodies like rivers and lakes",
+    "optionE": "Water that has a pH level between 6.5 and 8.5",
+    "answer": "A. Water that has less than 1000 parts per million of dissolved solids",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "88",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What does 'gross emissions' refer to in the context of greenhouse gas (GHG) reporting for metals and mining companies?",
+    "optionA": "GHGs emitted into the atmosphere before accounting for offsets, credits, or other similar mechanisms",
+    "optionB": "The total amount of GHGs produced by all company operations globally",
+    "optionC": "GHGs emitted after subtracting carbon offsets and credits",
+    "optionD": "The sum of Scope 1, 2, and 3 emissions",
+    "optionE": "The maximum amount of GHGs allowed under emissions-limiting regulations",
+    "answer": "A. GHGs emitted into the atmosphere before accounting for offsets, credits, or other similar mechanisms",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "82",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "In the context of energy management for metals and mining companies, how is renewable energy defined?",
+    "optionA": "Energy from sources that are replenished at a rate greater than or equal to their rate of depletion",
+    "optionB": "Energy derived solely from solar and wind sources",
+    "optionC": "Any energy source that does not produce carbon emissions",
+    "optionD": "Energy produced on-site by the company's own facilities",
+    "optionE": "Energy purchased from the grid that is certified as 'green' by the supplier",
+    "answer": "A. Energy from sources that are replenished at a rate greater than or equal to their rate of depletion",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "86-87",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might the energy intensity of mining operations change as mineral deposits become less accessible, and what implications does this have for a company's environmental impact and operational costs?",
+    "optionA": "Energy intensity remains constant regardless of deposit accessibility",
+    "optionB": "Energy intensity decreases as deposits become less accessible",
+    "optionC": "Energy intensity increases with decreasing grades and increasing depth of deposits, potentially raising costs and environmental impact",
+    "optionD": "Energy intensity is solely determined by the type of mineral being extracted",
+    "optionE": "Energy intensity fluctuates randomly and has no correlation with deposit accessibility",
+    "answer": "C. Energy intensity increases with decreasing grades and increasing depth of deposits, potentially raising costs and environmental impact",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "86",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "Why is the disclosure of incidents of non-compliance with water quality permits and regulations significant for understanding a metals and mining company's environmental performance?",
+    "optionA": "It only matters for public relations purposes",
+    "optionB": "Non-compliance incidents are irrelevant to environmental performance",
+    "optionC": "It provides insight into the company's operational efficiency",
+    "optionD": "It reflects the company's commitment to environmental stewardship, regulatory compliance, and potential operational and reputational risks",
+    "optionE": "Non-compliance incidents only affect the company's stock price",
+    "answer": "D. It reflects the company's commitment to environmental stewardship, regulatory compliance, and potential operational and reputational risks",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "89",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might the trend of decreasing ore grades in mining operations affect a company's greenhouse gas emissions strategy and energy management approach?",
+    "optionA": "It would have no significant impact on emissions or energy use",
+    "optionB": "It could lead to decreased energy consumption as operations become more targeted",
+    "optionC": "It would likely increase energy intensity, potentially leading to higher emissions and a need for more efficient energy management",
+    "optionD": "It would only affect water usage, not energy or emissions",
+    "optionE": "It would result in lower operational costs due to reduced material processing",
+    "answer": "C: It would likely increase energy intensity, potentially leading to higher emissions and a need for more efficient energy management",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "86",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "In the context of the Metals & Mining industry's disclosure requirements, how does the concept of 'emissions-limiting regulations' relate to a company's global operations and financial reporting?",
+    "optionA": "It only applies to voluntary emissions reduction programs",
+    "optionB": "It requires companies to reduce emissions equally across all global operations",
+    "optionC": "It has no connection to financial reporting or global operations",
+    "optionD": "It relates to the percentage of global Scope 1 emissions covered by mandatory emissions control regulations, aligned with financial reporting boundaries",
+    "optionE": "It only applies to Scope 2 and 3 emissions in the company's home country",
+    "answer": "D: It relates to the percentage of global Scope 1 emissions covered by mandatory emissions control regulations, aligned with financial reporting boundaries",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "83-84",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the prescribed methodology for calculating Scope 1 greenhouse gas emissions in the Metals & Mining industry?",
+    "optionA": "Using the entity's own proprietary calculation methods",
+    "optionB": "Following the methodology in The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard",
+    "optionC": "Estimating based on industry averages",
+    "optionD": "Using only direct measurements from emissions monitoring systems",
+    "optionE": "Calculating based on fuel consumption alone",
+    "answer": "B. Following the methodology in The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "82-83",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the disclosure requirements, how should a metals and mining company calculate the percentage of its energy consumption that comes from renewable sources?",
+    "optionA": "Renewable energy consumption divided by total electricity consumption",
+    "optionB": "Renewable electricity generation divided by total energy consumption",
+    "optionC": "Renewable energy consumption divided by total energy consumption",
+    "optionD": "Renewable fuel consumption divided by total fuel consumption",
+    "optionE": "Renewable energy purchases divided by total energy purchases",
+    "answer": "C. Renewable energy consumption divided by total energy consumption",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "86-87",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What specific requirement must be met for a metals and mining company to claim renewable energy credits (RECs) or Guarantees of Origin (GOs) as part of its renewable energy consumption?",
+    "optionA": "The RECs or GOs must be purchased from a government-approved source",
+    "optionB": "The RECs or GOs must be retained and retired or cancelled on behalf of the entity",
+    "optionC": "The RECs or GOs must be sold to other companies to promote renewable energy use",
+    "optionD": "The RECs or GOs must be reported to local environmental agencies",
+    "optionE": "The RECs or GOs must be exchanged for carbon credits",
+    "answer": "B. The RECs or GOs must be retained and retired or cancelled on behalf of the entity",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "87",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "When disclosing water-related information, how does the Metals & Mining industry standard define areas of 'High Baseline Water Stress'?",
+    "optionA": "Regions where water demand exceeds 50% of available supply",
+    "optionB": "Areas with annual rainfall below 500mm",
+    "optionC": "Locations where groundwater depletion is occurring at a rate of 1% per year",
+    "optionD": "Regions classified as 40-80% water stressed by the WRI Water Risk Atlas tool, Aqueduct",
+    "optionE": "Areas where water conflicts have occurred in the past 5 years",
+    "answer": "D. Regions classified as 40-80% water stressed by the WRI Water Risk Atlas tool, Aqueduct",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "88-89",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the energy intensity of mining operations affect a company's competitiveness in the global metals market, and what strategies could be employed to address this challenge?",
+    "optionA": "Energy intensity has no impact on competitiveness in the metals market",
+    "optionB": "Companies should focus solely on securing cheap, non-renewable energy sources to remain competitive",
+    "optionC": "Implementing energy efficiency measures and diversifying energy sources, including renewables, can help manage costs and improve competitiveness",
+    "optionD": "Outsourcing all energy-intensive operations to third-party contractors is the best strategy",
+    "optionE": "Reducing production volume is the only way to address energy intensity challenges",
+    "answer": "C. Implementing energy efficiency measures and diversifying energy sources, including renewables, can help manage costs and improve competitiveness",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "86-87",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "In what ways could a metals and mining company's water management practices in water-stressed regions impact its long-term operational sustainability and social license to operate?",
+    "optionA": "Water management practices have no impact on operational sustainability or social license to operate",
+    "optionB": "Companies should prioritize water usage over local communities to maintain production levels",
+    "optionC": "Implementing efficient water use, recycling, and community engagement can enhance sustainability and maintain social license",
+    "optionD": "Relocating operations to water-rich regions is the only viable long-term solution",
+    "optionE": "Paying fines for excessive water use is more cost-effective than implementing water management practices",
+    "answer": "C. Implementing efficient water use, recycling, and community engagement can enhance sustainability and maintain social license",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "88-89",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How could a metals and mining company's energy management strategy influence its resilience to market fluctuations and environmental regulations?",
+    "optionA": "By solely relying on grid electricity to avoid investment in energy infrastructure",
+    "optionB": "Through maintaining current energy consumption patterns without considering alternatives",
+    "optionC": "By diversifying energy sources, increasing renewable energy usage, and improving energy efficiency to reduce costs and emissions",
+    "optionD": "Through focusing exclusively on reducing energy costs without regard for environmental impact",
+    "optionE": "By outsourcing all energy-intensive operations to third parties",
+    "answer": "C. By diversifying energy sources, increasing renewable energy usage, and improving energy efficiency to reduce costs and emissions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "86-87",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following environmental impacts is NOT mentioned as a major concern for the Metals & Mining industry in the provided content?",
+    "optionA": "Greenhouse gas emissions",
+    "optionB": "Energy consumption",
+    "optionC": "Water management",
+    "optionD": "Noise pollution",
+    "optionE": "Air quality",
+    "answer": "D. Noise pollution",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "81-89",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT listed as a component of the 'Activity Metrics' for the Metals & Mining industry?",
+    "optionA": "Production of metal ores",
+    "optionB": "Production of finished metal products",
+    "optionC": "Total number of employees",
+    "optionD": "Percentage of contractors",
+    "optionE": "Annual revenue",
+    "answer": "E. Annual revenue",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "81",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a typical parameter of concern for water quality incidents in the Metals & Mining industry?",
+    "optionA": "Arsenic",
+    "optionB": "Copper",
+    "optionC": "Cyanide",
+    "optionD": "Radium-226",
+    "optionE": "Mercury",
+    "answer": "E. Mercury",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "89",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  }
+]

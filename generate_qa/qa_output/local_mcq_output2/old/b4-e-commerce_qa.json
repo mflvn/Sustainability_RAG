@@ -1,0 +1,152 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When calculating the total energy consumed by an e-commerce company, which of the following is NOT included in the scope of energy consumption?",
+    "optionA": "Energy purchased from external sources",
+    "optionB": "Self-generated energy",
+    "optionC": "Direct fuel usage",
+    "optionD": "Energy consumed by the company's suppliers",
+    "optionE": "Heating, cooling, and steam energy",
+    "answer": "D. Energy consumed by the company's suppliers",
+    "reference": "Hardware Infrastructure Energy & Water Management",
+    "page": "27",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2, how should an e-commerce company calculate the percentage of renewable energy consumed?",
+    "optionA": "Renewable energy produced / Total energy consumed",
+    "optionB": "Renewable energy purchased / Total energy consumed",
+    "optionC": "Renewable energy consumed / Total energy consumed",
+    "optionD": "(Renewable energy produced + purchased) / Total energy consumed",
+    "optionE": "(Renewable energy produced + purchased - sold) / Total energy consumed",
+    "answer": "C. Renewable energy consumed / Total energy consumed",
+    "reference": "Hardware Infrastructure Energy & Water Management",
+    "page": "27-28",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing water consumption for an e-commerce company, which of the following is NOT considered as water consumption according to IFRS S2?",
+    "optionA": "Water that evaporates during withdrawal, usage, and discharge",
+    "optionB": "Water that is directly incorporated into the entity's product or service",
+    "optionC": "Water that is indirectly incorporated into the entity's product or service",
+    "optionD": "Water that is returned to the same catchment area from which it was withdrawn",
+    "optionE": "Water that is returned to another catchment area or the sea",
+    "answer": "D. Water that is returned to the same catchment area from which it was withdrawn",
+    "reference": "Hardware Infrastructure Energy & Water Management",
+    "page": "29",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When calculating the greenhouse gas (GHG) footprint of product shipments, which of the following is NOT included in the scope of disclosure for an e-commerce company?",
+    "optionA": "Emissions from the entity's own transportation assets",
+    "optionB": "Emissions from contract carriers",
+    "optionC": "Emissions from outsourced freight forwarding services",
+    "optionD": "Emissions from all modes of transportation (road, air, barge, marine, rail)",
+    "optionE": "Well-to-tank emissions associated with primary energy production",
+    "answer": "E. Well-to-tank emissions associated with primary energy production",
+    "reference": "Product Packaging & Distribution",
+    "page": "31-32",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "According to IFRS S2, when disclosing water-related metrics for an e-commerce company, which water stress classification tool should be used to identify high-risk areas?",
+    "optionA": "CDP Water Security Questionnaire",
+    "optionB": "World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "optionC": "UN Global Compact CEO Water Mandate",
+    "optionD": "FAO's Global Information System on Water and Agriculture (AQUASTAT)",
+    "optionE": "UNEP's Global Environment Outlook (GEO)",
+    "answer": "B. World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "reference": "Hardware Infrastructure Energy & Water Management",
+    "page": "29",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When disclosing the Power Usage Effectiveness (PUE) for data centers, which guidance should an e-commerce company follow according to IFRS S2?",
+    "optionA": "ENERGY STAR Score for Data Centers",
+    "optionB": "EU Code of Conduct for Data Centre Energy Efficiency",
+    "optionC": "PUE\u2122: A Comprehensive Examination of the Metric (2014), by ASHRAE and The Green Grid Association",
+    "optionD": "ISO/IEC 30134-2:2016",
+    "optionE": "NREL's Best Practices Guide for Energy-Efficient Data Center Design",
+    "answer": "C. PUE\u2122: A Comprehensive Examination of the Metric (2014), by ASHRAE and The Green Grid Association",
+    "reference": "Hardware Infrastructure Energy & Water Management",
+    "page": "28-29",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "An e-commerce company is trying to reduce its environmental impact from product delivery. According to IFRS S2, which of the following strategies is NOT mentioned as a relevant approach to discuss?",
+    "optionA": "Logistics and mode selection for route efficiency",
+    "optionB": "Packaging choices, including recycled or renewable materials",
+    "optionC": "Fuel and vehicle choices for company-owned fleets",
+    "optionD": "Efforts to reduce idling of vehicles",
+    "optionE": "Implementing a customer carbon offset program",
+    "answer": "E. Implementing a customer carbon offset program",
+    "reference": "Product Packaging & Distribution",
+    "page": "32",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When discussing the integration of environmental considerations into strategic planning for data center needs, which of the following factors is NOT explicitly mentioned in IFRS S2 for e-commerce companies to consider?",
+    "optionA": "Energy-efficiency standards",
+    "optionB": "Layout design, such as 'hot aisle/cold aisle' layouts",
+    "optionC": "Regional humidity and average temperature",
+    "optionD": "Water availability and groundwater stress",
+    "optionE": "Proximity to renewable energy sources",
+    "answer": "E. Proximity to renewable energy sources",
+    "reference": "Hardware Infrastructure Energy & Water Management",
+    "page": "29-30",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "An e-commerce company is preparing its sustainability report and needs to disclose its renewable energy consumption. According to IFRS S2, which of the following sources of renewable energy should NOT be included in this calculation?",
+    "optionA": "Renewable energy directly produced by the company",
+    "optionB": "Renewable energy purchased through a power purchase agreement (PPA) with explicit RECs",
+    "optionC": "The renewable portion of the general electricity grid mix",
+    "optionD": "Renewable fuel consumed by the company",
+    "optionE": "Green-e Energy Certified utility program purchases",
+    "answer": "C. The renewable portion of the general electricity grid mix",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+    "page": "28",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "An e-commerce company is evaluating its water consumption for sustainability reporting. According to IFRS S2, how should the company define water consumption in regions with high water stress?",
+    "optionA": "Total water withdrawn minus total water discharged",
+    "optionB": "Only water used in data center cooling systems",
+    "optionC": "Water that evaporates, is incorporated into products, or doesn't return to the same catchment area",
+    "optionD": "Total water withdrawn from all sources",
+    "optionE": "Water used only in office buildings and warehouses",
+    "answer": "C. Water that evaporates, is incorporated into products, or doesn't return to the same catchment area",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+    "page": "29",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When reporting on land use and ecological impacts, how do the disclosure requirements differ between Home Builders and Construction Materials companies?",
+    "optionA": "Home Builders must report on lots in flood zones, while Construction Materials companies report on air emissions",
+    "optionB": "Construction Materials companies must report on water recycling, while Home Builders report on redevelopment sites",
+    "optionC": "Both industries must report on the same environmental metrics",
+    "optionD": "Home Builders report on redevelopment sites and flood zones, while Construction Materials companies report on air emissions and water recycling",
+    "optionE": "Neither industry has specific land use and ecological impact reporting requirements",
+    "answer": "D: Home Builders report on redevelopment sites and flood zones, while Construction Materials companies report on air emissions and water recycling",
+    "explanation": "The IFRS standards require different disclosures for land use and ecological impacts in these industries. Home Builders must report on the number of lots and homes delivered on redevelopment sites (IF-HB-160a.1) and the number of lots located in 100-year flood zones (IF-HB-420a.1). Construction Materials companies, on the other hand, must disclose air emissions of specific pollutants (EM-CM-120a.1) and total fresh water withdrawn, percentage recycled, and percentage in water-stressed regions (EM-CM-140a.1).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Construction Materials",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders"
+    ],
+    "pages": [
+      "59-60",
+      "348-350"
+    ],
+    "pairing_explanation": "Home building and the creation of construction materials both have substantial impacts on resource extraction, land use, and waste generation.",
+    "industries": [
+      "b8-construction-materials",
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "Which of the following is a required disclosure for both Home Builders and Construction Materials companies under IFRS sustainability reporting standards?",
+    "optionA": "Number of homes certified to a third-party green building standard",
+    "optionB": "Percentage of products qualifying for sustainable building credits",
+    "optionC": "Total energy consumed and percentage from renewable sources",
+    "optionD": "Amount of waste generated and percentage recycled",
+    "optionE": "Discussion of climate change risk exposure and mitigation strategies",
+    "answer": "E: Discussion of climate change risk exposure and mitigation strategies",
+    "explanation": "Both Home Builders and Construction Materials companies are required to discuss their climate change risk exposure and mitigation strategies. For Home Builders, this is covered under IF-HB-420a.2, which requires a 'Description of climate change risk exposure analysis, degree of systematic portfolio exposure, and strategies for mitigating risks'. For Construction Materials companies, it's addressed in EM-CM-110a.2, which requires a 'Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets'. While the specific focus may differ slightly, both industries must address climate change risks and strategies.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Construction Materials",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders"
+    ],
+    "pages": [
+      "55-58",
+      "356"
+    ],
+    "pairing_explanation": "Home building and the creation of construction materials both have substantial impacts on resource extraction, land use, and waste generation.",
+    "industries": [
+      "b8-construction-materials",
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "How does the calculation of water-related metrics differ between Home Builders and Construction Materials companies?",
+    "optionA": "Home Builders report on water fixture efficiency, while Construction Materials companies report on total water withdrawn",
+    "optionB": "Construction Materials companies report on water recycling, while Home Builders don't have water-related metrics",
+    "optionC": "Both industries use identical water-related metrics",
+    "optionD": "Home Builders report on water fixture efficiency and lots in water-stressed regions, while Construction Materials companies report on total water withdrawn, recycled percentage, and water-stressed regions",
+    "optionE": "Neither industry has water-related metrics",
+    "answer": "D: Home Builders report on water fixture efficiency and lots in water-stressed regions, while Construction Materials companies report on total water withdrawn, recycled percentage, and water-stressed regions",
+    "explanation": "The water-related metrics differ between the two industries. Home Builders are required to report on the 'Percentage of installed water fixtures certified to WaterSense\u00ae specifications' (IF-HB-410a.2) and the 'Number of lots and homes delivered in regions with High or Extremely High Baseline Water Stress' (IF-HB-160a.2). Construction Materials companies, on the other hand, must report on 'Total fresh water withdrawn, percentage recycled, percentage in regions with High or Extremely High Baseline Water Stress' (EM-CM-140a.1). While both industries address water stress, the specific metrics and calculations differ based on the nature of their operations.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Construction Materials",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders"
+    ],
+    "pages": [
+      "64-65",
+      "352-353"
+    ],
+    "pairing_explanation": "Home building and the creation of construction materials both have substantial impacts on resource extraction, land use, and waste generation.",
+    "industries": [
+      "b8-construction-materials",
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating energy efficiency metrics, what is the key difference between Home Builders and Construction Materials companies?",
+    "optionA": "Home Builders use HERS\u00ae Index Scores, while Construction Materials companies report total energy consumed",
+    "optionB": "Construction Materials companies use HERS\u00ae Index Scores, while Home Builders report total energy consumed",
+    "optionC": "Both industries use identical energy efficiency metrics",
+    "optionD": "Home Builders report on renewable energy use, while Construction Materials companies don't have energy-related metrics",
+    "optionE": "Neither industry has energy efficiency metrics",
+    "answer": "A: Home Builders use HERS\u00ae Index Scores, while Construction Materials companies report total energy consumed",
+    "explanation": "The energy efficiency metrics differ significantly between the two industries. Home Builders are required to report the 'Number of homes that obtained a certified HERS\u00ae Index Score and average score' (IF-HB-410a.1), which is a specific measure of home energy efficiency. Construction Materials companies, in contrast, must report 'Total energy consumed, percentage grid electricity, percentage alternative, percentage renewable' (EM-CM-130a.1). This reflects the different focus areas for energy efficiency in these industries, with Home Builders concentrating on the efficiency of their final product (homes) and Construction Materials companies focusing on their production processes.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Construction Materials",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders"
+    ],
+    "pages": [
+      "61-63",
+      "352-353"
+    ],
+    "pairing_explanation": "Home building and the creation of construction materials both have substantial impacts on resource extraction, land use, and waste generation.",
+    "industries": [
+      "b8-construction-materials",
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the IFRS sustainability reporting standards address product innovation differently for Home Builders versus Construction Materials companies?",
+    "optionA": "Only Home Builders are required to report on product innovation",
+    "optionB": "Only Construction Materials companies are required to report on product innovation",
+    "optionC": "Both industries have identical product innovation metrics",
+    "optionD": "Home Builders report on green building certifications, while Construction Materials companies report on products qualifying for sustainable building credits",
+    "optionE": "Neither industry has product innovation metrics",
+    "answer": "D: Home Builders report on green building certifications, while Construction Materials companies report on products qualifying for sustainable building credits",
+    "explanation": "The IFRS standards address product innovation differently for these industries. Home Builders are required to report the 'Number of homes delivered certified to a third-party multi-attribute green building standard' (IF-HB-410a.3), focusing on the final product's overall sustainability. Construction Materials companies must disclose the 'Percentage of products that qualify for credits in sustainable building design and construction certifications' (EM-CM-410a.1), which emphasizes the sustainability attributes of individual materials or products. This difference reflects the distinct roles these industries play in the construction value chain.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Construction Materials",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders"
+    ],
+    "pages": [
+      "67-68",
+      "353-354"
+    ],
+    "pairing_explanation": "Home building and the creation of construction materials both have substantial impacts on resource extraction, land use, and waste generation.",
+    "industries": [
+      "b8-construction-materials",
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "In terms of climate change adaptation, how do the IFRS reporting requirements differ for Home Builders compared to Construction Materials companies?",
+    "optionA": "Only Home Builders are required to report on climate change adaptation",
+    "optionB": "Only Construction Materials companies are required to report on climate change adaptation",
+    "optionC": "Both industries have identical climate change adaptation metrics",
+    "optionD": "Home Builders must report on lots in flood zones and overall climate risk exposure, while Construction Materials companies focus on emissions reduction strategies",
+    "optionE": "Neither industry has climate change adaptation metrics",
+    "answer": "D: Home Builders must report on lots in flood zones and overall climate risk exposure, while Construction Materials companies focus on emissions reduction strategies",
+    "explanation": "The IFRS standards require different approaches to climate change adaptation reporting for these industries. Home Builders must disclose the 'Number of lots located in 100-year flood zones' (IF-HB-420a.1) and provide a 'Description of climate change risk exposure analysis, degree of systematic portfolio exposure, and strategies for mitigating risks' (IF-HB-420a.2). This focuses on physical climate risks and adaptation strategies. Construction Materials companies, however, are required to discuss their 'long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets' (EM-CM-110a.2), which emphasizes mitigation rather than adaptation. This difference reflects the distinct climate-related challenges faced by each industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Construction Materials",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders"
+    ],
+    "pages": [
+      "55-58",
+      "355-356"
+    ],
+    "pairing_explanation": "Home building and the creation of construction materials both have substantial impacts on resource extraction, land use, and waste generation.",
+    "industries": [
+      "b8-construction-materials",
+      "b35-home-builders"
+    ]
+  }
+]

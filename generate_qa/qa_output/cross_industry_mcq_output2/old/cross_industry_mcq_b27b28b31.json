@@ -1,0 +1,158 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "According to IFRS S2 Climate-related Disclosures, which of the following is a required disclosure for both Health Care Delivery and Drug Retailers industries, but NOT for the Medical Equipment & Supplies industry?",
+    "optionA": "Total energy consumed",
+    "optionB": "Percentage grid electricity",
+    "optionC": "Percentage renewable energy",
+    "optionD": "Total amount of medical waste",
+    "optionE": "Number of facilities",
+    "answer": "A. Total energy consumed, B. Percentage grid electricity, and C. Percentage renewable energy",
+    "explanation": "Both Health Care Delivery (HC-DY-130a.1) and Drug Retailers (HC-DR-130a.1) are required to disclose total energy consumed, percentage grid electricity, and percentage renewable energy. The Medical Equipment & Supplies industry does not have this specific energy management disclosure requirement listed in the provided standards.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies"
+    ],
+    "pages": [
+      "283",
+      "280",
+      "294-296"
+    ],
+    "pairing_explanation": "Health care industries are interconnected through their roles in providing medical products and services and face significant sustainability issues such as waste management and access to care.",
+    "industries": [
+      "b27-drug-retailers",
+      "b28-health-care-delivery",
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "Which of the following disclosures is specifically required for the Health Care Delivery industry but not for Drug Retailers or Medical Equipment & Supplies?",
+    "optionA": "Total amount of medical waste",
+    "optionB": "Number of pharmacy locations",
+    "optionC": "Discussion of product take-back programs",
+    "optionD": "Energy efficiency of products during use",
+    "optionE": "Number of prescriptions filled",
+    "answer": "A. Total amount of medical waste",
+    "explanation": "The Health Care Delivery industry is required to disclose the total amount of medical waste (HC-DY-150a.1), which is not a listed requirement for Drug Retailers or Medical Equipment & Supplies industries in the provided standards.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies"
+    ],
+    "pages": [
+      "285-286",
+      "279-281",
+      "294-296"
+    ],
+    "pairing_explanation": "Health care industries are interconnected through their roles in providing medical products and services and face significant sustainability issues such as waste management and access to care.",
+    "industries": [
+      "b27-drug-retailers",
+      "b28-health-care-delivery",
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of renewable energy consumed for Health Care Delivery and Drug Retailers industries, which of the following sources should be excluded?",
+    "optionA": "On-site generated renewable electricity with retained RECs",
+    "optionB": "Renewable energy purchased through PPAs with explicit RECs",
+    "optionC": "Green-e Energy Certified utility programs",
+    "optionD": "Renewable portion of the electricity grid mix outside the entity's control",
+    "optionE": "Biomass sources certified by Forest Stewardship Council",
+    "answer": "D. Renewable portion of the electricity grid mix outside the entity's control",
+    "explanation": "Both Health Care Delivery and Drug Retailers industries specify that 'The renewable portion of the electricity grid mix that is outside of the control or influence of the entity is excluded from the scope of renewable energy' when calculating the percentage of renewable energy consumed.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers"
+    ],
+    "pages": [
+      "283-284",
+      "280-281"
+    ],
+    "pairing_explanation": "Health care industries are interconnected through their roles in providing medical products and services and face significant sustainability issues such as waste management and access to care.",
+    "industries": [
+      "b27-drug-retailers",
+      "b28-health-care-delivery",
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When reporting on energy consumption for Health Care Delivery and Drug Retailers industries, which of the following approaches should be used for calculating energy from fuels?",
+    "optionA": "Lower Heating Values (LHV)",
+    "optionB": "Higher Heating Values (HHV)",
+    "optionC": "Average of LHV and HHV",
+    "optionD": "Net Calorific Values (NCV)",
+    "optionE": "Gross Calorific Values (GCV) excluding HHV",
+    "answer": "B. Higher Heating Values (HHV)",
+    "explanation": "Both Health Care Delivery and Drug Retailers industries specify that 'In calculating energy consumption from fuels and biofuels, the entity shall use higher heating values (HHV), also known as gross calorific values (GCV), which are directly measured or taken from the Intergovernmental Panel on Climate Change (IPCC).'",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers"
+    ],
+    "pages": [
+      "283",
+      "280"
+    ],
+    "pairing_explanation": "Health care industries are interconnected through their roles in providing medical products and services and face significant sustainability issues such as waste management and access to care.",
+    "industries": [
+      "b27-drug-retailers",
+      "b28-health-care-delivery",
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing the Health Care Delivery and Medical Equipment & Supplies industries, which sustainability consideration is explicitly required for Medical Equipment & Supplies but not for Health Care Delivery?",
+    "optionA": "Energy management in facilities",
+    "optionB": "Waste management practices",
+    "optionC": "Product take-back and recycling",
+    "optionD": "Climate change impacts on human health",
+    "optionE": "Renewable energy consumption",
+    "answer": "C. Product take-back and recycling",
+    "explanation": "The Medical Equipment & Supplies industry explicitly requires disclosure on 'Total amount of products accepted for take-back and reused, recycled, or donated' (HC-MS-410a.2), which is not a listed requirement for the Health Care Delivery industry in the provided standards.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies"
+    ],
+    "pages": [
+      "282-288",
+      "295-296"
+    ],
+    "pairing_explanation": "Health care industries are interconnected through their roles in providing medical products and services and face significant sustainability issues such as waste management and access to care.",
+    "industries": [
+      "b27-drug-retailers",
+      "b28-health-care-delivery",
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "Which of the following sustainability considerations is explicitly required for the Health Care Delivery industry but not for Drug Retailers or Medical Equipment & Supplies?",
+    "optionA": "Energy efficiency of products",
+    "optionB": "Disposal of pharmaceutical waste",
+    "optionC": "Product packaging sustainability",
+    "optionD": "Climate change impacts on infrastructure",
+    "optionE": "Material efficiency in manufacturing",
+    "answer": "D. Climate change impacts on infrastructure",
+    "explanation": "The Health Care Delivery industry explicitly requires disclosure on 'Description of policies and practices to address: (1) the physical risks due to an increased frequency and intensity of extreme weather events and (2) changes in the morbidity and mortality rates of illnesses and diseases, associated with climate change' (HC-DY-450a.1). This specific climate change impact consideration is not listed as a requirement for Drug Retailers or Medical Equipment & Supplies industries in the provided standards.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies"
+    ],
+    "pages": [
+      "288",
+      "279-281",
+      "294-296"
+    ],
+    "pairing_explanation": "Health care industries are interconnected through their roles in providing medical products and services and face significant sustainability issues such as waste management and access to care.",
+    "industries": [
+      "b27-drug-retailers",
+      "b28-health-care-delivery",
+      "b31-medical-equipment-and-supplies"
+    ]
+  }
+]

@@ -1,0 +1,139 @@
+[
+  {
+    "question": "What does a company need to disclose regarding its gross global Scope 1 emissions according to the IFRS standards?",
+    "answer": "The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol\u2014carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF6), and nitrogen trifluoride (NF3).",
+    "reference_text": [
+      "1 The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol\u2014carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF6), and nitrogen trifluoride (NF3)."
+    ],
+    "pages": [
+      "55"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "question": "What should a company discuss regarding its strategy or plan to manage Scope 1 emissions according to the IFRS standards?",
+    "answer": "The entity shall discuss its long-term and short-term strategy or plan to manage its Scope 1 greenhouse gas (GHG) emissions. The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the scope, whether it is absolute or intensity-based, percentage reduction, timelines, mechanisms for achieving it, and any circumstances where the target may be recalculated.",
+    "reference_text": [
+      "1 The entity shall discuss its long-term and short-term strategy or plan to manage its Scope 1 greenhouse gas (GHG) emissions.",
+      "2 The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the following, where relevant: 2.1 The scope of the emission reduction target...; 2.2 Whether the target is absolute- or intensity-based, and the metric denominator, if it is an intensity-based target; 2.3 The percentage reduction against the base year...; 2.4 The timelines for the reduction activity, including the start year, the target year, and the base year; 2.5 The mechanism(s) for achieving the target; and 2.6 Any circumstances in which the target or base year emissions have been, or may be, recalculated retrospectively or the target or base year has been reset."
+    ],
+    "pages": [
+      "57"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "question": "What air pollutant emissions does the IFRS require companies to disclose according to the standards?",
+    "answer": "The entity shall disclose its emissions of (1) oxides of nitrogen (NOx), (2) oxides of sulfur (SOx), (3) particulate matter 10 micrometers or less in diameter (PM10), (4) dioxins/furans, (5) non-methane volatile organic compounds (VOCs), (6) polycyclic aromatic hydrocarbons (PAHs), and (7) heavy metals.",
+    "reference_text": [
+      "1 The entity shall disclose its emissions of air pollutants, in metric tons per pollutant, that are released into the atmosphere.",
+      "2 The entity shall disclose its emissions of (1) oxides of nitrogen (NOx), reported as NOx.",
+      "3 The entity shall disclose its emissions of (2) oxides of sulfur (SOx), reported as SOx.",
+      "4 The entity shall disclose its emissions of (3) particulate matter 10 micrometers or less in diameter (PM10), reported as PM10.",
+      "5 The entity shall disclose its emissions of (4) dioxins/furans.",
+      "6 The entity shall disclose its emissions of (5) non-methane volatile organic compounds (VOCs).",
+      "7 The entity shall disclose its emissions of (6) polycyclic aromatic hydrocarbons (PAHs).",
+      "8 The entity shall disclose its emissions of (7) heavy metals."
+    ],
+    "pages": [
+      "59",
+      "60"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "question": "What information does the IFRS require companies to disclose regarding the percentage of products that qualify for sustainable building certifications?",
+    "answer": "The entity shall calculate the percentage as the revenue during the reporting period from products that qualify for credits in recognized sustainable design and construction certifications divided by the total revenue from building products. Recognized certifications include BREEAM, Green Globes, LEED, and ICC-700 National Green Building Standard.",
+    "reference_text": [
+      "1. The entity shall calculate the percentage as the revenue during the reporting period from products that qualify for credits in recognized sustainable design and construction certifications divided by the total revenue from building products.",
+      "2. Recognized sustainable building design and construction certifications and guidelines include: BREEAM\u00ae (BRE Global), Green Globes\u00ae (Green Building Initiative), LEED\u00ae (U.S. Green Building Council), and ICC-700 National Green Building Standard\u00ae (National Association of Home Builders)."
+    ],
+    "pages": [
+      "67"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "question": "What should a company disclose regarding its gross global Scope 1 emissions and the percentage covered under emissions-limiting regulations?",
+    "answer": "The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol and the percentage of its gross global Scope 1 GHG emissions that are covered under an emissions-limiting regulation or program that is intended to directly limit or reduce emissions, such as cap-and-trade schemes, carbon tax/fee systems, and other emissions control (e.g., command-and-control approach) and permit-based mechanisms.",
+    "reference_text": [
+      "The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol\u2014carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF6), and nitrogen trifluoride (NF3).",
+      "The entity shall disclose the percentage of its gross global Scope 1 GHG emissions that are covered under an emissions-limiting regulation or program that is intended to directly limit or reduce emissions, such as cap-and-trade schemes, carbon tax/fee systems, and other emissions control (e.g., command-and-control approach) and permit-based mechanisms."
+    ],
+    "pages": [
+      "55",
+      "56"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "question": "What should a company discuss regarding its strategy or plan to manage Scope 1 emissions and emissions reduction targets?",
+    "answer": "The entity shall discuss its long-term and short-term strategy or plan to manage its Scope 1 greenhouse gas (GHG) emissions. The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the scope, whether it is absolute or intensity-based, percentage reduction, timelines, mechanisms for achieving it, and any circumstances where the target may be recalculated.",
+    "reference_text": [
+      "The entity shall discuss its long-term and short-term strategy or plan to manage its Scope 1 greenhouse gas (GHG) emissions.",
+      "The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the following, where relevant: 2.1 The scope of the emission reduction target...; 2.2 Whether the target is absolute- or intensity-based, and the metric denominator, if it is an intensity-based target; 2.3 The percentage reduction against the base year...; 2.4 The timelines for the reduction activity...; 2.5 The mechanism(s) for achieving the target; and 2.6 Any circumstances in which the target or base year emissions have been, or may be, recalculated retrospectively or the target or base year has been reset."
+    ],
+    "pages": [
+      "57",
+      "57"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "question": "What specific air pollutant emissions should a construction materials company disclose?",
+    "answer": "The entity shall disclose its emissions of (1) oxides of nitrogen (NOx), (2) oxides of sulfur (SOx), (3) particulate matter 10 micrometers or less in diameter (PM10), (4) dioxins/furans, (5) non-methane volatile organic compounds (VOCs), (6) polycyclic aromatic hydrocarbons (PAHs), and (7) heavy metals.",
+    "reference_text": [
+      "The entity shall disclose its emissions of (1) oxides of nitrogen (NOX), reported as NOX.",
+      "The entity shall disclose its emissions of (2) oxides of sulfur (SOX), reported as SOX.",
+      "The entity shall disclose its emissions of (3) particulate matter 10 micrometers or less in diameter (PM10), reported as PM10.",
+      "The entity shall disclose its emissions of (4) dioxins/furans.",
+      "The entity shall disclose its emissions of (5) non-methane volatile organic compounds (VOCs).",
+      "The entity shall disclose its emissions of (6) polycyclic aromatic hydrocarbons (PAHs).",
+      "The entity shall disclose its emissions of (7) heavy metals."
+    ],
+    "pages": [
+      "59",
+      "60"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "question": "What should a company disclose regarding its total energy consumption and the percentages from grid electricity, alternative sources, and renewable sources?",
+    "answer": "The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ). The entity shall disclose (2) the percentage of energy it consumed that was supplied from grid electricity. The entity shall disclose (3) the percentage of energy it consumed that was from alternative sources, in terms of its energy content. The entity shall disclose (4) the percentage of energy it consumed that is renewable energy.",
+    "reference_text": [
+      "The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ).",
+      "The entity shall disclose (2) the percentage of energy it consumed that was supplied from grid electricity.",
+      "The entity shall disclose (3) the percentage of energy it consumed that was from alternative sources, in terms of its energy content.",
+      "The entity shall disclose (4) the percentage of energy it consumed that is renewable energy."
+    ],
+    "pages": [
+      "61",
+      "62"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  }
+]

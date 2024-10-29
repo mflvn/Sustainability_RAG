@@ -1,0 +1,801 @@
+[
+  {
+    "qa_type": "single_hop",
+    "question": "What is the number of (1) lots and (2) homes delivered on redevelopment sites?",
+    "temperature": 0,
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score": 10,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What is the number of (1) lots and (2) homes delivered in regions with High or Extremely High Baseline Water Stress?",
+    "temperature": 0,
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score": 10,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What is the total amount of monetary losses as a result of legal proceedings associated with environmental regulations?",
+    "temperature": 0,
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What is the discussion of the process to integrate environmental considerations into site selection, site design, and site development and construction?",
+    "temperature": 0,
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the number of (1) lots and (2) homes delivered on redevelopment sites?",
+    "temperature": 0,
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score": 10,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the number of (1) lots and (2) homes delivered in regions with High or Extremely High Baseline Water Stress?",
+    "temperature": 0,
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score": 10,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the total amount of monetary losses as a result of legal proceedings associated with environmental regulations?",
+    "temperature": 0,
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the discussion of the process to integrate environmental considerations into site selection, site design, and site development and construction?",
+    "temperature": 0,
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What is the percentage of refrigerants consumed by the entity that have zero ozone-depleting potential?",
+    "temperature": 0,
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 10,
+    "relevancy_score": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What is the entity's average refrigerant emissions rate?",
+    "temperature": 0,
+    "specificity_score": 5,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 7,
+    "relevancy_score": 8,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What percentage of the entity's energy consumption (excluding fleet vehicles) is from renewable sources?",
+    "temperature": 0,
+    "specificity_score": 7,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What percentage of the entity's revenue is from eggs that originated from a cage-free environment?",
+    "temperature": 0,
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 10,
+    "relevancy_score": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the percentage of refrigerants consumed by the entity that have zero ozone-depleting potential?",
+    "temperature": 0,
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 10,
+    "relevancy_score": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the entity's average refrigerant emissions rate?",
+    "temperature": 0,
+    "specificity_score": 5,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 7,
+    "relevancy_score": 8,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What percentage of the entity's energy consumption (excluding fleet vehicles) is from renewable sources?",
+    "temperature": 0,
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 10,
+    "relevancy_score": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What percentage of the entity's revenue is from eggs that originated from a cage-free environment?",
+    "temperature": 0,
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 10,
+    "relevancy_score": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What is the definition of Scope 1 emissions according to the SASB standards?",
+    "temperature": 0,
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What is the definition of alternative fuel according to the SASB standards?",
+    "temperature": 0,
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What is the definition of sustainable fuel according to the SASB standards?",
+    "temperature": 0,
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What is the definition of the TR-AF-430a.1 metric according to the SASB standards?",
+    "temperature": 0,
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the main purpose of the Air Freight & Logistics industry?",
+    "temperature": 0,
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "E"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What are the three main industry segments within the Air Freight & Logistics industry?",
+    "temperature": 0,
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the main source of greenhouse gas emissions for companies in the Air Freight & Logistics industry?",
+    "temperature": 0,
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "C"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 1,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What are some ways that air freight and logistics companies can reduce their greenhouse gas emissions?",
+    "temperature": 0,
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "D"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 1,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What is the percentage of the entity's gross global Scope 1 greenhouse gas emissions that are from methane?",
+    "temperature": 0,
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "Which of the following is NOT an example of an emissions-limiting regulation covered under EM-MD-110a.1?",
+    "temperature": 0,
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score": 9,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "all_none_above": 1,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "Which of the following is NOT a category of emissions that the entity may discuss in its strategy or plan to manage Scope 1 emissions under EM-MD-110a.2?",
+    "temperature": 0,
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "E"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score": 9,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "Under EM-MD-110a.2, which of the following is NOT a required element for the entity to discuss regarding its emission reduction targets?",
+    "temperature": 0,
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "E"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score": 9,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the primary mode of transportation for natural gas, crude oil, and refined petroleum products in the midstream industry?",
+    "temperature": 0,
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 1,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "Which of the following is NOT a source of greenhouse gas emissions in the midstream industry?",
+    "temperature": 0,
+    "specificity_score": 5,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "E"
+    ],
+    "faithfulness_score": 5,
+    "relevancy_score": 6,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the main reason why the management of fugitive methane emissions is a major risk for midstream companies?",
+    "temperature": 0,
+    "specificity_score": 7,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 1,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "According to the SASB standard, which of the following is NOT included in the scope of Scope 1 greenhouse gas emissions for midstream companies?",
+    "temperature": 0,
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 7,
+    "relevancy_score": 8,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "all_none_above": 1,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the percentage of the entity's gross global Scope 1 greenhouse gas emissions that are covered under emissions-limiting regulations?",
+    "temperature": 0,
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 10,
+    "relevancy_score": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "Which of the following is NOT a typical parameter of concern for water quality compliance in the coal operations industry?",
+    "temperature": 0,
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "E"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score": 9,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "According to the IFRS S2 standard, which of the following scenarios should the entity use to analyze the sensitivity of its coal reserve levels?",
+    "temperature": 0,
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 1,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "How does the entity calculate the estimated carbon dioxide emissions embedded in its proven coal reserves?",
+    "temperature": 0,
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score": 10,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "all_none_above": 1,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What is the total energy consumed by companies in the Aerospace & Defense industry?",
+    "temperature": 0,
+    "specificity_score": 5,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "E"
+    ],
+    "faithfulness_score": 7,
+    "relevancy_score": 8,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b46-aerospace-and-defense"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What percentage of the energy consumed by companies in the Aerospace & Defense industry is grid electricity?",
+    "temperature": 0,
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "E"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b46-aerospace-and-defense"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What percentage of the energy consumed by companies in the Aerospace & Defense industry is renewable energy?",
+    "temperature": 0,
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "E"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b46-aerospace-and-defense"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What type of alternative energy-related products do companies in the Aerospace & Defense industry sell?",
+    "temperature": 0,
+    "specificity_score": 7,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "C",
+      "D",
+      "E"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score": 10,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 1,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b46-aerospace-and-defense"
+    ]
+  }
+]

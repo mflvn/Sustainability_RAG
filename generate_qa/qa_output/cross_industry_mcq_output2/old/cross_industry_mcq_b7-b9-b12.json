@@ -1,0 +1,152 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "According to IFRS S2, which of the following is a required disclosure for both Iron & Steel Producers and Oil & Gas - Midstream companies regarding their Scope 1 emissions?",
+    "optionA": "The percentage of emissions covered under emissions-limiting regulations",
+    "optionB": "The percentage of emissions from methane",
+    "optionC": "The total amount of energy consumed",
+    "optionD": "The percentage of renewable energy used",
+    "optionE": "The carbon intensity of production",
+    "answer": "A. The percentage of emissions covered under emissions-limiting regulations",
+    "explanation": "Both Iron & Steel Producers (EM-IS-110a.1) and Oil & Gas - Midstream (EM-MD-110a.1) companies are required to disclose the percentage of their Scope 1 emissions that are covered under emissions-limiting regulations. This is a common requirement across these industries, reflecting the regulatory focus on reducing greenhouse gas emissions in these sectors.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream"
+    ],
+    "pages": [
+      "71",
+      "109-111"
+    ],
+    "pairing_explanation": "These extractive industries have substantial environmental impacts, including emissions, land use, and water consumption, making them critical to compare in sustainability reporting.",
+    "industries": [
+      "b7-coal-operations",
+      "b9-iron-and-steel-producers",
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When discussing long-term and short-term strategies to manage Scope 1 emissions, which of the following is specifically mentioned as a category of emissions for Oil & Gas - Midstream companies but not for Iron & Steel Producers?",
+    "optionA": "Flared hydrocarbons",
+    "optionB": "Process emissions",
+    "optionC": "Combusted emissions",
+    "optionD": "Fugitive emissions",
+    "optionE": "Vented emissions",
+    "answer": "A. Flared hydrocarbons",
+    "explanation": "In the discussion of long-term and short-term strategies to manage Scope 1 emissions, flared hydrocarbons are specifically mentioned as a category of emissions for Oil & Gas - Midstream companies (EM-MD-110a.2). This category is not explicitly mentioned for Iron & Steel Producers, reflecting the different nature of emissions sources in these industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream"
+    ],
+    "pages": [
+      "71-74",
+      "111-113"
+    ],
+    "pairing_explanation": "These extractive industries have substantial environmental impacts, including emissions, land use, and water consumption, making them critical to compare in sustainability reporting.",
+    "industries": [
+      "b7-coal-operations",
+      "b9-iron-and-steel-producers",
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of Scope 1 emissions covered under emissions-limiting regulations for both Iron & Steel Producers and Oil & Gas - Midstream companies, which of the following should be excluded?",
+    "optionA": "California Cap-and-Trade emissions",
+    "optionB": "European Union Emissions Trading Scheme emissions",
+    "optionC": "Quebec Cap-and-Trade emissions",
+    "optionD": "Emissions covered under voluntary trading systems",
+    "optionE": "Emissions subject to carbon tax systems",
+    "answer": "D. Emissions covered under voluntary trading systems",
+    "explanation": "For both Iron & Steel Producers and Oil & Gas - Midstream companies, when calculating the percentage of Scope 1 emissions covered under emissions-limiting regulations, emissions covered under voluntary emissions-limiting regulations (e.g., voluntary trading systems) should be excluded. This ensures that only mandatory, regulatory-driven emissions limitations are considered in the calculation.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream"
+    ],
+    "pages": [
+      "73",
+      "110-111"
+    ],
+    "pairing_explanation": "These extractive industries have substantial environmental impacts, including emissions, land use, and water consumption, making them critical to compare in sustainability reporting.",
+    "industries": [
+      "b7-coal-operations",
+      "b9-iron-and-steel-producers",
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When reporting on energy management, which of the following metrics is required for Iron & Steel Producers but not for Oil & Gas - Midstream companies?",
+    "optionA": "Total energy consumed",
+    "optionB": "Percentage grid electricity",
+    "optionC": "Percentage renewable energy",
+    "optionD": "Total fuel consumed",
+    "optionE": "Percentage coal consumption",
+    "answer": "E. Percentage coal consumption",
+    "explanation": "Iron & Steel Producers are required to disclose the percentage of fuel consumed that is coal (EM-IS-130a.2), while this specific metric is not required for Oil & Gas - Midstream companies. This reflects the significant use of coal in steel production and the industry-specific nature of energy consumption patterns.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream"
+    ],
+    "pages": [
+      "75-78",
+      "108-113"
+    ],
+    "pairing_explanation": "These extractive industries have substantial environmental impacts, including emissions, land use, and water consumption, making them critical to compare in sustainability reporting.",
+    "industries": [
+      "b7-coal-operations",
+      "b9-iron-and-steel-producers",
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "Which of the following sustainability topics is explicitly addressed in the IFRS S2 disclosure requirements for Iron & Steel Producers but not for Oil & Gas - Midstream companies?",
+    "optionA": "Greenhouse Gas Emissions",
+    "optionB": "Energy Management",
+    "optionC": "Water Management",
+    "optionD": "Supply Chain Management",
+    "optionE": "Biodiversity Impacts",
+    "answer": "D. Supply Chain Management",
+    "explanation": "Supply Chain Management is explicitly addressed as a sustainability disclosure topic for Iron & Steel Producers (EM-IS-430a.1), focusing on the management of iron ore and coking coal sourcing risks. This topic is not explicitly included in the disclosure requirements for Oil & Gas - Midstream companies, reflecting the different supply chain considerations in these industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream"
+    ],
+    "pages": [
+      "69-80",
+      "108-113"
+    ],
+    "pairing_explanation": "These extractive industries have substantial environmental impacts, including emissions, land use, and water consumption, making them critical to compare in sustainability reporting.",
+    "industries": [
+      "b7-coal-operations",
+      "b9-iron-and-steel-producers",
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing the activity metrics for Iron & Steel Producers and Oil & Gas - Midstream companies, which of the following is a key difference in their required disclosures?",
+    "optionA": "Iron & Steel Producers report on production volume, while Oil & Gas - Midstream report on transportation volume",
+    "optionB": "Oil & Gas - Midstream report on number of facilities, while Iron & Steel Producers do not",
+    "optionC": "Iron & Steel Producers report on energy consumption, while Oil & Gas - Midstream do not",
+    "optionD": "Oil & Gas - Midstream report on pipeline length, while Iron & Steel Producers report on furnace capacity",
+    "optionE": "Both industries report on the same activity metrics",
+    "answer": "A. Iron & Steel Producers report on production volume, while Oil & Gas - Midstream report on transportation volume",
+    "explanation": "A key difference in activity metrics between these industries is that Iron & Steel Producers are required to report on production volumes (e.g., raw steel production, EM-IS-000.A), while Oil & Gas - Midstream companies report on transportation volumes (total metric ton-kilometers of products transported, EM-MD-000.A). This reflects the different core activities of these industries: production for Iron & Steel and transportation for Oil & Gas - Midstream.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream"
+    ],
+    "pages": [
+      "69",
+      "108"
+    ],
+    "pairing_explanation": "These extractive industries have substantial environmental impacts, including emissions, land use, and water consumption, making them critical to compare in sustainability reporting.",
+    "industries": [
+      "b7-coal-operations",
+      "b9-iron-and-steel-producers",
+      "b12-oil-and-gas-midstream"
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Oil & Gas - Exploration & Production and Electric Utilities & Power Generators industries?",
+    "optionA": "Oil & Gas - Exploration & Production",
+    "optionB": "Electric Utilities & Power Generators",
+    "optionC": "Both have the same number",
+    "optionD": "Neither industry has 'Quantitative' metrics",
+    "optionE": "It cannot be determined from the provided information",
+    "answer": "A",
+    "reference_text": [
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|-------|--------|----------|-----------------|------|",
+      "| Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations | Quantitative | Metric tons CO\u2082-e (t), Percentage (%) | EM-EP-110a.1 |",
+      "| Greenhouse Gas Emissions | Amount of gross global Scope 1 emissions from: (1) flared hydrocarbons, (2) other combustion, (3) process emissions, (4) other vented emissions, and (5) fugitive emissions | Quantitative | Metric tons CO\u2082-e | EM-EP-110a.2 |",
+      "| Water Management | (1) Total fresh water withdrawn, (2) total fresh water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%) | EM-EP-140a.1 |",
+      "| Water Management | Volume of produced water and flowback generated; percentage (1) discharged, (2) injected, (3) recycled; hydrocarbon content in discharged water | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%), Metric tons (t) | EM-EP-140a.2 |",
+      "| Water Management | Percentage of hydraulically fractured wells for which there is public disclosure of all fracturing fluid chemicals used | Quantitative | Percentage (%) | EM-EP-140a.3 |",
+      "| Water Management | Percentage of hydraulic fracturing sites where ground or surface water quality deteriorated compared to a baseline | Quantitative | Percentage (%) | EM-EP-140a.4 |"
+    ],
+    "pages": [
+      "90",
+      "91"
+    ],
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0.5
+  },
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for both Oil & Gas - Exploration & Production and Electric Utilities & Power Generators industries.",
+    "optionA": "Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets for both industries",
+    "optionB": "Discussion of water management risks and strategies to mitigate those risks in Electric Utilities & Power Generators",
+    "optionC": "Discussion of how price and demand for hydrocarbons influence capital expenditure strategy in Oil & Gas - Exploration & Production",
+    "optionD": "All of the above",
+    "optionE": "None of the above",
+    "answer": "D",
+    "reference_text": [
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|-------|--------|----------|-----------------|------|",
+      "| Greenhouse Gas Emissions & Energy Resource Planning | Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a | IF-EU-110a.3 |",
+      "| Water Management | Description of water management risks and discussion of strategies and practices to mitigate those risks | Discussion and Analysis | n/a | IF-EU-140a.3 |",
+      "| Greenhouse Gas Emissions | Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a | EM-EP-110a.3 |",
+      "| Reserves Valuation & Capital Expenditures | Discussion of how price and demand for hydrocarbons and/or climate regulation influence the capital expenditure strategy for exploration, acquisition, and development of assets | Discussion and Analysis | n/a | EM-EP-420a.4 |"
+    ],
+    "pages": [
+      "91",
+      "97"
+    ],
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0.5
+  },
+  {
+    "question": "What units of measurement are used across the Electric Utilities & Power Generators and Oil & Gas - Exploration & Production industries for measuring water-related metrics?",
+    "optionA": "Thousand cubic meters (m\u00b3)",
+    "optionB": "Liters (L)",
+    "optionC": "Gallons (gal)",
+    "optionD": "Cubic feet (ft\u00b3)",
+    "optionE": "Cubic meters (m\u00b3)",
+    "answer": "A",
+    "reference_text": [
+      "| Water Management | (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%) | IF-EU-140a.1 |",
+      "| Water Management | (1) Total fresh water withdrawn, (2) total fresh water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%) | EM-EP-140a.1 |"
+    ],
+    "pages": [
+      "Page 297",
+      "Page 91"
+    ],
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0.5
+  },
+  {
+    "question": "Give me the codes for all the 'Discussion and Analysis' metrics in Table 1 for the Electric Utilities & Power Generators and Oil & Gas - Exploration & Production industries.",
+    "optionA": "IF-EU-110a.3, IF-EU-140a.3, IF-EU-540a.2, EM-EP-110a.3, EM-EP-420a.4",
+    "optionB": "IF-EU-110a.1, IF-EU-140a.2, IF-EU-420a.2, EM-EP-110a.1, EM-EP-420a.2",
+    "optionC": "IF-EU-110a.2, IF-EU-140a.1, IF-EU-420a.3, EM-EP-110a.2, EM-EP-420a.3",
+    "optionD": "IF-EU-110a.3, IF-EU-140a.1, IF-EU-540a.1, EM-EP-110a.3, EM-EP-420a.1",
+    "optionE": "IF-EU-110a.2, IF-EU-140a.3, IF-EU-420a.2, EM-EP-110a.2, EM-EP-420a.4",
+    "answer": "A",
+    "reference_text": [
+      "| Greenhouse Gas Emissions & Energy Resource Planning | Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a | IF-EU-110a.3 |",
+      "| Water Management | Description of water management risks and discussion of strategies and practices to mitigate those risks | Discussion and Analysis | n/a | IF-EU-140a.3 |",
+      "| Nuclear Safety & Emergency Management | Description of efforts to manage nuclear safety and emergency preparedness | Discussion and Analysis | n/a | IF-EU-540a.2 |",
+      "| Greenhouse Gas Emissions | Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a | EM-EP-110a.3 |",
+      "| Reserves Valuation & Capital Expenditures | Discussion of how price and demand for hydrocarbons and/or climate regulation influence the capital expenditure strategy for exploration, acquisition, and development of assets | Discussion and Analysis | n/a | EM-EP-420a.4 |"
+    ],
+    "pages": [
+      "Page 297",
+      "Page 91"
+    ],
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0.5
+  }
+]

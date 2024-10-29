@@ -1,0 +1,134 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When disclosing financed emissions for asset management activities, which of the following is NOT a required breakdown according to IFRS S2 Climate-related Disclosures?",
+    "optionA": "Scope 1 emissions",
+    "optionB": "Scope 2 emissions",
+    "optionC": "Scope 3 emissions",
+    "optionD": "Emissions by industry sector",
+    "optionE": "Emissions intensity",
+    "answer": "D. Emissions by industry sector",
+    "explanation": "According to IFRS S2 Climate-related Disclosures for the Asset Management & Custody Activities industry, companies are required to disclose absolute gross Scope 1, Scope 2, and Scope 3 emissions, as well as emissions intensity. However, a breakdown of emissions by industry sector is not explicitly required in the standard.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements"
+    ],
+    "pages": [
+      "141-142"
+    ],
+    "pairing_explanation": "Asset management and mortgage finance are pivotal in funding sustainable projects and investments, focusing on long-term economic and environmental impacts.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "In the Mortgage Finance industry, which of the following is required to be disclosed regarding environmental risks to mortgaged properties?",
+    "optionA": "Number and value of mortgages in earthquake-prone areas",
+    "optionB": "Number and value of mortgage loans in 100-year flood zones",
+    "optionC": "Percentage of mortgages with climate-related insurance",
+    "optionD": "Average property value appreciation in high-risk environmental areas",
+    "optionE": "Number of mortgages refinanced due to environmental risks",
+    "answer": "B. Number and value of mortgage loans in 100-year flood zones",
+    "explanation": "According to IFRS S2 Climate-related Disclosures for the Mortgage Finance industry, companies are required to disclose the number and value of mortgage loans in 100-year flood zones (metric FN-MF-450a.1). This information helps assess the potential environmental risks to mortgaged properties.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements"
+    ],
+    "pages": [
+      "185-186"
+    ],
+    "pairing_explanation": "Asset management and mortgage finance are pivotal in funding sustainable projects and investments, focusing on long-term economic and environmental impacts.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating financed emissions for asset management activities, which of the following metrics is used to express emissions intensity according to IFRS S2?",
+    "optionA": "Metric tons CO2-e per employee",
+    "optionB": "Metric tons CO2-e per square foot of office space",
+    "optionC": "Metric tons CO2-e per USD 1 million revenue or USD 1 billion AUM",
+    "optionD": "Metric tons CO2-e per investment transaction",
+    "optionE": "Metric tons CO2-e per client",
+    "answer": "C. Metric tons CO2-e per USD 1 million revenue or USD 1 billion AUM",
+    "explanation": "According to IFRS S2 Climate-related Disclosures for the Asset Management & Custody Activities industry, emissions intensity is defined as the amount of Scope 1, Scope 2, and Scope 3 emissions per unit of economic activity, such as metric tons CO2-e per USD 1 million revenue or USD 1 billion AUM (Assets Under Management).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements"
+    ],
+    "pages": [
+      "142"
+    ],
+    "pairing_explanation": "Asset management and mortgage finance are pivotal in funding sustainable projects and investments, focusing on long-term economic and environmental impacts.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "In the Mortgage Finance industry, which of the following metrics is used to measure the potential financial impact of weather-related natural catastrophes on mortgage loans?",
+    "optionA": "Debt-to-Income Ratio",
+    "optionB": "Loan-to-Value Ratio",
+    "optionC": "Credit Score",
+    "optionD": "Loss Given Default (LGD)",
+    "optionE": "Interest Coverage Ratio",
+    "answer": "D. Loss Given Default (LGD)",
+    "explanation": "According to IFRS S2 Climate-related Disclosures for the Mortgage Finance industry, Loss Given Default (LGD) is one of the metrics used to measure the potential financial impact of weather-related natural catastrophes on mortgage loans. LGD is defined as the share of an asset lost in the situation of default, which helps quantify the risk associated with environmental factors.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements"
+    ],
+    "pages": [
+      "186"
+    ],
+    "pairing_explanation": "Asset management and mortgage finance are pivotal in funding sustainable projects and investments, focusing on long-term economic and environmental impacts.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the Asset Management & Custody Activities and Mortgage Finance industries differ in their approach to incorporating climate change risks in their respective processes?",
+    "optionA": "Asset Management focuses on portfolio-level risks, while Mortgage Finance focuses on property-level risks",
+    "optionB": "Asset Management considers only transition risks, while Mortgage Finance considers only physical risks",
+    "optionC": "Asset Management incorporates risks in investment strategies, while Mortgage Finance ignores climate risks",
+    "optionD": "Asset Management focuses on short-term risks, while Mortgage Finance focuses on long-term risks",
+    "optionE": "Asset Management and Mortgage Finance have identical approaches to climate risk incorporation",
+    "answer": "A. Asset Management focuses on portfolio-level risks, while Mortgage Finance focuses on property-level risks",
+    "explanation": "Asset Management & Custody Activities incorporate climate change risks into investment strategies and portfolio management, considering factors at a broader, portfolio level. In contrast, the Mortgage Finance industry focuses on property-level risks, incorporating climate change and environmental risks into mortgage origination and underwriting processes for individual properties.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements"
+    ],
+    "pages": [
+      "135-140, 186-187"
+    ],
+    "pairing_explanation": "Asset management and mortgage finance are pivotal in funding sustainable projects and investments, focusing on long-term economic and environmental impacts.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "Which of the following statements best describes a key difference in climate-related disclosures between the Asset Management & Custody Activities and Mortgage Finance industries?",
+    "optionA": "Asset Management discloses financed emissions, while Mortgage Finance does not consider emissions",
+    "optionB": "Mortgage Finance reports on flood zone exposure, while Asset Management ignores geographic risks",
+    "optionC": "Asset Management focuses on client engagement, while Mortgage Finance only considers internal operations",
+    "optionD": "Mortgage Finance discloses loan defaults due to climate events, while Asset Management does not consider default risks",
+    "optionE": "Asset Management and Mortgage Finance have identical climate-related disclosure requirements",
+    "answer": "A. Asset Management discloses financed emissions, while Mortgage Finance does not consider emissions",
+    "explanation": "A key difference in climate-related disclosures is that Asset Management & Custody Activities are required to disclose financed emissions (Scope 1, 2, and 3) associated with their investments. In contrast, the Mortgage Finance industry focuses more on physical risks to properties and loan performance, such as exposure to flood zones and potential losses due to weather-related events, rather than emissions-related metrics.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements"
+    ],
+    "pages": [
+      "141-143, 185-187"
+    ],
+    "pairing_explanation": "Asset management and mortgage finance are pivotal in funding sustainable projects and investments, focusing on long-term economic and environmental impacts.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b19-mortgage-finance"
+    ]
+  }
+]

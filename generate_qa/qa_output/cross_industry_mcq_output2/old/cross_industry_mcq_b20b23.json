@@ -1,0 +1,146 @@
+[
+  {
+    "qa_type": "1",
+    "question": "When reporting on greenhouse gas emissions for the Agricultural Products and Meat, Poultry & Dairy industries, which of the following is a key difference in the required disclosures?",
+    "optionA": "Only the Agricultural Products industry needs to report Scope 1 emissions",
+    "optionB": "The Meat, Poultry & Dairy industry must report emissions from enteric fermentation separately",
+    "optionC": "The Agricultural Products industry must report fleet fuel consumption, while the Meat, Poultry & Dairy industry does not",
+    "optionD": "Only the Meat, Poultry & Dairy industry needs to discuss emission reduction targets",
+    "optionE": "The Agricultural Products industry must report Scope 2 emissions, while the Meat, Poultry & Dairy industry does not",
+    "answer": "C. The Agricultural Products industry must report fleet fuel consumption, while the Meat, Poultry & Dairy industry does not",
+    "explanation": "The key difference in greenhouse gas emissions reporting between these industries is that the Agricultural Products industry is specifically required to disclose fleet fuel consumed and the percentage of renewable fuel under metric FB-AG-110a.3. This requirement is not present for the Meat, Poultry & Dairy industry. Both industries are required to report Scope 1 emissions and discuss emission reduction strategies and targets.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy"
+    ],
+    "pages": [
+      "190",
+      "231"
+    ],
+    "pairing_explanation": "These industries are intertwined in the food supply chain and both face significant environmental challenges such as land use, water consumption, and emissions. Their sustainability practices are essential for understanding overall agricultural sustainability.",
+    "industries": [
+      "b20-agricultural-products",
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "1",
+    "question": "In the context of water management reporting for the Agricultural Products and Meat, Poultry & Dairy industries, which of the following is a unique requirement for the Meat, Poultry & Dairy industry?",
+    "optionA": "Reporting on total water withdrawn and consumed",
+    "optionB": "Disclosing water use in regions with High or Extremely High Baseline Water Stress",
+    "optionC": "Discussing water management risks and mitigation strategies",
+    "optionD": "Reporting on the number of incidents of non-compliance with water quality permits",
+    "optionE": "Disclosing the percentage of agricultural products sourced from water-stressed regions",
+    "answer": "E. Disclosing the percentage of agricultural products sourced from water-stressed regions",
+    "explanation": "While both industries have similar requirements for reporting on water withdrawal, consumption, and management strategies, the Agricultural Products industry has a unique requirement (FB-AG-440a.2) to disclose the percentage of agricultural products sourced from regions with High or Extremely High Baseline Water Stress. This requirement is not present in the Meat, Poultry & Dairy industry disclosures, which instead focus on animal feed and contract producers in water-stressed regions.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy"
+    ],
+    "pages": [
+      "196",
+      "235"
+    ],
+    "pairing_explanation": "These industries are intertwined in the food supply chain and both face significant environmental challenges such as land use, water consumption, and emissions. Their sustainability practices are essential for understanding overall agricultural sustainability.",
+    "industries": [
+      "b20-agricultural-products",
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "2",
+    "question": "When calculating the percentage of renewable energy consumed in the Agricultural Products and Meat, Poultry & Dairy industries, which of the following sources is explicitly limited in scope according to the IFRS standards?",
+    "optionA": "Solar energy",
+    "optionB": "Wind energy",
+    "optionC": "Hydroelectric energy",
+    "optionD": "Geothermal energy",
+    "optionE": "Biomass energy",
+    "answer": "E. Biomass energy",
+    "explanation": "For both industries, the IFRS standards explicitly limit the scope of renewable energy from biomass sources. The standards state that energy from biomass sources is limited to materials certified to a third-party standard, materials considered eligible sources of supply according to the Green-e Framework for Renewable Energy Certification, and/or materials that are eligible for an applicable state renewable portfolio standard. This limitation is not applied to other renewable energy sources like solar, wind, hydroelectric, or geothermal.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy"
+    ],
+    "pages": [
+      "195",
+      "234"
+    ],
+    "pairing_explanation": "These industries are intertwined in the food supply chain and both face significant environmental challenges such as land use, water consumption, and emissions. Their sustainability practices are essential for understanding overall agricultural sustainability.",
+    "industries": [
+      "b20-agricultural-products",
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "2",
+    "question": "In calculating water-related metrics for the Agricultural Products and Meat, Poultry & Dairy industries, which tool is specifically recommended by IFRS standards to identify areas of High or Extremely High Baseline Water Stress?",
+    "optionA": "CDP Water Security Questionnaire",
+    "optionB": "FAO AQUASTAT",
+    "optionC": "World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "optionD": "UN Global Compact CEO Water Mandate",
+    "optionE": "GEMI Local Water Tool",
+    "answer": "C. World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "explanation": "For both the Agricultural Products and Meat, Poultry & Dairy industries, the IFRS standards specifically recommend using the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct, to identify locations with High (40\u201380%) or Extremely High (>80%) Baseline Water Stress. This tool is consistently mentioned in the water management metrics for both industries, ensuring a standardized approach to identifying water-stressed regions.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy"
+    ],
+    "pages": [
+      "197",
+      "236"
+    ],
+    "pairing_explanation": "These industries are intertwined in the food supply chain and both face significant environmental challenges such as land use, water consumption, and emissions. Their sustainability practices are essential for understanding overall agricultural sustainability.",
+    "industries": [
+      "b20-agricultural-products",
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "3",
+    "question": "How do the IFRS sustainability reporting requirements for the Agricultural Products industry differ from those for the Meat, Poultry & Dairy industry in addressing land use and ecological impacts?",
+    "optionA": "Only the Agricultural Products industry must report on land area under active production",
+    "optionB": "The Meat, Poultry & Dairy industry has specific requirements for reporting on animal litter and manure management",
+    "optionC": "The Agricultural Products industry must report on pesticide use, while the Meat, Poultry & Dairy industry does not",
+    "optionD": "Only the Meat, Poultry & Dairy industry must report on pasture and grazing land management",
+    "optionE": "The Agricultural Products industry has stricter requirements for reporting on soil health",
+    "answer": "B. The Meat, Poultry & Dairy industry has specific requirements for reporting on animal litter and manure management",
+    "explanation": "The key difference in land use and ecological impact reporting between these industries is that the Meat, Poultry & Dairy industry has specific requirements for reporting on animal litter and manure management (FB-MP-160a.1). This includes disclosing the amount of animal litter and manure generated and the percentage managed according to a nutrient management plan. The Agricultural Products industry does not have a similar requirement, as it focuses more on crop production rather than animal waste management.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy"
+    ],
+    "pages": [
+      "189",
+      "239"
+    ],
+    "pairing_explanation": "These industries are intertwined in the food supply chain and both face significant environmental challenges such as land use, water consumption, and emissions. Their sustainability practices are essential for understanding overall agricultural sustainability.",
+    "industries": [
+      "b20-agricultural-products",
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "3",
+    "question": "In addressing climate change risks and opportunities, how do the reporting requirements differ between the Agricultural Products industry and the Meat, Poultry & Dairy industry?",
+    "optionA": "Only the Agricultural Products industry must discuss risks to crop production",
+    "optionB": "The Meat, Poultry & Dairy industry must report on livestock emission reduction strategies",
+    "optionC": "The Agricultural Products industry focuses on soil management, while the Meat, Poultry & Dairy industry focuses on animal health",
+    "optionD": "Only the Meat, Poultry & Dairy industry must discuss feed sourcing risks",
+    "optionE": "The Agricultural Products industry must identify principal crops affected by climate change, while the Meat, Poultry & Dairy industry must discuss risks to both feed sourcing and livestock supply",
+    "answer": "E. The Agricultural Products industry must identify principal crops affected by climate change, while the Meat, Poultry & Dairy industry must discuss risks to both feed sourcing and livestock supply",
+    "explanation": "The key difference in climate change risk reporting between these industries is in the scope of their required disclosures. The Agricultural Products industry must identify principal crops and describe risks and opportunities presented by climate change (FB-AG-440a.1). In contrast, the Meat, Poultry & Dairy industry must discuss strategy to manage opportunities and risks to both feed sourcing and livestock supply presented by climate change (FB-MP-440a.3). This broader scope for the Meat, Poultry & Dairy industry reflects the more complex supply chain and diverse risks faced by animal protein producers.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy"
+    ],
+    "pages": [
+      "201",
+      "242"
+    ],
+    "pairing_explanation": "These industries are intertwined in the food supply chain and both face significant environmental challenges such as land use, water consumption, and emissions. Their sustainability practices are essential for understanding overall agricultural sustainability.",
+    "industries": [
+      "b20-agricultural-products",
+      "b23-meat-poultry-and-dairy"
+    ]
+  }
+]

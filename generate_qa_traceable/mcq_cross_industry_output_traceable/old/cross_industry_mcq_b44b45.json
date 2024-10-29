@@ -1,0 +1,185 @@
+[
+  {
+    "question": "What are the common metrics shared between the Solar Technology & Project Developers and Wind Technology & Project Developers industries?",
+    "optionA": "There are no common metrics shared between the two industries.",
+    "optionB": "The only common metric is 'Description of approach to optimize materials efficiency of wind turbine design'.",
+    "optionC": "The common metrics are 'Total energy consumed' and 'Total water withdrawn'.",
+    "optionD": "There are no quantitative common metrics, but the qualitative common metric is 'Description of approach to optimize materials efficiency of wind turbine design'.",
+    "optionE": "The common metrics are 'Total capacity of photovoltaic (PV) solar modules produced' and 'Number of delivered wind turbines, by wind turbine class'.",
+    "answer": "D",
+    "reference_text": [
+      "Industry: Solar Technology & Project Developers\n\n## Table 1. Sustainability Disclosure Topics & Metrics\n\n| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |\n|-------|--------|----------|------------------|------|\n| Energy Management in Manufacturing | (1) Total energy consumed, (2) percent- age grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | RR-ST-130a.1 |\n| Water Management in Manufacturing | (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percent- age (%) | RR-ST-140a.1 |\n| Water Management in Manufacturing | Description of water management risks and discussion of strategies and practi- ces to mitigate those risks | Discussion and Analysis | n/a | RR-ST-140a.2 |\n| Management of Energy Infrastructure Integration & Related Regulations | Description of risks associated with integration of solar energy into existing energy infrastructure and discussion of efforts to manage those risks | Discussion and Analysis | n/a | RR-ST-410a.1 |\n| Management of Energy Infrastructure Integration & Related Regulations | Description of risks and opportunities associated with energy policy and its impact on the integration of solar energy into existing energy infrastructure | Discussion and Analysis | n/a | RR-ST-410a.2 |\n\nIndustry: Wind Technology & Project Developers\n\n## Table 1. Sustainability Disclosure Topics & Metrics\n\n| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |\n|-------|--------|----------|------------------|------|\n| Materials Efficiency | Top five materials consumed, by weight | Quantitative | Metric tons (t) | RR-WT-440b.1 |\n| Materials Efficiency | Average top head mass per turbine capacity, by wind turbine class | Quantitative | Metric tons per megawatts (MW) | RR-WT-440b.2 |\n| Materials Efficiency | Description of approach to optimize materials efficiency of wind turbine design | Discussion and Analysis | n/a | RR-WT-440b.3 |"
+    ],
+    "pages": [
+      "473-475_b44",
+      "483-486_b45"
+    ],
+    "industries": [
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ],
+    "pairing_explanation": "Both industries are central to the renewable energy sector and share sustainability themes related to lifecycle analysis, resource use, and environmental impact.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "List the activity metrics for the Solar Technology & Project Developers and Wind Technology & Project Developers industries.",
+    "optionA": "Total capacity of photovoltaic (PV) solar modules produced, Total capacity of completed solar energy systems, Total project development assets.",
+    "optionB": "Total capacity of photovoltaic (PV) solar modules produced, Total capacity of completed solar energy systems, Total project development assets, Number of delivered wind turbines by wind turbine class, Aggregate capacity of delivered wind turbines by wind turbine class, Amount of turbine backlog, Aggregate capacity of turbine backlog.",
+    "optionC": "Number of delivered wind turbines by wind turbine class, Aggregate capacity of delivered wind turbines by wind turbine class, Amount of turbine backlog, Aggregate capacity of turbine backlog.",
+    "optionD": "Total capacity of photovoltaic (PV) solar modules produced, Number of delivered wind turbines by wind turbine class, Amount of turbine backlog.",
+    "optionE": "Total capacity of photovoltaic (PV) solar modules produced, Total project development assets, Number of delivered wind turbines by wind turbine class, Aggregate capacity of turbine backlog.",
+    "answer": "B",
+    "reference_text": [
+      "## Table 2. Activity Metrics\n\n| ACTIVITY METRIC | CATEGORY | UNIT OF MEASURE | CODE |\n|-----------------|----------|------------------|------|\n| Total capacity of photovoltaic (PV) solar modules produced \u2077\u2075 | Quantitative | Megawatts (MW) | RR-ST-000.A |\n| Total capacity of completed solar energy systems \u2077\u2076 | Quantitative | Megawatts (MW) | RR-ST-000.B |\n| Total project development assets \u2077\u2077 | Quantitative | Reporting currency | RR-ST-000.C |\n\n| ACTIVITY METRIC | CATEGORY | UNIT OF MEASURE | CODE |\n|------------------|----------|------------------|------|\n| Number of delivered wind turbines, by wind turbine class | Quantitative | Number | RR-WT-000.A |\n| Aggregate capacity of delivered wind turbines, by wind turbine class | Quantitative | Megawatts (MW) | RR-WT-000.B |\n| Amount of turbine backlog | Quantitative | Reporting currency | RR-WT-000.C |\n| Aggregate capacity of turbine backlog | Quantitative | Megawatts (MW) | RR-WT-000.D |"
+    ],
+    "pages": [
+      "472_b44",
+      "483_b45"
+    ],
+    "industries": [
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ],
+    "pairing_explanation": "Both industries are central to the renewable energy sector and share sustainability themes related to lifecycle analysis, resource use, and environmental impact.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between the Solar Technology & Project Developers and Wind Technology & Project Developers industries?",
+    "optionA": "The Solar Technology & Project Developers industry has more quantitative metrics with 2 metrics.",
+    "optionB": "The Wind Technology & Project Developers industry has more quantitative metrics with 2 metrics.",
+    "optionC": "Both industries have an equal number of 2 quantitative metrics each in Table 1.",
+    "optionD": "The Solar Technology & Project Developers industry has more quantitative metrics with 3 metrics.",
+    "optionE": "The Wind Technology & Project Developers industry has more quantitative metrics with 3 metrics.",
+    "answer": "C",
+    "reference_text": [
+      "Industry: Solar Technology & Project Developers\n\n## Table 1. Sustainability Disclosure Topics & Metrics\n\n| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |\n|-------|--------|----------|------------------|------|\n| Energy Management in Manufacturing | (1) Total energy consumed, (2) percent- age grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | RR-ST-130a.1 |\n| Water Management in Manufacturing | (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percent- age (%) | RR-ST-140a.1 |\n\nIndustry: Wind Technology & Project Developers\n\n## Table 1. Sustainability Disclosure Topics & Metrics\n\n| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |\n|-------|--------|----------|------------------|------|\n| Materials Efficiency | Top five materials consumed, by weight | Quantitative | Metric tons (t) | RR-WT-440b.1 |\n| Materials Efficiency | Average top head mass per turbine capacity, by wind turbine class | Quantitative | Metric tons per megawatts (MW) | RR-WT-440b.2 |"
+    ],
+    "pages": [
+      "473_b44",
+      "483-484_b45"
+    ],
+    "industries": [
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ],
+    "pairing_explanation": "Both industries are central to the renewable energy sector and share sustainability themes related to lifecycle analysis, resource use, and environmental impact.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for the Solar Technology & Project Developers and Wind Technology & Project Developers industries.",
+    "optionA": "Water Management in Manufacturing, Management of Energy Infrastructure Integration & Related Regulations (2 metrics), Materials Efficiency",
+    "optionB": "Description of water management risks and discussion of strategies and practices to mitigate those risks, Description of risks associated with integration of solar energy into existing energy infrastructure and discussion of efforts to manage those risks, Description of risks and opportunities associated with energy policy and its impact on the integration of solar energy into existing energy infrastructure, Description of approach to optimize materials efficiency of wind turbine design",
+    "optionC": "(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable, (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress, Top five materials consumed by weight, Average top head mass per turbine capacity by wind turbine class",
+    "optionD": "Management of Energy Infrastructure Integration & Related Regulations (2 metrics), Materials Efficiency, Description of approach to optimize materials efficiency of wind turbine design",
+    "optionE": "Water Management in Manufacturing, Description of water management risks and discussion of strategies and practices to mitigate those risks, Description of approach to optimize materials efficiency of wind turbine design",
+    "answer": "B",
+    "reference_text": [
+      "Industry: Solar Technology & Project Developers\n\n## Table 1. Sustainability Disclosure Topics & Metrics\n\n| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |\n|-------|--------|----------|------------------|------|\n| Water Management in Manufacturing | Description of water management risks and discussion of strategies and practi- ces to mitigate those risks | Discussion and Analysis | n/a | RR-ST-140a.2 |\n| Management of Energy Infrastructure Integration & Related Regulations | Description of risks associated with integration of solar energy into existing energy infrastructure and discussion of efforts to manage those risks | Discussion and Analysis | n/a | RR-ST-410a.1 |\n| Management of Energy Infrastructure Integration & Related Regulations | Description of risks and opportunities associated with energy policy and its impact on the integration of solar energy into existing energy infrastructure | Discussion and Analysis | n/a | RR-ST-410a.2 |\n\nIndustry: Wind Technology & Project Developers\n\n## Table 1. Sustainability Disclosure Topics & Metrics\n\n| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |\n|-------|--------|----------|------------------|------|\n| Materials Efficiency | Description of approach to optimize materials efficiency of wind turbine design | Discussion and Analysis | n/a | RR-WT-440b.3 |"
+    ],
+    "pages": [
+      "473_b44",
+      "483_b45"
+    ],
+    "industries": [
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ],
+    "pairing_explanation": "Both industries are central to the renewable energy sector and share sustainability themes related to lifecycle analysis, resource use, and environmental impact.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Give me the codes for all the 'Discussion and Analysis' metrics in Table 1 for the Solar Technology & Project Developers and Wind Technology & Project Developers industries.",
+    "optionA": "RR-ST-140a.2, RR-ST-410a.1, RR-ST-410a.2, RR-WT-440b.3",
+    "optionB": "RR-ST-140a.2, RR-ST-410a.1, RR-ST-410a.2",
+    "optionC": "RR-ST-140a.2, RR-WT-440b.3",
+    "optionD": "RR-ST-410a.1, RR-ST-410a.2, RR-WT-440b.3",
+    "optionE": "RR-ST-140a.2, RR-ST-410a.1",
+    "answer": "A",
+    "reference_text": [
+      "Table 1. Sustainability Disclosure Topics & Metrics",
+      "Water Management in Manufacturing | Description of water management risks and discussion of strategies and practi- ces to mitigate those risks | Discussion and Analysis | n/a | RR-ST-140a.2 ",
+      "Management of Energy Infrastructure Integration & Related Regulations | Description of risks associated with integration of solar energy into existing energy infrastructure and discussion of efforts to manage those risks | Discussion and Analysis | n/a | RR-ST-410a.1",
+      "Management of Energy Infrastructure Integration & Related Regulations | Description of risks and opportunities associated with energy policy and its impact on the integration of solar energy into existing energy infrastructure | Discussion and Analysis | n/a | RR-ST-410a.2",
+      "Materials Efficiency | Description of approach to optimize materials efficiency of wind turbine design | Discussion and Analysis | n/a | RR-WT-440b.3"
+    ],
+    "pages": [
+      "475",
+      "479-480",
+      "481-482",
+      "485-486"
+    ],
+    "industries": [
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ],
+    "pairing_explanation": "Both industries are central to the renewable energy sector and share sustainability themes related to lifecycle analysis, resource use, and environmental impact.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "What units of measurement are used across the Solar Technology & Project Developers and Wind Technology & Project Developers industries for measuring water consumption?",
+    "optionA": "Thousand cubic meters (m\u00b3), Percentage (%)",
+    "optionB": "Gigajoules (GJ), Percentage (%)",
+    "optionC": "Megawatts (MW), Percentage (%)",
+    "optionD": "Metric tons (t)",
+    "optionE": "Reporting currency",
+    "answer": "A",
+    "reference_text": [
+      "(1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percent- age (%)"
+    ],
+    "pages": [
+      "475"
+    ],
+    "industries": [
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ],
+    "pairing_explanation": "Both industries are central to the renewable energy sector and share sustainability themes related to lifecycle analysis, resource use, and environmental impact.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Are there any common sustainability topics between the Solar Technology & Project Developers and Wind Technology & Project Developers industries, and if so, how do their reporting requirements differ?",
+    "optionA": "Yes, the Materials Efficiency topic is common, but the reporting requirements differ in terms of the specific metrics used. Solar companies report on energy and water usage, while wind companies report on materials consumed and turbine design efficiency.",
+    "optionB": "No, there are no common sustainability topics covered for these two industries.",
+    "optionC": "Yes, the Energy Management topic is common, but the reporting requirements are exactly the same for both industries.",
+    "optionD": "Yes, the Water Management topic is common, and the reporting requirements are also exactly the same for both industries.",
+    "optionE": "<UNKNOWN>",
+    "answer": "A",
+    "reference_text": [
+      "Table 1 topics for Solar Technology & Project Developers: Energy Management in Manufacturing, Water Management in Manufacturing, Management of Energy Infrastructure Integration & Related Regulations",
+      "Table 1 topics for Wind Technology & Project Developers: Materials Efficiency"
+    ],
+    "pages": [
+      "473",
+      "483"
+    ],
+    "industries": [
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ],
+    "pairing_explanation": "Both industries are central to the renewable energy sector and share sustainability themes related to lifecycle analysis, resource use, and environmental impact.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "When calculating RR-ST-140a.1 metrics related to water consumption, what is the key difference between Solar Technology & Project Developers and Wind Technology & Project Developers companies?",
+    "optionA": "Solar companies need to analyze water risks based on Baseline Water Stress levels, while wind companies do not have this requirement.",
+    "optionB": "Wind companies need to analyze water risks based on Baseline Water Stress levels, while solar companies do not have this requirement.",
+    "optionC": "There is no difference, both industries have the same requirements for calculating the RR-ST-140a.1 water consumption metric.",
+    "optionD": "The RR-ST-140a.1 metric only applies to solar companies, not wind companies.",
+    "optionE": "The RR-ST-140a.1 metric only applies to wind companies, not solar companies.",
+    "answer": "A",
+    "reference_text": [
+      "The entity shall analyze all of its operations for water risks and identify activities that withdraw and consume water in locations with High (40\u201380 percent) or Extremely High (>80 percent) Baseline Water Stress as classified by the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct.",
+      "The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn.",
+      "The entity shall disclose its water consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water consumed."
+    ],
+    "pages": [
+      "476"
+    ],
+    "industries": [
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ],
+    "pairing_explanation": "Both industries are central to the renewable energy sector and share sustainability themes related to lifecycle analysis, resource use, and environmental impact.",
+    "qa_type": "multi_hop"
+  }
+]

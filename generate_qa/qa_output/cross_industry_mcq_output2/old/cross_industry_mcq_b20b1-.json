@@ -1,0 +1,146 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When reporting on raw materials sourcing for the Apparel, Accessories & Footwear industry and the Agricultural Products industry, what is a key difference in the disclosure requirements?",
+    "optionA": "Only the Apparel industry needs to disclose the percentage of certified materials",
+    "optionB": "Only the Agricultural Products industry needs to identify principal crops",
+    "optionC": "The Apparel industry discloses percentage by weight, while Agricultural Products discloses by cost",
+    "optionD": "The Agricultural Products industry doesn't need to disclose sourcing information",
+    "optionE": "Both industries have identical raw material sourcing disclosure requirements",
+    "answer": "C: The Apparel industry discloses percentage by weight, while Agricultural Products discloses by cost",
+    "explanation": "The Apparel, Accessories & Footwear industry is required to disclose the percentage of raw materials third-party certified to sustainability standards by weight (CG-AA-440a.2). In contrast, the Agricultural Products industry discloses the percentage of products sourced from water-stressed regions by cost (FB-AG-440a.2).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products"
+    ],
+    "pages": [
+      "9",
+      "201"
+    ],
+    "pairing_explanation": "Sustainability in raw material sourcing, water use, and labor practices are common themes in both agricultural and apparel supply chains.",
+    "industries": [
+      "b20-agricultural-products",
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "In reporting water management metrics, what is a key difference between the Apparel, Accessories & Footwear industry and the Agricultural Products industry?",
+    "optionA": "Only the Agricultural Products industry reports on water consumption",
+    "optionB": "The Apparel industry reports on water quality, while Agricultural Products doesn't",
+    "optionC": "Agricultural Products reports on non-compliance incidents, while Apparel doesn't",
+    "optionD": "The Apparel industry doesn't have any water management reporting requirements",
+    "optionE": "Both industries have identical water management reporting requirements",
+    "answer": "C: Agricultural Products reports on non-compliance incidents, while Apparel doesn't",
+    "explanation": "The Agricultural Products industry is required to report on the number of incidents of non-compliance associated with water quantity and/or quality permits, standards, and regulations (FB-AG-140a.3). The Apparel, Accessories & Footwear industry does not have a similar specific requirement for reporting water-related non-compliance incidents.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products"
+    ],
+    "pages": [
+      "8",
+      "199"
+    ],
+    "pairing_explanation": "Sustainability in raw material sourcing, water use, and labor practices are common themes in both agricultural and apparel supply chains.",
+    "industries": [
+      "b20-agricultural-products",
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of sustainable raw materials for the Apparel, Accessories & Footwear industry and the percentage of agricultural products from water-stressed regions for the Agricultural Products industry, what is a key difference in the calculation method?",
+    "optionA": "Apparel uses revenue, while Agricultural Products uses production volume",
+    "optionB": "Apparel uses weight, while Agricultural Products uses cost",
+    "optionC": "Apparel uses supplier count, while Agricultural Products uses land area",
+    "optionD": "Both use the same calculation method based on revenue",
+    "optionE": "Apparel uses cost, while Agricultural Products uses weight",
+    "answer": "B: Apparel uses weight, while Agricultural Products uses cost",
+    "explanation": "For the Apparel, Accessories & Footwear industry, the percentage of sustainable raw materials is calculated by weight (CG-AA-440a.2). For the Agricultural Products industry, the percentage of products from water-stressed regions is calculated by cost of products purchased from Tier 1 suppliers (FB-AG-440a.2).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products"
+    ],
+    "pages": [
+      "10",
+      "201"
+    ],
+    "pairing_explanation": "Sustainability in raw material sourcing, water use, and labor practices are common themes in both agricultural and apparel supply chains.",
+    "industries": [
+      "b20-agricultural-products",
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "In reporting energy consumption, what is a key difference in the metrics required for the Apparel, Accessories & Footwear industry compared to the Agricultural Products industry?",
+    "optionA": "Only Agricultural Products reports on renewable energy percentage",
+    "optionB": "Apparel reports on energy intensity, while Agricultural Products doesn't",
+    "optionC": "Agricultural Products includes fleet fuel consumption, while Apparel doesn't",
+    "optionD": "Apparel doesn't have any energy consumption reporting requirements",
+    "optionE": "Both industries have identical energy consumption reporting requirements",
+    "answer": "C: Agricultural Products includes fleet fuel consumption, while Apparel doesn't",
+    "explanation": "The Agricultural Products industry is required to report on fleet fuel consumed and the percentage of renewable fuel (FB-AG-110a.3), in addition to operational energy consumption. The Apparel, Accessories & Footwear industry does not have a specific requirement to report on fleet fuel consumption.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products"
+    ],
+    "pages": [
+      "7",
+      "192"
+    ],
+    "pairing_explanation": "Sustainability in raw material sourcing, water use, and labor practices are common themes in both agricultural and apparel supply chains.",
+    "industries": [
+      "b20-agricultural-products",
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the climate change-related disclosure requirements differ between the Apparel, Accessories & Footwear industry and the Agricultural Products industry?",
+    "optionA": "Only Apparel needs to discuss climate change impacts",
+    "optionB": "Agricultural Products focuses on crop risks, while Apparel focuses on supply chain risks",
+    "optionC": "Apparel reports on product lifecycle emissions, while Agricultural Products doesn't",
+    "optionD": "Only Agricultural Products needs to discuss climate change strategies",
+    "optionE": "Both industries have identical climate change disclosure requirements",
+    "answer": "B: Agricultural Products focuses on crop risks, while Apparel focuses on supply chain risks",
+    "explanation": "The Agricultural Products industry is required to identify principal crops and describe risks and opportunities presented by climate change (FB-AG-440a.1). The Apparel, Accessories & Footwear industry focuses more on environmental and social risks associated with sourcing raw materials in the supply chain (CG-AA-440a.1).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products"
+    ],
+    "pages": [
+      "8",
+      "200"
+    ],
+    "pairing_explanation": "Sustainability in raw material sourcing, water use, and labor practices are common themes in both agricultural and apparel supply chains.",
+    "industries": [
+      "b20-agricultural-products",
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "What is a key difference in the supply chain transparency requirements between the Apparel, Accessories & Footwear industry and the Agricultural Products industry?",
+    "optionA": "Only Apparel needs to disclose supplier information",
+    "optionB": "Agricultural Products reports on Tier 2 suppliers, while Apparel doesn't",
+    "optionC": "Apparel discloses the number of suppliers, while Agricultural Products focuses on sourcing regions",
+    "optionD": "Only Agricultural Products needs to disclose supplier certifications",
+    "optionE": "Both industries have identical supply chain transparency requirements",
+    "answer": "C: Apparel discloses the number of suppliers, while Agricultural Products focuses on sourcing regions",
+    "explanation": "The Apparel, Accessories & Footwear industry is required to disclose the number of (1) Tier 1 suppliers and (2) suppliers beyond Tier 1 (CG-AA-000.A). The Agricultural Products industry focuses more on disclosing the percentage of agricultural products sourced from regions with High or Extremely High Baseline Water Stress (FB-AG-440a.2).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products"
+    ],
+    "pages": [
+      "7",
+      "201"
+    ],
+    "pairing_explanation": "Sustainability in raw material sourcing, water use, and labor practices are common themes in both agricultural and apparel supply chains.",
+    "industries": [
+      "b20-agricultural-products",
+      "b1-apparel-accessories-and-footwear"
+    ]
+  }
+]

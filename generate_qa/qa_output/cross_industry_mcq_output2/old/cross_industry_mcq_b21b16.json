@@ -1,0 +1,140 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "According to IFRS standards, which of the following is a required disclosure for commercial banks but not for alcoholic beverage companies when reporting on environmental impact?",
+    "optionA": "Total energy consumed",
+    "optionB": "Percentage of renewable energy used",
+    "optionC": "Water consumption in water-stressed regions",
+    "optionD": "Financed emissions (Scope 3 category 15)",
+    "optionE": "Supplier environmental audit results",
+    "answer": "D: Financed emissions (Scope 3 category 15)",
+    "explanation": "Commercial banks are required to disclose financed emissions (Scope 3 category 15) as part of their environmental impact reporting, specifically under the Transition Risk Exposure topic. This is not a requirement for alcoholic beverage companies. Both industries must report on energy consumption, renewable energy use, and water consumption in stressed regions, while supplier audits are more relevant to alcoholic beverages.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "149-154",
+      "203-213"
+    ],
+    "pairing_explanation": "Commercial banks\u2019 role in financing agricultural products like those in alcoholic beverages demands attention to sustainability in investments and supply chains.",
+    "industries": [
+      "b21-alcoholic-beverages",
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When reporting on water management, which of the following is required for both commercial banks and alcoholic beverage companies under IFRS standards?",
+    "optionA": "Total water withdrawn",
+    "optionB": "Percentage of water consumed in high water stress regions",
+    "optionC": "Number of production facilities in water-stressed areas",
+    "optionD": "Volume of wastewater discharged",
+    "optionE": "Water efficiency ratio per unit of production",
+    "answer": "B: Percentage of water consumed in high water stress regions",
+    "explanation": "Both commercial banks and alcoholic beverage companies are required to disclose the percentage of water consumed in regions with High or Extremely High Baseline Water Stress. This metric is crucial for understanding water-related risks in both industries, albeit for different reasons - direct operational use in beverages and financed activities for banks.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "206-209",
+      "212-213"
+    ],
+    "pairing_explanation": "Commercial banks\u2019 role in financing agricultural products like those in alcoholic beverages demands attention to sustainability in investments and supply chains.",
+    "industries": [
+      "b21-alcoholic-beverages",
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the 'gross exposure to carbon-related industries' for commercial banks and the 'percentage of beverage ingredients sourced from water-stressed regions' for alcoholic beverage companies, what similar factor is considered in both metrics?",
+    "optionA": "Total revenue from the industry",
+    "optionB": "Number of suppliers involved",
+    "optionC": "Geographic location of assets or ingredients",
+    "optionD": "Carbon intensity of products",
+    "optionE": "Market share in each sector",
+    "answer": "C: Geographic location of assets or ingredients",
+    "explanation": "Both metrics consider the geographic location of assets or ingredients. For banks, the gross exposure to carbon-related industries is calculated based on the location and industry of their investments. For alcoholic beverage companies, the sourcing of ingredients is categorized based on the water stress levels of the regions where they are produced. Both require an understanding of the geographic distribution of their assets or supplies.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "149-151",
+      "212-213"
+    ],
+    "pairing_explanation": "Commercial banks\u2019 role in financing agricultural products like those in alcoholic beverages demands attention to sustainability in investments and supply chains.",
+    "industries": [
+      "b21-alcoholic-beverages",
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When reporting on supplier audits, alcoholic beverage companies must disclose the non-conformance rate and corrective action rate. What similar metric might a commercial bank use when assessing its loan portfolio for ESG risks?",
+    "optionA": "Percentage of loans defaulted due to ESG issues",
+    "optionB": "Number of ESG-related lawsuits against borrowers",
+    "optionC": "Percentage of loan portfolio screened for ESG risks",
+    "optionD": "Rate of ESG non-compliance and subsequent corrective actions taken by borrowers",
+    "optionE": "Average ESG score of the loan portfolio",
+    "answer": "D: Rate of ESG non-compliance and subsequent corrective actions taken by borrowers",
+    "explanation": "While alcoholic beverage companies report on supplier audit non-conformances and corrective actions, commercial banks could use a similar approach for their loan portfolio. The rate of ESG non-compliance and subsequent corrective actions taken by borrowers would be most analogous to the supplier audit metric. This allows banks to assess and report on the ESG performance of their borrowers and the effectiveness of their engagement on ESG issues.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "145-149",
+      "210-211"
+    ],
+    "pairing_explanation": "Commercial banks\u2019 role in financing agricultural products like those in alcoholic beverages demands attention to sustainability in investments and supply chains.",
+    "industries": [
+      "b21-alcoholic-beverages",
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the IFRS sustainability reporting requirements for 'risk management' differ between commercial banks and alcoholic beverage companies?",
+    "optionA": "Only banks are required to report on risk management",
+    "optionB": "Banks focus on financial risks, while beverage companies focus on operational risks",
+    "optionC": "Banks must report on climate transition risks, while beverage companies report on water management risks",
+    "optionD": "Beverage companies report on supply chain risks, while banks do not have to report on any risks",
+    "optionE": "There are no differences in risk management reporting requirements",
+    "answer": "C: Banks must report on climate transition risks, while beverage companies report on water management risks",
+    "explanation": "The IFRS standards require commercial banks to report on climate transition risks, including their exposure to carbon-related industries and financed emissions. Alcoholic beverage companies, on the other hand, are required to report on water management risks, including water stress in their sourcing regions and strategies to mitigate these risks. This reflects the most material sustainability risks for each industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "149-154",
+      "206-209"
+    ],
+    "pairing_explanation": "Commercial banks\u2019 role in financing agricultural products like those in alcoholic beverages demands attention to sustainability in investments and supply chains.",
+    "industries": [
+      "b21-alcoholic-beverages",
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "In the context of IFRS sustainability reporting, how does the concept of 'supply chain management' differ between commercial banks and alcoholic beverage companies?",
+    "optionA": "Only alcoholic beverage companies need to report on supply chain management",
+    "optionB": "Banks report on financial supply chains, while beverage companies report on physical supply chains",
+    "optionC": "Banks focus on supplier diversity, while beverage companies focus on supplier environmental impact",
+    "optionD": "Beverage companies report on ingredient sourcing risks, while banks report on risks in their lending and investment portfolios",
+    "optionE": "There is no difference in supply chain management reporting between the two industries",
+    "answer": "D: Beverage companies report on ingredient sourcing risks, while banks report on risks in their lending and investment portfolios",
+    "explanation": "For alcoholic beverage companies, supply chain management in sustainability reporting focuses on ingredient sourcing risks, including environmental and social considerations in their agricultural supply chains. Commercial banks, however, report on risks in their lending and investment portfolios, which can be considered their 'financial supply chain'. This includes reporting on financed emissions and exposure to carbon-related industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "149-154",
+      "212-213"
+    ],
+    "pairing_explanation": "Commercial banks\u2019 role in financing agricultural products like those in alcoholic beverages demands attention to sustainability in investments and supply chains.",
+    "industries": [
+      "b21-alcoholic-beverages",
+      "b16-commercial-banks"
+    ]
+  }
+]

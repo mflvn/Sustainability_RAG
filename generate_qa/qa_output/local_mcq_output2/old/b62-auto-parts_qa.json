@@ -1,0 +1,152 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When reporting on energy consumption for auto parts manufacturers, which of the following is NOT included in the scope of energy consumption according to IFRS S2?",
+    "optionA": "Direct fuel usage",
+    "optionB": "Purchased electricity",
+    "optionC": "Heating energy",
+    "optionD": "Energy consumed by suppliers",
+    "optionE": "Steam energy",
+    "answer": "D. Energy consumed by suppliers",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "605",
+    "industries": [
+      "b62-auto-parts"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2, when calculating the percentage of renewable energy consumed, which of the following sources should be excluded?",
+    "optionA": "On-site generated renewable electricity with retained RECs",
+    "optionB": "Renewable energy purchased through PPAs with explicit RECs",
+    "optionC": "Green-e Energy Certified utility program purchases",
+    "optionD": "The renewable portion of the electricity grid mix outside the entity's control",
+    "optionE": "Renewable fuels consumed by the entity",
+    "answer": "D. The renewable portion of the electricity grid mix outside the entity's control",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "606",
+    "industries": [
+      "b62-auto-parts"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing revenue from products designed to increase fuel efficiency and/or reduce emissions, which of the following products should NOT be included?",
+    "optionA": "Electrification of auxiliary systems",
+    "optionB": "Hybrid-enabled braking technologies",
+    "optionC": "Improved aerodynamics components",
+    "optionD": "Low rolling resistance tire technologies",
+    "optionE": "A conventional product that is slightly lighter than its previous version",
+    "answer": "E. A conventional product that is slightly lighter than its previous version",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "607-608",
+    "industries": [
+      "b62-auto-parts"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2, when reporting on energy from biomass sources, which certification or standard is NOT mentioned as acceptable for inclusion in the scope of renewable energy?",
+    "optionA": "Forest Stewardship Council",
+    "optionB": "Sustainable Forest Initiative",
+    "optionC": "Programme for the Endorsement of Forest Certification",
+    "optionD": "American Tree Farm System",
+    "optionE": "International Organization for Standardization (ISO) 14001",
+    "answer": "E. International Organization for Standardization (ISO) 14001",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "606",
+    "industries": [
+      "b62-auto-parts"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "According to IFRS S2, how should the percentage of grid electricity be calculated in energy consumption reporting?",
+    "optionA": "Total energy consumed divided by purchased grid electricity",
+    "optionB": "Purchased grid electricity divided by total energy consumed",
+    "optionC": "Renewable energy consumed divided by purchased grid electricity",
+    "optionD": "Purchased grid electricity divided by renewable energy consumed",
+    "optionE": "Self-generated electricity divided by purchased grid electricity",
+    "answer": "B. Purchased grid electricity divided by total energy consumed",
+    "reference": "Energy Management",
+    "page": "605",
+    "industries": [
+      "b62-auto-parts"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When reporting on renewable energy consumption under IFRS S2, which of the following is required for on-site generated renewable electricity to be claimed as renewable energy?",
+    "optionA": "Selling the associated RECs or GOs",
+    "optionB": "Purchasing additional RECs from the market",
+    "optionC": "Retaining and retiring or cancelling the associated RECs or GOs",
+    "optionD": "Transferring the RECs or GOs to a third party",
+    "optionE": "No action required, all on-site generation is automatically considered renewable",
+    "answer": "C. Retaining and retiring or cancelling the associated RECs or GOs",
+    "reference": "Energy Management",
+    "page": "606",
+    "industries": [
+      "b62-auto-parts"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "Under IFRS S2, when calculating revenue from products designed to increase fuel efficiency and/or reduce emissions, which of the following criteria must be met?",
+    "optionA": "Products must completely eliminate all emissions",
+    "optionB": "Products must improve fuel efficiency by at least 50%",
+    "optionC": "Products must be tested, modeled, or shown to improve fuel efficiency or lower emissions",
+    "optionD": "Only products that reduce both fuel consumption and emissions can be included",
+    "optionE": "Products must be certified by a third-party environmental agency",
+    "answer": "C. Products must be tested, modeled, or shown to improve fuel efficiency or lower emissions",
+    "reference": "Design for Fuel Efficiency",
+    "page": "607",
+    "industries": [
+      "b62-auto-parts"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "An auto parts company is struggling to determine which of its products qualify for reporting under the 'Design for Fuel Efficiency' metric. According to IFRS S2, which of the following product improvements would be excluded from this disclosure?",
+    "optionA": "A new engine management system that significantly reduces emissions",
+    "optionB": "An electric power steering system that increases overall vehicle efficiency",
+    "optionC": "A hybrid-enabled braking technology that recovers energy",
+    "optionD": "A conventional product that is slightly lighter than its previous version",
+    "optionE": "A new alternative cooling system that reduces energy consumption",
+    "answer": "D. A conventional product that is slightly lighter than its previous version",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Auto Parts",
+    "page": "607-608",
+    "industries": [
+      "b62-auto-parts"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A sustainability reporting team at an auto parts company is trying to determine which renewable energy sources to include in their report. According to IFRS S2, which of the following is NOT considered a renewable energy source for reporting purposes?",
+    "optionA": "Geothermal energy",
+    "optionB": "Wind energy",
+    "optionC": "Solar energy",
+    "optionD": "Hydroelectric energy",
+    "optionE": "Natural gas energy",
+    "answer": "E. Natural gas energy",
+    "reference": "Energy Management",
+    "page": "605-606",
+    "industries": [
+      "b62-auto-parts"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "An auto parts company is preparing to report on its products that increase fuel efficiency or reduce emissions. According to IFRS S2, which of the following statements is true regarding the reporting of revenue from these products?",
+    "optionA": "Only products that completely eliminate emissions should be included",
+    "optionB": "Products must be certified by a third-party to be included",
+    "optionC": "Products that offer ancillary or indirect improvements in fuel efficiency can be included",
+    "optionD": "Products that provide an incremental improvement in fuel efficiency can be included if the improvement is meaningful",
+    "optionE": "Revenue from products that both increase fuel efficiency and reduce emissions should be counted twice",
+    "answer": "D. Products that provide an incremental improvement in fuel efficiency can be included if the improvement is meaningful",
+    "reference": "Design for Fuel Efficiency",
+    "page": "607-608",
+    "industries": [
+      "b62-auto-parts"
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "How do the IFRS disclosure requirements for pipeline safety differ between Gas Utilities & Distributors and Health Care Distributors?",
+    "optionA": "Only Gas Utilities & Distributors must report pipeline incidents",
+    "optionB": "Health Care Distributors must report more detailed pipeline safety metrics",
+    "optionC": "Both industries have identical pipeline safety reporting requirements",
+    "optionD": "Gas Utilities & Distributors must report incidents, corrective actions, and violations, while Health Care Distributors have no such requirements",
+    "optionE": "Health Care Distributors must report pipeline incidents, while Gas Utilities & Distributors report fleet fuel economy",
+    "answer": "D. Gas Utilities & Distributors must report incidents, corrective actions, and violations, while Health Care Distributors have no such requirements",
+    "explanation": "According to the IFRS standards, Gas Utilities & Distributors are required to disclose the number of reportable pipeline incidents, corrective actions received, and violations of pipeline safety statutes (IF-GU-540a.1). Health Care Distributors, on the other hand, do not have specific pipeline safety reporting requirements as their operations do not typically involve gas pipelines.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors"
+    ],
+    "pages": [
+      "341",
+      "289-291"
+    ],
+    "pairing_explanation": "Both distributors must prioritize sustainability in their logistics, waste management, and regulatory compliance for health and environmental safety.",
+    "industries": [
+      "b29-health-care-distributors",
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "What is a key difference in environmental impact reporting between Gas Utilities & Distributors and Health Care Distributors?",
+    "optionA": "Gas Utilities report on pipeline integrity, while Health Care Distributors report on fleet fuel management",
+    "optionB": "Health Care Distributors report on pharmaceutical units sold, while Gas Utilities report on gas delivered",
+    "optionC": "Gas Utilities report on customer gas savings, while Health Care Distributors have no efficiency reporting requirements",
+    "optionD": "Both industries have identical environmental impact reporting requirements",
+    "optionE": "Health Care Distributors report on medical device sales, while Gas Utilities report on pipeline length",
+    "answer": "A. Gas Utilities report on pipeline integrity, while Health Care Distributors report on fleet fuel management",
+    "explanation": "Gas Utilities & Distributors are required to report on the integrity of gas delivery infrastructure, including efforts to manage risks related to safety and emissions (IF-GU-540a.4). In contrast, Health Care Distributors must disclose their payload fuel economy and describe efforts to reduce the environmental impact of logistics (HC-DI-110a.1 and HC-DI-110a.2). This reflects the different nature of their operations and primary environmental impacts.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors"
+    ],
+    "pages": [
+      "342-345",
+      "290-291"
+    ],
+    "pairing_explanation": "Both distributors must prioritize sustainability in their logistics, waste management, and regulatory compliance for health and environmental safety.",
+    "industries": [
+      "b29-health-care-distributors",
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "How does the calculation of efficiency metrics differ between Gas Utilities & Distributors and Health Care Distributors?",
+    "optionA": "Gas Utilities calculate customer gas savings in MMBtu, while Health Care Distributors calculate payload fuel economy in gallons per ton-mile",
+    "optionB": "Both industries use identical efficiency metrics",
+    "optionC": "Gas Utilities calculate pipeline length, while Health Care Distributors calculate number of units sold",
+    "optionD": "Health Care Distributors calculate customer gas savings, while Gas Utilities calculate payload fuel economy",
+    "optionE": "Gas Utilities calculate number of customers served, while Health Care Distributors calculate fleet size",
+    "answer": "A. Gas Utilities calculate customer gas savings in MMBtu, while Health Care Distributors calculate payload fuel economy in gallons per ton-mile",
+    "explanation": "Gas Utilities & Distributors are required to calculate customer gas savings from efficiency measures in Million British Thermal Units (MMBtu) as per IF-GU-420a.2. Health Care Distributors, on the other hand, must calculate payload fuel economy as total gallons of fuel consumed divided by revenue ton miles (RTM) according to HC-DI-110a.1. These different metrics reflect the distinct nature of efficiency in each industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors"
+    ],
+    "pages": [
+      "337-338",
+      "290"
+    ],
+    "pairing_explanation": "Both distributors must prioritize sustainability in their logistics, waste management, and regulatory compliance for health and environmental safety.",
+    "industries": [
+      "b29-health-care-distributors",
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "Which of the following correctly describes a key difference in activity metrics between Gas Utilities & Distributors and Health Care Distributors?",
+    "optionA": "Gas Utilities report on pipeline length, while Health Care Distributors report on units sold",
+    "optionB": "Health Care Distributors report on gas delivery, while Gas Utilities report on medical device sales",
+    "optionC": "Both industries report on the same activity metrics",
+    "optionD": "Gas Utilities report on fleet size, while Health Care Distributors report on customer numbers",
+    "optionE": "Health Care Distributors report on pipeline integrity, while Gas Utilities report on pharmaceutical units sold",
+    "answer": "A. Gas Utilities report on pipeline length, while Health Care Distributors report on units sold",
+    "explanation": "According to the IFRS standards, Gas Utilities & Distributors are required to report on the length of gas transmission and distribution pipelines (IF-GU-000.C) as an activity metric. In contrast, Health Care Distributors must report on the number of pharmaceutical units and medical devices sold by product category (HC-DI-000.A and HC-DI-000.B). These different activity metrics reflect the distinct nature of operations in each industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors"
+    ],
+    "pages": [
+      "335",
+      "289"
+    ],
+    "pairing_explanation": "Both distributors must prioritize sustainability in their logistics, waste management, and regulatory compliance for health and environmental safety.",
+    "industries": [
+      "b29-health-care-distributors",
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the sustainability reporting requirements for Gas Utilities & Distributors and Health Care Distributors reflect their different environmental impacts?",
+    "optionA": "Gas Utilities focus on customer efficiency, while Health Care Distributors focus on product safety",
+    "optionB": "Health Care Distributors report on gas leaks, while Gas Utilities report on pharmaceutical waste",
+    "optionC": "Gas Utilities report on pipeline integrity and emissions, while Health Care Distributors report on fleet fuel management",
+    "optionD": "Both industries have identical environmental impact reporting requirements",
+    "optionE": "Gas Utilities report on medical waste, while Health Care Distributors report on energy production",
+    "answer": "C. Gas Utilities report on pipeline integrity and emissions, while Health Care Distributors report on fleet fuel management",
+    "explanation": "The IFRS standards require Gas Utilities & Distributors to report on pipeline integrity, including efforts to manage risks related to safety and emissions (IF-GU-540a.4), reflecting their primary environmental impact. Health Care Distributors, however, must report on fleet fuel management, including payload fuel economy and efforts to reduce the environmental impact of logistics (HC-DI-110a.1 and HC-DI-110a.2). This difference in reporting requirements aligns with the distinct environmental impacts of each industry's operations.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors"
+    ],
+    "pages": [
+      "340-345",
+      "290-291"
+    ],
+    "pairing_explanation": "Both distributors must prioritize sustainability in their logistics, waste management, and regulatory compliance for health and environmental safety.",
+    "industries": [
+      "b29-health-care-distributors",
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "What common sustainability theme is addressed in the reporting requirements for both Gas Utilities & Distributors and Health Care Distributors?",
+    "optionA": "Water management",
+    "optionB": "Waste reduction",
+    "optionC": "Employee safety",
+    "optionD": "Transportation efficiency",
+    "optionE": "Renewable energy use",
+    "answer": "D. Transportation efficiency",
+    "explanation": "Both Gas Utilities & Distributors and Health Care Distributors have reporting requirements related to transportation efficiency. Gas Utilities must report on end-use efficiency, including customer gas savings (IF-GU-420a.2), which can be influenced by transportation efficiency. Health Care Distributors are explicitly required to report on payload fuel economy (HC-DI-110a.1) and efforts to reduce the environmental impact of logistics (HC-DI-110a.2). This common theme reflects the importance of transportation efficiency in both industries' sustainability efforts.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors"
+    ],
+    "pages": [
+      "337-339",
+      "290-291"
+    ],
+    "pairing_explanation": "Both distributors must prioritize sustainability in their logistics, waste management, and regulatory compliance for health and environmental safety.",
+    "industries": [
+      "b29-health-care-distributors",
+      "b34-gas-utilities-and-distributors"
+    ]
+  }
+]

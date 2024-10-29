@@ -1,0 +1,98 @@
+[
+  {
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the percentage of refrigerants consumed by the entity that have zero ozone-depleting potential?",
+    "answer": "D",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 10,
+    "relevancy_score_b22-food-retailers-and-distributors": 5,
+    "negative_question": 0,
+    "multihop_check": 0
+  },
+  {
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ],
+    "qa_type": "single_hop",
+    "question": "What percentage of the entity's energy consumption (excluding fleet vehicles) is from renewable sources?",
+    "answer": "B",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_b22-food-retailers-and-distributors": 5,
+    "negative_question": 0,
+    "multihop_check": 0
+  },
+  {
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ],
+    "qa_type": "single_hop",
+    "question": "What percentage of the entity's revenue is from eggs that originated from a cage-free environment?",
+    "answer": "<UNKNOWN>",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 10,
+    "relevancy_score_b22-food-retailers-and-distributors": 5,
+    "negative_question": 0,
+    "multihop_check": 0
+  },
+  {
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the percentage of refrigerants consumed by the entity that have zero ozone-depleting potential?",
+    "answer": "D",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 10,
+    "relevancy_score_b22-food-retailers-and-distributors": 5,
+    "negative_question": 0,
+    "multihop_check": 0
+  },
+  {
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What percentage of the entity's energy consumption (excluding fleet vehicles) is from renewable sources?",
+    "answer": "B",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 9,
+    "relevancy_score_b22-food-retailers-and-distributors": 5,
+    "negative_question": 0,
+    "multihop_check": 0
+  },
+  {
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What percentage of the entity's revenue is from eggs that originated from a cage-free environment?",
+    "answer": "<UNKNOWN>",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 10,
+    "relevancy_score_b22-food-retailers-and-distributors": 5,
+    "negative_question": 0,
+    "multihop_check": 0
+  }
+]

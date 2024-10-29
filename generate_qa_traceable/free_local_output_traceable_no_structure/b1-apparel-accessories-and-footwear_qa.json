@@ -1,0 +1,147 @@
+[
+  {
+    "question": "What does the IFRS require companies to disclose regarding the environmental and social risks associated with sourcing priority raw materials?",
+    "answer": "The entity shall discuss its strategic approach to managing environmental and social risks that arise from sourcing priority raw materials (disclosure corresponds to the Sustainable Apparel Coalition's Higg Brand & Retail Module (BRM).",
+    "reference_text": [
+      "The entity shall discuss its strategic approach to managing environmental and social risks that arise from sourcing priority raw materials (disclosure corresponds to the Sustainable Apparel Coalition's Higg Brand & Retail Module (BRM)."
+    ],
+    "pages": [
+      "8"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "question": "How are priority raw materials defined according to the IFRS standards?",
+    "answer": "Priority raw materials are defined as those that are essential to the entity's principal products, where principal products are those that accounted for 10 percent or more of consolidated revenue in any of the last three fiscal years.",
+    "reference_text": [
+      "Priority raw materials are defined as those that are essential to the entity's principal products, where principal products are those that accounted for 10 percent or more of consolidated revenue in any of the last three fiscal years."
+    ],
+    "pages": [
+      "8"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "question": "What specific environmental supply chain risks should companies disclose related to sourcing raw materials?",
+    "answer": "Environmental supply chain risks include, but are not limited to: Climate change impacts (e.g., changing temperatures and/or water stress) on natural fiber crop production that may affect their price and availability, Legislation on greenhouse gases (GHG) affecting the price of petroleum which may affect the price of petroleum-derived raw materials, Tightening environmental regulations for suppliers that could affect the cost or availability of raw materials they supply, Lack of full traceability to the source of the raw materials, which may hinder the ability to identify compliance incidents that could lead to negative effects on brand reputation, Improper land use practices within the supply chain that may affect the yield of natural fiber raw materials, Other environmental factors that may have an impact on the entity's ability to source raw materials for its products",
+    "reference_text": [
+      "Environmental supply chain risks include, but are not limited to:",
+      "5.1    Climate change impacts (e.g., changing temperatures and/or water stress) on natural fiber crop production that may affect their price and availability",
+      "5.2 Legislation on greenhouse gases (GHG) affecting the price of petroleum which may affect the price of petroleum-derived raw materials",
+      "5.3 Tightening environmental regulations for suppliers that could affect the cost or availability of raw materials they supply",
+      "5.4 Lack of full traceability to the source of the raw materials, which may hinder the ability to identify compliance incidents that could lead to negative effects on brand reputation",
+      "5.5 Improper land use practices within the supply chain that may affect the yield of natural fiber raw materials",
+      "5.6 Other environmental factors that may have an impact on the entity's ability to source raw materials for its products"
+    ],
+    "pages": [
+      "8",
+      "9"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "question": "What does the IFRS require companies to disclose regarding the percentage of raw materials certified to sustainability standards?",
+    "answer": "The entity shall disclose the percentage of raw materials that are third-party certified to an environmental or social sustainability standard. The entity shall calculate the percentage as the weight of raw materials third-party certified to an environmental and/or social standard divided by the total weight of raw materials that compose the entity's finished products.",
+    "reference_text": [
+      "The entity shall disclose the percentage of raw materials that are third-party certified to an environmental or social sustainability standard.",
+      "The entity shall calculate the percentage as the weight of raw materials third-party certified to an environmental and/or social standard divided by the total weight of raw materials that compose the entity's finished products."
+    ],
+    "pages": [
+      "9",
+      "10"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "question": "According to the IFRS standards, what should a company in the apparel industry disclose regarding the environmental and social risks associated with sourcing its priority raw materials?",
+    "answer": "The entity shall discuss its strategic approach to managing environmental and social risks that arise from sourcing priority raw materials (disclosure corresponds to the Sustainable Apparel Coalition's Higg Brand & Retail Module (BRM)). Priority raw materials are defined as those that are essential to the entity's principal products, where principal products are those that accounted for 10 percent or more of consolidated revenue in any of the last three fiscal years.",
+    "reference_text": [
+      "CG-AA-440a.1. Description of environmental and social risks associated with sourcing priority raw materials",
+      "1    The entity shall discuss its strategic approach to managing environmental and social risks that arise from sourcing priority raw materials (disclosure corresponds to the Sustainable Apparel Coalition's Higg Brand & Retail Module (BRM).",
+      "1.1    Priority raw materials are defined as those that are essential to the entity's principal products, where principal products are those that accounted for 10 percent or more of consolidated revenue in any of the last three fiscal years."
+    ],
+    "pages": [
+      "8",
+      "9"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "question": "What specific environmental risks should a company disclose related to sourcing priority raw materials in the apparel industry?",
+    "answer": "Environmental supply chain risks include, but are not limited to: Climate change impacts (e.g., changing temperatures and/or water stress) on natural fiber crop production that may affect their price and availability, Legislation on greenhouse gases (GHG) affecting the price of petroleum which may affect the price of petroleum-derived raw materials, Tightening environmental regulations for suppliers that could affect the cost or availability of raw materials they supply, Lack of full traceability to the source of the raw materials, which may hinder the ability to identify compliance incidents that could lead to negative effects on brand reputation, Improper land use practices within the supply chain that may affect the yield of natural fiber raw materials, Other environmental factors that may have an impact on the entity's ability to source raw materials for its products.",
+    "reference_text": [
+      "5    Environmental supply chain risks include, but are not limited to:",
+      "5.1    Climate change impacts (e.g., changing temperatures and/or water stress) on natural fiber crop production that may affect their price and availability",
+      "5.2 Legislation on greenhouse gases (GHG) affecting the price of petroleum which may affect the price of petroleum-derived raw materials",
+      "5.3 Tightening environmental regulations for suppliers that could affect the cost or availability of raw materials they supply",
+      "5.4 Lack of full traceability to the source of the raw materials, which may hinder the ability to identify compliance incidents that could lead to negative effects on brand reputation",
+      "5.5 Improper land use practices within the supply chain that may affect the yield of natural fiber raw materials",
+      "5.6 Other environmental factors that may have an impact on the entity's ability to source raw materials for its products"
+    ],
+    "pages": [
+      "9"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "question": "If a company identifies cotton as one of its priority raw materials, what specific disclosure is required regarding water stress according to the IFRS standards?",
+    "answer": "If the entity identifies cotton as one of its priority raw materials, it shall discuss its vulnerability to cotton-growing regions with water stress and how it manages the risk of price variability due to sourcing cotton from these regions. The entity may identify its known sources of cotton for High (40\u201480%) or Extremely High (>80%) Baseline Water Stress using the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct.",
+    "reference_text": [
+      "7 If the entity identifies cotton as one of its priority raw materials, it shall discuss its vulnerability to cotton-growing regions with water stress and how it manages the risk of price variability due to sourcing cotton from these regions.",
+      "7.1 The entity may identify its known sources of cotton for High (40\u201480%) or Extremely High (>80%) Baseline Water Stress using the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct."
+    ],
+    "pages": [
+      "9"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "question": "What are some examples of third-party environmental and social sustainability standards that an apparel company can use to certify its raw materials, according to the IFRS guidelines?",
+    "answer": "Environmental and social sustainability standards include, but are not limited to: Outdoor Industry Association's Content Claim Standard (CCS), Textile Exchange's Recycled Claim Standard, Global Recycled Standard, Organic Cotton Standard, and Responsible Down Standard, Certified Organic, Control Union Global Organic Textile Standard, Better Cotton Initiative, Forestry Stewardship Council certification (for lyocell and rubber), Rainforest Alliance leather products, Global Organic Textile Standard, STeP by OEKO-TEX\u00ae, OEKO-TEX\u00ae Standard 100, ECO PASSPORT, Cradle to Cradle, Bluesign.",
+    "reference_text": [
+      "1.2 Environmental and social sustainability standards include, but are not limited to:",
+      "1.2.1 Outdoor Industry Association's Content Claim Standard (CCS)",
+      "1.2.2 Textile Exchange's Recycled Claim Standard, Global Recycled Standard, Organic Cotton Standard, and Responsible Down Standard",
+      "1.2.3 Certified Organic",
+      "1.2.4 Control Union Global Organic Textile Standard",
+      "1.2.5 Better Cotton Initiative",
+      "1.2.6 Forestry Stewardship Council certification (for lyocell and rubber)",
+      "1.2.7 Rainforest Alliance leather products",
+      "1.2.8 Global Organic Textile Standard",
+      "1.2.9 STeP by OEKO-TEX\u00ae",
+      "1.2.10 OEKO-TEX\u00ae Standard 100",
+      "1.2.11 ECO PASSPORT",
+      "1.2.12 Cradle to Cradle",
+      "1.2.13 Bluesign"
+    ],
+    "pages": [
+      "9",
+      "10"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  }
+]

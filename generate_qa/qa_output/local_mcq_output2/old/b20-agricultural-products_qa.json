@@ -1,0 +1,152 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "Which of the following is NOT a required disclosure for the 'Greenhouse Gas Emissions' topic in the Agricultural Products industry?",
+    "optionA": "Gross global Scope 1 emissions",
+    "optionB": "Discussion of long-term and short-term strategy to manage Scope 1 emissions",
+    "optionC": "Fleet fuel consumed, percentage renewable",
+    "optionD": "Scope 2 emissions reduction targets",
+    "optionE": "Emissions reduction targets and performance analysis",
+    "answer": "D. Scope 2 emissions reduction targets",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "190-193",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing the percentage of renewable energy consumed, which of the following sources should be EXCLUDED from the scope of renewable energy?",
+    "optionA": "Renewable fuel consumed by the entity",
+    "optionB": "Renewable energy directly produced by the entity",
+    "optionC": "Renewable energy purchased through a power purchase agreement (PPA)",
+    "optionD": "Renewable portion of the electricity grid mix outside the entity's control",
+    "optionE": "Green-e Energy Certified utility programs",
+    "answer": "D. Renewable portion of the electricity grid mix outside the entity's control",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "194-195",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "In the context of water management disclosures, how should a company determine if it operates in a region with High or Extremely High Baseline Water Stress?",
+    "optionA": "By consulting local water utility reports",
+    "optionB": "Using the CDP Water Security questionnaire",
+    "optionC": "Through internal water risk assessments",
+    "optionD": "Using the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "optionE": "By measuring annual rainfall in the region",
+    "answer": "D. Using the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "196-197",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When identifying principal crops for climate change risk disclosure, which of the following criteria should be used?",
+    "optionA": "Crops that account for 5% or more of consolidated revenue",
+    "optionB": "Crops that account for 10% or more of consolidated revenue in any of the last three reporting periods",
+    "optionC": "The top three crops by production volume",
+    "optionD": "Crops identified as high-risk by the FAO",
+    "optionE": "Crops that require the most water consumption",
+    "answer": "B. Crops that account for 10% or more of consolidated revenue in any of the last three reporting periods",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "200-201",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of fleet fuel consumed that is renewable, which of the following requirements must the fuel meet?",
+    "optionA": "Produced from any biomass source",
+    "optionB": "Used to replace fossil fuel in heating oil only",
+    "optionC": "Achieved zero greenhouse gas emissions",
+    "optionD": "Produced from renewable biomass and reduces fossil fuel use in transportation, heating, or jet fuel",
+    "optionE": "Certified by a government agency as renewable",
+    "answer": "D. Produced from renewable biomass and reduces fossil fuel use in transportation, heating, or jet fuel",
+    "reference": "Greenhouse Gas Emissions",
+    "page": "192-193",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When disclosing operational energy consumption, which of the following should be EXCLUDED from the calculation?",
+    "optionA": "Purchased electricity",
+    "optionB": "Self-generated energy",
+    "optionC": "Heating and cooling energy",
+    "optionD": "Steam energy",
+    "optionE": "Fuel consumed by fleet vehicles",
+    "answer": "E. Fuel consumed by fleet vehicles",
+    "reference": "Energy Management",
+    "page": "194-195",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "In calculating water consumption for sustainability reporting, which of the following is NOT considered as consumed water?",
+    "optionA": "Water that evaporates during usage",
+    "optionB": "Water incorporated into the entity's product",
+    "optionC": "Water returned to a different catchment area",
+    "optionD": "Water that returns to the same catchment area from which it was withdrawn",
+    "optionE": "Water that evaporates during discharge",
+    "answer": "D. Water that returns to the same catchment area from which it was withdrawn",
+    "reference": "Water Management",
+    "page": "196-197",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of agricultural products sourced from regions with High or Extremely High Baseline Water Stress, what should be used as the denominator?",
+    "optionA": "Total volume of agricultural products purchased",
+    "optionB": "Total number of Tier 1 suppliers",
+    "optionC": "Total land area used for agricultural production",
+    "optionD": "Total cost of agricultural products purchased from Tier 1 suppliers",
+    "optionE": "Total water consumption in agricultural production",
+    "answer": "D. Total cost of agricultural products purchased from Tier 1 suppliers",
+    "reference": "Ingredient Sourcing",
+    "page": "201-202",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "In the context of water management risks for agricultural products companies, which of the following is NOT considered a regulatory or financial constraint?",
+    "optionA": "Volatility in water costs",
+    "optionB": "Stakeholder perceptions related to water withdrawals",
+    "optionC": "Restrictions to withdrawals due to regulations",
+    "optionD": "Constraints on obtaining water rights or permits",
+    "optionE": "Seasonal changes in crop water requirements",
+    "answer": "E: Seasonal changes in crop water requirements",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "197",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When disclosing incidents of non-compliance associated with water quantity and/or quality permits, which of the following should be included?",
+    "optionA": "All reported incidents, regardless of enforcement action",
+    "optionB": "Only incidents resulting in formal enforcement actions",
+    "optionC": "Incidents resolved through informal discussions with regulators",
+    "optionD": "Potential violations identified through internal audits",
+    "optionE": "Non-compliance events from the previous reporting period",
+    "answer": "B: Only incidents resulting in formal enforcement actions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+    "page": "199",
+    "industries": [
+      "b20-agricultural-products"
+    ]
+  }
+]

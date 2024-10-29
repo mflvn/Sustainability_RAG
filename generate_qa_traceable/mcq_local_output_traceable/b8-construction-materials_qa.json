@@ -1,0 +1,171 @@
+[
+  {
+    "question": "What is the code of the metric for 'Total energy consumed, percentage grid electricity, percentage alternative, percentage renewable' in the Construction Materials industry?",
+    "optionA": "EM-CM-130a.1",
+    "optionB": "EM-CM-110a.1",
+    "optionC": "EM-CM-120a.1",
+    "optionD": "EM-CM-140a.1",
+    "optionE": "EM-CM-150a.1",
+    "answer": "A",
+    "pages": [
+      "61"
+    ],
+    "reference_text": [
+      "EM-CM-130a.1. (1) Total energy consumed, (2) percentage grid electricity, (3) percentage alternative, (4) percentage renewable"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "question": "For the listed requirement 'Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations', what does a company in the Construction Materials industry need to do?",
+    "optionA": "Disclose its gross global Scope 1 greenhouse gas emissions and the percentage covered under emissions-limiting regulations.",
+    "optionB": "Discuss its strategy for managing Scope 1 emissions and emissions reduction targets.",
+    "optionC": "Disclose air emissions of pollutants like NOx, SOx, and particulate matter.",
+    "optionD": "Disclose the total energy consumed and percentages from grid, alternative, and renewable sources.",
+    "optionE": "Disclose the amount of waste generated, percentage hazardous, and percentage recycled.",
+    "answer": "A",
+    "pages": [
+      "55",
+      "56"
+    ],
+    "reference_text": [
+      "The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol...",
+      "The entity shall disclose the percentage of its gross global Scope 1 GHG emissions that are covered under an emissions-limiting regulation or program that is intended to directly limit or reduce emissions, such as cap-and-trade schemes, carbon tax/fee systems, and other emissions control (e.g., command-and-control approach) and permit-based mechanisms."
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "question": "What is the category of the 'Production by major product line' metric in the Construction Materials industry?",
+    "optionA": "Quantitative",
+    "optionB": "Discussion and Analysis",
+    "optionC": "n/a",
+    "optionD": "Percentage (%)",
+    "optionE": "Metric tons (t)",
+    "answer": "A",
+    "pages": [
+      "53"
+    ],
+    "reference_text": [
+      "| ACTIVITY METRIC | CATEGORY | UNIT OF MEASURE | CODE | |------------------|----------|-----------------|------| | Production by major product line | Quantitative | Metric tons (t) | EM-CM-000.A |"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "question": "For the listed requirement 'Amount of waste generated, percentage hazardous, percentage recycled', what metric should a company in the Construction Materials industry use for percentage recycled?",
+    "optionA": "The weight of waste material that was reused, plus the weight recycled or remanufactured by the entity, plus the amount sent externally for further recycling, divided by the total weight of waste material.",
+    "optionB": "The weight of hazardous waste as defined per the legal or regulatory framework divided by the total weight of waste material.",
+    "optionC": "The weight of waste material incinerated for energy recovery divided by the total weight of waste material.",
+    "optionD": "The weight of waste material sent to landfill divided by the total weight of waste material.",
+    "optionE": "The weight of waste material recycled on-site divided by the total weight of waste material.",
+    "answer": "A",
+    "pages": [
+      "66"
+    ],
+    "reference_text": [
+      "The percentage recycled shall be calculated as the weight of waste material that was reused, plus the weight recycled or remanufactured (through treatment or processing) by the entity, plus the amount sent externally for further recycling, divided by the total weight of waste material..."
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "question": "What is the code of the metric 'Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations' in the Construction Materials industry and how should this metric be calculated?",
+    "optionA": "The code is EM-CM-110a.1. To calculate this metric: 1) Disclose gross global Scope 1 GHG emissions in metric tons CO2-e according to the GHG Protocol. 2) Disclose the percentage covered under emissions-limiting regulations like cap-and-trade schemes. This percentage is calculated as emissions covered by regulations / total Scope 1 emissions.",
+    "optionB": "The code is EM-CM-110a.2. To calculate this metric: Discuss the long-term and short-term strategy to manage Scope 1 emissions, emission reduction targets, and an analysis of performance against those targets.",
+    "optionC": "The code is EM-CM-120a.1. To calculate this metric: Disclose air emissions of NOx, SOx, PM10, dioxins/furans, VOCs, PAHs, and heavy metals in metric tons.",
+    "optionD": "The code is EM-CM-130a.1. To calculate this metric: 1) Disclose total energy consumed in gigajoules. 2) Disclose percentage grid electricity. 3) Disclose percentage alternative energy sources. 4) Disclose percentage renewable energy.",
+    "optionE": "The code is EM-CM-140a.1. To calculate this metric: 1) Disclose total fresh water withdrawn in thousands of cubic meters. 2) Disclose percentage recycled water. 3) Disclose percentage in High/Extremely High Baseline Water Stress regions.",
+    "answer": "A",
+    "reference_text": [
+      "EM-CM-110a.1. Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations",
+      "1 The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol\u2014carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF6), and nitrogen trifluoride (NF3).",
+      "3 The entity shall disclose the percentage of its gross global Scope 1 GHG emissions that are covered under an emissions-limiting regulation or program that is intended to directly limit or reduce emissions, such as cap-and-trade schemes, carbon tax/fee systems, and other emissions control (e.g., command-and-control approach) and permit-based mechanisms.",
+      "3.2 The percentage shall be calculated as the total amount of gross global Scope 1 GHG emissions (CO2-e) that are covered under emissions-limiting regulations divided by the total amount of gross global Scope 1 GHG emissions (CO2-e)."
+    ],
+    "pages": [
+      "55",
+      "56"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for the 'Air Quality' topic in the Construction Materials industry?",
+    "optionA": "Metric tons (t), Percentage (%)",
+    "optionB": "Metric tons (t) CO2-e, Percentage (%)",
+    "optionC": "Gigajoules (GJ), Percentage (%)",
+    "optionD": "Thousand cubic meters (m\u00b3), Percentage (%)",
+    "optionE": "Reporting currency, Percentage (%)",
+    "answer": "A",
+    "reference_text": [
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|-------|--------|----------|-----------------|------|",
+      "| Air Quality | Air emissions of the following pollutants: (1) NOx (excluding N\u2082O), (2) SOx, (3) particulate matter (PM10), (4) dioxins/furans, (5) volatile organic compounds (VOCs), (6) polycyclic aromatic hydrocarbons (PAHs), and (7) heavy metals | Quantitative | Metric tons (t) | EM-CM-120a.1 |"
+    ],
+    "pages": [
+      "53"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "question": "For the requirement 'The entity shall disclose the percentage of waste generated that was hazardous', what metric should a company in the Construction Materials industry use and how should this metric be calculated?",
+    "optionA": "The metric is EM-CM-150a.1 'Amount of waste generated, percentage hazardous, percentage recycled'. The percentage hazardous waste is calculated as: weight of hazardous waste as defined by applicable regulations / total weight of waste material.",
+    "optionB": "The metric is EM-CM-120a.1 'Air emissions of pollutants'. The percentage hazardous waste is not covered under this metric.",
+    "optionC": "The metric is EM-CM-140a.1 'Total fresh water withdrawn, percentage recycled, percentage in High/Extremely High Baseline Water Stress'. The percentage hazardous waste is not covered under this metric.",
+    "optionD": "The metric is EM-CM-130a.1 'Total energy consumed, percentage grid/alternative/renewable'. The percentage hazardous waste is not covered under this metric.",
+    "optionE": "The metric is EM-CM-410a.2 'Total addressable market and share for reduced environmental impact products'. The percentage hazardous waste is not covered under this metric.",
+    "answer": "A",
+    "reference_text": [
+      "EM-CM-150a.1. Amount of waste generated, percentage hazardous, percentage recycled",
+      "2 The entity shall disclose the percentage of waste generated that was hazardous.",
+      "2.1 The percentage of hazardous waste shall be calculated as the weight of hazardous waste as defined per the legal or regulatory framework(s) applicable within the jurisdiction(s) where the waste is generated divided by the total weight of waste material."
+    ],
+    "pages": [
+      "65",
+      "66"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "question": "Can you tell me what topics are covered in the 'Product Innovation' section of the Construction Materials document and what are the key takeaways I need to know as a company writing my sustainability report in this industry?",
+    "optionA": "The Product Innovation section covers metrics on: 1) Percentage of products qualifying for sustainable building certifications, and 2) Total addressable market and share for products reducing environmental impacts. Key takeaways are that companies should disclose revenue from certified sustainable products, estimate the market for reduced-impact products, and disclose their current share of that market.",
+    "optionB": "The Product Innovation section covers metrics on air emissions of pollutants like NOx, SOx, and particulate matter. A key takeaway is disclosing strategies to reduce these emissions at production facilities.",
+    "optionC": "The Product Innovation section covers metrics on total energy consumption, percentage from grid/alternative/renewable sources. A key takeaway is disclosing efforts to increase renewable energy use.",
+    "optionD": "The Product Innovation section covers metrics on water withdrawal, recycling, and operations in water stressed areas. A key takeaway is disclosing risks in water scarce regions and efforts to recycle water.",
+    "optionE": "The Product Innovation section covers metrics on waste generation, percentage hazardous, and percentage recycled. A key takeaway is disclosing programs to reduce hazardous waste and increase recycling rates.",
+    "answer": "A",
+    "reference_text": [
+      "# Product Innovation",
+      "## Topic Summary",
+      "Innovations in building materials are a key component in the growth of sustainable construction. Consumer and regulatory trends are largely driving adoption of sustainable building materials and processes that are more resource efficient and can reduce health impacts of buildings throughout their lifecycle. This is creating new business drivers for construction materials companies, with an opportunity to increase revenues.",
+      "## Metrics",
+      "EM-CM-410a.1. Percentage of products that qualify for credits in sustainable building design and construction certifications",
+      "EM-CM-410a.2. Total addressable market and share of market for products that reduce energy, water, and/or material impacts during usage and/or production"
+    ],
+    "pages": [
+      "67",
+      "68"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  }
+]

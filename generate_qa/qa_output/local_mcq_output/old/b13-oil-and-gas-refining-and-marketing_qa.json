@@ -1,0 +1,407 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the primary sources of greenhouse gas emissions in Oil and Gas Refining & Marketing operations?",
+    "optionA": "Only fugitive emissions from equipment leaks",
+    "optionB": "Stationary combustion of fossil fuels for energy consumption",
+    "optionC": "Exclusively from non-routine events such as equipment maintenance",
+    "optionD": "Only from venting and flaring processes",
+    "optionE": "Emissions from employee commuting",
+    "answer": "B. Stationary combustion of fossil fuels for energy consumption",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "116",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the document, what is the preferred source for Global Warming Potential (GWP) factors?",
+    "optionA": "The United Nations Framework Convention on Climate Change (UNFCCC)",
+    "optionB": "The World Resources Institute (WRI)",
+    "optionC": "The Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report (2014)",
+    "optionD": "The U.S. Environmental Protection Agency (EPA)",
+    "optionE": "The International Energy Agency (IEA)",
+    "answer": "C. The Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report (2014)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "116",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "How is fresh water defined in the context of water management metrics for the Oil & Gas Refining & Marketing industry?",
+    "optionA": "Water with less than 500 parts per million of dissolved solids",
+    "optionB": "Water obtained only from natural springs",
+    "optionC": "Water that has less than 1000 parts per million of dissolved solids, where there is no regulatory definition",
+    "optionD": "Any water that has been treated in a purification plant",
+    "optionE": "Water with a pH level between 6.5 and 8.5",
+    "answer": "C. Water that has less than 1000 parts per million of dissolved solids, where there is no regulatory definition",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "121",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What is the definition of advanced biofuels according to the document?",
+    "optionA": "Biofuels derived from any plant-based source",
+    "optionB": "Biofuels with 25% lower lifecycle greenhouse gas emissions than gasoline",
+    "optionC": "Biofuels other than ethanol derived from corn starch and having 50% lower lifecycle greenhouse gas emissions relative to gasoline",
+    "optionD": "Any biofuel produced using advanced technology",
+    "optionE": "Biofuels derived exclusively from algae",
+    "answer": "C. Biofuels other than ethanol derived from corn starch and having 50% lower lifecycle greenhouse gas emissions relative to gasoline",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "122",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might a company's strategy to manage Scope 1 emissions be influenced by both its emission sources and regulatory environment?",
+    "optionA": "By focusing solely on flared hydrocarbon emissions and ignoring regulations",
+    "optionB": "By targeting only fugitive emissions and complying with local regulations",
+    "optionC": "By addressing various emission sources and considering both voluntary and mandatory emission-limiting programs",
+    "optionD": "By implementing water management strategies to indirectly reduce emissions",
+    "optionE": "By increasing production to offset emission-related costs",
+    "answer": "C: By addressing various emission sources and considering both voluntary and mandatory emission-limiting programs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "118-120",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How does the complexity of a refinery's operations impact its environmental footprint and financial performance?",
+    "optionA": "It only affects the types of products produced",
+    "optionB": "It has no impact on environmental or financial aspects",
+    "optionC": "It influences water usage but not emissions or costs",
+    "optionD": "It affects emissions intensity, water usage, and operational costs",
+    "optionE": "It only impacts the refinery's capacity, not its environmental impact",
+    "answer": "D: It affects emissions intensity, water usage, and operational costs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "115-116, 121",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How can investments in advanced biofuels and associated infrastructure address both regulatory risks and long-term profitability for Refining & Marketing companies?",
+    "optionA": "By increasing short-term profits without considering regulations",
+    "optionB": "By focusing solely on fossil fuel production to maximize current revenue",
+    "optionC": "By complying with current regulations without investing in new technologies",
+    "optionD": "By balancing compliance with renewable fuel mandates and developing future market opportunities",
+    "optionE": "By ignoring both regulatory risks and long-term profitability",
+    "answer": "D: By balancing compliance with renewable fuel mandates and developing future market opportunities",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "122-123",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How do water management strategies in refineries interconnect with emission reduction efforts and community relations?",
+    "optionA": "They are completely unrelated aspects of refinery operations",
+    "optionB": "Water management only affects production capacity, not emissions or community relations",
+    "optionC": "Efficient water use can reduce energy consumption, lowering emissions and improving community standing",
+    "optionD": "Water management solely impacts community relations, with no effect on emissions",
+    "optionE": "Emission reduction is the only factor that influences community relations",
+    "answer": "C: Efficient water use can reduce energy consumption, lowering emissions and improving community standing",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "121-122",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is meant by 'gross global Scope 1 emissions' in the context of Oil & Gas Refining & Marketing?",
+    "optionA": "Emissions from purchased electricity and steam",
+    "optionB": "Emissions from company vehicles only",
+    "optionC": "Direct GHG emissions into the atmosphere before accounting for offsets or credits",
+    "optionD": "Indirect emissions from the use of sold products",
+    "optionE": "Emissions exclusively from flaring activities",
+    "answer": "C. Direct GHG emissions into the atmosphere before accounting for offsets or credits",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "116-117",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What does 'total addressable market' mean in the context of advanced biofuels?",
+    "optionA": "The current sales of advanced biofuels",
+    "optionB": "The market share of the company's biofuel products",
+    "optionC": "The potential revenue if the company captured 100% of the global market for advanced biofuels and infrastructure",
+    "optionD": "The total production capacity of advanced biofuels",
+    "optionE": "The government-mandated quota for biofuel production",
+    "answer": "C. The potential revenue if the company captured 100% of the global market for advanced biofuels and infrastructure",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "122-123",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What are 'fugitive emissions' in the context of refinery operations?",
+    "optionA": "Emissions from intentional venting of gases",
+    "optionB": "Emissions from the combustion of fossil fuels",
+    "optionC": "Emissions that escape from pressurized equipment due to leaks and can be fixed to near zero",
+    "optionD": "Emissions from wastewater treatment processes",
+    "optionE": "Emissions from the transportation of refined products",
+    "answer": "C. Emissions that escape from pressurized equipment due to leaks and can be fixed to near zero",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "119-120",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is the 'financial control' approach in the context of consolidating greenhouse gas (GHG) emissions data for Oil & Gas Refining & Marketing companies?",
+    "optionA": "A method where emissions are reported based on the percentage of economic interest in each operation",
+    "optionB": "An approach where emissions are consolidated according to the entity's financial reporting data",
+    "optionC": "A system where emissions are calculated based on the market value of the company's assets",
+    "optionD": "A technique that only accounts for emissions from wholly-owned subsidiaries",
+    "optionE": "An approach where emissions are reported based on the company's operational control, regardless of financial ownership",
+    "answer": "B. An approach where emissions are consolidated according to the entity's financial reporting data",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Refining & Marketing",
+    "page": "117",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might the implementation of emissions-limiting regulations impact the operational strategies of Oil & Gas Refining & Marketing companies?",
+    "optionA": "It would have no impact on operational strategies",
+    "optionB": "It would only affect companies in European countries",
+    "optionC": "It could lead to increased investments in energy efficiency and emissions reduction technologies",
+    "optionD": "It would exclusively impact the transportation sector of these companies",
+    "optionE": "It would result in immediate shutdown of all refining operations",
+    "answer": "C. It could lead to increased investments in energy efficiency and emissions reduction technologies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "116-120",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might the location of a refinery in a water-stressed region influence its operational risks and community relations?",
+    "optionA": "It would have no impact on operational risks or community relations",
+    "optionB": "It would only affect the refinery's landscaping decisions",
+    "optionC": "It could lead to increased operational costs and potential conflicts with local communities over water usage",
+    "optionD": "It would exclusively impact the refinery's ability to produce steam",
+    "optionE": "It would result in automatic approval for unlimited water usage",
+    "answer": "C. It could lead to increased operational costs and potential conflicts with local communities over water usage",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "121-122",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might the disclosure of a company's strategies to manage Scope 1 emissions impact investor perceptions and decision-making?",
+    "optionA": "It would have no impact on investor perceptions",
+    "optionB": "It would only be relevant for investors in renewable energy companies",
+    "optionC": "It could provide investors with insights into the company's long-term risk management and sustainability efforts",
+    "optionD": "It would exclusively influence government regulators",
+    "optionE": "It would automatically lead to divestment from all oil and gas companies",
+    "answer": "C. It could provide investors with insights into the company's long-term risk management and sustainability efforts",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "118-120",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might the shift towards advanced biofuels impact the long-term business strategy of traditional Oil & Gas Refining & Marketing companies?",
+    "optionA": "It has no impact as traditional fuels will always dominate the market",
+    "optionB": "It requires significant investment in R&D and infrastructure, potentially reducing short-term profitability but enhancing long-term competitiveness",
+    "optionC": "It only affects companies in regions with strict renewable fuel mandates",
+    "optionD": "It leads to immediate closure of all traditional refining operations",
+    "optionE": "It only impacts the marketing aspect of the business, not the refining operations",
+    "answer": "B. It requires significant investment in R&D and infrastructure, potentially reducing short-term profitability but enhancing long-term competitiveness",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Refining & Marketing",
+    "page": "122-123",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What specific categories of emissions sources must Oil & Gas Refining & Marketing companies consider when discussing their strategies to manage Scope 1 emissions?",
+    "optionA": "Only flared hydrocarbons and process emissions",
+    "optionB": "Flared hydrocarbons, other combusted emissions, and vented emissions",
+    "optionC": "Process emissions, fugitive emissions, and vented emissions",
+    "optionD": "Flared hydrocarbons, other combusted emissions, process emissions, vented emissions, and fugitive emissions",
+    "optionE": "Only combusted emissions and fugitive emissions",
+    "answer": "D. Flared hydrocarbons, other combusted emissions, process emissions, vented emissions, and fugitive emissions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "119-120",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the IFRS S2 Climate-related Disclosures, how should a company calculate the percentage of its Scope 1 emissions covered under emissions-limiting regulations?",
+    "optionA": "Total emissions covered by regulations divided by total Scope 1 and Scope 2 emissions",
+    "optionB": "Total emissions covered by regulations divided by total Scope 1 emissions",
+    "optionC": "Total emissions covered by regulations minus voluntary emissions reductions",
+    "optionD": "Total emissions covered by regulations plus emissions from acquired companies",
+    "optionE": "Total emissions covered by regulations multiplied by the company's market share",
+    "answer": "B. Total emissions covered by regulations divided by total Scope 1 emissions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "117-118",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "When discussing water management strategies, how does the IFRS S2 standard define 'fresh water' for reporting purposes?",
+    "optionA": "Water with less than 500 parts per million of dissolved solids",
+    "optionB": "Any water sourced from surface water bodies",
+    "optionC": "Water with less than 1000 parts per million of dissolved solids, unless otherwise defined by local regulations",
+    "optionD": "Only purified water used in refining processes",
+    "optionE": "Water sourced exclusively from municipal supplies",
+    "answer": "C. Water with less than 1000 parts per million of dissolved solids, unless otherwise defined by local regulations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "121",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the correct approach for calculating the percentage of water recycled in Oil & Gas Refining & Marketing operations?",
+    "optionA": "Volume of water treated divided by volume of water withdrawn",
+    "optionB": "Volume of water reused once divided by total water consumption",
+    "optionC": "Volume of water recycled divided by volume of water withdrawn, counting each instance of reuse",
+    "optionD": "Volume of water saved through conservation efforts",
+    "optionE": "Volume of water discharged minus volume of water withdrawn",
+    "answer": "C. Volume of water recycled divided by volume of water withdrawn, counting each instance of reuse",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "121",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "Based on the IFRS S2 Climate-related Disclosures, what are the potential implications of water management strategies for Oil & Gas Refining & Marketing companies operating in water-stressed regions?",
+    "optionA": "Increased profitability due to lower water costs",
+    "optionB": "Reduced operational risks, improved community relations, and potential cost savings",
+    "optionC": "No significant impact on operations or stakeholder relationships",
+    "optionD": "Decreased production capacity but improved environmental reputation",
+    "optionE": "Increased water usage leading to higher operational efficiency",
+    "answer": "B: Reduced operational risks, improved community relations, and potential cost savings",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Refining & Marketing",
+    "page": "121-122",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "Considering the IFRS S2 Climate-related Disclosures, how might the requirement to disclose the total addressable market for advanced biofuels impact the competitive landscape of the Oil & Gas Refining & Marketing industry?",
+    "optionA": "It will have no effect on competition as all companies will report the same market size",
+    "optionB": "It may intensify competition and drive innovation in advanced biofuel technologies",
+    "optionC": "It will likely decrease competition as companies will avoid entering the advanced biofuels market",
+    "optionD": "The disclosure will only benefit large companies, disadvantaging smaller players",
+    "optionE": "It will lead to collusion among companies to manipulate the reported market size",
+    "answer": "B: It may intensify competition and drive innovation in advanced biofuel technologies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Refining & Marketing",
+    "page": "122-123",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the increasing focus on greenhouse gas emissions and water management in the Oil & Gas Refining & Marketing industry shape future investment strategies and operational practices?",
+    "optionA": "Companies will likely prioritize short-term profits over long-term sustainability goals",
+    "optionB": "The industry will shift towards increased investments in emissions reduction technologies and water-efficient processes",
+    "optionC": "Regulatory pressures will have minimal impact on investment strategies in the industry",
+    "optionD": "Companies will relocate all operations to regions with less stringent environmental regulations",
+    "optionE": "The industry will completely abandon traditional refining processes in favor of renewable energy production",
+    "answer": "B: The industry will shift towards increased investments in emissions reduction technologies and water-efficient processes",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Refining & Marketing",
+    "page": "116-122",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "Given the disclosure requirements for advanced biofuels market share, how might this impact the innovation and competitive dynamics within the Oil & Gas Refining & Marketing industry?",
+    "optionA": "It will have no significant effect on innovation or competition in the industry",
+    "optionB": "It will lead to decreased innovation as companies focus solely on traditional refining methods",
+    "optionC": "It will result in increased collaboration between companies, reducing overall competition",
+    "optionD": "It will drive increased investment in R&D for advanced biofuels and create new competitive advantages",
+    "optionE": "It will cause companies to abandon the biofuels market entirely due to disclosure complexities",
+    "answer": "D: It will drive increased investment in R&D for advanced biofuels and create new competitive advantages",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Refining & Marketing",
+    "page": "122-123",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following environmental impact factors is NOT explicitly mentioned in the IFRS S2 Climate-related Disclosures for the Oil & Gas Refining & Marketing industry?",
+    "optionA": "Greenhouse gas emissions",
+    "optionB": "Water management",
+    "optionC": "Air quality",
+    "optionD": "Product specifications and clean fuel blends",
+    "optionE": "Waste management",
+    "answer": "E. Waste management",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Refining & Marketing",
+    "page": "114-123",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following GHGs is NOT listed as part of the seven GHGs covered under the Kyoto Protocol in the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Carbon dioxide (CO\u2082)",
+    "optionB": "Methane (CH\u2084)",
+    "optionC": "Nitrous oxide (N\u2082O)",
+    "optionD": "Sulfur dioxide (SO\u2082)",
+    "optionE": "Nitrogen trifluoride (NF\u2083)",
+    "answer": "D. Sulfur dioxide (SO\u2082)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Refining & Marketing",
+    "page": "118",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following metrics is NOT included in the 'Water Management' topic for Oil & Gas Refining & Marketing companies according to the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Total fresh water withdrawn",
+    "optionB": "Percentage of water recycled",
+    "optionC": "Percentage of water in regions with High or Extremely High Baseline Water Stress",
+    "optionD": "Volume of produced water and flowback generated",
+    "optionE": "Fresh water obtained from a water utility",
+    "answer": "D. Volume of produced water and flowback generated",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Refining & Marketing",
+    "page": "121-122",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  }
+]

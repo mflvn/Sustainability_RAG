@@ -1,0 +1,106 @@
+[
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Industrial Machinery & Goods and Iron & Steel Producers industries?",
+    "optionA": "Industrial Machinery & Goods",
+    "optionB": "Iron & Steel Producers",
+    "optionC": "Both have the same number",
+    "optionD": "Neither has quantitative metrics",
+    "optionE": "Not specified",
+    "answer": "A",
+    "reference_text": [
+      "| Energy Management | (1) Total energy consumed, (2) percent- age grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | RT-IG-130a.1 |",
+      "| Fuel Economy & Emissions in Use-phase | Sales-weighted fleet fuel efficiency for medium- and heavy-duty vehicles | Quantitative | Gallons per 1,000 ton- miles | RT-IG-410a.1 |",
+      "| Fuel Economy & Emissions in Use-phase | Sales-weighted fuel efficiency for non- road equipment | Quantitative | Gallons per hour | RT-IG-410a.2 |",
+      "| Fuel Economy & Emissions in Use-phase | Sales-weighted fuel efficiency for stationary generators | Quantitative | Watts per gallon | RT-IG-410a.3 |",
+      "| Fuel Economy & Emissions in Use-phase | Sales-weighted emissions of: (1) nitrogen oxides (NOx) and (2) partic- ulate matter (PM) for: (a) marine diesel engines, (b) locomotive diesel engines, (c) on-road medium- and heavy-duty engines, and (d) other non-road diesel engines 88 | Quantitative | Grams per kilowatt-hour | RT-IG-410a.4 |",
+      "| Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%) | EM-IS-110a.1 |",
+      "| Energy Management | (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | EM-IS-130a.1 |",
+      "| Energy Management | (1) Total fuel consumed, (2) percentage coal, (3) percentage natural gas, (4) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | EM-IS-130a.2 |",
+      "| Water Management | (1) Total fresh water withdrawn, (2) percentage recycled, (3) percentage in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%) | EM-IS-140a.1 |"
+    ],
+    "pages": [
+      "Page 528",
+      "Page 69"
+    ],
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0.2
+  },
+  {
+    "question": "List the activity metrics for Industrial Machinery & Goods and Iron & Steel Producers industries.",
+    "optionA": "Number of units produced by product category, Number of employees, Raw steel production, Total iron ore production, Total coking coal production",
+    "optionB": "Number of units produced by product category, Number of employees, Raw steel production, Total iron ore production",
+    "optionC": "Number of units produced by product category, Number of employees, Total iron ore production, Total coking coal production",
+    "optionD": "Number of units produced by product category, Number of employees, Raw steel production, Total coking coal production",
+    "optionE": "Number of units produced by product category, Raw steel production, Total iron ore production, Total coking coal production",
+    "answer": "A",
+    "reference_text": [
+      "| Number of units produced by product category 89 | Quantitative | Number | RT-IG-000.A |",
+      "| Number of employees | Quantitative | Number | RT-IG-000.B |",
+      "| Raw steel production, percentage from: (1) basic oxygen furnace processes, (2) electric arc furnace processes | Quantitative | Metric tons (t), Percentage (%) | EM-IS-000.A |",
+      "| Total iron ore production \u00b9\u00b9 | Quantitative | Metric tons (t) | EM-IS-000.B |",
+      "| Total coking coal production \u00b9\u00b2 | Quantitative | Metric tons (t) | EM-IS-000.C |"
+    ],
+    "pages": [
+      "Page 528",
+      "Page 69"
+    ],
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0.2
+  },
+  {
+    "question": "What units of measurement are used across the Industrial Machinery & Goods and Iron & Steel Producers industries for measuring energy management metrics?",
+    "optionA": "Gigajoules (GJ) and Percentage (%)",
+    "optionB": "Gallons per hour and Metric tons (t)",
+    "optionC": "Watts per gallon and Thousand cubic meters (m\u00b3)",
+    "optionD": "Grams per kilowatt-hour and Metric tons (t) CO\u2082-e",
+    "optionE": "Gallons per 1,000 ton-miles and Percentage (%)",
+    "answer": "A",
+    "reference_text": [
+      "| Energy Management | (1) Total energy consumed, (2) percent- age grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | RT-IG-130a.1 |",
+      "| Energy Management | (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | EM-IS-130a.1 |"
+    ],
+    "pages": [
+      "528",
+      "75"
+    ],
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0.2
+  },
+  {
+    "question": "Are there any common sustainability topics between the Industrial Machinery & Goods and Iron & Steel Producers industries? If so, how do their reporting requirements differ?",
+    "optionA": "Yes, both industries have a topic on Energy Management, but the Iron & Steel Producers industry also requires disclosure of total fuel consumed.",
+    "optionB": "No, there are no common sustainability topics between the two industries.",
+    "optionC": "Yes, both industries have a topic on Greenhouse Gas Emissions, but the Industrial Machinery & Goods industry requires more detailed emissions breakdown.",
+    "optionD": "Yes, both industries have a topic on Water Management, but the Iron & Steel Producers industry requires more detailed water recycling metrics.",
+    "optionE": "Yes, both industries have a topic on Supply Chain Management, but the Industrial Machinery & Goods industry requires more detailed supplier engagement metrics.",
+    "answer": "A",
+    "reference_text": [
+      "| Energy Management | (1) Total energy consumed, (2) percent- age grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | RT-IG-130a.1 |",
+      "| Energy Management | (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | EM-IS-130a.1 |",
+      "| Energy Management | (1) Total fuel consumed, (2) percentage coal, (3) percentage natural gas, (4) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | EM-IS-130a.2 |"
+    ],
+    "pages": [
+      "528",
+      "75",
+      "76"
+    ],
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0.2
+  }
+]

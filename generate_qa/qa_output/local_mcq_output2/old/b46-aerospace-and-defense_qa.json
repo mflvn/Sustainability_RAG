@@ -1,0 +1,167 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing total energy consumed for the Aerospace & Defense industry, which of the following is NOT included in the scope of energy consumption?",
+    "optionA": "Energy purchased from external sources",
+    "optionB": "Self-generated energy",
+    "optionC": "Direct fuel usage",
+    "optionD": "Purchased electricity",
+    "optionE": "Energy consumed by the entity's suppliers",
+    "answer": "E. Energy consumed by the entity's suppliers",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Aerospace & Defense",
+    "page": "488-489",
+    "industries": [
+      "b46-aerospace-and-defense"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "In calculating the percentage of renewable energy consumed, which of the following sources should NOT be included?",
+    "optionA": "Renewable fuel consumed by the entity",
+    "optionB": "Renewable energy directly produced by the entity",
+    "optionC": "Renewable energy purchased through a PPA with explicit RECs",
+    "optionD": "Green-e Energy Certified utility program purchases",
+    "optionE": "The renewable portion of the electricity grid mix outside the entity's control",
+    "answer": "E. The renewable portion of the electricity grid mix outside the entity's control",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Aerospace & Defense",
+    "page": "489",
+    "industries": [
+      "b46-aerospace-and-defense"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing revenue from alternative energy-related products, which of the following would NOT be considered an alternative energy or fuel source?",
+    "optionA": "Geothermal energy",
+    "optionB": "Hydrogen fuel cells",
+    "optionC": "Advanced biofuels",
+    "optionD": "Solar power",
+    "optionE": "Conventional petroleum-based fuels",
+    "answer": "E. Conventional petroleum-based fuels",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Aerospace & Defense",
+    "page": "490",
+    "industries": [
+      "b46-aerospace-and-defense"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When describing the approach and strategy to address fuel economy and GHG emissions of products, which of the following is NOT mentioned as a relevant aspect to include?",
+    "optionA": "Improvements to existing products and technologies",
+    "optionB": "Introduction of new technologies",
+    "optionC": "Research and development efforts into advanced technologies",
+    "optionD": "Partnerships with peers and academic institutions",
+    "optionE": "Marketing strategies for promoting eco-friendly products",
+    "answer": "E. Marketing strategies for promoting eco-friendly products",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Aerospace & Defense",
+    "page": "490-491",
+    "industries": [
+      "b46-aerospace-and-defense"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "How should the percentage of grid electricity consumed be calculated?",
+    "optionA": "Grid electricity / Total energy produced",
+    "optionB": "Grid electricity / Total renewable energy",
+    "optionC": "Grid electricity / Total fuel consumed",
+    "optionD": "Purchased grid electricity / Total energy consumption",
+    "optionE": "Purchased grid electricity / Total electricity consumption",
+    "answer": "D. Purchased grid electricity / Total energy consumption",
+    "reference": "Energy Management",
+    "page": "488",
+    "industries": [
+      "b46-aerospace-and-defense"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When reporting on renewable energy consumption, which of the following scenarios would NOT allow the entity to claim the energy as renewable?",
+    "optionA": "Renewable energy directly produced by the entity",
+    "optionB": "Renewable energy purchased through a PPA with explicit RECs",
+    "optionC": "On-site generated renewable electricity with retained RECs",
+    "optionD": "Green power products that explicitly include GOs",
+    "optionE": "Renewable portion of the electricity grid mix outside the entity's control",
+    "answer": "E. Renewable portion of the electricity grid mix outside the entity's control",
+    "reference": "Energy Management",
+    "page": "489",
+    "industries": [
+      "b46-aerospace-and-defense"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "In the context of calculating energy consumption for aerospace and defense companies, which heating value should be used when determining energy from fuels and biofuels?",
+    "optionA": "Lower Heating Values (LHV)",
+    "optionB": "Higher Heating Values (HHV)",
+    "optionC": "Average Heating Values (AHV)",
+    "optionD": "Standardized Heating Values (SHV)",
+    "optionE": "Net Calorific Values (NCV)",
+    "answer": "B. Higher Heating Values (HHV)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Aerospace & Defense",
+    "page": "488",
+    "industries": [
+      "b46-aerospace-and-defense"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When reporting on alternative energy-related products in the Aerospace & Defense industry, which of the following would NOT be considered within the scope of disclosure?",
+    "optionA": "Electric vehicles",
+    "optionB": "Hybrid electric aircraft components",
+    "optionC": "Fuel cell powered stationary generators",
+    "optionD": "Conventional fossil fuel-only powered vehicles",
+    "optionE": "Dual-fueled products with one alternative fuel source",
+    "answer": "D. Conventional fossil fuel-only powered vehicles",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "490",
+    "industries": [
+      "b46-aerospace-and-defense"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "In addressing fuel economy and GHG emissions of products in sustainability reporting for Aerospace & Defense companies, which of the following is NOT considered a relevant technology to describe?",
+    "optionA": "Advanced powertrains",
+    "optionB": "Renewable fuels",
+    "optionC": "Energy storage and batteries",
+    "optionD": "Aerodynamic design",
+    "optionE": "Radar and electronic warfare systems",
+    "answer": "E. Radar and electronic warfare systems",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "491",
+    "industries": [
+      "b46-aerospace-and-defense"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When reporting on strategies to address fuel economy and GHG emissions in the Aerospace & Defense industry, which international initiative should companies specifically mention?",
+    "optionA": "Paris Agreement",
+    "optionB": "Kyoto Protocol",
+    "optionC": "Montreal Protocol",
+    "optionD": "International Civil Aviation Organization Resolution A38-18",
+    "optionE": "United Nations Global Compact",
+    "answer": "D. International Civil Aviation Organization Resolution A38-18",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "491",
+    "industries": [
+      "b46-aerospace-and-defense"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "In sustainability reporting for Aerospace & Defense companies, what is the recommended way to disclose fuel efficiency improvements for aerospace vehicles?",
+    "optionA": "Miles per gallon",
+    "optionB": "Kilometers per liter",
+    "optionC": "1/Specific Air Range",
+    "optionD": "Fuel consumption per passenger",
+    "optionE": "CO2 emissions per flight hour",
+    "answer": "C. 1/Specific Air Range",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "491",
+    "industries": [
+      "b46-aerospace-and-defense"
+    ]
+  }
+]

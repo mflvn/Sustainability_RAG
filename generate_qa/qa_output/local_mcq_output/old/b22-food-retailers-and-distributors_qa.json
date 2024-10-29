@@ -1,0 +1,422 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the three components of the energy management metric FB-FR-130a.1 that food retailers and distributors are required to disclose?",
+    "optionA": "Total energy produced, percentage of renewable energy, and energy intensity",
+    "optionB": "Operational energy consumed, percentage of nuclear energy, and percentage of fossil fuels",
+    "optionC": "Operational energy consumed, percentage grid electricity, and percentage renewable",
+    "optionD": "Total energy consumed, percentage of solar energy, and percentage of wind energy",
+    "optionE": "Energy efficiency ratio, percentage of hydroelectric power, and percentage of biofuels",
+    "answer": "C. Operational energy consumed, percentage grid electricity, and percentage renewable",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors",
+    "page": "221",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the industry description, what are some of the store formats included in the Food Retailers & Distributors industry?",
+    "optionA": "Only supermarkets and convenience stores",
+    "optionB": "Retail supermarkets, convenience stores, warehouse supermarkets, and liquor stores",
+    "optionC": "Exclusively online marketplaces and food delivery services",
+    "optionD": "Department stores, shopping malls, and big-box retailers",
+    "optionE": "Only farmers markets and specialty food trucks",
+    "answer": "B. Retail supermarkets, convenience stores, warehouse supermarkets, and liquor stores",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors",
+    "page": "214",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What is the unit of measure for the metric 'Gross global Scope 1 emissions from refrigerants' in the Air Emissions from Refrigeration topic?",
+    "optionA": "Kilograms (kg)",
+    "optionB": "Pounds (lbs)",
+    "optionC": "Metric tons (t) CO\u2082-e",
+    "optionD": "Gallons (gal)",
+    "optionE": "Cubic meters (m\u00b3)",
+    "answer": "C. Metric tons (t) CO\u2082-e",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors",
+    "page": "217",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What is the definition of 'consumption of refrigerants' as used in the context of calculating the percentage of refrigerants with zero ozone-depleting potential?",
+    "optionA": "The amount of refrigerant that evaporates during normal operation",
+    "optionB": "The amount of refrigerant charged into the entity's commercial refrigeration equipment during the reporting period",
+    "optionC": "The amount of refrigerant recycled from old equipment",
+    "optionD": "The amount of refrigerant purchased but not yet used",
+    "optionE": "The amount of refrigerant lost due to leaks in the system",
+    "answer": "B. The amount of refrigerant charged into the entity's commercial refrigeration equipment during the reporting period",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors",
+    "page": "220",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "A food retailer wants to reduce its environmental impact through packaging strategies while also improving its supply chain sustainability. Which two metrics could they use to measure progress in these areas, and what specific aspects do these metrics address?",
+    "optionA": "FB-FR-430a.1 and FB-FR-430a.4, addressing third-party certifications and packaging reduction strategies",
+    "optionB": "FB-FR-110a.1 and FB-FR-130a.1, addressing fleet fuel consumption and operational energy use",
+    "optionC": "FB-FR-430a.2 and FB-FR-110b.1, addressing cage-free eggs and refrigerant emissions",
+    "optionD": "FB-FR-000.A and FB-FR-000.B, addressing number of retail locations and total retail space",
+    "optionE": "FB-FR-430a.3 and FB-FR-110b.3, addressing supply chain risks and refrigerant emission rates",
+    "answer": "A: FB-FR-430a.1 and FB-FR-430a.4, addressing third-party certifications and packaging reduction strategies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors",
+    "page": "223-227",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "A food retailer is aiming to reduce its environmental impact and improve its energy efficiency. Which two topics from the industry standard should they focus on, and how might progress in these areas affect their operational costs?",
+    "optionA": "Fleet Fuel Management and Air Emissions from Refrigeration; it could increase operational costs due to new equipment purchases",
+    "optionB": "Energy Management and Air Emissions from Refrigeration; it could decrease operational costs through reduced energy consumption and regulatory compliance",
+    "optionC": "Management of Environmental & Social Impacts in the Supply Chain and Fleet Fuel Management; it could have no impact on operational costs",
+    "optionD": "Energy Management and Management of Environmental & Social Impacts in the Supply Chain; it could increase operational costs due to supplier audits",
+    "optionE": "Air Emissions from Refrigeration and Fleet Fuel Management; it could increase operational costs due to increased maintenance",
+    "answer": "B. Energy Management and Air Emissions from Refrigeration; it could decrease operational costs through reduced energy consumption and regulatory compliance",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors",
+    "page": "215, 218, 221",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "If a food retailer implements strategies to reduce both its fleet fuel consumption and refrigerant emissions, which metrics would best demonstrate the combined impact of these efforts on its greenhouse gas emissions?",
+    "optionA": "FB-FR-110a.1 and FB-FR-130a.1",
+    "optionB": "FB-FR-110a.1 and FB-FR-110b.2",
+    "optionC": "FB-FR-110b.1 and FB-FR-110a.1",
+    "optionD": "FB-FR-110b.3 and FB-FR-130a.1",
+    "optionE": "FB-FR-430a.1 and FB-FR-110b.1",
+    "answer": "C. FB-FR-110b.1 and FB-FR-110a.1",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors",
+    "page": "216, 218, 219",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "A food retailer is looking to improve its environmental performance and reduce costs. How might strategies addressing both Energy Management and Air Emissions from Refrigeration topics contribute to these goals, and what potential challenges might arise in implementing these strategies simultaneously?",
+    "optionA": "Focusing on these areas would likely increase costs without significant environmental benefits",
+    "optionB": "Improving energy efficiency and reducing refrigerant emissions could lower operational costs and environmental impact, but may require significant initial investments",
+    "optionC": "These strategies would only benefit large retailers and are not applicable to smaller businesses in the industry",
+    "optionD": "Addressing these topics would improve environmental performance but would have no impact on operational costs",
+    "optionE": "These strategies are mutually exclusive and cannot be implemented together effectively",
+    "answer": "B. Improving energy efficiency and reducing refrigerant emissions could lower operational costs and environmental impact, but may require significant initial investments",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors",
+    "page": "218-222",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is the 'Essential Requirements' approach mentioned in the industry standard for reducing environmental impacts of packaging?",
+    "optionA": "A set of guidelines focusing only on reducing packaging weight",
+    "optionB": "An EU Directive that addresses packaging weight, volume, safety, and recyclability",
+    "optionC": "A voluntary program for food retailers to optimize their supply chain",
+    "optionD": "A certification system for environmentally-friendly packaging materials",
+    "optionE": "A cost-saving initiative to reduce transportation expenses for retailers",
+    "answer": "B. An EU Directive that addresses packaging weight, volume, safety, and recyclability",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors",
+    "page": "226",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "How is 'renewable energy' defined in the context of the Food Retailers & Distributors industry standard?",
+    "optionA": "Energy derived solely from solar and wind sources",
+    "optionB": "Any energy source that is not fossil fuel-based",
+    "optionC": "Energy from sources replenished at a rate greater than or equal to their depletion rate",
+    "optionD": "Electricity purchased from the grid with no specific source requirements",
+    "optionE": "Energy produced on-site by the retailer using any method",
+    "answer": "C. Energy from sources replenished at a rate greater than or equal to their depletion rate",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors",
+    "page": "221-222",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What does the term 'cage-free environment' mean in the context of egg production for food retailers?",
+    "optionA": "Hens are kept in larger cages with more space",
+    "optionB": "Hens are only caged at night for protection",
+    "optionC": "Hens are housed in a building or area with unlimited access to food, water, and freedom to roam",
+    "optionD": "Eggs are sourced from wild hens not kept in any enclosure",
+    "optionE": "Hens are kept in rotating enclosures to simulate freedom",
+    "answer": "C. Hens are housed in a building or area with unlimited access to food, water, and freedom to roam",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors",
+    "page": "224",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is a 'gestation crate' in the context of pork production, and why is its use a concern for food retailers?",
+    "optionA": "A crate used for transporting pigs to market, which is a concern due to animal comfort during transportation",
+    "optionB": "An enclosure for housing breeding sows that allows for dynamic movement, which is preferred by consumers",
+    "optionC": "A feeding system for pigs that restricts their diet, which is a concern due to potential health issues",
+    "optionD": "An enclosure for housing an individual breeding sow that restricts movement, which is a concern due to animal welfare issues",
+    "optionE": "A birthing area for sows that provides extra space, which is favored by animal rights activists",
+    "answer": "D. An enclosure for housing an individual breeding sow that restricts movement, which is a concern due to animal welfare issues",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "224-225",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might the increasing consumer concern about the environmental and social impacts of food production affect food retailers and distributors, and what strategies can these companies employ to address these concerns?",
+    "optionA": "Ignore consumer concerns and focus solely on price competitiveness",
+    "optionB": "Implement sustainable sourcing guidelines and enhance supply chain transparency",
+    "optionC": "Reduce product variety to simplify supply chain management",
+    "optionD": "Increase marketing budget to promote existing products",
+    "optionE": "Solely focus on local sourcing to reduce transportation costs",
+    "answer": "B: Implement sustainable sourcing guidelines and enhance supply chain transparency",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "223",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "In the context of the Food Retailers & Distributors industry, how does the management of refrigerant emissions relate to both environmental impact and regulatory risk?",
+    "optionA": "It only affects operational costs with no environmental or regulatory implications",
+    "optionB": "It primarily impacts product freshness and has no relation to environmental concerns",
+    "optionC": "It relates to ozone depletion and greenhouse gas emissions, exposing companies to potential regulatory penalties and equipment upgrade costs",
+    "optionD": "It exclusively concerns energy efficiency and has no connection to emissions",
+    "optionE": "It solely affects transportation logistics and fuel consumption",
+    "answer": "C: It relates to ozone depletion and greenhouse gas emissions, exposing companies to potential regulatory penalties and equipment upgrade costs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "218-220",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How does the concept of 'fleet fuel management' in the Food Retailers & Distributors industry intersect with both operational efficiency and environmental sustainability?",
+    "optionA": "It only relates to vehicle maintenance schedules",
+    "optionB": "It exclusively focuses on reducing delivery times",
+    "optionC": "It involves optimizing fuel consumption to reduce costs and carbon footprint while considering renewable fuel options",
+    "optionD": "It solely concerns the aesthetics of delivery vehicles",
+    "optionE": "It is only about maximizing the size of the vehicle fleet",
+    "answer": "C: It involves optimizing fuel consumption to reduce costs and carbon footprint while considering renewable fuel options",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "216-217",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might the Food Retailers & Distributors industry's focus on third-party certified products and sustainable sourcing strategies impact its broader supply chain and business operations?",
+    "optionA": "It only affects marketing and has no significant impact on operations",
+    "optionB": "It leads to increased costs without any operational benefits",
+    "optionC": "It can enhance supply chain resilience, mitigate risks, and potentially capture new market opportunities",
+    "optionD": "It only impacts relationships with suppliers and has no effect on consumers",
+    "optionE": "It solely focuses on environmental issues and ignores social aspects of sustainability",
+    "answer": "C. It can enhance supply chain resilience, mitigate risks, and potentially capture new market opportunities",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors",
+    "page": "223-224",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What specific metric does the industry use to measure the environmental impact of refrigerants, and how is it calculated?",
+    "optionA": "Total refrigerant consumption in metric tons",
+    "optionB": "Percentage of refrigerants with zero ozone-depleting potential",
+    "optionC": "Average refrigerant emissions rate",
+    "optionD": "Number of refrigeration units in operation",
+    "optionE": "Annual cost of refrigerant replacement",
+    "answer": "C. Average refrigerant emissions rate",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "220-221",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the industry standard, how should a food retailer calculate the percentage of renewable energy consumed in its operations?",
+    "optionA": "Renewable energy produced on-site divided by total energy consumption",
+    "optionB": "Purchased renewable energy certificates (RECs) divided by total energy consumption",
+    "optionC": "Grid-supplied renewable energy divided by total energy consumption",
+    "optionD": "Renewable energy consumption (including qualified sources) divided by total energy consumption",
+    "optionE": "Renewable energy investments divided by total energy expenditure",
+    "answer": "D. Renewable energy consumption (including qualified sources) divided by total energy consumption",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "221-222",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the required scope for disclosing the percentage of revenue from eggs that originated from a cage-free environment?",
+    "optionA": "Only eggs explicitly labeled as cage-free",
+    "optionB": "Eggs from cage-free and free-range environments",
+    "optionC": "All eggs not produced in battery cages",
+    "optionD": "Organic eggs only",
+    "optionE": "Eggs from small-scale local farms",
+    "answer": "B. Eggs from cage-free and free-range environments",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "224",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "When discussing strategies to reduce the environmental impact of packaging, what levels of packaging should food retailers and distributors consider for their private-label products?",
+    "optionA": "Only primary packaging",
+    "optionB": "Primary and secondary packaging",
+    "optionC": "Primary, secondary, and tertiary packaging",
+    "optionD": "Only packaging for perishable goods",
+    "optionE": "Packaging for imported products only",
+    "answer": "C. Primary, secondary, and tertiary packaging",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "226-227",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the implementation of sustainable sourcing strategies and animal welfare standards impact a food retailer's relationship with suppliers and overall supply chain resilience?",
+    "optionA": "It would likely increase costs and reduce the number of available suppliers",
+    "optionB": "It would have no significant impact on supplier relationships or supply chain resilience",
+    "optionC": "It could strengthen relationships with responsible suppliers and improve long-term supply chain stability",
+    "optionD": "It would only affect relationships with meat and dairy suppliers",
+    "optionE": "It would lead to complete vertical integration of the supply chain",
+    "answer": "C. It could strengthen relationships with responsible suppliers and improve long-term supply chain stability",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "223-225",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "What potential benefits and challenges might food retailers face when transitioning to refrigerants with zero ozone-depleting potential?",
+    "optionA": "Only benefits: reduced environmental impact and compliance with regulations",
+    "optionB": "Only challenges: higher costs and limited availability of alternative refrigerants",
+    "optionC": "Benefits in energy efficiency, but challenges in training staff on new systems",
+    "optionD": "Benefits in regulatory compliance and reputation, but challenges in initial investment and potential system modifications",
+    "optionE": "No significant benefits or challenges as all refrigerants have similar properties",
+    "answer": "D. Benefits in regulatory compliance and reputation, but challenges in initial investment and potential system modifications",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "218-220",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might increasing the percentage of renewable energy in a food retailer's energy mix impact its long-term operational costs and risk exposure?",
+    "optionA": "It would only increase costs with no benefits to risk exposure",
+    "optionB": "It would have no impact on operational costs or risk exposure",
+    "optionC": "It could reduce long-term energy costs and mitigate risks associated with fossil fuel price volatility and potential carbon regulations",
+    "optionD": "It would only benefit companies operating in regions with government subsidies for renewable energy",
+    "optionE": "It would lead to immediate profitability but increase long-term risks",
+    "answer": "C. It could reduce long-term energy costs and mitigate risks associated with fossil fuel price volatility and potential carbon regulations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "221-222",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might food retailers balance the potential cost increases associated with sustainable sourcing and animal welfare practices against consumer demand and brand reputation?",
+    "optionA": "By solely focusing on cost-cutting measures to offset increased expenses",
+    "optionB": "By gradually implementing changes and educating consumers about the benefits",
+    "optionC": "By ignoring sustainability trends and maintaining current practices",
+    "optionD": "By outsourcing all sustainability initiatives to third-party organizations",
+    "optionE": "By discontinuing all products that require sustainable sourcing",
+    "answer": "B: By gradually implementing changes and educating consumers about the benefits",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors",
+    "page": "223-226",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT listed as a metric for measuring the management of environmental and social impacts in the supply chain?",
+    "optionA": "Revenue from products third-party certified to sustainability standards",
+    "optionB": "Percentage of cage-free eggs and gestation crate-free pork",
+    "optionC": "Discussion of supply chain risk management strategy",
+    "optionD": "Discussion of packaging impact reduction strategies",
+    "optionE": "Percentage of fair trade certified products",
+    "answer": "E. Percentage of fair trade certified products",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors",
+    "page": "223-227",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following activity metrics is NOT included in the document for food retailers and distributors?",
+    "optionA": "Number of retail locations and distribution centers",
+    "optionB": "Total area of retail space and distribution centers",
+    "optionC": "Number of vehicles in commercial fleet",
+    "optionD": "Ton miles travelled",
+    "optionE": "Number of employees",
+    "answer": "E. Number of employees",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors",
+    "page": "214",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a strategy for reducing the environmental impact of packaging in the document?",
+    "optionA": "Optimizing packaging weight and volume",
+    "optionB": "Using alternative materials",
+    "optionC": "Implementing EU Directive on Packaging and Packaging Waste",
+    "optionD": "Using Life Cycle Assessment (LCA) analysis",
+    "optionE": "Implementing a packaging take-back program",
+    "answer": "E. Implementing a packaging take-back program",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors",
+    "page": "226-227",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a type of energy consumption to be included in the operational energy disclosure for food retailers and distributors?",
+    "optionA": "Purchased electricity",
+    "optionB": "Heating energy",
+    "optionC": "Cooling energy",
+    "optionD": "Steam energy",
+    "optionE": "Solar panel generated electricity",
+    "answer": "E. Solar panel generated electricity",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "221-222",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  }
+]

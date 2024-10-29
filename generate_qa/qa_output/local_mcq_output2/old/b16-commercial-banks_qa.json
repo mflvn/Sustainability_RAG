@@ -1,0 +1,167 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2 Climate-related Disclosures, what should a commercial bank disclose regarding its approach to incorporating environmental, social, and governance (ESG) factors in credit analysis?",
+    "optionA": "Only the financial impact of ESG factors on the bank's portfolio",
+    "optionB": "A description of the approach, including policies, implementation, and oversight",
+    "optionC": "The names of specific clients affected by ESG factors",
+    "optionD": "Only the environmental factors, excluding social and governance aspects",
+    "optionE": "The bank's personal opinions on ESG matters",
+    "answer": "B. A description of the approach, including policies, implementation, and oversight",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "146-148",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing financed emissions, what specific breakdown is required for each industry by asset class according to IFRS S2?",
+    "optionA": "Only Scope 1 and Scope 2 emissions",
+    "optionB": "Combined total of Scope 1, 2, and 3 emissions",
+    "optionC": "Absolute gross Scope 1, Scope 2, and Scope 3 emissions separately",
+    "optionD": "Only carbon-related industries' emissions",
+    "optionE": "Emissions intensity without absolute values",
+    "answer": "C. Absolute gross Scope 1, Scope 2, and Scope 3 emissions separately",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "151-152",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "What should a commercial bank disclose regarding the percentage of gross exposure included in the financed emissions calculation?",
+    "optionA": "Only the percentage for carbon-related industries",
+    "optionB": "The percentage, and if less than 100%, an explanation for exclusions",
+    "optionC": "The percentage without any additional context",
+    "optionD": "Only the total amount of gross exposure",
+    "optionE": "The percentage for the top 5 industries only",
+    "answer": "B. The percentage, and if less than 100%, an explanation for exclusions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "150-151",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When describing the methodology used to calculate financed emissions, what aspect of data collection should a commercial bank disclose?",
+    "optionA": "Only the names of clients providing emissions data",
+    "optionB": "The approach to collecting underlying emissions data including its source",
+    "optionC": "The bank's internal data processing techniques",
+    "optionD": "Only the total amount of emissions collected",
+    "optionE": "The cost associated with data collection",
+    "answer": "B. The approach to collecting underlying emissions data including its source",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "154",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "In calculating financed emissions, how is 'gross exposure' defined for funded amounts?",
+    "optionA": "Net carrying amounts after loss allowance",
+    "optionB": "Market value of investments",
+    "optionC": "Funded carrying amounts before subtracting loss allowance",
+    "optionD": "Total committed amount including undrawn portions",
+    "optionE": "Fair value of collateral held",
+    "answer": "C. Funded carrying amounts before subtracting loss allowance",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "149-150",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When disclosing emissions intensity of financed emissions, what unit of measurement should be used?",
+    "optionA": "Metric tons of CO2 equivalent per employee",
+    "optionB": "Kilograms of CO2 equivalent per dollar of revenue",
+    "optionC": "Grams of CO2 equivalent per square foot of office space",
+    "optionD": "Metric tons of CO2 equivalent per unit of economic or physical activity",
+    "optionE": "Pounds of CO2 equivalent per transaction",
+    "answer": "D. Metric tons of CO2 equivalent per unit of economic or physical activity",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "153",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of total gross exposure for each carbon-related industry, what specific financial figure should be used as the denominator?",
+    "optionA": "Gross exposure to carbon-related industries only",
+    "optionB": "Net exposure to all industries",
+    "optionC": "Total gross exposure to all industries",
+    "optionD": "Gross exposure to non-carbon-related industries",
+    "optionE": "Total assets of the bank",
+    "answer": "C. Total gross exposure to all industries",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "149-150",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "How should a commercial bank calculate the emissions intensity of financed emissions for each industry by asset class?",
+    "optionA": "Total emissions divided by total assets",
+    "optionB": "Amount of Scope 1, 2, and 3 emissions per unit of economic or physical activity",
+    "optionC": "Total emissions divided by number of loans",
+    "optionD": "Amount of Scope 1 emissions only per unit of economic activity",
+    "optionE": "Total carbon-related exposure divided by total exposure",
+    "answer": "B. Amount of Scope 1, 2, and 3 emissions per unit of economic or physical activity",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "152-153",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What specific challenge might a commercial bank face when incorporating ESG factors into credit analysis for project finance?",
+    "optionA": "Lack of standardized ESG metrics across different industries",
+    "optionB": "Difficulty in quantifying environmental impacts",
+    "optionC": "Limited availability of social performance data",
+    "optionD": "Challenges in assessing governance practices in emerging markets",
+    "optionE": "Inability to access borrower's internal ESG policies",
+    "answer": "A. Lack of standardized ESG metrics across different industries",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "146-147",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When disclosing financed emissions, what unique challenge might a commercial bank encounter with its derivatives portfolio?",
+    "optionA": "Difficulty in obtaining emissions data from counterparties",
+    "optionB": "Complexity in attributing emissions to short-term transactions",
+    "optionC": "Lack of industry guidance on emissions calculation for derivatives",
+    "optionD": "Challenges in aggregating emissions across diverse derivative types",
+    "optionE": "Inability to track changes in underlying assets' emissions over time",
+    "answer": "D. Challenges in aggregating emissions across diverse derivative types",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "151-152",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What unique challenge might a commercial bank face when disclosing its gross exposure to carbon-related industries?",
+    "optionA": "Difficulty in accurately measuring the bank's total assets",
+    "optionB": "Classifying counterparties according to the Global Industry Classification Standard (GICS)",
+    "optionC": "Calculating the bank's net income for the reporting period",
+    "optionD": "Determining the interest rates for new loans",
+    "optionE": "Estimating future market trends in the banking sector",
+    "answer": "B. Classifying counterparties according to the Global Industry Classification Standard (GICS)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "149-150",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  }
+]

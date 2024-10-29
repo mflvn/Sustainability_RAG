@@ -1,0 +1,192 @@
+[
+  {
+    "question": "What are the common sustainability topics shared between the Household & Personal Products and Processed Foods industries?",
+    "optionA": "Energy Management, Water Management",
+    "optionB": "Environmental & Social Impacts of Palm Oil Supply Chain, Environmental & Social Impacts of Ingredient Supply Chain",
+    "optionC": "Water Management, Environmental & Social Impacts of Ingredient Supply Chain",
+    "optionD": "Energy Management, Environmental & Social Impacts of Palm Oil Supply Chain",
+    "optionE": "Ingredient Sourcing, Water Management",
+    "answer": "C",
+    "reference_text": [
+      "The Household & Personal Products industry has the Water Management topic.",
+      "The Processed Foods industry has the Water Management topic and the Environmental & Social Impacts of Ingredient Supply Chain topic."
+    ],
+    "pages": [
+      "33_b5",
+      "257_b25"
+    ],
+    "industries": [
+      "b5-household-and-personal-products",
+      "b25-processed-foods"
+    ],
+    "pairing_explanation": "Household and personal products, like processed foods, involve complex supply chains, with sustainability metrics focused on waste, resource use, and packaging.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Give me all the metrics that are in category 'Quantitative' for the Household & Personal Products and Processed Foods industries.",
+    "optionA": "CG-HP-140a.1, FB-PF-130a.1, FB-PF-140a.1, FB-PF-140a.2, FB-PF-430a.1, FB-PF-430a.2, FB-PF-440a.1",
+    "optionB": "CG-HP-430a.1, FB-PF-130a.1, FB-PF-140a.1, FB-PF-430a.1, FB-PF-430a.2, FB-PF-440a.1",
+    "optionC": "CG-HP-140a.1, FB-PF-130a.1, FB-PF-140a.1, FB-PF-430a.1, FB-PF-430a.2, FB-PF-440a.1",
+    "optionD": "CG-HP-140a.1, CG-HP-430a.1, FB-PF-130a.1, FB-PF-140a.1, FB-PF-140a.2, FB-PF-430a.1, FB-PF-430a.2, FB-PF-440a.1",
+    "optionE": "CG-HP-140a.1, CG-HP-430a.1, FB-PF-130a.1, FB-PF-140a.1, FB-PF-430a.1, FB-PF-430a.2, FB-PF-440a.1",
+    "answer": "E",
+    "reference_text": [
+      "CG-HP-140a.1 is a Quantitative metric for the Household & Personal Products industry.",
+      "CG-HP-430a.1 is a Quantitative metric for the Household & Personal Products industry.",
+      "FB-PF-130a.1, FB-PF-140a.1, FB-PF-430a.1, FB-PF-430a.2, FB-PF-440a.1 are Quantitative metrics for the Processed Foods industry."
+    ],
+    "pages": [
+      "33_b5",
+      "257_b25"
+    ],
+    "industries": [
+      "b5-household-and-personal-products",
+      "b25-processed-foods"
+    ],
+    "pairing_explanation": "Household and personal products, like processed foods, involve complex supply chains, with sustainability metrics focused on waste, resource use, and packaging.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "List the activity metrics for the Household & Personal Products and Processed Foods industries.",
+    "optionA": "CG-HP-000.A, CG-HP-000.B, FB-PF-000.A, FB-PF-000.B",
+    "optionB": "CG-HP-140a.1, FB-PF-000.A, FB-PF-000.B",
+    "optionC": "CG-HP-430a.1, FB-PF-000.A",
+    "optionD": "CG-HP-000.A, FB-PF-130a.1, FB-PF-140a.1",
+    "optionE": "CG-HP-140a.2, FB-PF-440a.2",
+    "answer": "A",
+    "reference_text": [
+      "The activity metrics for the Household & Personal Products industry are CG-HP-000.A and CG-HP-000.B.",
+      "The activity metrics for the Processed Foods industry are FB-PF-000.A and FB-PF-000.B."
+    ],
+    "pages": [
+      "33_b5",
+      "257_b25"
+    ],
+    "industries": [
+      "b5-household-and-personal-products",
+      "b25-processed-foods"
+    ],
+    "pairing_explanation": "Household and personal products, like processed foods, involve complex supply chains, with sustainability metrics focused on waste, resource use, and packaging.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "What formulas are used to calculate the CG-HP-140a.1 metric in the Household & Personal Products industry and the FB-PF-140a.1 metric in the Processed Foods industry?",
+    "optionA": "There are no formulas specified for calculating these metrics.",
+    "optionB": "To calculate CG-HP-140a.1: Percentage = (Water withdrawn in high/extremely high water stress regions) / (Total water withdrawn). To calculate FB-PF-140a.1: No formula given.",
+    "optionC": "To calculate CG-HP-140a.1: Percentage = (Water consumed in high/extremely high water stress regions) / (Total water consumed). To calculate FB-PF-140a.1: No formula given.",
+    "optionD": "To calculate CG-HP-140a.1: No formula given. To calculate FB-PF-140a.1: Percentage = (Water withdrawn in high/extremely high water stress regions) / (Total water withdrawn), Percentage = (Water consumed in high/extremely high water stress regions) / (Total water consumed).",
+    "optionE": "To calculate CG-HP-140a.1: Percentage = (Water withdrawn in high/extremely high water stress regions) / (Total water withdrawn), Percentage = (Water consumed in high/extremely high water stress regions) / (Total water consumed). To calculate FB-PF-140a.1: Percentage = (Water withdrawn in high/extremely high water stress regions) / (Total water withdrawn), Percentage = (Water consumed in high/extremely high water stress regions) / (Total water consumed).",
+    "answer": "E",
+    "reference_text": [
+      "For CG-HP-140a.1: \"5 The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn. 6 The entity shall disclose its water consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water consumed.\"",
+      "For FB-PF-140a.1: \"5 The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn. 6 The entity shall disclose its water consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water consumed.\""
+    ],
+    "pages": [
+      "34_b5",
+      "261_b25"
+    ],
+    "industries": [
+      "b5-household-and-personal-products",
+      "b25-processed-foods"
+    ],
+    "pairing_explanation": "Household and personal products, like processed foods, involve complex supply chains, with sustainability metrics focused on waste, resource use, and packaging.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for the Processed Foods and Household & Personal Products industries.",
+    "optionA": "FB-PF-130a.1, FB-PF-140a.1, FB-PF-140a.2, FB-PF-430a.1, FB-PF-430a.2, FB-PF-440a.1, CG-HP-140a.1, CG-HP-430a.1",
+    "optionB": "FB-PF-130a.1, FB-PF-140a.1, FB-PF-430a.1, FB-PF-430a.2, FB-PF-440a.1, CG-HP-140a.1, CG-HP-430a.1",
+    "optionC": "FB-PF-140a.1, FB-PF-430a.1, FB-PF-430a.2, FB-PF-440a.1, CG-HP-140a.1, CG-HP-430a.1",
+    "optionD": "FB-PF-130a.1, FB-PF-140a.1, FB-PF-430a.1, FB-PF-440a.1, CG-HP-140a.1, CG-HP-430a.1",
+    "optionE": "<UNKNOWN>",
+    "answer": "D",
+    "reference_text": [
+      "FB-PF-130a.1. (1) Total energy consumed, (2) percent\u00adage grid electricity, (3) percentage renewable",
+      "FB-PF-140a.1. (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress",
+      "FB-PF-430a.1. Percentage of food ingredients sourced that are certified to third-party environ\u00admental and/or social standards, and percentages by standard",
+      "FB-PF-440a.1. Percentage of food ingredients sourced from regions with High or Extremely High Baseline Water Stress",
+      "CG-HP-140a.1. (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress",
+      "CG-HP-430a.1. Amount of palm oil sourced, percentage certified through the Roundtable on Sustainable Palm Oil (RSPO) supply chains as (a) Identity Preserved, (b) Segregated, (c) Mass Balance, or (d) Book & Claim"
+    ],
+    "pages": [
+      "259_b25",
+      "34_b5"
+    ],
+    "industries": [
+      "b5-household-and-personal-products",
+      "b25-processed-foods"
+    ],
+    "pairing_explanation": "Household and personal products, like processed foods, involve complex supply chains, with sustainability metrics focused on waste, resource use, and packaging.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "What units of measurement are used across the Processed Foods and Household & Personal Products industries for measuring water withdrawn and water consumed?",
+    "optionA": "Thousand cubic meters (m\u00b3), Percent\u00adage (%)",
+    "optionB": "Metric tons (t), Percent\u00adage (%)",
+    "optionC": "Gigajoules (GJ), Metric tons (t)",
+    "optionD": "Thousand cubic meters (m\u00b3), Number",
+    "optionE": "<UNKNOWN>",
+    "answer": "A",
+    "reference_text": [
+      "FB-PF-140a.1. (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress",
+      "CG-HP-140a.1. (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress"
+    ],
+    "pages": [
+      "261_b25",
+      "34_b5"
+    ],
+    "industries": [
+      "b5-household-and-personal-products",
+      "b25-processed-foods"
+    ],
+    "pairing_explanation": "Household and personal products, like processed foods, involve complex supply chains, with sustainability metrics focused on waste, resource use, and packaging.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Are there any common sustainability topics between the Processed Foods and Household & Personal Products industries, and if so, how do their reporting requirements differ?",
+    "optionA": "Yes, the Water Management topic is common to both industries. The reporting requirements are identical for measuring total water withdrawn and consumed, but only the Processed Foods industry has an additional metric for reporting non-compliance incidents related to water permits and regulations.",
+    "optionB": "No, there are no common sustainability topics covered for these two industries.",
+    "optionC": "Yes, the Water Management topic is common to both industries. The reporting requirements are exactly the same for both industries.",
+    "optionD": "Yes, the Energy Management topic is common to both industries. The reporting requirements for energy consumption and renewable energy use are more detailed for the Processed Foods industry compared to the Household & Personal Products industry.",
+    "optionE": "<UNKNOWN>",
+    "answer": "A",
+    "reference_text": [
+      "FB-PF-140a.1. (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress",
+      "FB-PF-140a.2. Number of incidents of non-compliance associated with water quantity and/or quality permits, standards, and regula\u00adtions",
+      "CG-HP-140a.1. (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress"
+    ],
+    "pages": [
+      "261_b25",
+      "34_b5"
+    ],
+    "industries": [
+      "b5-household-and-personal-products",
+      "b25-processed-foods"
+    ],
+    "pairing_explanation": "Household and personal products, like processed foods, involve complex supply chains, with sustainability metrics focused on waste, resource use, and packaging.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "When preparing sustainability reports, how do the metrics for measuring water risks differ between the Processed Foods and Household & Personal Products industries?",
+    "optionA": "The Processed Foods industry has a quantitative metric for reporting water-related non-compliance incidents, while the Household & Personal Products industry does not have such a metric.",
+    "optionB": "There is no difference in the water risk metrics between the two industries.",
+    "optionC": "The Household & Personal Products industry has more detailed quantitative metrics for measuring water risks compared to the Processed Foods industry.",
+    "optionD": "The Processed Foods industry has a quantitative metric for measuring the percentage of ingredients sourced from water-stressed regions, while the Household & Personal Products industry does not have such a metric.",
+    "optionE": "<UNKNOWN>",
+    "answer": "A",
+    "reference_text": [
+      "FB-PF-140a.2. Number of incidents of non-compliance associated with water quantity and/or quality permits, standards, and regula\u00adtions",
+      "CG-HP-140a.2. Description of water management risks and discussion of strategies and practi- ces to mitigate those risks"
+    ],
+    "pages": [
+      "261_b25",
+      "34_b5"
+    ],
+    "industries": [
+      "b5-household-and-personal-products",
+      "b25-processed-foods"
+    ],
+    "pairing_explanation": "Household and personal products, like processed foods, involve complex supply chains, with sustainability metrics focused on waste, resource use, and packaging.",
+    "qa_type": "multi_hop"
+  }
+]

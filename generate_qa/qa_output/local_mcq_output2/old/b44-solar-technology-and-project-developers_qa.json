@@ -1,0 +1,152 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing renewable energy consumption for a solar technology company, which of the following sources should NOT be included in the scope of renewable energy?",
+    "optionA": "Renewable fuel consumed by the entity",
+    "optionB": "Renewable energy directly produced by the entity",
+    "optionC": "Renewable energy purchased through a PPA with explicit RECs",
+    "optionD": "The renewable portion of the electricity grid mix outside the entity's control",
+    "optionE": "Green-e Energy Certified utility program purchases",
+    "answer": "D. The renewable portion of the electricity grid mix outside the entity's control",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "474",
+    "industries": [
+      "b44-solar-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When reporting on water management risks for a solar panel manufacturing company, which of the following is NOT considered a risk associated with water withdrawals and consumption?",
+    "optionA": "Operating in water-stressed regions",
+    "optionB": "Volatility in water costs",
+    "optionC": "Restrictions to withdrawals due to regulations",
+    "optionD": "Stakeholder perceptions related to water withdrawals",
+    "optionE": "Increased solar panel efficiency",
+    "answer": "E. Increased solar panel efficiency",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "476",
+    "industries": [
+      "b44-solar-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing strategies to mitigate water management risks in a sustainability report, which of the following is NOT required to be included?",
+    "optionA": "The scope of the strategy and how it relates to different business units",
+    "optionB": "Water management goals and targets that have been prioritized",
+    "optionC": "Activities and investments required to achieve the plans and targets",
+    "optionD": "Risks or limiting factors that might affect achievement of the plans",
+    "optionE": "Detailed engineering specifications of water treatment systems",
+    "answer": "E. Detailed engineering specifications of water treatment systems",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "477",
+    "industries": [
+      "b44-solar-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When describing risks associated with the integration of solar energy into existing energy infrastructure, which of the following is NOT considered a relevant technological barrier to disclose?",
+    "optionA": "Limited transmission network connectivity",
+    "optionB": "Lack of access to high-capacity transmission networks",
+    "optionC": "Variability in interconnection standards",
+    "optionD": "Inverter interconnection requirements",
+    "optionE": "Fluctuations in silicon prices for solar panel production",
+    "answer": "E. Fluctuations in silicon prices for solar panel production",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "479-480",
+    "industries": [
+      "b44-solar-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When disclosing water consumption in regions with High or Extremely High Baseline Water Stress, how should a solar panel manufacturer determine these regions?",
+    "optionA": "Using internal company risk assessments",
+    "optionB": "Consulting local water utility providers",
+    "optionC": "Analyzing historical rainfall data",
+    "optionD": "Using the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "optionE": "Surveying employees about perceived water stress",
+    "answer": "D. Using the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "476",
+    "industries": [
+      "b44-solar-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When reporting on total energy consumed by a solar technology company, which of the following should NOT be included in the calculation?",
+    "optionA": "Energy purchased from external sources",
+    "optionB": "Self-generated energy",
+    "optionC": "Direct fuel usage",
+    "optionD": "Purchased electricity",
+    "optionE": "Energy sold to other entities",
+    "answer": "E. Energy sold to other entities",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "473",
+    "industries": [
+      "b44-solar-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating water consumption for a solar panel manufacturing facility, which of the following is NOT considered as consumed water according to the IFRS standards?",
+    "optionA": "Water that evaporates during usage",
+    "optionB": "Water incorporated into the product",
+    "optionC": "Water returned to a different catchment area",
+    "optionD": "Water that evaporates during discharge",
+    "optionE": "Water returned to the same catchment area from which it was withdrawn",
+    "answer": "E. Water returned to the same catchment area from which it was withdrawn",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "475-476",
+    "industries": [
+      "b44-solar-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A solar technology company is struggling to integrate its solar energy systems into the existing energy infrastructure. According to IFRS standards, which of the following is NOT considered a relevant strategy to address this challenge?",
+    "optionA": "Developing new products like smart inverters",
+    "optionB": "Focusing on regions with reduced curtailment risk",
+    "optionC": "Incorporating energy storage technology",
+    "optionD": "Lobbying for reduced environmental regulations",
+    "optionE": "Designing products to operate in micro-grids",
+    "answer": "D. Lobbying for reduced environmental regulations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "479-480",
+    "industries": [
+      "b44-solar-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A solar technology company is preparing its sustainability report and needs to disclose its strategy for mitigating water management risks. According to IFRS standards, which of the following is NOT a required element of this disclosure?",
+    "optionA": "The scope of the strategy and how it relates to different business units",
+    "optionB": "Water management goals and targets prioritized by the company",
+    "optionC": "Activities and investments required to achieve the goals",
+    "optionD": "Potential impacts of water management risks on operations",
+    "optionE": "Detailed cost analysis of water management initiatives",
+    "answer": "E. Detailed cost analysis of water management initiatives",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "477-478",
+    "industries": [
+      "b44-solar-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When disclosing risks and opportunities associated with energy policy for a solar technology company, which of the following is NOT considered a relevant factor according to IFRS standards?",
+    "optionA": "International trade policy disputes and agreements",
+    "optionB": "Public policies establishing minimum requirements for renewable energy generation",
+    "optionC": "Policies affecting the financing and tax structure of solar energy",
+    "optionD": "Policies related to electricity transmission and interconnection standards",
+    "optionE": "Internal company policies on employee solar panel usage",
+    "answer": "E. Internal company policies on employee solar panel usage",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "481-482",
+    "industries": [
+      "b44-solar-technology-and-project-developers"
+    ]
+  }
+]

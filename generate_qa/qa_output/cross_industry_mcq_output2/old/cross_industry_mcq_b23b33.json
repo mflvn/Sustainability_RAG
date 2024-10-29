@@ -1,0 +1,146 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When reporting on environmental impacts, which of the following is a key difference between the Meat, Poultry & Dairy industry and the Engineering & Construction Services industry?",
+    "optionA": "Only Meat, Poultry & Dairy must report on water management",
+    "optionB": "Only Engineering & Construction must report on greenhouse gas emissions",
+    "optionC": "Meat, Poultry & Dairy reports on animal litter, while Engineering & Construction reports on project-related non-compliance incidents",
+    "optionD": "Engineering & Construction reports on energy efficiency, while Meat, Poultry & Dairy does not",
+    "optionE": "Both industries have identical environmental reporting requirements",
+    "answer": "C: Meat, Poultry & Dairy reports on animal litter, while Engineering & Construction reports on project-related non-compliance incidents",
+    "explanation": "The Meat, Poultry & Dairy industry has a specific metric (FB-MP-160a.1) for reporting on animal litter and manure generation, while the Engineering & Construction Services industry is required to report on the number of incidents of non-compliance with environmental permits, standards, and regulations (IF-EN-160a.1). This reflects the distinct environmental impacts and regulatory concerns of each industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Engineering & Construction Services"
+    ],
+    "pages": [
+      "240",
+      "323-324"
+    ],
+    "industries": [
+      "b23-meat-poultry-and-dairy",
+      "b33-engineering-and-construction-services"
+    ],
+    "pairing_explanation": "Both industries have a large environmental footprint and their sustainability strategies can benefit from cross-sector learnings on resource use and regulation compliance."
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "In terms of climate impact reporting, what is a key difference between the Meat, Poultry & Dairy industry and the Engineering & Construction Services industry?",
+    "optionA": "Only Meat, Poultry & Dairy must report on greenhouse gas emissions",
+    "optionB": "Engineering & Construction Services must report on backlog for renewable energy projects, while Meat, Poultry & Dairy does not have a similar requirement",
+    "optionC": "Meat, Poultry & Dairy must report on renewable energy usage, while Engineering & Construction Services does not",
+    "optionD": "Only Engineering & Construction Services must report on water management",
+    "optionE": "Both industries have identical climate impact reporting requirements",
+    "answer": "B: Engineering & Construction Services must report on backlog for renewable energy projects, while Meat, Poultry & Dairy does not have a similar requirement",
+    "explanation": "The Engineering & Construction Services industry has a specific metric (IF-EN-410b.1) requiring disclosure of backlog for renewable energy projects. This requirement reflects the industry's role in developing infrastructure that can mitigate climate change. The Meat, Poultry & Dairy industry does not have a similar requirement, as its climate impact is more focused on direct emissions and resource use in operations.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Engineering & Construction Services"
+    ],
+    "pages": [
+      "230-232",
+      "331-334"
+    ],
+    "industries": [
+      "b23-meat-poultry-and-dairy",
+      "b33-engineering-and-construction-services"
+    ],
+    "pairing_explanation": "Both industries have a large environmental footprint and their sustainability strategies can benefit from cross-sector learnings on resource use and regulation compliance."
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating water-related metrics, what is a key difference between the Meat, Poultry & Dairy industry and the Engineering & Construction Services industry?",
+    "optionA": "Only Meat, Poultry & Dairy calculates water stress",
+    "optionB": "Engineering & Construction Services only reports on water quality, not quantity",
+    "optionC": "Meat, Poultry & Dairy calculates water consumed, while Engineering & Construction Services does not have a specific water consumption metric",
+    "optionD": "Engineering & Construction Services calculates water efficiency, while Meat, Poultry & Dairy does not",
+    "optionE": "Both industries use identical water-related metrics",
+    "answer": "C: Meat, Poultry & Dairy calculates water consumed, while Engineering & Construction Services does not have a specific water consumption metric",
+    "explanation": "The Meat, Poultry & Dairy industry has a specific metric (FB-MP-140a.1) that requires calculation of total water consumed. In contrast, the Engineering & Construction Services industry does not have a directly comparable metric for water consumption. Instead, it focuses on incorporating water efficiency considerations into project planning and design (IF-EN-410a.2), reflecting the different roles these industries play in water use and management.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Engineering & Construction Services"
+    ],
+    "pages": [
+      "235-238",
+      "329-330"
+    ],
+    "industries": [
+      "b23-meat-poultry-and-dairy",
+      "b33-engineering-and-construction-services"
+    ],
+    "pairing_explanation": "Both industries have a large environmental footprint and their sustainability strategies can benefit from cross-sector learnings on resource use and regulation compliance."
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "In assessing climate-related financial impacts, what metric is unique to the Engineering & Construction Services industry compared to the Meat, Poultry & Dairy industry?",
+    "optionA": "Scope 1 emissions",
+    "optionB": "Energy consumption from renewables",
+    "optionC": "Water withdrawal in stressed areas",
+    "optionD": "Amount of backlog cancellations associated with hydrocarbon-related projects",
+    "optionE": "Animal feed sourced from water-stressed regions",
+    "answer": "D: Amount of backlog cancellations associated with hydrocarbon-related projects",
+    "explanation": "The Engineering & Construction Services industry has a unique metric (IF-EN-410b.2) that requires disclosure of the amount of backlog cancellations associated with hydrocarbon-related projects. This metric is specific to the industry's project-based nature and its involvement in energy infrastructure. The Meat, Poultry & Dairy industry does not have a comparable metric, as it is not typically involved in large-scale energy projects.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Engineering & Construction Services"
+    ],
+    "pages": [
+      "230-232",
+      "332-333"
+    ],
+    "industries": [
+      "b23-meat-poultry-and-dairy",
+      "b33-engineering-and-construction-services"
+    ],
+    "pairing_explanation": "Both industries have a large environmental footprint and their sustainability strategies can benefit from cross-sector learnings on resource use and regulation compliance."
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the Meat, Poultry & Dairy and Engineering & Construction Services industries differ in their approach to reporting on climate change mitigation efforts?",
+    "optionA": "Only Meat, Poultry & Dairy reports on climate change mitigation",
+    "optionB": "Engineering & Construction Services focuses on project-specific mitigation, while Meat, Poultry & Dairy focuses on operational mitigation",
+    "optionC": "Meat, Poultry & Dairy reports on carbon offsets, while Engineering & Construction Services does not",
+    "optionD": "Engineering & Construction Services only reports on energy efficiency, not climate mitigation",
+    "optionE": "Both industries have identical climate change mitigation reporting requirements",
+    "answer": "B: Engineering & Construction Services focuses on project-specific mitigation, while Meat, Poultry & Dairy focuses on operational mitigation",
+    "explanation": "The Engineering & Construction Services industry reports on climate change mitigation through project-specific metrics, such as backlog for non-energy projects associated with climate change mitigation (IF-EN-410b.3). In contrast, the Meat, Poultry & Dairy industry focuses on operational mitigation strategies, such as managing Scope 1 emissions (FB-MP-110a.2). This difference reflects the distinct roles these industries play in addressing climate change.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Engineering & Construction Services"
+    ],
+    "pages": [
+      "231-232",
+      "333-334"
+    ],
+    "industries": [
+      "b23-meat-poultry-and-dairy",
+      "b33-engineering-and-construction-services"
+    ],
+    "pairing_explanation": "Both industries have a large environmental footprint and their sustainability strategies can benefit from cross-sector learnings on resource use and regulation compliance."
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the Meat, Poultry & Dairy and Engineering & Construction Services industries differ in their approach to reporting on environmental impacts in their supply chains?",
+    "optionA": "Only Meat, Poultry & Dairy reports on supply chain impacts",
+    "optionB": "Engineering & Construction Services focuses on material sourcing, while Meat, Poultry & Dairy focuses on animal and feed sourcing",
+    "optionC": "Meat, Poultry & Dairy reports on transportation emissions, while Engineering & Construction Services does not",
+    "optionD": "Engineering & Construction Services reports on supplier diversity, while Meat, Poultry & Dairy does not",
+    "optionE": "Both industries have identical supply chain reporting requirements",
+    "answer": "B: Engineering & Construction Services focuses on material sourcing, while Meat, Poultry & Dairy focuses on animal and feed sourcing",
+    "explanation": "The Meat, Poultry & Dairy industry has specific metrics related to animal and feed sourcing, such as the percentage of animal feed sourced from regions with High or Extremely High Baseline Water Stress (FB-MP-440a.1). In contrast, the Engineering & Construction Services industry focuses more on the lifecycle impacts of buildings and infrastructure (IF-EN-410a.1 and IF-EN-410a.2), which implicitly includes considerations of material sourcing. This difference reflects the distinct supply chain concerns and environmental impacts of each industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Engineering & Construction Services"
+    ],
+    "pages": [
+      "241-242",
+      "328-330"
+    ],
+    "industries": [
+      "b23-meat-poultry-and-dairy",
+      "b33-engineering-and-construction-services"
+    ],
+    "pairing_explanation": "Both industries have a large environmental footprint and their sustainability strategies can benefit from cross-sector learnings on resource use and regulation compliance."
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When reporting on water management for the Household & Personal Products industry and the E-Commerce industry, which of the following is a key difference in the required disclosures?",
+    "optionA": "Only Household & Personal Products must report total water withdrawn",
+    "optionB": "Only E-Commerce must report water consumed in regions with high water stress",
+    "optionC": "Household & Personal Products must discuss water management strategies, while E-Commerce does not",
+    "optionD": "E-Commerce must report on data center water usage, while Household & Personal Products does not",
+    "optionE": "Both industries have identical water management reporting requirements",
+    "answer": "D: E-Commerce must report on data center water usage, while Household & Personal Products does not",
+    "explanation": "While both industries must report on total water withdrawn and consumed, including in regions with high water stress, the E-Commerce industry has an additional requirement to discuss the integration of environmental considerations, including water consumption, into strategic planning for data center needs (CG-EC-130a.3). This is not a requirement for the Household & Personal Products industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products"
+    ],
+    "pages": [
+      "26",
+      "27",
+      "28",
+      "29",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "pairing_explanation": "These industries are deeply interconnected in the consumer goods supply chain, from production to distribution. Sustainability reporting can capture the flow of materials and consumer behavior impacts, as well as supply chain management practices.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b4-e-commerce",
+      "b5-household-and-personal-products",
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "In the context of energy management reporting, what is a key difference between the requirements for the Multiline and Specialty Retailers & Distributors industry and the E-Commerce industry?",
+    "optionA": "Only E-Commerce must report on grid electricity percentage",
+    "optionB": "Only Multiline and Specialty Retailers must report on renewable energy percentage",
+    "optionC": "E-Commerce must report on data processing capacity, while Multiline and Specialty Retailers do not",
+    "optionD": "Multiline and Specialty Retailers must report on number of retail locations, while E-Commerce does not",
+    "optionE": "Both industries have identical energy management reporting requirements",
+    "answer": "C: E-Commerce must report on data processing capacity, while Multiline and Specialty Retailers do not",
+    "explanation": "While both industries must report on total energy consumed, percentage of grid electricity, and percentage of renewable energy, the E-Commerce industry has an additional activity metric (CG-EC-000.B) requiring disclosure of data processing capacity and percentage outsourced. This is not a requirement for the Multiline and Specialty Retailers & Distributors industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors"
+    ],
+    "pages": [
+      "25",
+      "26",
+      "27",
+      "28",
+      "39",
+      "40",
+      "41"
+    ],
+    "pairing_explanation": "These industries are deeply interconnected in the consumer goods supply chain, from production to distribution. Sustainability reporting can capture the flow of materials and consumer behavior impacts, as well as supply chain management practices.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b4-e-commerce",
+      "b5-household-and-personal-products",
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of renewable energy consumed for both the Apparel, Accessories & Footwear industry and the E-Commerce industry, which of the following energy sources should be excluded?",
+    "optionA": "On-site generated solar power with retained RECs",
+    "optionB": "Purchased wind power through a PPA with explicitly included RECs",
+    "optionC": "Biomass energy from Forest Stewardship Council certified materials",
+    "optionD": "The renewable portion of the electricity grid mix outside the entity's control",
+    "optionE": "Geothermal energy directly produced by the entity",
+    "answer": "D: The renewable portion of the electricity grid mix outside the entity's control",
+    "explanation": "For both industries, the calculation of renewable energy percentage explicitly excludes the renewable portion of the electricity grid mix that is outside of the control or influence of the entity. This ensures that only renewable energy directly sourced or influenced by the company is included in the calculation.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce"
+    ],
+    "pages": [
+      "28",
+      "29",
+      "41"
+    ],
+    "pairing_explanation": "These industries are deeply interconnected in the consumer goods supply chain, from production to distribution. Sustainability reporting can capture the flow of materials and consumer behavior impacts, as well as supply chain management practices.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b4-e-commerce",
+      "b5-household-and-personal-products",
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When reporting on product delivery environmental impact for the E-Commerce industry, which of the following metrics is required to be calculated according to EN 16258:2012 methodology?",
+    "optionA": "Total water consumed in product packaging",
+    "optionB": "Percentage of recycled materials used in packaging",
+    "optionC": "Total greenhouse gas (GHG) footprint of product shipments",
+    "optionD": "Number of electric vehicles in the delivery fleet",
+    "optionE": "Average distance traveled per shipment",
+    "answer": "C: Total greenhouse gas (GHG) footprint of product shipments",
+    "explanation": "For the E-Commerce industry, the metric CG-EC-410a.1 requires the disclosure of the total greenhouse gas (GHG) footprint of product shipments. This metric must be calculated according to EN 16258:2012, which provides the methodology for calculation and declaration of energy consumption and GHG emissions of transport services.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce"
+    ],
+    "pages": [
+      "31",
+      "32"
+    ],
+    "pairing_explanation": "These industries are deeply interconnected in the consumer goods supply chain, from production to distribution. Sustainability reporting can capture the flow of materials and consumer behavior impacts, as well as supply chain management practices.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b4-e-commerce",
+      "b5-household-and-personal-products",
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How does the approach to reporting on supply chain environmental impacts differ between the Apparel, Accessories & Footwear industry and the Household & Personal Products industry?",
+    "optionA": "Only Apparel, Accessories & Footwear reports on raw materials sourcing",
+    "optionB": "Only Household & Personal Products reports on palm oil sourcing",
+    "optionC": "Apparel, Accessories & Footwear focuses on cotton, while Household & Personal Products focuses on palm oil",
+    "optionD": "Both industries have identical supply chain environmental impact reporting requirements",
+    "optionE": "Household & Personal Products reports on water usage in the supply chain, while Apparel, Accessories & Footwear does not",
+    "answer": "C: Apparel, Accessories & Footwear focuses on cotton, while Household & Personal Products focuses on palm oil",
+    "explanation": "The Apparel, Accessories & Footwear industry has specific reporting requirements related to raw materials sourcing, with a particular emphasis on cotton (CG-AA-440a.1 and CG-AA-440a.2). In contrast, the Household & Personal Products industry has specific reporting requirements related to palm oil sourcing (CG-HP-430a.1). This reflects the different key materials and associated environmental impacts relevant to each industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products"
+    ],
+    "pages": [
+      "8",
+      "9",
+      "10",
+      "38"
+    ],
+    "pairing_explanation": "These industries are deeply interconnected in the consumer goods supply chain, from production to distribution. Sustainability reporting can capture the flow of materials and consumer behavior impacts, as well as supply chain management practices.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b4-e-commerce",
+      "b5-household-and-personal-products",
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing the E-Commerce industry with the Multiline and Specialty Retailers & Distributors industry, which of the following represents a key difference in their sustainability reporting focus?",
+    "optionA": "Only E-Commerce reports on energy management",
+    "optionB": "Only Multiline and Specialty Retailers report on water management",
+    "optionC": "E-Commerce focuses on data center environmental impact, while Multiline and Specialty Retailers do not",
+    "optionD": "Multiline and Specialty Retailers focus on in-store energy efficiency, while E-Commerce does not",
+    "optionE": "Both industries have identical sustainability reporting focuses",
+    "answer": "C: E-Commerce focuses on data center environmental impact, while Multiline and Specialty Retailers do not",
+    "explanation": "A key difference in sustainability reporting focus between these industries is that the E-Commerce industry has specific requirements related to the environmental impact of data centers (CG-EC-130a.3), including energy and water management considerations. This is not a focus area for the Multiline and Specialty Retailers & Distributors industry, which instead emphasizes energy management in retail locations and distribution centers.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors"
+    ],
+    "pages": [
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "39",
+      "40",
+      "41"
+    ],
+    "pairing_explanation": "These industries are deeply interconnected in the consumer goods supply chain, from production to distribution. Sustainability reporting can capture the flow of materials and consumer behavior impacts, as well as supply chain management practices.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b4-e-commerce",
+      "b5-household-and-personal-products",
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  }
+]

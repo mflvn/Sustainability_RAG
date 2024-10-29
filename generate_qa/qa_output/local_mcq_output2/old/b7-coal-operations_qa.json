@@ -1,0 +1,137 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When calculating the percentage of Scope 1 GHG emissions covered under emissions-limiting regulations, how should a company handle emissions subject to multiple regulations?",
+    "optionA": "Add the percentages for each regulation",
+    "optionB": "Use the regulation with the highest percentage",
+    "optionC": "Average the percentages across all applicable regulations",
+    "optionD": "Count those emissions only once",
+    "optionE": "Exclude those emissions from the calculation",
+    "answer": "D. Count those emissions only once",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "44",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "What is the correct approach for disclosing water withdrawal in regions with high water stress?",
+    "optionA": "Disclose total water withdrawn without regional breakdown",
+    "optionB": "Disclose water withdrawn in high-stress regions as a percentage of total withdrawal",
+    "optionC": "Only disclose water withdrawn in low-stress regions",
+    "optionD": "Exclude water stress considerations from the report",
+    "optionE": "Disclose water withdrawn in high-stress regions in absolute terms only",
+    "answer": "B. Disclose water withdrawn in high-stress regions as a percentage of total withdrawal",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "47",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "Which of the following scenarios must be included in the sensitivity analysis of coal reserves according to the IFRS standards?",
+    "optionA": "Only the Current Policies Scenario",
+    "optionB": "Current Policies and New Policies Scenarios",
+    "optionC": "Current Policies, New Policies, and Sustainable Development Scenarios",
+    "optionD": "Only company-specific scenarios",
+    "optionE": "No sensitivity analysis is required",
+    "answer": "C. Current Policies, New Policies, and Sustainable Development Scenarios",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "49-50",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When discussing how price and demand for coal influence capital expenditure strategy, which of the following is NOT a factor that the entity should consider discussing?",
+    "optionA": "Projections and assumptions about future coal prices",
+    "optionB": "Likelihood of certain price and demand scenarios occurring",
+    "optionC": "Impact of air quality and climate regulation on exploration focus",
+    "optionD": "Alignment of climate regulation time horizons with return on capital expenditures",
+    "optionE": "Detailed operational costs of individual mining sites",
+    "answer": "E. Detailed operational costs of individual mining sites",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "52",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "How should a coal operations company calculate the percentage of water recycled in its operations?",
+    "optionA": "Volume recycled divided by total water consumed",
+    "optionB": "Volume recycled divided by volume of water withdrawn",
+    "optionC": "Volume recycled divided by total wastewater generated",
+    "optionD": "Volume recycled divided by freshwater available in the region",
+    "optionE": "Volume recycled divided by industry average water use",
+    "answer": "B. Volume recycled divided by volume of water withdrawn",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "47",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "In estimating carbon dioxide emissions embedded in proven coal reserves, what is the correct formula to use according to the IFRS standards?",
+    "optionA": "E = R \u00d7 V \u00d7 C",
+    "optionB": "E = R + V + C",
+    "optionC": "E = R / (V \u00d7 C)",
+    "optionD": "E = (R \u00d7 V) / C",
+    "optionE": "E = R \u00d7 (V / C)",
+    "answer": "A. E = R \u00d7 V \u00d7 C",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "51",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A coal company is preparing its sustainability report and needs to disclose its Scope 1 GHG emissions. Which of the following is NOT considered a direct emission source for coal operations according to IFRS standards?",
+    "optionA": "Equipment at mine sites",
+    "optionB": "Mine mouth electric generating facilities",
+    "optionC": "Coal seam methane emissions",
+    "optionD": "Office buildings",
+    "optionE": "Emissions from end-user coal combustion",
+    "answer": "E. Emissions from end-user coal combustion",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "43-44",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A coal company is reporting on water management in its sustainability report. Which of the following incidents should NOT be included in the disclosure of non-compliance with water quality permits, standards, and regulations?",
+    "optionA": "Violations of technology-based standards",
+    "optionB": "Exceedances of quantity-based standards",
+    "optionC": "Exceedances of quality-based standards",
+    "optionD": "Violations resulting in formal enforcement actions",
+    "optionE": "Violations of voluntary water conservation commitments",
+    "answer": "E. Violations of voluntary water conservation commitments",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "47-48",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When discussing the influence of climate regulation on capital expenditure strategy in a sustainability report, which time horizon should a coal company primarily focus on?",
+    "optionA": "Only short-term impacts (1-2 years)",
+    "optionB": "Only medium-term impacts (3-5 years)",
+    "optionC": "Only long-term impacts (over 5 years)",
+    "optionD": "Both short-term and medium-term impacts",
+    "optionE": "Short-term, medium-term, and long-term impacts",
+    "answer": "E. Short-term, medium-term, and long-term impacts",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "52",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  }
+]

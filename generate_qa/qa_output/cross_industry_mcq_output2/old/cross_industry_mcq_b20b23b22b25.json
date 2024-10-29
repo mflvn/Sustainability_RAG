@@ -1,0 +1,158 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "Which of the following is a required disclosure for both the Meat, Poultry & Dairy industry and the Processed Foods industry regarding water management?",
+    "optionA": "Total water withdrawn and consumed",
+    "optionB": "Water recycling rate",
+    "optionC": "Wastewater treatment methods",
+    "optionD": "Annual water reduction targets",
+    "optionE": "Water rights and permits held",
+    "answer": "A. Total water withdrawn and consumed",
+    "explanation": "Both the Meat, Poultry & Dairy (FB-MP-140a.1) and Processed Foods (FB-PF-140a.1) industries are required to disclose the total water withdrawn and consumed, as well as the percentage of each in regions with High or Extremely High Baseline Water Stress. This metric is crucial for understanding water usage and potential risks in water-stressed areas across both industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods"
+    ],
+    "pages": [
+      "236",
+      "261-262"
+    ],
+    "pairing_explanation": "These industries are all critical components of the food supply chain. Sustainability reporting can illuminate practices in sourcing, production, distribution, and retail, highlighting the entire lifecycle from farm to table.",
+    "industries": [
+      "b20-agricultural-products",
+      "b23-meat-poultry-and-dairy",
+      "b22-food-retailers-and-distributors",
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "For the Food Retailers & Distributors industry, which of the following disclosures is specifically required regarding refrigerants, but not for the Agricultural Products industry?",
+    "optionA": "Total refrigerant consumption",
+    "optionB": "Gross global Scope 1 emissions from refrigerants",
+    "optionC": "Refrigerant recycling rate",
+    "optionD": "Types of refrigerants used",
+    "optionE": "Refrigerant leak detection methods",
+    "answer": "B. Gross global Scope 1 emissions from refrigerants",
+    "explanation": "The Food Retailers & Distributors industry is specifically required to disclose gross global Scope 1 emissions from refrigerants (FB-FR-110b.1). This is not a requirement for the Agricultural Products industry, as refrigerant use is less significant in their operations. This disclosure is important for Food Retailers & Distributors due to the potential climate impact of refrigerant emissions in their extensive cold storage and display systems.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products"
+    ],
+    "pages": [
+      "218-220",
+      "190-193"
+    ],
+    "pairing_explanation": "These industries are all critical components of the food supply chain. Sustainability reporting can illuminate practices in sourcing, production, distribution, and retail, highlighting the entire lifecycle from farm to table.",
+    "industries": [
+      "b20-agricultural-products",
+      "b23-meat-poultry-and-dairy",
+      "b22-food-retailers-and-distributors",
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of renewable energy consumed for both the Agricultural Products and Food Retailers & Distributors industries, which of the following is explicitly excluded from the scope of renewable energy?",
+    "optionA": "On-site solar generation",
+    "optionB": "Purchased wind power with RECs",
+    "optionC": "Biomass from certified sustainable sources",
+    "optionD": "Geothermal energy",
+    "optionE": "The renewable portion of the electricity grid mix outside the entity's control",
+    "answer": "E. The renewable portion of the electricity grid mix outside the entity's control",
+    "explanation": "For both industries, when calculating the percentage of renewable energy consumed, the renewable portion of the electricity grid mix that is outside of the control or influence of the entity is explicitly excluded from the scope of renewable energy. This ensures that only renewable energy directly sourced or influenced by the company is included in the calculation, providing a more accurate representation of the company's renewable energy efforts.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors"
+    ],
+    "pages": [
+      "195",
+      "222"
+    ],
+    "pairing_explanation": "These industries are all critical components of the food supply chain. Sustainability reporting can illuminate practices in sourcing, production, distribution, and retail, highlighting the entire lifecycle from farm to table.",
+    "industries": [
+      "b20-agricultural-products",
+      "b23-meat-poultry-and-dairy",
+      "b22-food-retailers-and-distributors",
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of food ingredients sourced from regions with High or Extremely High Baseline Water Stress for both the Processed Foods and Meat, Poultry & Dairy industries, what is the correct denominator to use?",
+    "optionA": "Total volume of food ingredients purchased",
+    "optionB": "Total number of suppliers",
+    "optionC": "Total cost of food ingredients purchased from Tier 1 suppliers",
+    "optionD": "Total water consumption in production",
+    "optionE": "Total revenue from food products",
+    "answer": "C. Total cost of food ingredients purchased from Tier 1 suppliers",
+    "explanation": "For both the Processed Foods (FB-PF-440a.1) and Meat, Poultry & Dairy (FB-MP-440a.1) industries, the correct denominator for calculating the percentage of food ingredients sourced from water-stressed regions is the total cost of food ingredients purchased from Tier 1 suppliers. This metric provides a financial perspective on the exposure to water risks in the supply chain, allowing for comparability across different types and volumes of ingredients.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy"
+    ],
+    "pages": [
+      "268-269",
+      "241-242"
+    ],
+    "pairing_explanation": "These industries are all critical components of the food supply chain. Sustainability reporting can illuminate practices in sourcing, production, distribution, and retail, highlighting the entire lifecycle from farm to table.",
+    "industries": [
+      "b20-agricultural-products",
+      "b23-meat-poultry-and-dairy",
+      "b22-food-retailers-and-distributors",
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How does the approach to reporting on greenhouse gas (GHG) emissions differ between the Agricultural Products industry and the Food Retailers & Distributors industry?",
+    "optionA": "Only Agricultural Products must report on Scope 1 emissions",
+    "optionB": "Food Retailers & Distributors report on fleet fuel consumption, while Agricultural Products do not",
+    "optionC": "Agricultural Products report on emissions reduction targets, while Food Retailers & Distributors do not",
+    "optionD": "Food Retailers & Distributors must report on refrigerant emissions, while Agricultural Products do not",
+    "optionE": "There are no significant differences in GHG emissions reporting between these industries",
+    "answer": "D. Food Retailers & Distributors must report on refrigerant emissions, while Agricultural Products do not",
+    "explanation": "The key difference in GHG emissions reporting between these industries is that Food Retailers & Distributors must specifically report on gross global Scope 1 emissions from refrigerants (FB-FR-110b.1), while this is not a requirement for Agricultural Products. This reflects the significant use of refrigeration in retail and distribution operations, which is less relevant in agricultural production. Both industries are required to report on overall Scope 1 emissions and emission reduction strategies, but the specific focus on refrigerants is unique to Food Retailers & Distributors.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors"
+    ],
+    "pages": [
+      "190-193",
+      "218-220"
+    ],
+    "pairing_explanation": "These industries are all critical components of the food supply chain. Sustainability reporting can illuminate practices in sourcing, production, distribution, and retail, highlighting the entire lifecycle from farm to table.",
+    "industries": [
+      "b20-agricultural-products",
+      "b23-meat-poultry-and-dairy",
+      "b22-food-retailers-and-distributors",
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "What is a key difference in sustainability reporting requirements between the Meat, Poultry & Dairy industry and the Processed Foods industry regarding their supply chains?",
+    "optionA": "Only Processed Foods must report on supplier audits",
+    "optionB": "Meat, Poultry & Dairy must report on animal welfare, while Processed Foods does not",
+    "optionC": "Only Processed Foods must disclose the percentage of certified ingredients",
+    "optionD": "Meat, Poultry & Dairy must report on feed sourcing, while Processed Foods reports on general ingredient sourcing",
+    "optionE": "There are no significant differences in supply chain reporting between these industries",
+    "answer": "D. Meat, Poultry & Dairy must report on feed sourcing, while Processed Foods reports on general ingredient sourcing",
+    "explanation": "A key difference in sustainability reporting requirements between these industries is that the Meat, Poultry & Dairy industry must specifically report on animal feed sourcing (FB-MP-440a.1, FB-MP-440a.2), including the percentage sourced from water-stressed regions and contracts with producers in such regions. In contrast, the Processed Foods industry reports on general food ingredient sourcing (FB-PF-440a.1, FB-PF-440a.2), without a specific focus on animal feed. This reflects the different priorities and risks in their respective supply chains, with animal feed being a critical input for Meat, Poultry & Dairy production.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods"
+    ],
+    "pages": [
+      "241-243",
+      "268-269"
+    ],
+    "pairing_explanation": "These industries are all critical components of the food supply chain. Sustainability reporting can illuminate practices in sourcing, production, distribution, and retail, highlighting the entire lifecycle from farm to table.",
+    "industries": [
+      "b20-agricultural-products",
+      "b23-meat-poultry-and-dairy",
+      "b22-food-retailers-and-distributors",
+      "b25-processed-foods"
+    ]
+  }
+]

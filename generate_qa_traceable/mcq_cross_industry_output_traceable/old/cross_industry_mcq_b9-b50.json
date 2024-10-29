@@ -1,0 +1,205 @@
+[
+  {
+    "question": "List the activity metrics for Volume B9\u2014Iron & Steel Producers and Volume B50\u2014Industrial Machinery & Goods industries.",
+    "optionA": "For Iron & Steel Producers: Raw steel production, percentage from: (1) basic oxygen furnace processes, (2) electric arc furnace processes; Total iron ore production; Total coking coal production. For Industrial Machinery & Goods: Number of units produced by product category; Number of employees.",
+    "optionB": "For Iron & Steel Producers: None. For Industrial Machinery & Goods: None.",
+    "optionC": "For Iron & Steel Producers: Total energy consumed. For Industrial Machinery & Goods: Total energy consumed.",
+    "optionD": "For Iron & Steel Producers: Raw material sourcing risks. For Industrial Machinery & Goods: Emissions of nitrogen oxides (NOx) and particulate matter (PM).",
+    "optionE": "For Iron & Steel Producers: None listed. For Industrial Machinery & Goods: None listed.",
+    "answer": "A",
+    "reference_text": [
+      "Table 2. Activity Metrics: For Iron & Steel Producers: Raw steel production, percentage from: (1) basic oxygen furnace processes, (2) electric arc furnace processes; Total iron ore production; Total coking coal production.",
+      "Table 2. Activity Metrics: For Industrial Machinery & Goods: Number of units produced by product category; Number of employees."
+    ],
+    "pages": [
+      "74",
+      "528"
+    ],
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "pairing_explanation": "These industries are interrelated as steel production feeds into machinery manufacturing, necessitating reviews of supply chain sustainability and emissions.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "What are the common metrics shared between Volume B9\u2014Iron & Steel Producers and Volume B50\u2014Industrial Machinery & Goods industries in Table 1?",
+    "optionA": "There are no common metrics between the two industries.",
+    "optionB": "The common metric is (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable.",
+    "optionC": "The common metrics are: Greenhouse Gas Emissions and Energy Management.",
+    "optionD": "There is no Table 1 provided for these industries.",
+    "optionE": "The common metric is Supply Chain Management.",
+    "answer": "B",
+    "reference_text": [
+      "Table 1 for Iron & Steel Producers includes the metric: Energy Management: (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable",
+      "Table 1 for Industrial Machinery & Goods includes the metric: Energy Management: (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+    ],
+    "pages": [
+      "72",
+      "529"
+    ],
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "pairing_explanation": "These industries are interrelated as steel production feeds into machinery manufacturing, necessitating reviews of supply chain sustainability and emissions.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Volume B9\u2014Iron & Steel Producers and Volume B50\u2014Industrial Machinery & Goods industries?",
+    "optionA": "Volume B9\u2014Iron & Steel Producers has more Quantitative metrics.",
+    "optionB": "Volume B50\u2014Industrial Machinery & Goods has more Quantitative metrics.",
+    "optionC": "Both industries have the same number of Quantitative metrics in Table 1.",
+    "optionD": "There are no Quantitative metrics listed in Table 1 for either industry.",
+    "optionE": "<UNKNOWN>",
+    "answer": "A",
+    "reference_text": [
+      "For Iron & Steel Producers, Table 1 lists 5 Quantitative metrics.",
+      "For Industrial Machinery & Goods, Table 1 lists 4 Quantitative metrics."
+    ],
+    "pages": [
+      "72",
+      "529"
+    ],
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "pairing_explanation": "These industries are interrelated as steel production feeds into machinery manufacturing, necessitating reviews of supply chain sustainability and emissions.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Volume B9\u2014Iron & Steel Producers and Volume B50\u2014Industrial Machinery & Goods industries.",
+    "optionA": "For Iron & Steel Producers: Greenhouse Gas Emissions and Supply Chain Management. For Industrial Machinery & Goods: None.",
+    "optionB": "For Iron & Steel Producers: Energy Management and Water Management. For Industrial Machinery & Goods: Energy Management.",
+    "optionC": "For Iron & Steel Producers: None. For Industrial Machinery & Goods: None.",
+    "optionD": "For Iron & Steel Producers: Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets; Discussion of the process for managing iron ore and/or coking coal sourcing risks arising from environmental and social issues. For Industrial Machinery & Goods: None.",
+    "optionE": "For Iron & Steel Producers: None listed. For Industrial Machinery & Goods: None listed.",
+    "answer": "D",
+    "reference_text": [
+      "Table 1 for Iron & Steel Producers lists the following 'Discussion and Analysis' metrics: Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions...; Discussion of the process for managing iron ore and/or coking coal sourcing risks...",
+      "Table 1 for Industrial Machinery & Goods does not list any 'Discussion and Analysis' metrics."
+    ],
+    "pages": [
+      "72",
+      "529"
+    ],
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "pairing_explanation": "These industries are interrelated as steel production feeds into machinery manufacturing, necessitating reviews of supply chain sustainability and emissions.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "For the Iron & Steel Producers and Industrial Machinery & Goods industries, what are the codes for all the 'Quantitative' metrics in Table 1?",
+    "optionA": "EM-IS-110a.1, EM-IS-130a.1, EM-IS-130a.2, EM-IS-140a.1, RT-IG-130a.1, RT-IG-410a.1, RT-IG-410a.2, RT-IG-410a.3, RT-IG-410a.4",
+    "optionB": "EM-IS-110a.2, EM-IS-430a.1",
+    "optionC": "EM-IS-110a.1, RT-IG-130a.1, RT-IG-410a.1, RT-IG-410a.2, RT-IG-410a.3, RT-IG-410a.4",
+    "optionD": "EM-IS-130a.1, EM-IS-130a.2, EM-IS-140a.1, RT-IG-130a.1, RT-IG-410a.1, RT-IG-410a.2, RT-IG-410a.3, RT-IG-410a.4",
+    "optionE": "EM-IS-110a.1, EM-IS-110a.2, EM-IS-430a.1, RT-IG-130a.1, RT-IG-410a.1, RT-IG-410a.2, RT-IG-410a.3, RT-IG-410a.4",
+    "answer": "D",
+    "reference_text": [
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|-------|--------|----------|------------------|------|",
+      "| Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%) | EM-IS-110a.1 |",
+      "| Energy Management | (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | EM-IS-130a.1 |",
+      "| Energy Management | (1) Total fuel consumed, (2) percentage coal, (3) percentage natural gas, (4) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | EM-IS-130a.2 |",
+      "| Water Management | (1) Total fresh water withdrawn, (2) percentage recycled, (3) percentage in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%) | EM-IS-140a.1 |",
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|-------|--------|----------|--------------------|------|",
+      "| Energy Management | (1) Total energy consumed, (2) percent- age grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | RT-IG-130a.1 |",
+      "| Fuel Economy & Emissions in Use-phase | Sales-weighted fleet fuel efficiency for medium- and heavy-duty vehicles | Quantitative | Gallons per 1,000 ton- miles | RT-IG-410a.1 |",
+      "| Fuel Economy & Emissions in Use-phase | Sales-weighted fuel efficiency for non- road equipment | Quantitative | Gallons per hour | RT-IG-410a.2 |",
+      "| Fuel Economy & Emissions in Use-phase | Sales-weighted fuel efficiency for stationary generators | Quantitative | Watts per gallon | RT-IG-410a.3 |",
+      "| Fuel Economy & Emissions in Use-phase | Sales-weighted emissions of: (1) nitrogen oxides (NOx) and (2) partic- ulate matter (PM) for: (a) marine diesel engines, (b) locomotive diesel engines, (c) on-road medium- and heavy-duty engines, and (d) other non-road diesel engines 88 | Quantitative | Grams per kilowatt-hour | RT-IG-410a.4 |"
+    ],
+    "pages": [
+      "69-70",
+      "528-529"
+    ],
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "pairing_explanation": "These industries are interrelated as steel production feeds into machinery manufacturing, necessitating reviews of supply chain sustainability and emissions.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "For the Iron & Steel Producers and Industrial Machinery & Goods industries, what are the codes for all the 'Discussion and Analysis' metrics in Table 1?",
+    "optionA": "EM-IS-110a.1, RT-IG-130a.1, RT-IG-410a.1, RT-IG-410a.2, RT-IG-410a.3, RT-IG-410a.4",
+    "optionB": "EM-IS-110a.2, EM-IS-430a.1",
+    "optionC": "EM-IS-140a.1, RT-IG-130a.1, RT-IG-410a.1, RT-IG-410a.2, RT-IG-410a.3, RT-IG-410a.4",
+    "optionD": "EM-IS-130a.1, EM-IS-130a.2, RT-IG-130a.1, RT-IG-410a.1, RT-IG-410a.2, RT-IG-410a.3, RT-IG-410a.4",
+    "optionE": "EM-IS-110a.1, EM-IS-130a.1, EM-IS-130a.2, EM-IS-140a.1, RT-IG-130a.1, RT-IG-410a.1, RT-IG-410a.2, RT-IG-410a.3, RT-IG-410a.4",
+    "answer": "B",
+    "reference_text": [
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|-------|--------|----------|------------------|------|",
+      "| Greenhouse Gas Emissions | Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a | EM-IS-110a.2 |",
+      "| Supply Chain Management | Discussion of the process for managing iron ore and/or coking coal sourcing risks arising from environmental and social issues | Discussion and Analysis | n/a | EM-IS-430a.1 |"
+    ],
+    "pages": [
+      "69-70"
+    ],
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "pairing_explanation": "These industries are interrelated as steel production feeds into machinery manufacturing, necessitating reviews of supply chain sustainability and emissions.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "When preparing sustainability reports, how do the metrics for measuring energy management differ between the Iron & Steel Producers and Industrial Machinery & Goods industries?",
+    "optionA": "The industries have the same energy management metrics, only differing in the metric codes used.",
+    "optionB": "The Iron & Steel Producers industry has additional metrics related to fuel consumption breakdowns by type, while the Industrial Machinery & Goods industry focuses only on total energy consumption.",
+    "optionC": "The Industrial Machinery & Goods industry has no metrics related to energy management.",
+    "optionD": "The Iron & Steel Producers industry metrics cover only total energy consumption, while the Industrial Machinery & Goods industry has additional metrics on fuel efficiency for vehicles and generators.",
+    "optionE": "The industries use completely different metrics for measuring energy management, with no overlap.",
+    "answer": "B",
+    "reference_text": [
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|-------|--------|----------|------------------|------|",
+      "| Energy Management | (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | EM-IS-130a.1 |",
+      "| Energy Management | (1) Total fuel consumed, (2) percentage coal, (3) percentage natural gas, (4) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | EM-IS-130a.2 |",
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|-------|--------|----------|--------------------|------|",
+      "| Energy Management | (1) Total energy consumed, (2) percent- age grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | RT-IG-130a.1 |"
+    ],
+    "pages": [
+      "75-78",
+      "529-530"
+    ],
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "pairing_explanation": "These industries are interrelated as steel production feeds into machinery manufacturing, necessitating reviews of supply chain sustainability and emissions.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "When calculating emissions metrics, what is the key difference between Iron & Steel Producers and Industrial Machinery & Goods companies?",
+    "optionA": "Iron & Steel Producers calculate emissions based on the amount of raw materials processed, while Industrial Machinery & Goods calculate emissions based on the fuel efficiency of their products.",
+    "optionB": "There is no difference, both industries calculate emissions the same way based on total energy consumption.",
+    "optionC": "Iron & Steel Producers calculate Scope 1 emissions, while Industrial Machinery & Goods calculate emissions produced during the use phase of their products.",
+    "optionD": "Industrial Machinery & Goods companies are not required to report any emissions metrics.",
+    "optionE": "The industries use completely different methodologies for calculating emissions that are not specified in the reporting standards.",
+    "answer": "C",
+    "reference_text": [
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|-------|--------|----------|------------------|------|",
+      "| Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%) | EM-IS-110a.1 |",
+      "| Fuel Economy & Emissions in Use-phase | Sales-weighted emissions of: (1) nitrogen oxides (NOx) and (2) partic- ulate matter (PM) for: (a) marine diesel engines, (b) locomotive diesel engines, (c) on-road medium- and heavy-duty engines, and (d) other non-road diesel engines 88 | Quantitative | Grams per kilowatt-hour | RT-IG-410a.4 |"
+    ],
+    "pages": [
+      "71-74",
+      "531-533"
+    ],
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "pairing_explanation": "These industries are interrelated as steel production feeds into machinery manufacturing, necessitating reviews of supply chain sustainability and emissions.",
+    "qa_type": "multi_hop"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "Which sustainability challenge is common to both the Apparel, Accessories & Footwear industry and the Coal Operations industry?",
+    "optionA": "Managing water quality in textile dyeing processes",
+    "optionB": "Reducing methane emissions from underground mining",
+    "optionC": "Managing global supply chain carbon emissions",
+    "optionD": "Ensuring fair labor practices in retail stores",
+    "optionE": "Implementing circular economy principles in product design",
+    "answer": "C. Managing global supply chain carbon emissions",
+    "explanation": "Both industries face significant challenges in managing carbon emissions across their global supply chains. The Apparel industry relies on geographically diverse suppliers for raw materials and manufacturing, while the Coal Operations industry has emissions-intensive extraction and transportation processes. Both industries need to address these supply chain emissions to mitigate climate-related risks and meet increasing regulatory and stakeholder expectations.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations"
+    ],
+    "pages": [
+      "8",
+      "43"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ]
+  }
+]

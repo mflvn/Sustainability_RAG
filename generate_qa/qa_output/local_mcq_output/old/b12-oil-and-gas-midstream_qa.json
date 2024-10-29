@@ -1,0 +1,422 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the seven greenhouse gases (GHGs) covered under the Kyoto Protocol that companies must disclose in their Scope 1 emissions?",
+    "optionA": "Carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, sulfur hexafluoride, and nitrogen trifluoride",
+    "optionB": "Carbon dioxide, methane, nitrous oxide, hydrochlorofluorocarbons, perfluorocarbons, sulfur dioxide, and nitrogen trifluoride",
+    "optionC": "Carbon monoxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, sulfur hexafluoride, and nitrogen dioxide",
+    "optionD": "Carbon dioxide, methane, nitric oxide, hydrofluorocarbons, chlorofluorocarbons, sulfur hexafluoride, and nitrogen trifluoride",
+    "optionE": "Carbon dioxide, methane, nitrous oxide, hydrochlorofluorocarbons, perfluorocarbons, sulfur hexafluoride, and nitrogen oxide",
+    "answer": "A. Carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, sulfur hexafluoride, and nitrogen trifluoride",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "109",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the document, what is the preferred source for Global Warming Potential (GWP) factors used in calculating greenhouse gas emissions?",
+    "optionA": "The United Nations Framework Convention on Climate Change (UNFCCC)",
+    "optionB": "The Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report (2014)",
+    "optionC": "The World Resources Institute (WRI)",
+    "optionD": "The Environmental Protection Agency (EPA)",
+    "optionE": "The International Energy Agency (IEA)",
+    "answer": "B. The Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report (2014)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "109",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the main activities involved in midstream natural gas operations?",
+    "optionA": "Exploration, drilling, and extraction of natural gas",
+    "optionB": "Refining, marketing, and distribution of natural gas",
+    "optionC": "Gathering, transport, processing, impurity removal, natural gas liquids production, storage, pipeline transport, and shipping",
+    "optionD": "Trading, hedging, and financial management of natural gas assets",
+    "optionE": "End-user consumption and utility management of natural gas",
+    "answer": "C. Gathering, transport, processing, impurity removal, natural gas liquids production, storage, pipeline transport, and shipping",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "108",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT listed as a category of emissions that companies might include in their strategies, plans, or reduction targets?",
+    "optionA": "Flared hydrocarbons",
+    "optionB": "Process emissions",
+    "optionC": "Vented emissions",
+    "optionD": "Fugitive emissions",
+    "optionE": "Scope 3 emissions",
+    "answer": "E. Scope 3 emissions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "112-113",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "A midstream company wants to disclose its greenhouse gas emissions. How should it calculate the percentage of emissions covered under emissions-limiting regulations, and what type of regulations should be excluded from this calculation?",
+    "optionA": "Divide emissions covered by regulations by total Scope 1 emissions; exclude voluntary and disclosure-based regulations",
+    "optionB": "Divide emissions covered by regulations by total Scope 2 emissions; exclude mandatory regulations",
+    "optionC": "Divide emissions covered by regulations by total Scope 1 and 2 emissions; include all types of regulations",
+    "optionD": "Multiply emissions covered by regulations by total Scope 1 emissions; exclude international regulations",
+    "optionE": "Subtract emissions covered by regulations from total Scope 1 emissions; include only cap-and-trade schemes",
+    "answer": "A. Divide emissions covered by regulations by total Scope 1 emissions; exclude voluntary and disclosure-based regulations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "110-111",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "If a midstream company is discussing its emission reduction targets, which of the following combinations of information would provide the most comprehensive overview of its strategy?",
+    "optionA": "Base year emissions, target year, and percentage reduction only",
+    "optionB": "Scope of target, absolute vs. intensity-based, base year, target year, percentage reduction, and mechanisms for achieving the target",
+    "optionC": "Target year, percentage reduction, and investments required",
+    "optionD": "Scope of target, base year, and timeline for reduction activity",
+    "optionE": "Mechanisms for achieving the target and risks affecting achievement",
+    "answer": "B. Scope of target, absolute vs. intensity-based, base year, target year, percentage reduction, and mechanisms for achieving the target",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "111-112",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "A midstream company is preparing its sustainability report and needs to disclose its Scope 1 emissions. Which of the following approaches should it use to consolidate its GHG emission data?",
+    "optionA": "Use only the operational control approach defined by the GHG Protocol",
+    "optionB": "Choose between the financial control or equity share approach from the GHG Protocol",
+    "optionC": "Use the approach that aligns with its financial reporting data, typically the financial control approach",
+    "optionD": "Consolidate data using all approaches and report the highest value",
+    "optionE": "Use only the equity share approach defined by the IPIECA GHG Guidelines",
+    "answer": "C. Use the approach that aligns with its financial reporting data, typically the financial control approach",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "110",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "A midstream company is developing strategies to manage its Scope 1 emissions. Which combination of emission categories should it consider to create a comprehensive plan that addresses all major sources in its operations?",
+    "optionA": "Flared hydrocarbons and vented emissions only",
+    "optionB": "Other combusted emissions and fugitive emissions only",
+    "optionC": "Process emissions and vented emissions only",
+    "optionD": "Flared hydrocarbons, other combusted emissions, process emissions, vented emissions, and fugitive emissions",
+    "optionE": "Other combusted emissions, process emissions, and fugitive emissions only",
+    "answer": "D. Flared hydrocarbons, other combusted emissions, process emissions, vented emissions, and fugitive emissions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "112-113",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is the primary focus of the Oil and Gas - Midstream industry, and what are some key activities involved?",
+    "optionA": "Exploration and drilling of oil and gas wells",
+    "optionB": "Refining crude oil into petroleum products",
+    "optionC": "Transportation and storage of natural gas, crude oil, and refined petroleum products",
+    "optionD": "Marketing and retail distribution of petroleum products",
+    "optionE": "Manufacturing of petrochemicals and plastics",
+    "answer": "C. Transportation and storage of natural gas, crude oil, and refined petroleum products",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "108-109",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "In the context of greenhouse gas emissions reporting for midstream companies, what does 'gross emissions' refer to?",
+    "optionA": "Emissions after accounting for carbon offsets and credits",
+    "optionB": "Only methane emissions from pipeline operations",
+    "optionC": "GHGs emitted into the atmosphere before accounting for offsets, credits, or other compensating mechanisms",
+    "optionD": "Net emissions after subtracting captured and stored carbon",
+    "optionE": "Emissions from only stationary sources within the company's operations",
+    "answer": "C. GHGs emitted into the atmosphere before accounting for offsets, credits, or other compensating mechanisms",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "109-110",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What are 'fugitive emissions' in the context of the Oil and Gas - Midstream industry?",
+    "optionA": "Emissions from intentional flaring of excess gas",
+    "optionB": "Emissions from the combustion of fuel in company vehicles",
+    "optionC": "Emissions that can be individually found and fixed to make emissions 'near zero', such as leaks from valves, flanges, and compressor seals",
+    "optionD": "Emissions from the processing of natural gas to remove impurities",
+    "optionE": "Emissions from the venting of storage tanks during maintenance",
+    "answer": "C. Emissions that can be individually found and fixed to make emissions 'near zero', such as leaks from valves, flanges, and compressor seals",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "113",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "When discussing long-term and short-term strategies to manage Scope 1 emissions, what does the 'scope of the emission reduction target' refer to?",
+    "optionA": "The geographical areas where emissions reductions will be implemented",
+    "optionB": "The types of greenhouse gases included in the reduction plan",
+    "optionC": "The percentage of total emissions to which the target is applicable",
+    "optionD": "The timeline for achieving the emission reduction goals",
+    "optionE": "The financial investment required to meet the emission targets",
+    "answer": "C. The percentage of total emissions to which the target is applicable",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "111-112",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might the implementation of emissions-limiting regulations impact the financial performance of midstream companies in the oil and gas industry?",
+    "optionA": "It would have no impact on financial performance",
+    "optionB": "It would only affect companies operating in California",
+    "optionC": "It could lead to higher operating costs and capital expenditures",
+    "optionD": "It would exclusively impact companies involved in natural gas transportation",
+    "optionE": "It would result in immediate financial benefits for all midstream companies",
+    "answer": "C. It could lead to higher operating costs and capital expenditures",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "109",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "What potential benefits could a midstream company realize by effectively managing and reducing its greenhouse gas emissions?",
+    "optionA": "Increased regulatory scrutiny",
+    "optionB": "Higher operational costs",
+    "optionC": "Reduced market competitiveness",
+    "optionD": "Improved public perception and reduced regulatory risks",
+    "optionE": "Decreased efficiency in transportation processes",
+    "answer": "D. Improved public perception and reduced regulatory risks",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "109",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "In the context of emissions reporting for midstream companies, why is it important to disclose the percentage of Scope 1 emissions that are methane?",
+    "optionA": "Methane is less harmful than other greenhouse gases",
+    "optionB": "It's only relevant for natural gas transportation",
+    "optionC": "Methane is a potent greenhouse gas with significant climate impact",
+    "optionD": "Methane emissions are easier to measure than other gases",
+    "optionE": "It's solely for regulatory compliance purposes",
+    "answer": "C. Methane is a potent greenhouse gas with significant climate impact",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "110-111",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How does the concept of 'emissions-limiting regulations' relate to the broader context of climate change mitigation in the midstream industry?",
+    "optionA": "It only applies to companies operating in the European Union",
+    "optionB": "It represents voluntary initiatives by companies to reduce emissions",
+    "optionC": "It's a framework for increasing emissions to boost production",
+    "optionD": "It reflects global efforts to reduce greenhouse gas emissions through regulatory measures",
+    "optionE": "It exclusively focuses on improving energy efficiency in operations",
+    "answer": "D. It reflects global efforts to reduce greenhouse gas emissions through regulatory measures",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "110-111",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the document, what specific methodology should midstream companies use to calculate their Scope 1 greenhouse gas emissions?",
+    "optionA": "The ISO 14064-1 standard",
+    "optionB": "The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard, Revised Edition, March 2004",
+    "optionC": "The U.S. Environmental Protection Agency (EPA) GHG Reporting Program",
+    "optionD": "The India GHG Inventory Program",
+    "optionE": "The Climate Disclosure Standards Board (CDSB) Framework",
+    "answer": "B. The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard, Revised Edition, March 2004",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "109-110",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the required procedure for consolidating greenhouse gas emission data in financial reporting for midstream companies?",
+    "optionA": "Use the equity share approach as defined by the GHG Protocol",
+    "optionB": "Follow the operational control approach outlined in the IPIECA GHG Guidelines",
+    "optionC": "Align with the financial control approach defined by the GHG Protocol",
+    "optionD": "Apply the market-based method described in the CDP reporting guidelines",
+    "optionE": "Use the geographic boundary approach as per local regulations",
+    "answer": "C. Align with the financial control approach defined by the GHG Protocol",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "110",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "When disclosing emissions reduction targets, what specific information about the target timeline must midstream companies include?",
+    "optionA": "Only the target year",
+    "optionB": "The start year and target year",
+    "optionC": "The base year and target year",
+    "optionD": "The start year, target year, and base year",
+    "optionE": "The current year and projected completion year",
+    "answer": "D. The start year, target year, and base year",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "111-112",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the policy regarding the disclosure of voluntary emissions-limiting regulations in the calculation of the percentage of emissions covered under emissions-limiting regulations?",
+    "optionA": "They must be included if they result in actual emissions reductions",
+    "optionB": "They are excluded from the calculation",
+    "optionC": "They can be included at the company's discretion",
+    "optionD": "They are included only if they are part of a national program",
+    "optionE": "They are included if they cover more than 50% of the company's emissions",
+    "answer": "B. They are excluded from the calculation",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "111",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the inclusion of both short-term and long-term strategies in emissions management disclosure affect a midstream company's operational planning?",
+    "optionA": "It would have no effect on operational planning",
+    "optionB": "It would lead to a focus only on short-term cost-cutting measures",
+    "optionC": "It would result in companies abandoning all long-term planning",
+    "optionD": "It would encourage a balanced approach to immediate actions and future investments in emissions reduction",
+    "optionE": "It would cause companies to prioritize long-term strategies at the expense of short-term operations",
+    "answer": "D. It would encourage a balanced approach to immediate actions and future investments in emissions reduction",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "111-113",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the detailed categorization of emissions sources (flared hydrocarbons, combusted emissions, process emissions, vented emissions, and fugitive emissions) influence operational decision-making in midstream companies?",
+    "optionA": "It would have no influence on operational decision-making",
+    "optionB": "It would lead to companies focusing solely on reducing flared hydrocarbons",
+    "optionC": "It could drive more targeted and efficient emissions reduction strategies across different operational areas",
+    "optionD": "It would cause companies to shut down all operations that produce emissions",
+    "optionE": "It would result in companies only reporting on the lowest-emitting categories",
+    "answer": "C. It could drive more targeted and efficient emissions reduction strategies across different operational areas",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "112-113",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the disclosure of emissions reduction targets and performance against these targets affect investor decision-making in the midstream sector?",
+    "optionA": "Investors may prioritize companies with more aggressive emissions reduction targets",
+    "optionB": "It could lead to a shift towards short-term investments in the sector",
+    "optionC": "Investors might disregard this information as it doesn't directly relate to financial performance",
+    "optionD": "It may cause investors to completely avoid the midstream sector",
+    "optionE": "Investors might only focus on companies that have already achieved their targets",
+    "answer": "A. Investors may prioritize companies with more aggressive emissions reduction targets",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "111-113",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the comprehensive GHG emissions reporting requirements outlined in the document impact the competitive landscape of the Oil and Gas - Midstream industry?",
+    "optionA": "It could create a more level playing field by standardizing reporting across the industry",
+    "optionB": "It might disproportionately benefit larger companies with more resources for detailed reporting",
+    "optionC": "It could lead to increased consolidation as smaller companies struggle with compliance costs",
+    "optionD": "It may result in some companies relocating operations to regions with less stringent reporting requirements",
+    "optionE": "It could drive innovation in emissions reduction technologies to gain a competitive edge",
+    "answer": "E. It could drive innovation in emissions reduction technologies to gain a competitive edge",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "109-113",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT listed as an acceptable calculation methodology for Scope 1 emissions in the document?",
+    "optionA": "GHG Reporting Guidance for the Aerospace Industry",
+    "optionB": "India GHG Inventory Program",
+    "optionC": "ISO 14064-1",
+    "optionD": "Petroleum Industry Guidelines for reporting GHG emissions",
+    "optionE": "United Nations Framework Convention on Climate Change (UNFCCC) Guidelines",
+    "answer": "E. United Nations Framework Convention on Climate Change (UNFCCC) Guidelines",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "110",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following emissions-limiting regulations is NOT specifically mentioned as an example in the document?",
+    "optionA": "California Cap-and-Trade",
+    "optionB": "European Union Emissions Trading Scheme (EU ETS)",
+    "optionC": "Quebec Cap-and-Trade",
+    "optionD": "Regional Greenhouse Gas Initiative (RGGI)",
+    "optionE": "California Global Warming Solutions Act",
+    "answer": "D. Regional Greenhouse Gas Initiative (RGGI)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "110-111",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a component of the Oil and Gas - Midstream industry in the document?",
+    "optionA": "Natural gas gathering and transport",
+    "optionB": "Crude oil transport",
+    "optionC": "Storage of refined petroleum products",
+    "optionD": "Liquefaction of natural gas",
+    "optionE": "Refining of crude oil",
+    "answer": "E. Refining of crude oil",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "108",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT listed as a required element when discussing emission reduction targets in the document?",
+    "optionA": "The scope of the emission reduction target",
+    "optionB": "Whether the target is absolute or intensity-based",
+    "optionC": "The percentage reduction against the base year",
+    "optionD": "The timelines for the reduction activity",
+    "optionE": "The expected financial impact of achieving the target",
+    "answer": "E. The expected financial impact of achieving the target",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "111-112",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  }
+]

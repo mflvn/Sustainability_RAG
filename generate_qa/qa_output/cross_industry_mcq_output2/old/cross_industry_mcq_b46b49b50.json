@@ -1,0 +1,150 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When reporting on energy management for the Aerospace & Defense and Electrical & Electronic Equipment industries, which of the following is NOT a required disclosure according to IFRS S2 for both industries?",
+    "optionA": "Total energy consumed",
+    "optionB": "Percentage of grid electricity",
+    "optionC": "Percentage of renewable energy",
+    "optionD": "Energy intensity per unit of production",
+    "optionE": "Higher heating values (HHV) for fuel usage calculation",
+    "answer": "D. Energy intensity per unit of production",
+    "explanation": "Both the Aerospace & Defense (RT-AE-130a.1) and Electrical & Electronic Equipment (RT-EE-130a.1) industries are required to disclose (1) total energy consumed, (2) percentage grid electricity, and (3) percentage renewable energy. They are also required to use higher heating values (HHV) for fuel usage calculations. However, energy intensity per unit of production is not a specified requirement for either industry in the IFRS S2 standards.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Aerospace & Defense",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electrical & Electronic Equipment"
+    ],
+    "pages": [
+      "488",
+      "523-524"
+    ],
+    "pairing_explanation": "Resource transformation industries are significant due to their manufacturing processes, energy use, and potential for technological advancements that can influence sustainability.",
+    "industries": [
+      "b46-aerospace-and-defense",
+      "b49-electrical-and-electronic-equipment",
+      "b50-industrial-machinery-and-goods"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "According to IFRS S2, which of the following disclosures is required for the Industrial Machinery & Goods industry but NOT for the Aerospace & Defense industry?",
+    "optionA": "Total energy consumed",
+    "optionB": "Percentage of grid electricity used",
+    "optionC": "Sales-weighted fleet fuel efficiency for medium- and heavy-duty vehicles",
+    "optionD": "Revenue from alternative energy-related products",
+    "optionE": "Description of approach to fuel economy and GHG emissions of products",
+    "answer": "C. Sales-weighted fleet fuel efficiency for medium- and heavy-duty vehicles",
+    "explanation": "The Industrial Machinery & Goods industry is required to disclose sales-weighted fleet fuel efficiency for medium- and heavy-duty vehicles (RT-IG-410a.1), which is not a requirement for the Aerospace & Defense industry. Both industries share requirements for total energy consumed and percentage of grid electricity. The Aerospace & Defense industry specifically requires disclosure of revenue from alternative energy-related products and a description of approach to fuel economy and GHG emissions, which are not explicitly required for Industrial Machinery & Goods in the same format.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Aerospace & Defense",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Industrial Machinery & Goods"
+    ],
+    "pages": [
+      "487-491",
+      "531-533"
+    ],
+    "pairing_explanation": "Resource transformation industries are significant due to their manufacturing processes, energy use, and potential for technological advancements that can influence sustainability.",
+    "industries": [
+      "b46-aerospace-and-defense",
+      "b49-electrical-and-electronic-equipment",
+      "b50-industrial-machinery-and-goods"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of renewable energy consumed for the Electrical & Electronic Equipment industry, which of the following sources would NOT be included in the scope of renewable energy according to IFRS S2?",
+    "optionA": "On-site generated solar power with retained RECs",
+    "optionB": "Purchased wind power through a PPA with explicit inclusion of RECs",
+    "optionC": "Biomass energy from Forest Stewardship Council certified materials",
+    "optionD": "Grid electricity from renewable sources outside the entity's control",
+    "optionE": "Geothermal energy purchased through a Green-e Energy Certified utility program",
+    "answer": "D. Grid electricity from renewable sources outside the entity's control",
+    "explanation": "According to the IFRS S2 standard for the Electrical & Electronic Equipment industry (RT-EE-130a.1), the scope of renewable energy includes renewable fuel consumed, renewable energy directly produced, and renewable energy purchased through specific agreements that include RECs or GOs. However, it explicitly excludes 'The renewable portion of the electricity grid mix that is outside of the control or influence of the entity' (3.3.3). Therefore, grid electricity from renewable sources outside the entity's control would not be included in the calculation.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electrical & Electronic Equipment"
+    ],
+    "pages": [
+      "524-525"
+    ],
+    "pairing_explanation": "Resource transformation industries are significant due to their manufacturing processes, energy use, and potential for technological advancements that can influence sustainability.",
+    "industries": [
+      "b46-aerospace-and-defense",
+      "b49-electrical-and-electronic-equipment",
+      "b50-industrial-machinery-and-goods"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When reporting on fuel efficiency for the Industrial Machinery & Goods industry, which unit of measure is used for stationary generators according to IFRS S2?",
+    "optionA": "Gallons per 1,000 ton-miles",
+    "optionB": "Gallons per hour",
+    "optionC": "Watts per gallon",
+    "optionD": "Grams per kilowatt-hour",
+    "optionE": "Miles per gallon",
+    "answer": "C. Watts per gallon",
+    "explanation": "According to the IFRS S2 standard for the Industrial Machinery & Goods industry (RT-IG-410a.3), the sales-weighted fuel efficiency for stationary generators is measured in watts per gallon. This metric is calculated as the harmonic mean of design fuel efficiency, capturing the average amount of fuel needed by each generator to produce a given amount of power.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Industrial Machinery & Goods"
+    ],
+    "pages": [
+      "532"
+    ],
+    "pairing_explanation": "Resource transformation industries are significant due to their manufacturing processes, energy use, and potential for technological advancements that can influence sustainability.",
+    "industries": [
+      "b46-aerospace-and-defense",
+      "b49-electrical-and-electronic-equipment",
+      "b50-industrial-machinery-and-goods"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How does the approach to reporting product-related emissions differ between the Aerospace & Defense and Industrial Machinery & Goods industries according to IFRS S2?",
+    "optionA": "Aerospace & Defense focuses on GHG emissions, while Industrial Machinery & Goods focuses on NOx and PM emissions",
+    "optionB": "Aerospace & Defense reports on fuel economy, while Industrial Machinery & Goods doesn't address fuel efficiency",
+    "optionC": "Industrial Machinery & Goods reports on a wider range of product categories than Aerospace & Defense",
+    "optionD": "Aerospace & Defense uses revenue-based metrics, while Industrial Machinery & Goods uses sales-weighted metrics",
+    "optionE": "There is no significant difference in their approaches to reporting product-related emissions",
+    "answer": "C. Industrial Machinery & Goods reports on a wider range of product categories than Aerospace & Defense",
+    "explanation": "The Industrial Machinery & Goods industry is required to report sales-weighted emissions for a wider range of product categories, including marine diesel engines, locomotive diesel engines, on-road medium- and heavy-duty engines, and other non-road diesel engines (RT-IG-410a.4). In contrast, the Aerospace & Defense industry focuses more on fuel economy and GHG emissions of products in general, without specifying as many distinct product categories (RT-AE-410a.2). Both industries use sales-weighted metrics and address fuel efficiency, but the Industrial Machinery & Goods industry has more detailed product category breakdowns for emissions reporting.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Aerospace & Defense",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Industrial Machinery & Goods"
+    ],
+    "pages": [
+      "490-491",
+      "531-533"
+    ],
+    "pairing_explanation": "Resource transformation industries are significant due to their manufacturing processes, energy use, and potential for technological advancements that can influence sustainability.",
+    "industries": [
+      "b46-aerospace-and-defense",
+      "b49-electrical-and-electronic-equipment",
+      "b50-industrial-machinery-and-goods"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "Which of the following metrics is common to all three industries - Aerospace & Defense, Electrical & Electronic Equipment, and Industrial Machinery & Goods - in their IFRS S2 sustainability reporting requirements?",
+    "optionA": "Revenue from renewable energy-related products",
+    "optionB": "Percentage of products containing IEC 62474 declarable substances",
+    "optionC": "Sales-weighted emissions of nitrogen oxides (NOx) and particulate matter (PM)",
+    "optionD": "Total energy consumed, percentage grid electricity, and percentage renewable",
+    "optionE": "Description of approach to fuel economy and GHG emissions of products",
+    "answer": "D. Total energy consumed, percentage grid electricity, and percentage renewable",
+    "explanation": "The metric 'Total energy consumed, percentage grid electricity, and percentage renewable' is common to all three industries in their IFRS S2 sustainability reporting requirements. It is listed as RT-AE-130a.1 for Aerospace & Defense, RT-EE-130a.1 for Electrical & Electronic Equipment, and RT-IG-130a.1 for Industrial Machinery & Goods. This metric focuses on energy management, which is a crucial aspect of sustainability for all these resource transformation industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Aerospace & Defense",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electrical & Electronic Equipment",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Industrial Machinery & Goods"
+    ],
+    "pages": [
+      "488",
+      "523",
+      "529"
+    ],
+    "pairing_explanation": "Resource transformation industries are significant due to their manufacturing processes, energy use, and potential for technological advancements that can influence sustainability.",
+    "industries": [
+      "b46-aerospace-and-defense",
+      "b49-electrical-and-electronic-equipment",
+      "b50-industrial-machinery-and-goods"
+    ]
+  }
+]

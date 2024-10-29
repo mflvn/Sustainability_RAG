@@ -1,0 +1,167 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2 Climate-related Disclosures for Food Retailers & Distributors, which of the following is NOT a required disclosure metric for the 'Air Emissions from Refrigeration' topic?",
+    "optionA": "Gross global Scope 1 emissions from refrigerants",
+    "optionB": "Percentage of refrigerants consumed with zero ozone-depleting potential",
+    "optionC": "Average refrigerant emissions rate",
+    "optionD": "Total number of refrigeration units in operation",
+    "optionE": "Refrigerant recovery rate from decommissioned equipment",
+    "answer": "D. Total number of refrigeration units in operation",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors",
+    "page": "218-220",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When calculating the percentage of renewable energy consumed by a food retailer or distributor, which of the following sources should be EXCLUDED from the scope of renewable energy?",
+    "optionA": "Renewable fuel directly consumed by the entity",
+    "optionB": "Renewable energy directly produced by the entity",
+    "optionC": "Renewable energy purchased through a power purchase agreement (PPA) with explicit RECs",
+    "optionD": "Green-e Energy Certified utility program purchases",
+    "optionE": "The renewable portion of the electricity grid mix outside the entity's control",
+    "answer": "E. The renewable portion of the electricity grid mix outside the entity's control",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors",
+    "page": "221-222",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "In disclosing revenue from products certified to environmental or social sustainability sourcing standards, which of the following is NOT considered an example of a qualifying third-party certification?",
+    "optionA": "Fairtrade International",
+    "optionB": "Rainforest Alliance",
+    "optionC": "USDA Organic",
+    "optionD": "ISO 14001",
+    "optionE": "UTZ Certified",
+    "answer": "D. ISO 14001",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors",
+    "page": "223-224",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When discussing strategies to reduce the environmental impact of packaging, which of the following is NOT considered a relevant disclosure according to IFRS S2?",
+    "optionA": "Design innovations to optimize packaging weight and volume",
+    "optionB": "Implementation of EU Directive on Packaging and Packaging Waste requirements",
+    "optionC": "Performance on Global Protocol on Packaging Sustainability 2.0 metrics",
+    "optionD": "Use of Life Cycle Assessment (LCA) analysis",
+    "optionE": "Percentage of biodegradable packaging used in the last fiscal year",
+    "answer": "E. Percentage of biodegradable packaging used in the last fiscal year",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors",
+    "page": "226-227",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the average refrigerant emissions rate for a food retailer, what is the correct formula according to IFRS S2?",
+    "optionA": "Total amount of refrigerant purchased divided by total refrigerant capacity",
+    "optionB": "Total amount of refrigerant emitted divided by total refrigerant capacity",
+    "optionC": "Total amount of refrigerant emitted divided by total amount of refrigerant charged into equipment",
+    "optionD": "Total amount of refrigerant recycled divided by total amount of refrigerant purchased",
+    "optionE": "Total amount of refrigerant charged divided by total refrigeration equipment count",
+    "answer": "C. Total amount of refrigerant emitted divided by total amount of refrigerant charged into equipment",
+    "reference": "Air Emissions from Refrigeration",
+    "page": "220",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "In calculating the percentage of refrigerants consumed with zero ozone-depleting potential (ODP), which of the following is NOT considered to have zero ODP?",
+    "optionA": "Refrigerants with no impact on the stratospheric ozone layer beyond natural reactions",
+    "optionB": "Refrigerants that do not contain chlorofluorocarbons (CFCs)",
+    "optionC": "Refrigerants with a published ODP value of zero",
+    "optionD": "Refrigerants that contain hydrochlorofluorocarbons (HCFCs)",
+    "optionE": "Refrigerants that do not contain halons or methyl bromide",
+    "answer": "D. Refrigerants that contain hydrochlorofluorocarbons (HCFCs)",
+    "reference": "Air Emissions from Refrigeration",
+    "page": "219-220",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When disclosing the percentage of revenue from eggs that originated from a cage-free environment, which of the following should be included in the calculation?",
+    "optionA": "Only eggs from hens with unlimited outdoor access",
+    "optionB": "Eggs from hens housed in enriched colony cages",
+    "optionC": "Eggs from hens in conventional battery cages",
+    "optionD": "Eggs from both cage-free and free-range environments",
+    "optionE": "Only organic certified eggs",
+    "answer": "D. Eggs from both cage-free and free-range environments",
+    "reference": "Management of Environmental & Social Impacts in the Supply Chain",
+    "page": "224",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the fleet fuel consumed percentage that is renewable for a food retailer, which of the following is NOT a requirement for a fuel to be considered renewable according to IFRS S2?",
+    "optionA": "Produced from renewable biomass",
+    "optionB": "Used to replace or reduce fossil fuel in transportation fuel, heating oil, or jet fuel",
+    "optionC": "Achieved net greenhouse gas emissions reduction on a life cycle basis",
+    "optionD": "Derived exclusively from plant-based sources",
+    "optionE": "The entity discloses the standard used to determine if a fuel is renewable",
+    "answer": "D. Derived exclusively from plant-based sources",
+    "reference": "Fleet Fuel Management",
+    "page": "216-217",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A food retailer is struggling to accurately report its Scope 1 emissions from refrigerants. Which of the following is NOT included in the scope of emissions for this disclosure according to IFRS S2?",
+    "optionA": "Emissions from commercial stationary refrigerants in retail locations",
+    "optionB": "Emissions from mobile refrigerants in the transportation fleet",
+    "optionC": "Emissions from refrigerants in distribution centers",
+    "optionD": "Direct emissions from the combustion of fossil fuels",
+    "optionE": "Emissions from refrigerants used in both stationary and mobile sources",
+    "answer": "D. Direct emissions from the combustion of fossil fuels",
+    "reference": "Air Emissions from Refrigeration",
+    "page": "218-219",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A sustainability manager at a food distribution company is trying to determine which energy sources to include when calculating the percentage of renewable energy consumed. According to IFRS S2, which of the following should NOT be included in this calculation?",
+    "optionA": "On-site generated solar power with retained RECs",
+    "optionB": "Purchased wind power through a PPA with explicitly included RECs",
+    "optionC": "Biomass energy from Forest Stewardship Council certified sources",
+    "optionD": "Hydroelectric power purchased through a Green-e Energy Certified utility program",
+    "optionE": "The renewable portion of the electricity grid mix outside the company's control",
+    "answer": "E. The renewable portion of the electricity grid mix outside the company's control",
+    "reference": "Energy Management",
+    "page": "221-222",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A food retailer is preparing to disclose its strategy for managing environmental and social risks in its supply chain. Which of the following is NOT considered an environmental or social risk that should be addressed in this disclosure according to IFRS S2?",
+    "optionA": "Impacts on crop production due to climate change",
+    "optionB": "Labor rights and immigration reforms affecting food prices",
+    "optionC": "Animal welfare incidents that may result in reputational damage",
+    "optionD": "International trade barriers and varying food safety oversight",
+    "optionE": "Fluctuations in currency exchange rates affecting import costs",
+    "answer": "E. Fluctuations in currency exchange rates affecting import costs",
+    "reference": "Management of Environmental & Social Impacts in the Supply Chain",
+    "page": "224-225",
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the main uses of electricity in chain drug retail stores?",
+    "optionA": "Heating and air conditioning",
+    "optionB": "Lighting and refrigeration",
+    "optionC": "Cooking and food preparation",
+    "optionD": "Powering electronic displays",
+    "optionE": "Operating security systems",
+    "answer": "B. Lighting and refrigeration",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+    "page": "280",
+    "industries": [
+      "b27-drug-retailers"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the industry description, what new service are pharmacy retailers expanding into?",
+    "optionA": "Home delivery",
+    "optionB": "Online consultations",
+    "optionC": "Veterinary services",
+    "optionD": "Clinics at retail locations",
+    "optionE": "Prescription drug manufacturing",
+    "answer": "D. Clinics at retail locations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+    "page": "279",
+    "industries": [
+      "b27-drug-retailers"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What is the unit of measure for the activity metric 'Total area of retail space'?",
+    "optionA": "Square feet (ft\u00b2)",
+    "optionB": "Acres",
+    "optionC": "Square meters (m\u00b2)",
+    "optionD": "Hectares",
+    "optionE": "Square yards (yd\u00b2)",
+    "answer": "C. Square meters (m\u00b2)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+    "page": "279",
+    "industries": [
+      "b27-drug-retailers"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "In the context of renewable energy disclosure, what must be done with Renewable Energy Certificates (RECs) or Guarantees of Origin (GOs) for on-site generated renewable electricity?",
+    "optionA": "Sold to other companies",
+    "optionB": "Transferred to the government",
+    "optionC": "Retained and retired or cancelled on behalf of the entity",
+    "optionD": "Donated to environmental organizations",
+    "optionE": "Exchanged for carbon credits",
+    "answer": "C. Retained and retired or cancelled on behalf of the entity",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+    "page": "281",
+    "industries": [
+      "b27-drug-retailers"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "Based on the information provided about energy consumption and renewable energy, what conditions must be met for a drug retailer to claim renewable energy usage from a green power product?",
+    "optionA": "The product must be certified by any environmental organization",
+    "optionB": "The retailer must generate the renewable energy on-site",
+    "optionC": "The green power product must explicitly include RECs or GOs, which are retired on behalf of the entity",
+    "optionD": "The retailer must purchase the renewable energy directly from a power plant",
+    "optionE": "The renewable energy must come from solar sources only",
+    "answer": "C. The green power product must explicitly include RECs or GOs, which are retired on behalf of the entity",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+    "page": "280-281",
+    "industries": [
+      "b27-drug-retailers"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How would a drug retailer calculate the percentage of grid electricity in their total energy consumption, considering the information provided on energy management?",
+    "optionA": "Divide renewable energy by total energy consumption",
+    "optionB": "Subtract self-generated energy from total energy consumption",
+    "optionC": "Divide purchased grid electricity by total energy consumption",
+    "optionD": "Multiply total energy consumption by the number of retail locations",
+    "optionE": "Add all energy sources and divide by 100",
+    "answer": "C. Divide purchased grid electricity by total energy consumption",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+    "page": "280",
+    "industries": [
+      "b27-drug-retailers"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "In the context of energy management for drug retailers, why might operating hours impact energy consumption, and what metric would be most relevant to assess this impact?",
+    "optionA": "Operating hours affect employee productivity; assess using number of pharmacists",
+    "optionB": "24/7 operations increase energy demand; assess using total energy consumed",
+    "optionC": "Longer hours require more prescriptions; assess using number of prescriptions filled",
+    "optionD": "Extended hours need more retail space; assess using total area of retail space",
+    "optionE": "Operating hours don't impact energy consumption; no relevant metric",
+    "answer": "B. 24/7 operations increase energy demand; assess using total energy consumed",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+    "page": "279-280",
+    "industries": [
+      "b27-drug-retailers"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "Considering the industry description and energy management information, how might the expansion of health-focused services in retail locations affect a drug retailer's energy management strategy?",
+    "optionA": "It would have no impact on energy consumption",
+    "optionB": "It would decrease overall energy consumption due to more efficient clinic designs",
+    "optionC": "It would likely increase energy consumption due to additional equipment and extended operating hours",
+    "optionD": "It would only affect the percentage of renewable energy used",
+    "optionE": "It would reduce the number of retail locations, thereby reducing energy consumption",
+    "answer": "C. It would likely increase energy consumption due to additional equipment and extended operating hours",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+    "page": "279-280",
+    "industries": [
+      "b27-drug-retailers"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is the definition of renewable energy according to the IFRS S2 Climate-related Disclosures for Drug Retailers?",
+    "optionA": "Energy from sources that are depleted faster than they are replenished",
+    "optionB": "Energy from fossil fuels that are efficiently used",
+    "optionC": "Energy from sources that are replenished at a rate greater than or equal to their rate of depletion",
+    "optionD": "Energy that is exclusively generated from solar panels",
+    "optionE": "Energy that is purchased only through green power products",
+    "answer": "C. Energy from sources that are replenished at a rate greater than or equal to their rate of depletion",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+    "page": "280-281",
+    "industries": [
+      "b27-drug-retailers"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "According to the industry description, what new service trend is expanding in the Drug Retailers industry that could impact its sustainability landscape?",
+    "optionA": "Home delivery services",
+    "optionB": "Online prescription refills",
+    "optionC": "Drive-through pharmacies",
+    "optionD": "Offering clinics at various retail locations",
+    "optionE": "24-hour pharmacy services",
+    "answer": "D. Offering clinics at various retail locations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+    "page": "279",
+    "industries": [
+      "b27-drug-retailers"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What does the metric 'HC-DR-000.C' represent in the context of Drug Retailers' activity metrics?",
+    "optionA": "Total area of retail space",
+    "optionB": "Number of pharmacy locations",
+    "optionC": "Number of pharmacists",
+    "optionD": "Total energy consumed",
+    "optionE": "Number of prescriptions filled, percentage for controlled substances",
+    "answer": "E. Number of prescriptions filled, percentage for controlled substances",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+    "page": "279",
+    "industries": [
+      "b27-drug-retailers"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "In the context of energy management for Drug Retailers, what does the term 'scope of energy consumption' include?",
+    "optionA": "Only electricity purchased from external sources",
+    "optionB": "Energy from all sources, including purchased and self-generated",
+    "optionC": "Only renewable energy sources",
+    "optionD": "Energy consumed by customers in the retail stores",
+    "optionE": "Energy used in the manufacturing of pharmaceutical products",
+    "answer": "B. Energy from all sources, including purchased and self-generated",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+    "page": "280",
+    "industries": [
+      "b27-drug-retailers"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "What broader implication does the industry's energy consumption have on its environmental impact?",
+    "optionA": "It only affects the company's profitability",
+    "optionB": "It has no impact on greenhouse gas emissions",
+    "optionC": "It contributes to direct greenhouse gas emissions only",
+    "optionD": "It influences the company's contribution to indirect greenhouse gas emissions",
+    "optionE": "It only impacts local air quality, not global emissions",
+    "answer": "D. It influences the company's contribution to indirect greenhouse gas emissions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+    "page": "280",
+    "industries": [
+      "b27-drug-retailers"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "In the context of renewable energy reporting for drug retailers, why is it important that RECs and GOs are retained and retired?",
+    "optionA": "It's a legal requirement for all businesses",
+    "optionB": "It has no real importance in energy reporting",
+    "optionC": "It allows the entity to claim the energy as renewable in their disclosures",
+    "optionD": "It's only important for tax purposes",
+    "optionE": "It's a way to generate additional revenue from energy consumption",
+    "answer": "C. It allows the entity to claim the energy as renewable in their disclosures",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+    "page": "281",
+    "industries": [
+      "b27-drug-retailers"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "What broader implications does the industry's focus on renewable energy consumption disclosure have for its long-term sustainability strategy?",
+    "optionA": "It only affects marketing and has no real impact on sustainability",
+    "optionB": "It suggests a shift towards reducing environmental impact and preparing for potential future regulations",
+    "optionC": "It implies that drug retailers are planning to produce their own electricity",
+    "optionD": "It indicates that the industry is moving away from providing healthcare services",
+    "optionE": "It means that all drug retailers will soon be required to use 100% renewable energy",
+    "answer": "B. It suggests a shift towards reducing environmental impact and preparing for potential future regulations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+    "page": "280-281",
+    "industries": [
+      "b27-drug-retailers"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the policy for including biomass sources in the scope of renewable energy for drug retailers according to the IFRS S2 Climate-related Disclosures?",
+    "optionA": "All biomass sources are automatically included",
+    "optionB": "Only biomass sources certified by the FDA are included",
+    "optionC": "Biomass sources must be certified to a third-party standard or eligible for state renewable portfolio standards",
+    "optionD": "Biomass sources are excluded from the scope of renewable energy",
+    "optionE": "Only biomass sources produced on-site are included",
+    "answer": "C. Biomass sources must be certified to a third-party standard or eligible for state renewable portfolio standards",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+    "page": "281",
+    "industries": [
+      "b27-drug-retailers"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the procedure for drug retailers to disclose their total energy consumption according to the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Report in kilowatt-hours (kWh)",
+    "optionB": "Report as a percentage of grid electricity used",
+    "optionC": "Report in British Thermal Units (BTU)",
+    "optionD": "Report as an aggregate figure in gigajoules (GJ)",
+    "optionE": "Report in megawatt-hours (MWh) per square meter of retail space",
+    "answer": "D. Report as an aggregate figure in gigajoules (GJ)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+    "page": "280",
+    "industries": [
+      "b27-drug-retailers"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the policy for including renewable energy from power purchase agreements (PPAs) in a drug retailer's renewable energy disclosure?",
+    "optionA": "Any PPA can be counted as renewable energy",
+    "optionB": "Only PPAs that provide physical delivery of renewable energy can be included",
+    "optionC": "PPAs must include RECs or GOs, but they can be sold separately",
+    "optionD": "PPAs must explicitly include and convey that RECs and GOs are retained or replaced and retired on behalf of the entity",
+    "optionE": "Only on-site generated renewable energy can be included, PPAs are excluded",
+    "answer": "D. PPAs must explicitly include and convey that RECs and GOs are retained or replaced and retired on behalf of the entity",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+    "page": "280-281",
+    "industries": [
+      "b27-drug-retailers"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How could drug retailers leverage their energy management strategies to gain a competitive advantage in the market?",
+    "optionA": "By ignoring energy management completely",
+    "optionB": "By solely focusing on reducing energy costs without considering sustainability",
+    "optionC": "By implementing energy efficiency measures and diversifying energy portfolios to mitigate costs and improve sustainability image",
+    "optionD": "By outsourcing all energy management to third-party providers",
+    "optionE": "By using only non-renewable energy sources",
+    "answer": "C: By implementing energy efficiency measures and diversifying energy portfolios to mitigate costs and improve sustainability image",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+    "page": "280",
+    "industries": [
+      "b27-drug-retailers"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "What challenges might drug retailers face in transitioning to renewable energy sources, and how could these be addressed?",
+    "optionA": "There are no challenges in transitioning to renewable energy",
+    "optionB": "The only challenge is the initial cost, which can be easily overcome",
+    "optionC": "Challenges include infrastructure adaptation, consistent supply, and regulatory compliance, which can be addressed through gradual implementation and partnerships",
+    "optionD": "Renewable energy is not suitable for drug retailers",
+    "optionE": "The main challenge is customer resistance to renewable energy use",
+    "answer": "C: Challenges include infrastructure adaptation, consistent supply, and regulatory compliance, which can be addressed through gradual implementation and partnerships",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+    "page": "280-281",
+    "industries": [
+      "b27-drug-retailers"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the requirement for detailed energy consumption disclosure impact the operations and strategic planning of drug retailers?",
+    "optionA": "It will have no impact on operations or planning",
+    "optionB": "It will only affect the finance department",
+    "optionC": "It may lead to increased focus on energy efficiency, investment in renewable sources, and integration of sustainability into core business strategy",
+    "optionD": "It will result in immediate closure of all high-energy-consuming stores",
+    "optionE": "It will only impact public relations activities",
+    "answer": "C: It may lead to increased focus on energy efficiency, investment in renewable sources, and integration of sustainability into core business strategy",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+    "page": "280-281",
+    "industries": [
+      "b27-drug-retailers"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following energy sources is NOT mentioned as a renewable energy option in the document?",
+    "optionA": "Geothermal",
+    "optionB": "Wind",
+    "optionC": "Solar",
+    "optionD": "Hydro",
+    "optionE": "Nuclear",
+    "answer": "E. Nuclear",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+    "page": "280",
+    "industries": [
+      "b27-drug-retailers"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT listed as an activity metric for drug retailers in the document?",
+    "optionA": "Number of pharmacy locations",
+    "optionB": "Total area of retail space",
+    "optionC": "Number of prescriptions filled",
+    "optionD": "Number of pharmacists",
+    "optionE": "Annual revenue",
+    "answer": "E. Annual revenue",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+    "page": "279",
+    "industries": [
+      "b27-drug-retailers"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a type of product sold by drug retailers in the industry description?",
+    "optionA": "Prescription pharmaceutical products",
+    "optionB": "Over-the-counter pharmaceutical products",
+    "optionC": "Household goods",
+    "optionD": "Personal care products",
+    "optionE": "Electronics",
+    "answer": "E. Electronics",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+    "page": "279",
+    "industries": [
+      "b27-drug-retailers"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a factor contributing to energy consumption in drug retail stores?",
+    "optionA": "Lighting",
+    "optionB": "Refrigeration",
+    "optionC": "24-hour operations",
+    "optionD": "Air conditioning",
+    "optionE": "Pharmacy equipment",
+    "answer": "D. Air conditioning",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+    "page": "280",
+    "industries": [
+      "b27-drug-retailers"
+    ]
+  }
+]

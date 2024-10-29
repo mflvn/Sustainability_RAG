@@ -1,0 +1,407 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the three main categories of greenhouse gas emissions that meat, poultry, and dairy companies are required to disclose according to the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Scope 1, Scope 2, and Scope 3 emissions",
+    "optionB": "Carbon dioxide, methane, and nitrous oxide emissions",
+    "optionC": "Direct, indirect, and supply chain emissions",
+    "optionD": "Animal-related, energy-related, and transportation-related emissions",
+    "optionE": "Gross global Scope 1 emissions, total energy consumed, and total water withdrawn",
+    "answer": "E. Gross global Scope 1 emissions, total energy consumed, and total water withdrawn",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy",
+    "page": "230-236",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the IFRS S2 Climate-related Disclosures, what is the preferred source for global warming potential (GWP) values when calculating greenhouse gas emissions for meat, poultry, and dairy companies?",
+    "optionA": "The United Nations Framework Convention on Climate Change (UNFCCC)",
+    "optionB": "The World Resources Institute (WRI)",
+    "optionC": "The Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report (2014)",
+    "optionD": "The Environmental Protection Agency (EPA) Greenhouse Gas Inventory",
+    "optionE": "The Food and Agriculture Organization (FAO) of the United Nations",
+    "answer": "C. The Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report (2014)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy",
+    "page": "230",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What tool is recommended by the IFRS S2 Climate-related Disclosures for meat, poultry, and dairy companies to identify activities that withdraw and consume water in locations with High or Extremely High Baseline Water Stress?",
+    "optionA": "The United Nations Water Scarcity Index",
+    "optionB": "The World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "optionC": "The Food and Agriculture Organization's (FAO) AQUASTAT database",
+    "optionD": "The World Bank's Water Stress Indicator",
+    "optionE": "The Global Water Tool by the World Business Council for Sustainable Development",
+    "answer": "B. The World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy",
+    "page": "236",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the IFRS S2 Climate-related Disclosures, what is the definition of a nutrient management plan for animal litter and manure in the meat, poultry, and dairy industry?",
+    "optionA": "A plan to reduce the overall amount of animal waste produced",
+    "optionB": "A strategy to convert animal waste into renewable energy",
+    "optionC": "A documented management practice that addresses the generation, collection, treatment, storage, and agronomic use of all manure",
+    "optionD": "A method to dispose of animal waste in an environmentally friendly manner",
+    "optionE": "A system to recycle animal waste into animal feed",
+    "answer": "C. A documented management practice that addresses the generation, collection, treatment, storage, and agronomic use of all manure",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy",
+    "page": "239-240",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might a meat processing company's water management strategy be influenced by both its geographical location and energy consumption patterns?",
+    "optionA": "By focusing solely on reducing water consumption without considering energy use",
+    "optionB": "By implementing water recycling systems that increase energy consumption",
+    "optionC": "By relocating facilities to areas with lower water stress, regardless of energy availability",
+    "optionD": "By integrating water-efficient technologies with renewable energy sources in water-stressed regions",
+    "optionE": "By prioritizing energy reduction over water conservation in all locations",
+    "answer": "D. By integrating water-efficient technologies with renewable energy sources in water-stressed regions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "233-238",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How could a dairy company's strategy to manage climate change risks in its supply chain impact its approach to animal feed sourcing and water management?",
+    "optionA": "By focusing exclusively on water-efficient feed crops, regardless of climate resilience",
+    "optionB": "By sourcing feed only from regions with low water stress, ignoring potential climate impacts",
+    "optionC": "By developing partnerships with feed suppliers to promote climate-resilient and water-efficient farming practices",
+    "optionD": "By eliminating all water-intensive feed options without considering nutritional value",
+    "optionE": "By relocating all operations to regions with abundant water, regardless of climate change projections",
+    "answer": "C. By developing partnerships with feed suppliers to promote climate-resilient and water-efficient farming practices",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "241-243",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might a poultry company's approach to managing greenhouse gas emissions influence its land use strategies and feed sourcing decisions?",
+    "optionA": "By focusing solely on reducing direct emissions from facilities without considering land use",
+    "optionB": "By maximizing land use for grazing without regard for emissions or feed sourcing",
+    "optionC": "By sourcing feed exclusively from local suppliers, regardless of their environmental practices",
+    "optionD": "By integrating emissions reduction goals with sustainable land management and responsible feed sourcing practices",
+    "optionE": "By prioritizing short-term emissions reductions over long-term land and feed sustainability",
+    "answer": "D. By integrating emissions reduction goals with sustainable land management and responsible feed sourcing practices",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "230-232, 239-243",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How could a meat company's nutrient management plan for animal waste impact both its water management strategy and its approach to reducing greenhouse gas emissions?",
+    "optionA": "By focusing solely on reducing water pollution without considering emissions",
+    "optionB": "By prioritizing emissions reduction through increased water usage in waste treatment",
+    "optionC": "By implementing anaerobic digestion systems that reduce both water pollution and methane emissions while generating renewable energy",
+    "optionD": "By disposing of all animal waste off-site, regardless of environmental impacts",
+    "optionE": "By treating all animal waste with chemicals to reduce odors, ignoring water and emissions impacts",
+    "answer": "C. By implementing anaerobic digestion systems that reduce both water pollution and methane emissions while generating renewable energy",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "230-232, 235-240",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is the definition of 'Scope 1 emissions' in the context of the Meat, Poultry & Dairy industry, and how are they calculated?",
+    "optionA": "Emissions from purchased electricity only",
+    "optionB": "Indirect emissions from the company's value chain",
+    "optionC": "Direct emissions from owned or controlled sources, calculated according to the GHG Protocol",
+    "optionD": "Emissions from transportation and distribution of products",
+    "optionE": "Only methane emissions from livestock",
+    "answer": "C. Direct emissions from owned or controlled sources, calculated according to the GHG Protocol",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy",
+    "page": "230-231",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "How is 'renewable energy' defined in the context of energy management for the Meat, Poultry & Dairy industry?",
+    "optionA": "Energy from fossil fuels with carbon capture",
+    "optionB": "Energy from sources replenished at a rate greater than or equal to their depletion rate",
+    "optionC": "Only solar and wind energy",
+    "optionD": "Energy produced from animal waste",
+    "optionE": "Any energy not from the electricity grid",
+    "answer": "B. Energy from sources replenished at a rate greater than or equal to their depletion rate",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy",
+    "page": "233-234",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What does 'water consumption' refer to in the context of water management for the Meat, Poultry & Dairy industry?",
+    "optionA": "Only water used for cleaning equipment",
+    "optionB": "Total water withdrawn from all sources",
+    "optionC": "Water that evaporates, is incorporated into products, or doesn't return to the same catchment area",
+    "optionD": "Water used for livestock drinking only",
+    "optionE": "Wastewater discharged after use",
+    "answer": "C. Water that evaporates, is incorporated into products, or doesn't return to the same catchment area",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy",
+    "page": "235-236",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "How is a 'contract producer' defined in the context of animal sourcing for the Meat, Poultry & Dairy industry?",
+    "optionA": "A supplier of animal feed",
+    "optionB": "An employee who manages livestock",
+    "optionC": "A party that agrees to provide facilities, labor, and care for company-owned livestock in return for payment",
+    "optionD": "A company that processes meat products",
+    "optionE": "A retailer of dairy products",
+    "answer": "C. A party that agrees to provide facilities, labor, and care for company-owned livestock in return for payment",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy",
+    "page": "241-242",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How does the industry's approach to water management in regions with high water stress differ from its general water management practices?",
+    "optionA": "There is no difference in water management practices",
+    "optionB": "Companies only focus on water conservation in low-stress regions",
+    "optionC": "Water management in high-stress regions requires special disclosure of water withdrawn and consumed, as well as strategies to mitigate risks",
+    "optionD": "Companies are not required to manage water in high-stress regions",
+    "optionE": "Water stress is not a concern for the Meat, Poultry & Dairy industry",
+    "answer": "C. Water management in high-stress regions requires special disclosure of water withdrawn and consumed, as well as strategies to mitigate risks",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy",
+    "page": "235-238",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How does the concept of 'land use and ecological impacts' in the Meat, Poultry & Dairy industry relate to both traditional farming and Concentrated Animal Feeding Operations (CAFOs)?",
+    "optionA": "Land use impacts are identical for traditional farming and CAFOs",
+    "optionB": "Only CAFOs have significant ecological impacts",
+    "optionC": "Traditional farming has no ecological impact",
+    "optionD": "Traditional farming leads to land degradation through pasture use, while CAFOs generate concentrated waste and pollutants",
+    "optionE": "Ecological impacts are not a concern in this industry",
+    "answer": "D. Traditional farming leads to land degradation through pasture use, while CAFOs generate concentrated waste and pollutants",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy",
+    "page": "239",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How does the industry's approach to energy management reflect the broader context of environmental sustainability and operational efficiency?",
+    "optionA": "Energy management is solely focused on reducing costs",
+    "optionB": "The industry only uses non-renewable energy sources",
+    "optionC": "Energy management is not a priority in this industry",
+    "optionD": "Energy management involves balancing the use of grid electricity, renewable sources, and self-generated energy to address both environmental impacts and operational costs",
+    "optionE": "The industry is not required to manage its energy consumption",
+    "answer": "D. Energy management involves balancing the use of grid electricity, renewable sources, and self-generated energy to address both environmental impacts and operational costs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy",
+    "page": "233-234",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the industry standards, how is the percentage of animal feed sourced from water-stressed regions calculated?",
+    "optionA": "By volume of water used in feed production",
+    "optionB": "By number of suppliers in water-stressed regions",
+    "optionC": "By monetary value of feed sourced from water-stressed areas",
+    "optionD": "By weight of feed from regions with High or Extremely High Baseline Water Stress",
+    "optionE": "By acreage of farmland in water-stressed regions",
+    "answer": "D. By weight of feed from regions with High or Extremely High Baseline Water Stress",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "241",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the correct method for calculating the percentage of contracts with producers in water-stressed regions?",
+    "optionA": "Number of contracts in stressed regions divided by total contracts",
+    "optionB": "Value of contracts in stressed regions divided by total contract value",
+    "optionC": "Volume of production from stressed regions divided by total production",
+    "optionD": "Number of animals raised in stressed regions divided by total animals",
+    "optionE": "Acreage of farms in stressed regions divided by total farm acreage",
+    "answer": "B. Value of contracts in stressed regions divided by total contract value",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "241-242",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "When discussing strategies to manage climate change risks in feed sourcing and livestock supply, which of the following is NOT considered within the scope of disclosure?",
+    "optionA": "Impacts on feed cultivation and processing",
+    "optionB": "Risks to livestock breeding and grazing",
+    "optionC": "Strategies for adapting to water availability changes",
+    "optionD": "Use of insurance and hedging instruments",
+    "optionE": "Strategies for mitigating the entity's own greenhouse gas emissions",
+    "answer": "E. Strategies for mitigating the entity's own greenhouse gas emissions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "242-243",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What are the minimum specific elements that must be included in a nutrient management plan for animal litter and manure in the Meat, Poultry & Dairy industry?",
+    "optionA": "Soil analysis, water usage, and livestock inventory",
+    "optionB": "Background information, manure storage, and land treatment practices",
+    "optionC": "Fertilizer application rates, crop rotation, and equipment maintenance",
+    "optionD": "Employee training, waste disposal methods, and biosecurity measures",
+    "optionE": "Financial projections, marketing strategies, and regulatory compliance",
+    "answer": "B. Background information, manure storage, and land treatment practices",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "239-240",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the Meat, Poultry & Dairy industry's water management strategies impact its long-term sustainability and financial performance?",
+    "optionA": "By focusing solely on reducing water consumption, companies can ensure long-term sustainability",
+    "optionB": "Water management has no significant impact on the industry's sustainability or financial performance",
+    "optionC": "Comprehensive water management strategies, including efficiency measures and stakeholder engagement, can enhance sustainability and mitigate financial risks",
+    "optionD": "The industry should prioritize short-term profits over water management concerns",
+    "optionE": "Water management is only relevant in regions with existing water scarcity issues",
+    "answer": "C: Comprehensive water management strategies, including efficiency measures and stakeholder engagement, can enhance sustainability and mitigate financial risks",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "235-238",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How could the implementation of nutrient management plans for animal litter and manure affect the industry's environmental impact and operational efficiency?",
+    "optionA": "Nutrient management plans have no significant effect on environmental impact or efficiency",
+    "optionB": "These plans only increase operational costs without providing any benefits",
+    "optionC": "Implementing nutrient management plans can reduce environmental pollution and improve resource utilization, potentially leading to cost savings and better community relations",
+    "optionD": "Such plans are only beneficial for large-scale operations and irrelevant for smaller farms",
+    "optionE": "Nutrient management plans solely focus on regulatory compliance without any practical benefits",
+    "answer": "C: Implementing nutrient management plans can reduce environmental pollution and improve resource utilization, potentially leading to cost savings and better community relations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "239-240",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might climate change impact the Meat, Poultry & Dairy industry's feed sourcing and livestock supply strategies in the coming decades?",
+    "optionA": "Climate change will have no significant impact on feed sourcing or livestock supply",
+    "optionB": "The industry will need to completely shift to indoor farming to mitigate all climate-related risks",
+    "optionC": "Climate change may necessitate diversified sourcing, development of resilient breeds, and adoption of new technologies to ensure supply chain stability",
+    "optionD": "The industry will be forced to abandon animal protein production entirely due to climate change",
+    "optionE": "Climate change will only affect tropical regions, so companies can simply relocate their operations",
+    "answer": "C: Climate change may necessitate diversified sourcing, development of resilient breeds, and adoption of new technologies to ensure supply chain stability",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "241-243",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How could the industry's approach to greenhouse gas emissions management influence its long-term competitiveness and market position?",
+    "optionA": "Greenhouse gas emissions management is irrelevant to the industry's competitiveness",
+    "optionB": "Focusing on emissions reduction will only increase costs and reduce profitability",
+    "optionC": "Proactive emissions management could lead to improved efficiency, reduced regulatory risks, and enhanced brand reputation, potentially improving long-term competitiveness",
+    "optionD": "The industry should ignore emissions management to maintain its current market position",
+    "optionE": "Emissions management is only important for companies operating in countries with strict environmental regulations",
+    "answer": "C: Proactive emissions management could lead to improved efficiency, reduced regulatory risks, and enhanced brand reputation, potentially improving long-term competitiveness",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "230-232",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a sustainability disclosure topic for the Meat, Poultry & Dairy industry in the provided content?",
+    "optionA": "Greenhouse Gas Emissions",
+    "optionB": "Energy Management",
+    "optionC": "Water Management",
+    "optionD": "Land Use & Ecological Impacts",
+    "optionE": "Food Safety Management",
+    "answer": "E. Food Safety Management",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "228",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following renewable energy sources is NOT explicitly mentioned in the document when discussing energy consumption calculations?",
+    "optionA": "Geothermal",
+    "optionB": "Wind",
+    "optionC": "Solar",
+    "optionD": "Hydro",
+    "optionE": "Tidal",
+    "answer": "E. Tidal",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "233-234",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT listed as a required activity metric for the Meat, Poultry & Dairy industry?",
+    "optionA": "Number of processing and manufacturing facilities",
+    "optionB": "Animal protein production, by category",
+    "optionC": "Percentage of production outsourced",
+    "optionD": "Total water consumption",
+    "optionE": "Number of employees",
+    "answer": "E. Number of employees",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "228",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following strategies is NOT mentioned in the document for managing water-related risks in the Meat, Poultry & Dairy industry?",
+    "optionA": "Efficiency efforts",
+    "optionB": "Product innovations",
+    "optionC": "Process and equipment innovations",
+    "optionD": "Use of water risk analysis tools",
+    "optionE": "Desalination technologies",
+    "answer": "E. Desalination technologies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "237-238",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  }
+]

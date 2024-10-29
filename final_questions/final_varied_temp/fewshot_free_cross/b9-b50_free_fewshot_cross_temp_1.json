@@ -1,0 +1,88 @@
+[
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Quantitative' for the Industrial Machinery & Goods and Iron & Steel Producers industries.",
+    "answer": "Industrial Machinery & Goods:\n- Energy Management: (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Gigajoules (GJ), Percentage (%) | RT-IG-130a.1\n- Fuel Economy & Emissions in Use-phase: Sales-weighted fleet fuel efficiency for medium- and heavy-duty vehicles | Gallons per 1,000 ton-miles | RT-IG-410a.1\n- Fuel Economy & Emissions in Use-phase: Sales-weighted fuel efficiency for non-road equipment | Gallons per hour | RT-IG-410a.2\n- Fuel Economy & Emissions in Use-phase: Sales-weighted fuel efficiency for stationary generators | Watts per gallon | RT-IG-410a.3\n- Fuel Economy & Emissions in Use-phase: Sales-weighted emissions of: (1) nitrogen oxides (NOx) and (2) particulate matter (PM) for: (a) marine diesel engines, (b) locomotive diesel engines, (c) on-road medium- and heavy-duty engines, and (d) other non-road diesel engines | Grams per kilowatt-hour | RT-IG-410a.4\n\nIron & Steel Producers:\n- Greenhouse Gas Emissions: Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations | Metric tons (t) CO\u2082-e, Percentage (%) | EM-IS-110a.1\n- Energy Management: (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Gigajoules (GJ), Percentage (%) | EM-IS-130a.1\n- Energy Management: (1) Total fuel consumed, (2) percentage coal, (3) percentage natural gas, (4) percentage renewable | Gigajoules (GJ), Percentage (%) | EM-IS-130a.2\n- Water Management: (1) Total fresh water withdrawn, (2) percentage recycled, (3) percentage in regions with High or Extremely High Baseline Water Stress | Thousand cubic meters (m\u00b3), Percentage (%) | EM-IS-140a.1",
+    "reference_text": [
+      "Industrial Machinery & Goods Table 1",
+      "Iron & Steel Producers Table 1"
+    ],
+    "pages": [
+      "528",
+      "69"
+    ],
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 1
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Industrial Machinery & Goods and Iron & Steel Producers industries?",
+    "answer": "The Iron & Steel Producers industry has more 'Quantitative' metrics to disclose.",
+    "reference_text": [
+      "Industrial Machinery & Goods Table 1",
+      "Iron & Steel Producers Table 1"
+    ],
+    "pages": [
+      "528",
+      "69"
+    ],
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 1
+  },
+  {
+    "question": "Are there any common sustainability topics between the Iron & Steel Producers and Industrial Machinery & Goods industries? If so, how do their reporting requirements differ?",
+    "answer": "Yes, both industries have the common sustainability topic of 'Energy Management.' For Industrial Machinery & Goods, the metric is 'RT-IG-130a.1' which requires disclosure of (1) total energy consumed, (2) percentage grid electricity, (3) percentage renewable. For Iron & Steel Producers, the metric 'EM-IS-130a.1' requires disclosure of (1) total energy consumed, (2) percentage grid electricity, (3) percentage renewable. Although both industries report on total energy consumed and percentages of grid and renewable energy, their codes and specific requirements may differ in context and scope.",
+    "reference_text": [
+      "Industry: Industrial Machinery & Goods",
+      "## Table 1. Sustainability Disclosure Topics & Metrics",
+      "| Energy Management | (1) Total energy consumed, (2) percent- age grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | RT-IG-130a.1 |",
+      "Industry: Iron & Steel Producers",
+      "## Table 1. Sustainability Disclosure Topics & Metrics",
+      "| Energy Management | (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | EM-IS-130a.1 |"
+    ],
+    "pages": [
+      "Page 528",
+      "Page 69"
+    ],
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 1
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for the Iron & Steel Producers and Industrial Machinery & Goods industries.",
+    "answer": "For the Iron & Steel Producers industry, the codes are: EM-IS-110a.1, EM-IS-130a.1, EM-IS-130a.2, EM-IS-140a.1. For the Industrial Machinery & Goods industry, the codes are: RT-IG-130a.1, RT-IG-410a.1, RT-IG-410a.2, RT-IG-410a.3, RT-IG-410a.4.",
+    "reference_text": [
+      "Industry: Iron & Steel Producers",
+      "## Table 1. Sustainability Disclosure Topics & Metrics",
+      "| Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%) | EM-IS-110a.1 |",
+      "| Greenhouse Gas Emissions | Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a | EM-IS-110a.2 |",
+      "| Energy Management | (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | EM-IS-130a.1 |",
+      "Industry: Industrial Machinery & Goods",
+      "## Table 1. Sustainability Disclosure Topics & Metrics",
+      "| Energy Management | (1) Total energy consumed, (2) percent- age grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | RT-IG-130a.1 |",
+      "| Fuel Economy & Emissions in Use-phase | Sales-weighted fleet fuel efficiency for medium- and heavy-duty vehicles | Quantitative | Gallons per 1,000 ton- miles | RT-IG-410a.1 |",
+      "| Fuel Economy & Emissions in Use-phase | Sales-weighted fuel efficiency for non- road equipment | Quantitative | Gallons per hour | RT-IG-410a.2 |",
+      "| Fuel Economy & Emissions in Use-phase | Sales-weighted fuel efficiency for stationary generators | Quantitative | Watts per gallon | RT-IG-410a.3 |",
+      "| Fuel Economy & Emissions in Use-phase | Sales-weighted emissions of: (1) nitrogen oxides (NOx) and (2) partic- ulate matter (PM) for: (a) marine diesel engines, (b) locomotive diesel engines, (c) on-road medium- and heavy-duty engines, and (d) other non-road diesel engines 88 | Quantitative | Grams per kilowatt-hour | RT-IG-410a.4 |"
+    ],
+    "pages": [
+      "Page 69",
+      "Page 528"
+    ],
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 1
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "question": "What are the key environmental and social risks associated with sourcing priority raw materials in the Apparel, Accessories & Footwear industry?",
+    "answer": "The key environmental risks include climate change impacts on natural fiber crop production, legislation on greenhouse gases affecting petroleum-derived raw material prices, tightening environmental regulations for suppliers, lack of full traceability to raw material sources, and improper land use practices. The key social risks include suppliers' animal welfare, labor, and human rights practices, and sourcing materials from regions of conflict. The entity should discuss its vulnerability to cotton-growing regions with water stress and how it manages the risk of price variability due to sourcing cotton from these regions.",
+    "reference_text": [
+      "Environmental supply chain risks include, but are not limited to: Climate change impacts (e.g., changing temperatures and/or water stress) on natural fiber crop production that may affect their price and availability; Legislation on greenhouse gases (GHG) affecting the price of petroleum which may affect the price of petroleum-derived raw materials; Tightening environmental regulations for suppliers that could affect the cost or availability of raw materials they supply; Lack of full traceability to the source of the raw materials, which may hinder the ability to identify compliance incidents that could lead to negative effects on brand reputation; Improper land use practices within the supply chain that may affect the yield of natural fiber raw materials; Other environmental factors that may have an impact on the entity's ability to source raw materials for its products.",
+      "Social supply chain risks include, but are not limited to: Suppliers' animal welfare, labor, and human rights practices that may affect the entity's reputation; Sourcing materials from regions of conflict which may affect the price and availability of raw materials.",
+      "If the entity identifies cotton as one of its priority raw materials, it shall discuss its vulnerability to cotton-growing regions with water stress and how it manages the risk of price variability due to sourcing cotton from these regions."
+    ],
+    "pages": [
+      "8",
+      "9"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "question": "What types of third-party environmental and social sustainability standards are used in the Apparel, Accessories & Footwear industry to certify raw materials?",
+    "answer": "The industry uses a variety of third-party environmental and social sustainability standards to certify raw materials, including the Outdoor Industry Association's Content Claim Standard, Textile Exchange's Recycled Claim Standard, Global Recycled Standard, Organic Cotton Standard, and Responsible Down Standard, Certified Organic, Control Union Global Organic Textile Standard, Better Cotton Initiative, Forestry Stewardship Council certification, Rainforest Alliance leather products, Global Organic Textile Standard, STeP by OEKO-TEX\u00ae, OEKO-TEX\u00ae Standard 100, ECO PASSPORT, Cradle to Cradle, and Bluesign.",
+    "reference_text": [
+      "Environmental and social sustainability standards include, but are not limited to: Outdoor Industry Association's Content Claim Standard (CCS); Textile Exchange's Recycled Claim Standard, Global Recycled Standard, Organic Cotton Standard, and Responsible Down Standard; Certified Organic; Control Union Global Organic Textile Standard; Better Cotton Initiative; Forestry Stewardship Council certification (for lyocell and rubber); Rainforest Alliance leather products; Global Organic Textile Standard; STeP by OEKO-TEX\u00ae; OEKO-TEX\u00ae Standard 100; ECO PASSPORT; Cradle to Cradle; Bluesign."
+    ],
+    "pages": [
+      "9",
+      "10"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "question": "How does the Apparel, Accessories & Footwear industry calculate the percentage of raw materials that are third-party certified to environmental and/or social sustainability standards?",
+    "answer": "The industry calculates the percentage of raw materials third-party certified to an environmental or social sustainability standard as the weight of raw materials that are certified to each respective standard divided by the total weight of raw materials that compose the entity's finished products. The scope includes raw materials derived using a process third-party certified to an environmental and/or social standard, and covers certifications based on environmental best practices, social best practices, or both.",
+    "reference_text": [
+      "The entity shall calculate the percentage as the weight of raw materials third-party certified to an environmental and/or social standard divided by the total weight of raw materials that compose the entity's finished products.",
+      "The scope of raw materials third-party certified to an environmental and/or social standard includes raw materials derived using a process third-party certified to an environmental and/or social standard.",
+      "The scope of disclosure includes third-party certifications that are based on environmental best practices, social best practices, or both."
+    ],
+    "pages": [
+      "9",
+      "10"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "question": "What types of sustainable materials, beyond third-party certified raw materials, do companies in the Apparel, Accessories & Footwear industry use?",
+    "answer": "Companies in the industry may use other sustainable materials that demonstrate environmental lifecycle benefits, even if they are not third-party certified. This includes fibers such as reclaimed cotton and wool, mechanically or chemically recycled polyester, nylon, and lyocell.",
+    "reference_text": [
+      "The entity may discuss its use of other sustainable materials that may not be third-party certified, but may demonstrate an environmental lifecycle benefit, and fibers such as reclaimed cotton and wool, mechanically or chemically recycled polyester, nylon, and lyocell."
+    ],
+    "pages": [
+      "10"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "question": "What environmental and social risks does the Apparel, Accessories & Footwear industry face in sourcing its priority raw materials?",
+    "answer": "The Apparel, Accessories & Footwear industry faces several environmental and social risks in sourcing its priority raw materials, including:\n\nEnvironmental risks:\n- Climate change impacts (e.g. water stress) affecting natural fiber crop production and pricing\n- Legislation on greenhouse gas emissions affecting the price of petroleum-derived raw materials\n- Tightening environmental regulations for suppliers affecting the cost or availability of raw materials\n- Lack of full traceability to raw material sources, hindering the ability to identify compliance issues\n- Improper land use practices affecting the yield of natural fiber raw materials\n\nSocial risks: \n- Suppliers' animal welfare, labor, and human rights practices affecting the company's reputation\n- Sourcing materials from regions of conflict, which can affect price and availability of raw materials",
+    "reference_text": [
+      "Environmental supply chain risks include, but are not limited to:\n\n5.1    Climate change impacts (e.g., changing temperatures and/or water stress) on natural fiber crop production that may affect their price and availability\n\n5.2 Legislation on greenhouse gases (GHG) affecting the price of petroleum which may affect the price of petroleum-derived raw materials\n\n5.3 Tightening environmental regulations for suppliers that could affect the cost or availability of raw materials they supply\n\n5.4 Lack of full traceability to the source of the raw materials, which may hinder the ability to identify compliance incidents that could lead to negative effects on brand reputation\n\n5.5 Improper land use practices within the supply chain that may affect the yield of natural fiber raw materials\n\n5.6 Other environmental factors that may have an impact on the entity's ability to source raw materials for its products\n\nSocial supply chain risks include, but are not limited to:\n\n6.1 Suppliers' animal welfare, labor, and human rights practices that may affect the entity's reputation\n\n6.2 Sourcing materials from regions of conflict which may affect the price and availability of raw materials"
+    ],
+    "pages": [
+      "8",
+      "9"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "question": "How does the Apparel, Accessories & Footwear industry identify and manage its priority raw materials?",
+    "answer": "The Apparel, Accessories & Footwear industry identifies its priority raw materials as those that are essential to its principal products, where principal products are those that accounted for 10% or more of consolidated revenue in any of the last three fiscal years. \n\nThe industry discloses the methodology used to identify priority raw materials, which include synthetic fibers and fabrics, natural fibers and fabrics, cellulosic materials, materials derived from animals, and any other materials used directly to make apparel, accessories, or footwear products.\n\nTo manage risks associated with these priority raw materials, the industry employs strategies such as due diligence practices, supply chain auditing, partnerships with industry groups or NGOs, using substitute materials, R&D into materials with less environmental/social risks, supplier diversification, implementing supply chain codes of conduct, training/engagement programs, supplier audits and certifications, and researching full traceability of material sources.",
+    "reference_text": [
+      "1    The entity shall discuss its strategic approach to managing environmental and social risks that arise from sourcing priority raw materials (disclosure corresponds to the Sustainable Apparel Coalition's Higg Brand & Retail Module (BRM).\n\n1.1    Priority raw materials are defined as those that are essential to the entity's principal products, where principal products are those that accounted for 10 percent or more of consolidated revenue in any of the last three fiscal years.\n\n2    Disclosure shall include the methodology of how the entity identified priority raw materials.\n\n3    Raw materials include synthetic fibers and fabrics, natural fibers and fabrics, cellulosic materials, materials derived from animals, and any other materials used directly to make apparel, accessories, or footwear products, including, but not limited to:\n\n3.1    Cotton, rayon, polyester, acrylic, spandex, nylon, rubber, leather, wool, flax, silk, hemp, and down\n\n8    The entity shall discuss its approach to managing risks associated with the use of raw materials in its products, including physical limits on availability, access, price, and reputational risks.\n\n8.1 Relevant strategies to discuss include: due diligence practices, supply chain auditing, partnerships with industry groups or nongovernmental development organizations, using substitute materials, research and development into materials with less environmental or social risks, supplier diversification, implementing supply chain codes of conduct, training or engagement programs, supplier audits and/or certifications, and research into the full traceability of material sources, among other strategies."
+    ],
+    "pages": [
+      "8",
+      "9"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "question": "What types of third-party environmental and social sustainability standards are used in the Apparel, Accessories & Footwear industry to certify raw materials?",
+    "answer": "The Apparel, Accessories & Footwear industry uses a variety of third-party environmental and social sustainability standards to certify its raw materials, including:\n\n- Outdoor Industry Association's Content Claim Standard (CCS)\n- Textile Exchange's Recycled Claim Standard, Global Recycled Standard, Organic Cotton Standard, and Responsible Down Standard\n- Certified Organic\n- Control Union Global Organic Textile Standard\n- Better Cotton Initiative\n- Forestry Stewardship Council certification (for lyocell and rubber)\n- Rainforest Alliance leather products\n- Global Organic Textile Standard\n- STeP by OEKO-TEX\u00ae\n- OEKO-TEX\u00ae Standard 100\n- ECO PASSPORT\n- Cradle to Cradle\n- Bluesign",
+    "reference_text": [
+      "1.2 Environmental and social sustainability standards include, but are not limited to:\n\n1.2.1 Outdoor Industry Association's Content Claim Standard (CCS)\n\n1.2.2 Textile Exchange's Recycled Claim Standard, Global Recycled Standard, Organic Cotton Standard, and Responsible Down Standard\n\n1.2.3 Certified Organic\n\n1.2.4 Control Union Global Organic Textile Standard\n\n1.2.5 Better Cotton Initiative\n\n1.2.6 Forestry Stewardship Council certification (for lyocell and rubber)\n\n1.2.7 Rainforest Alliance leather products\n\n1.2.8 Global Organic Textile Standard\n\n1.2.9 STeP by OEKO-TEX\u00ae\n\n1.2.10 OEKO-TEX\u00ae Standard 100\n\n1.2.11 ECO PASSPORT\n\n1.2.12 Cradle to Cradle\n\n1.2.13 Bluesign"
+    ],
+    "pages": [
+      "9",
+      "10"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "question": "How does the Apparel, Accessories & Footwear industry calculate the percentage of raw materials that are third-party certified to environmental and/or social sustainability standards?",
+    "answer": "The Apparel, Accessories & Footwear industry calculates the percentage of raw materials that are third-party certified to environmental and/or social sustainability standards as follows:\n\n1. The percentage is calculated as the weight of raw materials third-party certified to an environmental and/or social standard divided by the total weight of raw materials that compose the entity's finished products.\n\n2. The scope of raw materials third-party certified includes those derived using a process that is third-party certified to an environmental and/or social standard.\n\n3. The scope includes third-party certifications based on environmental best practices, social best practices, or both.\n\n4. The entity discloses the percentage of raw materials certified to each respective third-party environmental and/or social standard, calculated as the weight of materials certified to each standard divided by the total weight of raw materials.",
+    "reference_text": [
+      "1 The entity shall disclose the percentage of raw materials that are third-party certified to an environmental or social sustainability standard.\n\n1.1 Environmental and social sustainability standards are defined as standards that address environmental and social impacts that result from the primary sourcing of raw materials, such as standards for organic or recycled content, animal welfare, and/or fair labor.\n\n1.3 The entity shall calculate the percentage as the weight of raw materials third-party certified to an environmental and/or social standard divided by the total weight of raw materials that compose the entity's finished products.\n\n1.3.1 The scope of raw materials third-party certified to an environmental and/or social standard includes raw materials derived using a process third-party certified to an environmental and/or social standard.\n\n1.3.2 The scope of disclosure includes third-party certifications that are based on environmental best practices, social best practices, or both.\n\n2 The entity shall disclose the percentage of raw materials third-party certified to an environmental or social sustainability standard, by standard.\n\n2.1 The entity shall calculate the percentage as the weight of raw materials that are certified to each respective third-party environmental and/or social standard divided by the total weight of raw materials that compose the entity's finished products."
+    ],
+    "pages": [
+      "9",
+      "10"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  }
+]

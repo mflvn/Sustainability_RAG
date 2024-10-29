@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What does a company need to disclose regarding the amount of water withdrawn and consumed in regions with high or extremely high baseline water stress?",
+    "answer": "The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn. The entity shall disclose its water consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water consumed.",
+    "reference_text": [
+      "4 The entity shall analyze all of its operations for water risks and identify activities that withdraw and consume water in locations with High (40\u201380 percent) or Extremely High (>80 percent) Baseline Water Stress as classified by the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct.",
+      "5 The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn.",
+      "6 The entity shall disclose its water consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water consumed."
+    ],
+    "pages": [
+      "34",
+      "35"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "question": "What should a company describe regarding its water management risks?",
+    "answer": "The entity shall describe its water management risks associated with water withdrawals, water consumption, and discharge of water and/or wastewater.",
+    "reference_text": [
+      "1 The entity shall describe its water management risks associated with water withdrawals, water consumption, and discharge of water and/or wastewater."
+    ],
+    "pages": [
+      "35"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "question": "What strategies or plans should a company discuss to mitigate its water management risks?",
+    "answer": "The entity shall discuss its short-term and long-term strategies or plan to mitigate water management risks, including, but not limited to: The scope of its strategy, plans, goals and/or targets, such as how they relate to different business units, geographies, or water-consuming operational processes. Any water management goals and/or targets it has prioritized, and an analysis of performance against those goals and/or targets. The activities and investments required to achieve the plans, goals and/or targets, and any risks or limiting factors that might affect achievement of the plans and/or targets.",
+    "reference_text": [
+      "4 The entity shall discuss its short-term and long-term strategies or plan to mitigate water management risks, including, but not limited to:",
+      "4.1 The scope of its strategy, plans, goals and/or targets, such as how they relate to different business units, geographies, or water-consuming operational processes.",
+      "4.2 Any water management goals and/or targets it has prioritized, and an analysis of performance against those goals and/or targets.",
+      "4.3 The activities and investments required to achieve the plans, goals and/or targets, and any risks or limiting factors that might affect achievement of the plans and/or targets."
+    ],
+    "pages": [
+      "36"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "question": "What information should a company disclose regarding the amount of palm oil sourced and its certification through the Roundtable on Sustainable Palm Oil (RSPO)?",
+    "answer": "The entity shall disclose the amount, in metric tons, of palm oil that it sourced during the reporting period. The entity shall disclose the percentage, on a weight basis, of palm oil it sourced that has been third-party certified to bear a Roundtable on Sustainable Palm Oil (RSPO) claim for each of the RSPO supply chain models: (a) Identity Preserved (IP), (b) Segregated (SG), (c) Mass Balance (MB), or (d) Book & Claim (B&C).",
+    "reference_text": [
+      "1 The entity shall disclose the amount, in metric tons, of palm oil that it sourced during the reporting period.",
+      "2 The entity shall disclose the percentage, on a weight basis, of palm oil it sourced that has been third-party certified to bear a Roundtable on Sustainable Palm Oil (RSPO) claim for each of the RSPO supply chain models: (a) Identity Preserved (IP), (b) Segregated (SG), (c) Mass Balance (MB), or (d) Book & Claim (B&C)."
+    ],
+    "pages": [
+      "38"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "question": "According to the IFRS standards, what must a company disclose regarding its total water withdrawn and consumed in regions with high or extremely high baseline water stress?",
+    "answer": "The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn. The entity shall disclose its water consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water consumed.",
+    "reference_text": [
+      "The entity shall analyze all of its operations for water risks and identify activities that withdraw and consume water in locations with High (40\u201380 percent) or Extremely High (>80 percent) Baseline Water Stress as classified by the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct.",
+      "The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn.",
+      "The entity shall disclose its water consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water consumed."
+    ],
+    "pages": [
+      "34",
+      "35"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "question": "What specific information must a company provide when describing its water management risks and mitigation strategies according to the IFRS standards?",
+    "answer": "The entity shall describe its water management risks associated with water withdrawals, water consumption, and discharge of water and/or wastewater. The entity shall discuss its short-term and long-term strategies or plan to mitigate water management risks, including the scope, goals/targets, activities/investments required, and any risks or limiting factors. For water targets, it must disclose whether absolute or intensity-based, timelines, mechanisms for achieving the target, and percentage reduction from base year.",
+    "reference_text": [
+      "The entity shall describe its water management risks associated with water withdrawals, water consumption, and discharge of water and/or wastewater.",
+      "The entity shall discuss its short-term and long-term strategies or plan to mitigate water management risks, including, but not limited to: 4.1 The scope of its strategy, plans, goals and/or targets...",
+      "4.2 Any water management goals and/or targets it has prioritized, and an analysis of performance against those goals and/or targets...",
+      "4.3 The activities and investments required to achieve the plans, goals and/or targets, and any risks or limiting factors that might affect achievement of the plans and/or targets.",
+      "5 For water management targets, the entity shall additionally disclose: 5.1 Whether the target is absolute or intensity-based...",
+      "5.2 The timelines for the water management plans, including the start year, the target year, and the base year.",
+      "5.3 The mechanism(s) for achieving the target...",
+      "5.4 The percentage reduction or improvement from the base year..."
+    ],
+    "pages": [
+      "34",
+      "35",
+      "36"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "question": "How must a company disclose the amount of palm oil it sources and the percentage certified through different RSPO supply chain models?",
+    "answer": "The entity shall disclose the amount, in metric tons, of palm oil that it sourced during the reporting period. The entity shall disclose the percentage, on a weight basis, of palm oil it sourced that has been third-party certified to bear a Roundtable on Sustainable Palm Oil (RSPO) claim for each of the RSPO supply chain models: (a) Identity Preserved (IP), (b) Segregated (SG), (c) Mass Balance (MB), or (d) Book & Claim (B&C).",
+    "reference_text": [
+      "The entity shall disclose the amount, in metric tons, of palm oil that it sourced during the reporting period.",
+      "The entity shall disclose the percentage, on a weight basis, of palm oil it sourced that has been third-party certified to bear a Roundtable on Sustainable Palm Oil (RSPO) claim for each of the RSPO supply chain models: (a) Identity Preserved (IP), (b) Segregated (SG), (c) Mass Balance (MB), or (d) Book & Claim (B&C)."
+    ],
+    "pages": [
+      "38"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "question": "According to the industry description, what are some typical sales channels and distribution methods for household and personal products companies?",
+    "answer": "Household and personal products companies operate globally and typically sell their products to mass merchants, grocery stores, membership club stores, drug stores, high-frequency stores, distributors, and e-commerce retailers. Some companies sell products through independent representatives rather than third-party retail establishments.",
+    "reference_text": [
+      "Household and personal products companies operate globally and typically sell their products to mass merchants, grocery stores, membership club stores, drug stores, high-frequency stores, distributors, and e-commerce retailers. Some companies sell products through independent representatives rather than third-party retail establishments."
+    ],
+    "pages": [
+      "33"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  }
+]

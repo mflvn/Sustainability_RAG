@@ -1,0 +1,182 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing renewable energy consumption for a leisure facility, which of the following sources is NOT considered within the scope of renewable energy according to IFRS S2?",
+    "optionA": "Wind energy",
+    "optionB": "Solar energy",
+    "optionC": "Geothermal energy",
+    "optionD": "Uncertified hydropower",
+    "optionE": "Biomass from Forest Stewardship Council certified materials",
+    "answer": "D. Uncertified hydropower",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Leisure Facilities",
+    "page": "545-546",
+    "industries": [
+      "b53-leisure-facilities"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "For a leisure facility company reporting its energy consumption, which unit of measure should be used for total energy consumed according to IFRS S2?",
+    "optionA": "Kilowatt-hours (kWh)",
+    "optionB": "Megawatt-hours (MWh)",
+    "optionC": "Gigajoules (GJ)",
+    "optionD": "British Thermal Units (BTU)",
+    "optionE": "Therms",
+    "answer": "C. Gigajoules (GJ)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Leisure Facilities",
+    "page": "545",
+    "industries": [
+      "b53-leisure-facilities"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When calculating the percentage of renewable energy consumed by a leisure facility, which of the following is NOT included in the scope of renewable energy?",
+    "optionA": "Renewable energy directly produced by the entity",
+    "optionB": "Renewable energy purchased through a power purchase agreement (PPA) with explicit RECs",
+    "optionC": "Renewable energy from a Green-e Energy Certified utility program",
+    "optionD": "The renewable portion of the electricity grid mix outside the entity's control",
+    "optionE": "On-site generated renewable electricity with retained RECs",
+    "answer": "D. The renewable portion of the electricity grid mix outside the entity's control",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Leisure Facilities",
+    "page": "545",
+    "industries": [
+      "b53-leisure-facilities"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2, when reporting energy consumption from fuels and biofuels for a leisure facility, which heating value should be used?",
+    "optionA": "Lower Heating Values (LHV)",
+    "optionB": "Higher Heating Values (HHV)",
+    "optionC": "Average Heating Values (AHV)",
+    "optionD": "Standardized Heating Values (SHV)",
+    "optionE": "Net Calorific Values (NCV)",
+    "answer": "B. Higher Heating Values (HHV)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Leisure Facilities",
+    "page": "545",
+    "industries": [
+      "b53-leisure-facilities"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of grid electricity consumed by a leisure facility, what is the correct formula according to IFRS S2?",
+    "optionA": "Grid electricity consumption divided by renewable energy consumption",
+    "optionB": "Purchased grid electricity consumption divided by total energy consumption",
+    "optionC": "Total energy consumption divided by grid electricity consumption",
+    "optionD": "Renewable energy consumption divided by grid electricity consumption",
+    "optionE": "Grid electricity consumption minus renewable energy consumption",
+    "answer": "B. Purchased grid electricity consumption divided by total energy consumption",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Leisure Facilities",
+    "page": "545",
+    "industries": [
+      "b53-leisure-facilities"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the 'customer-days' activity metric for a movie theater that sells single unit entry passes, what should be used if exact visitation times are not tracked?",
+    "optionA": "The total number of tickets sold",
+    "optionB": "The theater's total hours of operation",
+    "optionC": "The average visitation time",
+    "optionD": "The longest movie's runtime",
+    "optionE": "The total number of screenings",
+    "answer": "C. The average visitation time",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Leisure Facilities",
+    "page": "544",
+    "industries": [
+      "b53-leisure-facilities"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "For a leisure facility using biomass as a renewable energy source, which of the following certifications is NOT mentioned as acceptable for inclusion in the renewable energy calculation?",
+    "optionA": "Forest Stewardship Council",
+    "optionB": "Sustainable Forest Initiative",
+    "optionC": "Programme for the Endorsement of Forest Certification",
+    "optionD": "American Tree Farm System",
+    "optionE": "International Organization for Standardization (ISO) 14001",
+    "answer": "E. International Organization for Standardization (ISO) 14001",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Leisure Facilities",
+    "page": "546",
+    "industries": [
+      "b53-leisure-facilities"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the renewable energy percentage for a leisure facility that generates solar power on-site, what must be done with the Renewable Energy Certificates (RECs) for the entity to claim it as renewable energy?",
+    "optionA": "RECs must be sold to other companies",
+    "optionB": "RECs must be retained and retired or cancelled on behalf of the entity",
+    "optionC": "RECs can be ignored as they are not relevant for on-site generation",
+    "optionD": "RECs must be donated to a non-profit organization",
+    "optionE": "RECs must be reported to the government but can be kept active",
+    "answer": "B. RECs must be retained and retired or cancelled on behalf of the entity",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Leisure Facilities",
+    "page": "545-546",
+    "industries": [
+      "b53-leisure-facilities"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A leisure facility company operating multiple amusement parks is struggling to accurately report its total energy consumption. Which of the following energy sources should NOT be included in the total energy consumed calculation?",
+    "optionA": "Purchased electricity",
+    "optionB": "Direct fuel usage",
+    "optionC": "Heating energy",
+    "optionD": "Energy produced by the entity itself",
+    "optionE": "Energy consumed by visitors' personal devices",
+    "answer": "E. Energy consumed by visitors' personal devices",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Leisure Facilities",
+    "page": "545",
+    "industries": [
+      "b53-leisure-facilities"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A ski resort is considering investing in a hydropower project to increase its renewable energy usage. Under the IFRS sustainability reporting standards, which certification would make this hydro energy eligible for inclusion in the company's renewable energy percentage?",
+    "optionA": "ISO 14001 certification",
+    "optionB": "Low Impact Hydropower Institute certification",
+    "optionC": "Energy Star certification",
+    "optionD": "LEED certification",
+    "optionE": "Blue Angel certification",
+    "answer": "B. Low Impact Hydropower Institute certification",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Leisure Facilities",
+    "page": "545-546",
+    "industries": [
+      "b53-leisure-facilities"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A theme park operator has purchased renewable energy through a power purchase agreement (PPA). Under what condition can this energy be claimed as renewable in the company's sustainability report?",
+    "optionA": "If the energy is cheaper than conventional grid electricity",
+    "optionB": "If the energy is produced within the same state as the theme park",
+    "optionC": "If the PPA lasts for at least 10 years",
+    "optionD": "If the PPA explicitly includes and conveys that RECs and GOs are retained or replaced and retired on behalf of the entity",
+    "optionE": "If the energy provider is a Fortune 500 company",
+    "answer": "D. If the PPA explicitly includes and conveys that RECs and GOs are retained or replaced and retired on behalf of the entity",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Leisure Facilities",
+    "page": "545-546",
+    "industries": [
+      "b53-leisure-facilities"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A leisure facility company operates a mix of indoor and outdoor attractions, including amusement parks and movie theaters. The company is preparing its sustainability report and wants to accurately report its energy consumption. What unique challenge does this company face when calculating the percentage of renewable energy consumed?",
+    "optionA": "Differentiating between energy used for indoor vs outdoor attractions",
+    "optionB": "Accounting for seasonal variations in energy consumption",
+    "optionC": "Excluding the renewable portion of the electricity grid mix outside its control",
+    "optionD": "Calculating the energy consumption of individual rides and attractions",
+    "optionE": "Determining the carbon footprint of visitor transportation to the facilities",
+    "answer": "C. Excluding the renewable portion of the electricity grid mix outside its control",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Leisure Facilities",
+    "page": "545-546",
+    "industries": [
+      "b53-leisure-facilities"
+    ]
+  }
+]

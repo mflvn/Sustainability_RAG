@@ -1,0 +1,146 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "According to IFRS S2, which of the following metrics is required to be disclosed by companies in the Oil & Gas Exploration & Production industry but NOT by companies in the Hardware industry?",
+    "optionA": "Percentage of products containing IEC 62474 declarable substances",
+    "optionB": "Gross global Scope 1 emissions",
+    "optionC": "Weight of end-of-life products recovered",
+    "optionD": "Number of units produced by product category",
+    "optionE": "Percentage of production from owned facilities",
+    "answer": "B. Gross global Scope 1 emissions",
+    "explanation": "The Oil & Gas Exploration & Production industry is required to disclose gross global Scope 1 emissions (EM-EP-110a.1) according to IFRS S2. This metric is not listed as a required disclosure for the Hardware industry. The other options are either required for the Hardware industry or are not specifically required for either industry in the given content.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Exploration & Production",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hardware"
+    ],
+    "pages": [
+      "93",
+      "552"
+    ],
+    "pairing_explanation": "Comparing hardware manufacturing with oil exploration reveals sustainability themes in resource use, waste generation, and lifecycle impacts.",
+    "industries": [
+      "b55-hardware",
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "Which of the following disclosures is required for both the Hardware industry and the Oil & Gas Exploration & Production industry under IFRS S2?",
+    "optionA": "Percentage of hydraulically fractured wells with public disclosure of fracturing fluid chemicals",
+    "optionB": "Percentage of products meeting ENERGY STAR\u00ae criteria",
+    "optionC": "Discussion of strategies to manage Scope 1 emissions",
+    "optionD": "Weight of end-of-life products recovered",
+    "optionE": "Area of manufacturing facilities",
+    "answer": "E. Area of manufacturing facilities",
+    "explanation": "The area of manufacturing facilities is an activity metric required for both the Hardware industry (TC-HW-000.B) and the Oil & Gas Exploration & Production industry (EM-EP-000.C for terrestrial sites). This is the only option that appears as a required disclosure for both industries in the given content.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Exploration & Production",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hardware"
+    ],
+    "pages": [
+      "92",
+      "553"
+    ],
+    "pairing_explanation": "Comparing hardware manufacturing with oil exploration reveals sustainability themes in resource use, waste generation, and lifecycle impacts.",
+    "industries": [
+      "b55-hardware",
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of products containing IEC 62474 declarable substances for the Hardware industry, which of the following is the correct denominator?",
+    "optionA": "Total number of products sold",
+    "optionB": "Total revenue from all products",
+    "optionC": "Total revenue from electrical, electronic, and related technology products sold",
+    "optionD": "Total weight of products sold",
+    "optionE": "Total number of product categories",
+    "answer": "C. Total revenue from electrical, electronic, and related technology products sold",
+    "explanation": "According to TC-HW-410a.1, the percentage should be calculated as the revenue from electrical, electronic, and related technology products sold that contain a declarable substance(s) divided by total revenue from electrical, electronic, and related technology products sold.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hardware"
+    ],
+    "pages": [
+      "554"
+    ],
+    "pairing_explanation": "Comparing hardware manufacturing with oil exploration reveals sustainability themes in resource use, waste generation, and lifecycle impacts.",
+    "industries": [
+      "b55-hardware",
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "In the Oil & Gas Exploration & Production industry, how should a company calculate the percentage of emissions covered under emissions-limiting regulations?",
+    "optionA": "Total emissions covered by regulations divided by total Scope 1 and 2 emissions",
+    "optionB": "Total emissions covered by regulations divided by total Scope 1 emissions",
+    "optionC": "Number of facilities covered by regulations divided by total number of facilities",
+    "optionD": "Total emissions covered by regulations divided by total production volume",
+    "optionE": "Total emissions covered by regulations divided by total revenue",
+    "answer": "B. Total emissions covered by regulations divided by total Scope 1 emissions",
+    "explanation": "According to EM-EP-110a.1, the percentage shall be calculated as the total amount of gross global Scope 1 GHG emissions (CO2-e) that are covered under emissions-limiting regulations divided by the total amount of gross global Scope 1 GHG emissions (CO2-e).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Exploration & Production"
+    ],
+    "pages": [
+      "94",
+      "95"
+    ],
+    "pairing_explanation": "Comparing hardware manufacturing with oil exploration reveals sustainability themes in resource use, waste generation, and lifecycle impacts.",
+    "industries": [
+      "b55-hardware",
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the IFRS S2 requirements for addressing product lifecycle management differ between the Hardware industry and the Oil & Gas Exploration & Production industry?",
+    "optionA": "Only the Hardware industry has specific requirements for product lifecycle management",
+    "optionB": "Only the Oil & Gas industry has specific requirements for product lifecycle management",
+    "optionC": "Both industries have identical requirements for product lifecycle management",
+    "optionD": "The Hardware industry focuses on end-of-life product recovery, while the Oil & Gas industry focuses on reserve valuation",
+    "optionE": "Neither industry has requirements related to product lifecycle management",
+    "answer": "D. The Hardware industry focuses on end-of-life product recovery, while the Oil & Gas industry focuses on reserve valuation",
+    "explanation": "The Hardware industry has specific requirements for product lifecycle management, including metrics for end-of-life product recovery and recycling (TC-HW-410a.4). In contrast, the Oil & Gas Exploration & Production industry focuses on reserve valuation and capital expenditures (EM-EP-420a.1 to EM-EP-420a.4), which relate to the lifecycle of their primary product (oil and gas reserves).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Exploration & Production",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hardware"
+    ],
+    "pages": [
+      "103",
+      "557"
+    ],
+    "pairing_explanation": "Comparing hardware manufacturing with oil exploration reveals sustainability themes in resource use, waste generation, and lifecycle impacts.",
+    "industries": [
+      "b55-hardware",
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "Which of the following statements best describes the difference in approach to environmental impact disclosure between the Hardware industry and the Oil & Gas Exploration & Production industry under IFRS S2?",
+    "optionA": "The Hardware industry focuses on product efficiency, while the Oil & Gas industry focuses on emissions",
+    "optionB": "The Hardware industry focuses on waste management, while the Oil & Gas industry focuses on water usage",
+    "optionC": "The Hardware industry focuses on supply chain impacts, while the Oil & Gas industry focuses on operational impacts",
+    "optionD": "The Hardware industry focuses on renewable energy, while the Oil & Gas industry focuses on fossil fuel reserves",
+    "optionE": "Both industries have identical approaches to environmental impact disclosure",
+    "answer": "A. The Hardware industry focuses on product efficiency, while the Oil & Gas industry focuses on emissions",
+    "explanation": "The Hardware industry's disclosure requirements emphasize product efficiency through metrics like EPEAT registration and ENERGY STAR certification (TC-HW-410a.2 and TC-HW-410a.3). In contrast, the Oil & Gas Exploration & Production industry has extensive requirements for disclosing various types of emissions, including Scope 1 emissions, methane emissions, and flaring (EM-EP-110a.1 to EM-EP-110a.3).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Exploration & Production",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hardware"
+    ],
+    "pages": [
+      "93",
+      "94",
+      "95",
+      "555",
+      "556"
+    ],
+    "pairing_explanation": "Comparing hardware manufacturing with oil exploration reveals sustainability themes in resource use, waste generation, and lifecycle impacts.",
+    "industries": [
+      "b55-hardware",
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  }
+]

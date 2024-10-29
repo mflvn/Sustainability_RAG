@@ -1,0 +1,146 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "According to IFRS standards, which energy-related metric is required to be reported by both the Electrical & Electronic Equipment industry and the Hotels & Lodging industry?",
+    "optionA": "Total energy consumed",
+    "optionB": "Energy intensity per product unit",
+    "optionC": "Energy consumption by fuel type",
+    "optionD": "Energy efficiency of products",
+    "optionE": "Energy cost as a percentage of revenue",
+    "answer": "A. Total energy consumed",
+    "explanation": "Both industries are required to report the total energy consumed as part of their energy management disclosures. This is evident in the metrics RT-EE-130a.1 for Electrical & Electronic Equipment and SV-HL-130a.1 for Hotels & Lodging, which both include '(1) Total energy consumed' as a required disclosure.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electrical & Electronic Equipment",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hotels & Lodging"
+    ],
+    "pages": [
+      "523",
+      "539"
+    ],
+    "pairing_explanation": "Energy consumption and efficiency are key sustainability issues in both the manufacture of electrical equipment and the operation of hotels.",
+    "industries": [
+      "b49-electrical-and-electronic-equipment",
+      "b52-hotels-and-lodging"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When disclosing renewable energy consumption, what specific requirement is common to both the Electrical & Electronic Equipment and Hotels & Lodging industries according to IFRS standards?",
+    "optionA": "Renewable energy must be sourced locally",
+    "optionB": "Only solar and wind energy can be considered renewable",
+    "optionC": "Renewable energy certificates (RECs) must be retained and retired for on-site generation",
+    "optionD": "Hydroelectric power is excluded from renewable energy calculations",
+    "optionE": "Renewable energy must constitute at least 10% of total energy consumption",
+    "answer": "C. Renewable energy certificates (RECs) must be retained and retired for on-site generation",
+    "explanation": "Both industries have the same requirement for renewable energy disclosure: 'For any renewable electricity generated on-site, any RECs and GOs must be retained (i.e., not sold) and retired or cancelled on behalf of the entity in order for the entity to claim them as renewable energy.' This ensures that companies accurately report their renewable energy usage without double-counting.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electrical & Electronic Equipment",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hotels & Lodging"
+    ],
+    "pages": [
+      "524",
+      "540"
+    ],
+    "pairing_explanation": "Energy consumption and efficiency are key sustainability issues in both the manufacture of electrical equipment and the operation of hotels.",
+    "industries": [
+      "b49-electrical-and-electronic-equipment",
+      "b52-hotels-and-lodging"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of renewable energy consumed, what is a key difference in the scope of biomass sources between the Electrical & Electronic Equipment and Hotels & Lodging industries?",
+    "optionA": "Hotels & Lodging excludes all biomass sources",
+    "optionB": "Electrical & Electronic Equipment includes only forest-certified biomass",
+    "optionC": "Hotels & Lodging includes all types of biomass without restrictions",
+    "optionD": "Electrical & Electronic Equipment has no restrictions on biomass sources",
+    "optionE": "There is no difference in the scope of biomass sources between the two industries",
+    "answer": "E. There is no difference in the scope of biomass sources between the two industries",
+    "explanation": "Both industries have identical requirements for the scope of renewable energy from biomass sources. They both limit it to materials certified to third-party standards, materials considered eligible according to the Green-e Framework, and/or materials eligible for applicable state renewable portfolio standards. This consistency ensures comparability across different industries in sustainability reporting.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electrical & Electronic Equipment",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hotels & Lodging"
+    ],
+    "pages": [
+      "524",
+      "540"
+    ],
+    "pairing_explanation": "Energy consumption and efficiency are key sustainability issues in both the manufacture of electrical equipment and the operation of hotels.",
+    "industries": [
+      "b49-electrical-and-electronic-equipment",
+      "b52-hotels-and-lodging"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "In the context of energy management reporting, what calculation is required for both the Electrical & Electronic Equipment and Hotels & Lodging industries, but might yield significantly different results due to the nature of their operations?",
+    "optionA": "Percentage of energy from nuclear sources",
+    "optionB": "Percentage of grid electricity used",
+    "optionC": "Total energy produced on-site",
+    "optionD": "Energy intensity per square foot",
+    "optionE": "Percentage of energy used in manufacturing processes",
+    "answer": "B. Percentage of grid electricity used",
+    "explanation": "Both industries are required to calculate and disclose the percentage of energy consumed that was supplied from grid electricity. However, the results would likely differ significantly. Electrical & Electronic Equipment companies might have a lower percentage due to more on-site energy generation or diverse energy sources for manufacturing, while Hotels & Lodging businesses typically rely heavily on grid electricity for their operations, potentially resulting in a higher percentage.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electrical & Electronic Equipment",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hotels & Lodging"
+    ],
+    "pages": [
+      "523",
+      "539"
+    ],
+    "pairing_explanation": "Energy consumption and efficiency are key sustainability issues in both the manufacture of electrical equipment and the operation of hotels.",
+    "industries": [
+      "b49-electrical-and-electronic-equipment",
+      "b52-hotels-and-lodging"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How does the focus on product-related energy efficiency differ between the Electrical & Electronic Equipment and Hotels & Lodging industries in their IFRS sustainability reporting requirements?",
+    "optionA": "Only Hotels & Lodging reports on product energy efficiency",
+    "optionB": "Both industries have identical product energy efficiency metrics",
+    "optionC": "Electrical & Electronic Equipment reports on product energy efficiency, while Hotels & Lodging focuses on facility efficiency",
+    "optionD": "Neither industry reports on product energy efficiency",
+    "optionE": "Both industries report on energy efficiency, but only for their manufacturing processes",
+    "answer": "C. Electrical & Electronic Equipment reports on product energy efficiency, while Hotels & Lodging focuses on facility efficiency",
+    "explanation": "The Electrical & Electronic Equipment industry has specific metrics related to product energy efficiency, such as 'Percentage of eligible products, by revenue, that meet ENERGY STAR\u00ae criteria' (RT-EE-410a.2) and 'Revenue from renewable energy-related and energy efficiency-related products' (RT-EE-410a.3). In contrast, the Hotels & Lodging industry focuses on the energy efficiency of its facilities, as seen in the energy management metric (SV-HL-130a.1) which relates to total energy consumed by the facilities rather than products.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electrical & Electronic Equipment",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hotels & Lodging"
+    ],
+    "pages": [
+      "525-527",
+      "539-540"
+    ],
+    "pairing_explanation": "Energy consumption and efficiency are key sustainability issues in both the manufacture of electrical equipment and the operation of hotels.",
+    "industries": [
+      "b49-electrical-and-electronic-equipment",
+      "b52-hotels-and-lodging"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing the climate change adaptation metrics for the Electrical & Electronic Equipment and Hotels & Lodging industries, what key difference emerges in their IFRS reporting requirements?",
+    "optionA": "Electrical & Electronic Equipment reports on flood risks, while Hotels & Lodging doesn't",
+    "optionB": "Hotels & Lodging reports on facilities in flood zones, while Electrical & Electronic Equipment doesn't have a specific climate adaptation metric",
+    "optionC": "Both industries report on their carbon offsetting strategies",
+    "optionD": "Electrical & Electronic Equipment focuses on supply chain climate risks, while Hotels & Lodging focuses on physical asset risks",
+    "optionE": "Neither industry has specific climate change adaptation metrics",
+    "answer": "B. Hotels & Lodging reports on facilities in flood zones, while Electrical & Electronic Equipment doesn't have a specific climate adaptation metric",
+    "explanation": "The Hotels & Lodging industry has a specific climate change adaptation metric: 'Number of lodging facilities located in 100-year flood zones' (SV-HL-450a.1). This reflects the industry's concern with physical climate risks to their properties. In contrast, the Electrical & Electronic Equipment industry doesn't have a comparable specific metric for climate change adaptation in the provided standards. This difference highlights the varied ways climate change can impact different industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electrical & Electronic Equipment",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hotels & Lodging"
+    ],
+    "pages": [
+      "522-527",
+      "543"
+    ],
+    "pairing_explanation": "Energy consumption and efficiency are key sustainability issues in both the manufacture of electrical equipment and the operation of hotels.",
+    "industries": [
+      "b49-electrical-and-electronic-equipment",
+      "b52-hotels-and-lodging"
+    ]
+  }
+]

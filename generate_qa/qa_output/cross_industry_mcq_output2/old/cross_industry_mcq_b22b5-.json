@@ -1,0 +1,145 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "According to IFRS standards, which of the following is a required disclosure for Food Retailers & Distributors but not for Household & Personal Products companies?",
+    "optionA": "Total water withdrawn and consumed",
+    "optionB": "Gross global Scope 1 emissions from refrigerants",
+    "optionC": "Revenue from products certified to sustainability standards",
+    "optionD": "Percentage of palm oil sourced that is RSPO certified",
+    "optionE": "Description of water management risks",
+    "answer": "B. Gross global Scope 1 emissions from refrigerants",
+    "explanation": "Food Retailers & Distributors are required to disclose gross global Scope 1 emissions from refrigerants (FB-FR-110b.1), while this is not a specific requirement for Household & Personal Products companies. Both industries have water-related disclosures, but they differ in specifics. Both also have supply chain-related disclosures, but Food Retailers focus on certified products generally, while Household & Personal Products specifically mention palm oil certification.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products"
+    ],
+    "pages": [
+      "214",
+      "33"
+    ],
+    "pairing_explanation": "Both industries deal heavily with product lifecycle sustainability, waste management, and packaging, offering useful comparative insights.",
+    "industries": [
+      "b22-food-retailers-and-distributors",
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "Which of the following disclosures is required for Household & Personal Products companies but not for Food Retailers & Distributors under IFRS standards?",
+    "optionA": "Fleet fuel consumed and percentage renewable",
+    "optionB": "Operational energy consumed and percentage renewable",
+    "optionC": "Amount of palm oil sourced and percentage RSPO certified",
+    "optionD": "Revenue from cage-free eggs and gestation crate-free pork",
+    "optionE": "Discussion of strategies to reduce packaging environmental impact",
+    "answer": "C. Amount of palm oil sourced and percentage RSPO certified",
+    "explanation": "Household & Personal Products companies are required to disclose the amount of palm oil sourced and the percentage certified through RSPO supply chains (CG-HP-430a.1). This is not a specific requirement for Food Retailers & Distributors. Both industries have energy consumption and packaging-related disclosures, but they differ in specifics. Food Retailers have unique disclosures related to animal welfare that are not applicable to Household & Personal Products.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors"
+    ],
+    "pages": [
+      "38",
+      "223"
+    ],
+    "pairing_explanation": "Both industries deal heavily with product lifecycle sustainability, waste management, and packaging, offering useful comparative insights.",
+    "industries": [
+      "b22-food-retailers-and-distributors",
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of renewable energy consumed for both Food Retailers & Distributors and Household & Personal Products industries, which of the following is NOT included in the scope of renewable energy?",
+    "optionA": "Renewable fuel consumed by the entity",
+    "optionB": "Renewable energy directly produced by the entity",
+    "optionC": "Renewable energy purchased through a PPA with explicit RECs",
+    "optionD": "Green-e Energy Certified utility program purchases",
+    "optionE": "The renewable portion of the electricity grid mix outside the entity's control",
+    "answer": "E. The renewable portion of the electricity grid mix outside the entity's control",
+    "explanation": "For both industries, the calculation of renewable energy percentage excludes the renewable portion of the electricity grid mix that is outside of the control or influence of the entity. The scope includes renewable fuel consumed, renewable energy directly produced, and renewable energy purchased through specific agreements or certified programs that explicitly include RECs or GOs.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products"
+    ],
+    "pages": [
+      "221",
+      "34"
+    ],
+    "pairing_explanation": "Both industries deal heavily with product lifecycle sustainability, waste management, and packaging, offering useful comparative insights.",
+    "industries": [
+      "b22-food-retailers-and-distributors",
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "In calculating water-related metrics for Household & Personal Products companies, which of the following is NOT considered a water source according to IFRS standards?",
+    "optionA": "Surface water (including from wetlands, rivers, lakes, and oceans)",
+    "optionB": "Groundwater",
+    "optionC": "Rainwater collected directly and stored by the entity",
+    "optionD": "Wastewater obtained from other entities",
+    "optionE": "Desalinated seawater",
+    "answer": "E. Desalinated seawater",
+    "explanation": "According to the IFRS standards for Household & Personal Products, water sources include surface water (including water from wetlands, rivers, lakes, and oceans), groundwater, rainwater collected directly and stored by the entity, and water and wastewater obtained from municipal water supplies, water utilities, or other entities. Desalinated seawater is not specifically mentioned as a water source in this context.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products"
+    ],
+    "pages": [
+      "34"
+    ],
+    "pairing_explanation": "Both industries deal heavily with product lifecycle sustainability, waste management, and packaging, offering useful comparative insights.",
+    "industries": [
+      "b22-food-retailers-and-distributors",
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the IFRS sustainability reporting requirements for supply chain management differ between Food Retailers & Distributors and Household & Personal Products industries?",
+    "optionA": "Only Food Retailers & Distributors must disclose animal welfare standards",
+    "optionB": "Only Household & Personal Products must discuss environmental and social risks in the supply chain",
+    "optionC": "Food Retailers focus on certified products, while Household & Personal Products focus on palm oil certification",
+    "optionD": "Household & Personal Products have no supply chain-related disclosures",
+    "optionE": "Both industries have identical supply chain management disclosure requirements",
+    "answer": "C. Food Retailers focus on certified products, while Household & Personal Products focus on palm oil certification",
+    "explanation": "The supply chain management disclosure requirements differ between the two industries. Food Retailers & Distributors are required to disclose revenue from products certified to environmental or social sustainability sourcing standards (FB-FR-430a.1) and discuss strategies to manage environmental and social risks in the supply chain, including animal welfare (FB-FR-430a.3). In contrast, Household & Personal Products companies must disclose the amount of palm oil sourced and the percentage certified through RSPO supply chains (CG-HP-430a.1). While both industries address supply chain sustainability, they focus on different aspects relevant to their specific products and operations.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products"
+    ],
+    "pages": [
+      "223",
+      "38"
+    ],
+    "pairing_explanation": "Both industries deal heavily with product lifecycle sustainability, waste management, and packaging, offering useful comparative insights.",
+    "industries": [
+      "b22-food-retailers-and-distributors",
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "Which of the following statements accurately compares the energy management reporting requirements for Food Retailers & Distributors and Household & Personal Products industries under IFRS standards?",
+    "optionA": "Only Food Retailers & Distributors must report on fleet fuel consumption",
+    "optionB": "Household & Personal Products have more detailed energy consumption metrics",
+    "optionC": "Food Retailers & Distributors do not need to report on renewable energy use",
+    "optionD": "Both industries have identical energy management reporting requirements",
+    "optionE": "Only Household & Personal Products must discuss energy management strategies",
+    "answer": "A. Only Food Retailers & Distributors must report on fleet fuel consumption",
+    "explanation": "While both industries have energy management reporting requirements, they differ in some aspects. Food Retailers & Distributors must report on fleet fuel consumed and the percentage of renewable fuel (FB-FR-110a.1), which is not a requirement for Household & Personal Products. Both industries must disclose operational energy consumed, percentage grid electricity, and percentage renewable (FB-FR-130a.1 for Food Retailers & Distributors, CG-HP-130a.1 for Household & Personal Products). The level of detail and discussion of energy management strategies is similar for both industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products"
+    ],
+    "pages": [
+      "216",
+      "221",
+      "34"
+    ],
+    "pairing_explanation": "Both industries deal heavily with product lifecycle sustainability, waste management, and packaging, offering useful comparative insights.",
+    "industries": [
+      "b22-food-retailers-and-distributors",
+      "b5-household-and-personal-products"
+    ]
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How does water management in the Household & Personal Products industry differ from the Processed Foods industry in terms of regulatory compliance?",
+    "optionA": "Only Household & Personal Products companies face water-related regulatory compliance issues",
+    "optionB": "Only Processed Foods companies are required to disclose incidents of non-compliance with water regulations",
+    "optionC": "Both industries have similar water management regulatory requirements",
+    "optionD": "Processed Foods companies must report specific incidents of non-compliance, while Household & Personal Products companies only report general water management strategies",
+    "optionE": "Neither industry has significant water-related regulatory compliance requirements",
+    "answer": "D: Processed Foods companies must report specific incidents of non-compliance, while Household & Personal Products companies only report general water management strategies",
+    "explanation": "The Processed Foods industry has a specific metric (FB-PF-140a.2) requiring disclosure of the number of incidents of non-compliance associated with water quantity and/or quality permits, standards, and regulations. In contrast, the Household & Personal Products industry's water management metric (CG-HP-140a.2) focuses on describing water management risks and strategies to mitigate those risks, without specific requirements for reporting non-compliance incidents.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods"
+    ],
+    "pages": [
+      "34-37",
+      "261-264"
+    ],
+    "pairing_explanation": "Household and personal products, like processed foods, involve complex supply chains, with sustainability metrics focused on waste, resource use, and packaging.",
+    "industries": [
+      "b5-household-and-personal-products",
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Metric Comparison",
+    "question": "Which of the following is a key difference in the water management metrics between the Household & Personal Products and Processed Foods industries?",
+    "optionA": "Only Household & Personal Products companies report on water consumption",
+    "optionB": "Only Processed Foods companies report on water stress levels",
+    "optionC": "Processed Foods companies must report on non-compliance incidents, while Household & Personal Products companies do not have this requirement",
+    "optionD": "Household & Personal Products companies report on wastewater discharge, while Processed Foods companies do not",
+    "optionE": "There are no significant differences in water management metrics between the two industries",
+    "answer": "C: Processed Foods companies must report on non-compliance incidents, while Household & Personal Products companies do not have this requirement",
+    "explanation": "The Processed Foods industry has a specific metric (FB-PF-140a.2) requiring disclosure of the number of incidents of non-compliance associated with water quantity and/or quality permits, standards, and regulations. This requirement is not present in the Household & Personal Products industry metrics, which focus more on general water management strategies and risks.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods"
+    ],
+    "pages": [
+      "34-37",
+      "261-264"
+    ],
+    "pairing_explanation": "Household and personal products, like processed foods, involve complex supply chains, with sustainability metrics focused on waste, resource use, and packaging.",
+    "industries": [
+      "b5-household-and-personal-products",
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the Household & Personal Products and Processed Foods industries differ in their approach to sourcing certified ingredients?",
+    "optionA": "Only Household & Personal Products companies source certified ingredients",
+    "optionB": "Processed Foods companies focus on a wider range of certifications, while Household & Personal Products companies primarily focus on palm oil certification",
+    "optionC": "Household & Personal Products companies use cost-based metrics for certification, while Processed Foods companies use volume-based metrics",
+    "optionD": "Only Processed Foods companies are required to disclose percentages of certified ingredients",
+    "optionE": "Neither industry has specific requirements for sourcing certified ingredients",
+    "answer": "B: Processed Foods companies focus on a wider range of certifications, while Household & Personal Products companies primarily focus on palm oil certification",
+    "explanation": "The Household & Personal Products industry specifically focuses on palm oil certification through the Roundtable on Sustainable Palm Oil (RSPO) supply chains (CG-HP-430a.1). In contrast, the Processed Foods industry has a broader metric (FB-PF-430a.1) that covers various third-party environmental and social standards for food ingredients, including but not limited to Bonsucro, Fairtrade International, RSPO, Rainforest Alliance, and USDA Organic.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods"
+    ],
+    "pages": [
+      "38",
+      "265-266"
+    ],
+    "pairing_explanation": "Household and personal products, like processed foods, involve complex supply chains, with sustainability metrics focused on waste, resource use, and packaging.",
+    "industries": [
+      "b5-household-and-personal-products",
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Metric Comparison",
+    "question": "What is a key difference in energy management metrics between the Household & Personal Products and Processed Foods industries?",
+    "optionA": "Only Household & Personal Products companies report on total energy consumed",
+    "optionB": "Only Processed Foods companies report on renewable energy usage",
+    "optionC": "Household & Personal Products companies report on grid electricity percentage, while Processed Foods companies do not",
+    "optionD": "Processed Foods companies report on energy intensity, while Household & Personal Products companies do not",
+    "optionE": "There are no significant differences in energy management metrics between the two industries",
+    "answer": "E: There are no significant differences in energy management metrics between the two industries",
+    "explanation": "Both the Household & Personal Products industry (CG-HP-130a.1) and the Processed Foods industry (FB-PF-130a.1) have very similar energy management metrics. They both require reporting on (1) total energy consumed, (2) percentage grid electricity, and (3) percentage renewable energy. The metrics are essentially identical for both industries, reflecting the importance of energy management across these manufacturing sectors.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods"
+    ],
+    "pages": [
+      "259-260",
+      "259"
+    ],
+    "pairing_explanation": "Household and personal products, like processed foods, involve complex supply chains, with sustainability metrics focused on waste, resource use, and packaging.",
+    "industries": [
+      "b5-household-and-personal-products",
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Trend Identification",
+    "question": "What common trend in supply chain management is evident in both the Household & Personal Products and Processed Foods industries?",
+    "optionA": "Increasing focus on vertical integration",
+    "optionB": "Shift towards local sourcing of all ingredients",
+    "optionC": "Growing emphasis on third-party certifications for environmental and social standards",
+    "optionD": "Mandatory implementation of blockchain technology for traceability",
+    "optionE": "Elimination of all international suppliers",
+    "answer": "C: Growing emphasis on third-party certifications for environmental and social standards",
+    "explanation": "Both industries show a clear trend towards emphasizing third-party certifications for environmental and social standards in their supply chains. The Household & Personal Products industry focuses on palm oil certification through RSPO (CG-HP-430a.1), while the Processed Foods industry has a broader metric (FB-PF-430a.1) covering various third-party environmental and social standards for food ingredients. This trend reflects the increasing importance of sustainable and responsible sourcing practices in both industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods"
+    ],
+    "pages": [
+      "38",
+      "265-266"
+    ],
+    "pairing_explanation": "Household and personal products, like processed foods, involve complex supply chains, with sustainability metrics focused on waste, resource use, and packaging.",
+    "industries": [
+      "b5-household-and-personal-products",
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Trend Identification",
+    "question": "What emerging trend related to water management is common to both the Household & Personal Products and Processed Foods industries?",
+    "optionA": "Exclusive use of recycled water in all operations",
+    "optionB": "Increasing focus on water stress and scarcity in sourcing and operations",
+    "optionC": "Mandatory implementation of zero liquid discharge systems",
+    "optionD": "Complete elimination of water use in product formulations",
+    "optionE": "Shift towards using only rainwater for all water needs",
+    "answer": "B: Increasing focus on water stress and scarcity in sourcing and operations",
+    "explanation": "Both industries show a growing emphasis on water stress and scarcity in their sourcing and operations. The Household & Personal Products industry requires reporting on water withdrawn and consumed in regions with High or Extremely High Baseline Water Stress (CG-HP-140a.1). Similarly, the Processed Foods industry not only requires reporting on water stress for direct operations (FB-PF-140a.1) but also extends this to ingredient sourcing (FB-PF-440a.1), asking for the percentage of food ingredients sourced from regions with High or Extremely High Baseline Water Stress. This trend reflects the increasing importance of water management and the recognition of water scarcity as a critical issue in both industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods"
+    ],
+    "pages": [
+      "34-37",
+      "261-264",
+      "268-269"
+    ],
+    "pairing_explanation": "Household and personal products, like processed foods, involve complex supply chains, with sustainability metrics focused on waste, resource use, and packaging.",
+    "industries": [
+      "b5-household-and-personal-products",
+      "b25-processed-foods"
+    ]
+  }
+]

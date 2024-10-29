@@ -1,0 +1,158 @@
+{
+  "Local": {
+    "single_hop": [
+      "What does the IFRS require companies to disclose regarding xxx for the xxx industry?",
+      "Describe the calculation method for the xxx metric for the xxx industry.",
+      "How should I report xxx for the xxx industry?",
+      "How should I calculate xxx for the xxx industry?",
+      "What are some examples of xxx? for the xxx industry?",
+      "What targets do I need to discuss for xxx for the xxx industry?",
+      "What are the factor(s) that the company should describe in its approach and strategy to xxx, according to the xxx metrics for the xxx industry?",
+      "On what page can I find details about xxx for the xxx industry?",
+      "Can you provide for me the unit of measure I should use for the xxx metric in the xxx industry?",
+      "Can you provide for me the unit of measure I should use for the xxx metric in the xxx industry (as listed in the relevant table)?",
+      "What is the category of xxx metric in the xxx industry?",
+      "What is the category of xxx metric in the xxx industry (as listed in the relevant table)?",
+      "What is the code of xxx metric in the xxx industry?",
+      "What is the code of xxx metric in the xxx industry (as listed in the relevant table)?",
+      "Can you tell me what topics are covered in the xxx section of the xxx document?",
+      "For the listed xxx requirement, what does a company in the xxx industry need to do?",
+      "For the listed xxx requirement, what metric should a company in the xxx industry use for xxx?"
+    ],
+    "multi_hop": [
+      "Can you provide for me the unit of measure I should use for each of the metrics for 'xxx' topic(s) in the xxx industry?",
+      "What is the category of xxx metric in the xxx industry and how should this metric be calculated?",
+      "What is the code of xxx metric in the xxx industry and how should this metric be calculated?",
+      "Can you tell me if I reported this topic and/or metric correctly for the xxx industry?",
+      "Can you provide he unit of measure (as listed in the relevant table) for all the metrics for xxx topic(s) in the xxx industry?",
+      "Can you provide he unit of measure (as listed in the relevant table) for all the metrics for xxx topic(s) in the xxx industry and how should these metrics be calculated?",
+      "What is the category of xxx metric in the xxx industry and how should this metric be disclosed?",
+      "What is the code of xxx metric in the xxx industry and how should this metric be disclosed??",
+      "Can you tell me what topics are covered in the xxx section of the xxx document and what are the key takeaways I need to know as a company writiny my sustainability report in the xxx industry?",
+      "For the listed xxx requirement, what metric should a company in the xxx industry use for xxx and how should this metric be calculated?",
+      "Are there any specific programs or regulations I need to discuss for the xxx industry? Which ones?"
+    ]
+  },
+  "Cross-industry": {
+    "single_hop": [
+      "What topics should I report on for xxx and xxx (and xxx...) industries?",
+      "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for xxx and xxx (and xxx...) industries.",
+      "Give me all the metrics from Table 1 that are in category 'Quantitative' for xxx and xxx (and xxx...) industries.",
+      "Give me all the metrics that are in category 'Discussion and Analysis' for xxx and xxx (and xxx...) industries.",
+      "Give me all the metrics that are in category 'Quantitative' for xxx and xxx (and xxx...) industries.",
+      "What are the common metrics shared between xxx and xxx (and xxx...) industries, if any?",
+      "List the activity metrics for xxx and xxx (and xxx...) industries.",
+      "Compare the number of quantitative metrics between xxx and xxx (and xxx...) industries.",
+      "Which industry has more 'Quantitative' metrics to disclose in Table 1 between xxx and xxx (and xxx) industries?",
+      "Which industry has more 'Qualitative' metrics to disclose in Table 1 between xxx and xxx (and xxx) industries?"
+    ],
+    "multi_hop": [
+      "Give me the codes for all the 'Quantitative' metrics in Table 1 for xxx and xxx (and xxx...) industries.",
+      "Give me the codes for all the 'Discussion and Analysis' metrics in Table 1 for xxx and xxx (and xxx...) industries.",
+      "Give me the codes for all the 'Quantitative' metrics for xxx and xxx (and xxx...) industries.",
+      "Give me the codes for all the 'Discussion and Analysis' metrics for xxx and xxx (and xxx...) industries.",
+      "What units of measurement are used across xxx and xxx (and xxx...) industries for measuring xxx?",
+      "Are there any common sustainability topics between xxx and xxx (and xxx...) industries? If so, how do their reporting requirements differ?",
+      "When preparing sustainability reports, how do the metrics for measuring xxx differ between the xxx and xxx (and xxx...) industries?",
+      "How does the calculation of xxx-related metrics differ between xxx and xxx (and xxx...) companies?",
+      "When calculating xxx metrics, what is the key difference between xxx and and xxx (and xxx...) companies?",
+      "Analyze the reporting complexity of xxx and xxx (and xxx...) industries by comparing the number of required metrics and the diversity of measurement units used",
+      "Comparing the xxx and xxx (and xxx...) industries, which sustainability topic is more prominently addressed in the xxx industry but not explicitly covered for xxx industry?"
+    ]
+  },
+  "Free_local":{
+    "single_hop":[
+      "What does the IFRS require companies to disclose regarding xxx for the xxx industry?",
+      "Describe the calculation method for the xxx metric for the xxx industry.",
+      "How should I report xxx for the xxx industry?",
+      "How should I calculate xxx for the xxx industry?",
+      "What are some examples of xxx? for the xxx industry?",
+      "What targets do I need to discuss for xxx for the xxx industry?",
+      "Are there any specific programs or regulations I need to discuss for the xxx industry? Which ones?",
+      "What are the factor(s) that the company should describe in its approach and strategy to xxx, according to the xxx metrics for the xxx industry?",
+      "On what page can I find details about xxx for the xxx industry?",
+      "Can you provide for me the unit of measure I should use for the xxx metric in the xxx industry?",
+      "Can you provide for me the unit of measure I should use for the xxx metric in the xxx industry (as listed in the relevant table)?",
+      "What is the category of xxx metric in the xxx industry?",
+      "What is the category of xxx metric in the xxx industry (as listed in the relevant table)?",
+      "What is the code of xxx metric in the xxx industry?",
+      "What is the code of xxx metric in the xxx industry (as listed in the relevant table)?",
+      "Can you tell me what topics are covered in the xxx section of the xxx document?",
+      "For the listed xxx requirement, what does a company in the xxx industry need to do?",
+      "For the listed xxx requirement, what metric should a company in the xxx industry use for xxx?"
+    ],
+    "multi_hop":[
+      "Compare and contrast the reporting requirements for xxx and xxx topics in the xxx industry.",
+      "Analyze the reporting complexity of xxx and xxx (and xxx...) industries by comparing the number of required metrics.",  
+      "If I have xxx, how should I report it?",
+      "What do I need to discuss or disclose for xxx topic?",
+      "Can you provide for me the unit of measure I should use for each of the metrics for 'xxx' topic(s) in the xxx industry?",
+      "What is the category of xxx metric in the xxx industry and how should this metric be calculated?",
+      "What is the code of xxx metric in the xxx industry and how should this metric be calculated?",
+      "Can you tell me if I reported this topic and/or metric correctly for the xxx industry?",
+      "Can you provide he unit of measure (as listed in the relevant table) for all the metrics for xxx topic(s) in the xxx industry?",
+      "Can you provide he unit of measure (as listed in the relevant table) for all the metrics for xxx topic(s) in the xxx industry and how should these metrics be calculated?",
+      "What is the category of xxx metric in the xxx industry and how should this metric be disclosed?",
+      "What is the code of xxx metric in the xxx industry and how should this metric be disclosed??",
+      "Can you tell me what topics are covered in the xxx section of the xxx document and what are the key takeaways I need to know as a company writiny my sustainability report in the xxx industry?",
+      "For the listed xxx requirement, what metric should a company in the xxx industry use for xxx and how should this metric be calculated?"
+    ]
+  },
+  "Free_cross-industry":{
+    "single_hop": [
+      "What topics should I report on for xxx and xxx (and xxx...) industries?",
+      "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for xxx and xxx (and xxx...) industries.",
+      "Give me all the metrics from Table 1 that are in category 'Quantitative' for xxx and xxx (and xxx...) industries.",
+      "Give me all the metrics that are in category 'Discussion and Analysis' for xxx and xxx (and xxx...) industries.",
+      "Give me all the metrics that are in category 'Quantitative' for xxx and xxx (and xxx...) industries.",
+      "What are the common metrics shared between xxx and xxx (and xxx...) industries, if any?",
+      "List the activity metrics for xxx and xxx (and xxx...) industries.",
+      "Compare the number of quantitative metrics between xxx and xxx (and xxx...) industries.",
+      "Which industry has more 'Quantitative' metrics to disclose in Table 1 between xxx and xxx (and xxx) industries?",
+      "Which industry has more 'Qualitative' metrics to disclose in Table 1 between xxx and xxx (and xxx) industries?"
+    ],
+    "multi_hop": [
+      "Give me the codes for all the 'Quantitative' metrics in Table 1 for xxx and xxx (and xxx...) industries.",
+      "Give me the codes for all the 'Discussion and Analysis' metrics in Table 1 for xxx and xxx (and xxx...) industries.",
+      "Give me the codes for all the 'Quantitative' metrics for xxx and xxx (and xxx...) industries.",
+      "Give me the codes for all the 'Discussion and Analysis' metrics for xxx and xxx (and xxx...) industries.",
+      "What units of measurement are used across xxx and xxx (and xxx...) industries for measuring xxx?",
+      "Are there any common sustainability topics between xxx and xxx (and xxx...) industries? If so, how do their reporting requirements differ?",
+      "When preparing sustainability reports, how do the metrics for measuring xxx differ between the xxx and xxx (and xxx...) industries?",
+      "How does the calculation of xxx-related metrics differ between xxx and xxx (and xxx...) companies?",
+      "When calculating xxx metrics, what is the key difference between xxx and and xxx (and xxx...) companies?",
+      "Analyze the reporting complexity of xxx and xxx (and xxx...) industries by comparing the number of required metrics and the diversity of measurement units used",
+      "Comparing the xxx and xxx (and xxx...) industries, which sustainability topic is more prominently addressed in the xxx industry but not explicitly covered for xxx industry?"
+    ]
+  },
+  "Global": {
+    "single_hop": [
+      "Can you please provide for me the xxx of this document?",
+      "What industry is my company in?"
+    ],
+    "multi_hop": [
+      "Give me the activity metrics for industries related to transportation.",
+      "Give me the metrics for industries related to xxx.",
+      "Give me the topics for industries related to xxx.",
+      "Which of the industries in the xxx category has the most metrics in Table 1?",
+      "Which of the industries in the xxx category has the most metrics in Table 1 and what are the metrics?",
+      "Give me the top three industries with the most Metrics in Table 1 and how many metrics they have.",
+      "Give me the top three industries with the most Metrics in Table 1, how many metrics they have, and what the metrics are.",
+      "Can you provide the three key takeaways for the xxx section?",
+      "What are the key sustainability topics I should be reporting on?",
+      "My company does xxx. What are the key sustainability topics I should be reporting on?",
+      "My company does xxx. What are the key activity metrics I should be reporting on?",
+      "What industry is my company in and what are the key activity metrics I should be reporting on?",
+      "What industry is my company in and what are the key sustainability topics I should be reporting on and how should I calculate these metrics?",
+      "What should I disclose for the xxx topic?"
+    ]
+  },
+  "Free_global":{
+    "single_hop":[
+
+    ],
+    "multi_hop":[
+
+    ]
+  }
+}

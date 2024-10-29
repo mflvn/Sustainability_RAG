@@ -1,0 +1,154 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "According to IFRS standards, which of the following metrics is required to be reported by both Electric Utilities & Power Generators and Gas Utilities & Distributors industries?",
+    "optionA": "Total electricity delivered to customers",
+    "optionB": "Number of nuclear power units",
+    "optionC": "Customer electricity savings from efficiency measures",
+    "optionD": "Number of incidents of non-compliance with water quantity and/or quality permits",
+    "optionE": "Number of: (1) residential, (2) commercial, and (3) industrial customers served",
+    "answer": "E. Number of: (1) residential, (2) commercial, and (3) industrial customers served",
+    "explanation": "Both Electric Utilities & Power Generators (IF-EU-000.A) and Gas Utilities & Distributors (IF-GU-000.A) are required to report the number of residential, commercial, and industrial customers served as an activity metric. This metric is common to both industries as it provides insight into the scale and customer base of the utilities.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors"
+    ],
+    "pages": [
+      "299",
+      "336"
+    ],
+    "pairing_explanation": "These infrastructure-focused industries are fundamental to the provision of essential services and have substantial environmental footprints, including emissions, resource use, and waste management.",
+    "industries": [
+      "b32-electric-utilities-and-power-generators",
+      "b34-gas-utilities-and-distributors",
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When reporting on greenhouse gas emissions, which of the following is a key difference in the disclosure requirements for Electric Utilities & Power Generators compared to Waste Management companies?",
+    "optionA": "Electric Utilities must report Scope 1 emissions, while Waste Management companies do not",
+    "optionB": "Waste Management companies must report landfill gas emissions, while Electric Utilities do not",
+    "optionC": "Electric Utilities must report emissions associated with power deliveries, while Waste Management companies report total landfill gas generated",
+    "optionD": "Waste Management companies must report fleet fuel consumption, while Electric Utilities do not",
+    "optionE": "Electric Utilities must report nuclear safety metrics, while Waste Management companies do not",
+    "answer": "C. Electric Utilities must report emissions associated with power deliveries, while Waste Management companies report total landfill gas generated",
+    "explanation": "Electric Utilities & Power Generators are required to report greenhouse gas emissions associated with power deliveries (IF-EU-110a.2), which is specific to their industry. In contrast, Waste Management companies must report total landfill gas generated (IF-WM-110a.2), which is a key emission source for their industry. This difference reflects the distinct operational focuses and environmental impacts of these two industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Waste Management"
+    ],
+    "pages": [
+      "302",
+      "401"
+    ],
+    "pairing_explanation": "These infrastructure-focused industries are fundamental to the provision of essential services and have substantial environmental footprints, including emissions, resource use, and waste management.",
+    "industries": [
+      "b32-electric-utilities-and-power-generators",
+      "b34-gas-utilities-and-distributors",
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating customer energy savings for sustainability reporting, what is a key difference between Electric Utilities & Power Generators and Gas Utilities & Distributors?",
+    "optionA": "Electric Utilities report in kWh, while Gas Utilities report in MMBtu",
+    "optionB": "Electric Utilities include industrial customers, while Gas Utilities exclude them",
+    "optionC": "Gas Utilities report net savings, while Electric Utilities report gross savings",
+    "optionD": "Electric Utilities report by market, while Gas Utilities report a total figure",
+    "optionE": "Gas Utilities include savings from efficiency credits, while Electric Utilities do not",
+    "answer": "A. Electric Utilities report in kWh, while Gas Utilities report in MMBtu",
+    "explanation": "A key difference in calculating customer energy savings is the unit of measurement. Electric Utilities & Power Generators report customer electricity savings in megawatt hours (MWh) (IF-EU-420a.3), while Gas Utilities & Distributors report customer gas savings in million British thermal units (MMBtu) (IF-GU-420a.2). This difference reflects the different forms of energy delivered by these utilities and ensures that the reported savings are relevant to their specific operations.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors"
+    ],
+    "pages": [
+      "312",
+      "337"
+    ],
+    "pairing_explanation": "These infrastructure-focused industries are fundamental to the provision of essential services and have substantial environmental footprints, including emissions, resource use, and waste management.",
+    "industries": [
+      "b32-electric-utilities-and-power-generators",
+      "b34-gas-utilities-and-distributors",
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When reporting on infrastructure integrity, how does the metric for Gas Utilities & Distributors differ from that of Electric Utilities & Power Generators?",
+    "optionA": "Gas Utilities report on pipeline incidents, while Electric Utilities report on power outages",
+    "optionB": "Electric Utilities report on transmission line length, while Gas Utilities do not report on pipeline length",
+    "optionC": "Gas Utilities report on pipeline materials, while Electric Utilities report on grid technology",
+    "optionD": "Electric Utilities report on cybersecurity incidents, while Gas Utilities do not",
+    "optionE": "Gas Utilities report on pipeline age, while Electric Utilities report on power plant age",
+    "answer": "C. Gas Utilities report on pipeline materials, while Electric Utilities report on grid technology",
+    "explanation": "When reporting on infrastructure integrity, Gas Utilities & Distributors are required to disclose the percentage of distribution pipeline that is cast and/or wrought iron and unprotected steel (IF-GU-540a.2), which focuses on pipeline materials. In contrast, Electric Utilities & Power Generators report on the percentage of electric load served by smart grid technology (IF-EU-420a.2), which focuses on grid technology. This difference reflects the distinct infrastructure concerns and modernization efforts in these two industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors"
+    ],
+    "pages": [
+      "311",
+      "342"
+    ],
+    "pairing_explanation": "These infrastructure-focused industries are fundamental to the provision of essential services and have substantial environmental footprints, including emissions, resource use, and waste management.",
+    "industries": [
+      "b32-electric-utilities-and-power-generators",
+      "b34-gas-utilities-and-distributors",
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How does the approach to reporting on emissions reduction strategies differ between Electric Utilities & Power Generators and Waste Management companies?",
+    "optionA": "Electric Utilities focus on renewable energy, while Waste Management focuses on recycling",
+    "optionB": "Waste Management includes lifecycle emissions, while Electric Utilities only consider Scope 1 emissions",
+    "optionC": "Electric Utilities report on nuclear safety, while Waste Management reports on landfill safety",
+    "optionD": "Waste Management focuses on fleet emissions, while Electric Utilities focus on power plant emissions",
+    "optionE": "Electric Utilities report on water management, while Waste Management does not consider water usage",
+    "answer": "B. Waste Management includes lifecycle emissions, while Electric Utilities only consider Scope 1 emissions",
+    "explanation": "The approach to reporting on emissions reduction strategies differs significantly between these industries. Waste Management companies are required to discuss how lifecycle GHG emissions factor into their management of Scope 1 emissions and overall business strategy (IF-WM-110a.3). This includes considering trade-offs between lifecycle and Scope 1 emissions. In contrast, Electric Utilities & Power Generators are primarily focused on discussing their strategy to manage Scope 1 emissions (IF-EU-110a.3), without an explicit requirement to consider lifecycle emissions. This difference reflects the broader environmental impact considerations in the Waste Management industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Waste Management"
+    ],
+    "pages": [
+      "303",
+      "402"
+    ],
+    "pairing_explanation": "These infrastructure-focused industries are fundamental to the provision of essential services and have substantial environmental footprints, including emissions, resource use, and waste management.",
+    "industries": [
+      "b32-electric-utilities-and-power-generators",
+      "b34-gas-utilities-and-distributors",
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing the sustainability reporting requirements for Electric Utilities & Power Generators, Gas Utilities & Distributors, and Waste Management industries, which of the following statements is true?",
+    "optionA": "Only Electric Utilities are required to report on water management",
+    "optionB": "All three industries must report on fleet fuel management",
+    "optionC": "Only Waste Management companies must report on greenhouse gas emissions",
+    "optionD": "Gas Utilities have the most extensive requirements for reporting on infrastructure integrity",
+    "optionE": "All three industries have specific metrics related to customer energy efficiency",
+    "answer": "E. All three industries have specific metrics related to customer energy efficiency",
+    "explanation": "All three industries have specific metrics related to customer energy efficiency in their sustainability reporting requirements. Electric Utilities & Power Generators report on customer electricity savings from efficiency measures (IF-EU-420a.3), Gas Utilities & Distributors report on customer gas savings from efficiency measures (IF-GU-420a.2), and Waste Management companies discuss strategies to manage lifecycle emissions, which can include customer efficiency (IF-WM-110a.3). This commonality reflects the importance of end-use efficiency across these infrastructure-focused industries in addressing environmental impacts.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Waste Management"
+    ],
+    "pages": [
+      "312",
+      "337",
+      "402"
+    ],
+    "pairing_explanation": "These infrastructure-focused industries are fundamental to the provision of essential services and have substantial environmental footprints, including emissions, resource use, and waste management.",
+    "industries": [
+      "b32-electric-utilities-and-power-generators",
+      "b34-gas-utilities-and-distributors",
+      "b38-waste-management"
+    ]
+  }
+]

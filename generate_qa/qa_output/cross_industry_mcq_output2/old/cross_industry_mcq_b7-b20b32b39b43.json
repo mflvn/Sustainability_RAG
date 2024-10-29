@@ -1,0 +1,164 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "According to IFRS S2 Climate-related Disclosures, which of the following is required to be disclosed by both Electric Utilities & Power Generators and Water Utilities & Services industries regarding their greenhouse gas emissions?",
+    "optionA": "Scope 1 emissions only",
+    "optionB": "Scope 1 and Scope 2 emissions",
+    "optionC": "Scope 1, 2, and 3 emissions",
+    "optionD": "Emissions associated with power deliveries",
+    "optionE": "Emissions from wastewater treatment",
+    "answer": "A. Scope 1 emissions only",
+    "explanation": "Both Electric Utilities & Power Generators (IF-EU-110a.1) and Water Utilities & Services (through energy management disclosure IF-WU-130a.1) are required to disclose Scope 1 emissions according to IFRS S2 Climate-related Disclosures. While other emissions may be relevant, only Scope 1 is explicitly required for both industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Water Utilities & Services"
+    ],
+    "pages": [
+      "290",
+      "407"
+    ],
+    "pairing_explanation": "These industries are major resource consumers and have significant environmental footprints. Comparing their sustainability practices can highlight best practices and areas for improvement in resource management and environmental stewardship.",
+    "industries": [
+      "b7-coal-operations",
+      "b20-agricultural-products",
+      "b32-electric-utilities-and-power-generators",
+      "b39-water-utilities-and-services",
+      "b43-pulp-and-paper-products"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When disclosing water management strategies, which of the following is required to be addressed by both Pulp & Paper Products and Water Utilities & Services industries?",
+    "optionA": "Water recycling techniques",
+    "optionB": "Wastewater treatment methods",
+    "optionC": "Risks associated with water withdrawals and consumption",
+    "optionD": "Water rights and permits",
+    "optionE": "Stormwater management practices",
+    "answer": "C. Risks associated with water withdrawals and consumption",
+    "explanation": "Both Pulp & Paper Products (RR-PP-140a.2) and Water Utilities & Services (IF-WU-140a.3) are required to disclose risks associated with water withdrawals and consumption as part of their water management strategy discussions. This includes environmental constraints, regulatory risks, and potential impacts on operations.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Pulp & Paper Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Water Utilities & Services"
+    ],
+    "pages": [
+      "463",
+      "419"
+    ],
+    "pairing_explanation": "These industries are major resource consumers and have significant environmental footprints. Comparing their sustainability practices can highlight best practices and areas for improvement in resource management and environmental stewardship.",
+    "industries": [
+      "b7-coal-operations",
+      "b20-agricultural-products",
+      "b32-electric-utilities-and-power-generators",
+      "b39-water-utilities-and-services",
+      "b43-pulp-and-paper-products"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of energy consumed from renewable sources, which of the following is considered for both Electric Utilities & Power Generators and Pulp & Paper Products industries?",
+    "optionA": "Energy from all biomass sources",
+    "optionB": "Grid electricity with unspecified sources",
+    "optionC": "Energy from fossil fuels with carbon capture",
+    "optionD": "Renewable energy certificates (RECs) that are retained and retired",
+    "optionE": "Nuclear energy",
+    "answer": "D. Renewable energy certificates (RECs) that are retained and retired",
+    "explanation": "Both Electric Utilities & Power Generators (IF-EU-110a.3) and Pulp & Paper Products (RR-PP-130a.1) industries consider renewable energy certificates (RECs) that are retained and retired when calculating the percentage of energy consumed from renewable sources. This ensures that the renewable energy claims are valid and not double-counted.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Pulp & Paper Products"
+    ],
+    "pages": [
+      "304",
+      "460"
+    ],
+    "pairing_explanation": "These industries are major resource consumers and have significant environmental footprints. Comparing their sustainability practices can highlight best practices and areas for improvement in resource management and environmental stewardship.",
+    "industries": [
+      "b7-coal-operations",
+      "b20-agricultural-products",
+      "b32-electric-utilities-and-power-generators",
+      "b39-water-utilities-and-services",
+      "b43-pulp-and-paper-products"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When disclosing water-related metrics, which of the following is required to be calculated and reported by both Water Utilities & Services and Pulp & Paper Products industries?",
+    "optionA": "Total water recycled",
+    "optionB": "Water main replacement rate",
+    "optionC": "Volume of non-revenue water losses",
+    "optionD": "Percentage of water withdrawn from regions with High or Extremely High Baseline Water Stress",
+    "optionE": "Customer water savings from efficiency measures",
+    "answer": "D. Percentage of water withdrawn from regions with High or Extremely High Baseline Water Stress",
+    "explanation": "Both Water Utilities & Services (IF-WU-440a.1) and Pulp & Paper Products (RR-PP-140a.1) industries are required to calculate and report the percentage of water withdrawn from regions with High or Extremely High Baseline Water Stress. This metric helps assess the company's exposure to water scarcity risks and its potential impact on water-stressed regions.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Water Utilities & Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Pulp & Paper Products"
+    ],
+    "pages": [
+      "418",
+      "462"
+    ],
+    "pairing_explanation": "These industries are major resource consumers and have significant environmental footprints. Comparing their sustainability practices can highlight best practices and areas for improvement in resource management and environmental stewardship.",
+    "industries": [
+      "b7-coal-operations",
+      "b20-agricultural-products",
+      "b32-electric-utilities-and-power-generators",
+      "b39-water-utilities-and-services",
+      "b43-pulp-and-paper-products"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing the Electric Utilities & Power Generators and Pulp & Paper Products industries, which sustainability topic is more prominently addressed in the Electric Utilities & Power Generators industry but not explicitly mentioned for Pulp & Paper Products?",
+    "optionA": "Greenhouse Gas Emissions",
+    "optionB": "Water Management",
+    "optionC": "Energy Management",
+    "optionD": "Grid Resiliency",
+    "optionE": "Supply Chain Management",
+    "answer": "D. Grid Resiliency",
+    "explanation": "Grid Resiliency is a prominent sustainability topic for the Electric Utilities & Power Generators industry (IF-EU-550a.1, IF-EU-550a.2) but is not explicitly mentioned as a disclosure topic for the Pulp & Paper Products industry. This reflects the critical importance of maintaining a reliable electricity infrastructure for the Electric Utilities & Power Generators industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Pulp & Paper Products"
+    ],
+    "pages": [
+      "318",
+      "454"
+    ],
+    "pairing_explanation": "These industries are major resource consumers and have significant environmental footprints. Comparing their sustainability practices can highlight best practices and areas for improvement in resource management and environmental stewardship.",
+    "industries": [
+      "b7-coal-operations",
+      "b20-agricultural-products",
+      "b32-electric-utilities-and-power-generators",
+      "b39-water-utilities-and-services",
+      "b43-pulp-and-paper-products"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "Which of the following sustainability topics is uniquely emphasized in the Water Utilities & Services industry compared to the Pulp & Paper Products industry?",
+    "optionA": "Greenhouse Gas Emissions",
+    "optionB": "Energy Management",
+    "optionC": "Water Management",
+    "optionD": "End-Use Efficiency",
+    "optionE": "Supply Chain Management",
+    "answer": "D. End-Use Efficiency",
+    "explanation": "End-Use Efficiency is a sustainability topic uniquely emphasized in the Water Utilities & Services industry (IF-WU-420a.1, IF-WU-420a.2) but not explicitly mentioned for the Pulp & Paper Products industry. This reflects the importance of water conservation and efficient use by customers in the water utility sector.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Water Utilities & Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Pulp & Paper Products"
+    ],
+    "pages": [
+      "414",
+      "454"
+    ],
+    "pairing_explanation": "These industries are major resource consumers and have significant environmental footprints. Comparing their sustainability practices can highlight best practices and areas for improvement in resource management and environmental stewardship.",
+    "industries": [
+      "b7-coal-operations",
+      "b20-agricultural-products",
+      "b32-electric-utilities-and-power-generators",
+      "b39-water-utilities-and-services",
+      "b43-pulp-and-paper-products"
+    ]
+  }
+]

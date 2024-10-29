@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the unit of measure for the 'Total energy consumed' metric in the Restaurants industry?",
+    "type": "free_text",
+    "correct_answer": "B",
+    "model_answer": "Error",
+    "is_correct": false,
+    "industries": []
+  },
+  {
+    "question": "What is the code for the metric 'Percentage of food purchased that meets environmental and social sourcing standards' in the Restaurants industry?",
+    "type": "free_text",
+    "correct_answer": "C",
+    "model_answer": "Error",
+    "is_correct": false,
+    "industries": []
+  },
+  {
+    "question": "On what page can I find details about the 'Water Management' topic for the Restaurants industry?",
+    "type": "free_text",
+    "correct_answer": "D",
+    "model_answer": "Error",
+    "is_correct": false,
+    "industries": []
+  },
+  {
+    "question": "What is the category of the 'Number of employees at company-owned and franchise locations' metric in the Restaurants industry?",
+    "type": "free_text",
+    "correct_answer": "B",
+    "model_answer": "Error",
+    "is_correct": false,
+    "industries": []
+  },
+  {
+    "question": "What is the code of the metric for total energy consumed in the Restaurants industry and how should this metric be calculated?",
+    "type": "free_text",
+    "correct_answer": "A",
+    "model_answer": "Error",
+    "is_correct": false,
+    "industries": []
+  }
+]

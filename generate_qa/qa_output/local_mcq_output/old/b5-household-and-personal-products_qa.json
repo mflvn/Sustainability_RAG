@@ -1,0 +1,362 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the four RSPO supply chain models for certified palm oil?",
+    "optionA": "A) Identity Preserved, Segregated, Mass Balance, and Book & Claim",
+    "optionB": "B) Integrated, Segmented, Mixed Balance, and Credit System",
+    "optionC": "C) Isolated, Separated, Balanced Mass, and Chain of Custody",
+    "optionD": "D) Identified Origin, Single Source, Blended Balance, and Offset Credits",
+    "optionE": "E) Pure Line, Traceable, Volume Credit, and Sustainability Certificates",
+    "answer": "A) Identity Preserved, Segregated, Mass Balance, and Book & Claim",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+    "page": "38",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the industry description, which of the following is NOT mentioned as a product manufactured by companies in the Household & Personal Products industry?",
+    "optionA": "A) Cosmetics",
+    "optionB": "B) Household batteries",
+    "optionC": "C) Sanitary paper products",
+    "optionD": "D) Kitchen utensils",
+    "optionE": "E) Furniture",
+    "answer": "E) Furniture",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+    "page": "33",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "How is water consumption defined in the context of water management metrics?",
+    "optionA": "A) Only water that evaporates during usage",
+    "optionB": "B) Water that is recycled within the same catchment area",
+    "optionC": "C) Water that evaporates during withdrawal, usage, and discharge; is incorporated into products; or doesn't return to the same catchment area",
+    "optionD": "D) Total water withdrawn minus water returned to the source",
+    "optionE": "E) Water used solely for cooling purposes in manufacturing",
+    "answer": "C) Water that evaporates during withdrawal, usage, and discharge; is incorporated into products; or doesn't return to the same catchment area",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+    "page": "34-35",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What tool is specifically mentioned for analyzing water risks and identifying activities in locations with High or Extremely High Baseline Water Stress?",
+    "optionA": "A) United Nations Water Scarcity Index",
+    "optionB": "B) World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "optionC": "C) Global Water Partnership's Vulnerability Assessment",
+    "optionD": "D) OECD Water Risk Indicator",
+    "optionE": "E) FAO's AQUASTAT database",
+    "answer": "B) World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+    "page": "35",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "A company in the Household & Personal Products industry operates in a region with Extremely High Baseline Water Stress. If they withdraw 1000 cubic meters of water and 30% of it evaporates during usage, how much water would be reported as consumed according to the metric CG-HP-140a.1?",
+    "optionA": "300 cubic meters",
+    "optionB": "700 cubic meters",
+    "optionC": "1000 cubic meters",
+    "optionD": "0 cubic meters",
+    "optionE": "1300 cubic meters",
+    "answer": "A: 300 cubic meters",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "34-35",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "If a Household & Personal Products company wants to mitigate water management risks in a water-stressed region, which combination of strategies would be most comprehensive based on the guidance provided?",
+    "optionA": "Reducing water withdrawals and improving product packaging",
+    "optionB": "Increasing water recycling and collaborating with local communities",
+    "optionC": "Redesigning products to require less water and using closed-loop systems",
+    "optionD": "Analyzing water use with tools and improving marketing strategies",
+    "optionE": "Reducing aquatic impingements and expanding to new markets",
+    "answer": "C: Redesigning products to require less water and using closed-loop systems",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "36-37",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "A Household & Personal Products company sources 10,000 metric tons of palm oil annually. If 40% is certified as RSPO Segregated, 30% as RSPO Mass Balance, and the rest is uncertified, what percentage of their total palm oil would be considered RSPO certified according to metric CG-HP-430a.1?",
+    "optionA": "40%",
+    "optionB": "30%",
+    "optionC": "70%",
+    "optionD": "100%",
+    "optionE": "0%",
+    "answer": "C: 70%",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "38",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "Based on the industry description and water management risks, which of the following scenarios would likely pose the highest risk for a Household & Personal Products company?",
+    "optionA": "Operating in a water-abundant region with strict regulatory controls",
+    "optionB": "Manufacturing water-intensive products in a region with Extremely High Baseline Water Stress",
+    "optionC": "Producing low water-use products in an area with moderate water availability",
+    "optionD": "Using recycled water in manufacturing processes in a water-stressed region",
+    "optionE": "Sourcing water from multiple watersheds for a single manufacturing facility",
+    "answer": "B: Manufacturing water-intensive products in a region with Extremely High Baseline Water Stress",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "33-35",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is the Roundtable on Sustainable Palm Oil (RSPO) and how does it relate to the Household & Personal Products industry?",
+    "optionA": "A. It's a certification system for sustainable water management",
+    "optionB": "B. It's a global initiative that sets standards for sustainable palm oil production and provides supply chain certification",
+    "optionC": "C. It's a regulatory body that enforces palm oil usage limits in products",
+    "optionD": "D. It's an industry association for palm oil manufacturers",
+    "optionE": "E. It's a trading platform for buying and selling palm oil futures",
+    "answer": "B. It's a global initiative that sets standards for sustainable palm oil production and provides supply chain certification",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+    "page": "38",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What does 'Identity Preserved' (IP) mean in the context of RSPO-certified palm oil supply chains?",
+    "optionA": "A. Palm oil from different certified sources can be mixed",
+    "optionB": "B. The origin of the palm oil is kept confidential",
+    "optionC": "C. Palm oil is certified but not physically traced",
+    "optionD": "D. Sustainable and non-sustainable palm oil can be mixed",
+    "optionE": "E. Certified palm oil is kept separately from a single identifiable source",
+    "answer": "E. Certified palm oil is kept separately from a single identifiable source",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+    "page": "38",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is meant by 'Baseline Water Stress' in the context of water management risks for the Household & Personal Products industry?",
+    "optionA": "A. The minimum amount of water required for production processes",
+    "optionB": "B. The ratio of total water withdrawals to total renewable water supplies in an area",
+    "optionC": "C. The level of water purification needed for product manufacturing",
+    "optionD": "D. The amount of wastewater generated by a facility",
+    "optionE": "E. The cost of water in water-scarce regions",
+    "answer": "B. The ratio of total water withdrawals to total renewable water supplies in an area",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+    "page": "35",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is the 'Book & Claim' (B&C) model in the context of RSPO-certified palm oil sourcing?",
+    "optionA": "A method where palm oil is physically tracked from the plantation to the end user",
+    "optionB": "A system where sustainable palm oil is mixed with conventional palm oil",
+    "optionC": "A certification process that verifies the origin of palm oil at the plantation level",
+    "optionD": "A model where companies buy RSPO Credits to support sustainable palm oil production, without physically sourcing certified oil",
+    "optionE": "A tracking system that ensures palm oil from different certified sources remains segregated throughout the supply chain",
+    "answer": "D. A model where companies buy RSPO Credits to support sustainable palm oil production, without physically sourcing certified oil",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+    "page": "38",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might the increasing global focus on water scarcity impact the product development strategies of companies in the Household & Personal Products industry?",
+    "optionA": "It may lead to increased production of water-intensive products",
+    "optionB": "It may result in the development of more water-efficient products and manufacturing processes",
+    "optionC": "It may cause companies to relocate all manufacturing to water-rich regions",
+    "optionD": "It may lead to the complete elimination of water-based products",
+    "optionE": "It may result in companies switching entirely to non-water based raw materials",
+    "answer": "B. It may result in the development of more water-efficient products and manufacturing processes",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+    "page": "34-35",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "What potential long-term implications could the industry face if it fails to address the environmental and social impacts of palm oil sourcing?",
+    "optionA": "Increased profitability due to cheaper raw materials",
+    "optionB": "Enhanced brand reputation among environmentally conscious consumers",
+    "optionC": "Regulatory restrictions, supply chain disruptions, and reputational damage",
+    "optionD": "Improved relationships with palm oil suppliers",
+    "optionE": "Decreased demand for palm oil-based products",
+    "answer": "C. Regulatory restrictions, supply chain disruptions, and reputational damage",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+    "page": "38",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might the disclosure requirements for water management risks influence investor perceptions and decision-making regarding companies in this industry?",
+    "optionA": "Investors will likely ignore water management risks entirely",
+    "optionB": "Investors may prioritize companies with comprehensive water management strategies and transparent reporting",
+    "optionC": "Investors will only focus on short-term profitability regardless of water risks",
+    "optionD": "Disclosure requirements will have no impact on investor decision-making",
+    "optionE": "Investors will penalize companies for disclosing water management risks",
+    "answer": "B. Investors may prioritize companies with comprehensive water management strategies and transparent reporting",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+    "page": "35-37",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might the increasing demand for palm oil in the Household & Personal Products industry intersect with global efforts to combat deforestation and climate change?",
+    "optionA": "It has no impact as palm oil production is entirely sustainable",
+    "optionB": "It could lead to increased scrutiny and pressure on companies to adopt more sustainable sourcing practices",
+    "optionC": "It only affects the food industry, not household and personal products",
+    "optionD": "It will likely result in a complete ban on palm oil use in the industry",
+    "optionE": "It will lead to automatic increases in product prices to offset sustainability costs",
+    "answer": "B. It could lead to increased scrutiny and pressure on companies to adopt more sustainable sourcing practices",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+    "page": "38",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What specific water management practice does the IFRS S2 Climate-related Disclosures require companies to report regarding regions with High or Extremely High Baseline Water Stress?",
+    "optionA": "Total water recycled",
+    "optionB": "Water quality measurements",
+    "optionC": "Percentage of water withdrawn and consumed",
+    "optionD": "Number of water treatment facilities",
+    "optionE": "Annual rainfall in operating regions",
+    "answer": "C. Percentage of water withdrawn and consumed",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+    "page": "34-35",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "When disclosing water management targets, what specific information does the IFRS S2 Climate-related Disclosures require companies to provide about the target timeline?",
+    "optionA": "Only the target year",
+    "optionB": "The start year and target year",
+    "optionC": "The start year, target year, and base year",
+    "optionD": "Quarterly milestones",
+    "optionE": "Five-year projections",
+    "answer": "C. The start year, target year, and base year",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+    "page": "36-37",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the IFRS S2 Climate-related Disclosures, what is required when reporting on palm oil sourcing certification?",
+    "optionA": "Only the total amount of palm oil sourced",
+    "optionB": "The percentage certified by any sustainability standard",
+    "optionC": "The amount sourced from each country",
+    "optionD": "The percentage certified through RSPO supply chains, broken down by specific certification types",
+    "optionE": "The number of suppliers providing certified palm oil",
+    "answer": "D. The percentage certified through RSPO supply chains, broken down by specific certification types",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+    "page": "38",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the implementation of water recycling and closed-loop systems impact the overall sustainability and financial performance of companies in the Household & Personal Products industry?",
+    "optionA": "It would only increase costs without providing any benefits",
+    "optionB": "It would improve water efficiency but decrease product quality",
+    "optionC": "It would reduce water consumption and operational costs, potentially improving sustainability performance and long-term financial stability",
+    "optionD": "It would only benefit companies operating in water-stressed regions",
+    "optionE": "It would have no impact on sustainability or financial performance",
+    "answer": "C. It would reduce water consumption and operational costs, potentially improving sustainability performance and long-term financial stability",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+    "page": "36",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the transition to RSPO-certified palm oil affect the supply chain and product pricing strategies of companies in the Household & Personal Products industry?",
+    "optionA": "It would have no effect on supply chains or pricing",
+    "optionB": "It would lead to decreased product quality and lower prices",
+    "optionC": "It would result in higher costs and product prices, but potentially improved brand reputation and market share",
+    "optionD": "It would only affect companies selling luxury personal care products",
+    "optionE": "It would lead to immediate cost savings and lower product prices",
+    "answer": "C. It would result in higher costs and product prices, but potentially improved brand reputation and market share",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+    "page": "38",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the disclosure of palm oil sourcing and RSPO certification impact consumer behavior and brand perception in the Household & Personal Products industry?",
+    "optionA": "Consumers will not be interested in this information",
+    "optionB": "It will only impact a small niche of environmentally conscious consumers",
+    "optionC": "It may lead to increased consumer trust and preference for brands with higher RSPO-certified sourcing percentages",
+    "optionD": "It will negatively impact all brands regardless of their certification levels",
+    "optionE": "It will only impact luxury brands in the industry",
+    "answer": "C. It may lead to increased consumer trust and preference for brands with higher RSPO-certified sourcing percentages",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+    "page": "38",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT listed as a water source in the disclosure requirements for water withdrawal?",
+    "optionA": "Surface water",
+    "optionB": "Groundwater",
+    "optionC": "Rainwater collected directly",
+    "optionD": "Wastewater from other entities",
+    "optionE": "Desalinated seawater",
+    "answer": "E. Desalinated seawater",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+    "page": "34-35",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a required disclosure when discussing strategies to mitigate water management risks?",
+    "optionA": "The scope of the strategy",
+    "optionB": "Water management goals and targets",
+    "optionC": "Activities and investments required",
+    "optionD": "Risks or limiting factors",
+    "optionE": "Competitor benchmarking data",
+    "answer": "E. Competitor benchmarking data",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+    "page": "36",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  }
+]

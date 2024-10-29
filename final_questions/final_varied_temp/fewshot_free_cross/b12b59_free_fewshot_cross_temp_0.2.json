@@ -1,0 +1,76 @@
+[
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Quantitative' for Oil & Gas-Midstream and Telecommunication Services industries.",
+    "answer": "Oil & Gas-Midstream: Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations (Metric tons (t) CO\u2082-e, Percentage (%)) - EM-MD-110a.1\n\nTelecommunication Services: (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable (Gigajoules (GJ), Percentage (%)) - TC-TL-130a.1",
+    "reference_text": [
+      "| Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%) | EM-MD-110a.1 |",
+      "| Environmental Footprint of Operations | (1) Total energy consumed, (2) percent\u00adage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent\u00adage (%) | TC-TL-130a.1 |"
+    ],
+    "pages": [
+      "Page 108",
+      "Page 584"
+    ],
+    "industries": [
+      "b12-oil-and-gas-midstream",
+      "b59-telecommunication-services"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0.2
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Oil & Gas-Midstream and Telecommunication Services industries?",
+    "answer": "Both Oil & Gas-Midstream and Telecommunication Services industries have one 'Quantitative' metric each in Table 1.",
+    "reference_text": [
+      "| Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%) | EM-MD-110a.1 |",
+      "| Environmental Footprint of Operations | (1) Total energy consumed, (2) percent\u00adage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent\u00adage (%) | TC-TL-130a.1 |"
+    ],
+    "pages": [
+      "Page 108",
+      "Page 584"
+    ],
+    "industries": [
+      "b12-oil-and-gas-midstream",
+      "b59-telecommunication-services"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0.2
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Oil & Gas-Midstream and Telecommunication Services industries.",
+    "answer": "Oil & Gas-Midstream: EM-MD-110a.1\nTelecommunication Services: TC-TL-130a.1",
+    "reference_text": [
+      "| Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%) | EM-MD-110a.1 |",
+      "| Environmental Footprint of Operations | (1) Total energy consumed, (2) percent\u00adage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent\u00adage (%) | TC-TL-130a.1 |"
+    ],
+    "pages": [
+      "Page 108",
+      "Page 584"
+    ],
+    "industries": [
+      "b12-oil-and-gas-midstream",
+      "b59-telecommunication-services"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0.2
+  },
+  {
+    "question": "Are there any common sustainability topics between Oil & Gas-Midstream and Telecommunication Services industries? If so, how do their reporting requirements differ?",
+    "answer": "Yes, both industries address the topic of emissions and energy consumption. In the Oil & Gas-Midstream industry, the focus is on \"Greenhouse Gas Emissions\" with metrics like \"Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations\" and \"Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets.\" In contrast, the Telecommunication Services industry focuses on the \"Environmental Footprint of Operations\" with metrics such as \"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable.\" The Oil & Gas-Midstream industry requires both quantitative and discussion-based metrics, while the Telecommunication Services industry focuses on quantitative metrics related to energy consumption.",
+    "reference_text": [
+      "| Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%) | EM-MD-110a.1 |",
+      "| Greenhouse Gas Emissions | Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a | EM-MD-110a.2 |",
+      "| Environmental Footprint of Operations | (1) Total energy consumed, (2) percent\u00adage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent\u00adage (%) | TC-TL-130a.1 |"
+    ],
+    "pages": [
+      "Page 108",
+      "Page 109",
+      "Page 584"
+    ],
+    "industries": [
+      "b12-oil-and-gas-midstream",
+      "b59-telecommunication-services"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0.2
+  }
+]

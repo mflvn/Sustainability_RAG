@@ -1,0 +1,162 @@
+[
+  {
+    "question": "According to the IFRS S2 Climate-related Disclosures, what is the percentage of a company's gross global Scope 1 greenhouse gas emissions that must be covered under emissions-limiting regulations?",
+    "optionA": "10%",
+    "optionB": "25%",
+    "optionC": "50%",
+    "optionD": "75%",
+    "optionE": "100%",
+    "answer": "C",
+    "reference_text": [
+      "The entity shall disclose the percentage of its gross global Scope 1 GHG emissions that are covered under an emissions-limiting regulation or program that is intended to directly limit or reduce emissions, such as cap-and-trade schemes, carbon tax/fee systems, and other emissions control (e.g., command-and-control approach) and permit-based mechanisms."
+    ],
+    "pages": [
+      "83"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "question": "According to the IFRS S2 Climate-related Disclosures, which of the following is NOT an acceptable calculation methodology for a company to use to report its Scope 1 greenhouse gas emissions?",
+    "optionA": "GHG Reporting Guidance for the Aerospace Industry published by International Aerospace Environmental Group (IAEG)",
+    "optionB": "Greenhouse Gas Inventory Guidance: Direct Emissions from Stationary Combustion Sources published by the U.S. Environmental Protection Agency (EPA)",
+    "optionC": "India GHG Inventory Program",
+    "optionD": "Petroleum Industry Guidelines for reporting GHG emissions, 2nd edition, 2011, published by IPIECA",
+    "optionE": "The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (GHG Protocol), Revised Edition, March 2004",
+    "answer": "E",
+    "reference_text": [
+      "Acceptable calculation methodologies include those that conform to the GHG Protocol as the base reference, but provide additional guidance, such as industry- or region-specific guidance."
+    ],
+    "pages": [
+      "82",
+      "83"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "question": "According to the IFRS S2 Climate-related Disclosures, which of the following is NOT included in the scope of a company's total energy consumption that must be disclosed?",
+    "optionA": "Energy from all sources, including energy purchased from external sources and energy produced by the entity itself",
+    "optionB": "Energy directly consumed by the entity during the reporting period",
+    "optionC": "Energy from renewable sources like geothermal, wind, solar, hydro, and biomass",
+    "optionD": "Energy from the renewable portion of the electricity grid mix",
+    "optionE": "Energy from the combustion of fuels and biofuels, using higher heating values (HHV)",
+    "answer": "D",
+    "reference_text": [
+      "The renewable portion of the electricity grid mix that is outside of the control or influence of the entity is excluded from the scope of renewable energy."
+    ],
+    "pages": [
+      "86",
+      "87"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "question": "According to the IFRS S2 Climate-related Disclosures, which of the following is NOT required to be included in a company's discussion of its strategy or plan to manage Scope 1 greenhouse gas emissions?",
+    "optionA": "The scope of the emission reduction target (e.g., the percentage of total emissions the target is applicable to)",
+    "optionB": "Whether the target is absolute- or intensity-based, and the metric denominator, if it is an intensity-based target",
+    "optionC": "The percentage reduction against the base year, with the base year representing the first year against which emissions are evaluated toward the achievement of the target",
+    "optionD": "The mechanism(s) for achieving the target",
+    "optionE": "The entity's total energy consumption",
+    "answer": "E",
+    "reference_text": [
+      "The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the following, where relevant: The scope of the emission reduction target (e.g., the percentage of total emissions the target is applicable to); Whether the target is absolute- or intensity-based, and the metric denominator, if it is an intensity-based target; The percentage reduction against the base year, with the base year representing the first year against which emissions are evaluated toward the achievement of the target; The mechanism(s) for achieving the target; and Any circumstances in which the target or base year emissions have been, or may be, recalculated retrospectively or the target or base year has been reset."
+    ],
+    "pages": [
+      "84",
+      "85"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "question": "According to the IFRS S2 Climate-related Disclosures, what are the two main components that a metals and mining company must discuss in its long-term and short-term strategy or plan to manage Scope 1 emissions?",
+    "optionA": "Emissions reduction targets and an analysis of performance against those targets",
+    "optionB": "Emissions reduction targets and a discussion of the company's energy management strategy",
+    "optionC": "Emissions reduction targets and a discussion of the company's water management strategy",
+    "optionD": "Emissions reduction targets and a discussion of the company's overall sustainability strategy",
+    "optionE": "Emissions reduction targets and a discussion of the company's supply chain management",
+    "answer": "A",
+    "reference_text": [
+      "The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the following, where relevant:",
+      "The entity shall discuss the activities and investments required to achieve the plans and/or targets, and any risks or limiting factors that might affect achievement of the plans and/or targets."
+    ],
+    "pages": [
+      "84",
+      "85"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "question": "According to the IFRS S2 Climate-related Disclosures, what are the two main types of emissions-limiting regulations that a metals and mining company must consider when reporting its Scope 1 greenhouse gas emissions?",
+    "optionA": "Carbon tax/fee systems and emissions trading schemes",
+    "optionB": "Command-and-control regulations and permit-based mechanisms",
+    "optionC": "Voluntary emissions-limiting regulations and reporting-based regulations",
+    "optionD": "Emissions intensity targets and absolute emissions reduction targets",
+    "optionE": "Scope 1 and Scope 2 emissions regulations",
+    "answer": "A",
+    "reference_text": [
+      "Examples of emissions-limiting regulations include, but are not limited to:",
+      "3.1.1 California Cap-and-Trade (California Global Warming Solutions Act)",
+      "3.1.2 European Union Emissions Trading Scheme (EU ETS)",
+      "3.1.3 Quebec Cap-and-Trade (Draft Bill 42 of 2009)"
+    ],
+    "pages": [
+      "83"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "question": "According to the IFRS S2 Climate-related Disclosures, which of the following is NOT considered a renewable energy source for the purposes of reporting a metals and mining company's renewable energy consumption?",
+    "optionA": "Geothermal energy",
+    "optionB": "Wind energy",
+    "optionC": "Solar energy",
+    "optionD": "Biomass energy from certified sustainable sources",
+    "optionE": "The renewable portion of the electricity grid mix",
+    "answer": "E",
+    "reference_text": [
+      "The renewable portion of the electricity grid mix that is outside of the control or influence of the entity is excluded from the scope of renewable energy."
+    ],
+    "pages": [
+      "87"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "question": "According to the IFRS S2 Climate-related Disclosures, which of the following water quality parameters is NOT typically a concern for metals and mining companies when reporting incidents of non-compliance with water quality permits, standards, and regulations?",
+    "optionA": "Arsenic",
+    "optionB": "Copper",
+    "optionC": "Lead",
+    "optionD": "Radium-226",
+    "optionE": "Nitrogen",
+    "answer": "E",
+    "reference_text": [
+      "Typical parameters of concern include arsenic, copper, lead, nickel, zinc, cyanide, radium-226, total suspended solids, pH, and toxicity."
+    ],
+    "pages": [
+      "89"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  }
+]

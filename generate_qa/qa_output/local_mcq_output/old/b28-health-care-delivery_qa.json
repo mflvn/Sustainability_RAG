@@ -1,0 +1,377 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the three categories of energy consumption that health care delivery companies are required to disclose according to metric HC-DY-130a.1?",
+    "optionA": "Total energy consumed, percentage of solar energy, percentage of wind energy",
+    "optionB": "Total energy consumed, percentage of nuclear energy, percentage of fossil fuels",
+    "optionC": "Total energy consumed, percentage grid electricity, percentage renewable",
+    "optionD": "Total energy consumed, percentage of hydroelectric power, percentage of geothermal energy",
+    "optionE": "Total energy consumed, percentage of biomass energy, percentage of tidal energy",
+    "answer": "C. Total energy consumed, percentage grid electricity, percentage renewable",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "283",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT included in the definition of medical waste according to the industry standards?",
+    "optionA": "Cultures and Stocks of infectious agents",
+    "optionB": "Human Blood and Blood Products",
+    "optionC": "Sharps used in patient care",
+    "optionD": "Isolation Wastes from highly communicable diseases",
+    "optionE": "General office waste from healthcare facilities",
+    "answer": "E. General office waste from healthcare facilities",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "285-286",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the three final disposition methods for pharmaceutical waste that healthcare delivery companies need to report percentages for?",
+    "optionA": "Buried, burned, and recycled",
+    "optionB": "Incinerated, recycled or treated, and landfilled",
+    "optionC": "Composted, dissolved, and exported",
+    "optionD": "Sterilized, shredded, and stored",
+    "optionE": "Neutralized, vaporized, and solidified",
+    "answer": "B. Incinerated, recycled or treated, and landfilled",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "286-287",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the industry standards, what are two main categories of risks that healthcare delivery companies should address in their policies and practices related to climate change impacts?",
+    "optionA": "Financial risks and operational risks",
+    "optionB": "Technological risks and market risks",
+    "optionC": "Physical risks due to extreme weather events and changes in morbidity and mortality rates",
+    "optionD": "Regulatory risks and reputational risks",
+    "optionE": "Supply chain risks and human resource risks",
+    "answer": "C. Physical risks due to extreme weather events and changes in morbidity and mortality rates",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "288",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "A healthcare facility wants to claim that it uses 100% renewable energy. Which of the following scenarios would NOT allow the facility to make this claim?",
+    "optionA": "The facility generates solar power on-site and retains all RECs",
+    "optionB": "The facility purchases wind power through a PPA that explicitly includes and conveys RECs",
+    "optionC": "The facility relies on the renewable portion of the standard electricity grid mix",
+    "optionD": "The facility uses biomass energy from materials certified by the Forest Stewardship Council",
+    "optionE": "The facility purchases hydropower from a source certified by the Low Impact Hydropower Institute",
+    "answer": "C. The facility relies on the renewable portion of the standard electricity grid mix",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "283-284",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "A health care delivery company is assessing its waste management practices. Which of the following combinations would result in the highest percentage of medical waste being diverted from landfills?",
+    "optionA": "40% incinerated, 30% recycled, 30% landfilled",
+    "optionB": "50% incinerated, 20% recycled, 30% treated",
+    "optionC": "30% incinerated, 40% recycled, 30% treated",
+    "optionD": "60% incinerated, 25% recycled, 15% landfilled",
+    "optionE": "20% incinerated, 70% recycled, 10% landfilled",
+    "answer": "E. 20% incinerated, 70% recycled, 10% landfilled",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "285-286",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "A healthcare facility is preparing its sustainability report. Which of the following scenarios would require the facility to disclose information under both the 'Energy Management' and 'Climate Change Impacts on Human Health & Infrastructure' sections?",
+    "optionA": "Installing solar panels on the roof of the facility",
+    "optionB": "Implementing a new electronic health record system",
+    "optionC": "Upgrading the facility's HVAC system to improve energy efficiency and prepare for increased heat waves",
+    "optionD": "Hiring more nurses to handle increased patient load",
+    "optionE": "Purchasing new MRI machines",
+    "answer": "C. Upgrading the facility's HVAC system to improve energy efficiency and prepare for increased heat waves",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "283, 288",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "A health care delivery company operates in multiple jurisdictions with different waste regulations. When reporting on pharmaceutical waste, which of the following approaches would be most appropriate for ensuring consistent and compliant disclosure?",
+    "optionA": "Use only the U.S. EPA's RCRA definition for all operations globally",
+    "optionB": "Apply the EU Waste Framework Directive definition universally",
+    "optionC": "Use local definitions where available, and RCRA or EU definitions where no local definition exists",
+    "optionD": "Create a company-specific definition that combines elements from various jurisdictions",
+    "optionE": "Only report on waste from jurisdictions with clear legal definitions",
+    "answer": "C. Use local definitions where available, and RCRA or EU definitions where no local definition exists",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "286-287",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is considered 'renewable energy' in the context of health care delivery facilities, and how is it calculated for sustainability reporting?",
+    "optionA": "Any energy produced on-site, regardless of source",
+    "optionB": "Only solar and wind energy purchased from external suppliers",
+    "optionC": "Energy from sources replenished at a rate greater than or equal to their depletion, calculated as renewable consumption divided by total energy consumption",
+    "optionD": "Electricity from the grid labeled as 'green' by the utility company",
+    "optionE": "Energy produced from burning medical waste in facility incinerators",
+    "answer": "C. Energy from sources replenished at a rate greater than or equal to their depletion, calculated as renewable consumption divided by total energy consumption",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "283-284",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "In the context of health care delivery waste management, what is the definition of 'sharps' waste?",
+    "optionA": "Only used hypodermic needles and syringes",
+    "optionB": "Any medical instrument with a sharp edge",
+    "optionC": "Used and unused sharps that have been in contact with patients or infectious agents, including needles, syringes, scalpels, and certain glassware",
+    "optionD": "Exclusively surgical instruments used in operating rooms",
+    "optionE": "Only items that can puncture waste bags",
+    "answer": "C. Used and unused sharps that have been in contact with patients or infectious agents, including needles, syringes, scalpels, and certain glassware",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "285-286",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "How is hazardous pharmaceutical waste defined for reporting purposes in health care delivery facilities?",
+    "optionA": "Any medication that has expired",
+    "optionB": "Only chemotherapy drugs and radioactive pharmaceuticals",
+    "optionC": "Waste defined by applicable jurisdictional legal or regulatory frameworks, typically exhibiting ignitibility, corrosivity, reactivity, or toxicity",
+    "optionD": "All unused medications returned by patients",
+    "optionE": "Any pharmaceutical product that requires a prescription",
+    "answer": "C. Waste defined by applicable jurisdictional legal or regulatory frameworks, typically exhibiting ignitibility, corrosivity, reactivity, or toxicity",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "286-287",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What aspects should a health care delivery company's policies and practices address regarding climate change impacts, according to the IFRS S2 disclosure requirements?",
+    "optionA": "Only financial risks associated with extreme weather events",
+    "optionB": "Exclusively focus on reducing carbon emissions from facilities",
+    "optionC": "Address physical risks to infrastructure from extreme weather and changes in disease patterns due to climate change",
+    "optionD": "Solely concentrate on developing new treatments for climate-related diseases",
+    "optionE": "Limit considerations to staff training on energy conservation",
+    "answer": "C. Address physical risks to infrastructure from extreme weather and changes in disease patterns due to climate change",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "288",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "In the context of energy management for health care delivery companies, why is improving energy efficiency important?",
+    "optionA": "To comply with strict government regulations on energy use",
+    "optionB": "To reduce carbon emissions and attract environmentally conscious patients",
+    "optionC": "To decrease costs and limit exposure to fluctuations in energy pricing",
+    "optionD": "To increase the capacity for treating more patients",
+    "optionE": "To improve the quality of medical services provided",
+    "answer": "C. To decrease costs and limit exposure to fluctuations in energy pricing",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "283",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "What potential implications does climate change present for the Health Care Delivery industry, according to the topic summary on Climate Change Impacts on Human Health & Infrastructure?",
+    "optionA": "Increased profitability due to higher demand for health services",
+    "optionB": "Reduced need for certain medical specialties",
+    "optionC": "Simplified waste management processes",
+    "optionD": "Material implications due to physical threats to facilities and challenges in serving affected populations",
+    "optionE": "Decreased energy consumption in health care facilities",
+    "answer": "D. Material implications due to physical threats to facilities and challenges in serving affected populations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "288",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How does the Health Care Delivery industry's waste management strategy relate to its financial performance?",
+    "optionA": "Waste management has no impact on financial performance",
+    "optionB": "Increased waste generation leads to higher profits",
+    "optionC": "Effective waste reduction strategies can limit exposure to high disposal costs",
+    "optionD": "Waste management only affects environmental compliance, not financial performance",
+    "optionE": "Higher waste generation indicates better quality of care",
+    "answer": "C. Effective waste reduction strategies can limit exposure to high disposal costs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "285",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might the changing climate impact the operational strategies of health care delivery companies in terms of facility design and capacity planning?",
+    "optionA": "By requiring increased focus on cybersecurity measures",
+    "optionB": "By necessitating the development of telemedicine services",
+    "optionC": "By demanding adaptations in facility design and flexible capacity to address extreme weather events and changing disease patterns",
+    "optionD": "By encouraging the outsourcing of all medical waste management",
+    "optionE": "By promoting the use of fossil fuels for energy efficiency",
+    "answer": "C. By demanding adaptations in facility design and flexible capacity to address extreme weather events and changing disease patterns",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "288",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the IFRS S2 Climate-related Disclosures, what are health care delivery companies required to disclose regarding their energy consumption?",
+    "optionA": "Only the total amount of energy consumed",
+    "optionB": "The percentage of renewable energy used",
+    "optionC": "The cost of energy consumption",
+    "optionD": "The carbon footprint of their energy use",
+    "optionE": "Total energy consumed, percentage grid electricity, and percentage renewable",
+    "answer": "E. Total energy consumed, percentage grid electricity, and percentage renewable",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "283-284",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the proper procedure for health care delivery companies to claim renewable energy from on-site generation in their disclosures?",
+    "optionA": "Simply report the amount of energy generated on-site",
+    "optionB": "Sell the Renewable Energy Certificates (RECs) for profit",
+    "optionC": "Transfer the RECs to local utilities",
+    "optionD": "Retain and retire the RECs on behalf of the entity",
+    "optionE": "Ignore RECs in the reporting process",
+    "answer": "D. Retain and retire the RECs on behalf of the entity",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "284",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What categories of medical waste are health care delivery companies required to report on according to the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Only sharps and human blood products",
+    "optionB": "Cultures, stocks, and pathological wastes only",
+    "optionC": "Incinerated waste only",
+    "optionD": "Total medical waste and percentages incinerated, recycled/treated, and landfilled",
+    "optionE": "Only hazardous pharmaceutical waste",
+    "answer": "D. Total medical waste and percentages incinerated, recycled/treated, and landfilled",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "285-286",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the increasing frequency and intensity of extreme weather events associated with climate change impact health care delivery companies' operations and infrastructure?",
+    "optionA": "It will have no significant impact on health care delivery operations",
+    "optionB": "It may lead to increased patient admissions due to weather-related injuries and illnesses",
+    "optionC": "It will only affect coastal health care facilities",
+    "optionD": "It may present physical threats to facilities, create challenges in serving affected populations, and require infrastructure adaptations",
+    "optionE": "It will primarily impact the pharmaceutical supply chain",
+    "answer": "D: It may present physical threats to facilities, create challenges in serving affected populations, and require infrastructure adaptations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "288",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How can health care delivery companies prepare for the potential spread of infectious diseases associated with climate change?",
+    "optionA": "Focus solely on increasing hospital bed capacity",
+    "optionB": "Invest only in tropical disease research",
+    "optionC": "Ignore climate change impacts on disease patterns",
+    "optionD": "Develop policies to address changing disease profiles, enhance flexible capacity, and improve expertise in climate-sensitive illnesses",
+    "optionE": "Relocate all facilities to colder regions",
+    "answer": "D: Develop policies to address changing disease profiles, enhance flexible capacity, and improve expertise in climate-sensitive illnesses",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "288",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "What strategies could health care delivery companies implement to reduce their environmental impact while maintaining quality patient care?",
+    "optionA": "Ignore environmental concerns to focus solely on patient care",
+    "optionB": "Implement energy efficiency measures, increase renewable energy use, and improve waste management practices",
+    "optionC": "Outsource all energy-intensive operations",
+    "optionD": "Reduce patient services to minimize energy consumption",
+    "optionE": "Switch to paper-based record keeping to save electricity",
+    "answer": "B: Implement energy efficiency measures, increase renewable energy use, and improve waste management practices",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "283-287",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might climate change-related risks affect the financial performance and strategic planning of health care delivery companies in the long term?",
+    "optionA": "Climate change will have no impact on health care delivery financials",
+    "optionB": "It will only affect companies operating in coastal areas",
+    "optionC": "It may lead to increased operational costs, potential facility damages, and shifts in patient care needs, requiring adaptive strategies and investments",
+    "optionD": "It will result in reduced energy costs for all health care facilities",
+    "optionE": "The impact will be limited to changes in air conditioning expenses",
+    "answer": "C: It may lead to increased operational costs, potential facility damages, and shifts in patient care needs, requiring adaptive strategies and investments",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "282-288",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT discussed as a factor driving demand for health care delivery services?",
+    "optionA": "Rates of insurance coverage",
+    "optionB": "Demographics",
+    "optionC": "Illness rates",
+    "optionD": "Injury rates",
+    "optionE": "Government healthcare policies",
+    "answer": "E. Government healthcare policies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "282",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a characteristic of the renewable energy scope for health care delivery companies?",
+    "optionA": "Geothermal energy",
+    "optionB": "Wind energy",
+    "optionC": "Solar energy",
+    "optionD": "Hydro energy",
+    "optionE": "Nuclear energy",
+    "answer": "E. Nuclear energy",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "283-284",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  }
+]

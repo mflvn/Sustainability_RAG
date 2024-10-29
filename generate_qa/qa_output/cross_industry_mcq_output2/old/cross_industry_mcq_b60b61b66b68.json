@@ -1,0 +1,158 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "According to IFRS standards, which of the following is a required disclosure for both Airlines and Marine Transportation companies regarding their greenhouse gas emissions?",
+    "optionA": "Average Energy Efficiency Design Index (EEDI) for new ships",
+    "optionB": "Percentage of fuel consumed that is sustainable",
+    "optionC": "Gross global Scope 1 emissions",
+    "optionD": "Total greenhouse gas (GHG) footprint across transport modes",
+    "optionE": "Percentage of carriers with BASIC percentiles above the FMCSA intervention threshold",
+    "answer": "C. Gross global Scope 1 emissions",
+    "explanation": "Both Airlines (TR-AL-110a.1) and Marine Transportation (TR-MT-110a.1) companies are required to disclose their gross global Scope 1 emissions according to IFRS standards. This metric is common across these transportation industries as it provides a standardized measure of direct GHG emissions from owned or controlled sources.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Airlines",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Marine Transportation"
+    ],
+    "pages": [
+      "598",
+      "625"
+    ],
+    "pairing_explanation": "Transportation industries are significant contributors to greenhouse gas emissions. Sustainability reporting can capture their efforts in fuel efficiency, emissions reductions, and sustainable logistics practices.",
+    "industries": [
+      "b60-air-freight-and-logistics",
+      "b61-airlines",
+      "b66-marine-transportation",
+      "b68-road-transportation"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When disclosing long-term and short-term strategies to manage Scope 1 emissions, which of the following is specifically mentioned as a relevant activity for Airlines but not for Road Transportation companies?",
+    "optionA": "Route optimization",
+    "optionB": "Use of alternative fuels",
+    "optionC": "Weight reduction",
+    "optionD": "Use of winglets",
+    "optionE": "Upgrading the fleet with new vehicles",
+    "answer": "D. Use of winglets",
+    "explanation": "The use of winglets is specifically mentioned as a relevant activity for Airlines (TR-AL-110a.2) in managing Scope 1 emissions. This is not mentioned for Road Transportation companies (TR-RO-110a.2) as it is an aviation-specific technology. Both industries share some common strategies like route optimization and fleet upgrades, but winglets are unique to air transport.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Airlines",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Road Transportation"
+    ],
+    "pages": [
+      "602",
+      "639"
+    ],
+    "pairing_explanation": "Transportation industries are significant contributors to greenhouse gas emissions. Sustainability reporting can capture their efforts in fuel efficiency, emissions reductions, and sustainable logistics practices.",
+    "industries": [
+      "b60-air-freight-and-logistics",
+      "b61-airlines",
+      "b66-marine-transportation",
+      "b68-road-transportation"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of renewable fuel consumed, how do the definitions differ between the Road Transportation and Airlines industries according to IFRS standards?",
+    "optionA": "Road Transportation uses a lifecycle GHG reduction criterion, while Airlines do not",
+    "optionB": "Airlines require the fuel to be certified by a third-party standard, while Road Transportation does not",
+    "optionC": "Road Transportation includes biofuels, while Airlines exclude them",
+    "optionD": "Airlines consider the impact on food and water competition, while Road Transportation does not",
+    "optionE": "There is no difference in the definition between the two industries",
+    "answer": "A. Road Transportation uses a lifecycle GHG reduction criterion, while Airlines do not",
+    "explanation": "For Road Transportation (TR-RO-110a.3), renewable fuel must achieve net emission reduction on a lifecycle basis that is at least 20 percent less than baseline lifecycle GHG emissions. The Airlines industry (TR-AL-110a.3) definition of sustainable fuel does not specify a quantitative lifecycle GHG reduction criterion, instead focusing on avoiding competition with food and water and contributing to local social and economic development.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Airlines",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Road Transportation"
+    ],
+    "pages": [
+      "603",
+      "640"
+    ],
+    "pairing_explanation": "Transportation industries are significant contributors to greenhouse gas emissions. Sustainability reporting can capture their efforts in fuel efficiency, emissions reductions, and sustainable logistics practices.",
+    "industries": [
+      "b60-air-freight-and-logistics",
+      "b61-airlines",
+      "b66-marine-transportation",
+      "b68-road-transportation"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When reporting on fuel consumption, which of the following metrics is required for Marine Transportation companies but not for Airlines or Road Transportation companies?",
+    "optionA": "Total fuel consumed",
+    "optionB": "Percentage of fuel that is natural gas",
+    "optionC": "Percentage of fuel that is renewable",
+    "optionD": "Percentage of fuel that is heavy fuel oil",
+    "optionE": "Percentage of fuel that is sustainable",
+    "answer": "D. Percentage of fuel that is heavy fuel oil",
+    "explanation": "Marine Transportation companies are required to disclose the percentage of energy consumed that was supplied from heavy fuel oil (TR-MT-110a.3). This metric is specific to the marine industry due to the prevalent use of heavy fuel oil in ships. Airlines and Road Transportation industries do not have this specific requirement in their fuel consumption disclosures.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Airlines",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Marine Transportation",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Road Transportation"
+    ],
+    "pages": [
+      "602",
+      "628",
+      "639"
+    ],
+    "pairing_explanation": "Transportation industries are significant contributors to greenhouse gas emissions. Sustainability reporting can capture their efforts in fuel efficiency, emissions reductions, and sustainable logistics practices.",
+    "industries": [
+      "b60-air-freight-and-logistics",
+      "b61-airlines",
+      "b66-marine-transportation",
+      "b68-road-transportation"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing the Airlines and Road Transportation industries, which of the following activity metrics is common to both sectors for measuring operational efficiency?",
+    "optionA": "Available seat kilometers (ASK)",
+    "optionB": "Revenue ton kilometers (RTK)",
+    "optionC": "Number of departures",
+    "optionD": "Load factor",
+    "optionE": "Average age of fleet",
+    "answer": "D. Load factor",
+    "explanation": "Load factor is an activity metric common to both Airlines (TR-AL-000.B) and Road Transportation (TR-RO-000.B) industries. It measures capacity utilization, although calculated slightly differently for each industry. For airlines, it's calculated as passenger kilometers traveled divided by available seat kilometers, while for road transportation, it's cargo miles traveled divided by total miles traveled. This metric helps both industries assess operational efficiency.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Airlines",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Road Transportation"
+    ],
+    "pages": [
+      "598",
+      "636"
+    ],
+    "pairing_explanation": "Transportation industries are significant contributors to greenhouse gas emissions. Sustainability reporting can capture their efforts in fuel efficiency, emissions reductions, and sustainable logistics practices.",
+    "industries": [
+      "b60-air-freight-and-logistics",
+      "b61-airlines",
+      "b66-marine-transportation",
+      "b68-road-transportation"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "Which of the following sustainability considerations is uniquely important for the Marine Transportation industry compared to Airlines, Air Freight & Logistics, and Road Transportation?",
+    "optionA": "Fuel efficiency of vehicles",
+    "optionB": "Route optimization",
+    "optionC": "Use of alternative fuels",
+    "optionD": "Greenhouse gas emissions reporting",
+    "optionE": "Energy Efficiency Design Index (EEDI) for new vessels",
+    "answer": "E. Energy Efficiency Design Index (EEDI) for new vessels",
+    "explanation": "The Energy Efficiency Design Index (EEDI) for new ships (TR-MT-110a.4) is a metric uniquely important for the Marine Transportation industry. This index, measured in grams of carbon dioxide per ton-nautical mile, is specific to ship design and is not applicable to other transportation modes like airlines, air freight, or road transportation. It reflects the marine industry's focus on improving the energy efficiency of new vessels as a key sustainability consideration.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Marine Transportation"
+    ],
+    "pages": [
+      "629"
+    ],
+    "pairing_explanation": "Transportation industries are significant contributors to greenhouse gas emissions. Sustainability reporting can capture their efforts in fuel efficiency, emissions reductions, and sustainable logistics practices.",
+    "industries": [
+      "b60-air-freight-and-logistics",
+      "b61-airlines",
+      "b66-marine-transportation",
+      "b68-road-transportation"
+    ]
+  }
+]

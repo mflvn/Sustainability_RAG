@@ -1,0 +1,92 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2, which of the following is NOT included in the scope of climate change and other environmental risks that should be incorporated into mortgage origination and underwriting processes?",
+    "optionA": "Hurricanes and storms",
+    "optionB": "Floods",
+    "optionC": "Droughts and wildfires",
+    "optionD": "Earthquakes and volcanic eruptions",
+    "optionE": "Economic recessions",
+    "answer": "E. Economic recessions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance",
+    "page": "186-187",
+    "industries": [
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing the number and value of mortgage loans in 100-year flood zones, which of the following should be EXCLUDED from the scope according to IFRS S2?",
+    "optionA": "First mortgages (1-4 family)",
+    "optionB": "Junior lien (1-4 family second mortgages)",
+    "optionC": "Home equity lines of credit",
+    "optionD": "Mortgages held for sale",
+    "optionE": "Mortgages in international locations",
+    "answer": "D. Mortgages held for sale",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance",
+    "page": "186",
+    "industries": [
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When calculating the Loss Given Default (LGD) attributable to mortgage loan default due to weather-related natural catastrophes, which of the following events should be EXCLUDED according to IFRS S2?",
+    "optionA": "Hurricanes",
+    "optionB": "Floods",
+    "optionC": "Heat waves",
+    "optionD": "Wildfires",
+    "optionE": "Volcanic eruptions",
+    "answer": "E. Volcanic eruptions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance",
+    "page": "186",
+    "industries": [
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the total expected loss attributable to mortgage loan default due to weather-related natural catastrophes, which formula should be used according to IFRS S2?",
+    "optionA": "Total expected loss = Probability of default \u00d7 Exposure at default",
+    "optionB": "Total expected loss = Sum of (Each possible loss \u00d7 Probability of that loss occurring)",
+    "optionC": "Total expected loss = (1 - Recovery rate) \u00d7 Exposure at default",
+    "optionD": "Total expected loss = Average historical loss \u00d7 Number of mortgages",
+    "optionE": "Total expected loss = Maximum potential loss \u00d7 Risk factor",
+    "answer": "B. Total expected loss = Sum of (Each possible loss \u00d7 Probability of that loss occurring)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance",
+    "page": "186",
+    "industries": [
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When disclosing information about environmental risks to mortgaged properties, which of the following metrics is NOT required by IFRS S2 for the Mortgage Finance industry?",
+    "optionA": "Number of mortgage loans in 100-year flood zones",
+    "optionB": "Value of mortgage loans in 100-year flood zones",
+    "optionC": "Total expected loss due to weather-related natural catastrophes",
+    "optionD": "Loss Given Default (LGD) due to weather-related natural catastrophes",
+    "optionE": "Number of properties with flood insurance coverage",
+    "answer": "E. Number of properties with flood insurance coverage",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance",
+    "page": "185",
+    "industries": [
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A mortgage finance company is preparing to disclose its exposure to environmental risks. According to IFRS S2, how should the company report the Loss Given Default (LGD) attributable to mortgage loan default due to weather-related natural catastrophes?",
+    "optionA": "As a monetary value in reporting currency",
+    "optionB": "As a percentage",
+    "optionC": "As a ratio between 0 and 1",
+    "optionD": "As a qualitative description",
+    "optionE": "As an absolute number of affected properties",
+    "answer": "B. As a percentage",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance",
+    "page": "186",
+    "industries": [
+      "b19-mortgage-finance"
+    ]
+  }
+]

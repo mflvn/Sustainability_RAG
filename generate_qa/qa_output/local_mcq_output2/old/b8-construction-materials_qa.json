@@ -1,0 +1,182 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing Scope 1 GHG emissions for a construction materials company, which of the following greenhouse gases should be included?",
+    "optionA": "Only carbon dioxide (CO2)",
+    "optionB": "Carbon dioxide (CO2) and methane (CH4) only",
+    "optionC": "The seven GHGs covered under the Kyoto Protocol",
+    "optionD": "Only gases directly related to cement production",
+    "optionE": "Greenhouse gases specified by local regulations only",
+    "answer": "C. The seven GHGs covered under the Kyoto Protocol",
+    "reference": "Greenhouse Gas Emissions",
+    "page": "55",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "What is the required unit of measure for disclosing air emissions of particulate matter (PM10) in the construction materials industry?",
+    "optionA": "Kilograms (kg)",
+    "optionB": "Grams (g)",
+    "optionC": "Pounds (lbs)",
+    "optionD": "Metric tons (t)",
+    "optionE": "Parts per million (ppm)",
+    "answer": "D. Metric tons (t)",
+    "reference": "Air Quality",
+    "page": "59-60",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When calculating the percentage of recycled water for disclosure, how should a construction materials company treat water that is reused multiple times?",
+    "optionA": "Count it only once in the total recycled volume",
+    "optionB": "Exclude it from the calculation entirely",
+    "optionC": "Count it as recycled each time it is recycled and reused",
+    "optionD": "Average the number of times it is reused",
+    "optionE": "Only count it if it's reused more than three times",
+    "answer": "C. Count it as recycled each time it is recycled and reused",
+    "reference": "Water Management",
+    "page": "64",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing the percentage of products that qualify for credits in sustainable building design certifications, which of the following should be excluded from both the numerator and denominator of the calculation?",
+    "optionA": "All cement products",
+    "optionB": "Products with partial sustainability certifications",
+    "optionC": "Raw or intermediate materials requiring additional manufacturing",
+    "optionD": "Products that meet only local sustainability standards",
+    "optionE": "All non-LEED certified products",
+    "answer": "C. Raw or intermediate materials requiring additional manufacturing",
+    "reference": "Product Innovation",
+    "page": "67",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of energy consumed from alternative sources, which of the following should be included?",
+    "optionA": "Only used tires and waste oils",
+    "optionB": "Only processed municipal solid waste",
+    "optionC": "Only agricultural wastes like rice husks",
+    "optionD": "Only animal meal and sewage sludge",
+    "optionE": "All of the above and other similar alternative sources",
+    "answer": "E. All of the above and other similar alternative sources",
+    "reference": "Energy Management",
+    "page": "61-62",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "How should a construction materials company calculate the percentage of water withdrawn in regions with High or Extremely High Baseline Water Stress?",
+    "optionA": "Total water withdrawn in stressed regions / Total global water withdrawn",
+    "optionB": "Water consumed in stressed regions / Total global water withdrawn",
+    "optionC": "Water withdrawn in stressed regions / Water consumed in stressed regions",
+    "optionD": "Total global water withdrawn / Water withdrawn in stressed regions",
+    "optionE": "Water recycled in stressed regions / Total global water withdrawn",
+    "answer": "A. Total water withdrawn in stressed regions / Total global water withdrawn",
+    "reference": "Water Management",
+    "page": "64",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the total energy consumed by a construction materials company, which of the following should be included?",
+    "optionA": "Only energy purchased from external sources",
+    "optionB": "Only self-generated energy",
+    "optionC": "Only direct fuel usage",
+    "optionD": "Only purchased electricity",
+    "optionE": "Energy from all sources, including purchased and self-generated",
+    "answer": "E. Energy from all sources, including purchased and self-generated",
+    "reference": "Energy Management",
+    "page": "61",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "How should a construction materials company calculate the percentage of hazardous waste generated?",
+    "optionA": "Weight of hazardous waste / Total weight of all materials used",
+    "optionB": "Weight of hazardous waste / Weight of non-hazardous waste",
+    "optionC": "Weight of hazardous waste / Total weight of waste material",
+    "optionD": "Weight of hazardous waste / Total weight of recycled waste",
+    "optionE": "Weight of hazardous waste / Total weight of products produced",
+    "answer": "C. Weight of hazardous waste / Total weight of waste material",
+    "reference": "Waste Management",
+    "page": "65",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When reporting on product innovation in the construction materials industry, how should a company calculate the percentage of products that qualify for credits in sustainable building design and construction certifications?",
+    "optionA": "By the number of products that qualify divided by total product offerings",
+    "optionB": "By the volume of qualifying products produced divided by total production volume",
+    "optionC": "By the revenue from qualifying products divided by total revenue from building products",
+    "optionD": "By the number of certifications obtained divided by total number of products",
+    "optionE": "By the square footage of buildings using qualifying products divided by total square footage built",
+    "answer": "C. By the revenue from qualifying products divided by total revenue from building products",
+    "reference": "Product Innovation",
+    "page": "67",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What is a unique challenge for construction materials companies when reporting on greenhouse gas emissions under IFRS S2?",
+    "optionA": "Calculating emissions from office buildings only",
+    "optionB": "Reporting on Scope 3 emissions exclusively",
+    "optionC": "Managing emissions from both fuel combustion and chemical processes in production",
+    "optionD": "Focusing solely on transportation-related emissions",
+    "optionE": "Reporting on positive emissions offsets",
+    "answer": "C. Managing emissions from both fuel combustion and chemical processes in production",
+    "reference": "Greenhouse Gas Emissions",
+    "page": "55",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "In addressing air quality concerns specific to the construction materials industry, which of the following pollutants is NOT typically included in the required emissions disclosure?",
+    "optionA": "Nitrogen oxides (NOx)",
+    "optionB": "Sulfur oxides (SOx)",
+    "optionC": "Particulate matter (PM10)",
+    "optionD": "Carbon monoxide (CO)",
+    "optionE": "Dioxins/furans",
+    "answer": "D. Carbon monoxide (CO)",
+    "reference": "Air Quality",
+    "page": "59-60",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When reporting on energy management in the construction materials industry, what is considered an 'alternative source' of energy according to IFRS S2?",
+    "optionA": "Grid electricity",
+    "optionB": "Natural gas",
+    "optionC": "Solar power",
+    "optionD": "Used tires and waste oils",
+    "optionE": "Nuclear energy",
+    "answer": "D. Used tires and waste oils",
+    "reference": "Energy Management",
+    "page": "61-62",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  }
+]

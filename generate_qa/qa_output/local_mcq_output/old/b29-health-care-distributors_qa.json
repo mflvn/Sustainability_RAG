@@ -1,0 +1,287 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the main factors driving demand for health care distributors' services?",
+    "optionA": "Marketing strategies and product quality",
+    "optionB": "Government regulations and tax incentives",
+    "optionC": "Rates of insurance, pharmaceutical spending, illness, and demographics",
+    "optionD": "Technological advancements in medical equipment",
+    "optionE": "International trade agreements and global market trends",
+    "answer": "C. Rates of insurance, pharmaceutical spending, illness, and demographics",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors",
+    "page": "289",
+    "industries": [
+      "b29-health-care-distributors"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "How is payload fuel economy calculated for health care distributors' transportation fleets?",
+    "optionA": "Total miles driven / Total gallons of fuel consumed",
+    "optionB": "Total gallons of fuel consumed / Total weight of vehicles",
+    "optionC": "Total gallons of fuel consumed / (Total weight of paid tonnage transported \u00d7 Total distance in miles goods were transported)",
+    "optionD": "Total weight of goods / Total distance traveled",
+    "optionE": "Total revenue / Total fuel cost",
+    "answer": "C. Total gallons of fuel consumed / (Total weight of paid tonnage transported \u00d7 Total distance in miles goods were transported)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors",
+    "page": "290",
+    "industries": [
+      "b29-health-care-distributors"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the activity metrics used to measure the scale of operations for health care distributors?",
+    "optionA": "Number of employees and annual revenue",
+    "optionB": "Market share and customer satisfaction ratings",
+    "optionC": "Number of warehouses and distribution centers",
+    "optionD": "Number of pharmaceutical units sold and number of medical devices sold by product category",
+    "optionE": "Total miles traveled and fuel consumption",
+    "answer": "D. Number of pharmaceutical units sold and number of medical devices sold by product category",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors",
+    "page": "289",
+    "industries": [
+      "b29-health-care-distributors"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What specific efforts can health care distributors make to reduce the environmental impact of their logistics operations?",
+    "optionA": "Implementing employee carpooling programs",
+    "optionB": "Upgrading fleet for better fuel efficiency",
+    "optionC": "Increasing the use of air transportation",
+    "optionD": "Expanding warehouse storage capacity",
+    "optionE": "Outsourcing all transportation to third-party logistics providers",
+    "answer": "B. Upgrading fleet for better fuel efficiency",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors",
+    "page": "291",
+    "industries": [
+      "b29-health-care-distributors"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might the challenges faced by health care distributors, such as industry consolidation and emphasis on cost reduction, impact their approach to fleet fuel management?",
+    "optionA": "They may prioritize short-term profits over long-term fuel efficiency",
+    "optionB": "They might increase their fleet size to handle more deliveries",
+    "optionC": "They could focus on developing new pharmaceutical products",
+    "optionD": "They may invest more in employee training programs",
+    "optionE": "They are likely to invest in fuel-efficient vehicles and optimize logistics to reduce costs",
+    "answer": "E. They are likely to invest in fuel-efficient vehicles and optimize logistics to reduce costs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors",
+    "page": "289, 290",
+    "industries": [
+      "b29-health-care-distributors"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How does the calculation of payload fuel economy relate to the industry's focus on reduced costs and improved efficiencies?",
+    "optionA": "It doesn't relate; payload fuel economy is only for environmental reporting",
+    "optionB": "It helps distributors determine which products are most profitable",
+    "optionC": "It allows distributors to measure and improve transportation efficiency, potentially reducing fuel costs",
+    "optionD": "It is used to set prices for pharmaceutical products",
+    "optionE": "It helps distributors decide which hospitals to partner with",
+    "answer": "C. It allows distributors to measure and improve transportation efficiency, potentially reducing fuel costs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors",
+    "page": "289, 290",
+    "industries": [
+      "b29-health-care-distributors"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How do the activity metrics (number of pharmaceutical units and medical devices sold) potentially relate to the fleet fuel management topic?",
+    "optionA": "They are unrelated; activity metrics don't affect fleet management",
+    "optionB": "Higher sales numbers directly lead to better fuel economy",
+    "optionC": "Activity metrics help in planning logistics and can indirectly impact fuel efficiency strategies",
+    "optionD": "They determine the types of vehicles used in the fleet",
+    "optionE": "Activity metrics are only used for financial reporting purposes",
+    "answer": "C. Activity metrics help in planning logistics and can indirectly impact fuel efficiency strategies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors",
+    "page": "289, 290",
+    "industries": [
+      "b29-health-care-distributors"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What does RTM stand for in the context of fleet fuel management for health care distributors, and what does it represent?",
+    "optionA": "Rapid Transit Mileage - the speed at which goods are transported",
+    "optionB": "Reduced Transport Margin - the cost savings from efficient logistics",
+    "optionC": "Revenue Ton Miles - the product of paid tonnage transported and distance traveled",
+    "optionD": "Route Time Management - the scheduling of delivery routes",
+    "optionE": "Regulated Transport Metric - a government standard for fuel efficiency",
+    "answer": "C. Revenue Ton Miles - the product of paid tonnage transported and distance traveled",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors",
+    "page": "290",
+    "industries": [
+      "b29-health-care-distributors"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What does the term 'revenue ton miles (RTM)' mean in the health care distribution industry?",
+    "optionA": "The total revenue generated per mile driven by distribution vehicles",
+    "optionB": "The weight of the vehicle and its fuel combined",
+    "optionC": "The distance traveled by a distribution vehicle in one year",
+    "optionD": "The product of the total weight of paid tonnage transported and the total distance the goods were transported",
+    "optionE": "The average weight of pharmaceutical products distributed per mile",
+    "answer": "D. The product of the total weight of paid tonnage transported and the total distance the goods were transported",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors",
+    "page": "290",
+    "industries": [
+      "b29-health-care-distributors"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "In the context of health care distribution, how might fluctuations in fuel costs potentially impact shareholder value?",
+    "optionA": "Fuel costs have no impact on shareholder value in this industry",
+    "optionB": "Higher fuel costs always lead to increased shareholder value",
+    "optionC": "Fuel cost fluctuations only affect air transportation in this industry",
+    "optionD": "Companies that improve transportation efficiencies may enhance shareholder value despite fuel cost fluctuations",
+    "optionE": "Shareholder value is solely determined by the number of units sold, regardless of fuel costs",
+    "answer": "D. Companies that improve transportation efficiencies may enhance shareholder value despite fuel cost fluctuations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors",
+    "page": "290",
+    "industries": [
+      "b29-health-care-distributors"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might the consolidation and partnerships between pharmacies, payers, and manufacturers impact health care distributors?",
+    "optionA": "It could lead to increased demand for distribution services",
+    "optionB": "It might result in distributors having more negotiating power",
+    "optionC": "It could potentially reduce the need for traditional distribution channels",
+    "optionD": "It would likely have no impact on distributors",
+    "optionE": "It might cause distributors to focus more on international markets",
+    "answer": "C. It could potentially reduce the need for traditional distribution channels",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors",
+    "page": "289",
+    "industries": [
+      "b29-health-care-distributors"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "When calculating payload fuel economy, what should be excluded from the weight consideration?",
+    "optionA": "The weight of pharmaceutical products",
+    "optionB": "The weight of medical devices",
+    "optionC": "The weight of the vehicle",
+    "optionD": "The weight of the fuel",
+    "optionE": "The weight of the driver",
+    "answer": "C. The weight of the vehicle",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors",
+    "page": "290",
+    "industries": [
+      "b29-health-care-distributors"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "When disclosing payload fuel economy for the transportation fleet, which vehicles should be included according to the document?",
+    "optionA": "All vehicles owned by the company",
+    "optionB": "Vehicles used primarily for transporting passengers",
+    "optionC": "Vehicles used for the delivery of products",
+    "optionD": "Only long-term leased vehicles",
+    "optionE": "Any vehicle used by the company, regardless of its purpose",
+    "answer": "C. Vehicles used for the delivery of products",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors",
+    "page": "290",
+    "industries": [
+      "b29-health-care-distributors"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "What potential long-term impacts could concerns over climate change have on the health care distribution industry?",
+    "optionA": "Increased demand for eco-friendly medical products",
+    "optionB": "Shift towards local sourcing of pharmaceutical products",
+    "optionC": "Higher operational costs due to potential carbon taxes",
+    "optionD": "Greater focus on developing alternative delivery methods",
+    "optionE": "Pressure to innovate in fuel efficiency and transportation logistics",
+    "answer": "E. Pressure to innovate in fuel efficiency and transportation logistics",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors",
+    "page": "290",
+    "industries": [
+      "b29-health-care-distributors"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might health care distributors balance the need for extensive transportation networks with environmental concerns?",
+    "optionA": "By outsourcing all transportation to third-party logistics providers",
+    "optionB": "Through implementing drone delivery systems for all shipments",
+    "optionC": "By focusing solely on local distribution to reduce transportation distances",
+    "optionD": "Through eliminating all fuel-based vehicles in favor of electric ones",
+    "optionE": "By optimizing routes, upgrading fleets, and exploring alternative fuels",
+    "answer": "E. By optimizing routes, upgrading fleets, and exploring alternative fuels",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors",
+    "page": "290, 291",
+    "industries": [
+      "b29-health-care-distributors"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How could the disclosure of payload fuel economy metrics potentially impact investor perceptions and decision-making regarding health care distribution companies?",
+    "optionA": "It would have no impact as investors only focus on financial metrics",
+    "optionB": "It might lead to decreased investment due to the complexity of the metric",
+    "optionC": "It could result in investors favoring companies with the largest fleets",
+    "optionD": "It may cause investors to overlook other important operational aspects",
+    "optionE": "It could allow investors to assess operational efficiency and environmental responsibility",
+    "answer": "E. It could allow investors to assess operational efficiency and environmental responsibility",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors",
+    "page": "290",
+    "industries": [
+      "b29-health-care-distributors"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT listed as a type of transportation for calculating payload fuel economy?",
+    "optionA": "Air transportation",
+    "optionB": "Marine transportation",
+    "optionC": "Rail transportation",
+    "optionD": "Road transportation",
+    "optionE": "Pipeline transportation",
+    "answer": "E. Pipeline transportation",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors",
+    "page": "290",
+    "industries": [
+      "b29-health-care-distributors"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a sustainability disclosure topic for health care distributors in the document?",
+    "optionA": "Fleet Fuel Management",
+    "optionB": "Number of pharmaceutical units sold",
+    "optionC": "Number of medical devices sold",
+    "optionD": "Payload fuel economy",
+    "optionE": "Water management",
+    "answer": "E. Water management",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors",
+    "page": "289",
+    "industries": [
+      "b29-health-care-distributors"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT listed as a required disclosure in the payload fuel economy metric (HC-DI-110a.1)?",
+    "optionA": "Total gallons of fuel consumed",
+    "optionB": "Revenue ton miles (RTM)",
+    "optionC": "Types of transportation used",
+    "optionD": "Weight of paid tonnage transported",
+    "optionE": "Carbon emissions per mile",
+    "answer": "E. Carbon emissions per mile",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors",
+    "page": "290",
+    "industries": [
+      "b29-health-care-distributors"
+    ]
+  }
+]

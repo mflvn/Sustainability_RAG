@@ -1,0 +1,194 @@
+[
+  {
+    "question": "For companies involved in extracting and transporting fossil fuels, what is the percentage of gross global Scope 1 emissions that must be disclosed as covered under emissions-limiting regulations?",
+    "optionA": "The percentage of emissions covered under voluntary emissions-limiting regulations",
+    "optionB": "The percentage of emissions covered under emissions-limiting regulations like cap-and-trade schemes or carbon taxes",
+    "optionC": "The percentage of emissions covered under any regulations, including reporting-based regulations",
+    "optionD": "No percentage related to emissions-limiting regulations needs to be disclosed",
+    "optionE": "The percentage of emissions from methane only that are covered under emissions-limiting regulations",
+    "answer": "B",
+    "reference_text": [
+      "The entity shall disclose the percentage of its emissions that are covered under an emissions-limiting regulation or that is intended to directly limit or reduce emissions, such as cap-and-trade schemes, carbon tax/fee systems, and other emissions control (e.g., command-and-control approach) and permit-based mechanisms.",
+      "The scope of emissions-limiting regulations excludes emissions covered under voluntary emissions-limiting regulations (e.g., voluntary trading systems) as well as disclosure-based regulations [e.g., the U.S. Environmental Protection Agency (EPA) GHG Reporting Program]."
+    ],
+    "pages": [
+      "110_b12",
+      "111_b12"
+    ],
+    "industries": [
+      "b7-coal-operations",
+      "b9-iron-and-steel-producers",
+      "b12-oil-and-gas-midstream"
+    ],
+    "pairing_explanation": "These extractive industries have substantial environmental impacts, including emissions, land use, and water consumption, making them critical to compare in sustainability reporting.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "For companies involved in metal production, what information should be disclosed regarding their strategy to manage Scope 1 greenhouse gas emissions?",
+    "optionA": "Only their long-term strategy or plan to manage Scope 1 emissions",
+    "optionB": "Only their short-term strategy or plan to manage Scope 1 emissions",
+    "optionC": "Both their long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and analysis of performance against those targets",
+    "optionD": "No information about strategies or plans to manage Scope 1 emissions needs to be disclosed",
+    "optionE": "Only their emissions reduction targets without any details on strategies or plans",
+    "answer": "C",
+    "reference_text": [
+      "The entity shall discuss its long-term and short-term strategy or plan to manage its Scope 1 greenhouse gas (GHG) emissions.",
+      "The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the following, where relevant: ..."
+    ],
+    "pages": [
+      "73_b9",
+      "112_b12"
+    ],
+    "industries": [
+      "b7-coal-operations",
+      "b9-iron-and-steel-producers",
+      "b12-oil-and-gas-midstream"
+    ],
+    "pairing_explanation": "These extractive industries have substantial environmental impacts, including emissions, land use, and water consumption, making them critical to compare in sustainability reporting.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "For industries involved in mining coal, what metric should be disclosed regarding the sensitivity of coal reserve levels to future price projection scenarios?",
+    "optionA": "The estimated carbon dioxide emissions embedded in proven coal reserves",
+    "optionB": "A discussion of how price and demand for coal influence the capital expenditure strategy",
+    "optionC": "Sensitivity of coal reserve levels to future price projection scenarios that account for a price on carbon emissions",
+    "optionD": "No metric related to coal reserve sensitivity to future prices needs to be disclosed",
+    "optionE": "The percentage of coal reserves that would be uneconomical under a carbon price scenario",
+    "answer": "C",
+    "reference_text": [
+      "The entity shall perform a sensitivity analysis of its reserves to determine how several future scenarios may affect its determination of whether the reserves are proven or probable.",
+      "The entity shall analyze the sensitivity of its current proven and probable reserves using the price trajectories published by the International Energy Agency (IEA) in its World Energy Outlook (WEO) publication, including: ..."
+    ],
+    "pages": [
+      "49_b7"
+    ],
+    "industries": [
+      "b7-coal-operations",
+      "b9-iron-and-steel-producers",
+      "b12-oil-and-gas-midstream"
+    ],
+    "pairing_explanation": "These extractive industries have substantial environmental impacts, including emissions, land use, and water consumption, making them critical to compare in sustainability reporting.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "For companies involved in transporting oil and gas, what should be disclosed regarding their strategy to manage greenhouse gas emissions from different emission sources?",
+    "optionA": "Their strategy should cover emissions from all sources without differentiating between sources",
+    "optionB": "Their strategy should differentiate between emissions from flaring, combustion, venting, and fugitive sources",
+    "optionC": "No details on emission sources are required, only an overall emissions management strategy",
+    "optionD": "Their strategy only needs to cover emissions from either flaring or venting sources",
+    "optionE": "Their strategy only needs to cover emissions from combustion sources",
+    "answer": "B",
+    "reference_text": [
+      "The entity shall discuss the scope of its strategies, plans, and/or reduction targets, such as whether they pertain differently to different business units, geographies, or emissions sources.",
+      "Categories of emissions may include: 4.1.1 Flared hydrocarbons, ... 4.1.2 Other combusted emissions, ... 4.1.3 Process emissions, ... 4.1.4 Vented emissions, ... 4.1.5 Fugitive emissions, ..."
+    ],
+    "pages": [
+      "112_b12"
+    ],
+    "industries": [
+      "b7-coal-operations",
+      "b9-iron-and-steel-producers",
+      "b12-oil-and-gas-midstream"
+    ],
+    "pairing_explanation": "These extractive industries have substantial environmental impacts, including emissions, land use, and water consumption, making them critical to compare in sustainability reporting.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "For companies involved in extracting and transporting fossil fuels, what is the recommended disclosure regarding their strategy to manage Scope 1 greenhouse gas emissions and emissions reduction targets?",
+    "optionA": "Disclose the total Scope 1 emissions but no discussion of strategy or targets is required.",
+    "optionB": "Discuss the long-term and short-term strategy to manage Scope 1 emissions, specific emissions reduction targets, and an analysis of performance against those targets.",
+    "optionC": "No disclosure regarding emissions management strategy or targets is required.",
+    "optionD": "Disclose only the emissions reduction targets without discussing the overall strategy.",
+    "optionE": "Discuss the strategy to manage Scope 2 emissions from purchased electricity but not Scope 1 emissions.",
+    "answer": "B",
+    "reference_text": [
+      "The entity shall discuss its long-term and short-term strategy or plan to manage its Scope 1 greenhouse gas (GHG) emissions.",
+      "The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the following, where relevant: ...",
+      "Disclosure of strategies, plans, and/or reduction targets shall be limited to activities that were ongoing (active) or reached completion during the reporting period."
+    ],
+    "pages": [
+      "110_b12",
+      "112_b12"
+    ],
+    "industries": [
+      "b7-coal-operations",
+      "b9-iron-and-steel-producers",
+      "b12-oil-and-gas-midstream"
+    ],
+    "pairing_explanation": "These extractive industries have substantial environmental impacts, including emissions, land use, and water consumption, making them critical to compare in sustainability reporting.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "For companies involved in mining and processing raw materials like coal and iron ore, what disclosure is recommended regarding the sensitivity of their reserves to future carbon pricing scenarios?",
+    "optionA": "No disclosure regarding carbon pricing sensitivity is required.",
+    "optionB": "Disclose the estimated potential carbon dioxide emissions from proven reserves, but no sensitivity analysis is needed.",
+    "optionC": "Perform a sensitivity analysis of reserves levels under different future carbon pricing scenarios from the International Energy Agency and disclose the results.",
+    "optionD": "Disclose the total proven and probable reserves but no sensitivity analysis is required.",
+    "optionE": "Perform a sensitivity analysis only for the reserves expected to be extracted in the next 5 years.",
+    "answer": "C",
+    "reference_text": [
+      "The entity shall perform a sensitivity analysis of its reserves to determine how several future scenarios may affect its determination of whether the reserves are proven or probable.",
+      "The entity shall analyze the sensitivity of its current proven and probable reserves using the price trajectories published by the International Energy Agency (IEA) in its World Energy Outlook (WEO) publication, including: ..."
+    ],
+    "pages": [
+      "49_b7"
+    ],
+    "industries": [
+      "b7-coal-operations",
+      "b9-iron-and-steel-producers",
+      "b12-oil-and-gas-midstream"
+    ],
+    "pairing_explanation": "These extractive industries have substantial environmental impacts, including emissions, land use, and water consumption, making them critical to compare in sustainability reporting.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "For industries that rely heavily on water for operations like steel production, what disclosure is recommended regarding water withdrawal and recycling in water-stressed regions?",
+    "optionA": "Disclose total water withdrawn but no breakdown by water stress region is required.",
+    "optionB": "No disclosure regarding water withdrawal or recycling is required.",
+    "optionC": "Disclose total water withdrawn and the percentage recycled, but no analysis of water stress regions is needed.",
+    "optionD": "Disclose total water withdrawn, percentage recycled, and the percentage withdrawn and consumed from regions with high or extremely high baseline water stress.",
+    "optionE": "Disclose only the percentage of water recycled, with no other information required.",
+    "answer": "D",
+    "reference_text": [
+      "The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from freshwater sources:",
+      "The entity shall disclose the percentage of water recycled as the volume, in thousands of cubic meters, recycled divided by the volume of water withdrawn.",
+      "The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn.",
+      "The entity shall disclose its water consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water consumed."
+    ],
+    "pages": [
+      "78_b9",
+      "79_b9"
+    ],
+    "industries": [
+      "b7-coal-operations",
+      "b9-iron-and-steel-producers",
+      "b12-oil-and-gas-midstream"
+    ],
+    "pairing_explanation": "These extractive industries have substantial environmental impacts, including emissions, land use, and water consumption, making them critical to compare in sustainability reporting.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "For industries that rely on sourcing raw materials like iron ore and coking coal, what disclosure is recommended regarding the management of environmental and social risks in the supply chain?",
+    "optionA": "No disclosure regarding supply chain risks is required.",
+    "optionB": "Disclose a quantitative metric on the percentage of suppliers screened for environmental and social risks.",
+    "optionC": "Discuss the process for managing environmental and social risks that may affect sourcing of key raw materials like iron ore and coking coal.",
+    "optionD": "Disclose the total spend on raw materials sourced, but no discussion of risk management is needed.",
+    "optionE": "Quantitative disclosure of supply chain risks is required, but no discussion is needed.",
+    "answer": "C",
+    "reference_text": [
+      "The entity shall discuss its policies and procedures for managing environmental and social risks that may affect sourcing that are present in its iron ore and/or coking coal supply chain.",
+      "Discussion shall include any existing or projected risks or constraints in obtaining raw materials (e.g., iron ore, or coking coal) within the supply chain, including those related to restricted/limited availability, political situations, local labor conditions, natural disasters, climate change, or regulations.",
+      "The scope of disclosure may include description of the use of screening, codes of conduct, audits, and certifications."
+    ],
+    "pages": [
+      "80_b9"
+    ],
+    "industries": [
+      "b7-coal-operations",
+      "b9-iron-and-steel-producers",
+      "b12-oil-and-gas-midstream"
+    ],
+    "pairing_explanation": "These extractive industries have substantial environmental impacts, including emissions, land use, and water consumption, making them critical to compare in sustainability reporting.",
+    "qa_type": "multi_hop"
+  }
+]

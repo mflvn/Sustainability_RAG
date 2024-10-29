@@ -1,0 +1,392 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the five categories of gross global Scope 1 emissions that oil and gas exploration and production companies are required to disclose according to EM-EP-110a.2?",
+    "optionA": "Flared hydrocarbons, other combustion, process emissions, other vented emissions, and fugitive emissions",
+    "optionB": "Flared hydrocarbons, natural gas leaks, process emissions, other vented emissions, and pipeline emissions",
+    "optionC": "Other combustion, process emissions, other vented emissions, fugitive emissions, and transportation emissions",
+    "optionD": "Flared hydrocarbons, other combustion, process emissions, other vented emissions, and well completion emissions",
+    "optionE": "Other combustion, process emissions, other vented emissions, fugitive emissions, and offshore platform emissions",
+    "answer": "A. Flared hydrocarbons, other combustion, process emissions, other vented emissions, and fugitive emissions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "95-96",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the industry description, what activities are covered by the Oil & Gas - Exploration & Production standard?",
+    "optionA": "Only onshore oil and gas extraction",
+    "optionB": "Only offshore oil and gas extraction",
+    "optionC": "Development of both on-shore and off-shore reserves",
+    "optionD": "Only conventional oil and gas reserves",
+    "optionE": "Only unconventional oil and gas reserves",
+    "answer": "C. Development of both on-shore and off-shore reserves",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "90",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What is the unit of measure for the metric 'Estimated carbon dioxide emissions embedded in proved hydrocarbon reserves' (EM-EP-420a.2)?",
+    "optionA": "Million barrels (MMbbls)",
+    "optionB": "Metric tons (t) CO\u2082-e",
+    "optionC": "Million standard cubic feet (MMscf)",
+    "optionD": "Percentage (%)",
+    "optionE": "Thousand cubic meters (m\u00b3)",
+    "answer": "B. Metric tons (t) CO\u2082-e",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "91",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What is the definition of 'fresh water' according to the water management metrics?",
+    "optionA": "Water with less than 500 parts per million of dissolved solids",
+    "optionB": "Water with less than 1000 parts per million of dissolved solids",
+    "optionC": "Water with less than 2000 parts per million of dissolved solids",
+    "optionD": "Water obtained only from natural sources",
+    "optionE": "Water that has been treated in a purification plant",
+    "answer": "B. Water with less than 1000 parts per million of dissolved solids",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "99",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might an oil and gas exploration company's capital expenditure strategy be affected if the Sustainable Development Scenario from the IEA's World Energy Outlook becomes reality?",
+    "optionA": "The company would likely increase investments in conventional oil and gas reserves",
+    "optionB": "The company would probably maintain its current investment strategy without changes",
+    "optionC": "The company might shift investments towards renewable energy and lower-carbon assets",
+    "optionD": "The company would focus exclusively on offshore drilling projects",
+    "optionE": "The company would increase investments in coal reserves to diversify its portfolio",
+    "answer": "C. The company might shift investments towards renewable energy and lower-carbon assets",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "103-107",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "If an E&P company operates in a region with High Baseline Water Stress and is required to disclose its water management practices, which combination of actions would likely be most effective in addressing both regulatory compliance and environmental concerns?",
+    "optionA": "Increase freshwater withdrawal and discharge more produced water",
+    "optionB": "Implement water recycling technologies and disclose all fracturing fluid chemicals",
+    "optionC": "Reduce water consumption but increase hydrocarbon content in discharged water",
+    "optionD": "Increase hydraulic fracturing without monitoring groundwater quality",
+    "optionE": "Only focus on reducing Scope 1 emissions without considering water management",
+    "answer": "B. Implement water recycling technologies and disclose all fracturing fluid chemicals",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "99-102",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How would an E&P company's greenhouse gas emission reduction strategy be impacted if it discovers that a significant portion of its Scope 1 emissions come from methane in vented and fugitive emissions?",
+    "optionA": "Focus solely on reducing flared hydrocarbons",
+    "optionB": "Ignore methane emissions and concentrate on CO2 from combustion",
+    "optionC": "Implement comprehensive leak detection and repair programs along with improved venting management",
+    "optionD": "Increase natural gas production to offset methane emissions",
+    "optionE": "Only report combined Scope 1 and 2 emissions to mask the methane issue",
+    "answer": "C. Implement comprehensive leak detection and repair programs along with improved venting management",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "93-98",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "If an E&P company's sensitivity analysis shows that a significant portion of its reserves may become uneconomical under the IEA's Sustainable Development Scenario, how might this impact its approach to reserves valuation and capital expenditures?",
+    "optionA": "Continue with business as usual, ignoring the sensitivity analysis results",
+    "optionB": "Immediately divest all potentially stranded assets, regardless of current profitability",
+    "optionC": "Diversify investments into both lower-carbon energy sources and more efficient extraction technologies for existing reserves",
+    "optionD": "Increase production rates to extract maximum value before potential regulatory changes",
+    "optionE": "Only invest in regions without climate regulations to avoid future risks",
+    "answer": "C. Diversify investments into both lower-carbon energy sources and more efficient extraction technologies for existing reserves",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "103-107",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What are 'flared hydrocarbons' in the context of greenhouse gas emissions from oil and gas exploration and production?",
+    "optionA": "Hydrocarbons that are intentionally burned off during well testing",
+    "optionB": "Emissions from stationary devices like boilers and furnaces",
+    "optionC": "All emissions emitted from flares associated with the management and disposal of unrecoverable natural gas",
+    "optionD": "Fugitive emissions from valves and connectors",
+    "optionE": "Vented emissions from crude oil storage tanks",
+    "answer": "C. All emissions emitted from flares associated with the management and disposal of unrecoverable natural gas",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "95",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is the 'Sustainable Development Scenario' as described in the IEA's World Energy Outlook?",
+    "optionA": "A scenario that assumes no changes in current policies",
+    "optionB": "A scenario that assumes broad policy commitments and plans announced by countries will be implemented",
+    "optionC": "A scenario that assumes an energy pathway consistent with limiting global temperature increase to 1.5\u00b0C",
+    "optionD": "A scenario that focuses solely on maximizing oil and gas production",
+    "optionE": "A scenario that assumes all fossil fuel use will cease by 2050",
+    "answer": "C. A scenario that assumes an energy pathway consistent with limiting global temperature increase to 1.5\u00b0C",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "103-104",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "How is 'water consumption' defined in the context of water management metrics for oil and gas exploration and production?",
+    "optionA": "The total amount of water withdrawn from all sources",
+    "optionB": "Water that evaporates during usage and water incorporated into products or services",
+    "optionC": "Only the water used in hydraulic fracturing operations",
+    "optionD": "The amount of water discharged back into the environment",
+    "optionE": "Water used for cooling equipment in production facilities",
+    "answer": "B. Water that evaporates during usage and water incorporated into products or services",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "99-100",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What does 'deterioration in water quality' mean in the context of hydraulic fracturing site monitoring?",
+    "optionA": "Any change in water color or odor",
+    "optionB": "Presence of thermogenic gas or increased methane concentration by more than 5.0 mg/l",
+    "optionC": "Decrease in water pressure at the well site",
+    "optionD": "Increase in water temperature by more than 2 degrees Celsius",
+    "optionE": "Presence of any contaminants not naturally occurring in the water",
+    "answer": "B. Presence of thermogenic gas or increased methane concentration by more than 5.0 mg/l",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "101",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might an oil and gas exploration company's capital expenditure strategy be influenced by the increasing global focus on renewable energy sources?",
+    "optionA": "By solely increasing investments in fossil fuel extraction technologies",
+    "optionB": "By diversifying investments to include renewable energy projects",
+    "optionC": "By completely abandoning all hydrocarbon-related investments",
+    "optionD": "By focusing only on short-term profit maximization from existing reserves",
+    "optionE": "By investing exclusively in deep-sea drilling operations",
+    "answer": "B. By diversifying investments to include renewable energy projects",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "106-107",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "What potential impact could the requirement to disclose estimated carbon dioxide emissions embedded in proved hydrocarbon reserves have on an E&P company's long-term strategy?",
+    "optionA": "It would have no impact on the company's strategy",
+    "optionB": "It might lead to increased focus on lower-carbon intensity reserves",
+    "optionC": "It would result in immediate abandonment of all high-carbon reserves",
+    "optionD": "It would only affect the company's marketing strategies",
+    "optionE": "It would lead to increased investment in carbon-intensive reserves",
+    "answer": "B. It might lead to increased focus on lower-carbon intensity reserves",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "105-106",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How could the requirement for E&P companies to discuss their long-term and short-term strategies to manage Scope 1 emissions impact their operational decision-making?",
+    "optionA": "It would have no impact on operational decisions",
+    "optionB": "It might encourage investment in emissions reduction technologies and practices",
+    "optionC": "It would lead to immediate shutdown of all high-emission operations",
+    "optionD": "It would only affect the company's public relations strategies",
+    "optionE": "It would result in increased investment in high-emission operations",
+    "answer": "B. It might encourage investment in emissions reduction technologies and practices",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "96-98",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might the requirement for E&P companies to disclose the percentage of hydraulically fractured wells with public disclosure of all fracturing fluid chemicals impact industry practices and stakeholder relations?",
+    "optionA": "It may lead to increased operational costs for companies",
+    "optionB": "It could result in improved public trust and transparency in the industry",
+    "optionC": "It might cause companies to reduce their hydraulic fracturing activities",
+    "optionD": "It would have no significant impact on industry practices",
+    "optionE": "It could lead to increased regulatory scrutiny of hydraulic fracturing operations",
+    "answer": "B: It could result in improved public trust and transparency in the industry",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Exploration & Production",
+    "page": "101",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What specific water management metrics are E&P companies required to disclose according to the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Only total fresh water withdrawn",
+    "optionB": "Total fresh water withdrawn and consumed, with percentages in water-stressed regions",
+    "optionC": "Only water consumption in hydraulic fracturing operations",
+    "optionD": "Produced water volume without any further breakdown",
+    "optionE": "Only wastewater discharge volumes",
+    "answer": "B. Total fresh water withdrawn and consumed, with percentages in water-stressed regions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "91",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the required frequency for ongoing water quality monitoring at hydraulic fracturing sites according to the disclosure requirements?",
+    "optionA": "Monthly",
+    "optionB": "Quarterly",
+    "optionC": "Annually",
+    "optionD": "Once between 12-18 months after well completion, then again between 60-78 months later",
+    "optionE": "Only when requested by regulatory authorities",
+    "answer": "D. Once between 12-18 months after well completion, then again between 60-78 months later",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "101-102",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the disclosure requirements, how should E&P companies analyze the sensitivity of their hydrocarbon reserves to future price scenarios?",
+    "optionA": "Using only internal company projections",
+    "optionB": "Based on historical price trends",
+    "optionC": "Using scenarios from the International Energy Agency's World Energy Outlook",
+    "optionD": "Only considering current market prices",
+    "optionE": "Using scenarios provided by OPEC",
+    "answer": "C. Using scenarios from the International Energy Agency's World Energy Outlook",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "103-104",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What specific information about renewable energy investments are E&P companies required to disclose according to the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Only the total amount invested in renewable energy",
+    "optionB": "The number of renewable energy projects",
+    "optionC": "Projected future renewable energy investments",
+    "optionD": "Total amount invested in renewable energy and revenue generated from renewable energy sales",
+    "optionE": "Only the percentage of total investment allocated to renewables",
+    "answer": "D. Total amount invested in renewable energy and revenue generated from renewable energy sales",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "106",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the requirement to disclose the amount invested in renewable energy and revenue generated from renewable energy sales affect E&P companies' diversification strategies?",
+    "optionA": "It could encourage E&P companies to increase investments in renewable energy",
+    "optionB": "It might lead to E&P companies spinning off their renewable energy divisions",
+    "optionC": "It could result in E&P companies abandoning renewable energy investments altogether",
+    "optionD": "It may not have any significant impact on E&P companies' strategies",
+    "optionE": "It could cause E&P companies to overstate their renewable energy investments",
+    "answer": "A. It could encourage E&P companies to increase investments in renewable energy",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "106",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "What potential consequences could arise from the requirement for E&P companies to discuss how price and demand for hydrocarbons and climate regulation influence their capital expenditure strategy?",
+    "optionA": "It may lead to more strategic and climate-conscious investment decisions",
+    "optionB": "It could result in a uniform approach to capital expenditure across the industry",
+    "optionC": "It might cause companies to halt all new exploration and development projects",
+    "optionD": "It could lead to increased regulatory scrutiny of E&P companies' operations",
+    "optionE": "It may have no significant impact on companies' capital expenditure strategies",
+    "answer": "A. It may lead to more strategic and climate-conscious investment decisions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "106-107",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a category for disclosing Scope 1 emissions from E&P operations?",
+    "optionA": "Flared hydrocarbons",
+    "optionB": "Process emissions",
+    "optionC": "Fugitive emissions",
+    "optionD": "Vented emissions",
+    "optionE": "Indirect emissions from electricity consumption",
+    "answer": "E. Indirect emissions from electricity consumption",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "95-96",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT included in the disclosure requirements for water management in E&P operations?",
+    "optionA": "Total fresh water withdrawn",
+    "optionB": "Volume of produced water and flowback generated",
+    "optionC": "Percentage of hydraulically fractured wells with public disclosure of fracturing fluid chemicals",
+    "optionD": "Percentage of hydraulic fracturing sites with deteriorated water quality",
+    "optionE": "Water treatment technologies used at hydraulic fracturing sites",
+    "answer": "E. Water treatment technologies used at hydraulic fracturing sites",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "99-102",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following price scenarios is NOT mentioned as part of the required sensitivity analysis for hydrocarbon reserves?",
+    "optionA": "Current Policies Scenario",
+    "optionB": "New Policies Scenario",
+    "optionC": "Sustainable Development Scenario",
+    "optionD": "Net Zero Emissions by 2050 Scenario",
+    "optionE": "Company's own price forecasts",
+    "answer": "D. Net Zero Emissions by 2050 Scenario",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "103-104",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a required disclosure for E&P companies regarding their greenhouse gas emissions management?",
+    "optionA": "Discussion of long-term and short-term strategies to manage Scope 1 emissions",
+    "optionB": "Emission reduction targets",
+    "optionC": "Analysis of performance against emission reduction targets",
+    "optionD": "Scope 2 emissions reduction strategies",
+    "optionE": "Activities and investments required to achieve emission reduction plans",
+    "answer": "D: Scope 2 emissions reduction strategies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Exploration & Production",
+    "page": "96-98",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  }
+]

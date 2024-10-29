@@ -1,0 +1,146 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "According to IFRS S2, which of the following is a required disclosure for coal operations companies but NOT for oil and gas services companies?",
+    "optionA": "Total fuel consumed and percentage renewable",
+    "optionB": "Discussion of long-term and short-term strategy to manage Scope 1 emissions",
+    "optionC": "Number of incidents of non-compliance with water quality permits",
+    "optionD": "Percentage of engines that meet emissions standards",
+    "optionE": "Sensitivity of coal reserve levels to future carbon price scenarios",
+    "answer": "E. Sensitivity of coal reserve levels to future carbon price scenarios",
+    "explanation": "Coal operations companies are required to disclose the sensitivity of their coal reserve levels to future price projection scenarios that account for a price on carbon emissions (EM-CO-420a.1). This is not a requirement for oil and gas services companies, as they typically do not own reserves. Oil and gas services companies have different disclosure requirements focused on their operations and services.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services"
+    ],
+    "pages": [
+      "49",
+      "124-132"
+    ],
+    "pairing_explanation": "Both industries involve extensive environmental impact due to resource extraction and energy production activities. Comparing their sustainability efforts could shed light on how they manage emissions, land use, and community impacts.",
+    "industries": [
+      "b7-coal-operations",
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When disclosing greenhouse gas (GHG) emissions, which of the following is required for coal operations companies but not explicitly mentioned for oil and gas services companies?",
+    "optionA": "Scope 1 emissions",
+    "optionB": "Percentage of emissions covered under emissions-limiting regulations",
+    "optionC": "Discussion of emissions reduction targets",
+    "optionD": "Emissions from transportation activities",
+    "optionE": "Scope 2 emissions",
+    "answer": "B. Percentage of emissions covered under emissions-limiting regulations",
+    "explanation": "Coal operations companies are required to disclose the percentage of their gross global Scope 1 GHG emissions that are covered under emissions-limiting regulations (EM-CO-110a.1). This specific requirement is not explicitly mentioned for oil and gas services companies in the provided IFRS S2 disclosure requirements.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services"
+    ],
+    "pages": [
+      "43-46",
+      "126-129"
+    ],
+    "pairing_explanation": "Both industries involve extensive environmental impact due to resource extraction and energy production activities. Comparing their sustainability efforts could shed light on how they manage emissions, land use, and community impacts.",
+    "industries": [
+      "b7-coal-operations",
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of recycled water for sustainability reporting, how do coal operations and oil and gas services companies differ in their approach?",
+    "optionA": "Coal operations include produced water, while oil and gas services do not",
+    "optionB": "Oil and gas services count reused water multiple times, while coal operations do not",
+    "optionC": "Coal operations use a different definition of fresh water than oil and gas services",
+    "optionD": "Oil and gas services include flowback water, while coal operations do not",
+    "optionE": "There is no significant difference in the calculation method",
+    "answer": "B. Oil and gas services count reused water multiple times, while coal operations do not",
+    "explanation": "For oil and gas services companies, IFRS S2 explicitly states that 'Any volume of water reused multiple times shall be counted as recycled each time it is recycled and reused' (EM-SV-140a.1). This specific instruction is not provided for coal operations companies, indicating a difference in the calculation approach for recycled water percentage.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services"
+    ],
+    "pages": [
+      "47-48",
+      "130-131"
+    ],
+    "pairing_explanation": "Both industries involve extensive environmental impact due to resource extraction and energy production activities. Comparing their sustainability efforts could shed light on how they manage emissions, land use, and community impacts.",
+    "industries": [
+      "b7-coal-operations",
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When reporting on emissions reduction for coal operations and oil and gas services, which of the following metrics is specifically required for oil and gas services but not for coal operations?",
+    "optionA": "Gross global Scope 1 emissions",
+    "optionB": "Percentage of renewable fuel consumed",
+    "optionC": "Emissions reduction targets",
+    "optionD": "Percentage of engines that comply with emissions standards",
+    "optionE": "Discussion of long-term emissions reduction strategy",
+    "answer": "D. Percentage of engines that comply with emissions standards",
+    "explanation": "Oil and gas services companies are specifically required to disclose the 'Percentage of engines in service that comply with highest level of emissions standards for non-road diesel engine emissions' (EM-SV-110a.3). This metric is not listed as a requirement for coal operations companies in the provided IFRS S2 disclosure requirements.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services"
+    ],
+    "pages": [
+      "43-46",
+      "128-129"
+    ],
+    "pairing_explanation": "Both industries involve extensive environmental impact due to resource extraction and energy production activities. Comparing their sustainability efforts could shed light on how they manage emissions, land use, and community impacts.",
+    "industries": [
+      "b7-coal-operations",
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the IFRS S2 requirements for discussing water management strategies differ between coal operations and oil and gas services companies?",
+    "optionA": "Coal operations focus on water quality, while oil and gas services focus on water quantity",
+    "optionB": "Oil and gas services must discuss flowback water, while coal operations do not",
+    "optionC": "Coal operations must address non-compliance incidents, while oil and gas services do not",
+    "optionD": "Oil and gas services must discuss customer demand for water-efficient technologies",
+    "optionE": "There are no significant differences in the water management strategy discussion requirements",
+    "answer": "D. Oil and gas services must discuss customer demand for water-efficient technologies",
+    "explanation": "The IFRS S2 requirements for oil and gas services companies specifically state that they must discuss 'demand for specific products, services, and technologies that offer well and field operators reduced water consumption, water recycling, and/or other water impact reductions, and its ability to meet this demand' (EM-SV-140a.2). This specific requirement is not present for coal operations companies, reflecting the service-oriented nature of the oil and gas services industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services"
+    ],
+    "pages": [
+      "47-48",
+      "131-132"
+    ],
+    "pairing_explanation": "Both industries involve extensive environmental impact due to resource extraction and energy production activities. Comparing their sustainability efforts could shed light on how they manage emissions, land use, and community impacts.",
+    "industries": [
+      "b7-coal-operations",
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "Which of the following sustainability considerations is more prominently addressed in the IFRS S2 requirements for coal operations compared to oil and gas services?",
+    "optionA": "Renewable energy usage",
+    "optionB": "Biodiversity impact",
+    "optionC": "Carbon pricing and reserve valuation",
+    "optionD": "Community relations",
+    "optionE": "Occupational health and safety",
+    "answer": "C. Carbon pricing and reserve valuation",
+    "explanation": "The IFRS S2 requirements for coal operations include detailed disclosures about the sensitivity of coal reserve levels to future price projection scenarios that account for a price on carbon emissions (EM-CO-420a.1, EM-CO-420a.2, EM-CO-420a.3). This level of detail regarding carbon pricing and its impact on reserve valuation is not present in the requirements for oil and gas services companies, likely because they typically do not own reserves. This reflects the different roles these industries play in the energy sector and their varying exposure to carbon pricing risks.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services"
+    ],
+    "pages": [
+      "49-52",
+      "124-132"
+    ],
+    "pairing_explanation": "Both industries involve extensive environmental impact due to resource extraction and energy production activities. Comparing their sustainability efforts could shed light on how they manage emissions, land use, and community impacts.",
+    "industries": [
+      "b7-coal-operations",
+      "b14-oil-and-gas-services"
+    ]
+  }
+]

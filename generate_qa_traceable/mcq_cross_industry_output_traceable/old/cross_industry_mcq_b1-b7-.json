@@ -1,0 +1,189 @@
+[
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Apparel, Accessories & Footwear and Coal Operations industries.",
+    "optionA": "EM-CO-110a.2, EM-CO-420a.3",
+    "optionB": "CG-AA-440a.1, EM-CO-110a.2, EM-CO-420a.3",
+    "optionC": "EM-CO-110a.2, EM-CO-420a.1, EM-CO-420a.3",
+    "optionD": "CG-AA-440a.1, EM-CO-110a.2, EM-CO-420a.3, EM-CO-420a.1",
+    "optionE": "<UNKNOWN>",
+    "answer": "optionB",
+    "pages": [
+      "8",
+      "45",
+      "51"
+    ],
+    "reference_text": [
+      "CG-AA-440a.1. Description of environmental and social risks associated with sourcing priority raw materials",
+      "EM-CO-110a.2. Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets",
+      "EM-CO-420a.3. Discussion of how price and demand for coal and/or climate regulation influence the capital expenditure strategy for exploration, acquisition, and development of assets"
+    ],
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "List the activity metrics for Apparel, Accessories & Footwear and Coal Operations industries.",
+    "optionA": "Number of (1) Tier 1 suppliers and (2) suppliers beyond Tier 1, Production of thermal coal, Production of metallurgical coal",
+    "optionB": "Number of (1) Tier 1 suppliers and (2) suppliers beyond Tier 1",
+    "optionC": "Production of thermal coal, Production of metallurgical coal",
+    "optionD": "<UNKNOWN>",
+    "optionE": "Number of (1) Tier 1 suppliers",
+    "answer": "optionA",
+    "pages": [
+      "7",
+      "52"
+    ],
+    "reference_text": [
+      "Number of (1) Tier 1 suppliers and (2) suppliers beyond Tier 1 \u00b9",
+      "Production of thermal coal, Production of metallurgical coal"
+    ],
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Compare the number of quantitative metrics between Apparel, Accessories & Footwear and Coal Operations industries.",
+    "optionA": "The Apparel, Accessories & Footwear industry has more quantitative metrics than the Coal Operations industry.",
+    "optionB": "The Coal Operations industry has more quantitative metrics than the Apparel, Accessories & Footwear industry.",
+    "optionC": "Both industries have the same number of quantitative metrics.",
+    "optionD": "<UNKNOWN>",
+    "optionE": "The Apparel, Accessories & Footwear industry does not have any quantitative metrics.",
+    "answer": "optionB",
+    "pages": [
+      "6-10",
+      "42-52"
+    ],
+    "reference_text": [
+      "For the Apparel, Accessories & Footwear industry, there is 1 quantitative metric: CG-AA-440a.2",
+      "For the Coal Operations industry, there are 5 quantitative metrics: EM-CO-110a.1, EM-CO-140a.1, EM-CO-140a.2, EM-CO-420a.1, EM-CO-420a.2"
+    ],
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Are there any common sustainability topics betweenApparel, Accessories & Footwear and Coal Operations industries?",
+    "optionA": "Yes, both industries share the sustainability topic of greenhouse gas emissions.",
+    "optionB": "No, there are no common sustainability topics between the two industries.",
+    "optionC": "Yes, both industries share the sustainability topics of raw materials sourcing and water management.",
+    "optionD": "Yes, both industries share the sustainability topic of reserves valuation and capital expenditures.",
+    "optionE": "<UNKNOWN>",
+    "answer": "optionA",
+    "pages": [
+      "6",
+      "43"
+    ],
+    "reference_text": [
+      "For Apparel, Accessories & Footwear, the sustainability topics are: Raw Materials Sourcing",
+      "For Coal Operations, the sustainability topics are: Greenhouse Gas Emissions, Water Management, Reserves Valuation & Capital Expenditures"
+    ],
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "When preparing sustainability reports, how do the reporting requirements for describing the strategy or plan to manage Scope 1 emissions differ between the Apparel, Accessories & Footwear and Coal Operations industries?",
+    "optionA": "For the Apparel, Accessories & Footwear industry, there is no requirement to describe the strategy or plan for managing Scope 1 emissions. For Coal Operations, the requirement is to discuss the long-term and short-term strategy or plan to manage Scope 1 emissions, including emissions reduction targets and analysis of performance against those targets.",
+    "optionB": "The reporting requirements are exactly the same for both industries - they must discuss their long-term and short-term strategy or plan for managing Scope 1 emissions, targets, and performance analysis.",
+    "optionC": "For Apparel, Accessories & Footwear, the requirement is to discuss strategies for reducing emissions from raw materials sourcing. For Coal Operations, the requirement is to discuss the overall strategy for managing Scope 1 emissions including targets and performance.",
+    "optionD": "For Apparel, Accessories & Footwear, there is no emissions reporting requirement. For Coal Operations, the only requirement is to disclose the gross global Scope 1 emissions amount.",
+    "optionE": "There are no differing requirements between the two industries when it comes to describing emissions management strategies.",
+    "answer": "C",
+    "pages": [
+      "43-46"
+    ],
+    "reference_text": [
+      "For the Apparel, Accessories & Footwear industry: CG-AA-440a.1. Description of environmental and social risks associated with sourcing priority raw materials...8.1 Relevant strategies to discuss include: due diligence practices, supply chain auditing, partnerships with industry groups or nongovernmental development organizations, using substitute materials, research and development into materials with less environmental or social risks, supplier diversification, implementing supply chain codes of conduct, training or engagement programs, supplier audits and/or certifications, and research into the full traceability of material sources, among other strategies.",
+      "For the Coal Operations industry: EM-CO-110a.2. Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets"
+    ],
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for the Apparel, Accessories & Footwear and Coal Operations industries.",
+    "optionA": "CG-AA-440a.2, EM-CO-110a.1, EM-CO-140a.1, EM-CO-140a.2, EM-CO-420a.1, EM-CO-420a.2",
+    "optionB": "CG-AA-440a.2, EM-CO-000.A, EM-CO-000.B, EM-CO-110a.1, EM-CO-140a.1, EM-CO-140a.2, EM-CO-420a.1, EM-CO-420a.2",
+    "optionC": "CG-AA-440a.2, EM-CO-110a.1, EM-CO-140a.1, EM-CO-420a.1, EM-CO-420a.2",
+    "optionD": "CG-AA-000.A, EM-CO-000.A, EM-CO-000.B, EM-CO-110a.1, EM-CO-140a.1, EM-CO-140a.2, EM-CO-420a.1, EM-CO-420a.2",
+    "optionE": "CG-AA-440a.1, CG-AA-440a.2, EM-CO-110a.1, EM-CO-140a.1, EM-CO-140a.2, EM-CO-420a.1, EM-CO-420a.2",
+    "answer": "B",
+    "pages": [
+      "7-10",
+      "42"
+    ],
+    "reference_text": [
+      "From Table 1 for Apparel, Accessories & Footwear: Quantitative metrics are CG-AA-440a.2",
+      "From Table 2 for Apparel, Accessories & Footwear: Quantitative metric is CG-AA-000.A",
+      "From Table 1 for Coal Operations: Quantitative metrics are EM-CO-110a.1, EM-CO-140a.1, EM-CO-140a.2, EM-CO-420a.1, EM-CO-420a.2",
+      "From Table 2 for Coal Operations: Quantitative metrics are EM-CO-000.A, EM-CO-000.B"
+    ],
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "What units of measurement are used across the Apparel, Accessories & Footwear and Coal Operations industries for measuring water usage?",
+    "optionA": "Thousand cubic meters, Percentage",
+    "optionB": "Cubic meters, Percentage",
+    "optionC": "Gallons, Percentage",
+    "optionD": "Liters, Percentage",
+    "optionE": "No common units of measurement for water usage across the two industries.",
+    "answer": "A",
+    "pages": [
+      "9",
+      "47"
+    ],
+    "reference_text": [
+      "For Apparel, Accessories & Footwear: No metrics related to water usage",
+      "For Coal Operations: EM-CO-140a.1. (1) Total fresh water withdrawn, (2) percentage recycled, (3) percentage in regions with High or Extremely High Baseline Water Stress ... 1 The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from freshwater sources: ... 2 The entity shall disclose the percentage of water recycled as the volume, in thousands of cubic meters, recycled divided by the volume of water withdrawn."
+    ],
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Are there any common sustainability topics between the Apparel, Accessories & Footwear and Coal Operations industries according to Table 1, and if so, what are the differences in their reporting requirements?",
+    "optionA": "Yes, both industries have reporting requirements related to greenhouse gas emissions, but the specific metrics and reporting details differ between the two industries.",
+    "optionB": "No, there are no common sustainability topics with reporting requirements across the two industries based on Table 1.",
+    "optionC": "Yes, both have identical reporting requirements for water management.",
+    "optionD": "Yes, both have the same reporting requirements for raw materials sourcing and reserves valuation.",
+    "optionE": "Yes, the reporting requirements are exactly the same across all sustainability topics for both industries.",
+    "answer": "A",
+    "pages": [
+      "7-10",
+      "42-52"
+    ],
+    "reference_text": [
+      "For Apparel, Accessories & Footwear, Table 1 shows the topic 'Raw Materials Sourcing' with metrics like CG-AA-440a.1 and CG-AA-440a.2",
+      "For Coal Operations, Table 1 shows the topic 'Greenhouse Gas Emissions' with metrics like EM-CO-110a.1 and EM-CO-110a.2"
+    ],
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "qa_type": "multi_hop"
+  }
+]

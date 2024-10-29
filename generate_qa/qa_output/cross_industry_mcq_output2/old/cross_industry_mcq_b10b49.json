@@ -1,0 +1,146 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When reporting on greenhouse gas emissions, what is a key difference in the disclosure requirements between the Metals & Mining industry and the Electrical & Electronic Equipment industry?",
+    "optionA": "Metals & Mining must disclose Scope 1 emissions, while Electrical & Electronic Equipment does not",
+    "optionB": "Electrical & Electronic Equipment must disclose Scope 2 emissions, while Metals & Mining does not",
+    "optionC": "Metals & Mining must disclose the percentage of emissions covered under emissions-limiting regulations, while Electrical & Electronic Equipment does not have this requirement",
+    "optionD": "Electrical & Electronic Equipment must disclose emissions from product use, while Metals & Mining does not",
+    "optionE": "Both industries have identical greenhouse gas emissions reporting requirements",
+    "answer": "C: Metals & Mining must disclose the percentage of emissions covered under emissions-limiting regulations, while Electrical & Electronic Equipment does not have this requirement",
+    "explanation": "The Metals & Mining industry has a specific requirement (EM-MM-110a.1) to disclose the percentage of gross global Scope 1 GHG emissions that are covered under emissions-limiting regulations. This requirement is not present in the Electrical & Electronic Equipment industry disclosures.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electrical & Electronic Equipment"
+    ],
+    "pages": [
+      "82",
+      "523"
+    ],
+    "pairing_explanation": "Mining provides critical raw materials for electronic equipment, presenting issues of resource depletion and recycling within closed-loop systems.",
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "In the context of energy management reporting, what is a key similarity between the Metals & Mining industry and the Electrical & Electronic Equipment industry?",
+    "optionA": "Both industries must report on nuclear energy consumption",
+    "optionB": "Both industries are required to disclose total energy consumed, percentage grid electricity, and percentage renewable",
+    "optionC": "Both industries must report on energy intensity per unit of production",
+    "optionD": "Both industries are exempt from reporting renewable energy consumption",
+    "optionE": "Both industries must report on energy storage capacity",
+    "answer": "B: Both industries are required to disclose total energy consumed, percentage grid electricity, and percentage renewable",
+    "explanation": "Both the Metals & Mining industry (EM-MM-130a.1) and the Electrical & Electronic Equipment industry (RT-EE-130a.1) have identical requirements to disclose (1) total energy consumed, (2) percentage grid electricity, and (3) percentage renewable energy.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electrical & Electronic Equipment"
+    ],
+    "pages": [
+      "86",
+      "523-524"
+    ],
+    "pairing_explanation": "Mining provides critical raw materials for electronic equipment, presenting issues of resource depletion and recycling within closed-loop systems.",
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of renewable energy consumed, what is a key difference in the scope between the Metals & Mining industry and the Electrical & Electronic Equipment industry?",
+    "optionA": "Metals & Mining includes all biomass sources, while Electrical & Electronic Equipment has limitations",
+    "optionB": "Electrical & Electronic Equipment includes all hydroelectric sources, while Metals & Mining has limitations",
+    "optionC": "Metals & Mining excludes on-site generated renewable energy, while Electrical & Electronic Equipment includes it",
+    "optionD": "Electrical & Electronic Equipment includes nuclear energy as renewable, while Metals & Mining does not",
+    "optionE": "There are no differences in the scope of renewable energy between the two industries",
+    "answer": "E: There are no differences in the scope of renewable energy between the two industries",
+    "explanation": "Both industries have identical requirements and limitations for calculating the percentage of renewable energy consumed, including the same limitations on biomass and hydroelectric sources, and the same inclusion criteria for on-site generated renewable energy and purchased renewable energy.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electrical & Electronic Equipment"
+    ],
+    "pages": [
+      "86-87",
+      "523-524"
+    ],
+    "pairing_explanation": "Mining provides critical raw materials for electronic equipment, presenting issues of resource depletion and recycling within closed-loop systems.",
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "In the context of product-related environmental metrics, what is a key difference between the Metals & Mining industry and the Electrical & Electronic Equipment industry?",
+    "optionA": "Metals & Mining must report on product recycling rates, while Electrical & Electronic Equipment does not",
+    "optionB": "Electrical & Electronic Equipment must report on revenue from energy-efficient products, while Metals & Mining does not",
+    "optionC": "Metals & Mining must report on product carbon footprint, while Electrical & Electronic Equipment does not",
+    "optionD": "Electrical & Electronic Equipment must report on product water usage, while Metals & Mining does not",
+    "optionE": "Both industries have identical product-related environmental metrics",
+    "answer": "B: Electrical & Electronic Equipment must report on revenue from energy-efficient products, while Metals & Mining does not",
+    "explanation": "The Electrical & Electronic Equipment industry has a specific metric (RT-EE-410a.3) requiring disclosure of revenue from renewable energy-related and energy efficiency-related products. This product-specific environmental metric is not present in the Metals & Mining industry disclosures.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electrical & Electronic Equipment"
+    ],
+    "pages": [
+      "81-89",
+      "526-527"
+    ],
+    "pairing_explanation": "Mining provides critical raw materials for electronic equipment, presenting issues of resource depletion and recycling within closed-loop systems.",
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the water management reporting requirements differ between the Metals & Mining industry and the Electrical & Electronic Equipment industry?",
+    "optionA": "Metals & Mining has more comprehensive water management reporting requirements",
+    "optionB": "Electrical & Electronic Equipment has more comprehensive water management reporting requirements",
+    "optionC": "Both industries have identical water management reporting requirements",
+    "optionD": "Neither industry has water management reporting requirements",
+    "optionE": "Metals & Mining reports on water quality, while Electrical & Electronic Equipment reports on water quantity",
+    "answer": "A: Metals & Mining has more comprehensive water management reporting requirements",
+    "explanation": "The Metals & Mining industry has specific water management metrics (EM-MM-140a.1 and EM-MM-140a.2) requiring disclosure of total fresh water withdrawn, consumed, percentage in water-stressed areas, and incidents of non-compliance. The Electrical & Electronic Equipment industry does not have specific water management reporting requirements in the provided standards.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electrical & Electronic Equipment"
+    ],
+    "pages": [
+      "88-89",
+      "522-527"
+    ],
+    "pairing_explanation": "Mining provides critical raw materials for electronic equipment, presenting issues of resource depletion and recycling within closed-loop systems.",
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "Which of the following statements best describes a key difference in sustainability reporting focus between the Metals & Mining industry and the Electrical & Electronic Equipment industry?",
+    "optionA": "Metals & Mining focuses on operational impacts, while Electrical & Electronic Equipment focuses on product impacts",
+    "optionB": "Electrical & Electronic Equipment focuses on supply chain impacts, while Metals & Mining focuses on community impacts",
+    "optionC": "Metals & Mining focuses on air quality, while Electrical & Electronic Equipment focuses on water quality",
+    "optionD": "Electrical & Electronic Equipment focuses on biodiversity, while Metals & Mining focuses on land use",
+    "optionE": "Both industries have identical sustainability reporting focuses",
+    "answer": "A: Metals & Mining focuses on operational impacts, while Electrical & Electronic Equipment focuses on product impacts",
+    "explanation": "The Metals & Mining industry standards focus more on operational impacts such as greenhouse gas emissions, energy management, and water management. In contrast, the Electrical & Electronic Equipment industry standards have a significant focus on product-related impacts, including metrics for energy-efficient products, products containing certain substances, and revenue from renewable energy-related products.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electrical & Electronic Equipment"
+    ],
+    "pages": [
+      "81-89",
+      "522-527"
+    ],
+    "pairing_explanation": "Mining provides critical raw materials for electronic equipment, presenting issues of resource depletion and recycling within closed-loop systems.",
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ]
+  }
+]

@@ -1,0 +1,2714 @@
+[
+  {
+    "industries": [
+      "b35-home-builders"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the number of (1) lots and (2) homes delivered in regions with High or Extremely High Baseline Water Stress?",
+    "answer": "C",
+    "temperature": 0.5,
+    "version": "old",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "C"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Home Builders": 10,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "The entity shall disclose the number of controlled lots located in regions with High or Extremely High Baseline Water Stress.",
+    "optionB": "The entity shall disclose the number of homes delivered in regions with High or Extremely High Baseline Water Stress.",
+    "optionC": "Both (1) the number of controlled lots located in regions with High or Extremely High Baseline Water Stress and (2) the number of homes delivered in regions with High or Extremely High Baseline Water Stress.",
+    "optionD": "<UNKNOWN>",
+    "optionE": "<UNKNOWN>"
+  },
+  {
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the main regulatory risk for midstream companies related to greenhouse gas emissions?",
+    "answer": "D",
+    "temperature": 0.5,
+    "version": "old",
+    "specificity_score": 4,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score_Oil and Gas - Midstream": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Higher operating or capital expenditures",
+    "optionB": "Regulatory or legal penalties",
+    "optionC": "Reputational risk",
+    "optionD": "All of the above",
+    "optionE": "None of the above"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the purpose of a commercial bank disclosing its 'gross exposure to carbon-related industries'?",
+    "answer": "C",
+    "temperature": 0.5,
+    "version": "old",
+    "specificity_score": 7,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "C",
+      "E"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "To demonstrate the bank's commitment to sustainable lending practices",
+    "optionB": "To comply with regulatory requirements for climate-related financial disclosures",
+    "optionC": "To help users of the bank's financial reporting better understand its exposure to transition risks",
+    "optionD": "To enable comparison of the bank's emissions performance against its peers",
+    "optionE": "All of the above"
+  },
+  {
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the definition of Load Factor for air freight and logistics companies?",
+    "answer": "C",
+    "temperature": 0.5,
+    "version": "old",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "C"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Air Freight & Logistics": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "The ratio of cargo weight to total vehicle weight",
+    "optionB": "The ratio of cargo volume to total vehicle volume",
+    "optionC": "The ratio of kilometers traveled by cargo to total kilometers traveled",
+    "optionD": "The ratio of revenue ton-kilometers to available ton-kilometers",
+    "optionE": "The ratio of revenue passengers to total passenger capacity"
+  },
+  {
+    "industries": [
+      "b20-agricultural-products"
+    ],
+    "qa_type": "single_hop",
+    "question": "What percentage of the entity's total fuel consumed by fleet vehicles is renewable fuel?",
+    "answer": "A",
+    "temperature": 0.5,
+    "version": "old",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 3,
+    "relevancy_score_Agricultural Products": 2,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Disclosed as a percentage",
+    "optionB": "Not disclosed",
+    "optionC": "Disclosed in gigajoules (GJ)",
+    "optionD": "Disclosed in metric tons (t) CO2-e",
+    "optionE": "All of the above"
+  },
+  {
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the percentage of refrigerants consumed by the entity that have zero ozone-depleting potential?",
+    "answer": "D",
+    "temperature": 0.5,
+    "version": "old",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 10,
+    "relevancy_score_Food Retailers & Distributors": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "10%",
+    "optionB": "25%",
+    "optionC": "50%",
+    "optionD": "75%",
+    "optionE": "90%"
+  },
+  {
+    "industries": [
+      "b20-agricultural-products"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the total amount of fuel consumed by the entity's fleet vehicles?",
+    "answer": "A",
+    "temperature": 0.5,
+    "version": "old",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 2,
+    "relevancy_score_Agricultural Products": 2,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Disclosed in gigajoules (GJ)",
+    "optionB": "Disclosed in metric tons (t) CO2-e",
+    "optionC": "Disclosed as a percentage of total energy consumed",
+    "optionD": "Not disclosed",
+    "optionE": "All of the above"
+  },
+  {
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the key metric used to measure capacity utilization for air transport in the air freight and logistics industry?",
+    "answer": "B",
+    "temperature": 0.5,
+    "version": "old",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Air Freight & Logistics": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Revenue ton kilometers (RTK)",
+    "optionB": "Load factor",
+    "optionC": "Number of employees",
+    "optionD": "Fuel consumed",
+    "optionE": "Greenhouse gas emissions"
+  },
+  {
+    "industries": [
+      "b20-agricultural-products"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Which of the following is NOT a strategy or practice that agricultural products companies should discuss for mitigating water management risks under the SASB standard?",
+    "answer": "C",
+    "temperature": 0.5,
+    "version": "old",
+    "specificity_score": 5,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "C"
+    ],
+    "faithfulness_score": 7,
+    "relevancy_score_Agricultural Products": 8,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "optionA": "Use of water recycling and/or closed-loop systems",
+    "optionB": "Redesigning products or services to require less water",
+    "optionC": "Investing in on-site water treatment facilities",
+    "optionD": "Collaborations or programs with the community or other organizations",
+    "optionE": "Use of tools and technologies to analyze water use, risk, and opportunities"
+  },
+  {
+    "industries": [
+      "b35-home-builders"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Which metric requires a discussion of the process to integrate environmental considerations into site selection, site design, and site development and construction?",
+    "answer": "D",
+    "temperature": 0.5,
+    "version": "old",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Home Builders": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "IF-HB-160a.1",
+    "optionB": "IF-HB-160a.2",
+    "optionC": "IF-HB-160a.3",
+    "optionD": "IF-HB-160a.4",
+    "optionE": "IF-HB-410a.1"
+  },
+  {
+    "industries": [
+      "b20-agricultural-products"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Which of the following is NOT a way that agricultural products companies can limit exposure to volatile fuel pricing, supply disruptions, and regulatory costs related to greenhouse gas emissions?",
+    "answer": "C",
+    "temperature": 0.5,
+    "version": "old",
+    "specificity_score": 5,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "C"
+    ],
+    "faithfulness_score": 7,
+    "relevancy_score_Agricultural Products": 8,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "optionA": "Employing innovative technologies that use alternative fuels and energy inputs",
+    "optionB": "Improving fuel efficiency",
+    "optionC": "Generating energy on-site through the direct combustion of fossil fuels",
+    "optionD": "Improving operational efficiency",
+    "optionE": "Employing biomass waste generated from internal processes"
+  },
+  {
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the main purpose of the Oil and Gas - Midstream industry?",
+    "answer": "C",
+    "temperature": 0.5,
+    "version": "old",
+    "specificity_score": 4,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "C"
+    ],
+    "faithfulness_score": 4,
+    "relevancy_score_Oil and Gas - Midstream": 3,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Upstream oil and gas exploration and production",
+    "optionB": "Refining and marketing of petroleum products",
+    "optionC": "Transportation and storage of natural gas, crude oil, and refined petroleum products",
+    "optionD": "Manufacture and installation of storage tanks and pipelines",
+    "optionE": "All of the above"
+  },
+  {
+    "industries": [
+      "b7-coal-operations"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the total fresh water withdrawn by coal operations companies?",
+    "answer": "D",
+    "temperature": 0.5,
+    "version": "old",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 4,
+    "relevancy_score_Coal Operations": 3,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "The total fresh water withdrawn is not disclosed",
+    "optionB": "The total fresh water withdrawn is 1,000 cubic meters",
+    "optionC": "The total fresh water withdrawn is 10,000 cubic meters",
+    "optionD": "The total fresh water withdrawn is disclosed in thousands of cubic meters",
+    "optionE": "The total fresh water withdrawn is disclosed in millions of cubic meters"
+  },
+  {
+    "industries": [
+      "b35-home-builders"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Which metric tracks the number of lots and homes delivered on redevelopment sites?",
+    "answer": "A",
+    "temperature": 0.5,
+    "version": "old",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Home Builders": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "IF-HB-160a.1",
+    "optionB": "IF-HB-160a.2",
+    "optionC": "IF-HB-160a.3",
+    "optionD": "IF-HB-160a.4",
+    "optionE": "IF-HB-410a.1"
+  },
+  {
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the definition of Scope 1 emissions according to the SASB standards?",
+    "answer": "A",
+    "temperature": 0,
+    "version": "old",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Air Freight & Logistics": 8,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Scope 1 emissions are defined as direct greenhouse gas emissions from sources that are owned or controlled by the company.",
+    "optionB": "Scope 1 emissions are defined as indirect greenhouse gas emissions from the generation of purchased energy consumed by the company.",
+    "optionC": "Scope 1 emissions are defined as other indirect greenhouse gas emissions that occur in the company's value chain.",
+    "optionD": "Scope 1 emissions are defined as emissions from sources that are not owned or controlled by the company.",
+    "optionE": "Scope 1 emissions are not defined in the SASB standards."
+  },
+  {
+    "industries": [
+      "b46-aerospace-and-defense"
+    ],
+    "qa_type": "single_hop",
+    "question": "What type of alternative energy-related products do companies in the Aerospace & Defense industry sell?",
+    "answer": "C",
+    "temperature": 0,
+    "version": "old",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "C",
+      "D",
+      "E"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score_Aerospace & Defense": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "The industry does not sell any alternative energy-related products",
+    "optionB": "The industry only sells electric vehicles",
+    "optionC": "The industry sells vehicles, vehicle components, and stationary power generation equipment that rely on alternative fuel or energy",
+    "optionD": "The industry sells hydrogen fuel and fuel cell products",
+    "optionE": "The industry sells a combination of electric, hybrid electric, and dual-fueled products"
+  },
+  {
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the percentage of the entity's gross global Scope 1 greenhouse gas emissions that are from methane?",
+    "answer": "C",
+    "temperature": 0,
+    "version": "old",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Oil and Gas - Midstream": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "10%",
+    "optionB": "20%",
+    "optionC": "30%",
+    "optionD": "40%",
+    "optionE": "50%"
+  },
+  {
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the definition of alternative fuel according to the SASB standards?",
+    "answer": "A",
+    "temperature": 0,
+    "version": "old",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Air Freight & Logistics": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Alternative fuel is defined as fuel from sources other than petroleum that has the potential to generate lower carbon emissions than petroleum-based fuel on a life cycle basis.",
+    "optionB": "Alternative fuel is defined as renewable fuel that meets certain criteria for greenhouse gas emissions reduction and sustainability.",
+    "optionC": "Alternative fuel is defined as any fuel that is not natural gas or renewable fuel.",
+    "optionD": "Alternative fuel is not defined in the SASB standards.",
+    "optionE": "Alternative fuel is defined as any fuel that is not petroleum-based."
+  },
+  {
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ],
+    "qa_type": "single_hop",
+    "question": "Which of the following is NOT a category of emissions that the entity may discuss in its strategy or plan to manage Scope 1 emissions under EM-MD-110a.2?",
+    "answer": "E",
+    "temperature": 0,
+    "version": "old",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "E"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score_Oil and Gas - Midstream": 9,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "optionA": "Flared hydrocarbons",
+    "optionB": "Other combusted emissions",
+    "optionC": "Process emissions",
+    "optionD": "Vented emissions",
+    "optionE": "Fugitive emissions from solar panels"
+  },
+  {
+    "industries": [
+      "b46-aerospace-and-defense"
+    ],
+    "qa_type": "single_hop",
+    "question": "What percentage of the energy consumed by companies in the Aerospace & Defense industry is grid electricity?",
+    "answer": "E",
+    "temperature": 0,
+    "version": "old",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "E"
+    ],
+    "faithfulness_score": 5,
+    "relevancy_score_Aerospace & Defense": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "The percentage of grid electricity is not disclosed",
+    "optionB": "10% of the energy consumed is grid electricity",
+    "optionC": "50% of the energy consumed is grid electricity",
+    "optionD": "75% of the energy consumed is grid electricity",
+    "optionE": "The percentage of grid electricity consumed is disclosed"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the definition of 'financed emissions' according to the SASB standard?",
+    "answer": "B",
+    "temperature": 0,
+    "version": "old",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "The total quantity of Scope 1, Scope 2, and Scope 3 emissions expressed in metric tons of CO2 equivalent (mt CO2-e).",
+    "optionB": "The portion of gross emissions of an investee or counterparty attributed to the loans and investments made by the entity to the investee or counterparty which falls under Scope 3: category 15 (investments) in accordance with the GHG Protocol Corporate Value Chain (Scope 3) Standard.",
+    "optionC": "The emissions intensity of financed emissions, disaggregated by Scope 1, Scope 2 and Scope 3 emissions, for each industry by asset class.",
+    "optionD": "The methodology used to calculate financed emissions, including the approach to collecting underlying emissions data and the use of estimations, proxies or assumptions.",
+    "optionE": "All of the above"
+  },
+  {
+    "industries": [
+      "b20-agricultural-products"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What percentage of the total fuel consumed by the entity's fleet vehicles is renewable fuel?",
+    "answer": "A",
+    "temperature": 0,
+    "version": "old",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 3,
+    "relevancy_score_Agricultural Products": 2,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "The entity shall disclose the percentage of the total amount of fuel consumed by its fleet vehicles that is renewable fuel.",
+    "optionB": "The entity shall disclose the percentage of the total amount of fuel consumed by its fleet vehicles that is non-renewable fuel.",
+    "optionC": "The entity is not required to disclose the percentage of renewable fuel consumed by its fleet vehicles.",
+    "optionD": "The entity shall disclose the total amount of renewable fuel consumed by its fleet vehicles, but not as a percentage.",
+    "optionE": "The entity shall disclose the total amount of non-renewable fuel consumed by its fleet vehicles, but not as a percentage."
+  },
+  {
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the primary mode of transportation for natural gas, crude oil, and refined petroleum products in the midstream industry?",
+    "answer": "D",
+    "temperature": 0,
+    "version": "old",
+    "specificity_score": 5,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 7,
+    "relevancy_score_Oil and Gas - Midstream": 8,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Pipeline",
+    "optionB": "Tanker",
+    "optionC": "Truck",
+    "optionD": "All of the above",
+    "optionE": "None of the above"
+  },
+  {
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the main reason why the management of fugitive methane emissions is a major risk for midstream companies?",
+    "answer": "D",
+    "temperature": 0,
+    "version": "old",
+    "specificity_score": 5,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Oil and Gas - Midstream": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Methane is a potent greenhouse gas",
+    "optionB": "Methane emissions create additional regulatory compliance costs",
+    "optionC": "Methane emissions can lead to reputational damage",
+    "optionD": "All of the above",
+    "optionE": "None of the above"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "According to the SASB Commercial Banks (FN-CB) Standard, which of the following is included in the scope of disclosure for FN-CB-1 (Gross exposure to carbon-related industries)?",
+    "answer": "E",
+    "temperature": 0,
+    "version": "old",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Loans and project finance only",
+    "optionB": "Loans, project finance, bonds, and equity investments only",
+    "optionC": "Loans, project finance, bonds, equity investments, and derivatives",
+    "optionD": "Loans, project finance, bonds, equity investments, derivatives, and undrawn loan commitments",
+    "optionE": "All of the above"
+  },
+  {
+    "industries": [
+      "b35-home-builders"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the total amount of monetary losses as a result of legal proceedings associated with environmental regulations?",
+    "answer": "A",
+    "temperature": 0,
+    "version": "old",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 5,
+    "relevancy_score_Home Builders": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "The entity shall disclose the total amount of monetary losses it incurred during the reporting period as a result of legal proceedings associated with environmental regulations.",
+    "optionB": "The entity shall disclose the total amount of monetary gains it incurred during the reporting period as a result of legal proceedings associated with environmental regulations.",
+    "optionC": "The entity shall disclose the total amount of monetary losses and gains it incurred during the reporting period as a result of legal proceedings associated with environmental regulations.",
+    "optionD": "The entity shall not disclose any monetary losses or gains as a result of legal proceedings associated with environmental regulations.",
+    "optionE": "The entity shall disclose the total amount of monetary losses and gains it incurred during the reporting period as a result of legal proceedings associated with any regulations, not just environmental regulations."
+  },
+  {
+    "industries": [
+      "b7-coal-operations"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Which of the following is NOT a typical parameter of concern for water quality compliance in the coal operations industry?",
+    "answer": "E",
+    "temperature": 0,
+    "version": "old",
+    "specificity_score": 5,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "E"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score_Coal Operations": 9,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "optionA": "Selenium",
+    "optionB": "Total dissolved solids (TDS)",
+    "optionC": "Sulfate",
+    "optionD": "pH",
+    "optionE": "Nitrogen"
+  },
+  {
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ],
+    "qa_type": "multi_hop",
+    "question": "According to the SASB standard, which of the following is NOT included in the scope of Scope 1 greenhouse gas emissions for midstream companies?",
+    "answer": "D",
+    "temperature": 0,
+    "version": "old",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score_Oil and Gas - Midstream": 9,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "optionA": "Emissions from stationary sources like compressors and processing facilities",
+    "optionB": "Emissions from mobile sources like trucks and marine vessels",
+    "optionC": "Emissions from office buildings",
+    "optionD": "Emissions from upstream oil and gas production",
+    "optionE": "All of the above are included in Scope 1 emissions"
+  },
+  {
+    "industries": [
+      "b7-coal-operations"
+    ],
+    "qa_type": "single_hop",
+    "question": "How does the entity calculate the estimated carbon dioxide emissions embedded in its proven coal reserves?",
+    "answer": "D",
+    "temperature": 0.2,
+    "version": "old",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Coal Operations": 10,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Using a formula based on the proven reserves, net calorific value, and effective carbon dioxide emission factor",
+    "optionB": "By estimating the potential emissions from downstream use of the coal",
+    "optionC": "By using default data published by the IPCC",
+    "optionD": "Both A and C",
+    "optionE": "All of the above"
+  },
+  {
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the definition of Scope 1 emissions according to the SASB standards?",
+    "answer": "A",
+    "temperature": 0.2,
+    "version": "old",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Air Freight & Logistics": 8,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Scope 1 emissions are defined as direct greenhouse gas emissions from sources that are owned or controlled by the company.",
+    "optionB": "Scope 1 emissions are defined as indirect greenhouse gas emissions from the generation of purchased energy consumed by the company.",
+    "optionC": "Scope 1 emissions are defined as other indirect greenhouse gas emissions that occur in the company's value chain.",
+    "optionD": "Scope 1 emissions are defined as emissions from the combustion of biofuels.",
+    "optionE": "Scope 1 emissions are defined as emissions from the production of purchased materials."
+  },
+  {
+    "industries": [
+      "b35-home-builders"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the total amount of monetary losses as a result of legal proceedings associated with environmental regulations?",
+    "answer": "A",
+    "temperature": 0.2,
+    "version": "old",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score_Home Builders": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "The entity shall disclose the total amount of monetary losses it incurred during the reporting period as a result of legal proceedings associated with environmental regulations.",
+    "optionB": "The entity shall disclose the total amount of monetary gains it incurred during the reporting period as a result of legal proceedings associated with environmental regulations.",
+    "optionC": "The entity shall disclose the total amount of monetary losses and gains it incurred during the reporting period as a result of legal proceedings associated with environmental regulations.",
+    "optionD": "The entity shall not disclose any monetary losses or gains as a result of legal proceedings associated with environmental regulations.",
+    "optionE": "The entity shall only disclose monetary losses as a result of legal proceedings associated with environmental regulations if the losses exceed a certain threshold."
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the definition of 'financed emissions' according to the SASB standard?",
+    "answer": "B",
+    "temperature": 0.2,
+    "version": "old",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "The total quantity of Scope 1, Scope 2, and Scope 3 emissions expressed in metric tons of CO2 equivalent (mt CO2-e).",
+    "optionB": "The portion of gross emissions of an investee or counterparty attributed to the loans and investments made by the entity to the investee or counterparty which falls under Scope 3: category 15 (investments) in accordance with the GHG Protocol Corporate Value Chain (Scope 3) Standard.",
+    "optionC": "The emissions intensity of financed emissions, disaggregated by Scope 1, Scope 2 and Scope 3 emissions, for each industry by asset class.",
+    "optionD": "The methodology used to calculate financed emissions, including the approach to collecting underlying emissions data and the use of estimations, proxies or assumptions.",
+    "optionE": "All of the above"
+  },
+  {
+    "industries": [
+      "b35-home-builders"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the discussion of the process to integrate environmental considerations into site selection, site design, and site development and construction?",
+    "answer": "A",
+    "temperature": 0.2,
+    "version": "old",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Home Builders": 10,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "The entity shall provide a discussion of its process used to integrate environmental considerations into site selection, design, and development and construction.",
+    "optionB": "The entity shall not provide any discussion of its process to integrate environmental considerations into site selection, site design, and site development and construction.",
+    "optionC": "The entity shall only provide a discussion of its process to integrate environmental considerations into site selection, but not site design or site development and construction.",
+    "optionD": "The entity shall only provide a discussion of its process to integrate environmental considerations into site design, but not site selection or site development and construction.",
+    "optionE": "The entity shall only provide a discussion of its process to integrate environmental considerations into site development and construction, but not site selection or site design."
+  },
+  {
+    "industries": [
+      "b46-aerospace-and-defense"
+    ],
+    "qa_type": "single_hop",
+    "question": "What percentage of the energy consumed by companies in the Aerospace & Defense industry is grid electricity?",
+    "answer": "E",
+    "temperature": 0.2,
+    "version": "old",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "E"
+    ],
+    "faithfulness_score": 5,
+    "relevancy_score_Aerospace & Defense": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "The percentage of grid electricity is not disclosed",
+    "optionB": "10% of the energy consumed is grid electricity",
+    "optionC": "50% of the energy consumed is grid electricity",
+    "optionD": "75% of the energy consumed is grid electricity",
+    "optionE": "The percentage of grid electricity consumed is disclosed"
+  },
+  {
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ],
+    "qa_type": "single_hop",
+    "question": "What percentage of the entity's energy consumption (excluding fleet vehicles) is from renewable sources?",
+    "answer": "D",
+    "temperature": 0.2,
+    "version": "old",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 8,
+    "relevancy_score_Food Retailers & Distributors": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "10%",
+    "optionB": "20%",
+    "optionC": "30%",
+    "optionD": "40%",
+    "optionE": "50%"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "According to the SASB Commercial Banks standard, which of the following is required to be disclosed for FN-CB-3 (Financed emissions)?",
+    "answer": "A",
+    "temperature": 0.2,
+    "version": "old",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Absolute gross Scope 1, Scope 2, and Scope 3 emissions for each industry by asset class",
+    "optionB": "Absolute gross Scope 1, Scope 2, and Scope 3 emissions for carbon-related industries only",
+    "optionC": "Absolute gross Scope 1 and Scope 2 emissions for each industry by asset class",
+    "optionD": "Absolute gross Scope 1, Scope 2, and Scope 3 emissions for the entity's entire portfolio",
+    "optionE": "Absolute gross Scope 1, Scope 2, and Scope 3 emissions for the entity's carbon-related asset classes only"
+  },
+  {
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the definition of revenue ton kilometers (RTK) for air freight and logistics companies?",
+    "answer": "A",
+    "temperature": 0.2,
+    "version": "old",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Air Freight & Logistics": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "One metric ton of revenue traffic transported one kilometer",
+    "optionB": "One metric ton of cargo transported one kilometer",
+    "optionC": "One metric ton of freight transported one kilometer",
+    "optionD": "One metric ton of passengers transported one kilometer",
+    "optionE": "One metric ton of fuel consumed one kilometer"
+  },
+  {
+    "industries": [
+      "b7-coal-operations"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Which of the following scenarios published by the International Energy Agency (IEA) in its World Energy Outlook (WEO) publication assumes the goal of limiting the global increase in temperature to 1.5\u00b0C?",
+    "answer": "C",
+    "temperature": 0.2,
+    "version": "old",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "C"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Coal Operations": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Current Policies Scenario",
+    "optionB": "New Policies Scenario",
+    "optionC": "Sustainable Development Scenario",
+    "optionD": "None of the above",
+    "optionE": "All of the above"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What does the SASB Commercial Banks standard define as 'financed emissions'?",
+    "answer": "C",
+    "temperature": 0.2,
+    "version": "old",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "C"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "The total quantity of Scope 1, Scope 2, and Scope 3 emissions of the entity itself",
+    "optionB": "The total quantity of Scope 1, Scope 2, and Scope 3 emissions of the entity's investees and counterparties",
+    "optionC": "The portion of gross emissions of an investee or counterparty attributed to the loans and investments made by the entity",
+    "optionD": "The portion of gross emissions of an investee or counterparty that the entity has offset or compensated for",
+    "optionE": "The portion of gross emissions of an investee or counterparty that the entity has disclosed publicly"
+  },
+  {
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What are some of the potential benefits for midstream companies that are able to effectively capture and monetize or reduce their greenhouse gas emissions?",
+    "answer": "E",
+    "temperature": 0.2,
+    "version": "old",
+    "specificity_score": 5,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "D",
+      "E"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Oil and Gas - Midstream": 8,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Reduced regulatory risks and operational efficiencies",
+    "optionB": "Increased market share and profitability",
+    "optionC": "Improved public image and stakeholder relations",
+    "optionD": "All of the above",
+    "optionE": "A and C only"
+  },
+  {
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What are some of the main sources of greenhouse gas emissions in the midstream industry?",
+    "answer": "A",
+    "temperature": 0.2,
+    "version": "old",
+    "specificity_score": 7,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score_Oil and Gas - Midstream": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Compressor engine exhausts, oil and condensate tank vents, natural gas processing, and fugitive emissions",
+    "optionB": "Upstream exploration and production activities",
+    "optionC": "Downstream refining and marketing operations",
+    "optionD": "All of the above",
+    "optionE": "None of the above"
+  },
+  {
+    "industries": [
+      "b7-coal-operations"
+    ],
+    "qa_type": "multi_hop",
+    "question": "According to the IPCC guidelines, which of the following is the default data source the entity should use to calculate the effective carbon dioxide emission factor for its proven coal reserves?",
+    "answer": "B",
+    "temperature": 0.2,
+    "version": "old",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Coal Operations": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "IPCC Table 1.2 Default Net Calorific Values",
+    "optionB": "IPCC Table 1.3 Default Values of Carbon Content",
+    "optionC": "IPCC Table 2.2 Default Emission Factors for Stationary Combustion in the Energy Industries",
+    "optionD": "IPCC Table 4.1 Default Emission Factors for Manufacturing Industries and Construction",
+    "optionE": "IPCC Table 6.4 Default Emission Factors for Waste"
+  },
+  {
+    "industries": [
+      "b20-agricultural-products"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the percentage of fleet fuel consumed that is renewable?",
+    "answer": "B",
+    "temperature": 1,
+    "version": "old",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 4,
+    "relevancy_score_Agricultural Products": 5,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "10%",
+    "optionB": "20%",
+    "optionC": "30%",
+    "optionD": "40%",
+    "optionE": "50%"
+  },
+  {
+    "industries": [
+      "b7-coal-operations"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the primary purpose of the EM-CO-420a.1 metric?",
+    "answer": "B",
+    "temperature": 1,
+    "version": "old",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Coal Operations": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "To measure the amount of greenhouse gas emissions embedded in proven coal reserves",
+    "optionB": "To analyze the sensitivity of coal reserve levels to future price projection scenarios that account for a price on carbon emissions",
+    "optionC": "To discuss how price and demand for coal and climate regulation influence capital expenditure strategy",
+    "optionD": "To measure the number of incidents of non-compliance associated with water quality permits, standards, and regulations",
+    "optionE": "To discuss the long-term and short-term strategy or plan to manage Scope 1 greenhouse gas emissions"
+  },
+  {
+    "industries": [
+      "b35-home-builders"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the number of (1) lots and (2) homes delivered in regions with High or Extremely High Baseline Water Stress?",
+    "answer": "C",
+    "temperature": 1,
+    "version": "old",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "C"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Home Builders": 10,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "The entity shall disclose the number of controlled lots located in regions with High or Extremely High Baseline Water Stress.",
+    "optionB": "The entity shall disclose the number of homes delivered in regions with High or Extremely High Baseline Water Stress.",
+    "optionC": "Both (1) and (2)",
+    "optionD": "None of the above",
+    "optionE": "<UNKNOWN>"
+  },
+  {
+    "industries": [
+      "b7-coal-operations"
+    ],
+    "qa_type": "single_hop",
+    "question": "What percentage of the total fresh water withdrawn by coal operations is in regions with High or Extremely High Baseline Water Stress?",
+    "answer": "E",
+    "temperature": 1,
+    "version": "old",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "E"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score_Coal Operations": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Less than 10%",
+    "optionB": "Between 10% and 25%",
+    "optionC": "Between 25% and 50%",
+    "optionD": "More than 50%",
+    "optionE": "Unknown"
+  },
+  {
+    "industries": [
+      "b20-agricultural-products"
+    ],
+    "qa_type": "single_hop",
+    "question": "What types of water management risks must the entity describe?",
+    "answer": "C",
+    "temperature": 1,
+    "version": "old",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "C"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Agricultural Products": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Risks associated with water withdrawals and consumption only",
+    "optionB": "Risks associated with water discharges only",
+    "optionC": "Risks associated with both water withdrawals/consumption and water discharges",
+    "optionD": "Risks associated with regulatory compliance only",
+    "optionE": "Risks associated with stakeholder perceptions only"
+  },
+  {
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ],
+    "qa_type": "single_hop",
+    "question": "What are some examples of activities and investments that air freight and logistics companies can undertake to reduce their Scope 1 greenhouse gas emissions?",
+    "answer": "A",
+    "temperature": 1,
+    "version": "old",
+    "specificity_score": 7,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score_Air Freight & Logistics": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Fuel optimization efforts, fleet upgrades, and adoption of alternative fuels",
+    "optionB": "Improving energy efficiency in warehouses and offices",
+    "optionC": "Increasing employee training on sustainability practices",
+    "optionD": "Both A and B",
+    "optionE": "All of the above"
+  },
+  {
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ],
+    "qa_type": "single_hop",
+    "question": "What information must companies disclose about their emissions reduction targets and performance?",
+    "answer": "D",
+    "temperature": 1,
+    "version": "old",
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Oil and Gas - Midstream": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "The scope of the emission reduction target and whether it is absolute or intensity-based",
+    "optionB": "The percentage reduction against the base year and the timelines for the reduction activity",
+    "optionC": "The mechanism(s) for achieving the target and any circumstances that may affect the target or base year",
+    "optionD": "All of the above",
+    "optionE": "None of the above"
+  },
+  {
+    "industries": [
+      "b20-agricultural-products"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Which of the following is NOT included in the scope of water consumption under the disclosure?",
+    "answer": "D",
+    "temperature": 1,
+    "version": "old",
+    "specificity_score": 7,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Agricultural Products": 10,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "optionA": "Water that evaporates during withdrawal, usage, and discharge",
+    "optionB": "Water that is directly or indirectly incorporated into the entity's product or service",
+    "optionC": "Water that does not return to the same catchment area from which it was withdrawn",
+    "optionD": "Water that is reused or recycled within the entity's operations",
+    "optionE": "All of the above are included in the scope of water consumption"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Which factor does the FN-CB-1 metric require commercial banks to disclose about their exposure to carbon-related industries?",
+    "answer": "E",
+    "temperature": 1,
+    "version": "old",
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Absolute emissions",
+    "optionB": "Emissions intensity",
+    "optionC": "Gross exposure by industry",
+    "optionD": "Percentage of total exposure",
+    "optionE": "All of the above"
+  },
+  {
+    "industries": [
+      "b35-home-builders"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Which regulatory framework does the Home Builders industry fall under?",
+    "answer": "D",
+    "temperature": 1,
+    "version": "old",
+    "specificity_score": 3,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 6,
+    "relevancy_score_Home Builders": 7,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "EU Directive 2008/98/EC on waste (Waste Framework Directive)",
+    "optionB": "U.S. Clean Water Act",
+    "optionC": "U.S. Resource Conservation and Recovery Act (RCRA)",
+    "optionD": "All of the above",
+    "optionE": "None of the above"
+  },
+  {
+    "industries": [
+      "b7-coal-operations"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Which of the following price scenarios does the industry guidance recommend coal operations companies use to analyze the sensitivity of their coal reserve levels?",
+    "answer": "D",
+    "temperature": 1,
+    "version": "old",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Coal Operations": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Current Policies Scenario",
+    "optionB": "New Policies Scenario",
+    "optionC": "Sustainable Development Scenario",
+    "optionD": "All of the above",
+    "optionE": "None of the above"
+  },
+  {
+    "industries": [
+      "b46-aerospace-and-defense"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Which of the following is not a relevant technology that Aerospace & Defense companies should describe in their strategy to address fuel economy and greenhouse gas emissions of their products?",
+    "answer": "D",
+    "temperature": 1,
+    "version": "old",
+    "specificity_score": 5,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 4,
+    "relevancy_score_Aerospace & Defense": 3,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "optionA": "Advanced powertrains like electric, hybrid electric, plug-in hybrid, and fuel cell vehicles",
+    "optionB": "Renewable fuels and energy technologies like biofuels and solar power",
+    "optionC": "Products that reduce petroleum consumption through advanced lean burn technology",
+    "optionD": "Electrification of the company's manufacturing facilities",
+    "optionE": "None of the above"
+  },
+  {
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ],
+    "qa_type": "multi_hop",
+    "question": "How does the SASB standard define Scope 1 greenhouse gas emissions for the Oil and Gas - Midstream industry?",
+    "answer": "D",
+    "temperature": 1,
+    "version": "old",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "D"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Oil and Gas - Midstream": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Emissions from all sources owned or controlled by the company",
+    "optionB": "Emissions from stationary sources only",
+    "optionC": "Emissions from mobile sources only",
+    "optionD": "Emissions from both stationary and mobile sources",
+    "optionE": "Emissions from operations in the United States only"
+  },
+  {
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What percentage of the entity's revenue is from eggs that originated from a cage-free environment?",
+    "answer": "A",
+    "temperature": 1,
+    "version": "old",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Food Retailers & Distributors": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "The entity did not disclose this information",
+    "optionB": "25%",
+    "optionC": "50%",
+    "optionD": "75%",
+    "optionE": "100%"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "According to the passage, which of the following is NOT a required element of the description of the methodology used to calculate financed emissions?",
+    "answer": "D",
+    "temperature": 1,
+    "version": "new",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 3,
+    "relevancy_score_Commercial Banks": 2,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "optionA": "The approach to collecting underlying emissions data including its source",
+    "optionB": "The method used to attribute the entity's share of emissions in relation to the size of its gross exposure",
+    "optionC": "The reasons for omitting GHG emissions of an investee or counterparty if unable to establish a faithful measure",
+    "optionD": "The expected return on investment for the entity's commercial and industrial credit portfolio",
+    "optionE": "If the source data has been verified by a third party, where possible"
+  },
+  {
+    "industries": [
+      "b7-coal-operations"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Which of the following scenarios published by the International Energy Agency (IEA) does the IFRS S2 standard explicitly require coal companies to analyze to determine the sensitivity of their coal reserve levels?",
+    "answer": "E",
+    "temperature": 1,
+    "version": "new",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Coal Operations": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Current Policies Scenario",
+    "optionB": "New Policies Scenario",
+    "optionC": "Sustainable Development Scenario",
+    "optionD": "A and B only",
+    "optionE": "All three scenarios"
+  },
+  {
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ],
+    "qa_type": "multi_hop",
+    "question": "According to the standard, what must the entity's calculation of Scope 1 greenhouse gas emissions from refrigerants exclude?",
+    "answer": "D",
+    "temperature": 1,
+    "version": "new",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Food Retailers & Distributors": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Emissions from the combustion of fossil fuels",
+    "optionB": "Emissions from non-refrigerant process sources",
+    "optionC": "Emissions from other sources unrelated to refrigerants",
+    "optionD": "All of the above",
+    "optionE": "None of the above"
+  },
+  {
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ],
+    "qa_type": "multi_hop",
+    "question": "According to the IFRS S2 standard, which of the following should the company discuss in its strategy or plan to manage Scope 1 emissions?",
+    "answer": "D",
+    "temperature": 1,
+    "version": "new",
+    "specificity_score": 5,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Oil and Gas - Midstream": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Activities and investments required to achieve the plans and/or targets",
+    "optionB": "Risks or limiting factors that might affect achievements of the plans and/or targets",
+    "optionC": "Whether the strategies, plans, and/or reduction targets are related to or associated with emissions limiting and/or emissions reporting-based programs or regulations",
+    "optionD": "All of the above",
+    "optionE": "None of the above"
+  },
+  {
+    "industries": [
+      "b46-aerospace-and-defense"
+    ],
+    "qa_type": "multi_hop",
+    "question": "According to the metrics for RT-AE-410a.2, which of the following is NOT listed as a relevant technology for improving fuel economy and reducing greenhouse gas emissions of products?",
+    "answer": "D",
+    "temperature": 1,
+    "version": "new",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Aerospace & Defense": 8,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "optionA": "Advanced powertrains",
+    "optionB": "Aerodynamic design",
+    "optionC": "Renewable fuels and energy",
+    "optionD": "Artificial intelligence for optimization",
+    "optionE": "Energy storage and batteries"
+  },
+  {
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What revenue sources can the entity include when disclosing the percentage of its revenue from products third-party certified to environmental or social sustainability sourcing standards?",
+    "answer": "D",
+    "temperature": 1,
+    "version": "new",
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "faithfulness_score": 6,
+    "relevancy_score_Food Retailers & Distributors": 8,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Only revenue from private-label products certified to sustainability standards.",
+    "optionB": "Only revenue from products certified to environmental sustainability standards, not social standards.",
+    "optionC": "Revenue from all products certified to either environmental or social sustainability standards.",
+    "optionD": "Revenue from products certified to standards that address both environmental and social impacts related to production.",
+    "optionE": "The standard does not specify what revenue sources can be included."
+  },
+  {
+    "industries": [
+      "b46-aerospace-and-defense"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Which of the following is NOT a factor that the company should describe in its approach and strategy to address fuel economy and greenhouse gas emissions of its products, according to the metrics for RT-AE-410a.2?",
+    "answer": "D",
+    "temperature": 1,
+    "version": "new",
+    "specificity_score": 7,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 3,
+    "relevancy_score_Aerospace & Defense": 2,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "optionA": "Meeting civil customer demand",
+    "optionB": "Aligning with industry initiatives",
+    "optionC": "Meeting requirements of federal procurement programs",
+    "optionD": "Impact on manufacturing costs",
+    "optionE": "Meeting regulatory emissions standards"
+  },
+  {
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the scope of the greenhouse gas (GHG) emissions disclosure required by the IFRS S2 standard?",
+    "answer": "A",
+    "temperature": 0.2,
+    "version": "new",
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 7,
+    "relevancy_score_Air Freight & Logistics": 8,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Scope 1 emissions only",
+    "optionB": "Scope 1 and Scope 2 emissions",
+    "optionC": "Scope 1, Scope 2, and Scope 3 emissions",
+    "optionD": "Tank-to-wheels emissions only",
+    "optionE": "All emissions across the entire value chain"
+  },
+  {
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the unit of measure for the activity metric 'Revenue ton kilometers (RTK)'?",
+    "answer": "D",
+    "temperature": 0.2,
+    "version": "new",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Air Freight & Logistics": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Metric tons (t) CO\u2082-e",
+    "optionB": "Gigajoules (GJ)",
+    "optionC": "Percentage (%)",
+    "optionD": "RTK",
+    "optionE": "Rate"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the definition of gross exposure for undrawn loan commitments according to the standard?",
+    "answer": "C",
+    "temperature": 0.2,
+    "version": "new",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "C"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "The funded carrying amounts expressed in the presentation currency of the entity's financial statements before subtracting the loss allowance",
+    "optionB": "The funded carrying amounts expressed in the presentation currency of the entity's financial statements after subtracting the loss allowance",
+    "optionC": "The full amount of the undrawn loan commitment expressed in the presentation currency of the entity's financial statements",
+    "optionD": "The contractual amounts to be exchanged in a derivative expressed in the presentation currency of the entity's financial statements",
+    "optionE": "The net amounts in a derivative for which net cash flows are exchanged, expressed in the presentation currency of the entity's financial statements"
+  },
+  {
+    "industries": [
+      "b35-home-builders"
+    ],
+    "qa_type": "single_hop",
+    "question": "According to the IFRS S2 standard, which of the following is NOT an example of a strategy a home builder could use to alleviate climate change risks?",
+    "answer": "E",
+    "temperature": 0.2,
+    "version": "new",
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "E"
+    ],
+    "faithfulness_score": 6,
+    "relevancy_score_Home Builders": 8,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "optionA": "Site selection and incorporation of climate or weather models into the analysis",
+    "optionB": "Timing of lot acquisitions, permitting, construction, and sales",
+    "optionC": "Use of sales and purchase agreement clauses addressing risks to the entity",
+    "optionD": "Maximizing energy and water efficiency of homes",
+    "optionE": "Relocating company headquarters to a different region"
+  },
+  {
+    "industries": [
+      "b7-coal-operations"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the definition of 'fresh water' for the purposes of the water withdrawal metric EM-CO-140a.1?",
+    "answer": "C",
+    "temperature": 0.2,
+    "version": "new",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Coal Operations": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Water that has less than 100 parts per million of dissolved solids",
+    "optionB": "Water that has less than 500 parts per million of dissolved solids",
+    "optionC": "Water that has less than 1,000 parts per million of dissolved solids",
+    "optionD": "Water that meets local drinking water regulations",
+    "optionE": "All of the above"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "Which industry classification standard does the entity use to classify counterparties?",
+    "answer": "C",
+    "temperature": 0.2,
+    "version": "new",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "C"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "NAICS",
+    "optionB": "ISIC",
+    "optionC": "GICS",
+    "optionD": "SIC",
+    "optionE": "TRBC"
+  },
+  {
+    "industries": [
+      "b46-aerospace-and-defense"
+    ],
+    "qa_type": "single_hop",
+    "question": "According to the IFRS S2 standard, which of the following is NOT considered an alternative energy-related product for the purposes of reporting revenue?",
+    "answer": "E",
+    "temperature": 0.2,
+    "version": "new",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "E"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Aerospace & Defense": 10,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "optionA": "Electric vehicles",
+    "optionB": "Hybrid electric vehicles",
+    "optionC": "Dual-fueled vehicles where one fuel source is alternative",
+    "optionD": "Vehicles powered by natural gas",
+    "optionE": "Vehicles powered by gasoline"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the definition of carbon-related industries according to the standard?",
+    "answer": "A",
+    "temperature": 0.2,
+    "version": "new",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Industries responsible for relatively high direct or indirect GHG emissions, including but not limited to oil, gas, chemicals, construction materials, metals, mining, paper, air freight, airlines, marine, road, rail, automobiles, homebuilding, beverages, food products, electric utilities, gas utilities, and real estate",
+    "optionB": "Industries responsible for relatively high direct GHG emissions, including but not limited to oil, gas, chemicals, construction materials, metals, and mining",
+    "optionC": "Industries responsible for relatively high indirect GHG emissions, including but not limited to air freight, airlines, marine, road, rail, automobiles, homebuilding, beverages, and food products",
+    "optionD": "Industries responsible for relatively high direct GHG emissions, including but not limited to electric utilities, gas utilities, and multi utilities",
+    "optionE": "Industries responsible for relatively high indirect GHG emissions, including but not limited to real estate management and development"
+  },
+  {
+    "industries": [
+      "b20-agricultural-products"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the scope of agricultural products that must be included in the percentage sourced from high water stress regions disclosure under metric FB-AG-440a.2?",
+    "answer": "D",
+    "temperature": 0.2,
+    "version": "new",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Agricultural Products": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "All agricultural products sourced by the company, including those grown on company-owned land",
+    "optionB": "Agricultural products sourced from Tier 1 suppliers only",
+    "optionC": "Agricultural products sourced from Tier 1 and Tier 2 suppliers",
+    "optionD": "Agricultural products sourced from Tier 1 suppliers that withdraw water in high water stress regions",
+    "optionE": "All agricultural products in the company's supply chain, including those sourced from Tier 3 and beyond"
+  },
+  {
+    "industries": [
+      "b35-home-builders"
+    ],
+    "qa_type": "multi_hop",
+    "question": "According to the IFRS S2 Climate-related Disclosures, which of the following is the scope of controlled lots that should be included when disclosing the number of lots located in regions with High or Extremely High Baseline Water Stress?",
+    "answer": "E",
+    "temperature": 0.2,
+    "version": "new",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "E"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Home Builders": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Only lots that are owned by the entity",
+    "optionB": "Only lots that are under construction",
+    "optionC": "Only lots that are available for sale",
+    "optionD": "Only lots that are in the entity's active selling communities",
+    "optionE": "All lots owned or contractually available for ownership through option contracts or other equivalent types of contracts"
+  },
+  {
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ],
+    "qa_type": "multi_hop",
+    "question": "According to the disclosure requirements, which of the following emissions sources should the entity discuss in its long-term and short-term strategy or plan to manage its Scope 1 greenhouse gas emissions?",
+    "answer": "E",
+    "temperature": 0.2,
+    "version": "new",
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "E"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Oil and Gas - Midstream": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Flared hydrocarbons",
+    "optionB": "Other combusted emissions",
+    "optionC": "Process emissions",
+    "optionD": "Vented emissions",
+    "optionE": "All of the above"
+  },
+  {
+    "industries": [
+      "b46-aerospace-and-defense"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Which of the following is not a factor that aerospace and defense companies should consider when discussing their strategy to address fuel economy and greenhouse gas emissions of their products?",
+    "answer": "D",
+    "temperature": 0.2,
+    "version": "new",
+    "specificity_score": 5,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 6,
+    "relevancy_score_Aerospace & Defense": 8,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "optionA": "Meeting civil customer demand",
+    "optionB": "Alignment with industry initiatives",
+    "optionC": "Meeting requirements of federal procurement programs",
+    "optionD": "Improving brand reputation",
+    "optionE": "Reducing regulatory risk"
+  },
+  {
+    "industries": [
+      "b7-coal-operations"
+    ],
+    "qa_type": "multi_hop",
+    "question": "According to the IFRS S2 standard, which of the following is NOT a requirement for a company to disclose when reporting its Scope 1 greenhouse gas emissions?",
+    "answer": "D",
+    "temperature": 0.2,
+    "version": "new",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 3,
+    "relevancy_score_Coal Operations": 2,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "optionA": "The percentage of its gross global Scope 1 GHG emissions that are covered under an emissions-limiting regulation or program",
+    "optionB": "The mechanism(s) for achieving any emissions reduction targets",
+    "optionC": "The scope of its emissions reduction strategies, plans, and/or targets",
+    "optionD": "The total amount of carbon dioxide emissions embedded in its proven coal reserves",
+    "optionE": "The calculation methodology used, such as if data are from continuous emissions monitoring systems (CEMS), engineering calculations, or mass balance calculations"
+  },
+  {
+    "industries": [
+      "b7-coal-operations"
+    ],
+    "qa_type": "multi_hop",
+    "question": "According to the IFRS S2 standard, which of the following is NOT a requirement for a company to disclose when reporting on the number of incidents of non-compliance associated with water quality permits, standards, and regulations?",
+    "answer": "D",
+    "temperature": 0.2,
+    "version": "new",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "D",
+      "E"
+    ],
+    "faithfulness_score": 3,
+    "relevancy_score_Coal Operations": 2,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "optionA": "The total number of instances of non-compliance, including violations of a technology-based standard and exceedances of quantity and/or quality-based standards",
+    "optionB": "The scope of disclosure includes incidents governed by national, state, and local statutory permits and regulations",
+    "optionC": "Violations shall be disclosed, regardless of their measurement methodology or frequency",
+    "optionD": "The entity shall disclose the percentage of its total water withdrawn that is in locations with High or Extremely High Baseline Water Stress",
+    "optionE": "The entity shall disclose the percentage of its total water consumed that is in locations with High or Extremely High Baseline Water Stress"
+  },
+  {
+    "industries": [
+      "b46-aerospace-and-defense"
+    ],
+    "qa_type": "single_hop",
+    "question": "According to the IFRS S2 standard, which of the following is included in the scope of renewable energy that can be claimed by an entity?",
+    "answer": "D",
+    "temperature": 0.5,
+    "version": "new",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Aerospace & Defense": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Renewable electricity generated on-site by the entity, as long as the RECs and GOs are retained and retired or cancelled on behalf of the entity.",
+    "optionB": "Renewable electricity purchased through a green power product, as long as the product explicitly includes and conveys the RECs and GOs.",
+    "optionC": "Renewable electricity that is part of the entity's local grid mix, even if the entity does not have control or influence over that renewable portion.",
+    "optionD": "Both A and B",
+    "optionE": "All of the above"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "According to the IFRS S2 standard, what is the definition of 'gross exposure' for the purpose of calculating financed emissions?",
+    "answer": "B",
+    "temperature": 0.5,
+    "version": "new",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "The total quantity of loans, investments, and derivatives held by the bank",
+    "optionB": "The funded carrying amounts of loans and investments, and the contractual amounts of derivatives",
+    "optionC": "The total assets on the bank's balance sheet",
+    "optionD": "The total risk-weighted assets of the bank",
+    "optionE": "The total amount of deposits held by the bank"
+  },
+  {
+    "industries": [
+      "b35-home-builders"
+    ],
+    "qa_type": "single_hop",
+    "question": "According to the IFRS S2 standard, which of the following aspects of site design should a home builder's discussion of its process to integrate environmental considerations include?",
+    "answer": "D",
+    "temperature": 0.5,
+    "version": "new",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "E"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Home Builders": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "The process used to assess the level of ecological sensitivity of sites under consideration for acquisition or development",
+    "optionB": "The use of site classifications (e.g., greenfield, greyfield, brownfield, and/or infill sites) in decision-making processes",
+    "optionC": "The process used to minimize ecological impacts during construction, including management of construction and demolition waste, runoff, soil disturbance and erosion, and hazardous materials",
+    "optionD": "The process used to design sites in order to minimize ecological impacts, including management of slope disturbance, soil disturbance and erosion, storm water, waste, and wildlife habitat impacts",
+    "optionE": "All of the above"
+  },
+  {
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the definition of 'Load factor' according to the IFRS S2 standard?",
+    "answer": "B",
+    "temperature": 0.5,
+    "version": "new",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Air Freight & Logistics": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Revenue ton kilometers (RTK) is defined as one metric ton of revenue traffic transported one kilometer.",
+    "optionB": "Load factor is a measure of capacity utilization and is calculated as kilometers traveled by cargo divided by total kilometers traveled.",
+    "optionC": "Load factor is the percentage of a vehicle's passenger-carrying capacity that is actually used.",
+    "optionD": "Load factor refers to the percentage of a vehicle's weight-carrying capacity that is actually used.",
+    "optionE": "Load factor is the ratio of a vehicle's actual fuel consumption to its design fuel consumption."
+  },
+  {
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the definition of a 'cage-free environment' for eggs according to the standard?",
+    "answer": "C",
+    "temperature": 0.5,
+    "version": "new",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "C"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Food Retailers & Distributors": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Hens housed in a building or area that allows for unlimited access to food and water",
+    "optionB": "Hens housed in a building or area that provides the freedom to roam during the laying cycle",
+    "optionC": "Hens housed in a building or area that allows for unlimited access to food, water, and freedom to roam during the laying cycle",
+    "optionD": "Hens housed in a building or area that provides the freedom to roam and is bedded",
+    "optionE": "Hens housed in a building or area that provides the freedom to roam and is non-bedded"
+  },
+  {
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the scope of the entity's disclosure for renewable energy consumption?",
+    "answer": "D",
+    "temperature": 0.5,
+    "version": "new",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Food Retailers & Distributors": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Only renewable electricity generated on-site",
+    "optionB": "Only renewable electricity purchased through a renewable power purchase agreement",
+    "optionC": "Only renewable fuel consumed",
+    "optionD": "Renewable electricity generated on-site, renewable electricity purchased, and renewable fuel consumed",
+    "optionE": "Renewable electricity generated on-site and renewable electricity purchased, excluding renewable fuel consumed"
+  },
+  {
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ],
+    "qa_type": "single_hop",
+    "question": "According to the document, which of the following is NOT an acceptable calculation methodology the entity can use to determine its Scope 1 greenhouse gas emissions?",
+    "answer": "E",
+    "temperature": 0.5,
+    "version": "new",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "E"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score_Oil and Gas - Midstream": 9,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "optionA": "GHG Reporting Guidance for the Aerospace Industry provided by International Aerospace Environmental Group (IAEG)",
+    "optionB": "Greenhouse Gas Inventory Guidance: Direct Emissions from Stationary Combustion Sources provided by the U.S. EPA",
+    "optionC": "India GHG Inventory Program",
+    "optionD": "Protocol for the quantification of greenhouse gas emissions from waste management activities provided by Entreprises pour l'Environnement (EpE)",
+    "optionE": "The Greenhouse Gas Inventory Guidance provided by the United Nations Framework Convention on Climate Change (UNFCCC)"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the rationale for disclosing the entity's gross exposure to carbon-related industries?",
+    "answer": "D",
+    "temperature": 0.5,
+    "version": "new",
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score_Commercial Banks": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "To demonstrate the entity's commitment to reducing its carbon footprint",
+    "optionB": "To comply with regulatory requirements on climate-related disclosures",
+    "optionC": "To highlight the entity's efforts to support the transition to a low-carbon economy",
+    "optionD": "To enable users to better understand the entity's exposure to transition risks associated with climate change",
+    "optionE": "To showcase the entity's leadership in sustainable finance compared to its peers"
+  },
+  {
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the percentage of refrigerants consumed by the entity that have zero ozone-depleting potential?",
+    "answer": "E",
+    "temperature": 0.5,
+    "version": "new",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 10,
+    "relevancy_score_Food Retailers & Distributors": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "10%",
+    "optionB": "25%",
+    "optionC": "50%",
+    "optionD": "75%",
+    "optionE": "100%"
+  },
+  {
+    "industries": [
+      "b46-aerospace-and-defense"
+    ],
+    "qa_type": "multi_hop",
+    "question": "According to the IFRS S2 standard, which of the following is NOT a factor that can influence an aerospace and defense company's efforts to improve the fuel economy and reduce greenhouse gas emissions of its products?",
+    "answer": "D",
+    "temperature": 0.5,
+    "version": "new",
+    "specificity_score": 7,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "D",
+      "E"
+    ],
+    "faithfulness_score": 6,
+    "relevancy_score_Aerospace & Defense": 8,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "optionA": "Meeting civil customer demand",
+    "optionB": "Alignment with industry initiatives",
+    "optionC": "Meeting requirements of federal procurement programs",
+    "optionD": "Reducing manufacturing costs",
+    "optionE": "Improving brand reputation"
+  },
+  {
+    "industries": [
+      "b46-aerospace-and-defense"
+    ],
+    "qa_type": "multi_hop",
+    "question": "According to the IFRS S2 standard, which of the following is NOT considered a key customer segment for aerospace and defense companies?",
+    "answer": "E",
+    "temperature": 0.5,
+    "version": "new",
+    "specificity_score": 4,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "E"
+    ],
+    "faithfulness_score": 4,
+    "relevancy_score_Aerospace & Defense": 3,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "optionA": "Commercial airlines",
+    "optionB": "Governments",
+    "optionC": "Law enforcement agencies",
+    "optionD": "Businesses and consumers",
+    "optionE": "Universities and research institutions"
+  },
+  {
+    "industries": [
+      "b7-coal-operations"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the definition of 'fresh water' used in the water management disclosure requirements?",
+    "answer": "D",
+    "temperature": 0.5,
+    "version": "new",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Coal Operations": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Water with less than 100 parts per million of dissolved solids",
+    "optionB": "Water that meets local drinking water regulations",
+    "optionC": "Water that has less than 500 parts per million of dissolved solids",
+    "optionD": "Water that has less than 1000 parts per million of dissolved solids",
+    "optionE": "Water that has less than 2000 parts per million of dissolved solids"
+  },
+  {
+    "industries": [
+      "b7-coal-operations"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the formula used to estimate the carbon dioxide emissions embedded in the entity's proven coal reserves?",
+    "answer": "A",
+    "temperature": 0.5,
+    "version": "new",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Coal Operations": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "E = R x V x C",
+    "optionB": "E = R + V + C",
+    "optionC": "E = R / V / C",
+    "optionD": "E = R * V + C",
+    "optionE": "E = R - V - C"
+  },
+  {
+    "industries": [
+      "b7-coal-operations"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the scope of incidents of non-compliance with water quality permits, standards, and regulations that the entity must disclose?",
+    "answer": "D",
+    "temperature": 0.5,
+    "version": "new",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Coal Operations": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "All incidents of non-compliance, regardless of whether they resulted in a formal enforcement action",
+    "optionB": "Only incidents of non-compliance that resulted in a monetary fine or penalty",
+    "optionC": "Only incidents of non-compliance related to selenium, total dissolved solids, and pH levels",
+    "optionD": "Only incidents of non-compliance that resulted in a formal enforcement action",
+    "optionE": "Only incidents of non-compliance related to total suspended solids and temperature levels"
+  },
+  {
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ],
+    "qa_type": "single_hop",
+    "question": "Which of the following is NOT an example of emissions-limiting regulations that the entity should include in its disclosure?",
+    "answer": "D",
+    "temperature": 0,
+    "version": "new",
+    "specificity_score": 7,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "D",
+      "E"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score_Oil and Gas - Midstream": 9,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "optionA": "California Cap-and-Trade (California Global Warming Solutions Act)",
+    "optionB": "European Union Emissions Trading Scheme (EU ETS)",
+    "optionC": "Quebec Cap-and-Trade (Draft Bill 42 of 2009)",
+    "optionD": "U.S. Environmental Protection Agency (EPA) GHG Reporting Program",
+    "optionE": "Alberta Emissions Trading System"
+  },
+  {
+    "industries": [
+      "b35-home-builders"
+    ],
+    "qa_type": "single_hop",
+    "question": "According to the IFRS S2 standard, which of the following is NOT a required aspect of the entity's description of its risks and opportunities related to incorporating resource efficiency into home design?",
+    "answer": "E",
+    "temperature": 0,
+    "version": "new",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "E"
+    ],
+    "faithfulness_score": 7,
+    "relevancy_score_Home Builders": 8,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "optionA": "Risks of failing to achieve adequate returns on investments made in technology and market demand to improve the sustainability performance of homes",
+    "optionB": "Risks to market demand associated with the entity's failure to evolve its design approach at the same pace as its peers",
+    "optionC": "Risks associated with the ability to cost-effectively build homes that meet evolving building codes",
+    "optionD": "Opportunities to achieve sales price premiums, capture target market demand, and establish competitive advantages by producing homes with market-leading energy and water efficiency",
+    "optionE": "The entity's strategy to measure and communicate energy and water efficiency performance improvements to customers"
+  },
+  {
+    "industries": [
+      "b7-coal-operations"
+    ],
+    "qa_type": "single_hop",
+    "question": "Which of the following is NOT an example of an emissions-limiting regulation mentioned in the document?",
+    "answer": "D",
+    "temperature": 0,
+    "version": "new",
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score_Coal Operations": 9,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "optionA": "California Cap-and-Trade",
+    "optionB": "European Union Emissions Trading Scheme",
+    "optionC": "Quebec Cap-and-Trade",
+    "optionD": "United States Clean Air Act",
+    "optionE": "None of the above"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the definition of financed emissions according to the standard?",
+    "answer": "C",
+    "temperature": 0,
+    "version": "new",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "C"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Emissions from the entity's own operations",
+    "optionB": "Emissions from the entity's supply chain",
+    "optionC": "Emissions from the entity's investments and loans",
+    "optionD": "Emissions from the entity's product use",
+    "optionE": "Emissions from the entity's waste disposal"
+  },
+  {
+    "industries": [
+      "b7-coal-operations"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the percentage of the entity's gross global Scope 1 greenhouse gas emissions that are covered under emissions-limiting regulations?",
+    "answer": "C",
+    "temperature": 0,
+    "version": "new",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 10,
+    "relevancy_score_Coal Operations": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "10%",
+    "optionB": "25%",
+    "optionC": "50%",
+    "optionD": "75%",
+    "optionE": "90%"
+  },
+  {
+    "industries": [
+      "b46-aerospace-and-defense"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the key factor that influences aerospace and defense companies' efforts to improve the fuel economy and reduce greenhouse gas emissions of their products?",
+    "answer": "D",
+    "temperature": 0,
+    "version": "new",
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Aerospace & Defense": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Meeting civil customer demand",
+    "optionB": "Alignment with industry initiatives",
+    "optionC": "Meeting requirements of federal procurement programs",
+    "optionD": "All of the above",
+    "optionE": "None of the above"
+  },
+  {
+    "industries": [
+      "b35-home-builders"
+    ],
+    "qa_type": "single_hop",
+    "question": "According to the IFRS S2 standard, which of the following is NOT included in the scope of controlled lots?",
+    "answer": "E",
+    "temperature": 0,
+    "version": "new",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "C",
+      "D",
+      "E"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Home Builders": 8,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "optionA": "Lots owned by the entity",
+    "optionB": "Lots contractually available for ownership through option contracts or other equivalent types of contracts",
+    "optionC": "Lots that are currently under development",
+    "optionD": "Lots that are currently for sale",
+    "optionE": "Lots that are currently occupied by existing homes"
+  },
+  {
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ],
+    "qa_type": "multi_hop",
+    "question": "According to the IFRS S2 standard, which of the following is NOT a factor that the entity should discuss in its analysis of performance against its greenhouse gas emissions reduction targets?",
+    "answer": "E",
+    "temperature": 0,
+    "version": "new",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "E"
+    ],
+    "faithfulness_score": 1,
+    "relevancy_score_Oil and Gas - Midstream": 2,
+    "negative_question": 1,
+    "multihop_check": 1,
+    "optionA": "The scope of the emission reduction target (e.g., the percentage of total emissions to which the target is applicable)",
+    "optionB": "Whether the target is absolute or intensity-based, and the metric denominator, if it is an intensity-based target",
+    "optionC": "The percentage reduction against the base year, with the base year representing the first year against which emissions are evaluated towards the achievement of the target",
+    "optionD": "The mechanism(s) for achieving the target",
+    "optionE": "The entity's total revenue for the reporting period"
+  },
+  {
+    "industries": [
+      "b35-home-builders"
+    ],
+    "qa_type": "multi_hop",
+    "question": "According to the IFRS S2 standard, which of the following is NOT a required aspect that a third-party multi-attribute green building standard for homes must address in order to be in scope for home builders to report on?",
+    "answer": "E",
+    "temperature": 0,
+    "version": "new",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "E"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Home Builders": 9,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "optionA": "Energy efficiency",
+    "optionB": "Water conservation",
+    "optionC": "Material and resource efficiency",
+    "optionD": "Indoor environmental quality",
+    "optionE": "Occupant education on home maintenance"
+  },
+  {
+    "industries": [
+      "b20-agricultural-products"
+    ],
+    "qa_type": "multi_hop",
+    "question": "According to the IFRS S2 standard, which of the following is NOT a requirement for the disclosure of the percentage of agricultural products sourced from regions with High or Extremely High Baseline Water Stress?",
+    "answer": "D",
+    "temperature": 0,
+    "version": "new",
+    "specificity_score": 4,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 6,
+    "relevancy_score_Agricultural Products": 8,
+    "negative_question": 1,
+    "multihop_check": 1,
+    "optionA": "The percentage shall be calculated as the cost of agricultural products purchased from Tier 1 suppliers that withdraw and consume water in regions with High or Extremely High Baseline Water Stress divided by the total cost of agricultural products purchased from Tier 1 suppliers.",
+    "optionB": "Tier 1 suppliers are defined as suppliers that transact directly with the entity for agricultural products.",
+    "optionC": "Agricultural products grown on a contract basis include those for which the entity has directly contracted the conditions of crop production and the quality of crops with the farmer.",
+    "optionD": "Agricultural products sourced as a commodity include those bought through the spot market, to-arrive bids, grain elevators, or other measures by which the entity is able to control the production process.",
+    "optionE": "If the entity is unable to identify or collect data pertaining to all Tier 1 suppliers, the entity shall disclose the percentage of agricultural products for which the source region and water risks are unknown."
+  },
+  {
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ],
+    "qa_type": "multi_hop",
+    "question": "According to the IFRS S2 standard, which of the following is NOT an acceptable approach for the entity to use to consolidate its greenhouse gas emissions data according to the approach with which it consolidates its financial reporting data?",
+    "answer": "C",
+    "temperature": 0,
+    "version": "new",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "C"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Oil and Gas - Midstream": 10,
+    "negative_question": 1,
+    "multihop_check": 1,
+    "optionA": "The financial approach detailed in Chapter 3 of the IPIECA/API/OGP Petroleum Industry Guidelines for Reporting Greenhouse Gas Emissions, Second Edition, 2011",
+    "optionB": "The approach provided by the Climate Disclosure Standards Board (CDSB) that is described in REQ-07, 'Organisational boundary,' of the CDSB Framework for reporting environmental information, natural capital and associated business impacts (April 2018)",
+    "optionC": "The 'operational control' approach defined by the GHG Protocol",
+    "optionD": "The 'financial control' approach defined by the GHG Protocol",
+    "optionE": "All of the above are acceptable approaches"
+  },
+  {
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What percentage of the entity's revenue is from eggs that originated from a cage-free environment?",
+    "answer": "E",
+    "temperature": 0,
+    "version": "new",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 8,
+    "relevancy_score_Food Retailers & Distributors": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "10%",
+    "optionB": "20%",
+    "optionC": "30%",
+    "optionD": "40%",
+    "optionE": "50%"
+  },
+  {
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the definition of 'renewable fuel' as used in the disclosure requirements for TR-AF-110a.3?",
+    "answer": "A",
+    "temperature": 0,
+    "version": "new",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Air Freight & Logistics": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Fuel produced from renewable biomass that reduces lifecycle greenhouse gas emissions by at least 20% compared to baseline",
+    "optionB": "Fuel produced from renewable biomass that reduces lifecycle greenhouse gas emissions by at least 50% compared to baseline",
+    "optionC": "Fuel produced from renewable biomass that reduces lifecycle greenhouse gas emissions by at least 10% compared to baseline",
+    "optionD": "Fuel produced from renewable biomass that reduces lifecycle greenhouse gas emissions by at least 30% compared to baseline",
+    "optionE": "Fuel produced from renewable biomass that reduces lifecycle greenhouse gas emissions by at least 40% compared to baseline"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the purpose of the 'Transition Risk Exposure' disclosure metrics according to the topic summary?",
+    "answer": "A",
+    "temperature": 0,
+    "version": "new",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "To help users understand the entity's exposure to regulatory and technological changes related to the transition to a low-carbon economy",
+    "optionB": "To help users understand the entity's exposure to physical climate risks such as extreme weather events",
+    "optionC": "To help users understand the entity's exposure to social and governance risks in its lending and investment portfolio",
+    "optionD": "To help users understand the entity's overall sustainability performance and environmental impact",
+    "optionE": "To help users understand the entity's exposure to reputational risks related to its lending and investment activities"
+  },
+  {
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ],
+    "qa_type": "single_hop",
+    "question": "According to the document, which of the following standards is recognized for determining if a fuel is renewable?",
+    "answer": "A",
+    "temperature": 1,
+    "version": "new",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "faithfulness_score": 6,
+    "relevancy_score_Food Retailers & Distributors": 8,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "The Montreal Protocol",
+    "optionB": "The Kyoto Protocol",
+    "optionC": "The Paris Agreement",
+    "optionD": "The United Nations Framework Convention on Climate Change",
+    "optionE": "The International Energy Agency standards"
+  },
+  {
+    "industries": [
+      "b7-coal-operations"
+    ],
+    "qa_type": "single_hop",
+    "question": "According to the IFRS S2 standard, what is the formula the entity shall use to estimate the carbon dioxide emissions embedded in its proven coal reserves under EM-CO-420a.2?",
+    "answer": "A",
+    "temperature": 1,
+    "version": "new",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Coal Operations": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "E = R \u00d7 V \u00d7 C",
+    "optionB": "E = R \u00d7 C \u00d7 P",
+    "optionC": "E = R + V + C",
+    "optionD": "E = P \u00d7 V \u00d7 C",
+    "optionE": "E = R \u00d7 V / C"
+  },
+  {
+    "industries": [
+      "b20-agricultural-products"
+    ],
+    "qa_type": "single_hop",
+    "question": "According to the IFRS S2 standard, what must the entity discuss in its disclosure for FB-AG-110a.2?",
+    "answer": "C",
+    "temperature": 1,
+    "version": "new",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "C"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Agricultural Products": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Its long-term and short-term strategy or plan to manage Scope 2 emissions only",
+    "optionB": "Its long-term and short-term strategy or plan to manage both Scope 1 and Scope 2 emissions",
+    "optionC": "Its long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets",
+    "optionD": "Its long-term and short-term strategy or plan to manage all greenhouse gas emissions across the entire value chain",
+    "optionE": "Its long-term and short-term strategy or plan to reduce fleet fuel consumption only"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "According to the IFRS S2 standard, what is the definition of financed emissions?",
+    "answer": "C",
+    "temperature": 1,
+    "version": "new",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "C"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "The total emissions of the bank's operations",
+    "optionB": "The emissions of the bank's suppliers and vendors",
+    "optionC": "The bank's proportional share of emissions of its borrowers and investees",
+    "optionD": "The bank's total Scope 1, Scope 2, and Scope 3 emissions",
+    "optionE": "The emissions associated with the bank's real estate portfolio"
+  },
+  {
+    "industries": [
+      "b7-coal-operations"
+    ],
+    "qa_type": "single_hop",
+    "question": "According to the IFRS S2 standard, which of the following is NOT included in the scope of emissions-limiting regulations for the percentage of Scope 1 emissions covered?",
+    "answer": "E",
+    "temperature": 1,
+    "version": "new",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "E"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Coal Operations": 10,
+    "negative_question": 1,
+    "multihop_check": 0,
+    "optionA": "Voluntary emissions trading systems",
+    "optionB": "Cap-and-trade schemes",
+    "optionC": "Carbon tax/fee systems",
+    "optionD": "Command-and-control emissions control regulations",
+    "optionE": "Reporting-based regulations"
+  },
+  {
+    "industries": [
+      "b20-agricultural-products"
+    ],
+    "qa_type": "single_hop",
+    "question": "According to the IFRS S2 standard, what is the definition of renewable fuel for the purpose of disclosure in FB-AG-110a.3?",
+    "answer": "B",
+    "temperature": 1,
+    "version": "new",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Agricultural Products": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Any fuel that is derived from plant or animal matter",
+    "optionB": "Any fuel that is produced from sources that are replenished at a rate greater than or equal to their rate of depletion",
+    "optionC": "Any fuel that is certified by a third-party sustainability standard",
+    "optionD": "Any fuel that is locally sourced within a certain distance of the entity's operations",
+    "optionE": "Any fuel that emits zero greenhouse gas emissions during combustion"
+  },
+  {
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ],
+    "qa_type": "single_hop",
+    "question": "According to the document, which of the following is considered a type of environmental or social sustainability standard for the purposes of the revenue disclosure metric?",
+    "answer": "E",
+    "temperature": 1,
+    "version": "new",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "E"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Food Retailers & Distributors": 8,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Responsible Care",
+    "optionB": "ISO 14001",
+    "optionC": "The Global Reporting Initiative (GRI)",
+    "optionD": "LEED Certification",
+    "optionE": "Fairtrade International"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the Apparel, Accessories & Footwear and Coal Operations industries differ in their approach to managing environmental risks in their supply chains?",
+    "optionA": "Apparel focuses on raw material sourcing, while Coal focuses on emissions reduction",
+    "optionB": "Apparel emphasizes water management, while Coal prioritizes land reclamation",
+    "optionC": "Apparel concentrates on labor practices, while Coal focuses on mine safety",
+    "optionD": "Both industries have identical approaches to environmental risk management",
+    "optionE": "Neither industry considers environmental risks in their supply chains",
+    "answer": "A: Apparel focuses on raw material sourcing, while Coal focuses on emissions reduction",
+    "explanation": "The Apparel, Accessories & Footwear industry primarily focuses on environmental risks associated with sourcing priority raw materials, as evidenced by the emphasis on describing risks related to raw materials sourcing (CG-AA-440a.1). In contrast, the Coal Operations industry places a significant focus on managing greenhouse gas emissions, as shown by the metrics related to Scope 1 emissions and strategies to manage them (EM-CO-110a.1 and EM-CO-110a.2).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations"
+    ],
+    "pages": [
+      "8-10",
+      "43-46"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ]
+  }
+]

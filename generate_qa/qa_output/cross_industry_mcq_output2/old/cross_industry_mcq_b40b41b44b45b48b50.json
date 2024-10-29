@@ -1,0 +1,174 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When reporting on energy management, which of the following is a requirement for both the Solar Technology & Project Developers and the Industrial Machinery & Goods industries?",
+    "optionA": "Disclosing the percentage of energy from non-renewable sources",
+    "optionB": "Reporting the total self-generated energy",
+    "optionC": "Calculating the percentage of grid electricity consumed",
+    "optionD": "Providing a breakdown of energy consumption by fuel type",
+    "optionE": "Disclosing energy intensity per unit of production",
+    "answer": "C: Calculating the percentage of grid electricity consumed",
+    "explanation": "Both the Solar Technology & Project Developers (RT-ST-130a.1) and Industrial Machinery & Goods (RT-IG-130a.1) industries are required to disclose the percentage of energy consumed that was supplied from grid electricity. This is a common requirement across these industries, reflecting the importance of understanding the source of energy consumption in sustainability reporting.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Solar Technology & Project Developers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Industrial Machinery & Goods"
+    ],
+    "pages": [
+      "473",
+      "529"
+    ],
+    "pairing_explanation": "These industries are central to developing renewable resources and sustainable technologies. Comparing their sustainability practices can provide insights into renewable energy adoption, resource efficiency, and sustainable manufacturing.",
+    "industries": [
+      "b40-biofuels",
+      "b41-forestry-management",
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers",
+      "b48-containers-and-packaging",
+      "b50-industrial-machinery-and-goods"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "In the context of water management reporting, what is a key difference between the requirements for the Solar Technology & Project Developers industry and the Containers & Packaging industry?",
+    "optionA": "Only Solar Technology & Project Developers must report water consumption",
+    "optionB": "Containers & Packaging must report incidents of non-compliance with water regulations",
+    "optionC": "Solar Technology & Project Developers are not required to discuss water management strategies",
+    "optionD": "Only Containers & Packaging must report water withdrawn from high stress regions",
+    "optionE": "Solar Technology & Project Developers don't need to disclose total water withdrawn",
+    "answer": "B: Containers & Packaging must report incidents of non-compliance with water regulations",
+    "explanation": "A key difference in water management reporting between these industries is that the Containers & Packaging industry (RT-CP-140a.3) explicitly requires reporting on the number of incidents of non-compliance associated with water quality permits, standards, and regulations. This requirement is not present in the Solar Technology & Project Developers industry disclosures, which focus more on water withdrawal, consumption, and management strategies without specific mention of compliance incidents.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Solar Technology & Project Developers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Containers & Packaging"
+    ],
+    "pages": [
+      "474-477",
+      "514-518"
+    ],
+    "pairing_explanation": "These industries are central to developing renewable resources and sustainable technologies. Comparing their sustainability practices can provide insights into renewable energy adoption, resource efficiency, and sustainable manufacturing.",
+    "industries": [
+      "b40-biofuels",
+      "b41-forestry-management",
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers",
+      "b48-containers-and-packaging",
+      "b50-industrial-machinery-and-goods"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of renewable energy consumed, which of the following is considered within scope for both the Solar Technology & Project Developers and the Industrial Machinery & Goods industries?",
+    "optionA": "All electricity from the grid mix labeled as 'green' by the utility",
+    "optionB": "Renewable energy certificates (RECs) purchased without associated electricity",
+    "optionC": "Energy from biomass sources certified to a third-party standard",
+    "optionD": "Renewable energy generated on-site but with RECs sold to other entities",
+    "optionE": "All hydroelectric power, regardless of environmental impact",
+    "answer": "C: Energy from biomass sources certified to a third-party standard",
+    "explanation": "Both industries consider energy from biomass sources within the scope of renewable energy, but with the specific limitation that it must be certified to a third-party standard (e.g., Forest Stewardship Council, Sustainable Forest Initiative). This requirement ensures that only sustainably sourced biomass energy is counted as renewable, reflecting a consistent approach to defining renewable energy across these industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Solar Technology & Project Developers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Industrial Machinery & Goods"
+    ],
+    "pages": [
+      "474",
+      "530"
+    ],
+    "pairing_explanation": "These industries are central to developing renewable resources and sustainable technologies. Comparing their sustainability practices can provide insights into renewable energy adoption, resource efficiency, and sustainable manufacturing.",
+    "industries": [
+      "b40-biofuels",
+      "b41-forestry-management",
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers",
+      "b48-containers-and-packaging",
+      "b50-industrial-machinery-and-goods"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "In assessing water-related risks, which metric is required to be calculated by both the Solar Technology & Project Developers and Containers & Packaging industries?",
+    "optionA": "Total wastewater generated",
+    "optionB": "Water use efficiency ratio",
+    "optionC": "Percentage of facilities in water-stressed regions",
+    "optionD": "Percentage of water consumed in regions with High or Extremely High Baseline Water Stress",
+    "optionE": "Volume of water recycled and reused",
+    "answer": "D: Percentage of water consumed in regions with High or Extremely High Baseline Water Stress",
+    "explanation": "Both the Solar Technology & Project Developers (RT-ST-140a.1) and Containers & Packaging (RT-CP-140a.1) industries are required to calculate and disclose the percentage of water consumed in regions with High or Extremely High Baseline Water Stress. This metric is crucial for understanding the water-related risks in water-stressed areas and is consistently applied across these industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Solar Technology & Project Developers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Containers & Packaging"
+    ],
+    "pages": [
+      "475",
+      "515"
+    ],
+    "pairing_explanation": "These industries are central to developing renewable resources and sustainable technologies. Comparing their sustainability practices can provide insights into renewable energy adoption, resource efficiency, and sustainable manufacturing.",
+    "industries": [
+      "b40-biofuels",
+      "b41-forestry-management",
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers",
+      "b48-containers-and-packaging",
+      "b50-industrial-machinery-and-goods"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the sustainability reporting requirements for supply chain management differ between the Wind Technology & Project Developers and the Containers & Packaging industries?",
+    "optionA": "Only Wind Technology reports on materials efficiency",
+    "optionB": "Containers & Packaging focuses on certified sources, while Wind Technology doesn't address supply chain",
+    "optionC": "Wind Technology reports on turbine design, while Containers & Packaging reports on raw material sourcing",
+    "optionD": "Both industries have identical supply chain reporting requirements",
+    "optionE": "Containers & Packaging reports on hazardous waste, while Wind Technology doesn't address waste",
+    "answer": "C: Wind Technology reports on turbine design, while Containers & Packaging reports on raw material sourcing",
+    "explanation": "The Wind Technology & Project Developers industry focuses on materials efficiency in turbine design (RT-WT-440b.3), including strategies to optimize materials use. In contrast, the Containers & Packaging industry emphasizes raw material sourcing, particularly the percentage of wood fiber and aluminum from certified sources (RT-CP-430a.1 and RT-CP-430a.2). This reflects the different supply chain priorities and sustainability concerns specific to each industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Wind Technology & Project Developers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Containers & Packaging"
+    ],
+    "pages": [
+      "485-486",
+      "520-521"
+    ],
+    "pairing_explanation": "These industries are central to developing renewable resources and sustainable technologies. Comparing their sustainability practices can provide insights into renewable energy adoption, resource efficiency, and sustainable manufacturing.",
+    "industries": [
+      "b40-biofuels",
+      "b41-forestry-management",
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers",
+      "b48-containers-and-packaging",
+      "b50-industrial-machinery-and-goods"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "Which of the following sustainability topics is uniquely emphasized in the reporting requirements for the Industrial Machinery & Goods industry compared to the Solar Technology & Project Developers, Wind Technology & Project Developers, and Containers & Packaging industries?",
+    "optionA": "Energy management",
+    "optionB": "Water management",
+    "optionC": "Greenhouse gas emissions",
+    "optionD": "Fuel economy and emissions in use-phase",
+    "optionE": "Waste management",
+    "answer": "D: Fuel economy and emissions in use-phase",
+    "explanation": "The Industrial Machinery & Goods industry uniquely emphasizes reporting on fuel economy and emissions in the use-phase of its products (RT-IG-410a.1 to RT-IG-410a.4). This includes metrics on fleet fuel efficiency, emissions for various types of engines, and strategies to manage these aspects. This focus is not present in the reporting requirements for the other industries mentioned, reflecting the specific environmental impact of industrial machinery during its operational life.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Industrial Machinery & Goods",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Solar Technology & Project Developers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Wind Technology & Project Developers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Containers & Packaging"
+    ],
+    "pages": [
+      "531-533",
+      "471-482",
+      "483-486",
+      "506-521"
+    ],
+    "pairing_explanation": "These industries are central to developing renewable resources and sustainable technologies. Comparing their sustainability practices can provide insights into renewable energy adoption, resource efficiency, and sustainable manufacturing.",
+    "industries": [
+      "b40-biofuels",
+      "b41-forestry-management",
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers",
+      "b48-containers-and-packaging",
+      "b50-industrial-machinery-and-goods"
+    ]
+  }
+]

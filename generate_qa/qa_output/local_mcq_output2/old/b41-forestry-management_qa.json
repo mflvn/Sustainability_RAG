@@ -1,0 +1,182 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to the IFRS S2 Climate-related Disclosures for Forestry Management, what should a company disclose about its forestland certified to third-party forest management standards?",
+    "optionA": "Only the total area of certified forestland",
+    "optionB": "The percentage certified to each standard, but not the total area",
+    "optionC": "The total area certified and the percentage certified to each standard",
+    "optionD": "Only the names of the certification standards used",
+    "optionE": "The cost of obtaining each certification",
+    "answer": "C. The total area certified and the percentage certified to each standard",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Forestry Management",
+    "page": "439-440",
+    "industries": [
+      "b41-forestry-management"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "What information should a company provide if any of its forest management certifications were suspended or terminated during the reporting period?",
+    "optionA": "Only the name of the suspended or terminated certification",
+    "optionB": "The certification name and the reason for suspension, but not the acreage affected",
+    "optionC": "The certification name, affected acreage, and reason for suspension or termination",
+    "optionD": "Only the total acreage affected by suspensions or terminations",
+    "optionE": "No disclosure is required for suspended or terminated certifications",
+    "answer": "C. The certification name, affected acreage, and reason for suspension or termination",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Forestry Management",
+    "page": "440-441",
+    "industries": [
+      "b41-forestry-management"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing information about forestland in endangered species habitat, what is the company required to report according to IFRS S2?",
+    "optionA": "Only the total area of forestland in endangered species habitat",
+    "optionB": "The area of forestland and the specific endangered species present",
+    "optionC": "The area of forestland and potential future changes to endangered habitats",
+    "optionD": "Only the names of endangered species in the company's forestlands",
+    "optionE": "The area of forestland in endangered species habitat and any overlap with protected conservation areas",
+    "answer": "E. The area of forestland in endangered species habitat and any overlap with protected conservation areas",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Forestry Management",
+    "page": "441-442",
+    "industries": [
+      "b41-forestry-management"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "In discussing climate change adaptation strategies, what aspect of risk management procedures should a company include in its disclosure?",
+    "optionA": "Only the frequency of monitoring climate risks",
+    "optionB": "The costs associated with adaptation actions, but not the strategies themselves",
+    "optionC": "Adaptation strategies without mentioning associated costs",
+    "optionD": "How far into the future risks are considered, monitoring frequency, strategies, and associated costs",
+    "optionE": "Only the names of climate models used for risk assessment",
+    "answer": "D. How far into the future risks are considered, monitoring frequency, strategies, and associated costs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Forestry Management",
+    "page": "445-446",
+    "industries": [
+      "b41-forestry-management"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of forestland certified to each forest management standard, how should a company handle areas certified to multiple standards?",
+    "optionA": "Count the area multiple times, once for each standard it's certified to",
+    "optionB": "Only count the area under the most stringent standard",
+    "optionC": "Divide the area equally among all standards it's certified to",
+    "optionD": "Count the area only once in the total, but report the percentage for each standard separately",
+    "optionE": "Exclude areas with multiple certifications from the calculation",
+    "answer": "D. Count the area only once in the total, but report the percentage for each standard separately",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Forestry Management",
+    "page": "439-440",
+    "industries": [
+      "b41-forestry-management"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "How should a company calculate the area of forestland with protected conservation status?",
+    "optionA": "Include only company-owned land designated as protected by government regulation",
+    "optionB": "Include all land within national parks, regardless of ownership",
+    "optionC": "Include areas of conservation status that are actively managed by or for the entity, including government-owned land managed by the entity",
+    "optionD": "Include only land under conservation easements",
+    "optionE": "Include all land listed in the World Database of Protected Areas, regardless of management status",
+    "answer": "C. Include areas of conservation status that are actively managed by or for the entity, including government-owned land managed by the entity",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Forestry Management",
+    "page": "441",
+    "industries": [
+      "b41-forestry-management"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "In disclosing ecosystem services opportunities, how should a company report on services for which it does not receive direct payments?",
+    "optionA": "Exclude them from the report entirely",
+    "optionB": "Estimate their potential monetary value",
+    "optionC": "Describe the approach to managing these services, including types and management actions",
+    "optionD": "Only report on services that generate revenue",
+    "optionE": "Combine them with paid services in a single category",
+    "answer": "C. Describe the approach to managing these services, including types and management actions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Forestry Management",
+    "page": "442-443",
+    "industries": [
+      "b41-forestry-management"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When discussing climate change risks and opportunities, what timeframe information should a company include in its disclosure?",
+    "optionA": "Only short-term risks within the next fiscal year",
+    "optionB": "Only long-term risks beyond 10 years",
+    "optionC": "A fixed 5-year projection for all risks and opportunities",
+    "optionD": "The timeframe in which each risk or opportunity is expected to manifest",
+    "optionE": "Only immediate risks that are currently impacting operations",
+    "answer": "D. The timeframe in which each risk or opportunity is expected to manifest",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Forestry Management",
+    "page": "445",
+    "industries": [
+      "b41-forestry-management"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "In reporting on endangered species habitats, what additional information should a company consider disclosing about potential future changes?",
+    "optionA": "Only current habitat information is required",
+    "optionB": "Potential habitat expansion based on climate models",
+    "optionC": "Species that might become endangered in the next 100 years",
+    "optionD": "Likelihood of habitat changes, nearby endangered species, and potential regulatory changes",
+    "optionE": "Economic impact of potential habitat changes",
+    "answer": "D. Likelihood of habitat changes, nearby endangered species, and potential regulatory changes",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Forestry Management",
+    "page": "441-442",
+    "industries": [
+      "b41-forestry-management"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A forestry company is preparing its sustainability report and wants to disclose information about its forestland certified to multiple third-party forest management standards. How should the company report this information to avoid double-counting?",
+    "optionA": "Sum up all certified areas, including overlaps",
+    "optionB": "Only report the largest certification area",
+    "optionC": "Report each certification separately without mentioning overlaps",
+    "optionD": "Exclude areas with multiple certifications",
+    "optionE": "Report total certified area once and disclose percentage certified to each standard",
+    "answer": "E: Report total certified area once and disclose percentage certified to each standard",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Forestry Management",
+    "page": "439-440",
+    "industries": [
+      "b41-forestry-management"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When discussing the strategy to manage climate change opportunities and risks in a sustainability report, what type of information should a forestry company include about the scenarios it uses?",
+    "optionA": "Only worst-case scenarios",
+    "optionB": "Scenarios provided by competitors",
+    "optionC": "Historical climate data from the past decade",
+    "optionD": "Methods or models used to develop scenarios, including global models or scientific research",
+    "optionE": "Scenarios that only focus on short-term impacts",
+    "answer": "D: Methods or models used to develop scenarios, including global models or scientific research",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Forestry Management",
+    "page": "445",
+    "industries": [
+      "b41-forestry-management"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A forestry company is preparing its sustainability report and needs to disclose information about forestlands in endangered species habitats. Which of the following should NOT be included in this disclosure?",
+    "optionA": "Total area of forestland in endangered species habitats",
+    "optionB": "Types of endangered or threatened species in the forestlands",
+    "optionC": "Overlap with areas of protected conservation status",
+    "optionD": "Likelihood of changes to endangered species habitats",
+    "optionE": "Detailed harvesting plans for endangered species habitats",
+    "answer": "E: Detailed harvesting plans for endangered species habitats",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Forestry Management",
+    "page": "441-442",
+    "industries": [
+      "b41-forestry-management"
+    ]
+  }
+]

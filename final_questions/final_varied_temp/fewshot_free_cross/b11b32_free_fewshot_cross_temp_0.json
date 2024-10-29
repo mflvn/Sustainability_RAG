@@ -1,0 +1,183 @@
+[
+  {
+    "question": "What topics should I report on for Electric Utilities & Power Generators and Oil & Gas - Exploration & Production industries?",
+    "answer": "Electric Utilities & Power Generators: Greenhouse Gas Emissions & Energy Resource Planning, Water Management, End-Use Efficiency & Demand, Nuclear Safety & Emergency Management, Grid Resiliency.\n\nOil & Gas - Exploration & Production: Greenhouse Gas Emissions, Water Management, Reserves Valuation & Capital Expenditures.",
+    "reference_text": [
+      "| Greenhouse Gas Emissions & Energy Resource Planning | (1) Gross global Scope 1 emissions, percentage covered under (2) emissions-limiting regulations, and (3) emissions-reporting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%) | IF-EU-110a.1 |",
+      "| Water Management | (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%) | IF-EU-140a.1 |",
+      "| End-Use Efficiency & Demand | Percentage of electric load served by smart grid technology | Quantitative | Percentage (%) by megawatt hours (MWh) | IF-EU-420a.2 |",
+      "| Nuclear Safety & Emergency Management | Total number of nuclear power units, broken down by U.S. Nuclear Regulatory Commission (NRC) Action Matrix Column results of most recent independent safety review | Quantitative | Number | IF-EU-540a.1 |",
+      "| Grid Resiliency | Number of incidents of non-compliance with physical and/or cybersecurity standards or regulations | Quantitative | Number | IF-EU-550a.1 |",
+      "| Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations | Quantitative | Metric tons CO\u2082-e (t), Percentage (%) | EM-EP-110a.1 |",
+      "| Water Management | (1) Total fresh water withdrawn, (2) total fresh water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%) | EM-EP-140a.1 |",
+      "| Reserves Valuation & Capital Expenditures | Sensitivity of hydrocarbon reserve levels to future price projection scenarios that account for a price on carbon emissions | Quantitative | Million barrels (MMbbls), Mega standard cubic meters (MSm3) | EM-EP-420a.1 |"
+    ],
+    "pages": [
+      "297",
+      "298",
+      "299",
+      "90",
+      "91"
+    ],
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0
+  },
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Electric Utilities & Power Generators and Oil & Gas - Exploration & Production industries.",
+    "answer": "Electric Utilities & Power Generators: Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a | IF-EU-110a.3\n\nOil & Gas - Exploration & Production: Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a | EM-EP-110a.3\nDiscussion of how price and demand for hydrocarbons and/or climate regulation influence the capital expenditure strategy for exploration, acquisition, and development of assets | Discussion and Analysis | n/a | EM-EP-420a.4",
+    "reference_text": [
+      "| Greenhouse Gas Emissions & Energy Resource Planning | Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a | IF-EU-110a.3 |",
+      "| Greenhouse Gas Emissions | Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a | EM-EP-110a.3 |",
+      "| Reserves Valuation & Capital Expenditures | Discussion of how price and demand for hydrocarbons and/or climate regulation influence the capital expenditure strategy for exploration, acquisition, and development of assets | Discussion and Analysis | n/a | EM-EP-420a.4 |"
+    ],
+    "pages": [
+      "297",
+      "90",
+      "91"
+    ],
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Electric Utilities & Power Generators and Oil & Gas \u2013 Exploration & Production industries.",
+    "answer": "Electric Utilities & Power Generators:\n- IF-EU-110a.1\n- IF-EU-110a.2\n- IF-EU-140a.1\n- IF-EU-140a.2\n- IF-EU-420a.2\n- IF-EU-420a.3\n- IF-EU-540a.1\n- IF-EU-550a.1\n- IF-EU-550a.2\n\nOil & Gas \u2013 Exploration & Production:\n- EM-EP-110a.1\n- EM-EP-110a.2\n- EM-EP-140a.1\n- EM-EP-140a.2\n- EM-EP-140a.3\n- EM-EP-140a.4\n- EM-EP-420a.1\n- EM-EP-420a.2\n- EM-EP-420a.3",
+    "reference_text": [
+      "| Greenhouse Gas Emissions & Energy Resource Planning | (1) Gross global Scope 1 emissions, percentage covered under (2) emissions-limiting regulations, and (3) emissions-reporting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%) | IF-EU-110a.1 |",
+      "| Greenhouse Gas Emissions & Energy Resource Planning | Greenhouse gas (GHG) emissions associated with power deliveries | Quantitative | Metric tons (t) CO\u2082-e | IF-EU-110a.2 |",
+      "| Water Management | (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%) | IF-EU-140a.1 |",
+      "| Water Management | Number of incidents of non-compliance associated with water quantity and/or quality permits, standards, and regulations | Quantitative | Number | IF-EU-140a.2 |",
+      "| End-Use Efficiency & Demand | Percentage of electric load served by smart grid technology | Quantitative | Percentage (%) by megawatt hours (MWh) | IF-EU-420a.2 |",
+      "| End-Use Efficiency & Demand | Customer electricity savings from efficiency measures, by market | Quantitative | Megawatt hours (MWh) | IF-EU-420a.3 |",
+      "| Nuclear Safety & Emergency Management | Total number of nuclear power units, broken down by U.S. Nuclear Regulatory Commission (NRC) Action Matrix Column results of most recent independent safety review | Quantitative | Number | IF-EU-540a.1 |",
+      "| Grid Resiliency | Number of incidents of non-compliance with physical and/or cybersecurity standards or regulations | Quantitative | Number | IF-EU-550a.1 |",
+      "| Grid Resiliency | (1) System Average Interruption Duration Index (SAIDI), (2) System Average Interruption Frequency Index (SAIFI), and (3) Customer Average Interruption Duration Index (CAIDI), inclusive of major event days | Quantitative | Minutes, Number | IF-EU-550a.2 |",
+      "| Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations | Quantitative | Metric tons CO\u2082-e (t), Percentage (%) | EM-EP-110a.1 |",
+      "| Greenhouse Gas Emissions | Amount of gross global Scope 1 emissions from: (1) flared hydrocarbons, (2) other combustion, (3) process emissions, (4) other vented emissions, and (5) fugitive emissions | Quantitative | Metric tons CO\u2082-e | EM-EP-110a.2 |",
+      "| Water Management | (1) Total fresh water withdrawn, (2) total fresh water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%) | EM-EP-140a.1 |",
+      "| Water Management | Volume of produced water and flowback generated; percentage (1) discharged, (2) injected, (3) recycled; hydrocarbon content in discharged water | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%), Metric tons (t) | EM-EP-140a.2 |",
+      "| Water Management | Percentage of hydraulically fractured wells for which there is public disclosure of all fracturing fluid chemicals used | Quantitative | Percentage (%) | EM-EP-140a.3 |",
+      "| Water Management | Percentage of hydraulic fracturing sites where ground or surface water quality deteriorated compared to a baseline | Quantitative | Percentage (%) | EM-EP-140a.4 |",
+      "| Reserves Valuation & Capital Expenditures | Sensitivity of hydrocarbon reserve levels to future price projection scenarios that account for a price on carbon emissions | Quantitative | Million barrels (MMbbls), Mega standard cubic meters (MSm3) | EM-EP-420a.1 |",
+      "| Reserves Valuation & Capital Expenditures | Estimated carbon dioxide emissions embedded in proved hydrocarbon reserves | Quantitative | Metric tons (t) CO\u2082-e | EM-EP-420a.2 |",
+      "| Reserves Valuation & Capital Expenditures | Amount invested in renewable energy, revenue generated by renewable energy sales | Quantitative | Reporting currency | EM-EP-420a.3 |"
+    ],
+    "pages": [
+      "Page 297",
+      "Page 298",
+      "Page 299",
+      "Page 300",
+      "Page 301",
+      "Page 302",
+      "Page 303",
+      "Page 304",
+      "Page 305",
+      "Page 306",
+      "Page 307",
+      "Page 308",
+      "Page 309",
+      "Page 310",
+      "Page 311",
+      "Page 312",
+      "Page 313",
+      "Page 314",
+      "Page 315",
+      "Page 316",
+      "Page 317",
+      "Page 318",
+      "Page 319",
+      "Page 320",
+      "Page 90",
+      "Page 91",
+      "Page 92",
+      "Page 93",
+      "Page 94",
+      "Page 95",
+      "Page 96",
+      "Page 97",
+      "Page 98",
+      "Page 99",
+      "Page 100",
+      "Page 101",
+      "Page 102",
+      "Page 103",
+      "Page 104",
+      "Page 105",
+      "Page 106",
+      "Page 107"
+    ],
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0
+  },
+  {
+    "question": "What units of measurement are used across Electric Utilities & Power Generators and Oil & Gas \u2013 Exploration & Production industries for measuring water management metrics?",
+    "answer": "Electric Utilities & Power Generators:\n- Thousand cubic meters (m\u00b3), Percentage (%)\n- Number\n\nOil & Gas \u2013 Exploration & Production:\n- Thousand cubic meters (m\u00b3), Percentage (%)\n- Metric tons (t)",
+    "reference_text": [
+      "| Water Management | (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%) | IF-EU-140a.1 |",
+      "| Water Management | Number of incidents of non-compliance associated with water quantity and/or quality permits, standards, and regulations | Quantitative | Number | IF-EU-140a.2 |",
+      "| Water Management | (1) Total fresh water withdrawn, (2) total fresh water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%) | EM-EP-140a.1 |",
+      "| Water Management | Volume of produced water and flowback generated; percentage (1) discharged, (2) injected, (3) recycled; hydrocarbon content in discharged water | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%), Metric tons (t) | EM-EP-140a.2 |"
+    ],
+    "pages": [
+      "Page 297",
+      "Page 298",
+      "Page 299",
+      "Page 300",
+      "Page 301",
+      "Page 302",
+      "Page 303",
+      "Page 304",
+      "Page 305",
+      "Page 306",
+      "Page 307",
+      "Page 308",
+      "Page 309",
+      "Page 310",
+      "Page 311",
+      "Page 312",
+      "Page 313",
+      "Page 314",
+      "Page 315",
+      "Page 316",
+      "Page 317",
+      "Page 318",
+      "Page 319",
+      "Page 320",
+      "Page 90",
+      "Page 91",
+      "Page 92",
+      "Page 93",
+      "Page 94",
+      "Page 95",
+      "Page 96",
+      "Page 97",
+      "Page 98",
+      "Page 99",
+      "Page 100",
+      "Page 101",
+      "Page 102",
+      "Page 103",
+      "Page 104",
+      "Page 105",
+      "Page 106",
+      "Page 107"
+    ],
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0
+  }
+]

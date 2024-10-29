@@ -1,0 +1,167 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When calculating energy consumption from fuels and biofuels for Scope 1 emissions reporting, which heating value should an iron and steel company use?",
+    "optionA": "Lower heating values (LHV)",
+    "optionB": "Average heating values (AHV)",
+    "optionC": "Higher heating values (HHV)",
+    "optionD": "Nominal heating values (NHV)",
+    "optionE": "Standard heating values (SHV)",
+    "answer": "C. Higher heating values (HHV)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+    "page": "75",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "For an iron and steel company, which of the following is NOT included in the scope of renewable energy consumption disclosure?",
+    "optionA": "Renewable fuel consumed by the entity",
+    "optionB": "Renewable energy directly produced by the entity",
+    "optionC": "Renewable energy purchased through a PPA with explicit RECs",
+    "optionD": "Green-e Energy Certified utility program purchases",
+    "optionE": "The renewable portion of the electricity grid mix outside the entity's control",
+    "answer": "E. The renewable portion of the electricity grid mix outside the entity's control",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+    "page": "76",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing water management metrics, how should an iron and steel company determine areas with High or Extremely High Baseline Water Stress?",
+    "optionA": "Using internal company risk assessments",
+    "optionB": "Consulting local water authorities",
+    "optionC": "Using the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "optionD": "Analyzing historical rainfall data",
+    "optionE": "Surveying local communities about water availability",
+    "answer": "C. Using the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+    "page": "79",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When discussing the process for managing iron ore and/or coking coal sourcing risks, which of the following is NOT mentioned as a potential risk or constraint in the IFRS guidelines?",
+    "optionA": "Restricted/limited availability",
+    "optionB": "Political situations",
+    "optionC": "Local labor conditions",
+    "optionD": "Natural disasters",
+    "optionE": "Competitor acquisitions",
+    "answer": "E. Competitor acquisitions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+    "page": "80",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of Scope 1 GHG emissions covered under emissions-limiting regulations for an iron and steel company, how should emissions subject to multiple regulations be treated?",
+    "optionA": "Count each emission multiple times based on the number of regulations it falls under",
+    "optionB": "Only count the emission under the most stringent regulation",
+    "optionC": "Exclude such emissions from the calculation entirely",
+    "optionD": "Average the emission across all applicable regulations",
+    "optionE": "Do not account for those emissions more than once",
+    "answer": "E. Do not account for those emissions more than once",
+    "reference": "Greenhouse Gas Emissions",
+    "page": "72-73",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When disclosing the total energy consumed by an iron and steel company, which of the following energy sources should be included in the calculation?",
+    "optionA": "Only energy purchased from external sources",
+    "optionB": "Only self-generated energy",
+    "optionC": "Only direct fuel usage",
+    "optionD": "Energy from all sources, including purchased and self-generated",
+    "optionE": "Only renewable energy sources",
+    "answer": "D. Energy from all sources, including purchased and self-generated",
+    "reference": "Energy Management",
+    "page": "75-76",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating total fuel consumed for an iron and steel company, which of the following methodologies is NOT mentioned as an acceptable approach in the IFRS guidelines?",
+    "optionA": "Adding fuel purchases to beginning inventory, less ending inventory",
+    "optionB": "Tracking fuel consumed by vehicles",
+    "optionC": "Tracking fuel expenses",
+    "optionD": "Using fuel efficiency ratings of equipment",
+    "optionE": "Based on actual fuel consumed as opposed to design parameters",
+    "answer": "D. Using fuel efficiency ratings of equipment",
+    "reference": "Energy Management",
+    "page": "76-77",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "As an iron and steel producer preparing a sustainability report, how should you address the challenge of reporting on energy consumption from different sources?",
+    "optionA": "Only report on grid electricity consumption",
+    "optionB": "Exclude self-generated energy from the total energy consumption",
+    "optionC": "Report total energy consumed, percentage grid electricity, and percentage renewable",
+    "optionD": "Focus solely on renewable energy consumption",
+    "optionE": "Report only on fossil fuel consumption",
+    "answer": "C. Report total energy consumed, percentage grid electricity, and percentage renewable",
+    "reference": "Energy Management",
+    "page": "75-76",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When addressing water management challenges in your sustainability report, which of the following metrics should you include for regions with High or Extremely High Baseline Water Stress?",
+    "optionA": "Only total fresh water withdrawn",
+    "optionB": "Percentage of recycled water used in production",
+    "optionC": "Volume of wastewater discharged",
+    "optionD": "Total fresh water withdrawn, percentage recycled, and percentage in high-stress regions",
+    "optionE": "Only water consumption in non-stressed regions",
+    "answer": "D. Total fresh water withdrawn, percentage recycled, and percentage in high-stress regions",
+    "reference": "Water Management",
+    "page": "79-80",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "As an iron and steel company, how should you approach the challenge of managing supply chain risks related to iron ore and coking coal sourcing in your sustainability report?",
+    "optionA": "Focus only on price fluctuations of raw materials",
+    "optionB": "Ignore environmental and social risks in the supply chain",
+    "optionC": "Discuss policies and procedures for managing environmental and social risks in the supply chain",
+    "optionD": "Report only on the quantity of raw materials sourced",
+    "optionE": "Exclude supply chain information from the sustainability report",
+    "answer": "C. Discuss policies and procedures for managing environmental and social risks in the supply chain",
+    "reference": "Supply Chain Management",
+    "page": "80",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When addressing the challenge of reporting on greenhouse gas emissions in the iron and steel industry, which of the following approaches is recommended for disclosing Scope 1 emissions?",
+    "optionA": "Report only CO2 emissions",
+    "optionB": "Exclude emissions from transportation sources",
+    "optionC": "Report gross global Scope 1 emissions of all seven GHGs covered under the Kyoto Protocol",
+    "optionD": "Only report emissions from stationary sources",
+    "optionE": "Exclude emissions covered under regulations",
+    "answer": "C. Report gross global Scope 1 emissions of all seven GHGs covered under the Kyoto Protocol",
+    "reference": "Greenhouse Gas Emissions",
+    "page": "71-72",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  }
+]

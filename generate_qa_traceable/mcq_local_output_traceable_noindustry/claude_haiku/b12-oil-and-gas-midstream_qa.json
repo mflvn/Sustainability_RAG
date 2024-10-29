@@ -1,0 +1,168 @@
+[
+  {
+    "question": "According to the IFRS S2 standard, what percentage of a company's gross global Scope 1 greenhouse gas emissions must be from methane emissions?",
+    "optionA": "10%",
+    "optionB": "20%",
+    "optionC": "The standard does not specify a required percentage of methane emissions",
+    "optionD": "30%",
+    "optionE": "40%",
+    "answer": "C",
+    "reference_text": [
+      "The entity shall disclose the percentage of gross global Scope 1 emissions from methane emissions."
+    ],
+    "pages": [
+      "109",
+      "110"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "question": "Which of the following is NOT an example of an emissions-limiting regulation mentioned in the IFRS S2 standard?",
+    "optionA": "California Cap-and-Trade",
+    "optionB": "European Union Emissions Trading Scheme",
+    "optionC": "Quebec Cap-and-Trade",
+    "optionD": "U.S. Environmental Protection Agency GHG Reporting Program",
+    "optionE": "None of the above",
+    "answer": "D",
+    "reference_text": [
+      "Examples of emissions-limiting regulations include, but are not limited to: California Cap-and-Trade (California Global Warming Solutions Act), European Union Emissions Trading Scheme (EU ETS), Quebec Cap-and-Trade (Draft Bill 42 of 2009).",
+      "The scope of emissions-limiting regulations excludes emissions covered under voluntary emissions-limiting regulations (e.g., voluntary trading systems) as well as disclosure-based regulations [e.g., the U.S. Environmental Protection Agency (EPA) GHG Reporting Program]."
+    ],
+    "pages": [
+      "110",
+      "111"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "question": "According to the IFRS S2 standard, which of the following is NOT considered a type of Scope 1 greenhouse gas emission for midstream companies?",
+    "optionA": "Emissions from stationary combustion sources like boilers and furnaces",
+    "optionB": "Emissions from mobile sources like trucks and ships",
+    "optionC": "Process emissions from hydrogen plants and amine units",
+    "optionD": "Emissions from office buildings",
+    "optionE": "Emissions from flaring of hydrocarbons",
+    "answer": "D",
+    "reference_text": [
+      "Scope 1 emissions are defined and shall be calculated according to the methodology contained in The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard, Revised Edition, March 2004 (hereafter, the \"GHG Protocol\"), provided by the World Resources Institute and the World Business Council on Sustainable Development (WRI/WBCSD).",
+      "These emissions include direct emissions of GHGs from stationary or mobile sources; these sources include but are not limited to: equipment at well sites, production facilities, refineries, chemical plants, terminals, fixed site drilling rigs, office buildings, marine vessels transporting products, tank truck fleets, mobile drilling rigs, and moveable equipment at drilling and production facilities."
+    ],
+    "pages": [
+      "109",
+      "110"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "question": "According to the IFRS S2 standard, which of the following is NOT considered a type of Scope 1 greenhouse gas emission that midstream companies should discuss in their long-term and short-term emissions reduction strategies?",
+    "optionA": "Flared hydrocarbons",
+    "optionB": "Other combusted emissions from stationary and mobile sources",
+    "optionC": "Process emissions from chemical transformation or processing",
+    "optionD": "Vented emissions from storage tanks and maintenance activities",
+    "optionE": "Emissions from employee commuting",
+    "answer": "E",
+    "reference_text": [
+      "The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the following, where relevant: [...] The scope of the emission reduction target (e.g., the percentage of total emissions to which the target is applicable);",
+      "Categories of emissions may include: Flared hydrocarbons, including all emissions emitted from flares and which are associated with the management and disposal of unrecoverable natural gas via combustion of hydrocarbon products from routine operations, upsets, or emergencies; Other combusted emissions, including, but not limited to: (1) emissions from stationary devices, including, but not limited to boilers, heaters, furnaces, reciprocating internal combustion engines and turbines, incinerators, and thermal/catalytic oxidizers, (2) emissions from mobile sources, including, but not limited to barges, ships, railcars, and trucks for material transport; planes/helicopters and other company vehicles for personnel transport; forklifts, all terrain vehicles, construction equipment, and other off-road mobile equipment, and (3) other combusted emissions shall exclude those emissions disclosed as flared hydrocarbons; Process emissions, including, but not limited to those emissions that are not combusted and are intentional or designed into the process or technology to occur during normal operations and are a result of some form of chemical transformation or processing step; Vented emissions, including those emissions that are not combusted and are intentional or designed into the process or technology to occur during normal operations"
+    ],
+    "pages": [
+      "111",
+      "112",
+      "113"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "question": "According to the IFRS S2 standard, what percentage of a company's gross global Scope 1 emissions must be covered under emissions-limiting regulations for the company to fully comply?",
+    "optionA": "At least 10%",
+    "optionB": "At least 25%",
+    "optionC": "At least 50%",
+    "optionD": "At least 75%",
+    "optionE": "There is no specific percentage requirement",
+    "answer": "E",
+    "reference_text": [
+      "The entity shall disclose the percentage of its emissions that are covered under an emissions-limiting regulation or that is intended to directly limit or reduce emissions, such as cap-and-trade schemes, carbon tax/fee systems, and other emissions control (e.g., command-and-control approach) and permit-based mechanisms."
+    ],
+    "pages": [
+      "110",
+      "111"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "question": "Which of the following is NOT considered a source of Scope 1 greenhouse gas emissions for midstream oil and gas companies according to the IFRS S2 standard?",
+    "optionA": "Emissions from stationary sources like compressor engines and processing facilities",
+    "optionB": "Emissions from mobile sources like trucks and marine vessels",
+    "optionC": "Fugitive emissions from equipment leaks",
+    "optionD": "Emissions from the combustion of natural gas for electricity generation",
+    "optionE": "Emissions from the venting of natural gas during normal operations",
+    "answer": "D",
+    "reference_text": [
+      "Scope 1 emissions are defined and shall be calculated according to the methodology contained in The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard, Revised Edition, March 2004 (hereafter, the \"GHG Protocol\"), provided by the World Resources Institute and the World Business Council on Sustainable Development (WRI/WBCSD).",
+      "These emissions include direct emissions of GHGs from stationary or mobile sources; these sources include but are not limited to: equipment at well sites, production facilities, refineries, chemical plants, terminals, fixed site drilling rigs, office buildings, marine vessels transporting products, tank truck fleets, mobile drilling rigs, and moveable equipment at drilling and production facilities."
+    ],
+    "pages": [
+      "109",
+      "110"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "question": "According to the IFRS S2 standard, which of the following is NOT considered a valid method for a midstream company to calculate its Scope 1 greenhouse gas emissions?",
+    "optionA": "Using continuous emissions monitoring systems (CEMS)",
+    "optionB": "Performing engineering calculations",
+    "optionC": "Conducting mass balance calculations",
+    "optionD": "Relying on emissions data reported to the CDP",
+    "optionE": "All of the above methods are valid",
+    "answer": "D",
+    "reference_text": [
+      "In the case that current reporting of GHG emissions to the CDP or other entity (e.g., a national regulatory disclosure program) differs in terms of the scope and consolidation approach used, the entity may disclose those emissions. However, primary disclosure shall be according to the guidelines described above."
+    ],
+    "pages": [
+      "111"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "question": "According to the IFRS S2 standard, which of the following is NOT considered a valid strategy or plan for a midstream company to manage and reduce its Scope 1 greenhouse gas emissions?",
+    "optionA": "Implementing energy efficiency measures",
+    "optionB": "Diversifying the company's energy sources",
+    "optionC": "Capturing and storing carbon emissions",
+    "optionD": "Increasing the company's use of renewable energy",
+    "optionE": "Expanding the company's natural gas processing capacity",
+    "answer": "E",
+    "reference_text": [
+      "The entity shall discuss activities and investments required to achieve the plans and/or targets, and any risks or limiting factors that might affect achievements of the plans and/or targets.",
+      "The entity shall discuss whether its strategies, plans, and/or reduction targets are related to, or associated with, emissions limiting and/or emissions reporting-based programs or regulations (e.g., the EU Emissions Trading Scheme, Quebec Cap-and-Trade System, California Cap-and-Trade Program), including regional, national, international, or sectoral programs."
+    ],
+    "pages": [
+      "111",
+      "112",
+      "113"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  }
+]

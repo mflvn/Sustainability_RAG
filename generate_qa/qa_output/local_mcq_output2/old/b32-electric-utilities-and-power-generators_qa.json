@@ -1,0 +1,182 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When calculating the percentage of electric load served by smart grid technology, which of the following is NOT considered a distinguishing characteristic of smart grid technology according to the IEA?",
+    "optionA": "Enables informed participation by customers",
+    "optionB": "Accommodates all generation and storage options",
+    "optionC": "Provides the power quality for the range of needs",
+    "optionD": "Guarantees 100% uptime for all customers",
+    "optionE": "Optimizes asset utilization and operation efficiency",
+    "answer": "D. Guarantees 100% uptime for all customers",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "311",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing customer electricity savings from efficiency measures, how should an electric utility calculate these savings according to IFRS standards?",
+    "optionA": "Net savings approach only",
+    "optionB": "Gross savings approach only",
+    "optionC": "Either net or gross savings approach",
+    "optionD": "Combination of net and gross savings",
+    "optionE": "Savings should not be calculated",
+    "answer": "B. Gross savings approach only",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "312",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When reporting on nuclear safety and emergency preparedness, which of the following is NOT considered a trait of a positive safety culture according to IFRS standards?",
+    "optionA": "Leadership safety values and actions",
+    "optionB": "Problem identification and resolution",
+    "optionC": "Personal accountability",
+    "optionD": "Competitive performance metrics",
+    "optionE": "Continuous learning",
+    "answer": "D. Competitive performance metrics",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "316-317",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When calculating the System Average Interruption Duration Index (SAIDI), which of the following formulas should be used according to IFRS standards?",
+    "optionA": "Total number of customers interrupted / Total number of customers served",
+    "optionB": "(Total number of customers interrupted \u00d7 Duration of interruptions) / Total number of customers served",
+    "optionC": "Total duration of interruptions / Total number of customers interrupted",
+    "optionD": "(Total number of customers served \u00d7 Duration of interruptions) / Total number of customers interrupted",
+    "optionE": "Total number of customers served / Total number of customers interrupted",
+    "answer": "B. (Total number of customers interrupted \u00d7 Duration of interruptions) / Total number of customers served",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "319",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "According to IFRS standards, how should an electric utility calculate the percentage of its electric load served by smart grid technology?",
+    "optionA": "By dividing the number of smart meters installed by the total number of customers",
+    "optionB": "By measuring the reduction in peak demand attributed to smart grid technologies",
+    "optionC": "By calculating the total amount of energy load served by smart grid technology divided by the total amount of energy load",
+    "optionD": "By assessing the percentage of grid infrastructure that incorporates digital communication technologies",
+    "optionE": "By determining the ratio of renewable energy sources integrated through smart grid systems",
+    "answer": "C. By calculating the total amount of energy load served by smart grid technology divided by the total amount of energy load",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+    "page": "311",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When reporting on greenhouse gas (GHG) emissions associated with power deliveries, which of the following should be included in the calculation according to IFRS standards?",
+    "optionA": "Only emissions from owned power generation facilities",
+    "optionB": "Emissions from owned generation and purchased power, minus emissions from power resold at wholesale",
+    "optionC": "Emissions from owned generation, excluding those associated with transmission and distribution losses",
+    "optionD": "Only emissions from purchased power",
+    "optionE": "Emissions from owned generation, purchased power, and customer-owned distributed generation",
+    "answer": "B. Emissions from owned generation and purchased power, minus emissions from power resold at wholesale",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+    "page": "302-303",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "According to IFRS standards, how should an electric utility calculate the Customer Average Interruption Duration Index (CAIDI)?",
+    "optionA": "Total duration of interruptions divided by the total number of customers",
+    "optionB": "Total number of customer interruptions divided by the total number of customers served",
+    "optionC": "Sum of all customer interruption durations divided by the total number of customer interruptions",
+    "optionD": "Average duration of interruptions multiplied by the frequency of interruptions",
+    "optionE": "Total number of customers interrupted divided by the total number of interruption events",
+    "answer": "C. Sum of all customer interruption durations divided by the total number of customer interruptions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+    "page": "319",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When disclosing water management metrics, how should an electric utility determine if its operations are in regions with High or Extremely High Baseline Water Stress according to IFRS standards?",
+    "optionA": "By consulting local water authorities in each operational region",
+    "optionB": "By using the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "optionC": "By calculating the ratio of water withdrawal to available renewable water resources",
+    "optionD": "By assessing the frequency of drought conditions in operational areas over the past decade",
+    "optionE": "By measuring the competition for water resources among different sectors in each region",
+    "answer": "B. By using the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+    "page": "307",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When preparing a sustainability report for an electric utility company, which of the following is considered a unique challenge in reporting water management risks according to IFRS standards?",
+    "optionA": "Calculating total electricity generated",
+    "optionB": "Reporting on employee diversity",
+    "optionC": "Disclosing water consumption in regions with high baseline water stress",
+    "optionD": "Measuring customer satisfaction levels",
+    "optionE": "Reporting on board composition",
+    "answer": "C. Disclosing water consumption in regions with high baseline water stress",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+    "page": "306-309",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "According to IFRS standards, which of the following represents a unique challenge for electric utilities when reporting on nuclear safety and emergency preparedness?",
+    "optionA": "Disclosing financial performance",
+    "optionB": "Reporting on marketing strategies",
+    "optionC": "Describing efforts to create and maintain a culture of nuclear safety",
+    "optionD": "Calculating carbon offsets",
+    "optionE": "Reporting on supply chain management",
+    "answer": "C. Describing efforts to create and maintain a culture of nuclear safety",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+    "page": "315-317",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "According to IFRS standards, which of the following represents a unique challenge for electric utilities when reporting on end-use efficiency and demand?",
+    "optionA": "Reporting on dividend payments",
+    "optionB": "Calculating greenhouse gas emissions",
+    "optionC": "Disclosing customer electricity savings from efficiency measures by market",
+    "optionD": "Measuring employee turnover rates",
+    "optionE": "Reporting on product recalls",
+    "answer": "C. Disclosing customer electricity savings from efficiency measures by market",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+    "page": "312-314",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "According to IFRS standards, what unique challenge do electric utilities face when reporting on grid resiliency in their sustainability reports?",
+    "optionA": "Difficulty in measuring customer satisfaction during outages",
+    "optionB": "Balancing the benefits of smart grid technology with increased cybersecurity risks",
+    "optionC": "Calculating the financial impact of extreme weather events",
+    "optionD": "Determining the optimal number of backup generators",
+    "optionE": "Reporting on the aesthetics of transmission lines",
+    "answer": "B. Balancing the benefits of smart grid technology with increased cybersecurity risks",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+    "page": "318",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  }
+]

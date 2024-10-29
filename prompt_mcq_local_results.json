@@ -1,0 +1,134 @@
+[
+  {
+    "qa_type": "single_hop",
+    "question": "What is the percentage of refrigerants consumed by the entity that have zero ozone-depleting potential?",
+    "temperature": 0,
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 10,
+    "relevancy_score": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What percentage of the entity's energy consumption (excluding fleet vehicles) is from renewable sources?",
+    "temperature": 0,
+    "specificity_score": 7,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What percentage of the entity's revenue is from eggs that originated from a cage-free environment?",
+    "temperature": 0,
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 10,
+    "relevancy_score": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the percentage of refrigerants consumed by the entity that have zero ozone-depleting potential?",
+    "temperature": 0,
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 10,
+    "relevancy_score": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What percentage of the entity's energy consumption (excluding fleet vehicles) is from renewable sources?",
+    "temperature": 0,
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 10,
+    "relevancy_score": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What percentage of the entity's revenue is from eggs that originated from a cage-free environment?",
+    "temperature": 0,
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 10,
+    "relevancy_score": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the percentage of the entity's gross global Scope 1 greenhouse gas emissions that are covered under emissions-limiting regulations?",
+    "temperature": 0,
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 10,
+    "relevancy_score": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "all_none_above": 0,
+    "covers_all_industries": 0,
+    "valid_page_numbers": 0,
+    "industries": [
+      "b7-coal-operations"
+    ]
+  }
+]

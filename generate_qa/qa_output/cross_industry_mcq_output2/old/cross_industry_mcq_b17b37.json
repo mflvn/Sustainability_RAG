@@ -1,0 +1,138 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When disclosing Probable Maximum Loss (PML) for weather-related natural catastrophes, insurance companies are required to report on which of the following likelihood of exceedance scenarios?",
+    "optionA": "1% (1-in-100) only",
+    "optionB": "2% (1-in-50) and 1% (1-in-100)",
+    "optionC": "2% (1-in-50), 1% (1-in-100), and 0.4% (1-in-250)",
+    "optionD": "5% (1-in-20), 2% (1-in-50), and 1% (1-in-100)",
+    "optionE": "Any three scenarios chosen by the company",
+    "answer": "C: 2% (1-in-50), 1% (1-in-100), and 0.4% (1-in-250)",
+    "explanation": "According to the IFRS S2 Climate-related Disclosures for the Insurance industry, companies are required to disclose the PML using, at a minimum, three likelihood of exceedance scenarios: (1) 2% (1-in-50); (2) 1% (1-in-100); and (3) 0.4% (1-in-250).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Insurance"
+    ],
+    "pages": [
+      "164"
+    ],
+    "pairing_explanation": "Insurance companies assess risks associated with property, linking sustainability to real estate services through climate risk and resilience planning.",
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "In the Real Estate Services industry, when disclosing the floor area under management that obtained an energy rating, which of the following is NOT considered a valid energy rating scheme according to IFRS standards?",
+    "optionA": "ENERGY STAR\u00ae",
+    "optionB": "EU Energy Performance Certificates (EPC)",
+    "optionC": "National Australian Build Environment Rating System (NABERS) Energy",
+    "optionD": "LEED Certification",
+    "optionE": "NABERSNZ",
+    "answer": "D: LEED Certification",
+    "explanation": "According to the IFRS S2 Climate-related Disclosures for the Real Estate Services industry, LEED Certification is not listed as one of the valid energy rating schemes. The accepted schemes include ENERGY STAR\u00ae, EU Energy Performance Certificates (EPC), NABERS Energy, NABERSNZ, and other schemes that can be demonstrated to have substantially equivalent criteria, methodology, and presentation of results.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate Services"
+    ],
+    "pages": [
+      "395-396"
+    ],
+    "pairing_explanation": "Insurance companies assess risks associated with property, linking sustainability to real estate services through climate risk and resilience planning.",
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating financed emissions in the Insurance industry, which of the following is NOT considered part of the gross exposure?",
+    "optionA": "Funded carrying amounts",
+    "optionB": "Undrawn loan commitments",
+    "optionC": "Derivatives with gross cash flows exchanged",
+    "optionD": "Net amounts in derivatives with net cash flows exchanged",
+    "optionE": "Loan loss reserves",
+    "answer": "E: Loan loss reserves",
+    "explanation": "According to the IFRS S2 Climate-related Disclosures for the Insurance industry, gross exposure for financed emissions calculations includes funded carrying amounts (before subtracting loss allowances), undrawn loan commitments, and both gross and net amounts for derivatives. Loan loss reserves are not mentioned as part of the gross exposure calculation.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Insurance"
+    ],
+    "pages": [
+      "170-171"
+    ],
+    "pairing_explanation": "Insurance companies assess risks associated with property, linking sustainability to real estate services through climate risk and resilience planning.",
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "In the Real Estate Services industry, when calculating the revenue from energy and sustainability services, which of the following services should NOT be included?",
+    "optionA": "Energy management and performance monitoring",
+    "optionB": "Advisory services related to renewable energy procurement",
+    "optionC": "Services related to LEED certification",
+    "optionD": "Energy- and sustainability-related building valuation analysis",
+    "optionE": "Routine janitorial services",
+    "answer": "E: Routine janitorial services",
+    "explanation": "According to the IFRS S2 Climate-related Disclosures for the Real Estate Services industry, routine janitorial services are specifically excluded from the calculation of revenue from energy and sustainability services. The standard states that 'The scope of energy and sustainability services excludes services that impart improved energy and sustainability performance in an ancillary, indirect, or minimal way, as well as environmental services that are part of the ordinary operation and maintenance of buildings (e.g., facilities maintenance and/or janitorial services).'",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate Services"
+    ],
+    "pages": [
+      "393-394"
+    ],
+    "pairing_explanation": "Insurance companies assess risks associated with property, linking sustainability to real estate services through climate risk and resilience planning.",
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the IFRS S2 Climate-related Disclosures for the Insurance and Real Estate Services industries differ in their approach to measuring and reporting on building-related climate risks?",
+    "optionA": "Insurance focuses on PML, while Real Estate Services focuses on energy ratings",
+    "optionB": "Insurance reports on financed emissions, while Real Estate Services reports on operational emissions",
+    "optionC": "Insurance discloses climate scenarios, while Real Estate Services discloses energy efficiency improvements",
+    "optionD": "Insurance reports on policy premiums, while Real Estate Services reports on property values",
+    "optionE": "Both industries use identical metrics for climate risk reporting",
+    "answer": "A: Insurance focuses on PML, while Real Estate Services focuses on energy ratings",
+    "explanation": "The IFRS S2 Climate-related Disclosures for the Insurance industry require reporting on Probable Maximum Loss (PML) for weather-related natural catastrophes, which is a key metric for assessing climate-related risks to insured properties. In contrast, the Real Estate Services industry is required to report on the floor area and number of buildings under management that obtained an energy rating, focusing on the energy performance of buildings rather than catastrophe risk.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Insurance",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate Services"
+    ],
+    "pages": [
+      "164",
+      "395-396"
+    ],
+    "pairing_explanation": "Insurance companies assess risks associated with property, linking sustainability to real estate services through climate risk and resilience planning.",
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "In the context of IFRS S2 Climate-related Disclosures, how do the Insurance and Real Estate Services industries differ in their approach to sustainability services?",
+    "optionA": "Insurance companies don't offer sustainability services, while Real Estate Services do",
+    "optionB": "Insurance focuses on risk mitigation services, while Real Estate Services focus on energy efficiency",
+    "optionC": "Insurance reports on sustainability-related policy premiums, while Real Estate Services report on revenue from sustainability services",
+    "optionD": "Both industries report identical metrics for sustainability services",
+    "optionE": "Insurance focuses on financed emissions, while Real Estate Services focus on operational emissions",
+    "answer": "C: Insurance reports on sustainability-related policy premiums, while Real Estate Services report on revenue from sustainability services",
+    "explanation": "According to the IFRS S2 Climate-related Disclosures, Insurance companies are required to report on 'Net premiums written related to energy efficiency and low carbon technology' (FN-IN-410b.1), which reflects sustainability-related policy premiums. In contrast, Real Estate Services companies are required to disclose 'Revenue from energy and sustainability services' (IF-RS-410a.1), directly reporting on the revenue generated from providing sustainability services to clients.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Insurance",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate Services"
+    ],
+    "pages": [
+      "162",
+      "393-394"
+    ],
+    "pairing_explanation": "Insurance companies assess risks associated with property, linking sustainability to real estate services through climate risk and resilience planning.",
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ]
+  }
+]

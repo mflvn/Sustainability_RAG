@@ -1,0 +1,4 @@
+| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |
+|-------|--------|----------|------------------|------|
+| Product Design & Lifecycle Management | Discussion of process to assess and manage environmental and human health considerations associated with chemicals in products, and meet demand for sustainable products | Discussion and Analysis | n/a | HC-MS-410a.1 |
+| Product Design & Lifecycle Management | Total amount of products accepted for take-back and reused, recycled, or donated, broken down by: (1) devices and equipment and (2) supplies | Quantitative | Metric tons (t) | HC-MS-410a.2 |

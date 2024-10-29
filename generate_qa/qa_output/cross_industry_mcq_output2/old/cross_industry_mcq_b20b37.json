@@ -1,0 +1,142 @@
+[
+  {
+    "qa_type": "1",
+    "question": "According to IFRS standards, which of the following is a required disclosure for Agricultural Products companies but not for Real Estate Services companies?",
+    "optionA": "Revenue from energy and sustainability services",
+    "optionB": "Gross global Scope 1 emissions",
+    "optionC": "Number of buildings under management",
+    "optionD": "Total water withdrawn",
+    "optionE": "Number of appraisals provided",
+    "answer": "B: Gross global Scope 1 emissions",
+    "explanation": "Agricultural Products companies are required to disclose gross global Scope 1 emissions (FB-AG-110a.1), while this is not a specific requirement for Real Estate Services companies. Real Estate Services companies focus more on energy ratings and sustainability services for managed properties.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate Services"
+    ],
+    "pages": [
+      "190",
+      "391-396"
+    ],
+    "pairing_explanation": "Agricultural products' supply chain sustainability issues resonate with the real estate sector\u2019s need for sustainable land and resource management.",
+    "industries": [
+      "b20-agricultural-products",
+      "b37-real-estate-services"
+    ]
+  },
+  {
+    "qa_type": "1",
+    "question": "Which of the following disclosures is required for Real Estate Services companies but not for Agricultural Products companies under IFRS standards?",
+    "optionA": "Fleet fuel consumed",
+    "optionB": "Water management risks",
+    "optionC": "Floor area under management with owner operational control",
+    "optionD": "Percentage of renewable energy consumed",
+    "optionE": "Number of incidents of non-compliance with water permits",
+    "answer": "C: Floor area under management with owner operational control",
+    "explanation": "Real Estate Services companies are required to disclose the floor area under management with owner operational control (IF-RS-000.B), which is specific to their industry. Agricultural Products companies do not have this requirement as it's not relevant to their operations.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate Services"
+    ],
+    "pages": [
+      "191-192",
+      "391-392"
+    ],
+    "pairing_explanation": "Agricultural products' supply chain sustainability issues resonate with the real estate sector\u2019s need for sustainable land and resource management.",
+    "industries": [
+      "b20-agricultural-products",
+      "b37-real-estate-services"
+    ]
+  },
+  {
+    "qa_type": "2",
+    "question": "When calculating the percentage of agricultural products sourced from regions with High or Extremely High Baseline Water Stress, what denominator should Agricultural Products companies use?",
+    "optionA": "Total water withdrawn",
+    "optionB": "Total cost of agricultural products purchased from Tier 1 suppliers",
+    "optionC": "Total land area under active production",
+    "optionD": "Total number of processing facilities",
+    "optionE": "Total revenue from agricultural products",
+    "answer": "B: Total cost of agricultural products purchased from Tier 1 suppliers",
+    "explanation": "For Agricultural Products companies, the percentage is calculated as the cost of agricultural products purchased from Tier 1 suppliers in high water stress regions divided by the total cost of agricultural products purchased from Tier 1 suppliers (FB-AG-440a.2).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products"
+    ],
+    "pages": [
+      "201-202"
+    ],
+    "pairing_explanation": "Agricultural products' supply chain sustainability issues resonate with the real estate sector\u2019s need for sustainable land and resource management.",
+    "industries": [
+      "b20-agricultural-products",
+      "b37-real-estate-services"
+    ]
+  },
+  {
+    "qa_type": "2",
+    "question": "For Real Estate Services companies, how is the metric 'Revenue from energy and sustainability services' (IF-RS-410a.1) defined?",
+    "optionA": "All revenue from property management services",
+    "optionB": "Revenue from services that improve energy efficiency by any amount",
+    "optionC": "Revenue from services directly related to resource efficiency, utility data management, and sustainability certifications",
+    "optionD": "Revenue from all environmental services, including regular maintenance",
+    "optionE": "Revenue from energy consulting services only",
+    "answer": "C: Revenue from services directly related to resource efficiency, utility data management, and sustainability certifications",
+    "explanation": "For Real Estate Services companies, revenue from energy and sustainability services is defined as services directly related to resource efficiency (including energy, water, and waste), utility data management, energy procurement, obtaining and retaining sustainability certifications, environmental reporting, and corporate sustainability consulting and training.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate Services"
+    ],
+    "pages": [
+      "393-394"
+    ],
+    "pairing_explanation": "Agricultural products' supply chain sustainability issues resonate with the real estate sector\u2019s need for sustainable land and resource management.",
+    "industries": [
+      "b20-agricultural-products",
+      "b37-real-estate-services"
+    ]
+  },
+  {
+    "qa_type": "3",
+    "question": "How do the IFRS sustainability reporting requirements for Agricultural Products and Real Estate Services companies differ in their approach to water management?",
+    "optionA": "Only Agricultural Products companies must report on water management",
+    "optionB": "Real Estate Services focus on water efficiency in buildings, while Agricultural Products focus on water sourcing risks",
+    "optionC": "Both industries have identical water management reporting requirements",
+    "optionD": "Real Estate Services report on water consumption, while Agricultural Products report on water quality",
+    "optionE": "Neither industry has specific water management reporting requirements",
+    "answer": "B: Real Estate Services focus on water efficiency in buildings, while Agricultural Products focus on water sourcing risks",
+    "explanation": "Agricultural Products companies must report on water withdrawn and consumed in high stress areas (FB-AG-140a.1) and describe water management risks (FB-AG-140a.2). Real Estate Services companies focus on energy and sustainability services for buildings, which may include water efficiency, but don't have specific water metrics. This reflects the different water-related challenges each industry faces.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate Services"
+    ],
+    "pages": [
+      "196-199",
+      "393-396"
+    ],
+    "pairing_explanation": "Agricultural products' supply chain sustainability issues resonate with the real estate sector\u2019s need for sustainable land and resource management.",
+    "industries": [
+      "b20-agricultural-products",
+      "b37-real-estate-services"
+    ]
+  },
+  {
+    "qa_type": "3",
+    "question": "How do the sustainability reporting requirements for Agricultural Products and Real Estate Services companies differ in their approach to energy management?",
+    "optionA": "Only Real Estate Services companies report on energy management",
+    "optionB": "Agricultural Products focus on renewable energy, while Real Estate Services focus on energy ratings",
+    "optionC": "Both industries have identical energy management reporting requirements",
+    "optionD": "Agricultural Products report on energy consumption, while Real Estate Services don't address energy",
+    "optionE": "Neither industry has specific energy management reporting requirements",
+    "answer": "B: Agricultural Products focus on renewable energy, while Real Estate Services focus on energy ratings",
+    "explanation": "Agricultural Products companies must report on operational energy consumed and percentage of renewable energy (FB-AG-130a.1). Real Estate Services companies focus on providing energy ratings for buildings under management (IF-RS-410a.3) and revenue from energy services (IF-RS-410a.1). This reflects the different roles each industry plays in energy management.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate Services"
+    ],
+    "pages": [
+      "194-195",
+      "393-396"
+    ],
+    "pairing_explanation": "Agricultural products' supply chain sustainability issues resonate with the real estate sector\u2019s need for sustainable land and resource management.",
+    "industries": [
+      "b20-agricultural-products",
+      "b37-real-estate-services"
+    ]
+  }
+]

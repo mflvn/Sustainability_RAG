@@ -1,0 +1,188 @@
+[
+  {
+    "question": "List the activity metrics for Oil & Gas-Services and Coal Operations industries.",
+    "optionA": "For Oil & Gas-Services industry: Number of active rig sites, Number of active well sites, Total amount of drilling performed, Total number of hours worked by all employees. For Coal Operations industry: Production of thermal coal, Production of metallurgical coal.",
+    "optionB": "For Oil & Gas-Services industry: Total fuel consumed, percentage renewable, percentage used in on-road and off-road equipment, percentage of engines meeting emissions standards. For Coal Operations industry: Gross global Scope 1 emissions, percentage covered under emissions regulations.",
+    "optionC": "For Oil & Gas-Services industry: Total volume of fresh water handled, percentage recycled. For Coal Operations industry: Total fresh water withdrawn, percentage recycled, percentage in high/extremely high water stress regions.",
+    "optionD": "For Oil & Gas-Services industry: There are no activity metrics specified. For Coal Operations industry: There are no activity metrics specified.",
+    "optionE": "For both industries: There are no activity metrics specified.",
+    "answer": "optionA",
+    "reference_text": [
+      "Table 2. Activity Metrics: ACTIVITY METRIC | CATEGORY | UNIT OF MEASURE | CODE, Number of active rig sites \u00b9\u2077 | Quantitative | Number | EM-SV-000.A, Number of active well sites \u00b9\u2078 | Quantitative | Number | EM-SV-000.B, Total amount of drilling performed | Quantitative | Meters (m) | EM-SV-000.C, Total number of hours worked by all employees | Quantitative | Hours | EM-SV-000.D",
+      "Table 2. Activity Metrics: ACTIVITY METRIC | CATEGORY | UNIT OF MEASURE | CODE, Production of thermal coal | Quantitative | Million metric tons (Mt) | EM-CO-000.A, Production of metallurgical coal | Quantitative | Million metric tons (Mt) | EM-CO-000.B"
+    ],
+    "pages": [
+      "124-125_b14",
+      "42_b7"
+    ],
+    "industries": [
+      "b7-coal-operations",
+      "b14-oil-and-gas-services"
+    ],
+    "pairing_explanation": "Both industries involve extensive environmental impact due to resource extraction and energy production activities. Comparing their sustainability efforts could shed light on how they manage emissions, land use, and community impacts.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Are there any common sustainability topics between Oil & Gas-Services and Coal Operations industries?",
+    "optionA": "Yes, the common sustainability topics are Emissions Reduction and Fuels Management for Oil & Gas-Services industry and Greenhouse Gas Emissions for Coal Operations industry.",
+    "optionB": "Yes, the common sustainability topic is Water Management for both industries.",
+    "optionC": "No, there are no common sustainability topics between the two industries.",
+    "optionD": "Yes, the common sustainability topic is Reserves Valuation & Capital Expenditures for both industries.",
+    "optionE": "Yes, the common sustainability topics are Emissions Reduction Services & Fuels Management and Water Management Services for Oil & Gas-Services industry, and Greenhouse Gas Emissions and Water Management for Coal Operations industry.",
+    "answer": "optionB",
+    "reference_text": [
+      "TOPIC: Water Management Services",
+      "TOPIC: Water Management"
+    ],
+    "pages": [
+      "130_b14",
+      "47_b7"
+    ],
+    "industries": [
+      "b7-coal-operations",
+      "b14-oil-and-gas-services"
+    ],
+    "pairing_explanation": "Both industries involve extensive environmental impact due to resource extraction and energy production activities. Comparing their sustainability efforts could shed light on how they manage emissions, land use, and community impacts.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Compare the number of quantitative metrics between Oil & Gas-Services and Coal Operations industries.",
+    "optionA": "The Oil & Gas-Services industry has 2 quantitative metrics while the Coal Operations industry has 5 quantitative metrics.",
+    "optionB": "The Oil & Gas-Services industry has 3 quantitative metrics while the Coal Operations industry has 4 quantitative metrics.",
+    "optionC": "Both industries have an equal number of 3 quantitative metrics each.",
+    "optionD": "The Oil & Gas-Services industry has 4 quantitative metrics while the Coal Operations industry has 2 quantitative metrics.",
+    "optionE": "The Oil & Gas-Services industry has 3 quantitative metrics while the Coal Operations industry has 5 quantitative metrics.",
+    "answer": "optionB",
+    "reference_text": [
+      "Table 1. Sustainability Disclosure Topics & Metrics: TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE, Emissions Reduction Services & Fuels Management | Total fuel consumed, percentage renewable, percentage used in: (1) on-road equipment and vehicles and (2) off-road equipment | Quantitative | Gigajoules (GJ), Percent- age (%) | EM-SV-110a.1, Emissions Reduction Services & Fuels Management | Percentage of engines in service that meet Tier 4 compliance comply with highest level of emissions standards for non-road diesel engine emissions | Quantitative | Percentage (%) | EM-SV-110a.3, Water Management Services | (1) Total volume of fresh water handled in operations, (2) percentage recycled | Quantitative | Thousand cubic meters (m\u00b3), Percent- age (%) | EM-SV-140a.1",
+      "Table 1. Sustainability Disclosure Topics & Metrics: TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE, Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%) | EM-CO-110a.1, Water Management | (1) Total fresh water withdrawn, (2) percentage recycled, (3) percentage in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%) | EM-CO-140a.1, Reserves Valuation & Capital Expenditures | Sensitivity of coal reserve levels to future price projection scenarios that account for a price on carbon emissions | Quantitative | Million metric tons (Mt) | EM-CO-420a.1, Reserves Valuation & Capital Expenditures | Estimated carbon dioxide emissions embedded in proven coal reserves | Quantitative | Metric tons (t) CO\u2082-e | EM-CO-420a.2"
+    ],
+    "pages": [
+      "126_b14",
+      "42-51_b7"
+    ],
+    "industries": [
+      "b7-coal-operations",
+      "b14-oil-and-gas-services"
+    ],
+    "pairing_explanation": "Both industries involve extensive environmental impact due to resource extraction and energy production activities. Comparing their sustainability efforts could shed light on how they manage emissions, land use, and community impacts.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "What formulas are used to calculate the EM-CO-420a.2 metric 'Estimated carbon dioxide emissions embedded in proven coal reserves' in the Coal Operations industry?",
+    "optionA": "The formula used is: E = R \u00d7 V \u00d7 C, where E = potential emissions in kg CO2, R = proven reserves in Gg, V = net calorific value in TJ/Gg, C = effective CO2 emission factor in kg/TJ.",
+    "optionB": "There is no specific formula mentioned for calculating this metric.",
+    "optionC": "The formula is not explicitly stated, but details on calculation methodologies are provided in Section 3.",
+    "optionD": "The report does not provide any formulas for calculating metrics.",
+    "optionE": "The formula used is: E = P \u00d7 Q, where E = emissions, P = production, Q = emissions factor.",
+    "answer": "optionA",
+    "reference_text": [
+      "Estimated potential carbon dioxide emissions from proven coal reserves shall be calculated according to the following formula, derived from Meinshausen et al: 2.1 E = R \u00d7 V \u00d7 C, where: 2.1.1 E are the potential emissions in kilograms of carbon dioxide (kg CO2); 2.1.2 R are the proven reserves in gigagrams (Gg); 2.1.3 V is the net calorific value in terajoules per gigagram (TJ/Gg); and 2.1.4 C is the effective carbon dioxide emission factor in kilograms CO2 per terajoule (kg/TJ)."
+    ],
+    "pages": [
+      "51_b7"
+    ],
+    "industries": [
+      "b7-coal-operations",
+      "b14-oil-and-gas-services"
+    ],
+    "pairing_explanation": "Both industries involve extensive environmental impact due to resource extraction and energy production activities. Comparing their sustainability efforts could shed light on how they manage emissions, land use, and community impacts.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for the Coal Operations and Oil & Gas-Services industries.",
+    "optionA": "EM-CO-110a.1, EM-CO-140a.1, EM-CO-420a.1, EM-CO-420a.2, EM-SV-110a.1, EM-SV-110a.3, EM-SV-140a.1",
+    "optionB": "EM-CO-000.A, EM-CO-000.B, EM-SV-110a.1, EM-SV-110a.3, EM-SV-140a.1, EM-SV-000.A, EM-SV-000.B, EM-SV-000.C, EM-SV-000.D",
+    "optionC": "EM-CO-110a.1, EM-CO-140a.1, EM-CO-420a.1, EM-CO-420a.2, EM-SV-110a.1, EM-SV-140a.1",
+    "optionD": "EM-CO-110a.1, EM-CO-140a.2, EM-CO-420a.1, EM-SV-110a.2, EM-SV-140a.2",
+    "optionE": "EM-CO-110a.1, EM-CO-140a.1, EM-CO-420a.2, EM-SV-110a.3, EM-SV-140a.1",
+    "answer": "C",
+    "pages": [
+      "43_b7",
+      "126_b14"
+    ],
+    "reference_text": [
+      "Emissions Reduction Services & Fuels Management | Total fuel consumed, percentage renewable, percentage used in: (1) on-road equipment and vehicles and (2) off-road equipment | Quantitative | Gigajoules (GJ), Percent- age (%)",
+      "Water Management Services | (1) Total volume of fresh water handled in operations, (2) percentage recycled | Quantitative | Thousand cubic meters (m\u00b3), Percent- age (%)",
+      "Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%)",
+      "Water Management | (1) Total fresh water withdrawn, (2) percentage recycled, (3) percentage in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%)",
+      "Reserves Valuation & Capital Expenditures | Sensitivity of coal reserve levels to future price projection scenarios that account for a price on carbon emissions | Quantitative | Million metric tons (Mt)",
+      "Reserves Valuation & Capital Expenditures | Estimated carbon dioxide emissions embedded in proven coal reserves | Quantitative | Metric tons (t) CO\u2082-e"
+    ],
+    "industries": [
+      "b7-coal-operations",
+      "b14-oil-and-gas-services"
+    ],
+    "pairing_explanation": "Both industries involve extensive environmental impact due to resource extraction and energy production activities. Comparing their sustainability efforts could shed light on how they manage emissions, land use, and community impacts.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Give me the codes for all the 'Discussion and Analysis' metrics in Table 1 for the Coal Operations and Oil & Gas-Services industries.",
+    "optionA": "EM-CO-110a.2, EM-CO-420a.3, EM-SV-110a.2, EM-SV-140a.2",
+    "optionB": "EM-CO-110a.1, EM-CO-140a.1, EM-CO-420a.1, EM-CO-420a.2",
+    "optionC": "EM-SV-110a.1, EM-SV-110a.3, EM-SV-140a.1",
+    "optionD": "EM-CO-000.A, EM-CO-000.B, EM-SV-000.A, EM-SV-000.B, EM-SV-000.C, EM-SV-000.D",
+    "optionE": "EM-CO-140a.2, EM-SV-140a.2",
+    "answer": "A",
+    "pages": [
+      "44_b7",
+      "127_b14"
+    ],
+    "reference_text": [
+      "Greenhouse Gas Emissions | Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a",
+      "Reserves Valuation & Capital Expenditures | Discussion of how price and demand for coal and/or climate regulation influence the capital expenditure strategy for exploration, acquisition, and development of assets | Discussion and Analysis | n/a",
+      "Emissions Reduction Services & Fuels Management | Discussion of strategy or plans to address air emissions-related risks, opportunities, and impacts | Discussion and Analysis | n/a",
+      "Water Management Services | Discussion of strategy or plans to address water consumption and dispos- al-related risks, opportunities, and impacts | Discussion and Analysis | n/a"
+    ],
+    "industries": [
+      "b7-coal-operations",
+      "b14-oil-and-gas-services"
+    ],
+    "pairing_explanation": "Both industries involve extensive environmental impact due to resource extraction and energy production activities. Comparing their sustainability efforts could shed light on how they manage emissions, land use, and community impacts.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "What units of measurement are used across the Coal Operations and Oil & Gas-Services industries for measuring greenhouse gas emissions?",
+    "optionA": "Million metric tons (Mt)",
+    "optionB": "Metric tons (t) CO2-e, Percentage (%)",
+    "optionC": "Gigajoules (GJ), Percentage (%)",
+    "optionD": "Thousand cubic meters (m\u00b3), Percentage (%)",
+    "optionE": "Number",
+    "answer": "B",
+    "pages": [
+      "43_b7"
+    ],
+    "reference_text": [
+      "Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%)"
+    ],
+    "industries": [
+      "b7-coal-operations",
+      "b14-oil-and-gas-services"
+    ],
+    "pairing_explanation": "Both industries involve extensive environmental impact due to resource extraction and energy production activities. Comparing their sustainability efforts could shed light on how they manage emissions, land use, and community impacts.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Comparing the Coal Operations and Oil & Gas-Services industries, which sustainability topic is more prominently addressed in the Coal Operations industry but not explicitly covered for the Oil & Gas-Services industry?",
+    "optionA": "Greenhouse Gas Emissions",
+    "optionB": "Water Management",
+    "optionC": "Emissions Reduction Services & Fuels Management",
+    "optionD": "Reserves Valuation & Capital Expenditures",
+    "optionE": "Activity Metrics",
+    "answer": "D",
+    "pages": [
+      "43-52_b7",
+      "126-132_b14"
+    ],
+    "reference_text": [
+      "# Reserves Valuation & Capital Expenditures ... EM-CO-420a.1. Sensitivity of coal reserve levels to future price projection scenarios that account for a price on carbon emissions ... EM-CO-420a.2. Estimated carbon dioxide emissions embedded in proven coal reserves ... EM-CO-420a.3. Discussion of how price and demand for coal and/or climate regulation influence the capital expenditure strategy for exploration, acquisition, and development of assets",
+      "The Oil & Gas-Services industry disclosure topics do not include a 'Reserves Valuation & Capital Expenditures' topic."
+    ],
+    "industries": [
+      "b7-coal-operations",
+      "b14-oil-and-gas-services"
+    ],
+    "pairing_explanation": "Both industries involve extensive environmental impact due to resource extraction and energy production activities. Comparing their sustainability efforts could shed light on how they manage emissions, land use, and community impacts.",
+    "qa_type": "multi_hop"
+  }
+]

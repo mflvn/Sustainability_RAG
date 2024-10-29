@@ -1,0 +1,152 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2 Climate-related Disclosures for the Road Transportation industry, which of the following is NOT a required activity metric?",
+    "optionA": "Revenue ton miles (RTM)",
+    "optionB": "Load factor",
+    "optionC": "Number of employees",
+    "optionD": "Number of truck drivers",
+    "optionE": "Fuel efficiency in miles per gallon",
+    "answer": "E. Fuel efficiency in miles per gallon",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Road Transportation",
+    "page": "636",
+    "industries": [
+      "b68-road-transportation"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing gross global Scope 1 emissions for the Road Transportation industry, which of the following greenhouse gases is NOT covered under the Kyoto Protocol and therefore not required to be reported?",
+    "optionA": "Carbon dioxide (CO\u2082)",
+    "optionB": "Methane (CH\u2084)",
+    "optionC": "Nitrous oxide (N\u2082O)",
+    "optionD": "Sulfur hexafluoride (SF\u2086)",
+    "optionE": "Ozone (O\u2083)",
+    "answer": "E. Ozone (O\u2083)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Road Transportation",
+    "page": "637-638",
+    "industries": [
+      "b68-road-transportation"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When discussing long-term and short-term strategies to manage Scope 1 emissions in the Road Transportation industry, which of the following is NOT mentioned as a relevant activity or investment?",
+    "optionA": "Route optimization",
+    "optionB": "Adoption of engine and powertrain efficiency",
+    "optionC": "Use of electric- or natural gas-powered vehicles",
+    "optionD": "Improved tire rolling resistance",
+    "optionE": "Implementation of carbon capture technology",
+    "answer": "E. Implementation of carbon capture technology",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Road Transportation",
+    "page": "639",
+    "industries": [
+      "b68-road-transportation"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When calculating the percentage of renewable fuel consumed in the Road Transportation industry, which of the following is NOT a requirement for a fuel to be considered renewable according to the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Produced from renewable biomass",
+    "optionB": "Used to replace or reduce the quantity of fossil fuel",
+    "optionC": "Achieved net emission reduction on a lifecycle basis",
+    "optionD": "At least 20% less lifecycle GHG emissions than baseline",
+    "optionE": "Derived from a single specific crop source",
+    "answer": "E. Derived from a single specific crop source",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Road Transportation",
+    "page": "640",
+    "industries": [
+      "b68-road-transportation"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the total fuel consumed for the Road Transportation industry, which of the following methodologies is NOT mentioned as an acceptable approach in the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Adding fuel purchases made during the reporting period to beginning inventory, less any fuel inventory at the end of the reporting period",
+    "optionB": "Tracking fuel consumed by vehicles",
+    "optionC": "Tracking fuel expenses",
+    "optionD": "Estimating fuel consumption based on average fleet efficiency",
+    "optionE": "Calculating fuel consumed based on distance traveled and average fuel economy",
+    "answer": "D. Estimating fuel consumption based on average fleet efficiency",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Road Transportation",
+    "page": "639-640",
+    "industries": [
+      "b68-road-transportation"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the load factor as an activity metric for the Road Transportation industry, which of the following formulas should be used according to the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Total miles traveled divided by cargo miles traveled",
+    "optionB": "Cargo weight divided by vehicle capacity",
+    "optionC": "Revenue ton miles divided by total miles traveled",
+    "optionD": "Cargo miles traveled divided by total miles traveled",
+    "optionE": "Number of shipments divided by total miles traveled",
+    "answer": "D. Cargo miles traveled divided by total miles traveled",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Road Transportation",
+    "page": "636",
+    "industries": [
+      "b68-road-transportation"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When consolidating and disclosing greenhouse gas (GHG) emissions data for the Road Transportation industry, which approach should be used according to the IFRS S2 Climate-related Disclosures?",
+    "optionA": "The operational control approach",
+    "optionB": "The equity share approach",
+    "optionC": "The approach aligned with the entity's financial reporting data",
+    "optionD": "The market share approach",
+    "optionE": "The geographical boundary approach",
+    "answer": "C. The approach aligned with the entity's financial reporting data",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Road Transportation",
+    "page": "638",
+    "industries": [
+      "b68-road-transportation"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "According to the IFRS S2 Climate-related Disclosures, what unique challenge does the Road Transportation industry face when reporting on Scope 1 emissions?",
+    "optionA": "Difficulty in measuring emissions from electric vehicles",
+    "optionB": "Complexity in accounting for emissions from subcontracted fleets",
+    "optionC": "Challenges in separating emissions from passenger and freight transport",
+    "optionD": "Emissions primarily come from combustion of diesel and other fuels in truck engines",
+    "optionE": "Inability to track emissions from international routes",
+    "answer": "D. Emissions primarily come from combustion of diesel and other fuels in truck engines",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Road Transportation",
+    "page": "637",
+    "industries": [
+      "b68-road-transportation"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What unique activity metric does the Road Transportation industry need to report on, which might pose challenges in data collection and calculation?",
+    "optionA": "Average age of the vehicle fleet",
+    "optionB": "Total distance traveled by all vehicles",
+    "optionC": "Revenue ton miles (RTM)",
+    "optionD": "Fuel efficiency of each vehicle model",
+    "optionE": "Number of deliveries made per day",
+    "answer": "C. Revenue ton miles (RTM)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Road Transportation",
+    "page": "636",
+    "industries": [
+      "b68-road-transportation"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "According to the IFRS S2 Climate-related Disclosures, what unique challenge does the Road Transportation industry face when reporting on renewable fuel consumption?",
+    "optionA": "Determining the percentage of fuel that is natural gas",
+    "optionB": "Calculating the total amount of fuel consumed from all sources",
+    "optionC": "Defining what qualifies as a renewable fuel",
+    "optionD": "Measuring the fuel efficiency of electric vehicles",
+    "optionE": "Reporting on the carbon intensity of biofuels",
+    "answer": "C. Defining what qualifies as a renewable fuel",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Road Transportation",
+    "page": "640",
+    "industries": [
+      "b68-road-transportation"
+    ]
+  }
+]

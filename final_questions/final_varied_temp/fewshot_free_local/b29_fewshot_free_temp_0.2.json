@@ -1,0 +1,67 @@
+[
+  {
+    "question": "Describe the calculation method for the payload fuel economy metric for the Health Care Distributors industry.",
+    "answer": "Payload fuel economy shall be calculated as: total gallons of fuel consumed / revenue tons miles (RTM), where revenue ton miles (RTM) = total weight of paid tonnage transported (payload) \u00d7 total distance in miles goods were transported.",
+    "reference_text": [
+      "Payload fuel economy shall be calculated as: total gallons of fuel consumed / revenue tons miles (RTM), where revenue ton miles (RTM) = total weight of paid tonnage transported (payload) \u00d7 total distance in miles goods were transported."
+    ],
+    "pages": [
+      "Page 290"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0.2,
+    "industries": [
+      "b29-health-care-distributors"
+    ]
+  },
+  {
+    "question": "What are some examples of efforts to reduce the environmental impact of logistics for the Health Care Distributors industry?",
+    "answer": "Relevant efforts to describe include, but are not limited to, upgrades to fleet (fuel efficiency), usage of alternative and/or renewable fuels, optimized logistics routes, and idling reduction programs.",
+    "reference_text": [
+      "Relevant efforts to describe include, but are not limited to, upgrades to fleet (fuel efficiency), usage of alternative and/or renewable fuels, optimized logistics routes, and idling reduction programs."
+    ],
+    "pages": [
+      "Page 290"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0.2,
+    "industries": [
+      "b29-health-care-distributors"
+    ]
+  },
+  {
+    "question": "What is the category of the 'Payload fuel economy' metric in the Health Care Distributors industry and how should this metric be calculated?",
+    "answer": "The category of the 'Payload fuel economy' metric is Quantitative. Payload fuel economy shall be calculated as: total gallons of fuel consumed / revenue tons miles (RTM), where revenue ton miles (RTM) = total weight of paid tonnage transported (payload) \u00d7 total distance in miles goods were transported. Payload includes the weight of paid tonnage and excludes the vehicle weight.",
+    "reference_text": [
+      "| Fleet Fuel Management | Payload fuel economy | Quantitative | Gallons, Tons (U.S.), Miles | HC-DI-110a.1 |",
+      "3 Payload fuel economy shall be calculated as: total gallons of fuel consumed / revenue tons miles (RTM), where revenue ton miles (RTM) = total weight of paid tonnage transported (payload) \u00d7 total distance in miles goods were transported.",
+      "3.1 Payload includes the weight of paid tonnage and excludes the vehicle weight."
+    ],
+    "pages": [
+      "Page 289",
+      "Page 290"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0.2,
+    "industries": [
+      "b29-health-care-distributors"
+    ]
+  },
+  {
+    "question": "What do I need to discuss or disclose for the 'Description of efforts to reduce the environmental impact of logistics' topic in the Health Care Distributors industry?",
+    "answer": "The entity shall describe the nature, scope, and implementation of its programs and initiatives to reduce the environmental impact of its logistics operations. Relevant efforts to describe include, but are not limited to, upgrades to fleet (fuel efficiency), usage of alternative and/or renewable fuels, optimized logistics routes, and idling reduction programs.",
+    "reference_text": [
+      "### HC-DI-110a.2. Description of efforts to reduce the environmental impact of logistics",
+      "1 The entity shall describe the nature, scope, and implementation of its programs and initiatives to reduce the environmental impact of its logistics operations.",
+      "2 Relevant efforts to describe include, but are not limited to, upgrades to fleet (fuel efficiency), usage of alternative and/or renewable fuels, optimized logistics routes, and idling reduction programs."
+    ],
+    "pages": [
+      "Page 290"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0.2,
+    "industries": [
+      "b29-health-care-distributors"
+    ]
+  }
+]

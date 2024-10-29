@@ -1,0 +1,4 @@
+Experiment Type,Parameter,Model Name,Model Size (B),Accuracy,Total Questions,Correct Answers
+rag_technique,none,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,8,80.64516129032258,31,25
+rag_technique,hyde,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,8,83.87096774193549,31,26
+rag_technique,multi,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,8,48.38709677419355,31,15

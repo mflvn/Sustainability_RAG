@@ -1,0 +1,146 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When comparing the Apparel, Accessories & Footwear industry with the Coal Operations industry, which of the following is a required disclosure for Coal Operations but not for Apparel, Accessories & Footwear?",
+    "optionA": "Description of environmental risks associated with sourcing raw materials",
+    "optionB": "Percentage of raw materials third-party certified to sustainability standards",
+    "optionC": "Gross global Scope 1 emissions",
+    "optionD": "Number of Tier 1 suppliers",
+    "optionE": "Total fresh water withdrawn",
+    "answer": "C: Gross global Scope 1 emissions",
+    "explanation": "The Coal Operations industry is required to disclose gross global Scope 1 emissions (EM-CO-110a.1), while this is not a specified requirement for the Apparel, Accessories & Footwear industry. Both industries have requirements related to environmental risks and water management, but Scope 1 emissions are specifically mandated for Coal Operations due to the carbon-intensive nature of their activities.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations"
+    ],
+    "pages": [
+      "8",
+      "43"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "Which of the following disclosures is required for both the Apparel, Accessories & Footwear industry and the Coal Operations industry?",
+    "optionA": "Percentage of raw materials recycled",
+    "optionB": "Total fresh water withdrawn",
+    "optionC": "Number of Tier 1 suppliers",
+    "optionD": "Gross global Scope 1 emissions",
+    "optionE": "Estimated carbon dioxide emissions embedded in proven reserves",
+    "answer": "B: Total fresh water withdrawn",
+    "explanation": "Both industries are required to disclose information about water management. For Apparel, Accessories & Footwear, this is part of the environmental risks associated with sourcing raw materials (CG-AA-440a.1). For Coal Operations, it's explicitly required in EM-CO-140a.1. While the specific metrics might differ slightly, both industries need to report on their water usage due to the significant water-related impacts in their operations.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations"
+    ],
+    "pages": [
+      "8",
+      "47"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When preparing sustainability reports, how do the metrics for measuring supply chain sustainability differ between the Apparel, Accessories & Footwear industry and the Coal Operations industry?",
+    "optionA": "Apparel focuses on supplier certifications, while Coal focuses on emissions",
+    "optionB": "Apparel measures water usage, while Coal measures energy consumption",
+    "optionC": "Apparel counts Tier 1 suppliers, while Coal measures reserve levels",
+    "optionD": "Both industries use identical supply chain metrics",
+    "optionE": "Coal focuses on labor practices, while Apparel focuses on material sourcing",
+    "answer": "A: Apparel focuses on supplier certifications, while Coal focuses on emissions",
+    "explanation": "The Apparel, Accessories & Footwear industry measures supply chain sustainability through metrics like the percentage of raw materials third-party certified to environmental and/or social sustainability standards (CG-AA-440a.2). In contrast, the Coal Operations industry focuses more on emissions-related metrics, such as gross global Scope 1 emissions (EM-CO-110a.1), reflecting the different nature of sustainability challenges in these industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations"
+    ],
+    "pages": [
+      "9",
+      "43"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "In sustainability reporting, how does the calculation of water-related metrics differ between the Apparel, Accessories & Footwear industry and the Coal Operations industry?",
+    "optionA": "Apparel reports total water withdrawn, while Coal reports only recycled water",
+    "optionB": "Coal reports water stress, while Apparel does not consider water stress",
+    "optionC": "Apparel reports water quality, while Coal only reports water quantity",
+    "optionD": "Coal reports more detailed water metrics, including stress and quality compliance",
+    "optionE": "Both industries use identical water-related metrics and calculations",
+    "answer": "D: Coal reports more detailed water metrics, including stress and quality compliance",
+    "explanation": "The Coal Operations industry has more detailed water-related metrics. It requires reporting on total fresh water withdrawn, percentage recycled, percentage in regions with High or Extremely High Baseline Water Stress (EM-CO-140a.1), and incidents of non-compliance with water quality permits (EM-CO-140a.2). The Apparel industry's water-related disclosures are less specific, mainly covered under the broader environmental risks associated with sourcing raw materials (CG-AA-440a.1).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations"
+    ],
+    "pages": [
+      "8",
+      "47-48"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the climate-related risks and reporting challenges differ between the Apparel, Accessories & Footwear industry and the Coal Operations industry?",
+    "optionA": "Apparel faces more regulatory risks, while Coal faces more market risks",
+    "optionB": "Coal faces direct emissions challenges, while Apparel focuses on supply chain emissions",
+    "optionC": "Apparel reports on product lifecycle, while Coal reports on operational efficiency",
+    "optionD": "Coal considers reserve valuation, while Apparel focuses on inventory valuation",
+    "optionE": "Both industries face identical climate-related risks and reporting challenges",
+    "answer": "B: Coal faces direct emissions challenges, while Apparel focuses on supply chain emissions",
+    "explanation": "The Coal Operations industry faces significant challenges related to direct emissions, as evidenced by the requirement to report gross global Scope 1 emissions (EM-CO-110a.1) and strategies to manage these emissions (EM-CO-110a.2). In contrast, the Apparel, Accessories & Footwear industry's climate-related challenges are more focused on the supply chain, particularly in sourcing raw materials (CG-AA-440a.1). This reflects the different nature of their operations and their position in the value chain.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations"
+    ],
+    "pages": [
+      "8",
+      "43-46"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "Which sustainability reporting challenge is more prominent for the Coal Operations industry compared to the Apparel, Accessories & Footwear industry?",
+    "optionA": "Reporting on labor practices in the supply chain",
+    "optionB": "Disclosing the environmental impact of product packaging",
+    "optionC": "Calculating the carbon footprint of product transportation",
+    "optionD": "Estimating the impact of climate regulation on asset valuation",
+    "optionE": "Reporting on the use of recycled materials in products",
+    "answer": "D: Estimating the impact of climate regulation on asset valuation",
+    "explanation": "The Coal Operations industry faces a unique challenge in estimating the impact of climate regulation on asset valuation, as evidenced by the requirement to discuss how price and demand for coal and/or climate regulation influence the capital expenditure strategy for exploration, acquisition, and development of assets (EM-CO-420a.3). This challenge is more prominent for Coal Operations due to the direct link between climate regulation and the long-term viability of coal reserves. The Apparel industry, while facing its own sustainability challenges, does not have this specific requirement related to climate regulation and asset valuation.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations"
+    ],
+    "pages": [
+      "8-10",
+      "49-52"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ]
+  }
+]

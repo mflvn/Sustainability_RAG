@@ -1,0 +1,175 @@
+[
+  {
+    "qa_type": "single_hop",
+    "question": "On what page can I find details about the 'Wood Supply Chain Management' topic for the Building Products & Furnishings industry?",
+    "optionA": "Page 15",
+    "optionB": "Page 18",
+    "optionC": "Page 23",
+    "optionD": "Page 24",
+    "optionE": "Page 22",
+    "answer": "E",
+    "reference_text": [
+      "# Wood Supply Chain Management",
+      "## Topic Summary",
+      "The Building Products & Furnishings industry utilizes large amounts of wood sourced from forests worldwide. Unsustainable production and harvesting of timber can result in adverse environmental and social impacts, including biodiversity loss and harm to the livelihoods of forest-dependent communities."
+    ],
+    "pages": [
+      "22"
+    ],
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What is the unit of measure for the 'Annual production' activity metric in the Building Products & Furnishings industry (as listed in the relevant table)?",
+    "optionA": "Metric tons (t)",
+    "optionB": "Square meters (m\u00b2)",
+    "optionC": "Number of units, weight, and/or square feet",
+    "optionD": "Gigajoules (GJ)",
+    "optionE": "n/a",
+    "answer": "C",
+    "reference_text": [
+      "| ACTIVITY METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|------------------|----------|------------------|------|",
+      "| Annual production\u2074 | Quantitative | See note | CG-BF-000.A |",
+      "4 Note to CG-BF-000.A \u2013 Production shall be disclosed in typical units tracked by the entity such as number of units, weight, and/or square feet."
+    ],
+    "pages": [
+      "15"
+    ],
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "For the listed 'Energy Management in Manufacturing' requirement, what metric should a company in the Building Products & Furnishings industry use for reporting renewable energy consumption?",
+    "optionA": "Square meters (m2)",
+    "optionB": "Gigajoules (GJ)",
+    "optionC": "Kilowatt hours (kWh)",
+    "optionD": "Metric tons of CO2 equivalent",
+    "optionE": "Percentage of total energy consumed",
+    "answer": "E",
+    "reference_text": [
+      "3. The entity shall disclose (3) the percentage of energy it consumed that is renewable energy.",
+      "3.1 Renewable energy is defined as energy from sources that are replenished at a rate greater than or equal to their rate of depletion, such as geothermal, wind, solar, hydro, and biomass.",
+      "3.2 The percentage shall be calculated as renewable energy consumption divided by total energy consumption."
+    ],
+    "pages": [
+      "16",
+      "17"
+    ],
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What is the code of the 'Total weight of wood fiber materials purchased' metric in the Building Products & Furnishings industry (as listed in the relevant table)?",
+    "optionA": "CG-BF-130a.1",
+    "optionB": "CG-BF-410a.1",
+    "optionC": "CG-BF-410a.2",
+    "optionD": "CG-BF-430a.1",
+    "optionE": "CG-BF-430a.2",
+    "answer": "D",
+    "reference_text": [
+      "| Wood Supply Chain Management | (1) Total weight of wood fiber materials purchased, (2) percentage from third-party certified forestlands, (3) percentage by standard, and (4) percentage certified to other wood fiber standards, (5) percentage by standard\u00b3 | Quantitative | Metric tons (t), Percentage (%) by weight | CG-BF-430a.1 |"
+    ],
+    "pages": [
+      "15"
+    ],
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the category of the 'Annual production' activity metric in the Building Products & Furnishings industry and how should this metric be disclosed?",
+    "optionA": "Quantitative; disclosed in typical units tracked by the entity such as number of units, weight, and/or square feet",
+    "optionB": "Qualitative; disclosed as a narrative description of production processes",
+    "optionC": "Quantitative; disclosed only in metric tons",
+    "optionD": "Qualitative; disclosed as a percentage of total industry production",
+    "optionE": "Quantitative; disclosed as a percentage of total industry production",
+    "answer": "A",
+    "reference_text": [
+      "Annual production\u2074 | Quantitative | See note | CG-BF-000.A",
+      "4 Note to CG-BF-000.A \u2013 Production shall be disclosed in typical units tracked by the entity such as number of units, weight, and/or square feet."
+    ],
+    "pages": [
+      "15"
+    ],
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "Can you provide the unit of measure for all the metrics for the 'Energy Management in Manufacturing' topic in the Building Products & Furnishings industry and how should these metrics be calculated?",
+    "optionA": "Gigajoules (GJ) and Percentage (%); calculated based on total energy consumed and percentage of renewable energy",
+    "optionB": "Kilowatt-hours (kWh) and Percentage (%); calculated based on electricity consumption",
+    "optionC": "Metric tons of CO2 equivalent and Percentage (%); calculated based on emissions from energy consumption",
+    "optionD": "British Thermal Units (BTU) and Ratio; calculated based on energy intensity per unit of production",
+    "optionE": "Metric tons of CO2 and British Thermal Units (BTU), calculated based on electricity consumption",
+    "answer": "A",
+    "reference_text": [
+      "Energy Management in Manufacturing | (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | CG-BF-130a.1",
+      "1. The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ).",
+      "2. The entity shall disclose (2) the percentage of energy it consumed that was supplied from grid electricity.",
+      "3. The entity shall disclose (3) the percentage of energy it consumed that is renewable energy."
+    ],
+    "pages": [
+      "16",
+      "17"
+    ],
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the code of the 'Weight of end-of-life material recovered' metric in the Building Products & Furnishings industry and how should this metric be disclosed?",
+    "optionA": "CG-BF-410a.1; disclosed as a qualitative description of recovery efforts",
+    "optionB": "CG-BF-410a.2; disclosed as total weight in metric tons and percentage recycled",
+    "optionC": "CG-BF-000.A; disclosed in typical units tracked by the entity",
+    "optionD": "CG-BF-130a.1; disclosed as total energy consumed in the recovery process",
+    "optionE": "CG-BF-130a.3; disclosed as total energy consumed in the recovery process",
+    "answer": "B",
+    "reference_text": [
+      "Product Lifecycle Environmental Impacts | (1) Weight of end-of-life material recovered, (2) percentage of recovered materials recycled | Quantitative | Metric tons (t), Percentage (%) by weight | CG-BF-410a.2",
+      "1 The entity shall disclose the weight, in metric tons, of materials recovered, including those recovered through recycling services, product take-back programs, and refurbishment services.",
+      "2 The entity shall disclose the percentage of end-of-life materials recovered that were recycled or remanufactured."
+    ],
+    "pages": [
+      "19",
+      "20"
+    ],
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "Can you tell me what topics are covered in the 'Wood Supply Chain Management' section of the Building Products & Furnishings document and what are the key takeaways I need to know as a company writing my sustainability report in this industry?",
+    "optionA": "Topic: Sustainable wood sourcing; Key takeaways: Disclose total weight of wood fiber purchased, percentages from certified forestlands and other wood fiber standards",
+    "optionB": "Topic: Deforestation prevention; Key takeaways: Report on reforestation efforts and carbon sequestration",
+    "optionC": "Topic: Timber production efficiency; Key takeaways: Disclose productivity metrics and waste reduction in wood processing",
+    "optionD": "Topic: Wood product innovation; Key takeaways: Report on development of new wood-based materials and their environmental benefits",
+    "optionE": "Topic: Tree Diversity initiatives; Key takeaways: Report on initiatives to maintain tree diversity",
+    "answer": "A",
+    "reference_text": [
+      "Wood Supply Chain Management",
+      "Topic Summary",
+      "The Building Products & Furnishings industry utilizes large amounts of wood sourced from forests worldwide. Unsustainable production and harvesting of timber can result in adverse environmental and social impacts, including biodiversity loss and harm to the livelihoods of forest-dependent communities.",
+      "Metrics",
+      "CG-BF-430a.1. (1) Total weight of wood fiber materials purchased; (2) percentage from third-party certified forestlands, (3) percentage by standard, and (4) percentage certified to other wood fiber standards, (5) percentage by standard"
+    ],
+    "pages": [
+      "22",
+      "23"
+    ],
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  }
+]

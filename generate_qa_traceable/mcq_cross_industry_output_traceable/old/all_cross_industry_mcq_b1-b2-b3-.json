@@ -1,0 +1,78 @@
+[
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Apparel, Accessories & Footwear, Appliance Manufacturing, and Building Products & Furnishings industries.",
+    "optionA": "CG-AA-440a.1, CG-AM-410a.3, CG-BF-410a.1",
+    "optionB": "CG-AA-440a.1, CG-AM-410a.2, CG-BF-410a.1",
+    "optionC": "CG-AA-440a.2, CG-AM-410a.3, CG-BF-410a.1",
+    "optionD": "CG-AA-440a.1, CG-AM-410a.3, CG-BF-430a.1",
+    "optionE": "CG-AA-440a.2, CG-AM-410a.2, CG-BF-410a.2",
+    "answer": "C",
+    "reference_text": [
+      "CG-AA-440a.1. Description of environmental and social risks associated with sourcing priority raw materials",
+      "CG-AM-410a.3. Description of efforts to manage products' end-of-life impacts",
+      "CG-BF-410a.1. Description of efforts to manage product lifecycle impacts and meet demand for sustainable products"
+    ],
+    "pages": [
+      "8_b1",
+      "14_b2",
+      "18_b3"
+    ],
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b2-appliance-manufacturing",
+      "b3-building-products-and-furnishings"
+    ],
+    "pairing_explanation": "These industries all involve consumer goods that have significant global supply chains, environmental impacts from manufacturing, and considerations around labor practices in emerging markets.",
+    "qa_type": "single_hop"
+  },
+  
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Appliance Manufacturing and Building Products & Furnishings industries?",
+    "optionA": "Appliance Manufacturing has more quantitative metrics in Table 1.",
+    "optionB": "Building Products & Furnishings has more quantitative metrics in Table 1.",
+    "optionC": "Both industries have an equal number of quantitative metrics in Table 1.",
+    "optionD": "Neither industry has any quantitative metrics listed in Table 1.",
+    "optionE": "The information to determine this is not provided in the document.",
+    "answer": "B",
+    "reference_text": [
+      "For Appliance Manufacturing, Table 1 shows 2 quantitative metrics: CG-AM-410a.1, CG-AM-410a.2",
+      "For Building Products & Furnishings, Table 1 shows 3 quantitative metrics: CG-BF-130a.1, CG-BF-410a.2, CG-BF-430a.1"
+    ],
+    "pages": [
+      "11_b2",
+      "15_b3"
+    ],
+    "industries": [
+      "b2-appliance-manufacturing",
+      "b3-building-products-and-furnishings"
+    ],
+    "pairing_explanation": "These industries all involve consumer goods that have significant global supply chains, environmental impacts from manufacturing, and considerations around labor practices in emerging markets.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Are there any common sustainability topics between Apparel, Accessories & Footwear, Appliance Manufacturing, and Building Products & Furnishings industries?",
+    "optionA": "No, there are no common sustainability topics across the three industries.",
+    "optionB": "Yes, the common sustainability topic is Raw Materials Sourcing.",
+    "optionC": "Yes, the common sustainability topic is Product Lifecycle Environmental Impacts.",
+    "optionD": "Yes, the common sustainability topics are Raw Materials Sourcing and Product Lifecycle Environmental Impacts.",
+    "optionE": "Yes, the common sustainability topic is Energy Management in Manufacturing.",
+    "answer": "C",
+    "reference_text": [
+      "Topics for Apparel, Accessories & Footwear include Raw Materials Sourcing",
+      "Topics for Appliance Manufacturing include Product Lifecycle Environmental Impacts",
+      "Topics for Building Products & Furnishings include Product Lifecycle Environmental Impacts"
+    ],
+    "pages": [
+      "7_b1",
+      "11_b2",
+      "15_b3"
+    ],
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b2-appliance-manufacturing",
+      "b3-building-products-and-furnishings"
+    ],
+    "pairing_explanation": "These industries all involve consumer goods that have significant global supply chains, environmental impacts from manufacturing, and considerations around labor practices in emerging markets.",
+    "qa_type": "single_hop"
+  }
+]

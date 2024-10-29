@@ -1,0 +1,1311 @@
+[
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Appliance Manufacturing and Oil & Gas - Refining & Marketing industries?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Appliance Manufacturing and Oil & Gas - Refining & Marketing industries.",
+        "correct_answer": "C",
+        "base_model_answer": null,
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": null
+    },
+    {
+        "question": "What topics should I report on for Appliance Manufacturing and Oil & Gas - Refining & Marketing industries?",
+        "correct_answer": "A",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "List the activity metrics for Appliance Manufacturing and Oil & Gas - Refining & Marketing industries.",
+        "correct_answer": "B",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "Compare the number of quantitative metrics between Appliance Manufacturing and Oil & Gas - Refining & Marketing industries.",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "Which industry has more 'Qualitative' metrics to disclose in Table 1 between Appliance Manufacturing and Oil & Gas - Refining & Marketing industries?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What are the common metrics shared between Appliance Manufacturing and Oil & Gas - Refining & Marketing industries, if any?",
+        "correct_answer": "C",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Give me all the metrics that are in category 'Quantitative' for Appliance Manufacturing and Oil & Gas - Refining & Marketing industries.",
+        "correct_answer": "C",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Appliance Manufacturing and Oil & Gas - Refining & Marketing industries.",
+        "correct_answer": "A",
+        "base_model_answer": null,
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": null
+    },
+    {
+        "question": "Give me the codes for all the 'Discussion and Analysis' metrics in Table 1 for Appliance Manufacturing and Oil & Gas - Refining & Marketing industries.",
+        "correct_answer": "A",
+        "base_model_answer": null,
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": null
+    },
+    {
+        "question": "What units of measurement are used across Appliance Manufacturing and Oil & Gas - Refining & Marketing industries for measuring quantitative metrics?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Are there any common sustainability topics between Appliance Manufacturing and Oil & Gas - Refining & Marketing industries? If so, how do their reporting requirements differ?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "When preparing sustainability reports, how do the metrics for measuring emissions differ between the Appliance Manufacturing and Oil & Gas - Refining & Marketing industries?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "How does the calculation of certification-related metrics differ between Appliance Manufacturing and Oil & Gas - Refining & Marketing companies?",
+        "correct_answer": "A",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "Analyze the reporting complexity of Appliance Manufacturing and Oil & Gas - Refining & Marketing industries by comparing the number of required metrics and the diversity of measurement units used.",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Comparing the Appliance Manufacturing and Oil & Gas - Refining & Marketing industries, which sustainability topic is more prominently addressed in the Oil & Gas industry but not explicitly covered for Appliance Manufacturing?",
+        "correct_answer": "C",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Hotels & Lodging and Electrical & Electronic Equipment industries?",
+        "correct_answer": "C",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What are the common metrics shared between Hotels & Lodging and Electrical & Electronic Equipment industries, if any?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What units of measurement are used across the Hotels & Lodging and Electrical & Electronic Equipment industries for measuring energy management metrics?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Comparing the Hotels & Lodging and Electrical & Electronic Equipment industries, which sustainability topic is more prominently addressed in the Hotels & Lodging industry but not explicitly covered for Electrical & Electronic Equipment industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Water Utilities & Services and Cruise Lines industries?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Water Utilities & Services and Cruise Lines industries.",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Water Utilities & Services and Cruise Lines industries.",
+        "correct_answer": "B",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "Are there any common sustainability topics between Water Utilities & Services and Cruise Lines industries? If so, how do their reporting requirements differ?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Real Estate Services and Agricultural Products industries?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Real Estate Services and Agricultural Products industries.",
+        "correct_answer": "A",
+        "base_model_answer": "E",
+        "top_oss_model_answer": null,
+        "finetuned_model_answer": null
+    },
+    {
+        "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Real Estate Services and Agricultural Products industries.",
+        "correct_answer": "E",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Are there any common sustainability topics between Real Estate Services and Agricultural Products industries? If so, how do their reporting requirements differ?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Apparel, Accessories & Footwear and Agricultural Products industries?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Apparel, Accessories & Footwear and Agricultural Products industries.",
+        "correct_answer": "A",
+        "base_model_answer": null,
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": null
+    },
+    {
+        "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for the Apparel, Accessories & Footwear and Agricultural Products industries.",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": null
+    },
+    {
+        "question": "When preparing sustainability reports, how do the metrics for measuring water-related risks differ between the Apparel, Accessories & Footwear and Agricultural Products industries?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Metals & Mining and Electrical & Electronic Equipment industries?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "List the activity metrics for Metals & Mining and Electrical & Electronic Equipment industries.",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What units of measurement are used across Metals & Mining and Electrical & Electronic Equipment industries for measuring energy management metrics?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Are there any common sustainability topics between Metals & Mining and Electrical & Electronic Equipment industries? If so, how do their reporting requirements differ?",
+        "correct_answer": "D",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Wind Technology & Project Developers and Solar Technology & Project Developers industries?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Wind Technology & Project Developers and Solar Technology & Project Developers industries.",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Wind Technology & Project Developers and Solar Technology & Project Developers industries.",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What units of measurement are used across Wind Technology & Project Developers and Solar Technology & Project Developers industries for measuring 'capacity'?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Metals & Mining and Biofuels industries?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Metals & Mining and Biofuels industries.",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for the Metals & Mining and Biofuels industries.",
+        "correct_answer": "A",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What units of measurement are used across the Metals & Mining and Biofuels industries for measuring water management metrics?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Oil & Gas - Midstream and Telecommunication Services industries?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "List the activity metrics for Oil & Gas - Midstream and Telecommunication Services industries.",
+        "correct_answer": "E",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for the Oil & Gas - Midstream and Telecommunication Services industries.",
+        "correct_answer": "A",
+        "base_model_answer": null,
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": null
+    },
+    {
+        "question": "What units of measurement are used across the Oil & Gas - Midstream and Telecommunication Services industries for measuring greenhouse gas emissions and energy consumption?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Electronic Manufacturing Services & Original Design Manufacturing and Casinos & Gaming industries?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "List the activity metrics for Electronic Manufacturing Services & Original Design Manufacturing and Casinos & Gaming industries.",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What units of measurement are used across the Electronic Manufacturing Services & Original Design Manufacturing and Casinos & Gaming industries for measuring energy and water metrics?",
+        "correct_answer": "A",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "Are there any common sustainability topics between the Electronic Manufacturing Services & Original Design Manufacturing and Casinos & Gaming industries? If so, how do their reporting requirements differ?",
+        "correct_answer": "B",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Airlines and Managed Care industries?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Airlines and Managed Care industries.",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Give me the codes for all the 'Discussion and Analysis' metrics in Table 1 for Airlines and Managed Care industries.",
+        "correct_answer": "A",
+        "base_model_answer": null,
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What units of measurement are used across Airlines and Managed Care industries for measuring 'Quantitative' metrics?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Rail Transportation and Internet Media & Services industries?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Rail Transportation and Internet Media & Services industries.",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What units of measurement are used across the Rail Transportation and Internet Media & Services industries for measuring energy consumption?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Are there any common sustainability topics between the Rail Transportation and Internet Media & Services industries? If so, how do their reporting requirements differ?",
+        "correct_answer": "B",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Automobiles and Restaurants industries?",
+        "correct_answer": "A",
+        "base_model_answer": null,
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": null
+    },
+    {
+        "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Automobiles and Restaurants industries.",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for the Automobiles and Restaurants industries.",
+        "correct_answer": "A",
+        "base_model_answer": null,
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What units of measurement are used across the Automobiles and Restaurants industries for measuring emissions and energy consumption?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Asset Management & Custody Activities and Mortgage Finance industries?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Asset Management & Custody Activities and Mortgage Finance industries.",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": null
+    },
+    {
+        "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Mortgage Finance and Asset Management & Custody Activities industries.",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "Are there any common sustainability topics between Mortgage Finance and Asset Management & Custody Activities industries? If so, how do their reporting requirements differ?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Building Products & Furnishings and Real Estate industries?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What topics should I report on for Building Products & Furnishings and Real Estate industries?",
+        "correct_answer": "C",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Building Products & Furnishings and Real Estate industries.",
+        "correct_answer": "A",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": null
+    },
+    {
+        "question": "Compare the number of quantitative metrics between Building Products & Furnishings and Real Estate industries.",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "Which industry has more 'Qualitative' metrics to disclose in Table 1 between Building Products & Furnishings and Real Estate industries?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "List the activity metrics for Building Products & Furnishings and Real Estate industries.",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What are the common metrics shared between Building Products & Furnishings and Real Estate industries, if any?",
+        "correct_answer": "E",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Building Products & Furnishings and Real Estate industries.",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What units of measurement are used across Building Products & Furnishings and Real Estate industries for measuring energy consumption?",
+        "correct_answer": "A",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "Are there any common sustainability topics between Building Products & Furnishings and Real Estate industries? If so, how do their reporting requirements differ?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "When preparing sustainability reports, how do the metrics for measuring water management differ between the Building Products & Furnishings and Real Estate industries?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "How does the calculation of energy-related metrics differ between Building Products & Furnishings and Real Estate companies?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "When calculating renewable energy metrics, what is the key difference between Building Products & Furnishings and Real Estate companies?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Analyze the reporting complexity of Building Products & Furnishings and Real Estate industries by comparing the number of required metrics and the diversity of measurement units used.",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": null
+    },
+    {
+        "question": "Comparing the Building Products & Furnishings and Real Estate industries, which sustainability topic is more prominently addressed in the Building Products & Furnishings industry but not explicitly covered for Real Estate industry?",
+        "correct_answer": "A",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Insurance and Real Estate Services industries?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What topics should I report on for Insurance and Real Estate Services industries?",
+        "correct_answer": "A",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Insurance and Real Estate Services industries.",
+        "correct_answer": "A",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What units of measurement are used across Insurance and Real Estate Services industries for measuring quantitative metrics?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Commercial Banks and Alcoholic Beverages industries?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Commercial Banks and Alcoholic Beverages industries.",
+        "correct_answer": "B",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Give me the codes for all the 'Discussion and Analysis' metrics in Table 1 for Commercial Banks and Alcoholic Beverages industries.",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": null
+    },
+    {
+        "question": "When preparing sustainability reports, how do the metrics for measuring water-related issues differ between the Commercial Banks and Alcoholic Beverages industries?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Car Rental & Leasing and Road Transportation industries?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "List the activity metrics for Car Rental & Leasing and Road Transportation industries.",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for the Road Transportation and Car Rental & Leasing industries.",
+        "correct_answer": "A",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What units of measurement are used across the Road Transportation and Car Rental & Leasing industries for measuring fuel-related metrics?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Commercial Banks and Fuel Cells & Industrial Batteries industries?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Commercial Banks and Fuel Cells & Industrial Batteries industries.",
+        "correct_answer": "C",
+        "base_model_answer": null,
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Commercial Banks and Fuel Cells & Industrial Batteries industries.",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": null
+    },
+    {
+        "question": "What units of measurement are used across Commercial Banks and Fuel Cells & Industrial Batteries industries for measuring emissions and energy-related metrics?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Electric Utilities & Power Generators and Oil & Gas - Exploration & Production industries?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Electric Utilities & Power Generators and Oil & Gas - Exploration & Production industries.",
+        "correct_answer": "D",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": null
+    },
+    {
+        "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Electric Utilities & Power Generators and Oil & Gas \u2013 Exploration & Production industries.",
+        "correct_answer": "B",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Are there any common sustainability topics between Electric Utilities & Power Generators and Oil & Gas \u2013 Exploration & Production industries? If so, how do their reporting requirements differ?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Chemicals and Forestry Management industries?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Chemicals and Forestry Management industries.",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Chemicals and Forestry Management industries.",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Are there any common sustainability topics between Chemicals and Forestry Management industries? If so, how do their reporting requirements differ?",
+        "correct_answer": "A",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Multiline and Specialty Retailers & Distributors and Waste Management industries?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "List the activity metrics for Multiline and Specialty Retailers & Distributors and Waste Management industries.",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What units of measurement are used across the Multiline and Specialty Retailers & Distributors and Waste Management industries for measuring energy-related metrics?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Are there any common sustainability topics between the Multiline and Specialty Retailers & Distributors and Waste Management industries? If so, how do their reporting requirements differ?",
+        "correct_answer": "A",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Asset Management & Custody Activities and Pulp & Paper Products industries?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Asset Management & Custody Activities and Pulp & Paper Products industries.",
+        "correct_answer": "A",
+        "base_model_answer": null,
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Asset Management & Custody Activities and Pulp & Paper Products industries.",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What units of measurement are used across Asset Management & Custody Activities and Pulp & Paper Products industries for measuring emissions?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Investment Banking & Brokerage and Marine Transportation industries?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Investment Banking & Brokerage and Marine Transportation industries.",
+        "correct_answer": "C",
+        "base_model_answer": null,
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Investment Banking & Brokerage and Marine Transportation industries.",
+        "correct_answer": "B",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "Are there any common sustainability topics between Investment Banking & Brokerage and Marine Transportation industries? If so, how do their reporting requirements differ?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between the Hardware and Oil & Gas - Exploration & Production industries?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for the Hardware and Oil & Gas - Exploration & Production industries.",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for the Hardware and Oil & Gas-Exploration & Production industries.",
+        "correct_answer": "C",
+        "base_model_answer": null,
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": null
+    },
+    {
+        "question": "What units of measurement are used across the Hardware and Oil & Gas-Exploration & Production industries for measuring water-related metrics?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Health Care Delivery and Mortgage Finance industries.",
+        "correct_answer": "C",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Health Care Delivery and Mortgage Finance industries?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Health Care Delivery and Mortgage Finance industries.",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What units of measurement are used across Health Care Delivery and Mortgage Finance industries for measuring 'Quantitative' metrics?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Industrial Machinery & Goods and Iron & Steel Producers industries?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "List the activity metrics for Industrial Machinery & Goods and Iron & Steel Producers industries.",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What units of measurement are used across the Industrial Machinery & Goods and Iron & Steel Producers industries for measuring energy management metrics?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Are there any common sustainability topics between the Industrial Machinery & Goods and Iron & Steel Producers industries? If so, how do their reporting requirements differ for energy management?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Food Retailers & Distributors and Household & Personal Products industries?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Food Retailers & Distributors and Household & Personal Products industries.",
+        "correct_answer": "D",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": null
+    },
+    {
+        "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Food Retailers & Distributors and Household & Personal Products industries.",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Are there any common sustainability topics between Food Retailers & Distributors and Household & Personal Products industries? If so, how do their reporting requirements differ?",
+        "correct_answer": "A",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between the Medical Equipment & Supplies and Meat, Poultry & Dairy industries?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for the Medical Equipment & Supplies and Meat, Poultry & Dairy industries.",
+        "correct_answer": "A",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for the Medical Equipment & Supplies and Meat, Poultry & Dairy industries.",
+        "correct_answer": "C",
+        "base_model_answer": null,
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": null
+    },
+    {
+        "question": "Are there any common sustainability topics between the Medical Equipment & Supplies and Meat, Poultry & Dairy industries? If so, how do their reporting requirements differ?",
+        "correct_answer": "D",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Containers & Packaging and Engineering & Construction Services industries?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Containers & Packaging and Engineering & Construction Services industries.",
+        "correct_answer": "E",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Containers & Packaging and Engineering & Construction Services industries.",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "Are there any common sustainability topics between Containers & Packaging and Engineering & Construction Services industries? If so, how do their reporting requirements differ?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Non-Alcoholic Beverages and Air Freight & Logistics industries?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Non-Alcoholic Beverages and Air Freight & Logistics industries.",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What units of measurement are used across the Non-Alcoholic Beverages and Air Freight & Logistics industries for measuring energy consumption?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Are there any common sustainability topics between the Non-Alcoholic Beverages and Air Freight & Logistics industries? If so, how do their reporting requirements differ?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between the Building Products & Furnishings and Drug Retailers industries?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "List the activity metrics for the Building Products & Furnishings and Drug Retailers industries.",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What units of measurement are used across the Building Products & Furnishings and Drug Retailers industries for measuring energy consumption?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Are there any common sustainability topics between the Building Products & Furnishings and Drug Retailers industries? If so, how do their reporting requirements differ for energy management?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Aerospace & Defense and Auto Parts industries?",
+        "correct_answer": "C",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "List the activity metrics for Aerospace & Defense and Auto Parts industries.",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What units of measurement are used across the Aerospace & Defense and Auto Parts industries for measuring energy management metrics?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Are there any common sustainability topics between the Aerospace & Defense and Auto Parts industries? If so, how do their reporting requirements differ?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Processed Foods and Household & Personal Products industries?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Processed Foods and Household & Personal Products industries.",
+        "correct_answer": "D",
+        "base_model_answer": null,
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Processed Foods and Household & Personal Products industries.",
+        "correct_answer": "C",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Are there any common sustainability topics between Processed Foods and Household & Personal Products industries? If so, how do their reporting requirements differ?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Construction Materials and Home Builders industries?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Construction Materials and Home Builders industries.",
+        "correct_answer": "E",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Construction Materials and Home Builders industries.",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What units of measurement are used across Construction Materials and Home Builders industries for measuring water-related metrics?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Software & IT Services and Semiconductors industries?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Software & IT Services and Semiconductors industries.",
+        "correct_answer": "D",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for the Software & IT Services and Semiconductors industries.",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What units of measurement are used across the Software & IT Services and Semiconductors industries for measuring energy consumption?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What topics should I report on for Coal Operations and Apparel, Accessories & Footwear industries?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Coal Operations and Apparel, Accessories & Footwear industries.",
+        "correct_answer": "A",
+        "base_model_answer": null,
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Give me all the metrics from Table 1 that are in category 'Quantitative' for Coal Operations and Apparel, Accessories & Footwear industries.",
+        "correct_answer": "D",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What are the common metrics shared between Coal Operations and Apparel, Accessories & Footwear industries, if any?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "List the activity metrics for Coal Operations and Apparel, Accessories & Footwear industries.",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Compare the number of quantitative metrics between Coal Operations and Apparel, Accessories & Footwear industries.",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Coal Operations and Apparel, Accessories & Footwear industries?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Which industry has more 'Qualitative' metrics to disclose in Table 1 between Coal Operations and Apparel, Accessories & Footwear industries?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Coal Operations and Apparel, Accessories & Footwear industries.",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": null
+    },
+    {
+        "question": "Give me the codes for all the 'Discussion and Analysis' metrics in Table 1 for Coal Operations and Apparel, Accessories & Footwear industries.",
+        "correct_answer": "A",
+        "base_model_answer": null,
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What units of measurement are used across Coal Operations and Apparel, Accessories & Footwear industries for measuring quantitative metrics?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "Are there any common sustainability topics between Coal Operations and Apparel, Accessories & Footwear industries? If so, how do their reporting requirements differ?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "When preparing sustainability reports, how do the metrics for measuring greenhouse gas emissions differ between the Coal Operations and Apparel, Accessories & Footwear industries?",
+        "correct_answer": "C",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "How does the calculation of water-related metrics differ between Coal Operations and Apparel, Accessories & Footwear companies?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Analyze the reporting complexity of Coal Operations and Apparel, Accessories & Footwear industries by comparing the number of required metrics and the diversity of measurement units used.",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Comparing the Coal Operations and Apparel, Accessories & Footwear industries, which sustainability topic is more prominently addressed in the Coal Operations industry but not explicitly covered for Apparel, Accessories & Footwear industry?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Health Care Distributors and Gas Utilities & Distributors industries?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Health Care Distributors and Gas Utilities & Distributors industries.",
+        "correct_answer": "A",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": null
+    },
+    {
+        "question": "What units of measurement are used across Health Care Distributors and Gas Utilities & Distributors industries for measuring fleet fuel management and end-use efficiency, respectively?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Give me the codes for all the 'Discussion and Analysis' metrics in Table 1 for Health Care Distributors and Gas Utilities & Distributors industries.",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "A"
+    }
+]

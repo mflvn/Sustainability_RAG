@@ -1,0 +1,182 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2 Climate-related Disclosures, what specific information should a company in the Household & Personal Products industry disclose regarding water consumption in water-stressed areas?",
+    "optionA": "Total water withdrawn only",
+    "optionB": "Total water consumed only",
+    "optionC": "Percentage of water withdrawn in high-stress areas",
+    "optionD": "Percentage of both water withdrawn and consumed in high or extremely high water stress areas",
+    "optionE": "Only the locations of water-stressed areas where the company operates",
+    "answer": "D. Percentage of both water withdrawn and consumed in high or extremely high water stress areas",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "34-35",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When describing water management risks in a sustainability report, what specific type of regulatory and financial constraints should a company in the Household & Personal Products industry include?",
+    "optionA": "Only water treatment costs",
+    "optionB": "Only restrictions on water rights",
+    "optionC": "Only stakeholder perceptions",
+    "optionD": "Only direct competition with other users",
+    "optionE": "Volatility in water costs, stakeholder perceptions, competition with other users, and restrictions on water rights",
+    "answer": "E. Volatility in water costs, stakeholder perceptions, competition with other users, and restrictions on water rights",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "35",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing water management targets in a sustainability report, what additional information is required regarding the timeline?",
+    "optionA": "Only the target year",
+    "optionB": "Only the start year and target year",
+    "optionC": "The start year, target year, and base year",
+    "optionD": "Only the base year and target year",
+    "optionE": "The start year and any interim milestones",
+    "answer": "C. The start year, target year, and base year",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "36-37",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2, how should a company in the Household & Personal Products industry disclose its sourcing of RSPO-certified palm oil?",
+    "optionA": "Total amount of palm oil sourced only",
+    "optionB": "Percentage of RSPO-certified palm oil without specifying supply chain models",
+    "optionC": "Amount of palm oil sourced and percentage certified through RSPO supply chains as Identity Preserved, Segregated, Mass Balance, or Book & Claim",
+    "optionD": "Only the percentage of Identity Preserved RSPO-certified palm oil",
+    "optionE": "Total amount of palm oil and percentage of non-certified palm oil",
+    "answer": "C. Amount of palm oil sourced and percentage certified through RSPO supply chains as Identity Preserved, Segregated, Mass Balance, or Book & Claim",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "38-39",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating water consumption for sustainability reporting in the Household & Personal Products industry, which of the following is NOT considered as consumed water?",
+    "optionA": "Water that evaporates during withdrawal, usage, and discharge",
+    "optionB": "Water that is directly incorporated into the entity's product",
+    "optionC": "Water that is indirectly incorporated into the entity's service",
+    "optionD": "Water that returns to the same catchment area from which it was withdrawn",
+    "optionE": "Water that is returned to another catchment area or the sea",
+    "answer": "D. Water that returns to the same catchment area from which it was withdrawn",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "34-35",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When disclosing water withdrawn from regions with High or Extremely High Baseline Water Stress, which tool should be used to classify these regions?",
+    "optionA": "CDP Water Security Questionnaire",
+    "optionB": "World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "optionC": "UN Global Compact CEO Water Mandate",
+    "optionD": "SASB Materiality Map",
+    "optionE": "GRI 303: Water and Effluents 2018",
+    "answer": "B. World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "35",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of RSPO-certified palm oil sourced, what is the correct denominator to use?",
+    "optionA": "Total weight of all raw materials sourced",
+    "optionB": "Total weight of all oils sourced",
+    "optionC": "Total weight of palm oil sourced",
+    "optionD": "Total weight of RSPO-certified oils sourced",
+    "optionE": "Total weight of products sold containing palm oil",
+    "answer": "C. Total weight of palm oil sourced",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "38",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When reporting on water management targets, how should the percentage reduction or improvement be calculated?",
+    "optionA": "From the previous year to the current year",
+    "optionB": "From the current year to the target year",
+    "optionC": "From the industry average to the current performance",
+    "optionD": "From the base year to the current year",
+    "optionE": "From the worst performing year to the best performing year",
+    "answer": "D. From the base year to the current year",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "37",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A company in the Household & Personal Products industry is facing water scarcity issues in multiple manufacturing locations. What is the most comprehensive approach to address this challenge in their sustainability report?",
+    "optionA": "Only report on total water consumption",
+    "optionB": "Focus solely on water recycling initiatives",
+    "optionC": "Describe water management risks and strategies to mitigate them",
+    "optionD": "Report water usage only for regions without water stress",
+    "optionE": "Exclude water-related disclosures from the report",
+    "answer": "C. Describe water management risks and strategies to mitigate them",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "35-37",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When reporting on palm oil sourcing in the sustainability report, what is the most comprehensive way to disclose the certification status?",
+    "optionA": "Report only the total amount of palm oil sourced",
+    "optionB": "Disclose only RSPO-certified palm oil percentage",
+    "optionC": "Report certification for Identity Preserved and Segregated only",
+    "optionD": "Disclose percentages for all four RSPO supply chain models",
+    "optionE": "Only report on uncertified palm oil",
+    "answer": "D. Disclose percentages for all four RSPO supply chain models",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "38-39",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "In addressing the environmental and social impacts of palm oil in the sustainability report, what additional aspect should a company consider disclosing?",
+    "optionA": "Only the price fluctuations of palm oil",
+    "optionB": "The taste profile of products containing palm oil",
+    "optionC": "Other strategies and mechanisms used to manage risks and opportunities",
+    "optionD": "The names of individual palm oil suppliers",
+    "optionE": "Marketing strategies for palm oil-based products",
+    "answer": "C. Other strategies and mechanisms used to manage risks and opportunities",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "39",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A Household & Personal Products company is preparing its sustainability report and wants to address the unique challenges associated with palm oil sourcing. Which of the following represents the most comprehensive approach to reporting on this industry-specific issue?",
+    "optionA": "Only disclose the total amount of palm oil sourced",
+    "optionB": "Report on palm oil sourcing and its environmental impacts, but exclude social impacts",
+    "optionC": "Disclose the amount of palm oil sourced, its RSPO certification status, and discuss strategies to manage associated risks and opportunities",
+    "optionD": "Focus solely on the percentage of RSPO-certified palm oil without mentioning other sustainability aspects",
+    "optionE": "Exclude palm oil information from the report as it's not a material issue",
+    "answer": "C. Disclose the amount of palm oil sourced, its RSPO certification status, and discuss strategies to manage associated risks and opportunities",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+    "page": "38",
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  }
+]

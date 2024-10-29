@@ -1,0 +1,377 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the seven greenhouse gases (GHGs) covered under the Kyoto Protocol that coal operations companies need to disclose in their Scope 1 emissions?",
+    "optionA": "Carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, sulfur hexafluoride, and nitrogen trifluoride",
+    "optionB": "Carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, sulfur hexafluoride, and ozone",
+    "optionC": "Carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, sulfur dioxide, and nitrogen trifluoride",
+    "optionD": "Carbon monoxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, sulfur hexafluoride, and nitrogen trifluoride",
+    "optionE": "Carbon dioxide, methane, nitrous acid, hydrofluorocarbons, perfluorocarbons, sulfur hexafluoride, and nitrogen trifluoride",
+    "answer": "A. Carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, sulfur hexafluoride, and nitrogen trifluoride",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "43",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the document, what are the typical parameters of concern in water quality incidents for coal operations?",
+    "optionA": "Selenium, total dissolved solids (TDS), sulfate, total suspended solids (TSS), and pH",
+    "optionB": "Nitrogen, phosphorus, potassium, calcium, and magnesium",
+    "optionC": "Lead, mercury, arsenic, cadmium, and chromium",
+    "optionD": "Chlorine, fluoride, bromide, iodide, and nitrate",
+    "optionE": "Copper, zinc, nickel, iron, and manganese",
+    "answer": "A. Selenium, total dissolved solids (TDS), sulfate, total suspended solids (TSS), and pH",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "48",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "Which scenarios from the International Energy Agency's World Energy Outlook should coal companies use in their reserves sensitivity analysis?",
+    "optionA": "Current Policies, New Policies, and Sustainable Development Scenarios",
+    "optionB": "Business as Usual, Green Growth, and Net Zero Emissions Scenarios",
+    "optionC": "Fossil Fuel Dominance, Renewable Transition, and Carbon Neutral Scenarios",
+    "optionD": "High Carbon, Low Carbon, and Zero Carbon Scenarios",
+    "optionE": "Economic Growth, Environmental Protection, and Energy Security Scenarios",
+    "answer": "A. Current Policies, New Policies, and Sustainable Development Scenarios",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "49-50",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What is the formula used to calculate the estimated potential carbon dioxide emissions from proven coal reserves?",
+    "optionA": "E = R \u00d7 V \u00d7 C",
+    "optionB": "E = R + V + C",
+    "optionC": "E = R / V / C",
+    "optionD": "E = (R + V) \u00d7 C",
+    "optionE": "E = R \u00d7 (V + C)",
+    "answer": "A. E = R \u00d7 V \u00d7 C",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "51",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might a coal company's capital expenditure strategy be influenced by both the Sustainable Development Scenario and water management concerns in regions with high water stress?",
+    "optionA": "By investing in water-efficient technologies and exploring reserves in low water stress areas",
+    "optionB": "By increasing investments in thermal coal production and ignoring water stress",
+    "optionC": "By focusing solely on metallurgical coal and disregarding water management",
+    "optionD": "By maintaining current strategies without considering climate scenarios or water stress",
+    "optionE": "By divesting from all coal operations and investing in renewable energy",
+    "answer": "A. By investing in water-efficient technologies and exploring reserves in low water stress areas",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "47, 49-52",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "If a coal company's gross global Scope 1 emissions increase, and 60% of these emissions are covered under emissions-limiting regulations, how might this impact their long-term strategy and reporting requirements?",
+    "optionA": "It would have no impact on their strategy or reporting requirements",
+    "optionB": "They would need to reduce production but wouldn't need to change their reporting",
+    "optionC": "They would need to disclose the increase, the percentage covered by regulations, and potentially adjust their emissions reduction targets and strategies",
+    "optionD": "They would only need to report the emissions increase to the CDP",
+    "optionE": "They would need to immediately cease all coal operations",
+    "answer": "C. They would need to disclose the increase, the percentage covered by regulations, and potentially adjust their emissions reduction targets and strategies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "43-46",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might a coal company's reserve valuation be affected if it operates in a region implementing both stricter water quality regulations and a carbon pricing mechanism aligned with the New Policies Scenario?",
+    "optionA": "The reserve valuation would likely increase due to higher demand",
+    "optionB": "The reserve valuation would remain unchanged regardless of regulations",
+    "optionC": "The reserve valuation could decrease due to higher operational costs and potential reduction in demand",
+    "optionD": "The reserve valuation would only be affected by water regulations, not carbon pricing",
+    "optionE": "The reserve valuation would become irrelevant as all coal operations would cease",
+    "answer": "C. The reserve valuation could decrease due to higher operational costs and potential reduction in demand",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "47-52",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "If a coal company's sensitivity analysis shows a significant reduction in probable reserves under the Sustainable Development Scenario, and they have a high percentage of operations in water-stressed regions, what actions might they consider for their short-term and long-term strategies?",
+    "optionA": "Increase investment in thermal coal production and ignore water management issues",
+    "optionB": "Maintain current operations without any changes to strategy",
+    "optionC": "Immediately divest from all coal operations and invest in unrelated industries",
+    "optionD": "Focus on short-term profits without considering long-term sustainability",
+    "optionE": "Diversify into metallurgical coal, invest in water-efficient technologies, and explore low-carbon technologies for the long-term",
+    "answer": "E. Diversify into metallurgical coal, invest in water-efficient technologies, and explore low-carbon technologies for the long-term",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "47-52",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What are the key components of the 'Greenhouse Gas Protocol' methodology for calculating Scope 1 emissions in the coal operations industry?",
+    "optionA": "Only includes emissions from stationary sources at mine sites",
+    "optionB": "Covers direct emissions from both stationary and mobile sources, including equipment, facilities, and transportation",
+    "optionC": "Focuses solely on methane emissions from coal seams",
+    "optionD": "Only accounts for emissions from office buildings and administrative operations",
+    "optionE": "Exclusively measures emissions from coal washing and processing",
+    "answer": "B. Covers direct emissions from both stationary and mobile sources, including equipment, facilities, and transportation",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "43-44",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "How is 'fresh water' defined in the context of water management disclosures for coal operations?",
+    "optionA": "Water with less than 500 parts per million of dissolved solids",
+    "optionB": "Any water sourced from rivers or lakes",
+    "optionC": "Water that has been treated at a municipal facility",
+    "optionD": "Water with less than 1000 parts per million of dissolved solids, unless otherwise defined by local regulations",
+    "optionE": "Only rainwater collected directly by the company",
+    "answer": "D. Water with less than 1000 parts per million of dissolved solids, unless otherwise defined by local regulations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "47",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What does the 'New Policies Scenario' assume in the context of sensitivity analysis for coal reserve levels?",
+    "optionA": "No changes in current policies",
+    "optionB": "Immediate implementation of all proposed environmental regulations",
+    "optionC": "Broad policy commitments and plans announced by countries occur, even if implementation measures are not yet identified",
+    "optionD": "Complete phase-out of all fossil fuel use within 10 years",
+    "optionE": "Only considers policies that have been fully legislated",
+    "answer": "C. Broad policy commitments and plans announced by countries occur, even if implementation measures are not yet identified",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "49-50",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What constitutes a 'formal enforcement action' in the context of water quality non-compliance incidents for coal operations?",
+    "optionA": "Any verbal warning from a regulatory agency",
+    "optionB": "Internal company reports of potential violations",
+    "optionC": "Governmental recognized actions addressing violations that can result in administrative penalties or judicial actions",
+    "optionD": "Public complaints about water quality near mining operations",
+    "optionE": "Annual routine inspections by environmental agencies",
+    "answer": "C. Governmental recognized actions addressing violations that can result in administrative penalties or judicial actions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "47-48",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might a coal company's strategy for managing Scope 1 emissions be influenced by the increasing global focus on climate change mitigation?",
+    "optionA": "By solely focusing on short-term profit maximization",
+    "optionB": "By investing in carbon capture and storage technologies",
+    "optionC": "By ignoring emissions regulations and continuing business as usual",
+    "optionD": "By relocating all operations to countries with lax environmental laws",
+    "optionE": "By increasing coal production to offset potential future restrictions",
+    "answer": "B. By investing in carbon capture and storage technologies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "45-46",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "What potential implications could the sensitivity analysis of coal reserves under different price scenarios have for a company's long-term financial planning?",
+    "optionA": "It has no impact on financial planning",
+    "optionB": "It only affects short-term operational decisions",
+    "optionC": "It could lead to reassessment of the value of assets and future investment strategies",
+    "optionD": "It's only relevant for marketing purposes",
+    "optionE": "It exclusively influences hiring decisions",
+    "answer": "C. It could lead to reassessment of the value of assets and future investment strategies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "49-51",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might the disclosure of estimated carbon dioxide emissions embedded in proven coal reserves affect stakeholder perceptions and company valuation?",
+    "optionA": "It has no effect on stakeholder perceptions or company valuation",
+    "optionB": "It only impacts employees' morale",
+    "optionC": "It could lead to increased investor scrutiny and potential revaluation of the company's long-term prospects",
+    "optionD": "It only affects the company's social media presence",
+    "optionE": "It exclusively influences government tax policies",
+    "answer": "C. It could lead to increased investor scrutiny and potential revaluation of the company's long-term prospects",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "51-52",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "In the context of water management in coal operations, how might a high percentage of water withdrawal in regions with High or Extremely High Baseline Water Stress impact a company's operational risk and stakeholder relationships?",
+    "optionA": "It has no impact on operational risk or stakeholder relationships",
+    "optionB": "It only affects the company's marketing strategy",
+    "optionC": "It could lead to increased regulatory scrutiny, operational challenges, and community tensions",
+    "optionD": "It exclusively influences the company's choice of office locations",
+    "optionE": "It only impacts the company's employee benefits program",
+    "answer": "C. It could lead to increased regulatory scrutiny, operational challenges, and community tensions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "47-48",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the IFRS S2 Climate-related Disclosures, what specific information should a coal company include when discussing its emission reduction targets?",
+    "optionA": "Only the percentage reduction against the base year",
+    "optionB": "The scope of the target and whether it's absolute or intensity-based",
+    "optionC": "Just the timeline for the reduction activity",
+    "optionD": "Only the mechanisms for achieving the target",
+    "optionE": "The scope, type, percentage reduction, timeline, mechanisms, and any recalculation circumstances",
+    "answer": "E. The scope, type, percentage reduction, timeline, mechanisms, and any recalculation circumstances",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "45-46",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the required procedure for disclosing water withdrawal in regions with high water stress according to the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Disclose only the total amount of water withdrawn globally",
+    "optionB": "Report water withdrawal only in low-stress regions",
+    "optionC": "Analyze operations using the WRI Aqueduct tool and disclose the percentage of water withdrawn in High or Extremely High Baseline Water Stress areas",
+    "optionD": "Disclose water withdrawal without considering regional water stress levels",
+    "optionE": "Report water withdrawal only if it exceeds a certain threshold",
+    "answer": "C. Analyze operations using the WRI Aqueduct tool and disclose the percentage of water withdrawn in High or Extremely High Baseline Water Stress areas",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "47",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What specific price scenarios must coal companies use in their sensitivity analysis of coal reserves according to the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Only the company's internal price projections",
+    "optionB": "Current market prices and historical averages",
+    "optionC": "Scenarios from the IEA's World Energy Outlook: Current Policies, New Policies, and Sustainable Development",
+    "optionD": "Only worst-case climate regulation scenarios",
+    "optionE": "Prices based on regional coal demand forecasts",
+    "answer": "C. Scenarios from the IEA's World Energy Outlook: Current Policies, New Policies, and Sustainable Development",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "49-50",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the IFRS S2 Climate-related Disclosures, how should a coal company calculate the estimated carbon dioxide emissions embedded in its proven coal reserves?",
+    "optionA": "Use only company-specific data on carbon content",
+    "optionB": "Apply a standard emissions factor to all types of coal reserves",
+    "optionC": "Use the formula E = R \u00d7 V \u00d7 C, with default IPCC values if specific data is unavailable",
+    "optionD": "Estimate based on historical emissions from similar reserves",
+    "optionE": "Calculate based on the average carbon content of all global coal reserves",
+    "answer": "C. Use the formula E = R \u00d7 V \u00d7 C, with default IPCC values if specific data is unavailable",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "51-52",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might incidents of non-compliance with water quality permits affect a coal company's operational strategy and stakeholder relationships?",
+    "optionA": "They would have no impact as water quality is not important in coal operations",
+    "optionB": "They might lead to improved water management practices and stakeholder engagement",
+    "optionC": "They would result in immediate shutdown of all operations",
+    "optionD": "They could cause a shift to only underground mining to avoid water issues",
+    "optionE": "They would likely increase water usage to dilute pollutants",
+    "answer": "B. They might lead to improved water management practices and stakeholder engagement",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "47-48",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a factor influencing a coal company's capital expenditure strategy for exploration, acquisition, and development of assets?",
+    "optionA": "Projections for coal price",
+    "optionB": "Demand for coal",
+    "optionC": "Path of air quality regulation",
+    "optionD": "Climate regulation",
+    "optionE": "Technological advancements in renewable energy",
+    "answer": "E. Technological advancements in renewable energy",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "52",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT a required disclosure for coal companies regarding their water management practices?",
+    "optionA": "Total fresh water withdrawn",
+    "optionB": "Percentage of water recycled",
+    "optionC": "Percentage of water withdrawn in regions with High or Extremely High Baseline Water Stress",
+    "optionD": "Number of incidents of non-compliance associated with water quality permits",
+    "optionE": "Daily water consumption rate per ton of coal produced",
+    "answer": "E. Daily water consumption rate per ton of coal produced",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "47-48",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT a required element in the sensitivity analysis of coal reserves to future price projection scenarios?",
+    "optionA": "Current Policies Scenario",
+    "optionB": "New Policies Scenario",
+    "optionC": "Sustainable Development Scenario",
+    "optionD": "Proven and probable reserves",
+    "optionE": "Potential mergers and acquisitions",
+    "answer": "E. Potential mergers and acquisitions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "49-50",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a type of emissions-limiting regulation that coal companies need to consider when reporting their Scope 1 GHG emissions coverage?",
+    "optionA": "Carbon tax systems",
+    "optionB": "Cap-and-trade schemes",
+    "optionC": "Command-and-control approach",
+    "optionD": "Permit-based mechanisms",
+    "optionE": "International emissions trading",
+    "answer": "E. International emissions trading",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+    "page": "44",
+    "industries": [
+      "b7-coal-operations"
+    ]
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "question": "What percentage of the company's eligible products are certified to an energy efficiency certification?",
+    "answer": "The company shall disclose the percentage of its revenue from eligible products certified to an energy efficiency certification. Eligible products are those in a product category for which certification exists, including but not limited to: heating and cooling product categories such as air purifiers, clothes dryers, clothes washers, dehumidifiers, dishwashers, freezers, refrigerators, air conditioning, boilers, ductless heating and cooling, furnaces, heat pumps, and ventilation fans. The scope of disclosure includes products that meet the requirements of the most current version of the applicable certification requirements.",
+    "reference_text": [
+      "CG-AM-410a.1. Percentage of eligible products by revenue certified to the an energy efficiency certification",
+      "1 The entity shall disclose the percentage of its revenue from eligible products certified to an energy efficiency certification.",
+      "1.1 The entity shall calculate the percentage as the revenue from products meeting the requirements for the applicable certification divided by total revenue from products eligible for certification by each certification.",
+      "1.1.1 Eligible products are those in a product category for which certification exists, including but not limited to: heating and cooling product categories such as air purifiers, clothes dryers, clothes washers, dehumidifiers, dishwashers, freezers, refrigerators, air conditioning, boilers, ductless heating and cooling, furnaces, heat pumps, and ventilation fans."
+    ],
+    "pages": [
+      "12",
+      "13"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "question": "What percentage of the company's eligible products are certified to an AHAM sustainability standard?",
+    "answer": "The company shall disclose the percentage of its revenue from eligible products certified to an Association of Home Appliance Manufacturers (AHAM) sustainability standard. Eligible products are those addressed by the scope of an AHAM sustainability standard. The scope of disclosure includes, but is not limited to, products certified to various AHAM sustainability standards such as ANSI/AHAM 7001.2-2015, AHAM 7002-2014, ANSI/AHAM 7003-2016, ANSI/AHAM 7004-2018, ANSI/AHAM 7005-2017, ANSI/AHAM 7006.2-2018, AHAM 7007-2017, and AHAM 7008-2018.",
+    "reference_text": [
+      "CG-AM-410a.2. Percentage of eligible products certified to an Association of Home Appliance Manufacturers (AHAM) sustainability standard",
+      "1 The entity shall disclose the percentage of its revenue from eligible products certified to an Association of Home Appliance Manufacturers (AHAM) sustainability standard.",
+      "1.1 Eligible products are those addressed by the scope of an AHAM sustainability standard.",
+      "2 The scope of disclosure includes, but is not limited to, products certified to the following AHAM sustainability standards:"
+    ],
+    "pages": [
+      "13"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "question": "What efforts does the company make to manage the end-of-life impacts of its products?",
+    "answer": "The company shall describe its efforts to manage the end-of-life impacts of its products, including those related to safe and proper disposal or recycling of constituent chemicals and other product components. This includes efforts to use materials that are easily and commonly recyclable, eliminate or minimize hazardous materials, design products for disassembly, and properly label products and components to facilitate recycling. The company shall also discuss its participation in extended producer responsibility (EPR) initiatives, including whether it conducts product take-back and recovery, supports recycling infrastructure, and has relevant performance measures or targets.",
+    "reference_text": [
+      "CG-AM-410a.3. Description of efforts to manage products' end-of-life impacts",
+      "1 The entity shall describe its efforts to manage the end-of-life impacts of its products, including those related to safe and proper disposal or recycling of constituent chemicals and other product components, including, but not limited to, toxic heavy metals (e.g., mercury, cadmium), rigid polymers, refrigerants, and other metals (e.g., steel and aluminum).",
+      "3 The entity shall discuss how it incorporates end-of-life considerations into the design of its product(s) such as:",
+      "3.1    Use of materials that are easily and commonly recyclable in existing recycling infrastructure",
+      "3.2    Eliminating or minimizing the use of hazardous materials or materials that may otherwise pose environmental harm upon disposal (e.g., refrigerants with ozone depleting potential and/or global warming potential)",
+      "3.3    Designing products for disassembly (i.e., designing products so they can be easily, rapidly, and cost-effectively disassembled with commonly available tools)",
+      "3.4    Proper labeling of products and their component materials to facilitate disassembly and recycling",
+      "4    The entity shall discuss its participation in extended producer responsibility (EPR) initiatives, including the following aspects:"
+    ],
+    "pages": [
+      "13",
+      "14"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "question": "What are the relevant product categories for the energy efficiency certification and AHAM sustainability standards disclosed by the company?",
+    "answer": "The relevant product categories for the energy efficiency certification and AHAM sustainability standards disclosed by the company include heating and cooling products such as air purifiers, clothes dryers, clothes washers, dehumidifiers, dishwashers, freezers, refrigerators, air conditioning, boilers, ductless heating and cooling, furnaces, heat pumps, and ventilation fans. The AHAM sustainability standards also cover household portable and floor care appliances, clothes washers, cooking appliances, clothes drying appliances, room air conditioning appliances, microwave ovens, and dehumidifiers.",
+    "reference_text": [
+      "1.1.1 Eligible products are those in a product category for which certification exists, including but not limited to: heating and cooling product categories such as air purifiers, clothes dryers, clothes washers, dehumidifiers, dishwashers, freezers, refrigerators, air conditioning, boilers, ductless heating and cooling, furnaces, heat pumps, and ventilation fans.",
+      "2 The scope of disclosure includes, but is not limited to, products certified to the following AHAM sustainability standards:",
+      "2.1 ANSI/AHAM 7001.2-2015: Sustainability Standard for Household Refrigeration Appliances",
+      "2.2 AHAM 7002-2014: Sustainability Standard for Household Portable and Floor Care Appliances",
+      "2.3 ANSI/AHAM 7003-2016: Sustainability Standard for Household Clothes Washers",
+      "2.4 ANSI/AHAM 7004-2018: Sustainability Standard for Household Cooking Appliances",
+      "2.5 ANSI/AHAM 7005-2017: Sustainability Standard for Household Clothes Drying Appliances",
+      "2.6 ANSI/AHAM 7006.2-2018: Sustainability Standard for Household Room Air Conditioning Appliances-Second Edition",
+      "2.7 AHAM 7007-2017: Sustainability Standard for Household Microwave Oven Appliances",
+      "2.8 AHAM 7008-2018: Sustainability Standard for Household Dehumidifier Appliances"
+    ],
+    "pages": [
+      "13"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "question": "What types of energy efficiency certifications do the company's products qualify for?",
+    "answer": "The company's products can qualify for various energy efficiency certifications, including those for heating and cooling product categories such as air purifiers, clothes dryers, clothes washers, dehumidifiers, dishwashers, freezers, refrigerators, air conditioning, boilers, ductless heating and cooling, furnaces, heat pumps, and ventilation fans. The company discloses the percentage of its revenue from eligible products that are certified to the most current version of applicable energy efficiency certification programs in each jurisdiction where it sells products (page 12).",
+    "reference_text": [
+      "Eligible products are those in a product category for which certification exists, including but not limited to: heating and cooling product categories such as air purifiers, clothes dryers, clothes washers, dehumidifiers, dishwashers, freezers, refrigerators, air conditioning, boilers, ductless heating and cooling, furnaces, heat pumps, and ventilation fans."
+    ],
+    "pages": [
+      "12"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "question": "How does the company design its products to facilitate safe and proper disposal or recycling at the end of their life?",
+    "answer": "The company incorporates end-of-life considerations into the design of its products, such as: using materials that are easily and commonly recyclable, eliminating or minimizing the use of hazardous materials, designing products for easy disassembly, and properly labeling products and their component materials to facilitate disassembly and recycling. The company also participates in extended producer responsibility (EPR) initiatives, either by directly conducting product take-back, recovery, and recycling, or by supporting infrastructure for product recovery and recycling through partnerships (page 13-14).",
+    "reference_text": [
+      "The entity shall describe its efforts to manage the end-of-life impacts of its products, including those related to safe and proper disposal or recycling of constituent chemicals and other product components, including, but not limited to, toxic heavy metals (e.g., mercury, cadmium), rigid polymers, refrigerants, and other metals (e.g., steel and aluminum).",
+      "The entity shall describe the scope of its efforts, including to which product categories, business segments, and/or operating regions they relate.",
+      "The entity shall discuss how it incorporates end-of-life considerations into the design of its product(s) such as: Use of materials that are easily and commonly recyclable in existing recycling infrastructure, Eliminating or minimizing the use of hazardous materials or materials that may otherwise pose environmental harm upon disposal (e.g., refrigerants with ozone depleting potential and/or global warming potential), Designing products for disassembly (i.e., designing products so they can be easily, rapidly, and cost-effectively disassembled with commonly available tools), Proper labeling of products and their component materials to facilitate disassembly and recycling",
+      "The entity shall discuss its participation in extended producer responsibility (EPR) initiatives, including the following aspects: Whether the entity directly conducts product take-back, recovery, and recycling or if the entity supports infrastructure for product recovery and recycling through joint ventures, partnerships with retailers and others, or by funding research into recycling technologies, Whether the initiative is voluntary or mandatory (e.g., in order to maintain compliance with EU Directive 2012/19/EU on waste electrical and electronic equipment (WEEE) or the Japan home appliance recycling law), Relevant performance measures or targets for the initiative such as the total amount of material recovered and the total amount of material recycled"
+    ],
+    "pages": [
+      "13",
+      "14"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "question": "What types of AHAM sustainability standards do the company's products qualify for?",
+    "answer": "The company's products can qualify for various AHAM sustainability standards, including ANSI/AHAM 7001.2-2015: Sustainability Standard for Household Refrigeration Appliances, AHAM 7002-2014: Sustainability Standard for Household Portable and Floor Care Appliances, ANSI/AHAM 7003-2016: Sustainability Standard for Household Clothes Washers, ANSI/AHAM 7004-2018: Sustainability Standard for Household Cooking Appliances, ANSI/AHAM 7005-2017: Sustainability Standard for Household Clothes Drying Appliances, ANSI/AHAM 7006.2-2018: Sustainability Standard for Household Room Air Conditioning Appliances-Second Edition, AHAM 7007-2017: Sustainability Standard for Household Microwave Oven Appliances, and AHAM 7008-2018: Sustainability Standard for Household Dehumidifier Appliances (page 13).",
+    "reference_text": [
+      "The scope of disclosure includes, but is not limited to, products certified to the following AHAM sustainability standards: ANSI/AHAM 7001.2-2015: Sustainability Standard for Household Refrigeration Appliances, AHAM 7002-2014: Sustainability Standard for Household Portable and Floor Care Appliances, ANSI/AHAM 7003-2016: Sustainability Standard for Household Clothes Washers, ANSI/AHAM 7004-2018: Sustainability Standard for Household Cooking Appliances, ANSI/AHAM 7005-2017: Sustainability Standard for Household Clothes Drying Appliances, ANSI/AHAM 7006.2-2018: Sustainability Standard for Household Room Air Conditioning Appliances-Second Edition, AHAM 7007-2017: Sustainability Standard for Household Microwave Oven Appliances, AHAM 7008-2018: Sustainability Standard for Household Dehumidifier Appliances"
+    ],
+    "pages": [
+      "13"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "question": "How does the company's annual production of appliances break down by product category?",
+    "answer": "The company is required to disclose its annual production as the number of units produced by product category, where relevant product categories may include small appliances and major appliances (page 11).",
+    "reference_text": [
+      "\u00b2 Note to CG-AM-000.A \u2013 Production shall be disclosed as the number of units produced by product category, where relevant product categories may include small appliances and major appliances."
+    ],
+    "pages": [
+      "11"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  }
+]

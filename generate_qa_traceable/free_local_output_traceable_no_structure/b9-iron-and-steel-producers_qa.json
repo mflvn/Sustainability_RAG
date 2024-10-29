@@ -1,0 +1,131 @@
+[
+  {
+    "question": "What does a company need to disclose regarding its gross global Scope 1 emissions according to the IFRS standards?",
+    "answer": "The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol\u2014carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF6), and nitrogen trifluoride (NF3).",
+    "reference_text": [
+      "The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol\u2014carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF6), and nitrogen trifluoride (NF3)."
+    ],
+    "pages": [
+      "71"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "What should an iron and steel company discuss regarding its strategy to manage Scope 1 emissions?",
+    "answer": "The entity shall discuss its long-term and short-term strategy or plan to manage its Scope 1 greenhouse gas (GHG) emissions. The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the scope, whether it is absolute or intensity-based, percentage reduction, timelines, mechanisms for achieving it, and any circumstances where the target may be recalculated.",
+    "reference_text": [
+      "The entity shall discuss its long-term and short-term strategy or plan to manage its Scope 1 greenhouse gas (GHG) emissions.",
+      "The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the following, where relevant: 2.1 The scope of the emission reduction target (e.g., the percentage of total emissions to which the target is applicable); 2.2 Whether the target is absolute- or intensity-based, and the metric denominator, if it is an intensity-based target; 2.3 The percentage reduction against the base year, with the base year representing the first year against which emissions are evaluated toward the achievement of the target; 2.4 The timelines for the reduction activity, including the start year, the target year, and the base year; 2.5 The mechanism(s) for achieving the target; and 2.6 Any circumstances in which the target or base year emissions have been, or may be, recalculated retrospectively or the target or base year has been reset."
+    ],
+    "pages": [
+      "73"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "What should an iron and steel company disclose regarding its total energy consumption and sources?",
+    "answer": "The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ). The entity shall disclose (2) the percentage of energy it consumed that was supplied from grid electricity. The entity shall disclose (3) the percentage of energy it consumed that is renewable energy.",
+    "reference_text": [
+      "The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ).",
+      "The entity shall disclose (2) the percentage of energy it consumed that was supplied from grid electricity.",
+      "The entity shall disclose (3) the percentage of energy it consumed that is renewable energy."
+    ],
+    "pages": [
+      "75"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "What should a company disclose regarding its water withdrawal and usage in water-stressed regions?",
+    "answer": "The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn. The entity shall disclose its water consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water consumed.",
+    "reference_text": [
+      "The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn.",
+      "The entity shall disclose its water consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water consumed."
+    ],
+    "pages": [
+      "80"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "What information must a company disclose regarding its gross global Scope 1 greenhouse gas emissions according to the IFRS standards?",
+    "answer": "The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol\u2014carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF6), and nitrogen trifluoride (NF3). Emissions of all GHGs shall be consolidated and disclosed in metric tons of carbon dioxide equivalents (CO2-e), and calculated in accordance with published 100-year time horizon global warming potential (GWP) values.",
+    "reference_text": [
+      "1    The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol\u2014carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF6), and nitrogen trifluoride (NF3).",
+      "1.1    Emissions of all GHGs shall be consolidated and disclosed in metric tons of carbon dioxide equivalents (CO2-e), and calculated in accordance with published 100-year time horizon global warming potential (GWP) values. To date, the preferred source for GWP values is the Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report (2014)."
+    ],
+    "pages": [
+      "71",
+      "72"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "What must an iron and steel company discuss regarding its strategy and targets for managing Scope 1 emissions according to the IFRS standards?",
+    "answer": "The entity shall discuss its long-term and short-term strategy or plan to manage its Scope 1 greenhouse gas (GHG) emissions. The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the scope, whether it is absolute or intensity-based, percentage reduction, timelines, mechanisms for achieving it, and any circumstances where the target may be recalculated or reset.",
+    "reference_text": [
+      "1    The entity shall discuss its long-term and short-term strategy or plan to manage its Scope 1 greenhouse gas (GHG) emissions.",
+      "2    The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the following, where relevant:",
+      "2.1    The scope of the emission reduction target (e.g., the percentage of total emissions to which the target is applicable);",
+      "2.2    Whether the target is absolute- or intensity-based, and the metric denominator, if it is an intensity-based target;",
+      "2.3    The percentage reduction against the base year, with the base year representing the first year against which emissions are evaluated toward the achievement of the target;",
+      "2.4    The timelines for the reduction activity, including the start year, the target year, and the base year;",
+      "2.5    The mechanism(s) for achieving the target; and",
+      "2.6    Any circumstances in which the target or base year emissions have been, or may be, recalculated retrospectively or the target or base year has been reset."
+    ],
+    "pages": [
+      "73"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "What information must an iron and steel company disclose regarding its total energy consumption and sources according to the IFRS standards?",
+    "answer": "The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ). The entity shall disclose (2) the percentage of energy it consumed that was supplied from grid electricity. The entity shall disclose (3) the percentage of energy it consumed that is renewable energy.",
+    "reference_text": [
+      "1 The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ).",
+      "2 The entity shall disclose (2) the percentage of energy it consumed that was supplied from grid electricity.",
+      "3 The entity shall disclose (3) the percentage of energy it consumed that is renewable energy."
+    ],
+    "pages": [
+      "75",
+      "76"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "According to the IFRS standards, what must an iron and steel company disclose and discuss regarding its process for managing environmental and social risks in its iron ore and coking coal supply chain?",
+    "answer": "The entity shall discuss its policies and procedures for managing environmental and social risks that may affect sourcing that are present in its iron ore and/or coking coal supply chain. Discussion shall include any existing or projected risks or constraints in obtaining raw materials (e.g., iron ore, or coking coal) within the supply chain, including those related to restricted/limited availability, political situations, local labor conditions, natural disasters, climate change, or regulations.",
+    "reference_text": [
+      "1 The entity shall discuss its policies and procedures for managing environmental and social risks that may affect sourcing that are present in its iron ore and/or coking coal supply chain.",
+      "1.1 Discussion shall include any existing or projected risks or constraints in obtaining raw materials (e.g., iron ore, or coking coal) within the supply chain, including those related to restricted/limited availability, political situations, local labor conditions, natural disasters, climate change, or regulations."
+    ],
+    "pages": [
+      "80"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  }
+]

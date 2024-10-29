@@ -1,0 +1,182 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing water management risks for a biofuel company, which of the following is NOT typically considered a risk associated with water withdrawals and consumption?",
+    "optionA": "Environmental constraints such as operating in water-stressed regions",
+    "optionB": "Regulatory constraints such as restrictions on water withdrawals",
+    "optionC": "Financial constraints such as volatility in water costs",
+    "optionD": "Stakeholder perceptions related to water withdrawals",
+    "optionE": "Increased demand for the company's biofuel products",
+    "answer": "E. Increased demand for the company's biofuel products",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Biofuels",
+    "page": "428-429",
+    "industries": [
+      "b40-biofuels"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "In disclosing lifecycle greenhouse gas (GHG) emissions for biofuels, which of the following is NOT a biofuel type that a company is required to report on according to the IFRS standards?",
+    "optionA": "Renewable fuel",
+    "optionB": "Advanced biofuel",
+    "optionC": "Biodiesel",
+    "optionD": "Cellulosic biofuel",
+    "optionE": "Synthetic biofuel",
+    "answer": "E. Synthetic biofuel",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Biofuels",
+    "page": "431-432",
+    "industries": [
+      "b40-biofuels"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When discussing strategies to manage risks associated with environmental impacts of feedstock production, which of the following is NOT mentioned as a potential risk in the IFRS standards?",
+    "optionA": "Climate change impacts on feedstock supply",
+    "optionB": "Long-term risks to feedstock supply due to biodiversity loss",
+    "optionC": "Regulatory constraints on renewable fuel mandates",
+    "optionD": "Potential limits on what qualifies as renewable biomass",
+    "optionE": "Fluctuations in global oil prices",
+    "answer": "E. Fluctuations in global oil prices",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Biofuels",
+    "page": "433-434",
+    "industries": [
+      "b40-biofuels"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing the amount of subsidies received through government programs, which of the following is NOT mentioned as a type of subsidy to be included in the IFRS standards?",
+    "optionA": "Blending and production tax credits",
+    "optionB": "Capital grants",
+    "optionC": "Direct payments",
+    "optionD": "Loans and loan guarantees",
+    "optionE": "Carbon offset credits",
+    "answer": "E. Carbon offset credits",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Biofuels",
+    "page": "435",
+    "industries": [
+      "b40-biofuels"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of biofuel production third-party certified to an environmental sustainability standard, what is the correct unit of measure for the total amount of biofuel produced according to IFRS standards?",
+    "optionA": "Metric tons",
+    "optionB": "Liters",
+    "optionC": "Barrels",
+    "optionD": "Gallons",
+    "optionE": "Cubic meters",
+    "answer": "D. Gallons",
+    "reference": "Sourcing & Environmental Impacts of Feedstock Production",
+    "page": "434",
+    "industries": [
+      "b40-biofuels"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "According to IFRS standards, when disclosing water management data, in what unit should the total water withdrawn and consumed be reported?",
+    "optionA": "Liters",
+    "optionB": "Gallons",
+    "optionC": "Cubic feet",
+    "optionD": "Thousand cubic meters",
+    "optionE": "Million liters",
+    "answer": "D. Thousand cubic meters",
+    "reference": "Water Management in Manufacturing",
+    "page": "427-428",
+    "industries": [
+      "b40-biofuels"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When reporting lifecycle greenhouse gas (GHG) emissions for biofuels, what is the correct unit of measure according to IFRS standards?",
+    "optionA": "Grams of CO\u2082-e per liter",
+    "optionB": "Kilograms of CO\u2082-e per gallon",
+    "optionC": "Grams of CO\u2082-e per megajoule",
+    "optionD": "Tons of CO\u2082-e per barrel",
+    "optionE": "Kilograms of CO\u2082-e per kilometer",
+    "answer": "C. Grams of CO\u2082-e per megajoule",
+    "reference": "Lifecycle Emissions Balance",
+    "page": "431-432",
+    "industries": [
+      "b40-biofuels"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When disclosing water consumption in regions with water stress, what is the correct threshold for 'Extremely High Baseline Water Stress' according to the World Resources Institute's Water Risk Atlas tool?",
+    "optionA": ">50 percent",
+    "optionB": ">60 percent",
+    "optionC": ">70 percent",
+    "optionD": ">80 percent",
+    "optionE": ">90 percent",
+    "answer": "D. >80 percent",
+    "reference": "Water Management in Manufacturing",
+    "page": "428",
+    "industries": [
+      "b40-biofuels"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When discussing corporate positions related to government regulations affecting the biofuels industry, which of the following is NOT considered a relevant risk to be addressed according to IFRS standards?",
+    "optionA": "Risk of increased compliance costs",
+    "optionB": "Risk of policy reversal",
+    "optionC": "Risk of loss of financial incentives",
+    "optionD": "Risk to reputation due to entity's stance on regulations",
+    "optionE": "Risk of increased market share due to stricter regulations",
+    "answer": "E. Risk of increased market share due to stricter regulations",
+    "reference": "Management of the Legal & Regulatory Environment",
+    "page": "435-436",
+    "industries": [
+      "b40-biofuels"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When preparing a sustainability report for a biofuels company, which of the following represents a unique challenge in disclosing the environmental impacts of feedstock production?",
+    "optionA": "Calculating the company's carbon footprint",
+    "optionB": "Reporting on employee diversity",
+    "optionC": "Assessing indirect land-use changes caused by feedstock cultivation",
+    "optionD": "Disclosing executive compensation",
+    "optionE": "Reporting on community engagement initiatives",
+    "answer": "C. Assessing indirect land-use changes caused by feedstock cultivation",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Biofuels",
+    "page": "433-434",
+    "industries": [
+      "b40-biofuels"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "In the context of biofuels sustainability reporting, what unique challenge does the concept of 'lifecycle greenhouse gas (GHG) emissions' present?",
+    "optionA": "It only considers emissions from the manufacturing process",
+    "optionB": "It excludes emissions from feedstock transportation",
+    "optionC": "It focuses solely on vehicle exhaust emissions",
+    "optionD": "It requires accounting for emissions across the entire supply chain, including indirect emissions from land-use changes",
+    "optionE": "It only measures emissions from the use phase of the biofuel",
+    "answer": "D. It requires accounting for emissions across the entire supply chain, including indirect emissions from land-use changes",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Biofuels",
+    "page": "431-432",
+    "industries": [
+      "b40-biofuels"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When reporting on the management of legal and regulatory environments in the biofuels industry, what unique challenge must companies address regarding government subsidies?",
+    "optionA": "Hiding subsidy information from competitors",
+    "optionB": "Maximizing subsidy claims regardless of eligibility",
+    "optionC": "Disclosing the amount and types of subsidies received while addressing the risk of policy reversals or elimination of incentives",
+    "optionD": "Lobbying for increased subsidies without disclosure",
+    "optionE": "Avoiding all mention of subsidies in sustainability reports",
+    "answer": "C. Disclosing the amount and types of subsidies received while addressing the risk of policy reversals or elimination of incentives",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Biofuels",
+    "page": "435-436",
+    "industries": [
+      "b40-biofuels"
+    ]
+  }
+]

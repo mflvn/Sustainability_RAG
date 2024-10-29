@@ -1,0 +1,146 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When disclosing greenhouse gas (GHG) emissions, what is a key difference in reporting requirements between the Forestry Management and Chemicals industries?",
+    "optionA": "Forestry Management must report Scope 1 and 2 emissions, while Chemicals only reports Scope 1",
+    "optionB": "Chemicals must report the percentage of emissions covered under emissions-limiting regulations, while Forestry Management does not",
+    "optionC": "Forestry Management reports emissions in CO2 equivalent, while Chemicals reports individual gases separately",
+    "optionD": "Chemicals must provide emissions reduction targets, while Forestry Management does not",
+    "optionE": "Forestry Management must report emissions from land use change, while Chemicals does not",
+    "answer": "B: Chemicals must report the percentage of emissions covered under emissions-limiting regulations, while Forestry Management does not",
+    "explanation": "According to the IFRS standards, the Chemicals industry (RT-CH-110a.1) must disclose the percentage of Scope 1 emissions covered under emissions-limiting regulations. This requirement is not present for the Forestry Management industry, which focuses more on describing strategies to manage climate change risks and opportunities (RR-FM-450a.1).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Chemicals",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Forestry Management"
+    ],
+    "pages": [
+      "494",
+      "444-446"
+    ],
+    "pairing_explanation": "Sustainable management of forestry products links directly to the chemicals industry\u2019s need for renewable and environmentally-friendly feedstocks.",
+    "industries": [
+      "b41-forestry-management",
+      "b47-chemicals"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "In terms of water management disclosure, what is a key difference between the reporting requirements for the Forestry Management and Chemicals industries?",
+    "optionA": "Forestry Management must report total water withdrawn, while Chemicals does not",
+    "optionB": "Chemicals must report water consumption in water-stressed areas, while Forestry Management does not",
+    "optionC": "Forestry Management must report incidents of non-compliance with water regulations, while Chemicals does not",
+    "optionD": "Chemicals must report strategies to mitigate water risks, while Forestry Management does not",
+    "optionE": "Forestry Management must report water quality metrics, while Chemicals only reports quantity",
+    "answer": "B: Chemicals must report water consumption in water-stressed areas, while Forestry Management does not",
+    "explanation": "The Chemicals industry (RT-CH-140a.1) is required to disclose the percentage of water withdrawn and consumed in regions with High or Extremely High Baseline Water Stress. This specific requirement is not present for the Forestry Management industry, which focuses more on forest ecosystem services and impacts (RR-FM-160a.2, RR-FM-160a.3).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Chemicals",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Forestry Management"
+    ],
+    "pages": [
+      "500-501",
+      "441-443"
+    ],
+    "pairing_explanation": "Sustainable management of forestry products links directly to the chemicals industry\u2019s need for renewable and environmentally-friendly feedstocks.",
+    "industries": [
+      "b41-forestry-management",
+      "b47-chemicals"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the area of forestland with protected conservation status (RR-FM-160a.2) and the percentage of water consumed in water-stressed areas (RT-CH-140a.1), what common tool or database is referenced in both metrics?",
+    "optionA": "Global Reporting Initiative (GRI) Standards",
+    "optionB": "CDP Water Security Questionnaire",
+    "optionC": "World Database on Protected Areas (WDPA)",
+    "optionD": "World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "optionE": "United Nations Global Compact CEO Water Mandate",
+    "answer": "D: World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "explanation": "Both metrics reference the WRI's Water Risk Atlas tool, Aqueduct. For Forestry Management, it's mentioned in relation to identifying protected areas (RR-FM-160a.2). For Chemicals, it's used to identify areas with High or Extremely High Baseline Water Stress (RT-CH-140a.1).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Chemicals",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Forestry Management"
+    ],
+    "pages": [
+      "441",
+      "501"
+    ],
+    "pairing_explanation": "Sustainable management of forestry products links directly to the chemicals industry\u2019s need for renewable and environmentally-friendly feedstocks.",
+    "industries": [
+      "b41-forestry-management",
+      "b47-chemicals"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating energy consumption for the Chemicals industry (RT-CH-130a.1) and timber harvest volume for the Forestry Management industry (RR-FM-000.C), what similar requirement is specified for both metrics?",
+    "optionA": "Both must be reported in metric tons",
+    "optionB": "Both must disclose the calculation methodology used",
+    "optionC": "Both must be reported as a percentage of total production",
+    "optionD": "Both must disclose any conversion factors used if alternative units of measure are employed",
+    "optionE": "Both must be externally verified by a third party",
+    "answer": "D: Both must disclose any conversion factors used if alternative units of measure are employed",
+    "explanation": "For the Chemicals industry, the entity must apply conversion factors consistently and disclose them (RT-CH-130a.1). Similarly, for Forestry Management, if other units of measure are used for timber harvest volume, the entity shall disclose any conversion factors used (Note to RR-FM-000.C).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Chemicals",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Forestry Management"
+    ],
+    "pages": [
+      "498",
+      "437"
+    ],
+    "pairing_explanation": "Sustainable management of forestry products links directly to the chemicals industry\u2019s need for renewable and environmentally-friendly feedstocks.",
+    "industries": [
+      "b41-forestry-management",
+      "b47-chemicals"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the IFRS sustainability reporting standards for the Forestry Management and Chemicals industries differ in their approach to biodiversity and ecosystem impacts?",
+    "optionA": "Forestry Management focuses on land area metrics, while Chemicals focuses on emissions impacts",
+    "optionB": "Chemicals requires reporting on biodiversity impacts, while Forestry Management does not",
+    "optionC": "Forestry Management emphasizes ecosystem services, while Chemicals emphasizes product lifecycle impacts",
+    "optionD": "Chemicals focuses on water ecosystem impacts, while Forestry Management ignores water-related metrics",
+    "optionE": "Both industries have identical requirements for reporting on biodiversity and ecosystem impacts",
+    "answer": "C: Forestry Management emphasizes ecosystem services, while Chemicals emphasizes product lifecycle impacts",
+    "explanation": "The Forestry Management industry standards include detailed metrics on ecosystem services and impacts (RR-FM-160a.1 to RR-FM-160a.4), including areas of protected conservation status and endangered species habitat. In contrast, the Chemicals industry standards focus more on product lifecycle impacts, such as designing products for use-phase resource efficiency (RT-CH-410a.1).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Chemicals",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Forestry Management"
+    ],
+    "pages": [
+      "439-443",
+      "504-505"
+    ],
+    "pairing_explanation": "Sustainable management of forestry products links directly to the chemicals industry\u2019s need for renewable and environmentally-friendly feedstocks.",
+    "industries": [
+      "b41-forestry-management",
+      "b47-chemicals"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the climate change adaptation strategies differ between the Forestry Management and Chemicals industries according to the IFRS sustainability reporting standards?",
+    "optionA": "Forestry Management focuses on long-term forest resilience, while Chemicals focuses on short-term emissions reduction",
+    "optionB": "Chemicals emphasizes technological innovation, while Forestry Management emphasizes land use changes",
+    "optionC": "Forestry Management must report on specific adaptation actions, while Chemicals only reports on general strategies",
+    "optionD": "Chemicals must provide quantitative targets, while Forestry Management only provides qualitative descriptions",
+    "optionE": "Both industries have identical requirements for reporting climate change adaptation strategies",
+    "answer": "A: Forestry Management focuses on long-term forest resilience, while Chemicals focuses on short-term emissions reduction",
+    "explanation": "The Forestry Management industry is required to describe long-term strategies to manage climate change risks and opportunities, including forest productivity and resilience (RR-FM-450a.1). In contrast, the Chemicals industry standards emphasize short-term and long-term strategies to manage Scope 1 emissions and reduction targets (RT-CH-110a.2), focusing more on immediate emissions reduction rather than long-term ecosystem adaptation.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Chemicals",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Forestry Management"
+    ],
+    "pages": [
+      "444-446",
+      "494-496"
+    ],
+    "pairing_explanation": "Sustainable management of forestry products links directly to the chemicals industry\u2019s need for renewable and environmentally-friendly feedstocks.",
+    "industries": [
+      "b41-forestry-management",
+      "b47-chemicals"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+Experiment Type,Parameter,Model Name,Model Size (B),Accuracy,Total Questions,Correct Answers
+chunking_namespace,sentence_512,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,8,80.64516129032258,31,25
+chunking_namespace,sentence_1024,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,8,38.70967741935484,31,12
+chunking_namespace,semantic,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,8,48.38709677419355,31,15
+chunking_namespace,original,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,8,48.38709677419355,31,15
+chunking_namespace,sentence_window,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,8,41.935483870967744,31,13
+chunking_namespace,hierarchical,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,8,58.06451612903226,31,18
+chunking_namespace,markdown,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,8,35.483870967741936,31,11
+chunking_namespace,sentence_256,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,8,80.64516129032258,31,25

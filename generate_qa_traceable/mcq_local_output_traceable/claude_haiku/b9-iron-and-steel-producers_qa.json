@@ -1,0 +1,173 @@
+[
+  {
+    "question": "According to the IFRS S2 standard, what percentage of a company's gross global Scope 1 greenhouse gas emissions must be covered under emissions-limiting regulations?",
+    "optionA": "10%",
+    "optionB": "25%",
+    "optionC": "50%",
+    "optionD": "75%",
+    "optionE": "100%",
+    "answer": "C",
+    "reference_text": [
+      "The entity shall disclose the percentage of its gross global Scope 1 GHG emissions that are covered under an emissions-limiting regulation or program that is intended to directly limit or reduce emissions, such as cap-and-trade schemes, carbon tax/fee systems, and other emissions control (e.g., command-and-control approach) and permit-based mechanisms."
+    ],
+    "pages": [
+      "72"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "Which of the following is NOT an acceptable calculation methodology for a company to use when reporting its Scope 1 greenhouse gas emissions under the IFRS S2 standard?",
+    "optionA": "GHG Reporting Guidance for the Aerospace Industry published by International Aerospace Environmental Group (IAEG)",
+    "optionB": "Greenhouse Gas Inventory Guidance: Direct Emissions from Stationary Combustion Sources published by the U.S. Environmental Protection Agency (EPA)",
+    "optionC": "India GHG Inventory Program",
+    "optionD": "Petroleum Industry Guidelines for reporting GHG emissions, 2nd edition, 2011, published by IPIECA",
+    "optionE": "Reporting-based regulations",
+    "answer": "E",
+    "reference_text": [
+      "Acceptable calculation methodologies include those that conform to the GHG Protocol as the base reference, but provide additional guidance, such as industry- or region-specific guidance.",
+      "The scope of emissions-limiting regulations excludes emissions covered under voluntary emissions-limiting regulations (e.g., voluntary trading systems), as well as reporting-based regulations."
+    ],
+    "pages": [
+      "72",
+      "73"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "According to the IFRS S2 standard, which of the following is NOT required to be included in a company's discussion of its long-term and short-term strategy or plan to manage Scope 1 greenhouse gas emissions?",
+    "optionA": "The scope of the emission reduction target",
+    "optionB": "Whether the target is absolute- or intensity-based, and the metric denominator",
+    "optionC": "The percentage reduction against the base year",
+    "optionD": "The mechanism(s) for achieving the target",
+    "optionE": "The company's total revenue for the reporting period",
+    "answer": "E",
+    "reference_text": [
+      "The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the following, where relevant:\n\n2.1    The scope of the emission reduction target (e.g., the percentage of total emissions to which the target is applicable);\n2.2    Whether the target is absolute- or intensity-based, and the metric denominator, if it is an intensity-based target;\n2.3    The percentage reduction against the base year, with the base year representing the first year against which emissions are evaluated toward the achievement of the target;\n2.4    The timelines for the reduction activity, including the start year, the target year, and the base year;\n2.5    The mechanism(s) for achieving the target; and\n2.6    Any circumstances in which the target or base year emissions have been, or may be, recalculated retrospectively or the target or base year has been reset."
+    ],
+    "pages": [
+      "73",
+      "74"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "According to the IFRS S2 standard, which of the following is NOT considered a renewable fuel for the purposes of reporting a company's total fuel consumption?",
+    "optionA": "Geothermal energy",
+    "optionB": "Wind energy",
+    "optionC": "Solar energy",
+    "optionD": "Biomass energy certified to a third-party standard",
+    "optionE": "Fuel produced from fossil fuels",
+    "answer": "E",
+    "reference_text": [
+      "Renewable fuel is generally defined, as fuel that meets all of the following requirements:\n\n4.1.1 Produced from renewable biomass;\n4.1.2 Used to replace or reduce the quantity of fossil fuel present in a transportation fuel, heating oil, or jet fuel; and\n4.1.3 Achieved net greenhouse gas (GHG) emissions reduction on a lifecycle basis."
+    ],
+    "pages": [
+      "77",
+      "78"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "According to the IFRS S2 standard, what percentage of a company's gross global Scope 1 greenhouse gas emissions must be covered under emissions-limiting regulations in order to be reported?",
+    "optionA": "At least 10%",
+    "optionB": "At least 25%",
+    "optionC": "At least 50%",
+    "optionD": "At least 75%",
+    "optionE": "There is no minimum percentage requirement",
+    "answer": "E",
+    "reference_text": [
+      "The entity shall disclose the percentage of its gross global Scope 1 GHG emissions that are covered under an emissions-limiting regulation or program that is intended to directly limit or reduce emissions, such as cap-and-trade schemes, carbon tax/fee systems, and other emissions control (e.g., command-and-control approach) and permit-based mechanisms."
+    ],
+    "pages": [
+      "72"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "According to the IFRS S2 standard, which of the following is NOT an acceptable calculation methodology for a company to use when reporting its Scope 1 greenhouse gas emissions?",
+    "optionA": "GHG Reporting Guidance for the Aerospace Industry published by International Aerospace Environmental Group (IAEG)",
+    "optionB": "Greenhouse Gas Inventory Guidance: Direct Emissions from Stationary Combustion Sources published by the U.S. Environmental Protection Agency (EPA)",
+    "optionC": "India GHG Inventory Program",
+    "optionD": "Petroleum Industry Guidelines for reporting GHG emissions, 2nd edition, 2011, published by IPIECA",
+    "optionE": "None of the above, all of the listed methodologies are acceptable",
+    "answer": "E",
+    "reference_text": [
+      "Acceptable calculation methodologies include those that conform to the GHG Protocol as the base reference, but provide additional guidance, such as industry- or region-specific guidance. Examples include, but are not limited to:",
+      "2.2.1    GHG Reporting Guidance for the Aerospace Industry published by International Aerospace Environmental Group (IAEG)",
+      "2.2.2 Greenhouse Gas Inventory Guidance: Direct Emissions from Stationary Combustion Sources published by the U.S. Environmental Protection Agency (EPA)",
+      "2.2.3 India GHG Inventory Program",
+      "2.2.4 ISO 14064-1",
+      "2.2.5 Petroleum Industry Guidelines for reporting GHG emissions, 2nd edition, 2011, published by IPIECA",
+      "2.2.6 Protocol for the quantification of greenhouse gas emissions from waste management activities published by Entreprises pour l'Environnement (EpE)"
+    ],
+    "pages": [
+      "72"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "According to the IFRS S2 standard, which of the following is NOT considered a renewable energy source that can be included in a company's percentage of renewable energy consumption?",
+    "optionA": "Geothermal energy",
+    "optionB": "Wind energy",
+    "optionC": "Solar energy",
+    "optionD": "Hydroelectric energy",
+    "optionE": "Biomass energy from non-certified sources",
+    "answer": "E",
+    "reference_text": [
+      "Renewable energy is defined as energy from sources that are replenished at a rate greater than or equal to their rate of depletion, such as geothermal, wind, solar, hydro, and biomass.",
+      "For the purposes of this disclosure, the scope of renewable energy from biomass sources is limited to materials certified to a third-party standard (e.g., Forest Stewardship Council, Sustainable Forest Initiative, Programme for the Endorsement of Forest Certification, or American Tree Farm System), materials considered eligible sources of supply according to the Green-e Framework for Renewable Energy Certification, Version 1.0 (2017) or Green-e regional standards, and/or materials that are eligible for an applicable state renewable portfolio standard."
+    ],
+    "pages": [
+      "75",
+      "76"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "According to the IFRS S2 standard, which of the following is NOT a required element for a company to include when discussing its long-term and short-term strategy or plan to manage Scope 1 greenhouse gas emissions?",
+    "optionA": "The scope of the emission reduction target (e.g., the percentage of total emissions to which the target is applicable)",
+    "optionB": "Whether the target is absolute- or intensity-based, and the metric denominator, if it is an intensity-based target",
+    "optionC": "The percentage reduction against the base year, with the base year representing the first year against which emissions are evaluated toward the achievement of the target",
+    "optionD": "The mechanism(s) for achieving the target",
+    "optionE": "The entity's total energy consumption",
+    "answer": "E",
+    "reference_text": [
+      "The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the following, where relevant:",
+      "2.1    The scope of the emission reduction target (e.g., the percentage of total emissions to which the target is applicable);",
+      "2.2    Whether the target is absolute- or intensity-based, and the metric denominator, if it is an intensity-based target;",
+      "2.3    The percentage reduction against the base year, with the base year representing the first year against which emissions are evaluated toward the achievement of the target;",
+      "2.4    The timelines for the reduction activity, including the start year, the target year, and the base year;",
+      "2.5    The mechanism(s) for achieving the target; and",
+      "2.6    Any circumstances in which the target or base year emissions have been, or may be, recalculated retrospectively or the target or base year has been reset."
+    ],
+    "pages": [
+      "73",
+      "74"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  }
+]

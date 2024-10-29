@@ -1,0 +1,229 @@
+[
+  {
+    "question": "What units of measurement are used across Appliance Manufacturing and Oil & Gas - Refining & Marketing industries for measuring quantitative metrics?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": [
+      "b2-appliance-manufacturing",
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "question": "What units of measurement are used across the Hotels & Lodging and Electrical & Electronic Equipment industries for measuring energy management metrics?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": [
+      "b49-electrical-and-electronic-equipment",
+      "b52-hotels-and-lodging"
+    ]
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Rail Transportation and Internet Media & Services industries?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": [
+      "b67-rail-transportation",
+      "b56-internet-media-and-services"
+    ]
+  },
+  {
+    "question": "List the activity metrics for Coal Operations and Apparel, Accessories & Footwear industries.",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "question": "List the activity metrics for the Building Products & Furnishings and Drug Retailers industries.",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": [
+      "b3-building-products-and-furnishings",
+      "b27-drug-retailers"
+    ]
+  },
+  {
+    "question": "What are the common metrics shared between Coal Operations and Apparel, Accessories & Footwear industries, if any?",
+    "type": "mcq",
+    "correct_answer": "C",
+    "model_answer": "C",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Coal Operations and Apparel, Accessories & Footwear industries.",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "question": "Give me the codes for all the 'Discussion and Analysis' metrics in Table 1 for Airlines and Managed Care industries.",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": [
+      "b61-airlines",
+      "b30-managed-care"
+    ]
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Water Utilities & Services and Cruise Lines industries.",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "B",
+    "is_correct": true,
+    "industries": [
+      "b39-water-utilities-and-services",
+      "b65-cruise-lines"
+    ]
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Investment Banking & Brokerage and Marine Transportation industries.",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "B",
+    "is_correct": true,
+    "industries": [
+      "b18-investment-banking-and-brokerage",
+      "b66-marine-transportation"
+    ]
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Asset Management & Custody Activities and Pulp & Paper Products industries.",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b43-pulp-and-paper-products"
+    ]
+  },
+  {
+    "question": "What units of measurement are used across the Software & IT Services and Semiconductors industries for measuring energy consumption?",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "B",
+    "is_correct": true,
+    "industries": [
+      "b58-software-and-it-services",
+      "b57-semiconductors"
+    ]
+  },
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Asset Management & Custody Activities and Mortgage Finance industries.",
+    "type": "mcq",
+    "correct_answer": "C",
+    "model_answer": "A",
+    "is_correct": false,
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "question": "How does the calculation of energy-related metrics differ between Building Products & Furnishings and Real Estate companies?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": [
+      "b3-building-products-and-furnishings",
+      "b36-real-estate"
+    ]
+  },
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Building Products & Furnishings and Real Estate industries.",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "D",
+    "is_correct": false,
+    "industries": [
+      "b3-building-products-and-furnishings",
+      "b36-real-estate"
+    ]
+  },
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Processed Foods and Household & Personal Products industries.",
+    "type": "mcq",
+    "correct_answer": "D",
+    "model_answer": "D",
+    "is_correct": true,
+    "industries": [
+      "b5-household-and-personal-products",
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Metals & Mining and Biofuels industries?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "B",
+    "is_correct": false,
+    "industries": [
+      "b10-metals-and-mining",
+      "b40-biofuels"
+    ]
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Construction Materials and Home Builders industries?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": [
+      "b8-construction-materials",
+      "b35-home-builders"
+    ]
+  },
+  {
+    "question": "What units of measurement are used across the Electronic Manufacturing Services & Original Design Manufacturing and Casinos & Gaming industries for measuring energy and water metrics?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design",
+      "b51-casinos-and-gaming"
+    ]
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Processed Foods and Household & Personal Products industries.",
+    "type": "mcq",
+    "correct_answer": "C",
+    "model_answer": "C",
+    "is_correct": true,
+    "industries": [
+      "b25-processed-foods",
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "question": "Compare the number of quantitative metrics between Appliance Manufacturing and Oil & Gas - Refining & Marketing industries.",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "C",
+    "is_correct": false,
+    "industries": [
+      "b2-appliance-manufacturing",
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  }
+]

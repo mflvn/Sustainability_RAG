@@ -1,0 +1,156 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When disclosing energy consumption for both Aerospace & Defense and Auto Parts industries, which of the following is NOT a required component according to IFRS standards?",
+    "optionA": "Total energy consumed",
+    "optionB": "Percentage of grid electricity",
+    "optionC": "Percentage of renewable energy",
+    "optionD": "Percentage of energy from fossil fuels",
+    "optionE": "Energy consumption calculated using higher heating values (HHV)",
+    "answer": "D: Percentage of energy from fossil fuels",
+    "explanation": "According to the IFRS standards for both Aerospace & Defense (RT-AE-130a.1) and Auto Parts (TR-AP-130a.1) industries, companies are required to disclose total energy consumed, percentage of grid electricity, and percentage of renewable energy. They must also use higher heating values (HHV) for calculations. However, the percentage of energy from fossil fuels is not explicitly required in the disclosure.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Aerospace & Defense",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Auto Parts"
+    ],
+    "pages": [
+      "488",
+      "489",
+      "605",
+      "606"
+    ],
+    "pairing_explanation": "Both industries' reliance on advanced manufacturing processes and materials introduces sustainability themes like emissions, resource efficiency, and innovation.",
+    "industries": [
+      "b46-aerospace-and-defense",
+      "b62-auto-parts"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "In terms of revenue disclosure related to sustainability, what is the key difference between the reporting requirements for Aerospace & Defense and Auto Parts industries?",
+    "optionA": "Aerospace & Defense must report revenue from all energy-related products, while Auto Parts only reports on fuel-efficient products",
+    "optionB": "Auto Parts must report revenue from all parts, while Aerospace & Defense only reports on alternative energy products",
+    "optionC": "Aerospace & Defense reports on alternative energy-related products, while Auto Parts focuses on products increasing fuel efficiency and/or reducing emissions",
+    "optionD": "Both industries have identical revenue reporting requirements for sustainability-related products",
+    "optionE": "Neither industry is required to report revenue from sustainability-related products",
+    "answer": "C: Aerospace & Defense reports on alternative energy-related products, while Auto Parts focuses on products increasing fuel efficiency and/or reducing emissions",
+    "explanation": "The Aerospace & Defense industry is required to report revenue from alternative energy-related products (RT-AE-410a.1), which includes products relying on alternative fuel or energy for propulsion or energy production. In contrast, the Auto Parts industry must disclose revenue from products designed to increase fuel efficiency and/or reduce emissions (TR-AP-410a.1), focusing on components that improve vehicle performance in these areas.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Aerospace & Defense",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Auto Parts"
+    ],
+    "pages": [
+      "490",
+      "607"
+    ],
+    "pairing_explanation": "Both industries' reliance on advanced manufacturing processes and materials introduces sustainability themes like emissions, resource efficiency, and innovation.",
+    "industries": [
+      "b46-aerospace-and-defense",
+      "b62-auto-parts"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of renewable energy consumed for both Aerospace & Defense and Auto Parts industries, which of the following sources would NOT be included?",
+    "optionA": "On-site generated solar power with retained RECs",
+    "optionB": "Purchased wind power through a PPA with explicit RECs",
+    "optionC": "Biomass energy from Forest Stewardship Council certified sources",
+    "optionD": "Hydroelectric power purchased from the grid without specific RECs",
+    "optionE": "Geothermal energy directly produced by the company",
+    "answer": "D: Hydroelectric power purchased from the grid without specific RECs",
+    "explanation": "For both industries, the calculation of renewable energy consumption includes renewable energy directly produced by the entity, purchased through PPAs with explicit RECs, and from certified biomass sources. However, renewable energy from the grid mix without specific RECs or GOs is excluded from the scope of renewable energy in the calculation.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Aerospace & Defense",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Auto Parts"
+    ],
+    "pages": [
+      "489",
+      "606"
+    ],
+    "pairing_explanation": "Both industries' reliance on advanced manufacturing processes and materials introduces sustainability themes like emissions, resource efficiency, and innovation.",
+    "industries": [
+      "b46-aerospace-and-defense",
+      "b62-auto-parts"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "In reporting revenue from sustainability-related products, how do the calculation methods differ between Aerospace & Defense and Auto Parts industries?",
+    "optionA": "Aerospace & Defense includes all products, while Auto Parts only includes certified products",
+    "optionB": "Auto Parts includes products with incremental improvements, while Aerospace & Defense only includes major innovations",
+    "optionC": "Aerospace & Defense focuses on alternative energy products, while Auto Parts considers fuel efficiency and emission reduction",
+    "optionD": "Both industries use identical calculation methods for sustainability-related revenue",
+    "optionE": "Auto Parts excludes products with ancillary benefits, while Aerospace & Defense includes them",
+    "answer": "C: Aerospace & Defense focuses on alternative energy products, while Auto Parts considers fuel efficiency and emission reduction",
+    "explanation": "The Aerospace & Defense industry calculates revenue from alternative energy-related products, including those using renewable fuels, hydrogen, and electric/hybrid technologies (RT-AE-410a.1). The Auto Parts industry, however, calculates revenue from products designed to increase fuel efficiency and/or reduce emissions, focusing on components that demonstrably improve these aspects in vehicles (TR-AP-410a.1).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Aerospace & Defense",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Auto Parts"
+    ],
+    "pages": [
+      "490",
+      "491",
+      "607",
+      "608"
+    ],
+    "pairing_explanation": "Both industries' reliance on advanced manufacturing processes and materials introduces sustainability themes like emissions, resource efficiency, and innovation.",
+    "industries": [
+      "b46-aerospace-and-defense",
+      "b62-auto-parts"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the Aerospace & Defense and Auto Parts industries differ in their approach to addressing greenhouse gas (GHG) emissions in their products?",
+    "optionA": "Aerospace & Defense focuses solely on manufacturing emissions, while Auto Parts addresses only use-phase emissions",
+    "optionB": "Auto Parts emphasizes fuel efficiency, while Aerospace & Defense prioritizes alternative energy sources",
+    "optionC": "Aerospace & Defense considers only commercial aircraft, while Auto Parts addresses all vehicle types",
+    "optionD": "Auto Parts focuses on electric vehicles, while Aerospace & Defense only considers conventional fuel systems",
+    "optionE": "Both industries have identical approaches to addressing GHG emissions in their products",
+    "answer": "B: Auto Parts emphasizes fuel efficiency, while Aerospace & Defense prioritizes alternative energy sources",
+    "explanation": "The Auto Parts industry focuses on designing products to increase fuel efficiency and reduce emissions during the use phase of vehicles (TR-AP-410a.1). In contrast, the Aerospace & Defense industry emphasizes alternative energy-related products and technologies, including renewable fuels, advanced powertrains, and other innovations that reduce GHG emissions (RT-AE-410a.1 and RT-AE-410a.2).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Aerospace & Defense",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Auto Parts"
+    ],
+    "pages": [
+      "490",
+      "491",
+      "607",
+      "608"
+    ],
+    "pairing_explanation": "Both industries' reliance on advanced manufacturing processes and materials introduces sustainability themes like emissions, resource efficiency, and innovation.",
+    "industries": [
+      "b46-aerospace-and-defense",
+      "b62-auto-parts"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing the Aerospace & Defense and Auto Parts industries' sustainability reporting requirements, which of the following statements is true?",
+    "optionA": "Only Aerospace & Defense is required to report on energy management",
+    "optionB": "Auto Parts has more comprehensive emissions reporting requirements",
+    "optionC": "Aerospace & Defense must provide a narrative on fuel economy strategies, while Auto Parts does not",
+    "optionD": "Both industries have identical activity metrics for sustainability reporting",
+    "optionE": "Auto Parts focuses on component-level efficiency, while Aerospace & Defense addresses system-level performance",
+    "answer": "C: Aerospace & Defense must provide a narrative on fuel economy strategies, while Auto Parts does not",
+    "explanation": "The Aerospace & Defense industry is required to provide a description of its approach and discussion of strategies to address fuel economy and GHG emissions of products (RT-AE-410a.2). This narrative disclosure is not explicitly required for the Auto Parts industry. Both industries must report on energy management and product-related sustainability metrics, but the specific requirements and focus areas differ based on their respective product types and industry characteristics.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Aerospace & Defense",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Auto Parts"
+    ],
+    "pages": [
+      "488",
+      "490",
+      "491",
+      "604",
+      "605",
+      "607"
+    ],
+    "pairing_explanation": "Both industries' reliance on advanced manufacturing processes and materials introduces sustainability themes like emissions, resource efficiency, and innovation.",
+    "industries": [
+      "b46-aerospace-and-defense",
+      "b62-auto-parts"
+    ]
+  }
+]

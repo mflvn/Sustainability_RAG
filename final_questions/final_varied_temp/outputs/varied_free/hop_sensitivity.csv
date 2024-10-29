@@ -1,0 +1,9 @@
+Metric,multi_hop,single_hop
+BLEU,0.4144445339548576,0.6878392073049661
+Faithfulness,7.225,7.375
+Multi-hop Questions,100.0,95.0
+Negative Questions,0.0,0.0
+ROUGE,0.5418571775983828,0.7441685025284848
+Relevancy,7.8375,8.15
+Single Best Answer,0.0,0.0
+Specificity,8.7,8.325

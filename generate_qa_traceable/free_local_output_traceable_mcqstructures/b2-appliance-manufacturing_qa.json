@@ -1,0 +1,135 @@
+[
+  {
+    "question": "What is the category of the 'Annual production' metric in the Appliance Manufacturing industry (as listed in the relevant table)?",
+    "answer": "Quantitative",
+    "reference_text": [
+      "| ACTIVITY METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|-----------------|----------|------------------|------|",
+      "| Annual production \u00b2 | Quantitative | Number of units | CG-AM-000.A |"
+    ],
+    "pages": [
+      "11"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "question": "For the listed 'CG-AM-410a.1. Percentage of eligible products by revenue certified to the an energy efficiency certification' requirement, what does a company in the Appliance Manufacturing industry need to do?",
+    "answer": "1 The entity shall disclose the percentage of its revenue from eligible products certified to an energy efficiency certification. 1.1 The entity shall calculate the percentage as the revenue from products meeting the requirements for the applicable certification divided by total revenue from products eligible for certification by each certification.",
+    "reference_text": [
+      "CG-AM-410a.1. Percentage of eligible products by revenue certified to the an energy efficiency certification",
+      "1 The entity shall disclose the percentage of its revenue from eligible products certified to an energy efficiency certification.",
+      "1.1 The entity shall calculate the percentage as the revenue from products meeting the requirements for the applicable certification divided by total revenue from products eligible for certification by each certification."
+    ],
+    "pages": [
+      "12"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "question": "What is the code of the 'Percentage of eligible products certified to an Association of Home Appliance Manufacturers (AHAM) sustainability standard' metric in the Appliance Manufacturing industry (as listed in the relevant table)?",
+    "answer": "CG-AM-410a.2",
+    "reference_text": [
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|-------|--------|----------|------------------|------|",
+      "| Product Lifecycle Environmental Impacts | Percentage of eligible products certified to an Association of Home Appliance Manufacturers (AHAM) sustainability standard | Quantitative | Percentage (%) by revenue | CG-AM-410a.2 |"
+    ],
+    "pages": [
+      "11"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "question": "On what page can I find details about the 'Description of efforts to manage products' end-of-life impacts' metric for the Appliance Manufacturing industry?",
+    "answer": "13-14",
+    "reference_text": [
+      "# CG-AM-410a.3. Description of efforts to manage products' end-of-life impacts",
+      "1 The entity shall describe its efforts to manage the end-of-life impacts of its products, including those related to safe and proper disposal or recycling of constituent chemicals and other product components, including, but not limited to, toxic heavy metals (e.g., mercury, cadmium), rigid polymers, refrigerants, and other metals (e.g., steel and aluminum).",
+      "..."
+    ],
+    "pages": [
+      "13-14"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "question": "What is the code of the metric 'Percentage of eligible products certified to an Association of Home Appliance Manufacturers (AHAM) sustainability standard' in the Appliance Manufacturing industry and how should this metric be calculated?",
+    "answer": "The code for the metric 'Percentage of eligible products certified to an Association of Home Appliance Manufacturers (AHAM) sustainability standard' is CG-AM-410a.2. This metric should be calculated as follows: 1) The entity shall disclose the percentage of its revenue from eligible products certified to an Association of Home Appliance Manufacturers (AHAM) sustainability standard. 1.1) Eligible products are those addressed by the scope of an AHAM sustainability standard. 1.2) The entity shall calculate the percentage as the revenue from products certified to an AHAM sustainability standard divided by total revenue from products eligible for certification to an AHAM sustainability standard.",
+    "reference_text": [
+      "CG-AM-410a.2. Percentage of eligible products certified to an Association of Home Appliance Manufacturers (AHAM) sustainability standard",
+      "1 The entity shall disclose the percentage of its revenue from eligible products certified to an Association of Home Appliance Manufacturers (AHAM) sustainability standard.",
+      "1.1 Eligible products are those addressed by the scope of an AHAM sustainability standard.",
+      "1.2 The entity shall calculate the percentage as the revenue from products certified to an AHAM sustainability standard divided by total revenue from products eligible for certification to an AHAM sustainability standard."
+    ],
+    "pages": [
+      "13"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for the 'Product Lifecycle Environmental Impacts' topic in the Appliance Manufacturing industry?",
+    "answer": "For the 'Product Lifecycle Environmental Impacts' topic in the Appliance Manufacturing industry, the units of measure for the metrics are: 1) Percentage of eligible products by revenue certified to an energy efficiency certification - Percentage (%) by revenue, 2) Percentage of eligible products certified to an Association of Home Appliance Manufacturers (AHAM) sustainability standard - Percentage (%) by revenue, 3) Description of efforts to manage products' end-of-life impacts - n/a (Discussion and Analysis).",
+    "reference_text": [
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|-------|--------|----------|------------------|------|",
+      "| Product Lifecycle Environmental Impacts | Percentage of eligible products by revenue certified to an energy efficiency certification | Quantitative | Percentage (%) by revenue | CG-AM-410a.1 |",
+      "| Product Lifecycle Environmental Impacts | Percentage of eligible products certified to an Association of Home Appliance Manufacturers (AHAM) sustainability standard | Quantitative | Percentage (%) by revenue | CG-AM-410a.2 |",
+      "| Product Lifecycle Environmental Impacts | Description of efforts to manage products' end-of-life impacts | Discussion and Analysis | n/a | CG-AM-410a.3 |"
+    ],
+    "pages": [
+      "11"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "question": "Can you tell me if I reported the metric 'Percentage of eligible products by revenue certified to an energy efficiency certification' correctly for the Appliance Manufacturing industry and what should I do to improve my reporting?",
+    "answer": "To report the metric 'Percentage of eligible products by revenue certified to an energy efficiency certification' correctly, you should follow these requirements: 1) The entity shall disclose the percentage of its revenue from eligible products certified to an energy efficiency certification. 1.1) The entity shall calculate the percentage as the revenue from products meeting the requirements for the applicable certification divided by total revenue from products eligible for certification by each certification. 1.1.1) Eligible products are those in a product category for which certification exists, including but not limited to: heating and cooling product categories such as air purifiers, clothes dryers, clothes washers, dehumidifiers, dishwashers, freezers, refrigerators, air conditioning, boilers, ductless heating and cooling, furnaces, heat pumps, and ventilation fans. 2) The scope of disclosure includes products that meet the requirements of the most current version of the applicable certification requirements. 3) For each jurisdiction where the entity sells products, the entity shall disclose the applicable certification program. To improve reporting, ensure you have calculated the percentage correctly based on eligible product categories, used the most current certification version, and disclosed the applicable certification programs per jurisdiction.",
+    "reference_text": [
+      "CG-AM-410a.1. Percentage of eligible products by revenue certified to the an energy efficiency certification",
+      "1 The entity shall disclose the percentage of its revenue from eligible products certified to an energy efficiency certification.",
+      "1.1 The entity shall calculate the percentage as the revenue from products meeting the requirements for the applicable certification divided by total revenue from products eligible for certification by each certification.",
+      "1.1.1 Eligible products are those in a product category for which certification exists, including but not limited to: heating and cooling product categories such as air purifiers, clothes dryers, clothes washers, dehumidifiers, dishwashers, freezers, refrigerators, air conditioning, boilers, ductless heating and cooling, furnaces, heat pumps, and ventilation fans.",
+      "2 The scope of disclosure includes products that meet the requirements of the most current version of the applicable certification requirements.",
+      "3 For each jurisdiction where the entity sells products, the entity shall disclose the applicable certification program."
+    ],
+    "pages": [
+      "12"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "question": "Can you tell me what topics are covered in the 'Industry Description' section of the document and what are the key takeaways I need to know as a company writing my sustainability report in the Appliance Manufacturing industry?",
+    "answer": "The 'Industry Description' section covers a brief overview of the Appliance Manufacturing industry. The key takeaway is that the industry 'includes companies involved in the design and manufacturing of household appliances and hand tools' and that companies in this industry 'sell and manufacture products around the world, primarily selling products to consumers through retail locations'.",
+    "reference_text": [
+      "# Industry Description",
+      "The Appliance Manufacturing industry includes companies involved in the design and manufacturing of household appliances and hand tools. The industry sells and manufactures products around the world, primarily selling products to consumers through retail locations."
+    ],
+    "pages": [
+      "11"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  }
+]

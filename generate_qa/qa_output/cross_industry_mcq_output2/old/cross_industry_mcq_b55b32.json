@@ -1,0 +1,147 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When disclosing greenhouse gas emissions for the Electric Utilities & Power Generators industry, which of the following is NOT required to be reported according to IFRS S2 Climate-related Disclosures?",
+    "optionA": "Gross global Scope 1 emissions",
+    "optionB": "Percentage of emissions covered under emissions-limiting regulations",
+    "optionC": "Percentage of emissions covered under emissions-reporting regulations",
+    "optionD": "Greenhouse gas emissions associated with power deliveries",
+    "optionE": "Scope 2 emissions from purchased electricity",
+    "answer": "E. Scope 2 emissions from purchased electricity",
+    "explanation": "According to IFRS S2 Climate-related Disclosures for the Electric Utilities & Power Generators industry, companies are required to report gross global Scope 1 emissions, percentage of emissions covered under emissions-limiting and emissions-reporting regulations, and greenhouse gas emissions associated with power deliveries. Scope 2 emissions from purchased electricity are not specifically required in this disclosure.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators"
+    ],
+    "pages": [
+      "Page 300",
+      "Page 302",
+      "Page 303"
+    ],
+    "pairing_explanation": "Hardware production and power generation face mutual sustainability challenges related to emissions, energy efficiency, and lifecycle impacts.",
+    "industries": [
+      "b55-hardware",
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "For companies in the Hardware industry, which of the following is required to be disclosed regarding product lifecycle management according to IFRS S2 Climate-related Disclosures?",
+    "optionA": "Percentage of products by revenue that contain IEC 62474 declarable substances",
+    "optionB": "Total water withdrawn and consumed in manufacturing processes",
+    "optionC": "Number of cybersecurity incidents affecting product performance",
+    "optionD": "Revenue from products with extended warranties",
+    "optionE": "Carbon footprint of the product supply chain",
+    "answer": "A. Percentage of products by revenue that contain IEC 62474 declarable substances",
+    "explanation": "According to IFRS S2 Climate-related Disclosures for the Hardware industry, companies are required to disclose the percentage of products by revenue that contain IEC 62474 declarable substances as part of their product lifecycle management reporting. The other options are not specifically required in this disclosure for the Hardware industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hardware"
+    ],
+    "pages": [
+      "Page 554",
+      "Page 555"
+    ],
+    "pairing_explanation": "Hardware production and power generation face mutual sustainability challenges related to emissions, energy efficiency, and lifecycle impacts.",
+    "industries": [
+      "b55-hardware",
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the System Average Interruption Duration Index (SAIDI) for the Electric Utilities & Power Generators industry, which of the following formulas is correct?",
+    "optionA": "Total number of customers interrupted / Total number of customers served",
+    "optionB": "(Total number of customers interrupted \u00d7 Duration of interruptions) / Total number of customers served",
+    "optionC": "Total duration of interruptions / Total number of customers interrupted",
+    "optionD": "(Total number of customers interrupted \u00d7 Duration of interruptions) / Total number of interruptions",
+    "optionE": "Total number of interruptions / Total number of customers served",
+    "answer": "B. (Total number of customers interrupted \u00d7 Duration of interruptions) / Total number of customers served",
+    "explanation": "The correct formula for calculating SAIDI is (Total number of customers interrupted \u00d7 Duration of interruptions) / Total number of customers served. This metric measures the total duration of an interruption for the average customer during the reporting period.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators"
+    ],
+    "pages": [
+      "Page 318",
+      "Page 319"
+    ],
+    "pairing_explanation": "Hardware production and power generation face mutual sustainability challenges related to emissions, energy efficiency, and lifecycle impacts.",
+    "industries": [
+      "b55-hardware",
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "In the Hardware industry, how should a company calculate the percentage of products meeting EPEAT registration requirements according to IFRS S2 Climate-related Disclosures?",
+    "optionA": "Number of EPEAT registered products / Total number of products",
+    "optionB": "Revenue from EPEAT registered products / Total revenue",
+    "optionC": "Revenue from EPEAT registered products / Revenue from eligible products",
+    "optionD": "Number of EPEAT registered product categories / Total number of product categories",
+    "optionE": "Weight of EPEAT registered products / Total weight of products sold",
+    "answer": "C. Revenue from EPEAT registered products / Revenue from eligible products",
+    "explanation": "According to IFRS S2 Climate-related Disclosures for the Hardware industry, the percentage of products meeting EPEAT registration requirements should be calculated as the revenue from products that meet the requirements for EPEAT registration divided by total revenue from products eligible for EPEAT registration.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hardware"
+    ],
+    "pages": [
+      "Page 555",
+      "Page 556"
+    ],
+    "pairing_explanation": "Hardware production and power generation face mutual sustainability challenges related to emissions, energy efficiency, and lifecycle impacts.",
+    "industries": [
+      "b55-hardware",
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the IFRS S2 Climate-related Disclosures for the Electric Utilities & Power Generators and Hardware industries differ in their approach to product end-of-life management?",
+    "optionA": "Only the Hardware industry requires reporting on end-of-life product recovery",
+    "optionB": "Only the Electric Utilities & Power Generators industry requires reporting on end-of-life product recovery",
+    "optionC": "Both industries have identical requirements for end-of-life product recovery reporting",
+    "optionD": "The Electric Utilities industry focuses on nuclear waste, while the Hardware industry focuses on e-waste",
+    "optionE": "Neither industry has specific requirements for end-of-life product management",
+    "answer": "A. Only the Hardware industry requires reporting on end-of-life product recovery",
+    "explanation": "The IFRS S2 Climate-related Disclosures for the Hardware industry specifically require reporting on the weight of end-of-life products and e-waste recovered, and the percentage recycled. The Electric Utilities & Power Generators industry disclosures do not have a similar requirement for end-of-life product management, focusing instead on operational aspects like emissions and grid reliability.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hardware",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators"
+    ],
+    "pages": [
+      "Page 557",
+      "Page 558",
+      "Page 299",
+      "Page 300"
+    ],
+    "pairing_explanation": "Hardware production and power generation face mutual sustainability challenges related to emissions, energy efficiency, and lifecycle impacts.",
+    "industries": [
+      "b55-hardware",
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "Which of the following statements accurately compares the sustainability reporting requirements for the Electric Utilities & Power Generators and Hardware industries under IFRS S2 Climate-related Disclosures?",
+    "optionA": "Both industries have identical requirements for reporting on energy efficiency",
+    "optionB": "The Hardware industry focuses on product energy efficiency, while the Electric Utilities industry focuses on grid efficiency",
+    "optionC": "Only the Electric Utilities industry is required to report on energy efficiency",
+    "optionD": "Both industries report on energy efficiency, but use different metrics and scopes",
+    "optionE": "Neither industry has specific requirements for reporting on energy efficiency",
+    "answer": "D. Both industries report on energy efficiency, but use different metrics and scopes",
+    "explanation": "Both the Electric Utilities & Power Generators and Hardware industries are required to report on energy efficiency, but with different focuses and metrics. The Electric Utilities industry reports on customer electricity savings from efficiency measures, while the Hardware industry reports on the percentage of eligible products meeting energy efficiency certifications like ENERGY STAR. This reflects the different roles these industries play in energy consumption and efficiency.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hardware",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators"
+    ],
+    "pages": [
+      "Page 556",
+      "Page 557",
+      "Page 312",
+      "Page 313"
+    ],
+    "pairing_explanation": "Hardware production and power generation face mutual sustainability challenges related to emissions, energy efficiency, and lifecycle impacts.",
+    "industries": [
+      "b55-hardware",
+      "b32-electric-utilities-and-power-generators"
+    ]
+  }
+]

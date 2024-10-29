@@ -1,0 +1,74 @@
+[
+  {
+    "question": "What does the IFRS require companies to disclose regarding water management for the Electronic Manufacturing Services & Original Design Manufacturing industry?",
+    "answer": "The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from all sources. The entity shall disclose the amount of water, in thousands of cubic meters, that was consumed in its operations. The entity shall analyze all of its operations for water risks and identify activities that withdraw and consume water in locations with High (40-80 percent) or Extremely High (>80 percent) Baseline Water Stress as classified by the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct. The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn. The entity shall disclose its water consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water consumed.",
+    "reference_text": [
+      "The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from all sources.",
+      "The entity shall disclose the amount of water, in thousands of cubic meters, that was consumed in its operations.",
+      "The entity shall analyze all of its operations for water risks and identify activities that withdraw and consume water in locations with High (40-80 percent) or Extremely High (>80 percent) Baseline Water Stress as classified by the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct.",
+      "The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn.",
+      "The entity shall disclose its water consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water consumed."
+    ],
+    "pages": [
+      "548",
+      "549"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0.5,
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ]
+  },
+  {
+    "question": "Describe the calculation method for the weight of end-of-life products and e-waste recovered metric for the Electronic Manufacturing Services & Original Design Manufacturing industry.",
+    "answer": "The entity shall disclose the weight, in metric tons, of end-of-life material that was recovered, including through reverse logistics services, recycling services, product take-back programs, and refurbishment services. The percentage shall be calculated as the weight of end-of-life material that was recovered and subsequently recycled divided by the total weight of end-of-life material that was recovered.",
+    "reference_text": [
+      "The entity shall disclose the weight, in metric tons, of end-of-life material that was recovered, including through reverse logistics services, recycling services, product take-back programs, and refurbishment services.",
+      "The percentage shall be calculated as the weight of end-of-life material that was recovered and subsequently recycled divided by the total weight of end-of-life material that was recovered."
+    ],
+    "pages": [
+      "550"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0.5,
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ]
+  },
+  {
+    "question": "What is the category of the 'Total water withdrawn' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry and how should this metric be disclosed?",
+    "answer": "The 'Total water withdrawn' metric falls under the 'Quantitative' category. The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from all sources. Water sources include surface water (including water from wetlands, rivers, lakes, and oceans), groundwater, rainwater collected directly and stored by the entity, and water and wastewater obtained from municipal water supplies, water utilities, or other entities. The entity may disclose portions of its supply by source if, for example, significant portions of withdrawals are from non-freshwater sources.",
+    "reference_text": [
+      "The 'Total water withdrawn' metric falls under the 'Quantitative' category.",
+      "The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from all sources.",
+      "Water sources include surface water (including water from wetlands, rivers, lakes, and oceans), groundwater, rainwater collected directly and stored by the entity, and water and wastewater obtained from municipal water supplies, water utilities, or other entities.",
+      "The entity may disclose portions of its supply by source if, for example, significant portions of withdrawals are from non-freshwater sources."
+    ],
+    "pages": [
+      "Page 548",
+      "Page 549"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0.5,
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ]
+  },
+  {
+    "question": "What is the code of the 'Weight of end-of-life products and e-waste recovered' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry and how should this metric be calculated?",
+    "answer": "The code for the 'Weight of end-of-life products and e-waste recovered' metric is TC-ES-410a.1. The entity shall disclose the weight, in metric tons, of end-of-life material that was recovered, including through reverse logistics services, recycling services, product take-back programs, and refurbishment services. The percentage shall be calculated as the weight of end-of-life material that was recovered and subsequently recycled divided by the total weight of end-of-life material that was recovered.",
+    "reference_text": [
+      "The code for the 'Weight of end-of-life products and e-waste recovered' metric is TC-ES-410a.1.",
+      "The entity shall disclose the weight, in metric tons, of end-of-life material that was recovered, including through reverse logistics services, recycling services, product take-back programs, and refurbishment services.",
+      "The percentage shall be calculated as the weight of end-of-life material that was recovered and subsequently recycled divided by the total weight of end-of-life material that was recovered."
+    ],
+    "pages": [
+      "Page 550"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0.5,
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ]
+  }
+]

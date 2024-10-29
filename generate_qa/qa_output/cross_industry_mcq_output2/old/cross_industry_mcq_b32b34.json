@@ -1,0 +1,146 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "According to IFRS standards, which of the following metrics is required to be disclosed by both Electric Utilities & Power Generators and Gas Utilities & Distributors?",
+    "optionA": "Greenhouse gas emissions associated with power deliveries",
+    "optionB": "Number of incidents of non-compliance with physical and/or cybersecurity standards",
+    "optionC": "Percentage of electric load served by smart grid technology",
+    "optionD": "Customer gas savings from efficiency measures by market",
+    "optionE": "Number of: (1) residential, (2) commercial, and (3) industrial customers served",
+    "answer": "E. Number of: (1) residential, (2) commercial, and (3) industrial customers served",
+    "explanation": "Both Electric Utilities & Power Generators (IF-EU-000.A) and Gas Utilities & Distributors (IF-GU-000.A) are required to disclose the number of residential, commercial, and industrial customers served as an activity metric according to IFRS standards.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors"
+    ],
+    "pages": [
+      "299",
+      "335"
+    ],
+    "pairing_explanation": "Both industries are pivotal in the energy sector and their sustainability efforts are crucial for transitioning to low-carbon energy sources. Comparing these can provide insights into their environmental impacts, energy efficiency, and regulatory compliance.",
+    "industries": [
+      "b32-electric-utilities-and-power-generators",
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When disclosing information about incidents related to infrastructure safety, which of the following is a key difference between Electric Utilities & Power Generators and Gas Utilities & Distributors reporting requirements?",
+    "optionA": "Electric utilities must report on cybersecurity incidents, while gas utilities do not",
+    "optionB": "Gas utilities must report on pipeline incidents, while electric utilities do not have a comparable requirement",
+    "optionC": "Electric utilities must report on nuclear safety, while gas utilities do not have any safety reporting requirements",
+    "optionD": "Gas utilities must report on distribution pipeline materials, while electric utilities do not have any infrastructure material reporting requirements",
+    "optionE": "Electric utilities must report on transmission line length, while gas utilities do not have any infrastructure length reporting requirements",
+    "answer": "B. Gas utilities must report on pipeline incidents, while electric utilities do not have a comparable requirement",
+    "explanation": "Gas Utilities & Distributors are required to disclose the number of reportable pipeline incidents (IF-GU-540a.1), while Electric Utilities & Power Generators do not have a directly comparable requirement for their infrastructure. This reflects the different safety concerns and regulatory focus between the two industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors"
+    ],
+    "pages": [
+      "318",
+      "340-341"
+    ],
+    "pairing_explanation": "Both industries are pivotal in the energy sector and their sustainability efforts are crucial for transitioning to low-carbon energy sources. Comparing these can provide insights into their environmental impacts, energy efficiency, and regulatory compliance.",
+    "industries": [
+      "b32-electric-utilities-and-power-generators",
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating customer energy savings for sustainability reporting, what is a key difference between Electric Utilities & Power Generators and Gas Utilities & Distributors?",
+    "optionA": "Electric utilities report savings in kilowatt-hours, while gas utilities report in British thermal units",
+    "optionB": "Electric utilities include industrial customers, while gas utilities exclude them",
+    "optionC": "Gas utilities report savings by market, while electric utilities report aggregate savings",
+    "optionD": "Electric utilities use net savings, while gas utilities use gross savings",
+    "optionE": "Gas utilities include efficiency credits purchased, while electric utilities exclude them",
+    "answer": "A. Electric utilities report savings in kilowatt-hours, while gas utilities report in British thermal units",
+    "explanation": "Electric Utilities & Power Generators report customer electricity savings in megawatt hours (MWh) (IF-EU-420a.3), while Gas Utilities & Distributors report customer gas savings in million British thermal units (MMBtu) (IF-GU-420a.2). This difference reflects the distinct units of measurement typically used for electricity and natural gas consumption.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors"
+    ],
+    "pages": [
+      "312",
+      "337-338"
+    ],
+    "pairing_explanation": "Both industries are pivotal in the energy sector and their sustainability efforts are crucial for transitioning to low-carbon energy sources. Comparing these can provide insights into their environmental impacts, energy efficiency, and regulatory compliance.",
+    "industries": [
+      "b32-electric-utilities-and-power-generators",
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "In the context of infrastructure integrity reporting, which of the following metrics is unique to Gas Utilities & Distributors and not required for Electric Utilities & Power Generators?",
+    "optionA": "System Average Interruption Duration Index (SAIDI)",
+    "optionB": "Percentage of gas transmission pipelines inspected",
+    "optionC": "Number of incidents of non-compliance with physical and/or cybersecurity standards",
+    "optionD": "Description of efforts to manage nuclear safety",
+    "optionE": "Total electricity generated by major energy source",
+    "answer": "B. Percentage of gas transmission pipelines inspected",
+    "explanation": "The percentage of gas transmission pipelines inspected (IF-GU-540a.3) is a metric specific to Gas Utilities & Distributors. This metric is crucial for assessing the integrity and safety of gas delivery infrastructure, which is not applicable to Electric Utilities & Power Generators in the same way.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors"
+    ],
+    "pages": [
+      "297-299",
+      "342-343"
+    ],
+    "pairing_explanation": "Both industries are pivotal in the energy sector and their sustainability efforts are crucial for transitioning to low-carbon energy sources. Comparing these can provide insights into their environmental impacts, energy efficiency, and regulatory compliance.",
+    "industries": [
+      "b32-electric-utilities-and-power-generators",
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the greenhouse gas (GHG) emissions reporting requirements differ between Electric Utilities & Power Generators and Gas Utilities & Distributors?",
+    "optionA": "Electric utilities must report Scope 1, 2, and 3 emissions, while gas utilities only report Scope 1",
+    "optionB": "Gas utilities must report fugitive emissions, while electric utilities are exempt from this requirement",
+    "optionC": "Electric utilities must report emissions associated with power deliveries, while gas utilities have no specific GHG reporting requirements",
+    "optionD": "Gas utilities must report emissions from pipeline leaks, while electric utilities only report emissions from power generation",
+    "optionE": "Electric and gas utilities have identical GHG reporting requirements",
+    "answer": "C. Electric utilities must report emissions associated with power deliveries, while gas utilities have no specific GHG reporting requirements",
+    "explanation": "Electric Utilities & Power Generators are required to report greenhouse gas (GHG) emissions associated with power deliveries (IF-EU-110a.2). In contrast, the IFRS standards for Gas Utilities & Distributors do not include a specific metric for reporting GHG emissions, although they do address efforts to manage emissions in the context of infrastructure integrity (IF-GU-540a.4).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors"
+    ],
+    "pages": [
+      "302-303",
+      "344-345"
+    ],
+    "pairing_explanation": "Both industries are pivotal in the energy sector and their sustainability efforts are crucial for transitioning to low-carbon energy sources. Comparing these can provide insights into their environmental impacts, energy efficiency, and regulatory compliance.",
+    "industries": [
+      "b32-electric-utilities-and-power-generators",
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "In terms of infrastructure resilience and reliability reporting, what is a key difference between Electric Utilities & Power Generators and Gas Utilities & Distributors?",
+    "optionA": "Electric utilities report on grid resilience, while gas utilities report on pipeline integrity",
+    "optionB": "Gas utilities report on cyber attacks, while electric utilities report on physical attacks",
+    "optionC": "Electric utilities report on weather-related disruptions, while gas utilities do not have to report on any disruptions",
+    "optionD": "Gas utilities report on storage facility safety, while electric utilities report on transmission line safety",
+    "optionE": "Electric and gas utilities have identical infrastructure resilience reporting requirements",
+    "answer": "A. Electric utilities report on grid resilience, while gas utilities report on pipeline integrity",
+    "explanation": "Electric Utilities & Power Generators are required to report on grid resilience, including metrics such as SAIDI, SAIFI, and CAIDI (IF-EU-550a.2). In contrast, Gas Utilities & Distributors report on pipeline integrity, including metrics related to pipeline incidents, pipeline materials, and inspection rates (IF-GU-540a.1, IF-GU-540a.2, IF-GU-540a.3). This difference reflects the distinct infrastructure challenges and safety concerns in each industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors"
+    ],
+    "pages": [
+      "318-320",
+      "340-345"
+    ],
+    "pairing_explanation": "Both industries are pivotal in the energy sector and their sustainability efforts are crucial for transitioning to low-carbon energy sources. Comparing these can provide insights into their environmental impacts, energy efficiency, and regulatory compliance.",
+    "industries": [
+      "b32-electric-utilities-and-power-generators",
+      "b34-gas-utilities-and-distributors"
+    ]
+  }
+]

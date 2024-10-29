@@ -1,0 +1,146 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "In sustainability reporting for restaurants and automobile manufacturers, which of the following is a common required disclosure for both industries according to IFRS standards?",
+    "optionA": "Sales-weighted average passenger fleet fuel economy",
+    "optionB": "Percentage of food purchased that meets environmental and social sourcing standards",
+    "optionC": "Total energy consumed",
+    "optionD": "Number of zero emission vehicles sold",
+    "optionE": "Percentage of eggs from cage-free environments",
+    "answer": "C: Total energy consumed",
+    "explanation": "Both the restaurant industry (FB-RN-130a.1) and automobile industry (as part of their overall sustainability reporting) are required to disclose total energy consumed. This metric is crucial for understanding the energy management and efficiency efforts of companies in both sectors.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Automobiles"
+    ],
+    "pages": [
+      "271",
+      "610"
+    ],
+    "pairing_explanation": "Both industries are highly visible consumer-facing sectors where sustainability reporting on emissions, waste, and resource use is increasingly scrutinized.",
+    "industries": [
+      "b26-restaurants",
+      "b63-automobiles"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When reporting on water management, which of the following disclosures is specifically required for restaurants but not explicitly mentioned for automobile manufacturers in the IFRS standards?",
+    "optionA": "Total water withdrawn",
+    "optionB": "Percentage of water consumed in regions with High or Extremely High Baseline Water Stress",
+    "optionC": "Water recycling rate",
+    "optionD": "Annual reduction in water consumption",
+    "optionE": "Water quality metrics",
+    "answer": "B: Percentage of water consumed in regions with High or Extremely High Baseline Water Stress",
+    "explanation": "The restaurant industry is specifically required to disclose the percentage of water consumed in regions with High or Extremely High Baseline Water Stress (FB-RN-140a.1). This requirement is not explicitly mentioned for automobile manufacturers in the provided IFRS standards, reflecting the different water-related risks and impacts of these industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Automobiles"
+    ],
+    "pages": [
+      "273-274",
+      "609-613"
+    ],
+    "pairing_explanation": "Both industries are highly visible consumer-facing sectors where sustainability reporting on emissions, waste, and resource use is increasingly scrutinized.",
+    "industries": [
+      "b26-restaurants",
+      "b63-automobiles"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating and reporting fuel economy metrics, what is a key difference between the restaurant and automobile industries?",
+    "optionA": "Restaurants report fuel economy in miles per gallon, while automobile manufacturers use liters per kilometer",
+    "optionB": "Automobile manufacturers report sales-weighted average fleet fuel economy, while restaurants do not report fuel economy",
+    "optionC": "Restaurants calculate fuel economy based on delivery vehicles, while automobile manufacturers focus on passenger vehicles",
+    "optionD": "Automobile manufacturers report fuel economy by vehicle type, while restaurants report it by kitchen appliance",
+    "optionE": "Restaurants report fuel economy improvements annually, while automobile manufacturers report it by model year",
+    "answer": "B: Automobile manufacturers report sales-weighted average fleet fuel economy, while restaurants do not report fuel economy",
+    "explanation": "Automobile manufacturers are required to report sales-weighted average passenger fleet fuel economy (TR-AU-410a.1), which is a crucial metric for their industry. Restaurants, on the other hand, do not have specific fuel economy reporting requirements in their IFRS standards, as their operations typically don't involve a fleet of vehicles.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Automobiles"
+    ],
+    "pages": [
+      "271-272",
+      "610-611"
+    ],
+    "pairing_explanation": "Both industries are highly visible consumer-facing sectors where sustainability reporting on emissions, waste, and resource use is increasingly scrutinized.",
+    "industries": [
+      "b26-restaurants",
+      "b63-automobiles"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When reporting on energy consumption, what calculation method is common to both the restaurant and automobile industries according to IFRS standards?",
+    "optionA": "Energy consumption per customer served",
+    "optionB": "Energy consumption per vehicle produced",
+    "optionC": "Percentage of renewable energy used",
+    "optionD": "Energy intensity per square foot of facility space",
+    "optionE": "Total energy consumed from all sources in gigajoules (GJ)",
+    "answer": "E: Total energy consumed from all sources in gigajoules (GJ)",
+    "explanation": "Both industries are required to report total energy consumed from all sources in gigajoules (GJ). This is explicitly stated for restaurants (FB-RN-130a.1) and is a standard sustainability reporting metric that would also apply to automobile manufacturers. This common metric allows for comparison of energy consumption across different industries and company sizes.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Automobiles"
+    ],
+    "pages": [
+      "271-272",
+      "609-613"
+    ],
+    "pairing_explanation": "Both industries are highly visible consumer-facing sectors where sustainability reporting on emissions, waste, and resource use is increasingly scrutinized.",
+    "industries": [
+      "b26-restaurants",
+      "b63-automobiles"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the IFRS sustainability reporting requirements differ between restaurants and automobile manufacturers in terms of addressing product lifecycle emissions?",
+    "optionA": "Restaurants focus on sourcing emissions, while automobile manufacturers focus on use-phase emissions",
+    "optionB": "Automobile manufacturers report on production emissions, while restaurants report on waste emissions",
+    "optionC": "Restaurants report on cooking emissions, while automobile manufacturers report on recycling emissions",
+    "optionD": "Both industries equally focus on end-of-life product emissions",
+    "optionE": "Neither industry is required to report on product lifecycle emissions",
+    "answer": "A: Restaurants focus on sourcing emissions, while automobile manufacturers focus on use-phase emissions",
+    "explanation": "The IFRS standards for restaurants emphasize reporting on supply chain management and food sourcing (FB-RN-430a.1, FB-RN-430a.2, FB-RN-430a.3), which relates to sourcing emissions. For automobile manufacturers, there's a strong focus on use-phase emissions through fuel economy and emissions metrics (TR-AU-410a.1, TR-AU-410a.2, TR-AU-410a.3). This difference reflects the distinct environmental impacts and challenges of each industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Automobiles"
+    ],
+    "pages": [
+      "275-278",
+      "610-613"
+    ],
+    "pairing_explanation": "Both industries are highly visible consumer-facing sectors where sustainability reporting on emissions, waste, and resource use is increasingly scrutinized.",
+    "industries": [
+      "b26-restaurants",
+      "b63-automobiles"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing sustainability reporting for restaurants and automobile manufacturers, which of the following themes is most prominently addressed in both industries' IFRS standards?",
+    "optionA": "Animal welfare",
+    "optionB": "Energy management",
+    "optionC": "Labor practices",
+    "optionD": "Biodiversity impact",
+    "optionE": "Customer safety",
+    "answer": "B: Energy management",
+    "explanation": "Energy management is a prominent theme in the IFRS standards for both industries. For restaurants, there are specific metrics related to energy consumption and renewable energy use (FB-RN-130a.1). For automobile manufacturers, energy management is implicit in the focus on fuel economy and emissions (TR-AU-410a.1, TR-AU-410a.2, TR-AU-410a.3). Both industries are required to report on their energy consumption and strategies to improve energy efficiency, reflecting the importance of energy management in sustainability efforts across different sectors.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Automobiles"
+    ],
+    "pages": [
+      "271-272",
+      "610-613"
+    ],
+    "pairing_explanation": "Both industries are highly visible consumer-facing sectors where sustainability reporting on emissions, waste, and resource use is increasingly scrutinized.",
+    "industries": [
+      "b26-restaurants",
+      "b63-automobiles"
+    ]
+  }
+]

@@ -1,0 +1,407 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the three components of the energy management metric (FB-NB-130a.1) for non-alcoholic beverage companies?",
+    "optionA": "Total energy consumed, percentage of solar energy, percentage of wind energy",
+    "optionB": "Operational energy consumed, percentage of nuclear energy, percentage of coal energy",
+    "optionC": "Operational energy consumed, percentage grid electricity, percentage renewable",
+    "optionD": "Total energy produced, percentage of hydroelectric energy, percentage of geothermal energy",
+    "optionE": "Fleet fuel consumed, percentage of biofuels, percentage of natural gas",
+    "answer": "C. Operational energy consumed, percentage grid electricity, percentage renewable",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "247",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the industry description, what are the main product categories in the Non-Alcoholic Beverages industry?",
+    "optionA": "Milk, yogurt, and cheese products",
+    "optionB": "Carbonated soft drinks, syrup concentrates, juices, energy and sport drinks, teas, coffee, and water products",
+    "optionC": "Beer, wine, and spirits",
+    "optionD": "Frozen meals, canned soups, and packaged snacks",
+    "optionE": "Fresh fruits, vegetables, and organic produce",
+    "answer": "B. Carbonated soft drinks, syrup concentrates, juices, energy and sport drinks, teas, coffee, and water products",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "244",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What is the time frame for completing corrective actions for major non-conformances in supplier audits?",
+    "optionA": "30 days",
+    "optionB": "60 days",
+    "optionC": "90 days",
+    "optionD": "120 days",
+    "optionE": "180 days",
+    "answer": "C. 90 days",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "254",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "How is the percentage of beverage ingredients sourced from water-stressed regions calculated?",
+    "optionA": "Volume of ingredients from water-stressed regions divided by total ingredient volume",
+    "optionB": "Number of suppliers in water-stressed regions divided by total number of suppliers",
+    "optionC": "Cost of ingredients from water-stressed regions divided by total ingredient cost",
+    "optionD": "Water consumption in stressed regions divided by total water consumption",
+    "optionE": "Production facilities in water-stressed regions divided by total production facilities",
+    "answer": "C. Cost of ingredients from water-stressed regions divided by total ingredient cost",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "255",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "A non-alcoholic beverage company wants to reduce its environmental impact and operational costs. Which two sustainability topics should they focus on, and how might improvements in these areas be interconnected?",
+    "optionA": "Fleet Fuel Management and Ingredient Sourcing",
+    "optionB": "Energy Management and Water Management",
+    "optionC": "Water Management and Environmental & Social Impacts of Ingredient Supply Chain",
+    "optionD": "Ingredient Sourcing and Fleet Fuel Management",
+    "optionE": "Energy Management and Environmental & Social Impacts of Ingredient Supply Chain",
+    "answer": "B: Energy Management and Water Management",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "245-252",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might a non-alcoholic beverage company's efforts to improve its water management practices potentially impact its greenhouse gas (GHG) emissions?",
+    "optionA": "Water management improvements always reduce GHG emissions",
+    "optionB": "There is no connection between water management and GHG emissions",
+    "optionC": "Water management improvements may increase GHG emissions due to energy-intensive water treatment processes",
+    "optionD": "Water management only affects Scope 3 emissions from the supply chain",
+    "optionE": "Improved water management necessarily leads to increased energy consumption",
+    "answer": "C: Water management improvements may increase GHG emissions due to energy-intensive water treatment processes",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "252",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "A non-alcoholic beverage company is assessing its suppliers' environmental and social responsibility. Which two metrics should they consider together to get a comprehensive view of supplier performance and improvement efforts?",
+    "optionA": "Non-conformance rate and water consumption",
+    "optionB": "Corrective action rate and energy management",
+    "optionC": "Non-conformance rate and corrective action rate",
+    "optionD": "Water stress and supplier location",
+    "optionE": "Ingredient sourcing and fleet fuel management",
+    "answer": "C: Non-conformance rate and corrective action rate",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "253-254",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might a non-alcoholic beverage company's efforts to source ingredients from regions with lower water stress potentially impact its supply chain and operational costs?",
+    "optionA": "It would always lead to lower operational costs",
+    "optionB": "It would have no impact on the supply chain or costs",
+    "optionC": "It could increase supply chain resilience but potentially lead to higher ingredient costs",
+    "optionD": "It would only affect the company's carbon footprint",
+    "optionE": "It would necessarily result in lower quality ingredients",
+    "answer": "C: It could increase supply chain resilience but potentially lead to higher ingredient costs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "255-256",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is the definition of 'renewable fuel' in the context of fleet fuel management for non-alcoholic beverage companies?",
+    "optionA": "Any fuel derived from plant-based sources",
+    "optionB": "Fuel that reduces lifecycle GHG emissions by at least 20% compared to fossil fuels",
+    "optionC": "Electricity generated from solar or wind power",
+    "optionD": "Fuel produced from recycled plastic materials",
+    "optionE": "Any alternative to traditional gasoline or diesel",
+    "answer": "B: Fuel that reduces lifecycle GHG emissions by at least 20% compared to fossil fuels",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "245-246",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "How is 'water consumption' defined in the context of water management for non-alcoholic beverage companies?",
+    "optionA": "The total amount of water withdrawn from all sources",
+    "optionB": "Water used in the production of beverages",
+    "optionC": "Water that evaporates, is incorporated into products, or doesn't return to the same catchment area",
+    "optionD": "The amount of water recycled in the production process",
+    "optionE": "Water discharged after use in operations",
+    "answer": "C: Water that evaporates, is incorporated into products, or doesn't return to the same catchment area",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "249-250",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What constitutes a 'major non-conformance' in suppliers' social and environmental responsibility audits for non-alcoholic beverage companies?",
+    "optionA": "Any violation of local labor laws",
+    "optionB": "Failure to meet product quality standards",
+    "optionC": "Presence of underage workers, forced labor, or immediate life-threatening safety issues",
+    "optionD": "Non-compliance with company's packaging requirements",
+    "optionE": "Delayed delivery of ingredients",
+    "answer": "C: Presence of underage workers, forced labor, or immediate life-threatening safety issues",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "253-254",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is considered a 'priority beverage ingredient' in the context of ingredient sourcing for non-alcoholic beverage companies?",
+    "optionA": "Any ingredient that is organic and sustainably sourced",
+    "optionB": "Ingredients that constitute the largest beverage ingredient expense or are essential to products",
+    "optionC": "Only water, as it is the main ingredient in all beverages",
+    "optionD": "Ingredients that are sourced from regions with low water stress",
+    "optionE": "Any ingredient that is patented by the company",
+    "answer": "B: Ingredients that constitute the largest beverage ingredient expense or are essential to products",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "255-256",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might a non-alcoholic beverage company's approach to renewable energy usage impact its overall energy management strategy?",
+    "optionA": "It only affects the company's carbon footprint",
+    "optionB": "It has no impact on the company's energy strategy",
+    "optionC": "It influences costs, reliability, and environmental impact of energy supply",
+    "optionD": "It only matters for marketing purposes",
+    "optionE": "It exclusively impacts the company's relationship with electricity providers",
+    "answer": "C. It influences costs, reliability, and environmental impact of energy supply",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "247",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "What broader implications does water management have for non-alcoholic beverage companies operating in water-stressed regions?",
+    "optionA": "It only affects the taste of the beverages",
+    "optionB": "It has no significant impact on the company's operations",
+    "optionC": "It may lead to higher profits due to water scarcity",
+    "optionD": "It could impact supply continuity, operational costs, and social license to operate",
+    "optionE": "It only affects the company's marketing strategies",
+    "answer": "D. It could impact supply continuity, operational costs, and social license to operate",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "249",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How does the global nature of ingredient sourcing in the non-alcoholic beverage industry relate to potential environmental and social risks?",
+    "optionA": "It only affects the flavors of the beverages produced",
+    "optionB": "It has no impact on the company's risk profile",
+    "optionC": "It exclusively relates to transportation costs",
+    "optionD": "It may lead to supply chain resilience issues, price fluctuations, and reputational risks",
+    "optionE": "It only impacts the company's marketing strategies in different countries",
+    "answer": "D. It may lead to supply chain resilience issues, price fluctuations, and reputational risks",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "253",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might the non-alcoholic beverage industry's focus on fleet fuel management and energy consumption relate to broader climate change mitigation efforts?",
+    "optionA": "It only affects the company's profit margins",
+    "optionB": "It contributes to reducing overall greenhouse gas emissions and supports global climate goals",
+    "optionC": "It's solely about complying with local transportation regulations",
+    "optionD": "It only impacts the taste and quality of beverages",
+    "optionE": "It's primarily focused on reducing noise pollution from delivery trucks",
+    "answer": "B: It contributes to reducing overall greenhouse gas emissions and supports global climate goals",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "245-247",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the document, what is the specific requirement for renewable fuel used in fleet vehicles to be considered for reporting under the renewable fuel percentage?",
+    "optionA": "It must be produced from renewable biomass",
+    "optionB": "It must reduce fossil fuel usage by at least 50%",
+    "optionC": "It must be carbon-neutral",
+    "optionD": "It must have lifecycle GHG emissions at least 20% less than baseline",
+    "optionE": "It must be derived from plant-based sources only",
+    "answer": "D. It must have lifecycle GHG emissions at least 20% less than baseline",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "245",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the correct procedure for calculating the percentage of renewable energy consumed by a non-alcoholic beverage company, excluding fleet vehicles?",
+    "optionA": "Divide renewable energy by total energy including fleet vehicles",
+    "optionB": "Divide renewable energy by grid electricity consumption",
+    "optionC": "Divide renewable energy consumption by total energy consumption",
+    "optionD": "Subtract non-renewable energy from total energy consumption",
+    "optionE": "Divide renewable energy by operational energy consumed",
+    "answer": "C. Divide renewable energy consumption by total energy consumption",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "247-248",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the correct procedure for determining if a non-alcoholic beverage company's supplier facilities are operating in regions with High or Extremely High Baseline Water Stress?",
+    "optionA": "Use internal company water risk assessments",
+    "optionB": "Consult local government water scarcity reports",
+    "optionC": "Use the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "optionD": "Rely on supplier self-reported water stress levels",
+    "optionE": "Use United Nations water scarcity index",
+    "answer": "C. Use the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "250",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the policy for disclosing water management targets in the Non-Alcoholic Beverages industry?",
+    "optionA": "Only disclose the percentage reduction from the base year",
+    "optionB": "Disclose whether the target is absolute or intensity-based, timelines, and mechanisms for achieving the target",
+    "optionC": "Only disclose the target year and base year",
+    "optionD": "Disclose water management targets only if they have been achieved",
+    "optionE": "There is no specific policy for disclosing water management targets",
+    "answer": "B. Disclose whether the target is absolute or intensity-based, timelines, and mechanisms for achieving the target",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "251-252",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might a non-alcoholic beverage company's investment in renewable energy and energy efficiency measures impact its financial performance and competitive position in the industry?",
+    "optionA": "It would only increase costs without providing any benefits",
+    "optionB": "It would have a neutral effect on both financial performance and competitive position",
+    "optionC": "It could improve short-term profits but harm long-term competitiveness",
+    "optionD": "It might enhance the company's brand image but significantly reduce operational flexibility",
+    "optionE": "It could reduce long-term operational costs, mitigate regulatory risks, and improve brand reputation, potentially leading to a stronger competitive position",
+    "answer": "E. It could reduce long-term operational costs, mitigate regulatory risks, and improve brand reputation, potentially leading to a stronger competitive position",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "247-248",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might a non-alcoholic beverage company's approach to managing its suppliers' social and environmental performance affect its risk profile and market opportunities?",
+    "optionA": "It would have no impact on the company's risk profile or market opportunities",
+    "optionB": "It would only affect the company's short-term supplier relationships",
+    "optionC": "It could increase supply chain costs without providing any benefits",
+    "optionD": "It might improve supplier relations but reduce product quality",
+    "optionE": "It could enhance supply chain resilience, mitigate reputational risks, and potentially create new market opportunities through improved sustainability credentials",
+    "answer": "E. It could enhance supply chain resilience, mitigate reputational risks, and potentially create new market opportunities through improved sustainability credentials",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "253-254",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How could a non-alcoholic beverage company's approach to fleet fuel management and energy consumption in its operations influence its long-term sustainability and market position?",
+    "optionA": "It has no significant impact on the company's sustainability or market position",
+    "optionB": "It only affects the company's short-term operational costs",
+    "optionC": "It could lead to improved efficiency, reduced emissions, and enhanced brand reputation, potentially resulting in a stronger market position and long-term financial benefits",
+    "optionD": "It only matters for compliance with current regulations",
+    "optionE": "The focus should be solely on product quality, not on operational efficiency or sustainability",
+    "answer": "C. It could lead to improved efficiency, reduced emissions, and enhanced brand reputation, potentially resulting in a stronger market position and long-term financial benefits",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "245-247",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT listed as a sustainability disclosure topic for the non-alcoholic beverages industry?",
+    "optionA": "Fleet Fuel Management",
+    "optionB": "Water Management",
+    "optionC": "Energy Management",
+    "optionD": "Ingredient Sourcing",
+    "optionE": "Packaging Lifecycle Management",
+    "answer": "E. Packaging Lifecycle Management",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "244",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a source of water for non-alcoholic beverage companies in the water management section?",
+    "optionA": "Surface water",
+    "optionB": "Groundwater",
+    "optionC": "Rainwater collected directly",
+    "optionD": "Desalinated seawater",
+    "optionE": "Municipal water supplies",
+    "answer": "D. Desalinated seawater",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "249-250",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as an activity metric for the non-alcoholic beverages industry?",
+    "optionA": "Volume of products sold",
+    "optionB": "Number of production facilities",
+    "optionC": "Total fleet road miles traveled",
+    "optionD": "Number of employees",
+    "optionE": "All of the above are mentioned",
+    "answer": "D. Number of employees",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "244",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a strategy for mitigating water management risks in the non-alcoholic beverages industry?",
+    "optionA": "Reducing water withdrawals",
+    "optionB": "Improving the quality of water discharges",
+    "optionC": "Implementing water recycling systems",
+    "optionD": "Investing in desalination plants",
+    "optionE": "Collaborating with local communities on water issues",
+    "answer": "D. Investing in desalination plants",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "251-252",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  }
+]

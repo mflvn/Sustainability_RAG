@@ -1,0 +1,347 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the four major segments of the Engineering & Construction Services industry?",
+    "optionA": "Residential construction, commercial construction, industrial construction, and infrastructure construction",
+    "optionB": "Engineering services, infrastructure construction, non-residential building construction, and building sub-contractors",
+    "optionC": "Architectural design, project management, civil engineering, and mechanical engineering",
+    "optionD": "Highway construction, bridge building, tunnel excavation, and dam construction",
+    "optionE": "Electrical engineering, plumbing services, HVAC installation, and landscaping",
+    "answer": "B. Engineering services, infrastructure construction, non-residential building construction, and building sub-contractors",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Engineering & Construction Services",
+    "page": "321",
+    "industries": [
+      "b33-engineering-and-construction-services"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the industry description, what types of projects are included in the infrastructure construction segment?",
+    "optionA": "Offices, hotels, and retail spaces",
+    "optionB": "Residential buildings and apartment complexes",
+    "optionC": "Power plants, dams, oil and gas pipelines, and highways",
+    "optionD": "Schools, hospitals, and government buildings",
+    "optionE": "Data centers, warehouses, and factories",
+    "answer": "C. Power plants, dams, oil and gas pipelines, and highways",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Engineering & Construction Services",
+    "page": "321",
+    "industries": [
+      "b33-engineering-and-construction-services"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What is the definition of 'rework' as used in the context of defect- and safety-related costs?",
+    "optionA": "Activities that improve the quality of the initial work",
+    "optionB": "Modifications requested by the client or project owner",
+    "optionC": "Activities in the field that have to be done more than once or that remove work previously installed",
+    "optionD": "Routine maintenance and repair work after project completion",
+    "optionE": "Design changes made during the construction phase",
+    "answer": "C. Activities in the field that have to be done more than once or that remove work previously installed",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Engineering & Construction Services",
+    "page": "326",
+    "industries": [
+      "b33-engineering-and-construction-services"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What is the definition of 'backlog' in the Engineering & Construction Services industry?",
+    "optionA": "The total number of projects completed in the current fiscal year",
+    "optionB": "The value of projects not completed as of the close of the reporting period",
+    "optionC": "The amount of revenue generated from ongoing projects",
+    "optionD": "The total number of employees working on active projects",
+    "optionE": "The estimated cost of materials for future projects",
+    "answer": "B. The value of projects not completed as of the close of the reporting period",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Engineering & Construction Services",
+    "page": "331-332",
+    "industries": [
+      "b33-engineering-and-construction-services"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might a company in the Engineering & Construction Services industry demonstrate its commitment to environmental sustainability while also potentially gaining a competitive advantage in project bids?",
+    "optionA": "By focusing solely on hydrocarbon-related projects",
+    "optionB": "By ignoring environmental regulations during construction",
+    "optionC": "By incorporating operational-phase energy and water efficiency considerations into project planning and design",
+    "optionD": "By prioritizing short-term profits over long-term sustainability",
+    "optionE": "By avoiding projects in regions with strict environmental regulations",
+    "answer": "C: By incorporating operational-phase energy and water efficiency considerations into project planning and design",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "329-330",
+    "industries": [
+      "b33-engineering-and-construction-services"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "A company in this industry is facing increased scrutiny over its environmental practices. Which combination of actions would best address this concern while also potentially improving its market position?",
+    "optionA": "Increase defect-related rework and ignore environmental permits",
+    "optionB": "Seek certification for projects under third-party sustainability standards and implement processes to assess environmental risks",
+    "optionC": "Focus exclusively on hydrocarbon-related projects and ignore renewable energy opportunities",
+    "optionD": "Reduce backlog for all types of projects and avoid any environmental considerations",
+    "optionE": "Increase legal proceedings related to safety incidents and ignore climate change impacts",
+    "answer": "B: Seek certification for projects under third-party sustainability standards and implement processes to assess environmental risks",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "323-325, 328-330",
+    "industries": [
+      "b33-engineering-and-construction-services"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "Consider a company that wants to diversify its project portfolio to mitigate climate-related risks. Based on the industry metrics, which combination of actions would best achieve this goal?",
+    "optionA": "Increase backlog for hydrocarbon-related projects and ignore renewable energy projects",
+    "optionB": "Focus solely on structural integrity and safety while ignoring environmental impacts",
+    "optionC": "Reduce backlog for renewable energy projects and increase hydrocarbon-related project cancellations",
+    "optionD": "Increase backlog for renewable energy projects and non-energy projects associated with climate change mitigation",
+    "optionE": "Ignore all sustainability standards and focus only on short-term profits",
+    "answer": "D: Increase backlog for renewable energy projects and non-energy projects associated with climate change mitigation",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "331-334",
+    "industries": [
+      "b33-engineering-and-construction-services"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "If a company in this industry wants to improve its reputation and reduce financial risks related to environmental and safety issues, which combination of actions should it prioritize?",
+    "optionA": "Increase non-compliance incidents and ignore defect-related rework",
+    "optionB": "Focus only on hydrocarbon-related projects and ignore sustainability standards",
+    "optionC": "Reduce incidents of non-compliance with environmental regulations and implement processes to manage environmental risks in project design and construction",
+    "optionD": "Increase monetary losses from legal proceedings and ignore climate impacts of business mix",
+    "optionE": "Avoid all projects related to climate change mitigation and focus solely on traditional construction methods",
+    "answer": "C: Reduce incidents of non-compliance with environmental regulations and implement processes to manage environmental risks in project design and construction",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "323-327",
+    "industries": [
+      "b33-engineering-and-construction-services"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What are 'hydrocarbon-related projects' as defined in the industry metrics?",
+    "optionA": "Projects focused on renewable energy sources",
+    "optionB": "Projects that only involve oil extraction",
+    "optionC": "Any type of project directly associated with the hydrocarbon value chain",
+    "optionD": "Projects that exclusively deal with natural gas transportation",
+    "optionE": "Infrastructure projects for electric vehicles",
+    "answer": "C. Any type of project directly associated with the hydrocarbon value chain",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Engineering & Construction Services",
+    "page": "331-332",
+    "industries": [
+      "b33-engineering-and-construction-services"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "How is 'climate change mitigation' defined in the context of non-energy projects for this industry?",
+    "optionA": "Projects that increase greenhouse gas emissions",
+    "optionB": "Any project that doesn't involve fossil fuels",
+    "optionC": "Projects that only focus on renewable energy",
+    "optionD": "An anthropogenic intervention to reduce the sources or enhance the sinks of greenhouse gases",
+    "optionE": "Projects that exclusively deal with carbon capture",
+    "answer": "D. An anthropogenic intervention to reduce the sources or enhance the sinks of greenhouse gases",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Engineering & Construction Services",
+    "page": "333",
+    "industries": [
+      "b33-engineering-and-construction-services"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What are 'third-party multi-attribute sustainability standards' in the Engineering & Construction Services industry, and what aspects do they typically address?",
+    "optionA": "Standards that only focus on energy efficiency in buildings",
+    "optionB": "Certifications that exclusively address water conservation in infrastructure projects",
+    "optionC": "Guidelines that solely consider the use of sustainable materials in construction",
+    "optionD": "Standards or certifications that address energy efficiency, water conservation, material efficiency, and indoor environmental quality",
+    "optionE": "Regulations that only pertain to the structural integrity of buildings",
+    "answer": "D. Standards or certifications that address energy efficiency, water conservation, material efficiency, and indoor environmental quality",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Engineering & Construction Services",
+    "page": "328-329",
+    "industries": [
+      "b33-engineering-and-construction-services"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might the Engineering & Construction Services industry's approach to environmental risk assessment and management impact a company's competitiveness and growth opportunities?",
+    "optionA": "It has no impact on competitiveness or growth opportunities",
+    "optionB": "It only affects short-term project costs",
+    "optionC": "It can lead to project delays and cancellations, impacting profitability",
+    "optionD": "It exclusively influences government contracts",
+    "optionE": "Effective assessment and management can provide a competitive advantage and reduce financial risks",
+    "answer": "E. Effective assessment and management can provide a competitive advantage and reduce financial risks",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "323-324",
+    "industries": [
+      "b33-engineering-and-construction-services"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "In the context of structural integrity and safety, how are climate change considerations increasingly impacting the Engineering & Construction Services industry?",
+    "optionA": "Climate change has no impact on structural integrity and safety",
+    "optionB": "It only affects projects in coastal areas",
+    "optionC": "It requires companies to focus solely on using eco-friendly materials",
+    "optionD": "Companies must now contemplate potential climate change impacts on project integrity and public safety",
+    "optionE": "Climate change considerations only affect the aesthetics of projects",
+    "answer": "D. Companies must now contemplate potential climate change impacts on project integrity and public safety",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "326",
+    "industries": [
+      "b33-engineering-and-construction-services"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How does the lifecycle impact of buildings and infrastructure create both challenges and opportunities for companies in the Engineering & Construction Services industry?",
+    "optionA": "It only creates challenges with no opportunities",
+    "optionB": "It exclusively affects material suppliers, not construction companies",
+    "optionC": "It creates opportunities for sustainable design and construction services, but poses challenges in meeting evolving regulations",
+    "optionD": "It only impacts residential projects, not commercial or infrastructure",
+    "optionE": "Lifecycle impacts are irrelevant to the industry's operations",
+    "answer": "C. It creates opportunities for sustainable design and construction services, but poses challenges in meeting evolving regulations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "328-329",
+    "industries": [
+      "b33-engineering-and-construction-services"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How does the Engineering & Construction Services industry's business mix related to climate impact create potential risks and opportunities?",
+    "optionA": "It only creates risks with no opportunities",
+    "optionB": "It affects only small companies, not large ones",
+    "optionC": "Exposure to carbon-intensive projects may pose risks, while specialization in GHG mitigation projects could offer competitive advantages",
+    "optionD": "Climate impact considerations are irrelevant to the industry's business mix",
+    "optionE": "It only impacts companies working on international projects",
+    "answer": "C. Exposure to carbon-intensive projects may pose risks, while specialization in GHG mitigation projects could offer competitive advantages",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "331-332",
+    "industries": [
+      "b33-engineering-and-construction-services"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the primary purpose of environmental impact assessments in the Engineering & Construction Services industry?",
+    "optionA": "To increase project costs",
+    "optionB": "To delay project timelines",
+    "optionC": "To understand potential environmental impacts and necessary mitigation activities before a project begins",
+    "optionD": "To reduce the number of workers needed for a project",
+    "optionE": "To increase the use of hazardous materials in construction",
+    "answer": "C. To understand potential environmental impacts and necessary mitigation activities before a project begins",
+    "reference": "Environmental Impacts of Project Development",
+    "page": "323",
+    "industries": [
+      "b33-engineering-and-construction-services"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the industry standards, what should be included in the disclosure of incidents of non-compliance with environmental regulations?",
+    "optionA": "Only incidents that resulted in fines",
+    "optionB": "Only continuous discharge violations",
+    "optionC": "Only incidents directly caused by the entity, excluding subcontractors",
+    "optionD": "All incidents, including one-time violations, continuous discharges, and non-continuous discharges",
+    "optionE": "Only incidents that occurred in the previous fiscal year",
+    "answer": "D. All incidents, including one-time violations, continuous discharges, and non-continuous discharges",
+    "reference": "Environmental Impacts of Project Development",
+    "page": "323-324",
+    "industries": [
+      "b33-engineering-and-construction-services"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What process does the Engineering & Construction Services industry use to incorporate operational-phase energy and water efficiency considerations into project planning and design?",
+    "optionA": "Focusing solely on construction-phase efficiency",
+    "optionB": "Implementing design solutions, technological solutions, and material use modeling",
+    "optionC": "Ignoring long-term cost-benefit analyses",
+    "optionD": "Relying only on minimum building code requirements",
+    "optionE": "Considering only energy efficiency, not water efficiency",
+    "answer": "B. Implementing design solutions, technological solutions, and material use modeling",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "329-330",
+    "industries": [
+      "b33-engineering-and-construction-services"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "How should companies in the Engineering & Construction Services industry disclose monetary losses from legal proceedings associated with defect- and safety-related incidents?",
+    "optionA": "Only disclose fines from regulatory proceedings",
+    "optionB": "Include all monetary liabilities, excluding legal fees for defense",
+    "optionC": "Report only civil judgments and settlements",
+    "optionD": "Disclose only criminal penalties and restitution",
+    "optionE": "Include legal fees but exclude monetary liabilities",
+    "answer": "B. Include all monetary liabilities, excluding legal fees for defense",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "327",
+    "industries": [
+      "b33-engineering-and-construction-services"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "What are the potential implications of incorporating sustainability standards into engineering and construction projects?",
+    "optionA": "It only increases project costs with no tangible benefits",
+    "optionB": "It is irrelevant to the industry's core business",
+    "optionC": "It may provide competitive advantages and new revenue opportunities while addressing environmental concerns",
+    "optionD": "It only applies to government-funded projects",
+    "optionE": "It exclusively focuses on reducing water consumption",
+    "answer": "C: It may provide competitive advantages and new revenue opportunities while addressing environmental concerns",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Engineering & Construction Services",
+    "page": "328-330",
+    "industries": [
+      "b33-engineering-and-construction-services"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the disclosure of backlog for hydrocarbon-related projects and renewable energy projects affect stakeholder perceptions and company valuations?",
+    "optionA": "It has no impact on stakeholder perceptions or valuations",
+    "optionB": "It only matters for companies exclusively focused on renewable energy",
+    "optionC": "It may influence investment decisions and valuations based on perceived future risks and opportunities related to climate change",
+    "optionD": "It only affects government contracts",
+    "optionE": "It is solely used for internal company planning",
+    "answer": "C: It may influence investment decisions and valuations based on perceived future risks and opportunities related to climate change",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Engineering & Construction Services",
+    "page": "331-333",
+    "industries": [
+      "b33-engineering-and-construction-services"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as an environmental risk associated with project design, siting, and construction in the document?",
+    "optionA": "Ecological impacts",
+    "optionB": "Biodiversity impacts",
+    "optionC": "Emissions to air",
+    "optionD": "Noise pollution",
+    "optionE": "Waste management",
+    "answer": "D. Noise pollution",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "324",
+    "industries": [
+      "b33-engineering-and-construction-services"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT included in the definition of backlog cancellations according to the document?",
+    "optionA": "Cancellations due to a customer's failure to obtain necessary project permitting",
+    "optionB": "Cancellations due to a customer's failure to obtain financing",
+    "optionC": "Cancellations due to a customer's voluntary project cancellation",
+    "optionD": "Reductions in project scope due to financial constraints",
+    "optionE": "Cancellations due to currency exchange rate fluctuations",
+    "answer": "E. Cancellations due to currency exchange rate fluctuations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "332",
+    "industries": [
+      "b33-engineering-and-construction-services"
+    ]
+  }
+]

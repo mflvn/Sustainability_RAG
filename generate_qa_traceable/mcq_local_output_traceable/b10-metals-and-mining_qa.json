@@ -1,0 +1,166 @@
+[
+  {
+    "question": "What is the code for the metric on Greenhouse Gas Emissions related to a company's strategy and targets in the Metals & Mining industry?",
+    "optionA": "EM-MM-110a.1",
+    "optionB": "EM-MM-110a.2",
+    "optionC": "EM-MM-130a.1",
+    "optionD": "EM-MM-140a.1",
+    "optionE": "EM-MM-140a.2",
+    "answer": "B",
+    "pages": [
+      "84"
+    ],
+    "reference_text": [
+      "EM-MM-110a.2. Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "question": "What category is the metric 'Total number of employees, percentage contractors' under in the Metals & Mining industry?",
+    "optionA": "Quantitative",
+    "optionB": "Discussion and Analysis",
+    "optionC": "Qualitative",
+    "optionD": "Descriptive",
+    "optionE": "Narrative",
+    "answer": "A",
+    "pages": [
+      "81"
+    ],
+    "reference_text": [
+      "Total number of employees, percentage contractors | Quantitative |"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "question": "According to the document, what should a company in the Metals & Mining industry disclose for the metric 'Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations'?",
+    "optionA": "Its gross global Scope 1 GHG emissions and the percentage covered under emissions-limiting regulations.",
+    "optionB": "Only its gross global Scope 1 GHG emissions.",
+    "optionC": "Only the percentage of emissions covered under emissions-limiting regulations.",
+    "optionD": "Its total energy consumed and percentage from renewable sources.",
+    "optionE": "Its water withdrawal and consumption in areas of high water stress.",
+    "answer": "A",
+    "pages": [
+      "82",
+      "83"
+    ],
+    "reference_text": [
+      "The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol...",
+      "The entity shall disclose the percentage of its gross global Scope 1 GHG emissions that are covered under an emissions-limiting regulation or program that is intended to directly limit or reduce emissions, such as cap-and-trade schemes, carbon tax/fee systems, and other emissions control (e.g., command-and-control approach) and permit-based mechanisms."
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "question": "What unit of measure should be used for the metric '(1) Total fresh water withdrawn, (2) total fresh water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress' in the Metals & Mining industry?",
+    "optionA": "Metric tons (t)",
+    "optionB": "Gigajoules (GJ)",
+    "optionC": "Thousand cubic meters (m\u00b3)",
+    "optionD": "Number",
+    "optionE": "Percentage (%)",
+    "answer": "C",
+    "pages": [
+      "88"
+    ],
+    "reference_text": [
+      "(1) Total fresh water withdrawn, (2) total fresh water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%)"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "question": "What is the category of the 'Number of incidents of non-compliance associated with water quality permits, standards, and regulations' metric in the Metals & Mining industry and how should this metric be calculated?",
+    "optionA": "The category is Quantitative. This metric should be calculated by disclosing the total number of instances of non-compliance, including violations of a technology-based standard and exceedances of quality-based standards governed by permits and regulations.",
+    "optionB": "The category is Discussion and Analysis. This metric requires a narrative discussion of the company's strategy to manage water quality compliance.",
+    "optionC": "The category is Quantitative. This metric should be calculated by disclosing the total volume of water discharged that violated permits or standards.",
+    "optionD": "The category is Quantitative. This metric should be calculated by disclosing the total fines or penalties paid for water quality violations.",
+    "optionE": "The category is Discussion and Analysis. This metric requires a discussion of the company's process for obtaining water quality permits.",
+    "answer": "A",
+    "reference_text": [
+      "EM-MM-140a.2. Number of incidents of non-compliance associated with water quality permits, standards, and regulations",
+      "1 The entity shall disclose the total number of instances of non-compliance, including violations of a technology-based standard and exceedances of quality-based standards."
+    ],
+    "pages": [
+      "89"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "question": "Can you provide the unit of measure for all the metrics for the 'Greenhouse Gas Emissions' topic in the Metals & Mining industry?",
+    "optionA": "Metric tons (t) CO2-e, Percentage (%)",
+    "optionB": "Metric tons (t) CO2-e, Number",
+    "optionC": "Gigajoules (GJ), Percentage (%)",
+    "optionD": "Thousand cubic meters (m\u00b3), Percentage (%)",
+    "optionE": "Number, Percentage (%)",
+    "answer": "A",
+    "reference_text": [
+      "Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO2-e, Percentage (%) | EM-MM-110a.1",
+      "Greenhouse Gas Emissions | Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a | EM-MM-110a.2"
+    ],
+    "pages": [
+      "81"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "question": "What is the code for the '(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable' metric in the Metals & Mining industry and how should this metric be disclosed?",
+    "optionA": "The code is EM-MM-130a.1. This metric should be disclosed by providing (1) the total amount of energy consumed in gigajoules, (2) the percentage of energy from grid electricity, and (3) the percentage of renewable energy consumed.",
+    "optionB": "The code is EM-MM-140a.1. This metric should be disclosed by providing the total fresh water withdrawn and consumed, with percentages in regions with high water stress.",
+    "optionC": "The code is EM-MM-110a.2. This metric requires a discussion of the company's strategy, targets and performance for managing Scope 1 emissions.",
+    "optionD": "The code is EM-MM-000.A. This metric requires disclosure of production volumes for metal ores and finished products.",
+    "optionE": "The code is EM-MM-000.B. This metric requires disclosure of the total number of employees and percentage of contractors.",
+    "answer": "A",
+    "reference_text": [
+      "EM-MM-130a.1. (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable",
+      "1 The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ).",
+      "2 The entity shall disclose (2) the percentage of energy it consumed that was supplied from grid electricity.",
+      "3 The entity shall disclose (3) the percentage of energy it consumed that is renewable energy."
+    ],
+    "pages": [
+      "86",
+      "87"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "question": "Can you tell me if I reported the 'Water Management' topic correctly for the Metals & Mining industry based on the following disclosure: 'Our total fresh water withdrawal was 5,000,000 m3, of which 20% was in regions with high water stress. Our total fresh water consumption was 2,500,000 m3, of which 15% was in high water stress areas. We had 3 incidents of non-compliance with water quality permits during the year.'",
+    "optionA": "Yes, your disclosure for the Water Management topic appears to be correct based on the metrics and requirements specified.",
+    "optionB": "No, your disclosure is missing the required breakdown of fresh water withdrawn and consumed specifically in regions with Extremely High Baseline Water Stress.",
+    "optionC": "No, your disclosure should report fresh water withdrawn and consumed in thousand cubic meter units, not just cubic meters.",
+    "optionD": "No, the number of non-compliance incidents disclosed does not provide enough context on the types of violations or regulations involved as required.",
+    "optionE": "No, your disclosure is missing a listing of the specific facilities located in high water stress areas as required.",
+    "answer": "B",
+    "reference_text": [
+      "EM-MM-140a.1. (1) Total fresh water withdrawn, (2) total fresh water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress",
+      "3 The entity shall analyze all of its operations for water risks and identify activities that withdraw and consume water in locations with High (40-80%) or Extremely High (>80%) Baseline Water Stress as classified by the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct.",
+      "4 The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn.",
+      "5 The entity shall disclose its water consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water consumed."
+    ],
+    "pages": [
+      "88",
+      "89"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  }
+]

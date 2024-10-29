@@ -1,0 +1,20 @@
+llama_index 
+anthropic
+python-dotenv
+# PyPDF2
+pymupdf
+llama-index-vector-stores-pinecone
+pinecone-client[grpc]
+sentence-transformers
+scikit-learn
+deepeval
+llama-index-llms-together
+# uptrain
+rouge_score
+openai
+numpy
+pandas
+together
+llama-index-llms-anthropic
+llama-index-llms-together
+llama-index-llms-openai

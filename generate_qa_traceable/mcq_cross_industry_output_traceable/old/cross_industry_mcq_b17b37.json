@@ -1,0 +1,191 @@
+[
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for the Insurance and Real Estate Services industries.",
+    "optionA": "FN-IN-410a.2, FN-IN-410b.2, FN-IN-450a.3, FN-IN-5",
+    "optionB": "IF-RS-410a.1, FN-IN-410a.2, FN-IN-410b.2, FN-IN-450a.3, FN-IN-5",
+    "optionC": "FN-IN-450a.3, FN-IN-5",
+    "optionD": "FN-IN-410a.2, FN-IN-410b.2, FN-IN-450a.3",
+    "optionE": "<UNKNOWN>",
+    "answer": "D",
+    "reference_text": [
+      "FN-IN-410a.2. Description of approach to incorporation of environmental, social, and governance (ESG) factors in investment management processes and strategies",
+      "FN-IN-410b.2. Discussion of products and/or product features that incentivize health, safety, and/or environmentally responsible actions and/or behaviors",
+      "FN-IN-450a.3. Description of approach to incorporation of environmental risks into (1) the underwriting process for individual contracts and (2) the management of firm-level risks and capital adequacy"
+    ],
+    "pages": [
+      "159_b1",
+      "161_b1",
+      "166_b1"
+    ],
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ],
+    "pairing_explanation": "Insurance companies assess risks associated with property, linking sustainability to real estate services through climate risk and resilience planning.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "What are the common metrics shared between the Insurance and Real Estate Services industries in Table 1?",
+    "optionA": "There are no common metrics shared between the two industries.",
+    "optionB": "FN-IN-410a.2, FN-IN-410b.2",
+    "optionC": "FN-IN-450a.3, FN-IN-5",
+    "optionD": "IF-RS-410a.1, FN-IN-410a.2, FN-IN-410b.2, FN-IN-450a.3, FN-IN-5",
+    "optionE": "<UNKNOWN>",
+    "answer": "A",
+    "reference_text": [
+      "Table 1 for the Insurance industry lists different metrics than Table 1 for the Real Estate Services industry, with no overlapping metrics."
+    ],
+    "pages": [
+      "158_b1",
+      "393_b3"
+    ],
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ],
+    "pairing_explanation": "Insurance companies assess risks associated with property, linking sustainability to real estate services through climate risk and resilience planning.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "List the activity metrics for the Insurance and Real Estate Services industries.",
+    "optionA": "For Insurance: FN-IN-000.A. For Real Estate Services: IF-RS-000.A, IF-RS-000.B, IF-RS-000.C, IF-RS-000.D, IF-RS-000.E",
+    "optionB": "For Insurance: Number of policies in force, by segment: (1) property and casualty, (2) life, (3) assumed reinsurance. For Real Estate Services: Number of property management clients, categorized by: (1) tenants and (2) real estate owners, Floor area under management with owner operational control, Number of buildings under management with owner operational control, Number of leases transacted, categorized by: (1) tenants and (2) real estate owners, Number of appraisals provided",
+    "optionC": "For Insurance: Number of policies in force, by segment: (1) property and casualty, (2) life, (3) assumed reinsurance. For Real Estate Services: IF-RS-000.A, IF-RS-000.B, IF-RS-000.C, IF-RS-000.D, IF-RS-000.E",
+    "optionD": "For Insurance: FN-IN-000.A. For Real Estate Services: Number of property management clients, categorized by: (1) tenants and (2) real estate owners, Floor area under management with owner operational control, Number of buildings under management with owner operational control, Number of leases transacted, categorized by: (1) tenants and (2) real estate owners, Number of appraisals provided",
+    "optionE": "<UNKNOWN>",
+    "answer": "B",
+    "reference_text": [
+      "For Insurance industry: Number of policies in force, by segment: (1) property and casualty, (2) life, (3) assumed reinsurance",
+      "For Real Estate Services industry: Number of property management clients, categorized by: (1) tenants and (2) real estate owners, Floor area under management with owner operational control, Number of buildings under management with owner operational control, Number of leases transacted, categorized by: (1) tenants and (2) real estate owners, Number of appraisals provided"
+    ],
+    "pages": [
+      "157_b1",
+      "391_b3",
+      "392_b3"
+    ],
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ],
+    "pairing_explanation": "Insurance companies assess risks associated with property, linking sustainability to real estate services through climate risk and resilience planning.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between the Insurance and Real Estate Services industries?",
+    "optionA": "The Insurance industry has more quantitative metrics.",
+    "optionB": "The Real Estate Services industry has more quantitative metrics.",
+    "optionC": "Both industries have the same number of quantitative metrics.",
+    "optionD": "Not enough information is provided to determine which industry has more quantitative metrics.",
+    "optionE": "<UNKNOWN>",
+    "answer": "B",
+    "reference_text": [
+      "For the Insurance industry, Table 1 lists 10 quantitative metrics: FN-IN-410b.1, FN-IN-450a.1, FN-IN-450a.2, FN-IN-1, FN-IN-2, FN-IN-3, FN-IN-4. For the Real Estate Services industry, Table 1 lists 6 quantitative metrics: IF-RS-410a.1, IF-RS-410a.2, IF-RS-410a.3."
+    ],
+    "pages": [
+      "155_b1",
+      "393_b3"
+    ],
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ],
+    "pairing_explanation": "Insurance companies assess risks associated with property, linking sustainability to real estate services through climate risk and resilience planning.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for the Insurance and Real Estate Services industries.",
+    "optionA": "FN-IN-410b.1, FN-IN-450a.1, FN-IN-450a.2, FN-IN-1, FN-IN-2, FN-IN-3, FN-IN-4, IF-RS-410a.1, IF-RS-410a.2, IF-RS-410a.3, IF-RS-000.A, IF-RS-000.B, IF-RS-000.C, IF-RS-000.D, IF-RS-000.E",
+    "optionB": "FN-IN-410a.2, FN-IN-410b.2, FN-IN-450a.3, IF-RS-410a.1, IF-RS-410a.2, IF-RS-410a.3",
+    "optionC": "FN-IN-410b.1, FN-IN-450a.1, FN-IN-450a.2, FN-IN-1, FN-IN-2, FN-IN-3, FN-IN-4, IF-RS-000.A, IF-RS-000.B, IF-RS-000.C, IF-RS-000.D, IF-RS-000.E",
+    "optionD": "FN-IN-410b.2, FN-IN-450a.3, IF-RS-410a.1, IF-RS-410a.2, IF-RS-410a.3",
+    "optionE": "<UNKNOWN>",
+    "answer": "C",
+    "pages": [
+      "159_b17",
+      "391_b37"
+    ],
+    "reference_text": [
+      "Table 1. Sustainability Disclosure Topics & Metrics: FN-IN-410b.1, FN-IN-450a.1, FN-IN-450a.2, FN-IN-1, FN-IN-2, FN-IN-3, FN-IN-4",
+      "Table 2. Activity Metrics: FN-IN-000.A",
+      "Table 1. Sustainability Disclosure Topics & Metrics: IF-RS-410a.1, IF-RS-410a.2, IF-RS-410a.3",
+      "Table 2. Activity Metrics: IF-RS-000.A, IF-RS-000.B, IF-RS-000.C, IF-RS-000.D, IF-RS-000.E"
+    ],
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ],
+    "pairing_explanation": "Insurance companies assess risks associated with property, linking sustainability to real estate services through climate risk and resilience planning.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "What units of measurement are used across the Insurance and Real Estate Services industries for measuring floor area?",
+    "optionA": "Square miles (mi\u00b2), Number",
+    "optionB": "Acres, Number",
+    "optionC": "Hectares, Number",
+    "optionD": "Square feet (ft\u00b2), Number",
+    "optionE": "<UNKNOWN>",
+    "answer": "D",
+    "pages": [
+      "159_b17",
+      "391_b37",
+      "394_b37"
+    ],
+    "reference_text": [
+      "IF-RS-410a.2: (1) Floor area and (2) number of buildings under management provided with energy and sustainability services: Square feet (ft\u00b2), Number",
+      "IF-RS-410a.3: (1) Floor area and (2) number of buildings under management that obtained an energy rating: Square feet (ft\u00b2), Number",
+      "IF-RS-000.B: Floor area under management with owner operational control 56: Square feet (ft\u00b2)"
+    ],
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ],
+    "pairing_explanation": "Insurance companies assess risks associated with property, linking sustainability to real estate services through climate risk and resilience planning.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Are there any common sustainability topics between the Insurance and Real Estate Services industries, and if so, how do their reporting requirements differ?",
+    "optionA": "No, there are no common sustainability topics between the two industries.",
+    "optionB": "Yes, both industries have a common 'Sustainability Services' topic, but the reporting metrics differ. The Insurance industry does not have quantitative metrics for this topic, while the Real Estate Services industry has quantitative metrics for revenue, floor area, and number of buildings related to sustainability services.",
+    "optionC": "Yes, both industries have a common 'Environmental Risk Exposure' topic, but the reporting requirements are exactly the same for both industries.",
+    "optionD": "Yes, both industries have a common 'Transition Risk Exposure' topic, and the reporting requirements are identical with no differences between the two industries.",
+    "optionE": "<UNKNOWN>",
+    "answer": "B",
+    "pages": [
+      "159_b17",
+      "393_b37"
+    ],
+    "reference_text": [
+      "The Insurance industry does not have any 'Quantitative' metrics listed under the 'Policies Designed to Incentivize Responsible Behavior' topic in Table 1.",
+      "The Real Estate Services industry has the following 'Quantitative' metrics under the 'Sustainability Services' topic in Table 1: IF-RS-410a.1 'Revenue from energy and sustainability services', IF-RS-410a.2 '(1) Floor area and (2) number of buildings under management provided with energy and sustainability services', IF-RS-410a.3 '(1) Floor area and (2) number of buildings under management that obtained an energy rating'"
+    ],
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ],
+    "pairing_explanation": "Insurance companies assess risks associated with property, linking sustainability to real estate services through climate risk and resilience planning.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "When preparing sustainability reports, how do the metrics for measuring transition risk exposure differ between the Insurance and Real Estate Services industries?",
+    "optionA": "The Insurance industry has more quantitative metrics related to transition risk exposure compared to the Real Estate Services industry.",
+    "optionB": "Both industries have the same set of quantitative metrics related to transition risk exposure.",
+    "optionC": "The Real Estate Services industry does not have any metrics related to transition risk exposure.",
+    "optionD": "The Real Estate Services industry has more discussion and analysis based metrics related to transition risk exposure compared to the Insurance industry.",
+    "optionE": "<UNKNOWN>",
+    "answer": "A",
+    "pages": [
+      "159_b17",
+      "168_b17"
+    ],
+    "reference_text": [
+      "The Insurance industry has the following quantitative metrics listed under 'Transition Risk Exposure' in Table 1: FN-IN-1, FN-IN-2, FN-IN-3, FN-IN-4",
+      "The Real Estate Services industry does not have any metrics listed under 'Transition Risk Exposure' in Table 1."
+    ],
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ],
+    "pairing_explanation": "Insurance companies assess risks associated with property, linking sustainability to real estate services through climate risk and resilience planning.",
+    "qa_type": "multi_hop"
+  }
+]

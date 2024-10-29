@@ -1,0 +1,146 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When disclosing energy consumption for the Aerospace & Defense and Marine Transportation industries, which of the following is a key difference in the required breakdown of energy sources?",
+    "optionA": "Aerospace & Defense must report percentage of nuclear energy, while Marine Transportation does not",
+    "optionB": "Marine Transportation must report percentage of heavy fuel oil, while Aerospace & Defense does not",
+    "optionC": "Aerospace & Defense must report percentage of coal consumption, while Marine Transportation does not",
+    "optionD": "Marine Transportation must report percentage of natural gas, while Aerospace & Defense does not",
+    "optionE": "Both industries have identical energy source breakdown requirements",
+    "answer": "B: Marine Transportation must report percentage of heavy fuel oil, while Aerospace & Defense does not",
+    "explanation": "According to the IFRS standards, the Marine Transportation industry specifically requires reporting the percentage of heavy fuel oil consumed (TR-MT-110a.3), while the Aerospace & Defense industry does not have this requirement. Instead, Aerospace & Defense focuses on grid electricity and renewable energy percentages (RT-AE-130a.1).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Aerospace & Defense",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Marine Transportation"
+    ],
+    "pages": [
+      "489",
+      "628"
+    ],
+    "pairing_explanation": "Transportation-focused industries with sustainability issues in fuel efficiency, emissions, and overall environmental impact.",
+    "industries": [
+      "b46-aerospace-and-defense",
+      "b66-marine-transportation"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "Which of the following metrics is required for both the Aerospace & Defense and Marine Transportation industries when reporting on energy consumption?",
+    "optionA": "Percentage of nuclear energy consumed",
+    "optionB": "Percentage of coal energy consumed",
+    "optionC": "Percentage of renewable energy consumed",
+    "optionD": "Percentage of natural gas consumed",
+    "optionE": "Percentage of hydroelectric energy consumed",
+    "answer": "C: Percentage of renewable energy consumed",
+    "explanation": "Both the Aerospace & Defense industry (RT-AE-130a.1) and the Marine Transportation industry (TR-MT-110a.3) require reporting the percentage of renewable energy consumed as part of their energy consumption disclosures. This metric is common to both industries, reflecting the growing importance of renewable energy in sustainability reporting across different sectors.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Aerospace & Defense",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Marine Transportation"
+    ],
+    "pages": [
+      "489",
+      "628"
+    ],
+    "pairing_explanation": "Transportation-focused industries with sustainability issues in fuel efficiency, emissions, and overall environmental impact.",
+    "industries": [
+      "b46-aerospace-and-defense",
+      "b66-marine-transportation"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of renewable energy consumed for both Aerospace & Defense and Marine Transportation industries, which of the following sources would NOT be included in the scope of renewable energy?",
+    "optionA": "On-site generated solar power with retained RECs",
+    "optionB": "Purchased wind power through a PPA with explicit inclusion of RECs",
+    "optionC": "Biomass energy from Forest Stewardship Council certified materials",
+    "optionD": "Hydroelectric power from a Green-e Energy Certified utility program",
+    "optionE": "The renewable portion of the electricity grid mix outside the entity's control",
+    "answer": "E: The renewable portion of the electricity grid mix outside the entity's control",
+    "explanation": "For both industries, the scope of renewable energy explicitly excludes the renewable portion of the electricity grid mix that is outside of the control or influence of the entity. This ensures that companies only report on renewable energy they have actively chosen to use or produce.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Aerospace & Defense",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Marine Transportation"
+    ],
+    "pages": [
+      "489",
+      "629"
+    ],
+    "pairing_explanation": "Transportation-focused industries with sustainability issues in fuel efficiency, emissions, and overall environmental impact.",
+    "industries": [
+      "b46-aerospace-and-defense",
+      "b66-marine-transportation"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When reporting on greenhouse gas (GHG) emissions for both Aerospace & Defense and Marine Transportation industries, which of the following is a key difference in the required metrics?",
+    "optionA": "Aerospace & Defense must report Scope 2 emissions, while Marine Transportation does not",
+    "optionB": "Marine Transportation must report Scope 1 emissions, while Aerospace & Defense does not",
+    "optionC": "Aerospace & Defense must report emissions from product use, while Marine Transportation does not",
+    "optionD": "Marine Transportation must report the Energy Efficiency Design Index (EEDI), while Aerospace & Defense does not",
+    "optionE": "Both industries have identical GHG emission reporting requirements",
+    "answer": "D: Marine Transportation must report the Energy Efficiency Design Index (EEDI), while Aerospace & Defense does not",
+    "explanation": "The Marine Transportation industry specifically requires reporting the average Energy Efficiency Design Index (EEDI) for new ships (TR-MT-110a.4), which is a measure of CO2 emissions per ton-nautical mile. This metric is unique to the shipping industry and is not required for Aerospace & Defense reporting.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Aerospace & Defense",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Marine Transportation"
+    ],
+    "pages": [
+      "490",
+      "629"
+    ],
+    "pairing_explanation": "Transportation-focused industries with sustainability issues in fuel efficiency, emissions, and overall environmental impact.",
+    "industries": [
+      "b46-aerospace-and-defense",
+      "b66-marine-transportation"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the Aerospace & Defense and Marine Transportation industries differ in their approach to reporting on strategies for reducing emissions?",
+    "optionA": "Only Aerospace & Defense is required to discuss emission reduction strategies",
+    "optionB": "Only Marine Transportation is required to discuss emission reduction strategies",
+    "optionC": "Aerospace & Defense focuses on product emissions, while Marine Transportation focuses on operational emissions",
+    "optionD": "Marine Transportation must set specific numerical targets, while Aerospace & Defense does not",
+    "optionE": "Both industries have identical requirements for reporting emission reduction strategies",
+    "answer": "C: Aerospace & Defense focuses on product emissions, while Marine Transportation focuses on operational emissions",
+    "explanation": "The Aerospace & Defense industry is required to discuss strategies to address fuel economy and GHG emissions of products (RT-AE-410a.2), focusing on the use-phase emissions of their products. In contrast, the Marine Transportation industry must discuss strategies to manage Scope 1 emissions (TR-MT-110a.2), which are primarily related to their operational emissions from vessel operations.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Aerospace & Defense",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Marine Transportation"
+    ],
+    "pages": [
+      "490",
+      "626"
+    ],
+    "pairing_explanation": "Transportation-focused industries with sustainability issues in fuel efficiency, emissions, and overall environmental impact.",
+    "industries": [
+      "b46-aerospace-and-defense",
+      "b66-marine-transportation"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "Which of the following statements accurately reflects a key difference in sustainability reporting between the Aerospace & Defense and Marine Transportation industries?",
+    "optionA": "Only Aerospace & Defense must report on waste management practices",
+    "optionB": "Only Marine Transportation must report on water consumption",
+    "optionC": "Aerospace & Defense must report on alternative energy-related product revenue, while Marine Transportation does not have a similar requirement",
+    "optionD": "Marine Transportation must report on biodiversity impacts, while Aerospace & Defense does not",
+    "optionE": "Both industries have identical sustainability reporting requirements",
+    "answer": "C: Aerospace & Defense must report on alternative energy-related product revenue, while Marine Transportation does not have a similar requirement",
+    "explanation": "The Aerospace & Defense industry is specifically required to report revenue from alternative energy-related products (RT-AE-410a.1), which reflects the industry's focus on developing more sustainable technologies. The Marine Transportation industry does not have a directly comparable metric, instead focusing on operational efficiency and emissions.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Aerospace & Defense",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Marine Transportation"
+    ],
+    "pages": [
+      "490",
+      "625"
+    ],
+    "pairing_explanation": "Transportation-focused industries with sustainability issues in fuel efficiency, emissions, and overall environmental impact.",
+    "industries": [
+      "b46-aerospace-and-defense",
+      "b66-marine-transportation"
+    ]
+  }
+]

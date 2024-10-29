@@ -1,0 +1,186 @@
+[
+  {
+    "qa_type": "single_hop",
+    "question": "What is the code of the 'Total greenhouse gas (GHG) footprint of product shipments' metric in the E-Commerce industry (as listed in the relevant table)?",
+    "optionA": "CG-EC-410a.1",
+    "optionB": "CG-EC-410a.2",
+    "optionC": "CG-EC-130a.1",
+    "optionD": "CG-EC-130a.2",
+    "optionE": "CG-EC-130a.B",
+    "answer": "A",
+    "reference_text": [
+      "| Product Packaging & Distribution | Total greenhouse gas (GHG) footprint of product shipments | Quantitative | Metric tons (t) CO\u2082-e | CG-EC-410a.1 |"
+    ],
+    "pages": [
+      "25"
+    ],
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "Can you provide for me the unit of measure I should use for the 'Data processing capacity, percentage outsourced' metric in the E-Commerce industry?",
+    "optionA": "Number",
+    "optionB": "Percentage (%)",
+    "optionC": "Gigajoules (GJ)",
+    "optionD": "units of measure typically tracked",
+    "optionE": "n/a",
+    "answer": "D",
+    "reference_text": [
+      "| Data processing capacity, percentage outsourced \u2077 | Quantitative | See note | CG-EC-000.B |"
+    ],
+    "pages": [
+      "25"
+    ],
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "For the listed 'Total energy consumed' requirement, what does a company in the E-Commerce industry need to do?",
+    "optionA": "Disclose the total amount of energy consumed as an aggregate figure, in kilowatt-hours (kWh)",
+    "optionB": "Disclose the total amount of energy consumed as an aggregate figure, in gigajoules (GJ)",
+    "optionC": "Disclose the total amount of energy consumed as separate figures for each energy source",
+    "optionD": "Disclose the total amount of energy consumed as a percentage of renewable energy",
+    "optionE": "Disclose the total amount of energy consumed as a percentages for each energy source",
+    "answer": "B",
+    "reference_text": [
+      "1. The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ)."
+    ],
+    "pages": [
+      "27"
+    ],
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What topics are covered in the 'Hardware Infrastructure Energy & Water Management' section of the E-Commerce document?",
+    "optionA": "Energy consumption, water consumption, and data center efficiency",
+    "optionB": "Product packaging, distribution, and carbon footprint",
+    "optionC": "User activity metrics and data processing capacity",
+    "optionD": "Environmental considerations for strategic planning",
+    "optionE": "Data processing capacity, percentage outsourced",
+    "answer": "A",
+    "reference_text": [
+      "A large part of the energy consumed by the E-Commerce industry is used to power critical hardware and IT infrastructure in data centers. Data centers need to be powered continuously, and disruptions to the energy supply can have a material impact on operations, depending on the magnitude and timing of the disruption. Companies also face a tradeoff when it comes to energy and water consumption for their data center cooling needs: Cooling data centers with water instead of chillers is a means of improving energy efficiency, but it can lead to dependence on significant local water resources."
+    ],
+    "pages": [
+      "27"
+    ],
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the category of the 'Total greenhouse gas (GHG) footprint of product shipments' metric in the E-Commerce industry, and how should this metric be calculated?",
+    "optionA": "Quantitative; Calculate using the well-to-wheel methodology for all outbound shipments",
+    "optionB": "Qualitative; Estimate based on average shipping distances and vehicle types",
+    "optionC": "Quantitative; Calculate using the tank-to-wheels methodology for all outbound shipments according to EN 16258:2012",
+    "optionD": "Discussion and Analysis; Provide a narrative description of GHG emissions from shipping",
+    "optionE": "Qualitative; Provide a list of GHG emissions from shipping ",
+    "answer": "C",
+    "reference_text": [
+      "CG-EC-410a.1. Total greenhouse gas (GHG) footprint of product shipments",
+      "1. The entity shall disclose the complete tank-to-wheels greenhouse gas (GHG) footprint, in metric tons of CO\u2082-e, associated with outbound shipment of the entity's products.",
+      "1.2 The entity shall calculate its disclosure according to EN 16258:2012, Methodology for calculation and declaration of energy consumption and GHG emissions of transport services (freight and passengers).",
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "| Product Packaging & Distribution | Total greenhouse gas (GHG) footprint of product shipments | Quantitative | Metric tons (t) CO\u2082-e | CG-EC-410a.1 |"
+    ],
+    "pages": [
+      "31",
+      "32"
+    ],
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "Can you provide the unit of measure for all the metrics for the 'Hardware Infrastructure Energy & Water Management' topic in the E-Commerce industry and how should these metrics be calculated?",
+    "optionA": "All metrics use percentage (%); Calculate based on industry averages",
+    "optionB": "Gigajoules (GJ) and Thousand cubic meters (m\u00b3); Calculate total consumption and percentages as specified in the guidelines",
+    "optionC": "Kilowatt-hours (kWh) and Liters (L); Calculate based on utility bills",
+    "optionD": "Percentage (%) only",
+    "optionE": "No specific unit of measure; Provide qualitative descriptions only",
+    "answer": "B",
+    "reference_text": [
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "| Hardware Infrastructure Energy & Water Management | (1) Total energy consumed, (2) percent- age grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | CG-EC-130a.1 |",
+      "| Hardware Infrastructure Energy & Water Management | (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percent- age (%) | CG-EC-130a.2 |",
+      "1. The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ).",
+      "2. The entity shall disclose (2) the percentage of energy it consumed that was supplied from grid electricity.",
+      "3. The entity shall disclose (3) the percentage of energy it consumed that is renewable energy.",
+      "1. The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from all sources.",
+      "3. The entity shall disclose the amount of water, in thousands of cubic meters, that was consumed in its operations."
+    ],
+    "pages": [
+      "25",
+      "27",
+      "28",
+      "29"
+    ],
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the code of the 'Discussion of strategies to reduce the environmental impact of product delivery' metric in the E-Commerce industry and how should this metric be disclosed?",
+    "optionA": "CG-EC-410a.1; Disclose quantitative data on emissions reduction targets",
+    "optionB": "CG-EC-410a.2; Disclose quantitative data on emissions reduction targets",
+    "optionC": "CG-EC-410a.2; Discuss strategies for reducing environmental impact of fulfillment and delivery, including packaging and transportation",
+    "optionD": "CG-EC-130a.3; Provide a detailed analysis of carbon offsetting initiatives",
+    "optionE": "CG-EC-000.C; Report on the number of shipments and their average distance",
+    "answer": "C",
+    "reference_text": [
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "| Product Packaging & Distribution | Discussion of strategies to reduce the environmental impact of product delivery | Discussion and Analysis | n/a | CG-EC-410a.2 |",
+      "CG-EC-410a.2. Discussion of strategies to reduce the environmental impact of product delivery",
+      "1. The entity shall discuss its strategies to reduce the environmental impact of fulfillment and delivery of its products, including impacts associated with packaging materials and those associated with product transportation.",
+      "2. Relevant strategies to discuss include, but are not limited to:",
+      "2.1 Discussion of logistics selection, mode selection, and management (e.g., rail transport vs. air freight transport) and/or operation for route efficiency",
+      "2.2 Discussion of packaging choices, including, but not limited to, decisions to utilize recycled or renewable (e.g., bio-based plastic) packaging material, decisions to optimize the amount of packaging materials used (e.g., source reduction), use of refillable or reusable packaging, and design for efficient shipping and transport",
+      "2.3 Discussion of fuel choices and vehicle choices for fleets owned and/or operated by the entity, such as decisions to use renewable and low-emission fuels and low-emission vehicles"
+    ],
+    "pages": [
+      "25",
+      "32"
+    ],
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "Can you tell me what topics are covered in the 'Hardware Infrastructure Energy & Water Management' section of the E-Commerce document and what are the key takeaways I need to know as a company writing my sustainability report in the E-Commerce industry?",
+    "optionA": "Only energy consumption is covered; Key takeaway is to report total energy used",
+    "optionB": "Energy and water consumption are covered; Key takeaways include reporting total energy and water usage, percentages of grid and renewable electricity, and water stress considerations",
+    "optionC": "Only water consumption is covered; Key takeaway is to report water usage in data centers",
+    "optionD": "Carbon emissions are the main focus; Key takeaway is to report greenhouse gas emissions from data centers",
+    "optionE": "Water consumption is the main focus; Key takeaway is to report water stress considerations",
+    "answer": "B",
+    "reference_text": [
+      "# Hardware Infrastructure Energy & Water Management",
+      "## Topic Summary",
+      "A large part of the energy consumed by the E-Commerce industry is used to power critical hardware and IT infrastructure in data centers. Data centers need to be powered continuously, and disruptions to the energy supply can have a material impact on operations, depending on the magnitude and timing of the disruption. Companies also face a tradeoff when it comes to energy and water consumption for their data center cooling needs: Cooling data centers with water instead of chillers is a means of improving energy efficiency, but it can lead to dependence on significant local water resources. Companies that effectively manage this issue may benefit from cost savings and minimize reputational risks, as there is growing concern over energy and water use.",
+      "## Metrics",
+      "CG-EC-130a.1. (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable",
+      "CG-EC-130a.2. (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress",
+      "CG-EC-130a.3. Discussion of the integration of environmental considerations into strategic planning for data center needs"
+    ],
+    "pages": [
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "industries": [
+      "b4-e-commerce"
+    ]
+  }
+]

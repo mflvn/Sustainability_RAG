@@ -1,0 +1,182 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2 Climate-related Disclosures, what is the correct unit of measure for reporting the 'Total energy consumed' metric in the Electrical & Electronic Equipment industry?",
+    "optionA": "Kilowatt-hours (kWh)",
+    "optionB": "Megawatt-hours (MWh)",
+    "optionC": "Gigajoules (GJ)",
+    "optionD": "British Thermal Units (BTU)",
+    "optionE": "Therms",
+    "answer": "C. Gigajoules (GJ)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electrical & Electronic Equipment",
+    "page": "523",
+    "industries": [
+      "b49-electrical-and-electronic-equipment"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When calculating the percentage of renewable energy consumed, which of the following is NOT included in the scope of renewable energy according to IFRS S2?",
+    "optionA": "Renewable fuel consumed by the entity",
+    "optionB": "Renewable energy directly produced by the entity",
+    "optionC": "Renewable energy purchased through a PPA with explicit RECs",
+    "optionD": "Green-e Energy Certified utility program purchases",
+    "optionE": "The renewable portion of the electricity grid mix outside the entity's control",
+    "answer": "E. The renewable portion of the electricity grid mix outside the entity's control",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electrical & Electronic Equipment",
+    "page": "524",
+    "industries": [
+      "b49-electrical-and-electronic-equipment"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "For the Product Lifecycle Management topic, how should a company calculate the percentage of products containing IEC 62474 declarable substances?",
+    "optionA": "Number of products with declarable substances / Total number of products",
+    "optionB": "Weight of products with declarable substances / Total weight of products",
+    "optionC": "Volume of products with declarable substances / Total volume of products",
+    "optionD": "Revenue from products with declarable substances / Total revenue from products sold",
+    "optionE": "Cost of products with declarable substances / Total cost of products sold",
+    "answer": "D. Revenue from products with declarable substances / Total revenue from products sold",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electrical & Electronic Equipment",
+    "page": "525",
+    "industries": [
+      "b49-electrical-and-electronic-equipment"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing revenue from renewable energy-related products, which of the following is explicitly EXCLUDED from the scope according to IFRS S2?",
+    "optionA": "Turbine controllers",
+    "optionB": "Relays",
+    "optionC": "Solar PV fuses",
+    "optionD": "SCADA systems",
+    "optionE": "Wind turbines",
+    "answer": "E. Wind turbines",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electrical & Electronic Equipment",
+    "page": "527",
+    "industries": [
+      "b49-electrical-and-electronic-equipment"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the total energy consumed for sustainability reporting in the Electrical & Electronic Equipment industry, which of the following should NOT be included?",
+    "optionA": "Energy purchased from external sources",
+    "optionB": "Self-generated energy produced by the entity",
+    "optionC": "Direct fuel usage",
+    "optionD": "Energy consumed by the entity's suppliers",
+    "optionE": "Purchased electricity",
+    "answer": "D. Energy consumed by the entity's suppliers",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "523",
+    "industries": [
+      "b49-electrical-and-electronic-equipment"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "For the Energy Management topic, how should a company in the Electrical & Electronic Equipment industry calculate the percentage of grid electricity consumed?",
+    "optionA": "Grid electricity / Total energy produced",
+    "optionB": "Grid electricity / Renewable energy consumed",
+    "optionC": "Purchased grid electricity / Total energy consumed",
+    "optionD": "Grid electricity / Self-generated energy",
+    "optionE": "Total energy consumed / Grid electricity",
+    "answer": "C. Purchased grid electricity / Total energy consumed",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "523",
+    "industries": [
+      "b49-electrical-and-electronic-equipment"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of eligible products certified to an energy efficiency certification, how should a company in the Electrical & Electronic Equipment industry determine which products are 'eligible'?",
+    "optionA": "All products manufactured by the company",
+    "optionB": "Products that have been submitted for certification",
+    "optionC": "Products in a category for which certification exists",
+    "optionD": "Products that meet minimum energy efficiency standards",
+    "optionE": "Products with the highest sales volume",
+    "answer": "C. Products in a category for which certification exists",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electrical & Electronic Equipment",
+    "page": "526",
+    "industries": [
+      "b49-electrical-and-electronic-equipment"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "According to IFRS S2, when calculating revenue from energy efficiency-related products, which of the following criteria must be met for a product to be considered as designed to increase energy efficiency?",
+    "optionA": "The product must be certified by a third-party energy efficiency program",
+    "optionB": "The product must achieve at least a 50% increase in energy efficiency",
+    "optionC": "The product must be marketed as an energy-efficient alternative",
+    "optionD": "Documentation must show an established increase in energy efficiency during the product's use phase",
+    "optionE": "The product must be listed in the European Commission's Road Map to a Resource Efficient Europe",
+    "answer": "D. Documentation must show an established increase in energy efficiency during the product's use phase",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electrical & Electronic Equipment",
+    "page": "527",
+    "industries": [
+      "b49-electrical-and-electronic-equipment"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A company in the Electrical & Electronic Equipment industry is struggling to determine which substances in their products need to be reported. According to IFRS S2, how should they identify reportable substances?",
+    "optionA": "By consulting the REACH regulation",
+    "optionB": "By referring to the RoHS directive",
+    "optionC": "By using the IEC 62474 declarable substances list",
+    "optionD": "By following the EPA's Toxic Substances Control Act",
+    "optionE": "By adhering to the Stockholm Convention on Persistent Organic Pollutants",
+    "answer": "C. By using the IEC 62474 declarable substances list",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electrical & Electronic Equipment",
+    "page": "525",
+    "industries": [
+      "b49-electrical-and-electronic-equipment"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "An Electrical & Electronic Equipment company is reporting on its renewable energy consumption. Which of the following sources of renewable energy would NOT be considered within the scope of renewable energy according to IFRS S2?",
+    "optionA": "On-site solar panels with retained RECs",
+    "optionB": "Wind power purchased through a PPA with explicit RECs",
+    "optionC": "Biomass energy from Forest Stewardship Council certified materials",
+    "optionD": "Geothermal energy directly produced by the company",
+    "optionE": "The renewable portion of the standard electricity grid mix",
+    "answer": "E. The renewable portion of the standard electricity grid mix",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electrical & Electronic Equipment",
+    "page": "524",
+    "industries": [
+      "b49-electrical-and-electronic-equipment"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A company in the Electrical & Electronic Equipment industry is unsure how to classify its new smart grid technology products for sustainability reporting. According to IFRS S2, under which category should these products be reported?",
+    "optionA": "Renewable energy-related products",
+    "optionB": "Energy efficiency-related products",
+    "optionC": "IEC 62474 declarable substances products",
+    "optionD": "ENERGY STAR\u00ae certified products",
+    "optionE": "Grid electricity consumption products",
+    "answer": "B. Energy efficiency-related products",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electrical & Electronic Equipment",
+    "page": "527",
+    "industries": [
+      "b49-electrical-and-electronic-equipment"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "An Electrical & Electronic Equipment company is reporting on its products containing IEC 62474 declarable substances. What is the correct method for calculating the percentage of such products according to IFRS S2?",
+    "optionA": "Number of products with declarable substances / Total number of products",
+    "optionB": "Weight of products with declarable substances / Total weight of all products",
+    "optionC": "Volume of products with declarable substances / Total volume of all products",
+    "optionD": "Revenue from products with declarable substances / Total revenue from all products",
+    "optionE": "Cost of products with declarable substances / Total cost of all products",
+    "answer": "D. Revenue from products with declarable substances / Total revenue from all products",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electrical & Electronic Equipment",
+    "page": "525",
+    "industries": [
+      "b49-electrical-and-electronic-equipment"
+    ]
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When disclosing GHG emissions for the Electric Utilities & Power Generators and Gas Utilities & Distributors industries, which of the following is a key difference in reporting requirements?",
+    "optionA": "Only Electric Utilities report Scope 1 emissions",
+    "optionB": "Gas Utilities report emissions from power deliveries, while Electric Utilities do not",
+    "optionC": "Electric Utilities report emissions from power deliveries, while Gas Utilities do not",
+    "optionD": "Gas Utilities only report Scope 2 emissions",
+    "optionE": "Both industries have identical GHG reporting requirements",
+    "answer": "C: Electric Utilities report emissions from power deliveries, while Gas Utilities do not",
+    "explanation": "The Electric Utilities & Power Generators industry is required to disclose greenhouse gas (GHG) emissions associated with power deliveries (IF-EU-110a.2), while this specific requirement is not present for the Gas Utilities & Distributors industry. Both industries report Scope 1 emissions, but the power delivery emissions disclosure is unique to Electric Utilities.",
+    "pairing_explanation": "These industries are key to infrastructure development and resource management. Comparing their sustainability practices can shed light on energy efficiency, waste reduction, and sustainable urban development.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors"
+    ],
+    "pages": [
+      "300",
+      "301",
+      "302",
+      "340",
+      "341"
+    ],
+    "industries": [
+      "b32-electric-utilities-and-power-generators",
+      "b33-engineering-and-construction-services",
+      "b34-gas-utilities-and-distributors",
+      "b35-home-builders",
+      "b37-real-estate-services",
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "In the context of sustainability reporting for the Home Builders, Engineering & Construction Services, and Real Estate Services industries, which of the following is a unique reporting requirement for the Home Builders industry?",
+    "optionA": "Disclosure of energy efficiency in completed projects",
+    "optionB": "Reporting on water fixture efficiency",
+    "optionC": "Number of LEED-certified buildings",
+    "optionD": "Carbon footprint of construction materials",
+    "optionE": "Revenue from sustainability services",
+    "answer": "B: Reporting on water fixture efficiency",
+    "explanation": "The Home Builders industry has a unique requirement to disclose the percentage of installed water fixtures certified to WaterSense\u00ae specifications (IF-HB-410a.2). This specific metric is not present in the reporting requirements for Engineering & Construction Services or Real Estate Services industries, which focus more on overall building certifications or energy efficiency.",
+    "pairing_explanation": "These industries are key to infrastructure development and resource management. Comparing their sustainability practices can shed light on energy efficiency, waste reduction, and sustainable urban development.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Engineering & Construction Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate Services"
+    ],
+    "pages": [
+      "352",
+      "353",
+      "329",
+      "330",
+      "393",
+      "394"
+    ],
+    "industries": [
+      "b32-electric-utilities-and-power-generators",
+      "b33-engineering-and-construction-services",
+      "b34-gas-utilities-and-distributors",
+      "b35-home-builders",
+      "b37-real-estate-services",
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When comparing the Waste Management industry with the Electric Utilities & Power Generators industry, how do the metrics for measuring greenhouse gas emissions differ?",
+    "optionA": "Waste Management reports only Scope 2 emissions, while Electric Utilities report only Scope 1",
+    "optionB": "Electric Utilities report emissions from power deliveries, while Waste Management reports landfill gas emissions",
+    "optionC": "Waste Management reports fleet fuel consumption, while Electric Utilities do not have any fuel-related metrics",
+    "optionD": "Electric Utilities report nuclear safety metrics, while Waste Management reports recycling rates",
+    "optionE": "Both industries use identical metrics for GHG emissions reporting",
+    "answer": "B: Electric Utilities report emissions from power deliveries, while Waste Management reports landfill gas emissions",
+    "explanation": "The Electric Utilities & Power Generators industry reports GHG emissions associated with power deliveries (IF-EU-110a.2), while the Waste Management industry reports on total landfill gas generated, percentage flared, and percentage used for energy (IF-WM-110a.2). These industry-specific metrics reflect the different nature of their operations and primary sources of emissions.",
+    "pairing_explanation": "These industries are key to infrastructure development and resource management. Comparing their sustainability practices can shed light on energy efficiency, waste reduction, and sustainable urban development.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Waste Management",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators"
+    ],
+    "pages": [
+      "400",
+      "401",
+      "402",
+      "302",
+      "303"
+    ],
+    "industries": [
+      "b32-electric-utilities-and-power-generators",
+      "b33-engineering-and-construction-services",
+      "b34-gas-utilities-and-distributors",
+      "b35-home-builders",
+      "b37-real-estate-services",
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "In calculating and reporting on the environmental impact of their operations, how do the metrics for the Engineering & Construction Services industry differ from those of the Home Builders industry?",
+    "optionA": "Engineering & Construction reports on water consumption, while Home Builders do not",
+    "optionB": "Home Builders report on land use in flood zones, while Engineering & Construction does not",
+    "optionC": "Engineering & Construction reports on project backlog related to climate change mitigation, while Home Builders report on homes in water-stressed regions",
+    "optionD": "Home Builders report on energy efficiency certifications, while Engineering & Construction does not have any energy-related metrics",
+    "optionE": "Both industries use identical metrics for environmental impact reporting",
+    "answer": "C: Engineering & Construction reports on project backlog related to climate change mitigation, while Home Builders report on homes in water-stressed regions",
+    "explanation": "The Engineering & Construction Services industry reports on the amount of backlog for non-energy projects associated with climate change mitigation (IF-EN-410b.3), while the Home Builders industry reports on the number of lots and homes delivered in regions with High or Extremely High Baseline Water Stress (IF-HB-160a.2). These metrics reflect the different nature of their operations and how they address climate-related risks.",
+    "pairing_explanation": "These industries are key to infrastructure development and resource management. Comparing their sustainability practices can shed light on energy efficiency, waste reduction, and sustainable urban development.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Engineering & Construction Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders"
+    ],
+    "pages": [
+      "333",
+      "334",
+      "349"
+    ],
+    "industries": [
+      "b32-electric-utilities-and-power-generators",
+      "b33-engineering-and-construction-services",
+      "b34-gas-utilities-and-distributors",
+      "b35-home-builders",
+      "b37-real-estate-services",
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the climate change adaptation strategies differ between the Home Builders industry and the Real Estate Services industry in their sustainability reporting requirements?",
+    "optionA": "Home Builders focus on flood zone risks, while Real Estate Services focus on energy efficiency",
+    "optionB": "Real Estate Services report on climate risk for all properties, while Home Builders only report on new developments",
+    "optionC": "Home Builders report on specific adaptation measures, while Real Estate Services have no climate adaptation requirements",
+    "optionD": "Real Estate Services focus on retrofitting existing buildings, while Home Builders only report on new construction",
+    "optionE": "Both industries have identical climate adaptation reporting requirements",
+    "answer": "A: Home Builders focus on flood zone risks, while Real Estate Services focus on energy efficiency",
+    "explanation": "The Home Builders industry is required to report on the number of lots located in 100-year flood zones (IF-HB-420a.1) and describe climate change risk exposure analysis and mitigation strategies (IF-HB-420a.2). In contrast, the Real Estate Services industry focuses more on energy efficiency and sustainability services, such as reporting on the floor area and number of buildings with energy ratings (IF-RS-410a.3). This reflects the different nature of their operations and primary climate-related risks.",
+    "pairing_explanation": "These industries are key to infrastructure development and resource management. Comparing their sustainability practices can shed light on energy efficiency, waste reduction, and sustainable urban development.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate Services"
+    ],
+    "pages": [
+      "355",
+      "356",
+      "395",
+      "396"
+    ],
+    "industries": [
+      "b32-electric-utilities-and-power-generators",
+      "b33-engineering-and-construction-services",
+      "b34-gas-utilities-and-distributors",
+      "b35-home-builders",
+      "b37-real-estate-services",
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing the sustainability reporting requirements for the Gas Utilities & Distributors, Electric Utilities & Power Generators, and Waste Management industries, which of the following statements is true regarding their approach to infrastructure integrity and safety?",
+    "optionA": "Only Gas Utilities report on pipeline incidents and safety",
+    "optionB": "Electric Utilities focus on grid resiliency, while Waste Management has no safety metrics",
+    "optionC": "Waste Management reports on landfill safety, while utilities do not have safety metrics",
+    "optionD": "All three industries have specific safety and integrity metrics tailored to their operations",
+    "optionE": "Only Electric Utilities report on infrastructure safety and integrity",
+    "answer": "D: All three industries have specific safety and integrity metrics tailored to their operations",
+    "explanation": "All three industries have safety and integrity metrics tailored to their specific operations. Gas Utilities report on pipeline incidents and safety (IF-GU-540a.1), Electric Utilities report on grid resiliency and safety (IF-EU-550a.1 and IF-EU-550a.2), and while not explicitly labeled as safety metrics, Waste Management reports on greenhouse gas emissions and landfill gas management (IF-WM-110a.1 and IF-WM-110a.2), which are related to safety and environmental integrity of their operations.",
+    "pairing_explanation": "These industries are key to infrastructure development and resource management. Comparing their sustainability practices can shed light on energy efficiency, waste reduction, and sustainable urban development.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Waste Management"
+    ],
+    "pages": [
+      "340",
+      "341",
+      "318",
+      "319",
+      "399",
+      "400",
+      "401"
+    ],
+    "industries": [
+      "b32-electric-utilities-and-power-generators",
+      "b33-engineering-and-construction-services",
+      "b34-gas-utilities-and-distributors",
+      "b35-home-builders",
+      "b37-real-estate-services",
+      "b38-waste-management"
+    ]
+  }
+]

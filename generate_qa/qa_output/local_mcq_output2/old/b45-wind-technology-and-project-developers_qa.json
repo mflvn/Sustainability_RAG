@@ -1,0 +1,167 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2, what are the top five materials consumed by wind turbine manufacturers required to be disclosed?",
+    "optionA": "Only steel and aluminum",
+    "optionB": "Any five materials, by volume",
+    "optionC": "The five materials consumed in the greatest amounts, by weight",
+    "optionD": "Only materials used in the nacelle",
+    "optionE": "The five most expensive materials used",
+    "answer": "C. The five materials consumed in the greatest amounts, by weight",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "484",
+    "industries": [
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing the average top head mass per turbine capacity, which component is excluded from the calculation?",
+    "optionA": "Nacelle",
+    "optionB": "Rotor",
+    "optionC": "Tower",
+    "optionD": "Generator",
+    "optionE": "Blades",
+    "answer": "E. Blades",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "485",
+    "industries": [
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When describing the approach to optimize materials efficiency of wind turbine design, which of the following is NOT included in the scope of disclosure?",
+    "optionA": "Materials selection",
+    "optionB": "Modifications to wind turbine design",
+    "optionC": "Operational control software (e.g., SCADA systems)",
+    "optionD": "Strategies to reduce waste in turbine manufacturing",
+    "optionE": "Wind farm layout optimization",
+    "answer": "E. Wind farm layout optimization",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "485-486",
+    "industries": [
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "How should a company calculate the average top head mass per turbine capacity for IFRS S2 reporting?",
+    "optionA": "Divide the mass of the top head (in kg) by turbine capacity (in kW)",
+    "optionB": "Divide the mass of the top head (in metric tons) by turbine capacity (in MW)",
+    "optionC": "Divide the mass of the entire turbine (in metric tons) by turbine capacity (in MW)",
+    "optionD": "Divide the mass of the top head and blades (in metric tons) by turbine capacity (in MW)",
+    "optionE": "Divide the mass of the nacelle only (in metric tons) by turbine capacity (in MW)",
+    "answer": "B. Divide the mass of the top head (in metric tons) by turbine capacity (in MW)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Wind Technology & Project Developers",
+    "page": "485",
+    "industries": [
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When disclosing the weight of materials consumed in wind turbines, which of the following should NOT be included in the calculation?",
+    "optionA": "Weight of the nacelle",
+    "optionB": "Weight of the blades",
+    "optionC": "Weight of the tower",
+    "optionD": "Weight of materials used in the foundation",
+    "optionE": "Weight of copper used in the turbine",
+    "answer": "D. Weight of materials used in the foundation",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Wind Technology & Project Developers",
+    "page": "484",
+    "industries": [
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "According to IFRS S2, how should companies report the aggregate capacity of delivered wind turbines?",
+    "optionA": "In kilowatts (kW)",
+    "optionB": "In gigawatt-hours (GWh)",
+    "optionC": "In megawatts (MW)",
+    "optionD": "In horsepower (HP)",
+    "optionE": "In joules (J)",
+    "answer": "C. In megawatts (MW)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Wind Technology & Project Developers",
+    "page": "483",
+    "industries": [
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the amount of turbine backlog for IFRS S2 reporting, which of the following should be excluded?",
+    "optionA": "Ordered turbines not yet delivered",
+    "optionB": "Turbines in production",
+    "optionC": "Turbines awaiting shipment",
+    "optionD": "Amounts from operating and maintenance agreements",
+    "optionE": "Partially completed turbine orders",
+    "answer": "D. Amounts from operating and maintenance agreements",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Wind Technology & Project Developers",
+    "page": "483",
+    "industries": [
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What unique challenge does the Wind Technology & Project Developers industry face when reporting on materials efficiency for larger wind turbines?",
+    "optionA": "Increased energy output",
+    "optionB": "Higher installation costs",
+    "optionC": "Balancing material use with improved performance",
+    "optionD": "Reduced transportation efficiency",
+    "optionE": "Increased maintenance requirements",
+    "answer": "C. Balancing material use with improved performance",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "484",
+    "industries": [
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When reporting on the top five materials consumed in wind turbines, what specific challenge might companies face regarding offshore installations?",
+    "optionA": "Difficulty in measuring material weights",
+    "optionB": "Exclusion of foundation materials",
+    "optionC": "Inclusion of transportation materials",
+    "optionD": "Reporting materials for different turbine classes",
+    "optionE": "Accounting for corrosion-resistant materials",
+    "answer": "D. Reporting materials for different turbine classes",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "484-485",
+    "industries": [
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What unique reporting challenge does the calculation of 'average top head mass per turbine capacity' present for companies with diverse wind turbine portfolios?",
+    "optionA": "Determining the correct wind turbine class",
+    "optionB": "Excluding blade weight from calculations",
+    "optionC": "Converting units to metric tons per megawatt",
+    "optionD": "Weighting averages by turbine deliveries per class",
+    "optionE": "Measuring nacelle mass accurately",
+    "answer": "D. Weighting averages by turbine deliveries per class",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "485",
+    "industries": [
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When describing the approach to optimize materials efficiency of wind turbine design, what unique challenge might companies face in reporting on operational control software?",
+    "optionA": "Quantifying software impact on materials efficiency",
+    "optionB": "Describing software functionality",
+    "optionC": "Reporting software development costs",
+    "optionD": "Comparing software across different turbine models",
+    "optionE": "Ensuring software compliance with IEC standards",
+    "answer": "A. Quantifying software impact on materials efficiency",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "485-486",
+    "industries": [
+      "b45-wind-technology-and-project-developers"
+    ]
+  }
+]

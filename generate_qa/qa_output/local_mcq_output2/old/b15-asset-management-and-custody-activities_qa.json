@@ -1,0 +1,182 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2, what are the three approaches to incorporating ESG factors in investment management that should be disclosed in terms of assets under management?",
+    "optionA": "Risk assessment, impact measurement, and sustainability reporting",
+    "optionB": "Screening, sustainability themed investing, and ESG integration",
+    "optionC": "Financial analysis, stakeholder engagement, and carbon footprinting",
+    "optionD": "Proxy voting, corporate engagement, and policy advocacy",
+    "optionE": "Negative screening, positive screening, and exclusionary screening",
+    "answer": "B. Screening, sustainability themed investing, and ESG integration",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "135-136",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When describing the approach to incorporation of ESG factors in investment processes, which of the following is NOT required to be included in the discussion?",
+    "optionA": "Parties responsible for day-to-day incorporation of ESG factors",
+    "optionB": "Approach to conducting ESG-related research",
+    "optionC": "Roles and responsibilities of employees involved",
+    "optionD": "Approach to incorporating ESG factors into investment strategies",
+    "optionE": "Detailed financial performance of ESG-focused investments",
+    "answer": "E. Detailed financial performance of ESG-focused investments",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "136-137",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "What aspect of proxy voting and investee engagement policies should be described according to IFRS S2?",
+    "optionA": "The entity's voting record for the past 5 years",
+    "optionB": "The personal opinions of the entity's CEO on various ESG issues",
+    "optionC": "The escalation process for engagements when company dialogue is failing",
+    "optionD": "The names of specific companies targeted for engagement",
+    "optionE": "The amount of money spent on engagement activities",
+    "answer": "C. The escalation process for engagements when company dialogue is failing",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "140",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "In disclosing financed emissions, what should be included along with the absolute gross Scope 1, 2, and 3 emissions?",
+    "optionA": "The entity's own operational emissions",
+    "optionB": "The carbon offsets purchased by the entity",
+    "optionC": "The associated amount of total Assets Under Management (AUM)",
+    "optionD": "The projected emissions for the next fiscal year",
+    "optionE": "The emissions reduction targets of investee companies",
+    "answer": "C. The associated amount of total Assets Under Management (AUM)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "141-142",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of total assets under management (AUM) included in the financed emissions calculation, how should the entity handle exclusions?",
+    "optionA": "Ignore exclusions and report 100% of AUM",
+    "optionB": "Subtract exclusions without explanation",
+    "optionC": "Provide an explanation for exclusions including type of assets and associated amount of AUM",
+    "optionD": "Only report on included AUM without mentioning exclusions",
+    "optionE": "Round up to the nearest 10% of AUM",
+    "answer": "C. Provide an explanation for exclusions including type of assets and associated amount of AUM",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "141",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "How should an asset management entity calculate gross emissions intensity for financed emissions?",
+    "optionA": "Total emissions divided by number of investments",
+    "optionB": "Amount of Scope 1, 2, and 3 emissions per unit of economic activity (e.g., mt CO2-e/ USD 1 million revenue)",
+    "optionC": "Total emissions divided by total AUM",
+    "optionD": "Scope 1 emissions only per USD 1 billion AUM",
+    "optionE": "Average of Scope 1 and 2 emissions per investee company",
+    "answer": "B. Amount of Scope 1, 2, and 3 emissions per unit of economic activity (e.g., mt CO2-e/ USD 1 million revenue)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "142",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When describing the methodology used to calculate financed emissions, what should be included regarding the source data?",
+    "optionA": "Only include data from the past fiscal year",
+    "optionB": "Use estimated data for all calculations",
+    "optionC": "Disclose if the source data has been verified by a third party, where possible",
+    "optionD": "Only include data from publicly traded companies",
+    "optionE": "Exclude any data that hasn't been audited",
+    "answer": "C. Disclose if the source data has been verified by a third party, where possible",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "143",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "In calculating absolute gross financed emissions, which of the following is correct regarding the treatment of offsets and credits?",
+    "optionA": "Subtract all offsets and credits from the total emissions",
+    "optionB": "Only include Scope 1 and 2 emissions after applying offsets",
+    "optionC": "Report emissions before accounting for offsets and credits",
+    "optionD": "Apply offsets only to Scope 3 emissions",
+    "optionE": "Use net emissions after applying all available credits",
+    "answer": "C. Report emissions before accounting for offsets and credits",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "142",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What unique challenge does an asset management company face when incorporating ESG factors into its investment strategies for different asset classes?",
+    "optionA": "Applying the same ESG criteria uniformly across all asset classes",
+    "optionB": "Ignoring ESG factors for certain asset classes",
+    "optionC": "Tailoring the ESG approach for different asset classes like public equity, fixed income, and alternatives",
+    "optionD": "Focusing only on environmental factors across all asset classes",
+    "optionE": "Applying ESG factors only to equity investments",
+    "answer": "C. Tailoring the ESG approach for different asset classes like public equity, fixed income, and alternatives",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "137-138",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What is a specific challenge asset managers face when conducting scenario analysis for ESG trends at the portfolio level?",
+    "optionA": "Avoiding scenario analysis altogether",
+    "optionB": "Focusing only on short-term scenarios",
+    "optionC": "Applying the same scenarios to all portfolios regardless of strategy",
+    "optionD": "Balancing between broad ESG trends and sector-specific impacts",
+    "optionE": "Considering only positive scenarios",
+    "answer": "D. Balancing between broad ESG trends and sector-specific impacts",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "137",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What unique challenge does an asset management firm face in its proxy voting and engagement activities related to ESG issues?",
+    "optionA": "Avoiding all proxy voting responsibilities",
+    "optionB": "Always voting in favor of management recommendations",
+    "optionC": "Balancing proactive and reactive approaches in company engagements",
+    "optionD": "Engaging only with companies in the energy sector",
+    "optionE": "Focusing exclusively on governance issues in proxy voting",
+    "answer": "C. Balancing proactive and reactive approaches in company engagements",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "139",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What is a key challenge for asset managers when calculating and disclosing financed emissions?",
+    "optionA": "Ignoring Scope 3 emissions entirely",
+    "optionB": "Only calculating emissions for equity investments",
+    "optionC": "Dealing with data gaps and the need for estimations across diverse portfolios",
+    "optionD": "Focusing solely on absolute emissions without considering intensity",
+    "optionE": "Avoiding disclosure of the calculation methodology",
+    "answer": "C. Dealing with data gaps and the need for estimations across diverse portfolios",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "142-143",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "question": "According to the IFRS S2 Climate-related Disclosures for the Construction Materials industry, which of the following is NOT included in the scope of air emissions that companies must disclose?",
+    "optionA": "NOx (excluding N2O)",
+    "optionB": "SOx",
+    "optionC": "Particulate matter (PM10)",
+    "optionD": "Carbon monoxide (CO)",
+    "optionE": "Dioxins/furans",
+    "answer": "D",
+    "reference_text": [
+      "The entity shall disclose its emissions of air pollutants, in metric tons per pollutant, that are released into the atmosphere.",
+      "The entity shall disclose its emissions of (1) oxides of nitrogen (NOX), reported as NOX.",
+      "The entity shall disclose its emissions of (2) oxides of sulfur (SOX), reported as SOX.",
+      "The entity shall disclose its emissions of (3) particulate matter 10 micrometers or less in diameter (PM10), reported as PM10.",
+      "The entity shall disclose its emissions of (4) dioxins/furans."
+    ],
+    "pages": [
+      "59",
+      "60"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "question": "When calculating the percentage of energy consumed from renewable sources, which of the following scenarios would NOT be included in the scope of renewable energy?",
+    "optionA": "Renewable fuel consumed by the entity",
+    "optionB": "Renewable energy directly produced by the entity",
+    "optionC": "Renewable energy purchased through a PPA with explicit RECs",
+    "optionD": "Green-e Energy Certified utility program purchases",
+    "optionE": "The renewable portion of the electricity grid mix outside the entity's control",
+    "answer": "E",
+    "reference_text": [
+      "The renewable portion of the electricity grid mix that is outside of the control or influence of the entity is excluded from the scope of renewable energy."
+    ],
+    "pages": [
+      "62"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "question": "A construction materials company is assessing its water-related risks. According to the IFRS S2 Climate-related Disclosures, which tool should the company use to identify activities that withdraw and consume water in locations with High or Extremely High Baseline Water Stress?",
+    "optionA": "CDP Water Security Questionnaire",
+    "optionB": "World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "optionC": "UN Global Compact CEO Water Mandate",
+    "optionD": "GEMI Local Water Tool",
+    "optionE": "WWF Water Risk Filter",
+    "answer": "B",
+    "reference_text": [
+      "The entity shall analyze all of its operations for water risks and identify activities that withdraw and consume water in locations with High (40-80%) or Extremely High (>80%) Baseline Water Stress as classified by the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct."
+    ],
+    "pages": [
+      "64"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "question": "When disclosing the percentage of products that qualify for credits in sustainable building design and construction certifications, which of the following should a construction materials company exclude from both the numerator and denominator of its calculations?",
+    "optionA": "Products that qualify for LEED certification credits",
+    "optionB": "Products that qualify for BREEAM certification credits",
+    "optionC": "Raw materials that require additional manufacturing before incorporation into a building",
+    "optionD": "Products that qualify for Green Globes certification credits",
+    "optionE": "Products that qualify for ICC-700 National Green Building Standard credits",
+    "answer": "C",
+    "reference_text": [
+      "The scope of products excludes raw or intermediate materials that would require additional manufacturing before being incorporated into a building; the entity shall exclude these products from the numerator and denominator of its calculations."
+    ],
+    "pages": [
+      "67"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "question": "A construction materials company wants to disclose its Scope 1 GHG emissions. Which of the following statements is true regarding the calculation and disclosure of these emissions?",
+    "optionA": "Emissions should be disclosed in metric tons of carbon dioxide only",
+    "optionB": "The company can choose any global warming potential (GWP) values for the calculation",
+    "optionC": "Gross emissions should be reported before accounting for offsets or credits",
+    "optionD": "Only CO2 and methane need to be included in the disclosure",
+    "optionE": "Scope 1 emissions only include those from stationary sources",
+    "answer": "C",
+    "reference_text": [
+      "1.2 Gross emissions are GHGs emitted into the atmosphere before accounting for offsets, credits, or other similar mechanisms that have reduced or compensated for emissions.",
+      "1 The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol\u2014carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF6), and nitrogen trifluoride (NF3).",
+      "1.1 Emissions of all GHGs shall be consolidated and disclosed in metric tons of carbon dioxide equivalent (CO2-e), and calculated in accordance with published 100-year time horizon global warming potential (GWP) values. To date, the preferred source for GWP values is the Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report (2014)."
+    ],
+    "pages": [
+      "55",
+      "56"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "question": "A sustainability manager is analyzing the company's energy consumption. Which of the following combinations correctly represents the required disclosures for EM-CM-130a.1?",
+    "optionA": "Total energy consumed and percentage of nuclear energy",
+    "optionB": "Total energy consumed, percentage grid electricity, and percentage fossil fuels",
+    "optionC": "Total energy consumed, percentage grid electricity, percentage alternative, and percentage renewable",
+    "optionD": "Total energy consumed and percentage of energy produced on-site",
+    "optionE": "Total energy consumed and percentage of energy from biomass sources only",
+    "answer": "C",
+    "reference_text": [
+      "EM-CM-130a.1. (1) Total energy consumed, (2) percentage grid electricity, (3) percentage alternative, (4) percentage renewable"
+    ],
+    "pages": [
+      "61"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "question": "A construction materials company is preparing its sustainability report and needs to disclose its waste management practices. Which of the following statements accurately reflects the requirements for waste disclosure according to EM-CM-150a.1?",
+    "optionA": "The company only needs to disclose the total amount of waste generated",
+    "optionB": "The company must disclose the amount of waste generated, percentage hazardous, and percentage recycled",
+    "optionC": "The company should only focus on disclosing hazardous waste percentages",
+    "optionD": "The company is required to disclose the amount of waste generated and the percentage incinerated",
+    "optionE": "The company must disclose the amount of waste generated and the percentage sent to landfills",
+    "answer": "B",
+    "reference_text": [
+      "EM-CM-150a.1. Amount of waste generated, percentage hazardous, percentage recycled"
+    ],
+    "pages": [
+      "65"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "question": "A sustainability analyst is trying to determine which products qualify for credits in sustainable building design certifications. According to the IFRS S2 Climate-related Disclosures, which of the following is NOT considered a recognized sustainable building design and construction certification?",
+    "optionA": "BREEAM\u00ae (BRE Global)",
+    "optionB": "Green Globes\u00ae (Green Building Initiative)",
+    "optionC": "LEED\u00ae (U.S. Green Building Council)",
+    "optionD": "ICC-700 National Green Building Standard\u00ae (National Association of Home Builders)",
+    "optionE": "ISO 14001 Environmental Management System",
+    "answer": "E",
+    "reference_text": [
+      "2 Recognized sustainable building design and construction certifications and guidelines include: BREEAM\u00ae (BRE Global), Green Globes\u00ae (Green Building Initiative), LEED\u00ae (U.S. Green Building Council), and ICC-700 National Green Building Standard\u00ae (National Association of Home Builders)."
+    ],
+    "pages": [
+      "67"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  }
+]

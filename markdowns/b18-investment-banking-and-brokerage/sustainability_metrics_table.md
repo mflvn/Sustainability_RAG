@@ -1,0 +1,7 @@
+| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |
+|-------|--------|----------|-----------------|------|
+| Incorporation of Environ-mental, Social, and Governance Factors in Investment Banking & Brokerage Activities | Revenue from (1) underwriting, (2) advisory, and (3) securitization transactions incorporating integration of environmental, social, and governance (ESG) factors, by industry | Quantitative | Reporting currency | FN-IB-410a.1 |
+| | (1) Number and (2) total value of invest-ments and loans incorporating integra-tion of environmental, social, and governance (ESG) factors, by industry | Quantitative | Number, Reporting currency | FN-IB-410a.2 |
+| | Description of approach to incorporation of environmental, social, and governance (ESG) factors in investment banking and brokerage activities | Discussion and Analysis | n/a | FN-IB-410a.3 |
+| Transition Risk Exposure | For each key business line by industry: (1) absolute gross (a) Scope 1 emissions, (b) Scope 2 emissions and (c) Scope 3 emissions, and (2) associ-ated revenue (i.e., facilitated emissions) | Quantitative | Metric tons (t) CO2-e, Presentation currency | FN-IB-1 |
+| | Description of the methodology used to calculate facilitated emissions | Discussion and Analysis | n/a | FN-IB-2 |

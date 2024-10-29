@@ -1,0 +1,142 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When reporting on energy management, what is a key difference in the disclosure requirements between Health Care Delivery and Mortgage Finance industries?",
+    "optionA": "Health Care Delivery must report total energy consumed, while Mortgage Finance does not",
+    "optionB": "Mortgage Finance must report energy use in mortgaged properties, while Health Care Delivery reports on its own facilities",
+    "optionC": "Health Care Delivery must report percentage of renewable energy, while Mortgage Finance does not",
+    "optionD": "Mortgage Finance must report energy efficiency of financed properties, while Health Care Delivery reports on its own operations",
+    "optionE": "There are no differences in energy reporting requirements between these industries",
+    "answer": "C: Health Care Delivery must report percentage of renewable energy, while Mortgage Finance does not",
+    "explanation": "According to the IFRS S2 Climate-related Disclosures, Health Care Delivery companies are required to disclose total energy consumed, percentage grid electricity, and percentage renewable energy (HC-DY-130a.1). In contrast, the Mortgage Finance industry does not have a specific requirement to report on energy consumption or renewable energy percentages. Instead, their focus is on environmental risks to mortgaged properties.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance"
+    ],
+    "pages": [
+      "283",
+      "185-187"
+    ],
+    "pairing_explanation": "The financing of large capital projects like hospitals intersects with sustainability in terms of energy use, construction materials, and community impact.",
+    "industries": [
+      "b19-mortgage-finance",
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "What is a key similarity in climate-related disclosure requirements for both Health Care Delivery and Mortgage Finance industries?",
+    "optionA": "Both must report on total carbon emissions from their operations",
+    "optionB": "Both must disclose strategies for reducing energy consumption",
+    "optionC": "Both must report on the physical risks due to increased frequency and intensity of extreme weather events",
+    "optionD": "Both must disclose the percentage of renewable energy used in their operations",
+    "optionE": "Both must report on water consumption and management strategies",
+    "answer": "C: Both must report on the physical risks due to increased frequency and intensity of extreme weather events",
+    "explanation": "Both Health Care Delivery and Mortgage Finance industries are required to address physical risks related to extreme weather events. For Health Care Delivery, metric HC-DY-450a.1 requires a description of policies and practices to address physical risks due to increased frequency and intensity of extreme weather events. Similarly, for Mortgage Finance, metric FN-MF-450a.3 requires a description of how climate change and other environmental risks (including extreme weather events) are incorporated into mortgage origination and underwriting.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance"
+    ],
+    "pages": [
+      "288",
+      "186-187"
+    ],
+    "pairing_explanation": "The financing of large capital projects like hospitals intersects with sustainability in terms of energy use, construction materials, and community impact.",
+    "industries": [
+      "b19-mortgage-finance",
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of renewable energy consumed by a Health Care Delivery company, which of the following sources would NOT be included in the scope of renewable energy?",
+    "optionA": "Solar panels installed on the hospital roof",
+    "optionB": "Wind energy purchased through a renewable power purchase agreement (PPA) with explicit RECs",
+    "optionC": "Biomass energy from materials certified by the Forest Stewardship Council",
+    "optionD": "Hydropower from a facility certified by the Low Impact Hydropower Institute",
+    "optionE": "The renewable portion of the standard electricity grid mix",
+    "answer": "E: The renewable portion of the standard electricity grid mix",
+    "explanation": "According to the IFRS S2 Climate-related Disclosures for Health Care Delivery, the renewable portion of the electricity grid mix that is outside of the control or influence of the entity is specifically excluded from the scope of renewable energy (HC-DY-130a.1, note 3.3.3). All other options listed are valid sources of renewable energy within the scope of the disclosure requirements.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery"
+    ],
+    "pages": [
+      "283-284"
+    ],
+    "pairing_explanation": "The financing of large capital projects like hospitals intersects with sustainability in terms of energy use, construction materials, and community impact.",
+    "industries": [
+      "b19-mortgage-finance",
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "A Mortgage Finance company is calculating its exposure to environmental risks. Which of the following metrics would be most appropriate to disclose according to IFRS S2?",
+    "optionA": "Total number of mortgages in the company's portfolio",
+    "optionB": "Average interest rate for mortgages in flood-prone areas",
+    "optionC": "Percentage of mortgages with environmental insurance",
+    "optionD": "Number and value of mortgage loans in 100-year flood zones",
+    "optionE": "Total carbon emissions from the company's office operations",
+    "answer": "D: Number and value of mortgage loans in 100-year flood zones",
+    "explanation": "According to the IFRS S2 Climate-related Disclosures for Mortgage Finance, companies are required to disclose the number and value of mortgage loans in 100-year flood zones (metric FN-MF-450a.1). This metric directly addresses the industry's exposure to environmental risks, specifically flood risks, which is a key concern for mortgage finance companies in the context of climate change.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance"
+    ],
+    "pages": [
+      "185-186"
+    ],
+    "pairing_explanation": "The financing of large capital projects like hospitals intersects with sustainability in terms of energy use, construction materials, and community impact.",
+    "industries": [
+      "b19-mortgage-finance",
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the IFRS S2 sustainability reporting requirements for Health Care Delivery and Mortgage Finance industries differ in their approach to addressing climate change impacts?",
+    "optionA": "Health Care Delivery focuses on operational impacts, while Mortgage Finance focuses on portfolio risks",
+    "optionB": "Mortgage Finance requires quantitative metrics, while Health Care Delivery only requires qualitative descriptions",
+    "optionC": "Health Care Delivery addresses both infrastructure and health impacts, while Mortgage Finance only addresses financial impacts",
+    "optionD": "Mortgage Finance focuses on long-term risks, while Health Care Delivery only addresses immediate impacts",
+    "optionE": "There are no significant differences in how these industries address climate change impacts",
+    "answer": "C: Health Care Delivery addresses both infrastructure and health impacts, while Mortgage Finance only addresses financial impacts",
+    "explanation": "The IFRS S2 requirements for Health Care Delivery (HC-DY-450a.1) explicitly require companies to address both physical risks to infrastructure due to extreme weather events and changes in morbidity and mortality rates associated with climate change. In contrast, the requirements for Mortgage Finance (FN-MF-450a.1, FN-MF-450a.2, FN-MF-450a.3) focus primarily on the financial risks and impacts of climate change on mortgaged properties and loan portfolios, without addressing broader health impacts.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance"
+    ],
+    "pages": [
+      "288",
+      "185-187"
+    ],
+    "pairing_explanation": "The financing of large capital projects like hospitals intersects with sustainability in terms of energy use, construction materials, and community impact.",
+    "industries": [
+      "b19-mortgage-finance",
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing the waste management reporting requirements for Health Care Delivery and Mortgage Finance industries under IFRS S2, which statement is most accurate?",
+    "optionA": "Both industries have identical waste management reporting requirements",
+    "optionB": "Mortgage Finance has more stringent waste management reporting requirements than Health Care Delivery",
+    "optionC": "Health Care Delivery has specific medical and pharmaceutical waste reporting requirements, while Mortgage Finance has no waste-related metrics",
+    "optionD": "Both industries must report on general waste management, but only Health Care Delivery reports on hazardous waste",
+    "optionE": "Mortgage Finance reports on construction waste from financed properties, while Health Care Delivery reports on medical waste",
+    "answer": "C: Health Care Delivery has specific medical and pharmaceutical waste reporting requirements, while Mortgage Finance has no waste-related metrics",
+    "explanation": "The IFRS S2 Climate-related Disclosures for Health Care Delivery include specific metrics for reporting on medical waste (HC-DY-150a.1) and pharmaceutical waste (HC-DY-150a.2), including details on disposal methods. In contrast, the Mortgage Finance industry disclosure requirements do not include any waste-related metrics. This difference reflects the unique sustainability challenges and impacts of each industry, with health care facilities generating significant amounts of specialized waste that requires careful management and reporting.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance"
+    ],
+    "pages": [
+      "285-287",
+      "185-187"
+    ],
+    "pairing_explanation": "The financing of large capital projects like hospitals intersects with sustainability in terms of energy use, construction materials, and community impact.",
+    "industries": [
+      "b19-mortgage-finance",
+      "b28-health-care-delivery"
+    ]
+  }
+]

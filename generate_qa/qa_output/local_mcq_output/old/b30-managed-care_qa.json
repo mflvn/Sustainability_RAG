@@ -1,0 +1,377 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the main drivers of revenue in the Managed Care industry?",
+    "optionA": "Employment rates",
+    "optionB": "Legislative changes",
+    "optionC": "Inflation of medical costs",
+    "optionD": "Patient outcomes",
+    "optionE": "Network access fees",
+    "answer": "C. Inflation of medical costs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "292",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a health impact associated with climate change in the Managed Care industry?",
+    "optionA": "Increases in allergic responses",
+    "optionB": "Migration of tropical diseases",
+    "optionC": "Increases in waterborne diseases",
+    "optionD": "Increased rates of human developmental diseases",
+    "optionE": "Increased rates of cardiovascular diseases",
+    "answer": "E. Increased rates of cardiovascular diseases",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "293",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What is the unit of measure for the activity metric 'Number of enrollees by plan type' in the Managed Care industry?",
+    "optionA": "Percentage",
+    "optionB": "Dollars",
+    "optionC": "Ratio",
+    "optionD": "Number",
+    "optionE": "Index",
+    "answer": "D. Number",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "292",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the document, what should entities discuss regarding the effects of climate change on their business operations?",
+    "optionA": "Only changes in geographic incidence of diseases",
+    "optionB": "Only changes in morbidity rates",
+    "optionC": "Only changes in mortality rates",
+    "optionD": "Changes in geographic incidence, morbidity, and mortality of illnesses and diseases",
+    "optionE": "Only changes in revenue and costs",
+    "answer": "D. Changes in geographic incidence, morbidity, and mortality of illnesses and diseases",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "293",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might climate change impact the financial performance of managed care companies, based on the information provided in the document?",
+    "optionA": "Through increased revenue from new climate-related insurance products",
+    "optionB": "By reducing operational costs due to warmer temperatures",
+    "optionC": "Through potential increases in healthcare encounters, affecting revenues, costs, and plan affordability",
+    "optionD": "By improving the efficiency of pharmacy benefit management",
+    "optionE": "Through decreased competition in the industry",
+    "answer": "C. Through potential increases in healthcare encounters, affecting revenues, costs, and plan affordability",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "292, 293",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How does the document suggest managed care companies can better position themselves to protect shareholder value in the face of climate change?",
+    "optionA": "By focusing solely on reducing operational costs",
+    "optionB": "Through aggressive marketing of new insurance products",
+    "optionC": "By addressing risks from extreme weather events and changes in disease patterns",
+    "optionD": "By lobbying for favorable legislation",
+    "optionE": "Through mergers and acquisitions to increase market share",
+    "answer": "C. By addressing risks from extreme weather events and changes in disease patterns",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "293",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "What combination of factors, according to the document, traditionally influences enrollment and revenue in the Managed Care industry, and how might climate change impact these factors?",
+    "optionA": "Enrollment is influenced by stock market performance, and revenue by government subsidies",
+    "optionB": "Enrollment is tied to employment rates, revenue to medical cost inflation, both potentially affected by climate-related health impacts",
+    "optionC": "Enrollment depends on marketing efforts, and revenue on customer retention rates",
+    "optionD": "Enrollment is based on age demographics, and revenue on prescription drug prices",
+    "optionE": "Enrollment is determined by geographic location, and revenue by the number of hospital beds",
+    "answer": "B. Enrollment is tied to employment rates, revenue to medical cost inflation, both potentially affected by climate-related health impacts",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "292, 293",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "Based on the information provided, how might a managed care company's strategy to address climate change impacts differ for tropical regions compared to non-tropical regions?",
+    "optionA": "Focus on heat-induced illnesses in tropical regions and allergies in non-tropical regions",
+    "optionB": "Prepare for increased vector-borne diseases in non-tropical regions and waterborne diseases in tropical regions",
+    "optionC": "Concentrate on malnutrition in tropical regions and asthma in non-tropical regions",
+    "optionD": "Emphasize cholera prevention in non-tropical regions and malaria prevention in tropical regions",
+    "optionE": "Implement identical strategies for both regions, focusing on general health impacts",
+    "answer": "B. Prepare for increased vector-borne diseases in non-tropical regions and waterborne diseases in tropical regions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "293",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What does the term 'morbidity' refer to in the context of climate change impacts on human health?",
+    "optionA": "The death rate associated with a specific disease",
+    "optionB": "The geographic spread of a disease",
+    "optionC": "The rate of occurrence of a disease or medical condition",
+    "optionD": "The economic cost of treating a disease",
+    "optionE": "The average lifespan of individuals with a specific condition",
+    "answer": "C. The rate of occurrence of a disease or medical condition",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "293",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is meant by 'risk-adjustment activities' in the context of managed care and climate change?",
+    "optionA": "Activities to reduce the physical risks of climate change",
+    "optionB": "Processes to modify insurance premiums based on individual health risks",
+    "optionC": "Strategies to diversify investment portfolios to minimize climate-related financial risks",
+    "optionD": "Methods to adjust financial reports to reflect climate change impacts",
+    "optionE": "Techniques to alter climate models for more accurate predictions",
+    "answer": "B. Processes to modify insurance premiums based on individual health risks",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "293",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What does the term 'vector-borne tropical diseases' refer to in the context of climate change impacts?",
+    "optionA": "Diseases caused by extreme heat in tropical regions",
+    "optionB": "Illnesses resulting from tropical fruit consumption",
+    "optionC": "Diseases transmitted by insects or other organisms that carry pathogens",
+    "optionD": "Conditions caused by increased UV radiation in tropical areas",
+    "optionE": "Ailments resulting from tropical plant toxins",
+    "answer": "C. Diseases transmitted by insects or other organisms that carry pathogens",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "293",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What does 'plan affordability' refer to in the context of managed care and climate change impacts?",
+    "optionA": "The cost of implementing climate change mitigation strategies",
+    "optionB": "The ability of insurance companies to offer lower premiums",
+    "optionC": "The financial capacity of individuals to purchase health insurance plans",
+    "optionD": "The cost-effectiveness of medical treatments for climate-related illnesses",
+    "optionE": "The economic feasibility of expanding healthcare services to new geographic areas",
+    "answer": "C. The financial capacity of individuals to purchase health insurance plans",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "293",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might climate change-related extreme weather events impact the Managed Care industry's operations?",
+    "optionA": "By increasing the demand for travel insurance",
+    "optionB": "By reducing the need for health insurance coverage",
+    "optionC": "By increasing encounters with the health care system due to health impacts",
+    "optionD": "By improving the overall health of the population",
+    "optionE": "By decreasing the cost of medical treatments",
+    "answer": "C. By increasing encounters with the health care system due to health impacts",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "293",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "What are some potential health consequences of climate change that managed care companies need to consider in their risk models?",
+    "optionA": "Increased rates of skin cancer only",
+    "optionB": "Decreased incidence of respiratory diseases",
+    "optionC": "Higher rates of car accidents",
+    "optionD": "Increased allergic responses, asthma rates, and heat-induced illnesses",
+    "optionE": "Lower mortality rates across all age groups",
+    "answer": "D. Increased allergic responses, asthma rates, and heat-induced illnesses",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "293",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "In the context of climate change impacts on managed care, what does 'geographic incidence' refer to?",
+    "optionA": "The location of insurance company headquarters",
+    "optionB": "The spread of diseases to new geographic areas",
+    "optionC": "The number of hospitals in a specific region",
+    "optionD": "The frequency of natural disasters in urban areas",
+    "optionE": "The distribution of healthcare providers across a country",
+    "answer": "B. The spread of diseases to new geographic areas",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "293",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might climate change-induced food scarcity impact the Managed Care industry?",
+    "optionA": "It would lead to decreased demand for health insurance",
+    "optionB": "It would result in lower operational costs for insurance companies",
+    "optionC": "It could increase rates of human developmental diseases like malnutrition",
+    "optionD": "It would have no impact on the health care system",
+    "optionE": "It would improve the overall health of the population",
+    "answer": "C. It could increase rates of human developmental diseases like malnutrition",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "293",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the IFRS S2 Climate-related Disclosures, what specific aspects of illnesses and diseases should managed care entities discuss in their strategic approach to addressing climate change risks?",
+    "optionA": "Only geographic incidence",
+    "optionB": "Morbidity and mortality",
+    "optionC": "Geographic incidence, morbidity, and mortality",
+    "optionD": "Only mortality rates",
+    "optionE": "Incubation periods and transmission rates",
+    "answer": "C: Geographic incidence, morbidity, and mortality",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "293",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What are managed care entities required to discuss regarding the financial impacts of climate change on their business?",
+    "optionA": "Only changes in revenue",
+    "optionB": "Only changes in costs",
+    "optionC": "Only changes in plan affordability",
+    "optionD": "Projected impacts on revenue, costs, and plan affordability",
+    "optionE": "Only changes in shareholder value",
+    "answer": "D: Projected impacts on revenue, costs, and plan affordability",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "293",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What activity metric is specified in Table 2 for managed care companies to report?",
+    "optionA": "Total revenue by plan type",
+    "optionB": "Number of claims processed annually",
+    "optionC": "Number of enrollees by plan type",
+    "optionD": "Average cost per enrollee",
+    "optionE": "Number of healthcare providers in network",
+    "answer": "C: Number of enrollees by plan type",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "292",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the Managed Care industry's risk models need to evolve to address the potential spread of tropical diseases to non-tropical regions due to climate change?",
+    "optionA": "By focusing solely on current disease patterns in tropical regions",
+    "optionB": "By ignoring climate change projections in their risk assessments",
+    "optionC": "By incorporating climate change projections and potential shifts in disease vectors into their risk models",
+    "optionD": "By eliminating coverage for tropical diseases in all regions",
+    "optionE": "By increasing premiums uniformly across all geographic areas",
+    "answer": "C: By incorporating climate change projections and potential shifts in disease vectors into their risk models",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "293",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "What strategic approaches might managed care companies adopt to address the potential increase in heat-induced illnesses due to climate change?",
+    "optionA": "Ignore the issue as it's not a significant concern",
+    "optionB": "Develop targeted prevention programs and adjust coverage policies for heat-related conditions",
+    "optionC": "Discontinue coverage for all heat-related illnesses",
+    "optionD": "Only provide coverage for heat-induced illnesses in traditionally hot regions",
+    "optionE": "Increase premiums for all customers regardless of their geographic location",
+    "answer": "B: Develop targeted prevention programs and adjust coverage policies for heat-related conditions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "293",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might managed care entities need to adapt their business operations to address the potential increase in waterborne diseases due to more frequent natural disasters?",
+    "optionA": "By reducing coverage for all water-related illnesses",
+    "optionB": "By ignoring the link between natural disasters and waterborne diseases",
+    "optionC": "By focusing only on regions with a history of natural disasters",
+    "optionD": "By enhancing preparedness, adjusting risk models, and collaborating with public health agencies",
+    "optionE": "By transferring all risk to reinsurance companies",
+    "answer": "D: By enhancing preparedness, adjusting risk models, and collaborating with public health agencies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "293",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the interplay between climate change, food availability, and human developmental diseases impact managed care companies' long-term strategic planning?",
+    "optionA": "A. It may require companies to focus solely on short-term profit maximization",
+    "optionB": "B. It could necessitate partnerships with agricultural companies to ensure food security",
+    "optionC": "C. It might lead to a shift towards prioritizing preventive care and nutrition programs",
+    "optionD": "D. It would likely have no significant impact on managed care strategies",
+    "optionE": "E. It could result in managed care companies investing heavily in climate change mitigation technologies",
+    "answer": "C. It might lead to a shift towards prioritizing preventive care and nutrition programs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "293",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a required disclosure topic for managed care companies regarding climate change impacts?",
+    "optionA": "Changes in geographic incidence of diseases",
+    "optionB": "Changes in morbidity rates",
+    "optionC": "Changes in mortality rates",
+    "optionD": "Projected impacts on revenue and costs",
+    "optionE": "Detailed carbon emission reduction targets",
+    "answer": "E. Detailed carbon emission reduction targets",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "293",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT listed as an activity metric for the managed care industry in the sustainability disclosure requirements?",
+    "optionA": "Number of enrollees by plan type",
+    "optionB": "Total revenue from all plans",
+    "optionC": "Number of Medicare enrollees",
+    "optionD": "Number of Medicaid enrollees",
+    "optionE": "Number of commercial plan enrollees",
+    "answer": "B. Total revenue from all plans",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "292",
+    "industries": [
+      "b30-managed-care"
+    ]
+  }
+]

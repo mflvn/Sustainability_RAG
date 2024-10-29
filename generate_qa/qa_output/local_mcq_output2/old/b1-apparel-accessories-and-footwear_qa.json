@@ -1,0 +1,152 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to the IFRS S2 Climate-related Disclosures for the Apparel, Accessories & Footwear industry, how should a company calculate the percentage of raw materials third-party certified to an environmental and/or social sustainability standard?",
+    "optionA": "By the number of certified suppliers divided by the total number of suppliers",
+    "optionB": "By the revenue generated from certified materials divided by total revenue",
+    "optionC": "By the weight of certified raw materials divided by the total weight of raw materials",
+    "optionD": "By the cost of certified materials divided by the total cost of raw materials",
+    "optionE": "By the volume of certified materials divided by the total volume of materials",
+    "answer": "C. By the weight of certified raw materials divided by the total weight of raw materials",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+    "page": "10",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When discussing environmental supply chain risks in the Apparel, Accessories & Footwear industry, which of the following is NOT mentioned as a specific risk in the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Climate change impacts on natural fiber crop production",
+    "optionB": "Legislation on greenhouse gases affecting petroleum-derived raw materials",
+    "optionC": "Tightening environmental regulations for suppliers",
+    "optionD": "Lack of full traceability to the source of raw materials",
+    "optionE": "Fluctuations in currency exchange rates affecting raw material costs",
+    "answer": "E. Fluctuations in currency exchange rates affecting raw material costs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+    "page": "8-9",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to the IFRS S2 Climate-related Disclosures, if a company identifies cotton as one of its priority raw materials, what specific aspect should it discuss regarding water stress?",
+    "optionA": "The company's water conservation initiatives in cotton production",
+    "optionB": "Its vulnerability to cotton-growing regions with water stress and management of price variability risk",
+    "optionC": "The percentage of cotton sourced from regions with low water stress",
+    "optionD": "Water treatment processes used in cotton production",
+    "optionE": "The company's targets for reducing water usage in cotton cultivation",
+    "answer": "B. Its vulnerability to cotton-growing regions with water stress and management of price variability risk",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+    "page": "9",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "In the context of Raw Materials Sourcing disclosure for the Apparel, Accessories & Footwear industry, how are 'priority raw materials' defined according to the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Materials that constitute more than 50% of the product's weight",
+    "optionB": "Materials sourced from high-risk environmental regions",
+    "optionC": "Materials essential to products that accounted for 10% or more of consolidated revenue in any of the last three fiscal years",
+    "optionD": "The top five most expensive raw materials used in production",
+    "optionE": "Materials that have the highest environmental impact in the supply chain",
+    "answer": "C. Materials essential to products that accounted for 10% or more of consolidated revenue in any of the last three fiscal years",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+    "page": "8",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of raw materials certified to specific sustainability standards, what approach should be taken for materials derived using a certified process?",
+    "optionA": "Exclude them from the calculation",
+    "optionB": "Count them as 50% of their actual weight",
+    "optionC": "Include them only if the final product is also certified",
+    "optionD": "Include them in the scope of raw materials certified to an environmental and/or social standard",
+    "optionE": "Calculate them separately from directly certified materials",
+    "answer": "D. Include them in the scope of raw materials certified to an environmental and/or social standard",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+    "page": "10",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "In reporting the number of suppliers for the Apparel, Accessories & Footwear industry, how should a company handle data uncertainty for suppliers beyond Tier 1?",
+    "optionA": "Exclude all uncertain data from the report",
+    "optionB": "Only report on Tier 1 suppliers to avoid uncertainty",
+    "optionC": "Use industry averages to fill in gaps",
+    "optionD": "Round all uncertain numbers to the nearest hundred",
+    "optionE": "Disclose if any supplier data beyond Tier 1 is based on assumptions, estimates, or includes uncertainty",
+    "answer": "E. Disclose if any supplier data beyond Tier 1 is based on assumptions, estimates, or includes uncertainty",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+    "page": "7",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When identifying priority raw materials for disclosure in the Apparel, Accessories & Footwear industry, which financial threshold should be used?",
+    "optionA": "Materials accounting for 5% or more of total costs",
+    "optionB": "Materials used in products that generated 10% or more of consolidated revenue in any of the last three fiscal years",
+    "optionC": "Materials comprising 15% or more of the product's weight",
+    "optionD": "Materials sourced from at least three different countries",
+    "optionE": "Materials with the highest price volatility in the past year",
+    "answer": "B. Materials used in products that generated 10% or more of consolidated revenue in any of the last three fiscal years",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+    "page": "8",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What unique challenge does the Apparel, Accessories & Footwear industry face when reporting on raw material sourcing risks related to cotton?",
+    "optionA": "Reporting on fashion trends",
+    "optionB": "Disclosing manufacturing locations",
+    "optionC": "Discussing vulnerability to water stress in cotton-growing regions",
+    "optionD": "Reporting on retail sales figures",
+    "optionE": "Disclosing marketing strategies",
+    "answer": "C. Discussing vulnerability to water stress in cotton-growing regions",
+    "reference": "Raw Materials Sourcing",
+    "page": "9",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What specific social supply chain risk must companies in the Apparel, Accessories & Footwear industry address in their sustainability reports?",
+    "optionA": "Customer demographics",
+    "optionB": "Employee training programs",
+    "optionC": "Suppliers' animal welfare practices",
+    "optionD": "Brand ambassador selection",
+    "optionE": "Seasonal collection themes",
+    "answer": "C. Suppliers' animal welfare practices",
+    "reference": "Raw Materials Sourcing",
+    "page": "9",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When reporting on raw materials sourcing strategies in the Apparel, Accessories & Footwear industry, which of the following is a unique approach that companies should consider discussing?",
+    "optionA": "Store layout optimization",
+    "optionB": "Customer loyalty programs",
+    "optionC": "Research into alternative materials with less environmental or social risks",
+    "optionD": "Packaging design innovations",
+    "optionE": "Inventory management techniques",
+    "answer": "C. Research into alternative materials with less environmental or social risks",
+    "reference": "Raw Materials Sourcing",
+    "page": "9",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  }
+]

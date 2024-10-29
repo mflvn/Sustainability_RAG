@@ -1,0 +1,146 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When disclosing incidents of non-compliance with environmental regulations, what is the key difference between the Engineering & Construction Services industry and the Containers & Packaging industry?",
+    "optionA": "Engineering & Construction only reports incidents resulting in fines",
+    "optionB": "Containers & Packaging includes violations by subcontractors",
+    "optionC": "Engineering & Construction includes incidents by supervised subcontractors",
+    "optionD": "Containers & Packaging only reports continuous discharge violations",
+    "optionE": "Engineering & Construction excludes one-time violations",
+    "answer": "C: Engineering & Construction includes incidents by supervised subcontractors",
+    "explanation": "For Engineering & Construction Services, IF-EN-160a.1 specifies that the scope of disclosure includes incidents of non-compliance received by the entity and by subcontractors under the entity's direct supervision. In contrast, the Containers & Packaging industry's RT-CP-140a.3 does not mention including subcontractor violations in its scope.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Engineering & Construction Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Containers & Packaging"
+    ],
+    "pages": [
+      "324",
+      "518"
+    ],
+    "pairing_explanation": "Both sectors deal with large-scale material use and waste generation, requiring rigorous sustainability strategies in lifecycle management and emissions.",
+    "industries": [
+      "b33-engineering-and-construction-services",
+      "b48-containers-and-packaging"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "How do the IFRS standards for the Engineering & Construction Services and Containers & Packaging industries differ in their requirements for disclosing water management risks?",
+    "optionA": "Only Engineering & Construction must discuss short-term and long-term strategies",
+    "optionB": "Only Containers & Packaging must disclose water stress percentages",
+    "optionC": "Engineering & Construction focuses on project-specific risks, while Containers & Packaging addresses facility-level risks",
+    "optionD": "Containers & Packaging must provide more detailed quantitative metrics",
+    "optionE": "Engineering & Construction is not required to discuss water management risks",
+    "answer": "C: Engineering & Construction focuses on project-specific risks, while Containers & Packaging addresses facility-level risks",
+    "explanation": "The Engineering & Construction Services industry (IF-EN-160a.2) requires discussion of processes to assess and manage environmental risks associated with project design, siting, and construction, including water management. In contrast, the Containers & Packaging industry (RT-CP-140a.2) focuses on facility-level water management risks, including water stress and regulatory risks.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Engineering & Construction Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Containers & Packaging"
+    ],
+    "pages": [
+      "324-325",
+      "516-517"
+    ],
+    "pairing_explanation": "Both sectors deal with large-scale material use and waste generation, requiring rigorous sustainability strategies in lifecycle management and emissions.",
+    "industries": [
+      "b33-engineering-and-construction-services",
+      "b48-containers-and-packaging"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When comparing the Engineering & Construction Services and Containers & Packaging industries, how do their metrics for assessing climate-related business impacts differ?",
+    "optionA": "Engineering & Construction focuses on project backlog, while Containers & Packaging emphasizes current production",
+    "optionB": "Containers & Packaging measures greenhouse gas emissions, while Engineering & Construction does not",
+    "optionC": "Engineering & Construction reports on renewable energy projects, while Containers & Packaging does not",
+    "optionD": "Containers & Packaging calculates energy intensity, while Engineering & Construction measures total energy consumption",
+    "optionE": "Both industries use identical metrics for climate-related business impacts",
+    "answer": "A: Engineering & Construction focuses on project backlog, while Containers & Packaging emphasizes current production",
+    "explanation": "The Engineering & Construction Services industry uses metrics related to project backlog for assessing climate impacts (IF-EN-410b.1, IF-EN-410b.2, IF-EN-410b.3), including backlog for hydrocarbon-related and renewable energy projects. In contrast, the Containers & Packaging industry focuses on current production metrics (RT-CP-000.A, RT-CP-000.B) and greenhouse gas emissions (RT-CP-110a.1) to assess climate-related business impacts.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Engineering & Construction Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Containers & Packaging"
+    ],
+    "pages": [
+      "331-334",
+      "508-511"
+    ],
+    "pairing_explanation": "Both sectors deal with large-scale material use and waste generation, requiring rigorous sustainability strategies in lifecycle management and emissions.",
+    "industries": [
+      "b33-engineering-and-construction-services",
+      "b48-containers-and-packaging"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "How do the IFRS standards for the Engineering & Construction Services and Containers & Packaging industries differ in their approach to measuring and reporting on energy management?",
+    "optionA": "Engineering & Construction reports on energy efficiency in completed projects, while Containers & Packaging focuses on manufacturing energy consumption",
+    "optionB": "Containers & Packaging must report percentage of renewable energy, while Engineering & Construction does not have this requirement",
+    "optionC": "Engineering & Construction reports on energy backlog, while Containers & Packaging reports on current energy consumption",
+    "optionD": "Both industries have identical energy management reporting requirements",
+    "optionE": "Engineering & Construction is not required to report on energy management",
+    "answer": "B: Containers & Packaging must report percentage of renewable energy, while Engineering & Construction does not have this requirement",
+    "explanation": "The Containers & Packaging industry is required to report on total energy consumed, including the percentage of renewable energy (RT-CP-130a.1). In contrast, the Engineering & Construction Services industry focuses on incorporating operational-phase energy efficiency considerations into project planning and design (IF-EN-410a.2) but does not have a specific requirement to report on renewable energy percentages in its own operations.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Engineering & Construction Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Containers & Packaging"
+    ],
+    "pages": [
+      "329-330",
+      "512-513"
+    ],
+    "pairing_explanation": "Both sectors deal with large-scale material use and waste generation, requiring rigorous sustainability strategies in lifecycle management and emissions.",
+    "industries": [
+      "b33-engineering-and-construction-services",
+      "b48-containers-and-packaging"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the sustainability reporting requirements for supply chain management differ between the Engineering & Construction Services and Containers & Packaging industries?",
+    "optionA": "Engineering & Construction must report on sustainable material sourcing, while Containers & Packaging does not",
+    "optionB": "Containers & Packaging must disclose certified sourcing percentages, while Engineering & Construction has no such requirement",
+    "optionC": "Both industries have identical supply chain management reporting requirements",
+    "optionD": "Engineering & Construction reports on subcontractor sustainability, while Containers & Packaging focuses on raw material sourcing",
+    "optionE": "Neither industry has specific supply chain management reporting requirements",
+    "answer": "B: Containers & Packaging must disclose certified sourcing percentages, while Engineering & Construction has no such requirement",
+    "explanation": "The Containers & Packaging industry has specific requirements to disclose the percentage of wood fiber and aluminum procured from certified sources (RT-CP-430a.1 and RT-CP-430a.2). In contrast, the Engineering & Construction Services industry does not have explicit requirements for reporting on sustainable material sourcing or supply chain management in its IFRS standards.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Engineering & Construction Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Containers & Packaging"
+    ],
+    "pages": [
+      "321-334",
+      "520-521"
+    ],
+    "pairing_explanation": "Both sectors deal with large-scale material use and waste generation, requiring rigorous sustainability strategies in lifecycle management and emissions.",
+    "industries": [
+      "b33-engineering-and-construction-services",
+      "b48-containers-and-packaging"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing the Engineering & Construction Services and Containers & Packaging industries, how do their approaches to reporting on product lifecycle impacts differ?",
+    "optionA": "Engineering & Construction focuses on operational-phase impacts, while Containers & Packaging emphasizes production-phase impacts",
+    "optionB": "Containers & Packaging reports on end-of-life recycling, while Engineering & Construction does not address end-of-life impacts",
+    "optionC": "Both industries have identical lifecycle impact reporting requirements",
+    "optionD": "Engineering & Construction reports on project certifications, while Containers & Packaging has no certification requirements",
+    "optionE": "Neither industry is required to report on product lifecycle impacts",
+    "answer": "A: Engineering & Construction focuses on operational-phase impacts, while Containers & Packaging emphasizes production-phase impacts",
+    "explanation": "The Engineering & Construction Services industry is required to discuss the process of incorporating operational-phase energy and water efficiency considerations into project planning and design (IF-EN-410a.2). In contrast, the Containers & Packaging industry's metrics focus more on production-phase impacts, such as greenhouse gas emissions, energy consumption, and water management during the manufacturing process (RT-CP-110a.1, RT-CP-130a.1, RT-CP-140a.1).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Engineering & Construction Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Containers & Packaging"
+    ],
+    "pages": [
+      "329-330",
+      "508-518"
+    ],
+    "pairing_explanation": "Both sectors deal with large-scale material use and waste generation, requiring rigorous sustainability strategies in lifecycle management and emissions.",
+    "industries": [
+      "b33-engineering-and-construction-services",
+      "b48-containers-and-packaging"
+    ]
+  }
+]

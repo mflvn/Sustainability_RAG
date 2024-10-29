@@ -1,0 +1,182 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2 Climate-related Disclosures for the Hardware industry, which of the following is NOT a required activity metric?",
+    "optionA": "Number of units produced by product category",
+    "optionB": "Area of manufacturing facilities",
+    "optionC": "Percentage of production from owned facilities",
+    "optionD": "Total revenue from hardware products",
+    "optionE": "Square footage of office space",
+    "answer": "E. Square footage of office space",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hardware",
+    "page": "552",
+    "industries": [
+      "b55-hardware"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing the percentage of products containing IEC 62474 declarable substances, how should a company calculate this percentage?",
+    "optionA": "Number of products with declarable substances / Total number of products",
+    "optionB": "Weight of products with declarable substances / Total weight of all products",
+    "optionC": "Revenue from products with declarable substances / Total revenue from all products",
+    "optionD": "Cost of products with declarable substances / Total cost of all products",
+    "optionE": "Units of products with declarable substances / Total units of all products",
+    "answer": "C. Revenue from products with declarable substances / Total revenue from all products",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hardware",
+    "page": "554",
+    "industries": [
+      "b55-hardware"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "Which of the following is NOT considered an 'eligible product' for EPEAT registration disclosure purposes?",
+    "optionA": "Desktop computers",
+    "optionB": "Notebook computers",
+    "optionC": "Computer displays",
+    "optionD": "Mobile phones",
+    "optionE": "Printers",
+    "answer": "E. Printers",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hardware",
+    "page": "555-556",
+    "industries": [
+      "b55-hardware"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When reporting on end-of-life products and e-waste recovery, which of the following should NOT be included in the scope of 'end-of-life material that was recovered'?",
+    "optionA": "Products collected through reverse logistics services",
+    "optionB": "Materials collected through product take-back programs",
+    "optionC": "E-waste collected by third parties for recycling",
+    "optionD": "Products collected for refurbishment services",
+    "optionE": "Materials collected for in-warranty repair",
+    "answer": "E. Materials collected for in-warranty repair",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hardware",
+    "page": "557",
+    "industries": [
+      "b55-hardware"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of products meeting EPEAT registration requirements, which of the following is the correct formula?",
+    "optionA": "Total revenue from all products sold / Revenue from EPEAT registered products",
+    "optionB": "Revenue from EPEAT registered products / Total revenue from all products sold",
+    "optionC": "Revenue from EPEAT registered products / Total revenue from EPEAT eligible products",
+    "optionD": "Number of EPEAT registered products / Total number of products sold",
+    "optionE": "Weight of EPEAT registered products / Total weight of all products sold",
+    "answer": "C. Revenue from EPEAT registered products / Total revenue from EPEAT eligible products",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hardware",
+    "page": "555-556",
+    "industries": [
+      "b55-hardware"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "For energy efficiency certification reporting, how should a company handle products certified to a previous version of the standard?",
+    "optionA": "Exclude them from the report entirely",
+    "optionB": "Include them without any additional information",
+    "optionC": "Include them, but only if they meet the current version's requirements",
+    "optionD": "Include them, disclosing the version, breakdown, and timeline for current certification",
+    "optionE": "Average the efficiency ratings between old and new versions",
+    "answer": "D. Include them, disclosing the version, breakdown, and timeline for current certification",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hardware",
+    "page": "556-557",
+    "industries": [
+      "b55-hardware"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of end-of-life material recycled, which of the following is NOT considered 'recycled material'?",
+    "optionA": "Reused products",
+    "optionB": "Reclaimed materials",
+    "optionC": "Primary recycled materials",
+    "optionD": "Co-products of equal value to primary recycled materials",
+    "optionE": "Material disposed of in landfills",
+    "answer": "E. Material disposed of in landfills",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hardware",
+    "page": "557-558",
+    "industries": [
+      "b55-hardware"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "For reporting on IEC 62474 declarable substances, how is a product determined to contain a declarable substance?",
+    "optionA": "If it contains any amount of the substance",
+    "optionB": "If it contains the substance above the 'reporting threshold' only",
+    "optionC": "If it's within the 'reporting application' scope only",
+    "optionD": "If it meets the mandatory 'reporting requirement' only",
+    "optionE": "If it's above the 'reporting threshold', within the 'reporting application' scope, and meets the mandatory 'reporting requirement'",
+    "answer": "E. If it's above the 'reporting threshold', within the 'reporting application' scope, and meets the mandatory 'reporting requirement'",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hardware",
+    "page": "554-555",
+    "industries": [
+      "b55-hardware"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A hardware company is struggling to manage the use of substances that appear as declarable in IEC 62474. Which of the following is NOT mentioned as a relevant management approach in the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Product design criteria for substance exclusion",
+    "optionB": "Material substitution assessments",
+    "optionC": "Product safety testing",
+    "optionD": "Supplier audits for substance compliance",
+    "optionE": "Product labeling",
+    "answer": "D. Supplier audits for substance compliance",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hardware",
+    "page": "554-555",
+    "industries": [
+      "b55-hardware"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A hardware company is preparing its sustainability report and needs to disclose its approach to incorporating environmentally focused principles into product design. Which of the following is NOT listed as an environmentally focused principle or criteria in the IFRS S2 disclosure requirements?",
+    "optionA": "Elimination of toxic substances",
+    "optionB": "Use of recycled materials",
+    "optionC": "Design for consolidated shipping",
+    "optionD": "Implementation of carbon offsetting programs",
+    "optionE": "Design for product take-back",
+    "answer": "D. Implementation of carbon offsetting programs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hardware",
+    "page": "556",
+    "industries": [
+      "b55-hardware"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When reporting on end-of-life product recovery and recycling, a hardware company is unsure about what to include in the scope. According to IFRS S2, which of the following should NOT be included in the weight of end-of-life products recovered?",
+    "optionA": "Products collected through reverse logistics services",
+    "optionB": "Materials collected by third parties for reuse or recycling",
+    "optionC": "Products collected through take-back programs",
+    "optionD": "Materials collected for refurbishment services",
+    "optionE": "Products that are in-warranty and subject to recall",
+    "answer": "E. Products that are in-warranty and subject to recall",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hardware",
+    "page": "557-558",
+    "industries": [
+      "b55-hardware"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A hardware company is facing challenges in accurately reporting the percentage of its products that meet EPEAT registration requirements. According to IFRS S2, which of the following statements is true regarding EPEAT equivalent standards?",
+    "optionA": "Only EPEAT registration is accepted; no equivalent standards are recognized",
+    "optionB": "Equivalent standards must be approved by a government regulatory body",
+    "optionC": "Equivalent standards should cover substantially similar topics as EPEAT",
+    "optionD": "Equivalent standards are limited to those developed in the United States",
+    "optionE": "EPEAT equivalency is determined solely by the number of criteria in the standard",
+    "answer": "C. Equivalent standards should cover substantially similar topics as EPEAT",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hardware",
+    "page": "555-556",
+    "industries": [
+      "b55-hardware"
+    ]
+  }
+]

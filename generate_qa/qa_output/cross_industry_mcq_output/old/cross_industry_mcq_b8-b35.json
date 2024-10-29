@@ -1,0 +1,145 @@
+[
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the Construction Materials and Home Builders industries differ in their approach to water management?",
+    "optionA": "Construction Materials focuses on water recycling, while Home Builders focus on water fixture efficiency",
+    "optionB": "Construction Materials prioritizes reducing water consumption, while Home Builders focus on flood risk",
+    "optionC": "Home Builders emphasize water conservation in landscaping, while Construction Materials focus on process water reuse",
+    "optionD": "Construction Materials considers water stress in site selection, while Home Builders focus on stormwater management",
+    "optionE": "Both industries have identical approaches to water management",
+    "answer": "A: Construction Materials focuses on water recycling, while Home Builders focus on water fixture efficiency",
+    "explanation": "The Construction Materials industry metric EM-CM-140a.1 emphasizes total fresh water withdrawn and percentage recycled, while the Home Builders industry metric IF-HB-410a.2 focuses on the percentage of installed water fixtures certified to water efficiency standards like WaterSense\u00ae.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Construction Materials",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders"
+    ],
+    "pages": [
+      "64",
+      "352-353"
+    ],
+    "pairing_explanation": "Home building and the creation of construction materials both have substantial impacts on resource extraction, land use, and waste generation.",
+    "industries": [
+      "b8-construction-materials",
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Metric Comparison",
+    "question": "Which sustainability metric is common to both the Construction Materials and Home Builders industries?",
+    "optionA": "Percentage of products qualifying for sustainable building credits",
+    "optionB": "Number of homes delivered in water-stressed regions",
+    "optionC": "Total energy consumed and percentage from renewable sources",
+    "optionD": "Air emissions of specific pollutants",
+    "optionE": "Total amount of monetary losses from environmental regulation proceedings",
+    "answer": "E: Total amount of monetary losses from environmental regulation proceedings",
+    "explanation": "Both industries have metrics related to monetary losses from environmental regulation proceedings. For Construction Materials, it's metric EM-CM-160a.3, and for Home Builders, it's metric IF-HB-160a.3.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Construction Materials",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders"
+    ],
+    "pages": [
+      "59-60",
+      "349-350"
+    ],
+    "pairing_explanation": "Home building and the creation of construction materials both have substantial impacts on resource extraction, land use, and waste generation.",
+    "industries": [
+      "b8-construction-materials",
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Trend Identification",
+    "question": "What common trend is driving innovation in both the Construction Materials and Home Builders industries?",
+    "optionA": "Increasing demand for larger homes",
+    "optionB": "Growing preference for urban living",
+    "optionC": "Rising interest in sustainable and resource-efficient buildings",
+    "optionD": "Shift towards prefabricated construction methods",
+    "optionE": "Declining importance of energy efficiency",
+    "answer": "C: Rising interest in sustainable and resource-efficient buildings",
+    "explanation": "Both industries show a trend towards sustainability and resource efficiency. The Construction Materials industry focuses on product innovation for sustainable building credits (EM-CM-410a.1) and reduced environmental impact products (EM-CM-410a.2). The Home Builders industry emphasizes design for resource efficiency (IF-HB-410a.1 to IF-HB-410a.4) and green building certifications (IF-HB-410a.3).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Construction Materials",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders"
+    ],
+    "pages": [
+      "67-68",
+      "352-354"
+    ],
+    "pairing_explanation": "Home building and the creation of construction materials both have substantial impacts on resource extraction, land use, and waste generation.",
+    "industries": [
+      "b8-construction-materials",
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the Construction Materials and Home Builders industries differ in their approach to climate change risks?",
+    "optionA": "Construction Materials focuses on emissions reduction, while Home Builders emphasize flood risk assessment",
+    "optionB": "Home Builders consider long-term climate scenarios, while Construction Materials focus on short-term weather patterns",
+    "optionC": "Construction Materials prioritize adaptation strategies, while Home Builders focus on mitigation",
+    "optionD": "Both industries have identical approaches to climate change risks",
+    "optionE": "Neither industry considers climate change risks in their reporting",
+    "answer": "A: Construction Materials focuses on emissions reduction, while Home Builders emphasize flood risk assessment",
+    "explanation": "The Construction Materials industry metrics (EM-CM-110a.1 and EM-CM-110a.2) focus on greenhouse gas emissions and reduction strategies. In contrast, the Home Builders industry metrics (IF-HB-420a.1 and IF-HB-420a.2) emphasize flood zone risk assessment and climate change risk exposure analysis.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Construction Materials",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders"
+    ],
+    "pages": [
+      "55-58",
+      "355-356"
+    ],
+    "pairing_explanation": "Home building and the creation of construction materials both have substantial impacts on resource extraction, land use, and waste generation.",
+    "industries": [
+      "b8-construction-materials",
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Metric Comparison",
+    "question": "Which sustainability metric is unique to the Home Builders industry when compared to the Construction Materials industry?",
+    "optionA": "Percentage of renewable energy used in operations",
+    "optionB": "Number of homes delivered certified to a third-party multi-attribute green building standard",
+    "optionC": "Total water consumption and recycling rate",
+    "optionD": "Amount of waste generated and recycled",
+    "optionE": "Air quality impact of manufacturing processes",
+    "answer": "B: Number of homes delivered certified to a third-party multi-attribute green building standard",
+    "explanation": "The Home Builders industry has a unique metric (IF-HB-410a.3) that measures the number of homes delivered certified to a third-party multi-attribute green building standard. This metric is not present in the Construction Materials industry disclosures.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Construction Materials",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders"
+    ],
+    "pages": [
+      "353-354"
+    ],
+    "pairing_explanation": "Home building and the creation of construction materials both have substantial impacts on resource extraction, land use, and waste generation.",
+    "industries": [
+      "b8-construction-materials",
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Trend Identification",
+    "question": "What emerging trend is likely to affect both the Construction Materials and Home Builders industries in terms of sustainability reporting?",
+    "optionA": "Decreased focus on environmental impacts",
+    "optionB": "Shift towards voluntary sustainability disclosures",
+    "optionC": "Increasing emphasis on social metrics over environmental ones",
+    "optionD": "Growing importance of climate change adaptation and mitigation strategies",
+    "optionE": "Reduced investor interest in sustainability performance",
+    "answer": "D: Growing importance of climate change adaptation and mitigation strategies",
+    "explanation": "Both industries show a trend towards increased focus on climate change. The Construction Materials industry emphasizes greenhouse gas emissions management and reduction strategies (EM-CM-110a.2), while the Home Builders industry highlights climate change risk exposure analysis and mitigation strategies (IF-HB-420a.2). This trend is likely to continue and grow in importance for both industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Construction Materials",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders"
+    ],
+    "pages": [
+      "57-58",
+      "356"
+    ],
+    "pairing_explanation": "Home building and the creation of construction materials both have substantial impacts on resource extraction, land use, and waste generation.",
+    "industries": [
+      "b8-construction-materials",
+      "b35-home-builders"
+    ]
+  }
+]

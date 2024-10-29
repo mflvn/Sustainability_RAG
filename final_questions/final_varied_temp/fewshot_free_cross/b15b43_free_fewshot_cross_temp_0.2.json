@@ -1,0 +1,136 @@
+[
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Asset Management & Custody Activities and Pulp & Paper Products industries.",
+    "answer": "Asset Management & Custody Activities:\n- Description of approach to incorporation of environmental, social, and governance (ESG) factors in investment and/or wealth management processes and strategies | Discussion and Analysis | n/a | FN-AC-410a.2\n- Description of proxy voting and investee engagement policies and procedures | Discussion and Analysis | n/a | FN-AC-410a.3\n- Description of the methodology used to calculate financed emissions | Discussion and Analysis | n/a | FN-AC-4\n\nPulp & Paper Products:\n- Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a | RR-PP-110a.2\n- Description of water management risks and discussion of strategies and practices to mitigate those risks | Discussion and Analysis | n/a | RR-PP-140a.2",
+    "reference_text": [
+      "| Incorporation of Environmental, Social, and Governance Factors in Investment Management & Advisory | Description of approach to incorporation of environmental, social, and governance (ESG) factors in investment and/or wealth management processes and strategies | Discussion and Analysis | n/a | FN-AC-410a.2 |",
+      "| Incorporation of Environmental, Social, and Governance Factors in Investment Management & Advisory | Description of proxy voting and investee engagement policies and procedures | Discussion and Analysis | n/a | FN-AC-410a.3 |",
+      "| Transition Risk Exposure| Description of the methodology used to calculate financed emissions | Discussion and Analysis | n/a | FN-AC-4 |",
+      "| Greenhouse Gas Emissions | Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a | RR-PP-110a.2 |",
+      "| Water Management | Description of water management risks and discussion of strategies and practices to mitigate those risks | Discussion and Analysis | n/a | RR-PP-140a.2 |"
+    ],
+    "pages": [
+      "133",
+      "134",
+      "135",
+      "136",
+      "137",
+      "138",
+      "139",
+      "140",
+      "456",
+      "457",
+      "458",
+      "459",
+      "462",
+      "463",
+      "464"
+    ],
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b43-pulp-and-paper-products"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0.2
+  },
+  {
+    "question": "Compare the number of quantitative metrics between Asset Management & Custody Activities and Pulp & Paper Products industries.",
+    "answer": "Asset Management & Custody Activities:\n- Amount of assets under management, by asset class, that employ (1) integration of environmental, social, and governance (ESG) issues, (2) sustainability themed investing, and (3) screening | Quantitative | Reporting currency | FN-AC-410a.1\n- Percentage of total assets under management (AUM) included in the financed emissions calculation | Quantitative | Percentage (%) | FN-AC-1\n- (1) Absolute gross (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) associated amount of total AUM (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e, Presentation currency | FN-AC-2\n- (1) Gross emissions intensity by (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) associated amount of total AUM (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e per unit of economic output, Presentation currency | FN-AC-3\n\nPulp & Paper Products:\n- Gross global Scope 1 emissions | Quantitative | Metric tons (t) CO\u2082-e | RR-PP-110a.1\n- (1) Total energy consumed, (2) percentage grid electricity, (3) percentage from biomass, (4) percentage from other renewable energy | Quantitative | Gigajoules (GJ), Percentage (%) | RR-PP-130a.1\n- (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%) | RR-PP-140a.1\n- Percentage of wood fiber sourced from (1) third-party certified forestlands and percentage to each standard and (2) meeting other fiber sourcing standards and percentage to each standard | Quantitative | Percentage (%) by weight | RR-PP-430a.1\n- Amount of recycled and recovered fiber procured | Quantitative | Metric tons (t) | RR-PP-430a.2",
+    "reference_text": [
+      "| Incorporation of Environmental, Social, and Governance Factors in Investment Management & Advisory | Amount of assets under management, by asset class, that employ (1) integration of environmental, social, and governance (ESG) issues, (2) sustainability themed investing, and (3) screening | Quantitative | Reporting currency | FN-AC-410a.1 |",
+      "| Incorporation of Environmental, Social, and Governance Factors in Investment Management & Advisory | Percentage of total assets under management (AUM) included in the financed emissions calculation | Quantitative | Percentage (%) | FN-AC-1 |",
+      "| Transition Risk Exposure | (1) Absolute gross (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) associated amount of total AUM (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e, Presentation currency | FN-AC-2 |",
+      "| Transition Risk Exposure| (1) Gross emissions intensity by (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) associated amount of total AUM (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e per unit of economic output, Presentation currency | FN-AC-3 |",
+      "| Greenhouse Gas Emissions | Gross global Scope 1 emissions | Quantitative | Metric tons (t) CO\u2082-e | RR-PP-110a.1 |",
+      "| Energy Management | (1) Total energy consumed, (2) percentage grid electricity, (3) percentage from biomass, (4) percentage from other renewable energy | Quantitative | Gigajoules (GJ), Percentage (%) | RR-PP-130a.1 |",
+      "| Water Management | (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%) | RR-PP-140a.1 |",
+      "| Supply Chain Management | Percentage of wood fiber sourced from (1) third-party certified forestlands and percentage to each standard and (2) meeting other fiber sourcing standards and percentage to each standard | Quantitative | Percentage (%) by weight | RR-PP-430a.1 |",
+      "| Supply Chain Management | Amount of recycled and recovered fiber procured | Quantitative | Metric tons (t) | RR-PP-430a.2 |"
+    ],
+    "pages": [
+      "133",
+      "134",
+      "135",
+      "136",
+      "137",
+      "138",
+      "139",
+      "140",
+      "456",
+      "457",
+      "458",
+      "459",
+      "462",
+      "463",
+      "464",
+      "465",
+      "466",
+      "467",
+      "468",
+      "469"
+    ],
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b43-pulp-and-paper-products"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0.2
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Asset Management & Custody Activities and Pulp & Paper Products industries.",
+    "answer": "Asset Management & Custody Activities: FN-AC-410a.1, FN-AC-1, FN-AC-2, FN-AC-3\nPulp & Paper Products: RR-PP-110a.1, RR-PP-130a.1, RR-PP-140a.1, RR-PP-430a.1, RR-PP-430a.2",
+    "reference_text": [
+      "| Incorporation of Environmental, Social, and Governance Factors in Investment Management & Advisory | Amount of assets under management, by asset class, that employ (1) integration of environmental, social, and governance (ESG) issues, (2) sustainability themed investing, and (3) screening | Quantitative | Reporting currency | FN-AC-410a.1 |",
+      "| Incorporation of Environmental, Social, and Governance Factors in Investment Management & Advisory | Percentage of total assets under management (AUM) included in the financed emissions calculation | Quantitative | Percentage (%) | FN-AC-1 |",
+      "| Transition Risk Exposure | (1) Absolute gross (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) associated amount of total AUM (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e, Presentation currency | FN-AC-2 |",
+      "| Transition Risk Exposure| (1) Gross emissions intensity by (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) associated amount of total AUM (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e per unit of economic output, Presentation currency | FN-AC-3 |",
+      "| Greenhouse Gas Emissions | Gross global Scope 1 emissions | Quantitative | Metric tons (t) CO\u2082-e | RR-PP-110a.1 |",
+      "| Energy Management | (1) Total energy consumed, (2) percentage grid electricity, (3) percentage from biomass, (4) percentage from other renewable energy ^71 | Quantitative | Gigajoules (GJ), Percentage (%) | RR-PP-130a.1 |",
+      "| Water Management | (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%) | RR-PP-140a.1 |",
+      "| Supply Chain Management | Percentage of wood fiber sourced from (1) third-party certified forestlands and percentage to each standard and (2) meeting other fiber sourcing standards and percentage to each standard ^72 | Quantitative | Percentage (%) by weight | RR-PP-430a.1 |",
+      "| Supply Chain Management | Amount of recycled and recovered fiber procured ^73 | Quantitative | Metric tons (t) | RR-PP-430a.2 |"
+    ],
+    "pages": [
+      "Page 133",
+      "Page 134",
+      "Page 135",
+      "Page 454",
+      "Page 455",
+      "Page 456"
+    ],
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b43-pulp-and-paper-products"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0.2
+  },
+  {
+    "question": "What units of measurement are used across Asset Management & Custody Activities and Pulp & Paper Products industries for measuring quantitative metrics?",
+    "answer": "Asset Management & Custody Activities: Reporting currency, Percentage (%), Metric tons (t) CO2-e, Metric tons (t) CO2-e per unit of economic output\nPulp & Paper Products: Metric tons (t) CO\u2082-e, Gigajoules (GJ), Percentage (%), Thousand cubic meters (m\u00b3), Percentage (%) by weight",
+    "reference_text": [
+      "| Incorporation of Environmental, Social, and Governance Factors in Investment Management & Advisory | Amount of assets under management, by asset class, that employ (1) integration of environmental, social, and governance (ESG) issues, (2) sustainability themed investing, and (3) screening | Quantitative | Reporting currency | FN-AC-410a.1 |",
+      "| Incorporation of Environmental, Social, and Governance Factors in Investment Management & Advisory | Percentage of total assets under management (AUM) included in the financed emissions calculation | Quantitative | Percentage (%) | FN-AC-1 |",
+      "| Transition Risk Exposure | (1) Absolute gross (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) associated amount of total AUM (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e, Presentation currency | FN-AC-2 |",
+      "| Transition Risk Exposure| (1) Gross emissions intensity by (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) associated amount of total AUM (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e per unit of economic output, Presentation currency | FN-AC-3 |",
+      "| Greenhouse Gas Emissions | Gross global Scope 1 emissions | Quantitative | Metric tons (t) CO\u2082-e | RR-PP-110a.1 |",
+      "| Energy Management | (1) Total energy consumed, (2) percentage grid electricity, (3) percentage from biomass, (4) percentage from other renewable energy ^71 | Quantitative | Gigajoules (GJ), Percentage (%) | RR-PP-130a.1 |",
+      "| Water Management | (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%) | RR-PP-140a.1 |",
+      "| Supply Chain Management | Percentage of wood fiber sourced from (1) third-party certified forestlands and percentage to each standard and (2) meeting other fiber sourcing standards and percentage to each standard ^72 | Quantitative | Percentage (%) by weight | RR-PP-430a.1 |"
+    ],
+    "pages": [
+      "Page 133",
+      "Page 134",
+      "Page 135",
+      "Page 454",
+      "Page 455",
+      "Page 456"
+    ],
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b43-pulp-and-paper-products"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0.2
+  }
+]

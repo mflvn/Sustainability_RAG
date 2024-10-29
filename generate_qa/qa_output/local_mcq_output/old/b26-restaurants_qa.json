@@ -1,0 +1,422 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the three sub-categories of the restaurant industry mentioned in the industry description?",
+    "optionA": "Fast-food, casual dining, and fine dining",
+    "optionB": "Limited-service, casual full-service, and upscale full-service",
+    "optionC": "Quick-service, family-style, and gourmet restaurants",
+    "optionD": "Buffet, \u00e0 la carte, and prix fixe restaurants",
+    "optionE": "Drive-through, sit-down, and delivery-only restaurants",
+    "answer": "B. Limited-service, casual full-service, and upscale full-service",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "270",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the document, what is the scope of renewable energy for biomass sources?",
+    "optionA": "Any biomass source without restrictions",
+    "optionB": "Only biomass from agricultural waste",
+    "optionC": "Biomass certified to third-party standards or eligible for state renewable portfolio standards",
+    "optionD": "Exclusively forest-derived biomass",
+    "optionE": "Only biomass from urban waste",
+    "answer": "C. Biomass certified to third-party standards or eligible for state renewable portfolio standards",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "272-273",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "How is water consumption defined in the context of water management for restaurants?",
+    "optionA": "Only water used for cooking and cleaning",
+    "optionB": "Total water withdrawn minus water returned to the same catchment area",
+    "optionC": "Water that evaporates, is incorporated into products, or doesn't return to the same catchment area",
+    "optionD": "Any water used in restaurant operations",
+    "optionE": "Only water used in customer-facing areas",
+    "answer": "C. Water that evaporates, is incorporated into products, or doesn't return to the same catchment area",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "273-274",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What is the definition of a 'cage-free environment' for egg-laying hens according to the document?",
+    "optionA": "Hens are free to roam outdoors at all times",
+    "optionB": "Hens are kept in larger cages with more space",
+    "optionC": "Hens are housed in a building or area with unlimited access to food, water, and freedom to roam within the area during the laying cycle",
+    "optionD": "Hens are only caged at night for protection",
+    "optionE": "Hens are kept in open fields with no enclosures",
+    "answer": "C. Hens are housed in a building or area with unlimited access to food, water, and freedom to roam within the area during the laying cycle",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "276",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "A restaurant chain is looking to improve its sustainability practices. If it wants to claim renewable energy usage from biomass sources, what certification requirements must be met, and how does this relate to its overall energy consumption reporting?",
+    "optionA": "The biomass must be certified by any third-party, and it's reported as part of total energy consumed",
+    "optionB": "No certification is required for biomass, and it's excluded from total energy consumption",
+    "optionC": "The biomass must be certified by specific standards, and it's included in the renewable energy percentage of total consumption",
+    "optionD": "Biomass certification is optional, and it's reported separately from other energy sources",
+    "optionE": "Only government-certified biomass is accepted, and it's subtracted from total energy consumption",
+    "answer": "C. The biomass must be certified by specific standards, and it's included in the renewable energy percentage of total consumption",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "272-273",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "A restaurant is assessing its water management strategy in a region with high baseline water stress. How should it calculate and report its water consumption, and what additional information must it provide about its water withdrawal?",
+    "optionA": "Report total water withdrawn, with no additional calculations required",
+    "optionB": "Calculate water consumed as total withdrawn minus water returned, and report percentage of withdrawal from high-stress regions",
+    "optionC": "Report only water evaporated during use, with no consideration of water stress",
+    "optionD": "Calculate water consumed including evaporation and incorporation into products, and report percentages of both withdrawal and consumption from high-stress regions",
+    "optionE": "Report only water directly used in food preparation, regardless of the region's water stress",
+    "answer": "D. Calculate water consumed including evaporation and incorporation into products, and report percentages of both withdrawal and consumption from high-stress regions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "273-274",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "A restaurant chain is updating its supply chain management policies. How should it approach environmental and social sourcing standards for food purchases, and what additional step can it take to further demonstrate its commitment to sustainable sourcing?",
+    "optionA": "Focus only on environmental standards and ignore social aspects",
+    "optionB": "Implement internal standards without considering third-party certifications",
+    "optionC": "Purchase food meeting both environmental and social standards, and separately report food certified to third-party standards",
+    "optionD": "Only purchase third-party certified food without considering other standards",
+    "optionE": "Implement social standards only for certain high-risk food categories",
+    "answer": "C. Purchase food meeting both environmental and social standards, and separately report food certified to third-party certifications",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "275-276",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "A restaurant is developing a comprehensive strategy to manage environmental and social risks in its supply chain. What aspects should it consider in its approach, and how does this relate to its reporting on specific animal welfare practices?",
+    "optionA": "Focus solely on environmental risks and ignore animal welfare considerations",
+    "optionB": "Address only social risks in the supply chain without considering environmental factors",
+    "optionC": "Develop strategies for both environmental and social risks, including animal welfare standards, and report on specific practices like antibiotic use in animal proteins",
+    "optionD": "Concentrate on animal welfare certifications without addressing broader supply chain risks",
+    "optionE": "Implement a strategy focusing only on food safety regulations",
+    "answer": "C. Develop strategies for both environmental and social risks, including animal welfare standards, and report on specific practices like antibiotic use in animal proteins",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "277-278",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is the definition of 'renewable energy' in the context of restaurant energy management, and what are some examples of qualifying sources?",
+    "optionA": "Energy from non-replenishable sources like coal and natural gas",
+    "optionB": "Energy from sources that are replenished at a rate greater than or equal to their rate of depletion, such as geothermal, wind, solar, hydro, and biomass",
+    "optionC": "Only energy from solar panels installed on the restaurant's roof",
+    "optionD": "Energy purchased from any utility company, regardless of source",
+    "optionE": "Energy from nuclear power plants",
+    "answer": "B. Energy from sources that are replenished at a rate greater than or equal to their rate of depletion, such as geothermal, wind, solar, hydro, and biomass",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "271-272",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What defines 'cage-free' eggs in the context of restaurant supply chain management?",
+    "optionA": "Eggs from hens that are never confined to any enclosure",
+    "optionB": "Eggs from hens that are only caged at night for protection",
+    "optionC": "Eggs from hens housed in a building or area allowing unlimited access to food, water, and freedom to roam within the area during the laying cycle",
+    "optionD": "Eggs from hens that are allowed to roam outdoors at least 50% of the time",
+    "optionE": "Eggs from any farm that claims to be 'humane', regardless of housing conditions",
+    "answer": "C. Eggs from hens housed in a building or area allowing unlimited access to food, water, and freedom to roam within the area during the laying cycle",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "276-277",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "How are 'environmental standards' defined in the context of food sourcing for restaurants?",
+    "optionA": "Standards that only focus on reducing carbon emissions in food production",
+    "optionB": "Standards that exclusively deal with water conservation in agriculture",
+    "optionC": "Standards that address environmental impacts related to food production such as protection of natural resources and improvements in resource efficiency",
+    "optionD": "Standards that solely consider the use of organic farming methods",
+    "optionE": "Standards that prioritize local sourcing over all other environmental concerns",
+    "answer": "C. Standards that address environmental impacts related to food production such as protection of natural resources and improvements in resource efficiency",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "275-276",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is a 'gestation crate' in the context of pork production for restaurants, and why is its use a concern in supply chain management?",
+    "optionA": "A crate used for transporting pregnant sows between farms",
+    "optionB": "An enclosure that allows sows to roam freely during pregnancy",
+    "optionC": "A feeding station designed for efficient weight gain in pigs",
+    "optionD": "An enclosure for housing an individual breeding sow that restricts movement and is typically non-bedded",
+    "optionE": "A specialized crate used only during the birthing process for sows",
+    "answer": "D. An enclosure for housing an individual breeding sow that restricts movement and is typically non-bedded",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "276-277",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might changing climate conditions impact a restaurant's supply chain strategy, according to the IFRS S2 Climate-related Disclosures?",
+    "optionA": "By increasing the need for air conditioning in restaurants",
+    "optionB": "By affecting crop and livestock production, potentially impacting cost and availability of ingredients",
+    "optionC": "By requiring restaurants to switch to entirely plant-based menus",
+    "optionD": "By necessitating the use of more preservatives in food products",
+    "optionE": "By forcing restaurants to source all ingredients locally",
+    "answer": "B: By affecting crop and livestock production, potentially impacting cost and availability of ingredients",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "277",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "What broader implication does the restaurant industry have on agricultural production, according to the Supply Chain Management & Food Sourcing topic summary?",
+    "optionA": "Restaurants have no significant impact on agricultural production",
+    "optionB": "Restaurants only influence organic farming practices",
+    "optionC": "Restaurant demand drives and shapes agricultural production",
+    "optionD": "Restaurants solely affect local, small-scale farming",
+    "optionE": "The restaurant industry exclusively impacts livestock farming",
+    "answer": "C: Restaurant demand drives and shapes agricultural production",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "275",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How can sustainable and ethical sourcing practices benefit restaurant companies in the long term?",
+    "optionA": "By reducing the need for food safety inspections",
+    "optionB": "By eliminating the need for supplier diversity",
+    "optionC": "By guaranteeing lower food costs",
+    "optionD": "By better positioning companies to protect long-term shareholder value",
+    "optionE": "By allowing restaurants to avoid all supply chain risks",
+    "answer": "D: By better positioning companies to protect long-term shareholder value",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "275",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "Why is water management particularly important for restaurants in water-stressed regions?",
+    "optionA": "It only affects the taste of beverages served",
+    "optionB": "It's solely a concern for restaurants with water features",
+    "optionC": "Restaurants in these areas may face water usage restrictions or high water costs",
+    "optionD": "It only impacts restaurants that serve seafood",
+    "optionE": "Water management is equally important in all regions",
+    "answer": "C: Restaurants in these areas may face water usage restrictions or high water costs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "273",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the correct method for calculating the percentage of food purchased that meets environmental and social sourcing standards?",
+    "optionA": "Number of compliant suppliers divided by total suppliers",
+    "optionB": "Weight of compliant food divided by total food weight",
+    "optionC": "Cost of compliant food divided by total food cost",
+    "optionD": "Number of compliant menu items divided by total menu items",
+    "optionE": "Volume of compliant food divided by total food volume",
+    "answer": "C. Cost of compliant food divided by total food cost",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "275-276",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the IFRS S2 Climate-related Disclosures, how should a restaurant company calculate the percentage of renewable energy it consumed?",
+    "optionA": "Total renewable energy divided by total grid electricity",
+    "optionB": "Renewable energy purchased through PPAs divided by total energy consumption",
+    "optionC": "Self-generated renewable energy divided by total energy consumption",
+    "optionD": "Renewable energy consumption divided by total energy consumption",
+    "optionE": "Grid-supplied renewable energy divided by total energy consumption",
+    "answer": "D. Renewable energy consumption divided by total energy consumption",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "271-272",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the correct procedure for disclosing water consumption in regions with High or Extremely High Baseline Water Stress according to the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Disclose total water consumed in all regions",
+    "optionB": "Disclose water consumed in stressed regions as a percentage of total water withdrawn",
+    "optionC": "Disclose water consumed in stressed regions as a percentage of total water consumed",
+    "optionD": "Disclose only the amount of water withdrawn in stressed regions",
+    "optionE": "Disclose water consumed in stressed regions in absolute terms only",
+    "answer": "C. Disclose water consumed in stressed regions as a percentage of total water consumed",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "273-274",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the IFRS S2 Climate-related Disclosures, how should a restaurant company calculate the percentage of pork produced without the use of gestation crates?",
+    "optionA": "Number of pigs raised without gestation crates divided by total number of pigs",
+    "optionB": "Cost of pork produced without gestation crates divided by total cost of pork purchased",
+    "optionC": "Weight of pork purchased without gestation crates divided by total weight of pork purchased",
+    "optionD": "Number of suppliers not using gestation crates divided by total number of pork suppliers",
+    "optionE": "Area of farms not using gestation crates divided by total farm area for pork production",
+    "answer": "C. Weight of pork purchased without gestation crates divided by total weight of pork purchased",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "276-277",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "What potential challenges might a restaurant face when implementing a strategy to increase the percentage of food purchased that meets environmental and social sourcing standards?",
+    "optionA": "There would be no challenges as all suppliers already meet these standards",
+    "optionB": "The only challenge would be increased paperwork for procurement",
+    "optionC": "Challenges may include higher costs, limited supplier availability, and ensuring consistency across locations",
+    "optionD": "The main challenge would be customer resistance to environmentally sourced products",
+    "optionE": "Implementing such standards would only affect the marketing department",
+    "answer": "C. Challenges may include higher costs, limited supplier availability, and ensuring consistency across locations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "275-276",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might a restaurant chain's focus on energy management and increased use of renewable energy impact its business operations and stakeholder perceptions?",
+    "optionA": "It would have no impact on operations or stakeholder perceptions",
+    "optionB": "It would only increase operational costs without any benefits",
+    "optionC": "It could lead to cost savings, improved brand image, and reduced exposure to energy price volatility and regulations",
+    "optionD": "It would solely benefit the marketing department without operational improvements",
+    "optionE": "It would exclusively appeal to environmentally conscious customers without affecting other aspects of the business",
+    "answer": "C. It could lead to cost savings, improved brand image, and reduced exposure to energy price volatility and regulations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "271-272",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might a restaurant chain's strategy to manage environmental and social risks in its supply chain affect its long-term sustainability and market position?",
+    "optionA": "It would only impact the restaurant's short-term profitability without any long-term benefits",
+    "optionB": "It could enhance brand reputation, ensure supply chain resilience, and create competitive advantage through improved sustainability practices",
+    "optionC": "It would solely focus on animal welfare issues without addressing other environmental or social concerns",
+    "optionD": "It would have no significant impact on the restaurant's sustainability or market position",
+    "optionE": "It would only be relevant for large multinational chains and not for smaller restaurant businesses",
+    "answer": "B. It could enhance brand reputation, ensure supply chain resilience, and create competitive advantage through improved sustainability practices",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "277-278",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might a restaurant's commitment to sourcing cage-free eggs and crate-free pork impact its operations and customer perceptions?",
+    "optionA": "It would only increase costs without any positive impact on customer perceptions",
+    "optionB": "It would have no effect on operations or customer perceptions",
+    "optionC": "It could potentially improve brand image and customer loyalty, but might pose challenges in terms of supply chain management and pricing",
+    "optionD": "It would only appeal to a small niche of environmentally conscious customers",
+    "optionE": "It would negatively impact food quality and taste, leading to customer dissatisfaction",
+    "answer": "C. It could potentially improve brand image and customer loyalty, but might pose challenges in terms of supply chain management and pricing",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "276-277",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT listed as an example of a third-party environmental and social standard certification for food purchasing in restaurants?",
+    "optionA": "Fairtrade International",
+    "optionB": "Marine Stewardship Council",
+    "optionC": "Rainforest Alliance Certified",
+    "optionD": "Roundtable on Sustainable Palm Oil (RSPO)",
+    "optionE": "USDA Organic",
+    "answer": "E. USDA Organic",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "276",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a sustainability disclosure topic for the restaurant industry in Table 1?",
+    "optionA": "Energy Management",
+    "optionB": "Water Management",
+    "optionC": "Supply Chain Management & Food Sourcing",
+    "optionD": "Waste Management",
+    "optionE": "Food Safety",
+    "answer": "D. Waste Management",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "270",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as an environmental or social risk in the supply chain for restaurants?",
+    "optionA": "Climate change impacts on crop and livestock production",
+    "optionB": "Labor rights and immigration reforms affecting food prices",
+    "optionC": "International trade barriers",
+    "optionD": "Commercial catch limits affecting seafood supply",
+    "optionE": "Packaging and disposable utensil regulations",
+    "answer": "E. Packaging and disposable utensil regulations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "277",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following water-related metrics is NOT explicitly mentioned in the disclosure requirements for restaurants?",
+    "optionA": "Total water withdrawn",
+    "optionB": "Total water consumed",
+    "optionC": "Percentage of water in regions with High or Extremely High Baseline Water Stress",
+    "optionD": "Water recycled and reused",
+    "optionE": "Fresh water obtained from municipal water supplies",
+    "answer": "D. Water recycled and reused",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "273-274",
+    "industries": [
+      "b26-restaurants"
+    ]
+  }
+]

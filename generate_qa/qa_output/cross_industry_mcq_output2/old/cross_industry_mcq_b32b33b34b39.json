@@ -1,0 +1,158 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When reporting on environmental impacts, what is a key difference between the requirements for Electric Utilities & Power Generators and Gas Utilities & Distributors?",
+    "optionA": "Electric utilities must report on water management, while gas utilities do not",
+    "optionB": "Gas utilities must report on greenhouse gas emissions, while electric utilities do not",
+    "optionC": "Electric utilities must report on nuclear safety, while gas utilities do not",
+    "optionD": "Gas utilities must report on renewable energy projects, while electric utilities do not",
+    "optionE": "Both industries have identical environmental reporting requirements",
+    "answer": "C. Electric utilities must report on nuclear safety, while gas utilities do not",
+    "explanation": "Electric Utilities & Power Generators have specific reporting requirements related to nuclear safety and emergency management (IF-EU-540a.1 and IF-EU-540a.2), which are not present for Gas Utilities & Distributors. This reflects the unique risks and considerations associated with nuclear power generation in the electric utility industry.",
+    "pairing_explanation": "These infrastructure-related industries are crucial to public services and have significant environmental impacts. Comparative sustainability reporting can help analyze resource efficiency, emissions, and service reliability.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors"
+    ],
+    "pages": [
+      "299",
+      "335"
+    ],
+    "industries": [
+      "b32-electric-utilities-and-power-generators",
+      "b33-engineering-and-construction-services",
+      "b34-gas-utilities-and-distributors",
+      "b39-water-utilities-and-services"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "What is a key difference in reporting requirements between Water Utilities & Services and Engineering & Construction Services regarding project-related environmental impacts?",
+    "optionA": "Water utilities must report on wastewater treatment capacity, while engineering firms do not",
+    "optionB": "Engineering firms must report on project-related environmental non-compliance incidents, while water utilities do not",
+    "optionC": "Water utilities must report on greenhouse gas emissions, while engineering firms do not",
+    "optionD": "Engineering firms must report on water consumption, while water utilities do not",
+    "optionE": "Both industries have identical environmental impact reporting requirements",
+    "answer": "B. Engineering firms must report on project-related environmental non-compliance incidents, while water utilities do not",
+    "explanation": "Engineering & Construction Services companies are required to disclose the number of incidents of non-compliance with environmental permits, standards, and regulations (IF-EN-160a.1). This requirement is specific to the project-based nature of their work. Water Utilities & Services do not have a directly comparable requirement for reporting environmental non-compliance incidents related to their projects.",
+    "pairing_explanation": "These infrastructure-related industries are crucial to public services and have significant environmental impacts. Comparative sustainability reporting can help analyze resource efficiency, emissions, and service reliability.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Water Utilities & Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Engineering & Construction Services"
+    ],
+    "pages": [
+      "407",
+      "323"
+    ],
+    "industries": [
+      "b32-electric-utilities-and-power-generators",
+      "b33-engineering-and-construction-services",
+      "b34-gas-utilities-and-distributors",
+      "b39-water-utilities-and-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "How do the metrics for measuring distribution network efficiency differ between Electric Utilities & Power Generators and Gas Utilities & Distributors?",
+    "optionA": "Electric utilities use SAIDI, SAIFI, and CAIDI, while gas utilities use pipeline replacement rate",
+    "optionB": "Gas utilities use SAIDI, SAIFI, and CAIDI, while electric utilities use pipeline replacement rate",
+    "optionC": "Both industries use identical metrics for distribution network efficiency",
+    "optionD": "Electric utilities use pipeline replacement rate, while gas utilities use SAIDI, SAIFI, and CAIDI",
+    "optionE": "Neither industry reports on distribution network efficiency",
+    "answer": "A. Electric utilities use SAIDI, SAIFI, and CAIDI, while gas utilities use pipeline replacement rate",
+    "explanation": "Electric Utilities & Power Generators use System Average Interruption Duration Index (SAIDI), System Average Interruption Frequency Index (SAIFI), and Customer Average Interruption Duration Index (CAIDI) to measure grid reliability (IF-EU-550a.2). Gas Utilities & Distributors use water main replacement rate (IF-GU-540a.2) to measure the efficiency of their distribution network. These different metrics reflect the distinct characteristics and risks associated with electricity and gas distribution systems.",
+    "pairing_explanation": "These infrastructure-related industries are crucial to public services and have significant environmental impacts. Comparative sustainability reporting can help analyze resource efficiency, emissions, and service reliability.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors"
+    ],
+    "pages": [
+      "319",
+      "342"
+    ],
+    "industries": [
+      "b32-electric-utilities-and-power-generators",
+      "b33-engineering-and-construction-services",
+      "b34-gas-utilities-and-distributors",
+      "b39-water-utilities-and-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When comparing Water Utilities & Services and Engineering & Construction Services, how do the metrics for assessing climate change impacts on infrastructure differ?",
+    "optionA": "Water utilities report on flood zone capacity, while engineering firms report on project backlog",
+    "optionB": "Engineering firms report on flood zone capacity, while water utilities report on project backlog",
+    "optionC": "Both industries use identical metrics for assessing climate change impacts",
+    "optionD": "Water utilities report on project backlog, while engineering firms report on flood zone capacity",
+    "optionE": "Neither industry reports on climate change impacts on infrastructure",
+    "answer": "A. Water utilities report on flood zone capacity, while engineering firms report on project backlog",
+    "explanation": "Water Utilities & Services are required to report on wastewater treatment capacity located in 100-year flood zones (IF-WU-450a.1), which directly addresses climate change risks to their infrastructure. Engineering & Construction Services, on the other hand, report on the amount of backlog for renewable energy projects and projects associated with climate change mitigation (IF-EN-410b.1 and IF-EN-410b.3), which reflects their role in building climate-resilient infrastructure.",
+    "pairing_explanation": "These infrastructure-related industries are crucial to public services and have significant environmental impacts. Comparative sustainability reporting can help analyze resource efficiency, emissions, and service reliability.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Water Utilities & Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Engineering & Construction Services"
+    ],
+    "pages": [
+      "422",
+      "331"
+    ],
+    "industries": [
+      "b32-electric-utilities-and-power-generators",
+      "b33-engineering-and-construction-services",
+      "b34-gas-utilities-and-distributors",
+      "b39-water-utilities-and-services"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the approaches to addressing end-use efficiency differ between Electric Utilities & Power Generators and Water Utilities & Services?",
+    "optionA": "Electric utilities focus on smart grid technology, while water utilities focus on rate structures",
+    "optionB": "Water utilities focus on smart grid technology, while electric utilities focus on rate structures",
+    "optionC": "Both industries focus equally on smart grid technology and rate structures",
+    "optionD": "Electric utilities focus on rate structures, while water utilities focus on smart grid technology",
+    "optionE": "Neither industry addresses end-use efficiency",
+    "answer": "A. Electric utilities focus on smart grid technology, while water utilities focus on rate structures",
+    "explanation": "Electric Utilities & Power Generators report on the percentage of electric load served by smart grid technology (IF-EU-420a.2) as a key measure of end-use efficiency. In contrast, Water Utilities & Services report on the percentage of water utility revenues from rate structures designed to promote conservation and revenue resilience (IF-WU-420a.1). These different approaches reflect the unique characteristics and efficiency challenges in electricity and water distribution.",
+    "pairing_explanation": "These infrastructure-related industries are crucial to public services and have significant environmental impacts. Comparative sustainability reporting can help analyze resource efficiency, emissions, and service reliability.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Water Utilities & Services"
+    ],
+    "pages": [
+      "310",
+      "414"
+    ],
+    "industries": [
+      "b32-electric-utilities-and-power-generators",
+      "b33-engineering-and-construction-services",
+      "b34-gas-utilities-and-distributors",
+      "b39-water-utilities-and-services"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the sustainability reporting requirements for Gas Utilities & Distributors and Engineering & Construction Services differ in addressing climate change-related business risks?",
+    "optionA": "Gas utilities report on methane emissions, while engineering firms report on project backlog related to climate change mitigation",
+    "optionB": "Engineering firms report on methane emissions, while gas utilities report on project backlog related to climate change mitigation",
+    "optionC": "Both industries report on methane emissions and project backlog related to climate change mitigation",
+    "optionD": "Gas utilities report on project backlog related to climate change mitigation, while engineering firms report on methane emissions",
+    "optionE": "Neither industry reports on climate change-related business risks",
+    "answer": "A. Gas utilities report on methane emissions, while engineering firms report on project backlog related to climate change mitigation",
+    "explanation": "Gas Utilities & Distributors are required to report on efforts to manage the integrity of gas delivery infrastructure, including risks related to methane emissions (IF-GU-540a.4). Engineering & Construction Services, on the other hand, report on the amount of backlog for non-energy projects associated with climate change mitigation (IF-EN-410b.3). These different approaches reflect the distinct roles these industries play in addressing climate change: gas utilities focus on reducing emissions from their operations, while engineering firms contribute to building climate-resilient infrastructure.",
+    "pairing_explanation": "These infrastructure-related industries are crucial to public services and have significant environmental impacts. Comparative sustainability reporting can help analyze resource efficiency, emissions, and service reliability.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Engineering & Construction Services"
+    ],
+    "pages": [
+      "342",
+      "333"
+    ],
+    "industries": [
+      "b32-electric-utilities-and-power-generators",
+      "b33-engineering-and-construction-services",
+      "b34-gas-utilities-and-distributors",
+      "b39-water-utilities-and-services"
+    ]
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When disclosing water management information, which of the following is required for both the Biofuels and Pulp & Paper Products industries according to IFRS S2?",
+    "optionA": "Total water withdrawn only",
+    "optionB": "Total water consumed only",
+    "optionC": "Percentage of water withdrawn in water-stressed regions only",
+    "optionD": "Total water withdrawn, total water consumed, and percentage of each in water-stressed regions",
+    "optionE": "Total wastewater discharged and treated",
+    "answer": "D: Total water withdrawn, total water consumed, and percentage of each in water-stressed regions",
+    "explanation": "Both the Biofuels (RR-BI-140a.1) and Pulp & Paper Products (RR-PP-140a.1) industries are required to disclose total water withdrawn, total water consumed, and the percentage of each in regions with High or Extremely High Baseline Water Stress according to IFRS S2. This comprehensive approach allows for a better understanding of the water impact and risks in these water-intensive industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Biofuels",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Pulp & Paper Products"
+    ],
+    "pages": [
+      "427",
+      "462-463"
+    ],
+    "pairing_explanation": "These renewable resources industries are pivotal in the transition to sustainable energy and materials, with impacts on energy consumption, emissions, and resource management.",
+    "industries": [
+      "b40-biofuels",
+      "b43-pulp-and-paper-products",
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "In the context of energy management disclosures, what unique reporting requirement does the Pulp & Paper Products industry have compared to the Biofuels and Wind Technology & Project Developers industries?",
+    "optionA": "Total energy consumed",
+    "optionB": "Percentage of grid electricity used",
+    "optionC": "Percentage of renewable energy used",
+    "optionD": "Percentage of energy from biomass",
+    "optionE": "Total self-generated energy",
+    "answer": "D: Percentage of energy from biomass",
+    "explanation": "The Pulp & Paper Products industry has a unique requirement to disclose the percentage of energy consumed that was supplied by biomass (RR-PP-130a.1). This is specific to this industry due to its common practice of using biomass residues for energy generation. The Biofuels and Wind Technology & Project Developers industries do not have this specific requirement in their energy management disclosures.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Pulp & Paper Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Biofuels",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Wind Technology & Project Developers"
+    ],
+    "pages": [
+      "459-461",
+      "428-431",
+      "483-486"
+    ],
+    "pairing_explanation": "These renewable resources industries are pivotal in the transition to sustainable energy and materials, with impacts on energy consumption, emissions, and resource management.",
+    "industries": [
+      "b40-biofuels",
+      "b43-pulp-and-paper-products",
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of wood fiber sourced from third-party certified forestlands for the Pulp & Paper Products industry, how should a company handle wood fiber that is certified to multiple third-party certifications?",
+    "optionA": "Include it only once in the total calculation",
+    "optionB": "Exclude it from the calculation entirely",
+    "optionC": "Include it in calculations for each relevant certification",
+    "optionD": "Average its contribution across all applicable certifications",
+    "optionE": "Only include it for the most stringent certification",
+    "answer": "C: Include it in calculations for each relevant certification",
+    "explanation": "According to RR-PP-430a.1, when wood-fiber is certified to multiple third-party certifications, the entity shall include the amount of such fiber in its calculations for each relevant certification. This approach ensures that all certifications are accurately represented in the disclosure, providing a comprehensive view of the company's sourcing practices.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Pulp & Paper Products"
+    ],
+    "pages": [
+      "466-468"
+    ],
+    "pairing_explanation": "These renewable resources industries are pivotal in the transition to sustainable energy and materials, with impacts on energy consumption, emissions, and resource management.",
+    "industries": [
+      "b40-biofuels",
+      "b43-pulp-and-paper-products",
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "In the Wind Technology & Project Developers industry, when calculating the average top head mass per turbine capacity, which component should be excluded from the top head mass?",
+    "optionA": "Nacelle",
+    "optionB": "Rotor",
+    "optionC": "Blades",
+    "optionD": "Generator",
+    "optionE": "Gearbox",
+    "answer": "C: Blades",
+    "explanation": "According to RR-WT-440b.2, when calculating the average top head mass per turbine capacity, the top head shall include the turbine nacelle and the turbine rotor, but explicitly excludes the blades. This calculation method provides a standardized approach to measuring the efficiency of turbine design in terms of mass-to-capacity ratio.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Wind Technology & Project Developers"
+    ],
+    "pages": [
+      "485"
+    ],
+    "pairing_explanation": "These renewable resources industries are pivotal in the transition to sustainable energy and materials, with impacts on energy consumption, emissions, and resource management.",
+    "industries": [
+      "b40-biofuels",
+      "b43-pulp-and-paper-products",
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the IFRS S2 requirements for disclosing greenhouse gas (GHG) emissions differ between the Biofuels industry and the Pulp & Paper Products industry?",
+    "optionA": "Biofuels must disclose Scope 1, 2, and 3 emissions, while Pulp & Paper Products only disclose Scope 1",
+    "optionB": "Pulp & Paper Products must disclose emissions reduction targets, while Biofuels do not",
+    "optionC": "Biofuels must disclose lifecycle GHG emissions by biofuel type, while Pulp & Paper Products only disclose gross global Scope 1 emissions",
+    "optionD": "Pulp & Paper Products must disclose emissions from biomass separately, while Biofuels do not",
+    "optionE": "There are no significant differences in GHG emissions disclosure requirements between the two industries",
+    "answer": "C: Biofuels must disclose lifecycle GHG emissions by biofuel type, while Pulp & Paper Products only disclose gross global Scope 1 emissions",
+    "explanation": "The Biofuels industry has a specific requirement (RR-BI-410a.1) to disclose lifecycle GHG emissions by biofuel type, reflecting the importance of understanding the full environmental impact of biofuel production and use. In contrast, the Pulp & Paper Products industry is required to disclose gross global Scope 1 emissions (RR-PP-110a.1), which focuses on direct emissions from owned or controlled sources. This difference highlights the unique sustainability considerations for each industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Biofuels",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Pulp & Paper Products"
+    ],
+    "pages": [
+      "431-432",
+      "456-457"
+    ],
+    "pairing_explanation": "These renewable resources industries are pivotal in the transition to sustainable energy and materials, with impacts on energy consumption, emissions, and resource management.",
+    "industries": [
+      "b40-biofuels",
+      "b43-pulp-and-paper-products",
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing the supply chain management disclosures for the Biofuels and Pulp & Paper Products industries under IFRS S2, which of the following is a key difference?",
+    "optionA": "Only Biofuels must disclose the percentage of production certified to sustainability standards",
+    "optionB": "Only Pulp & Paper Products must disclose the amount of recycled and recovered material used",
+    "optionC": "Biofuels focus on feedstock sustainability, while Pulp & Paper Products focus on forest management certification",
+    "optionD": "Pulp & Paper Products must disclose supplier audits, while Biofuels do not",
+    "optionE": "There are no significant differences in supply chain management disclosures between the two industries",
+    "answer": "C: Biofuels focus on feedstock sustainability, while Pulp & Paper Products focus on forest management certification",
+    "explanation": "The key difference in supply chain management disclosures between the Biofuels and Pulp & Paper Products industries lies in their focus areas. The Biofuels industry (RR-BI-430a.1, RR-BI-430a.2) emphasizes disclosing strategies to manage risks associated with environmental impacts of feedstock production and the percentage of production certified to environmental sustainability standards. In contrast, the Pulp & Paper Products industry (RR-PP-430a.1, RR-PP-430a.2) focuses on disclosing the percentage of wood fiber sourced from certified forestlands and the amount of recycled and recovered fiber procured. This difference reflects the distinct supply chain considerations and sustainability priorities of each industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Biofuels",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Pulp & Paper Products"
+    ],
+    "pages": [
+      "433-435",
+      "466-470"
+    ],
+    "pairing_explanation": "These renewable resources industries are pivotal in the transition to sustainable energy and materials, with impacts on energy consumption, emissions, and resource management.",
+    "industries": [
+      "b40-biofuels",
+      "b43-pulp-and-paper-products",
+      "b45-wind-technology-and-project-developers"
+    ]
+  }
+]

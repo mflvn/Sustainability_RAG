@@ -1,0 +1,3 @@
+| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |
+|-------|--------|----------|------------------|------|
+| Climate Change Impacts on Human Health | Discussion of the strategy to address the effects of climate change on business operations and how specific risks presented by changes in the geographic incidence, morbidity, and mortality of illnesses and diseases are incorporated into risk models | Discussion and Analysis | n/a | HC-MC-450a.1 |

@@ -1,0 +1,13 @@
+| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |
+|-------|--------|----------|-----------------|------|
+| Incorporation of Environmental, Social, and Governance Factors in Investment Management | Description of approach to incorporation of environmental, social, and governance (ESG) factors in investment management processes and strategies | Discussion and Analysis | n/a | FN-IN-410a.2 |
+| Policies Designed to Incentivize Responsible Behavior | Net premiums written related to energy efficiency and low carbon technology | Quantitative | Reporting currency | FN-IN-410b.1 |
+| Policies Designed to Incentivize Responsible Behavior | Discussion of products and/or product features that incentivize health, safety, and/or environmentally responsible actions and/or behaviors | Discussion and Analysis | n/a | FN-IN-410b.2 |
+| Environmental Physical Risk Exposure | Probable Maximum Loss (PML) of insured products from weather-related natural catastrophes 21 | Quantitative | Reporting currency | FN-IN-450a.1 |
+| Environmental Physical Risk Exposure | Total amount of monetary losses attributable to insurance payouts from (1) modeled natural catastrophes and (2) non-modeled natural catastrophes, by type of event and geographic segment (net and gross of reinsurance) 22 | Quantitative | Reporting currency | FN-IN-450a.2 |
+| Environmental Physical Risk Exposure | Description of approach to incorporation of environmental risks into (1) the underwriting process for individual contracts and (2) the management of firm-level risks and capital adequacy | Discussion and Analysis | n/a | FN-IN-450a.3 |
+| Transition Risk Exposure | (1) Gross exposure to carbon-related industries, by industry (2) total gross exposure to all industries, and (3) percentage of total gross exposure to each carbon-related industry | Quantitative | Presentation currency, Percentage % | FN-IN-1 |
+| Transition Risk Exposure | Percentage of gross exposure included in the financed emissions calculation | Quantitative | Percentage % | FN-IN-2 |
+| Transition Risk Exposure | For each industry by asset class: (1) absolute gross (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) gross exposure (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e, Presentation currency | FN-IN-3 |
+| Transition Risk Exposure | For each industry by asset class: (1) gross emissions intensity of (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) gross exposure (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e per unit of physical or economic output | FN-IN-4 |
+| Transition Risk Exposure | Description of the methodology used to calculate financed emissions | Discussion and Analysis | n/a | FN-IN-5 |

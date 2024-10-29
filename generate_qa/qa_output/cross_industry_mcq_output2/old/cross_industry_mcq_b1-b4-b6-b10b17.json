@@ -1,0 +1,163 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "According to IFRS standards, which metric is required to be disclosed by both Metals & Mining companies and Insurance companies when reporting on their energy management practices?",
+    "optionA": "Total energy consumed",
+    "optionB": "Percentage grid electricity",
+    "optionC": "Percentage renewable energy",
+    "optionD": "Energy intensity ratio",
+    "optionE": "Carbon emissions per unit of energy",
+    "answer": "A. Total energy consumed",
+    "explanation": "Both Metals & Mining companies (EM-MM-130a.1) and Insurance companies (FN-IN-410a.2) are required to disclose the total amount of energy consumed as part of their energy management reporting. This metric is common to both industries and allows for a baseline comparison of energy usage across different sectors.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Insurance"
+    ],
+    "pages": [
+      "Page 159",
+      "Page 86"
+    ],
+    "pairing_explanation": "These industries all feature extensive supply chains and significant global trade. Comparing sustainability efforts can reveal insights into risk management, environmental impact, and supply chain transparency.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b4-e-commerce",
+      "b6-multiline-and-specialty-retailers-and-distributors",
+      "b10-metals-and-mining",
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When reporting on water management, what specific metric is required for Metals & Mining companies but not for Insurance companies under IFRS standards?",
+    "optionA": "Total water withdrawn",
+    "optionB": "Total water consumed",
+    "optionC": "Percentage of water in high stress regions",
+    "optionD": "Number of incidents of non-compliance with water quality permits",
+    "optionE": "Water recycling rate",
+    "answer": "D. Number of incidents of non-compliance with water quality permits",
+    "explanation": "Metals & Mining companies are required to disclose the number of incidents of non-compliance associated with water quality permits, standards, and regulations (EM-MM-140a.2). This metric is specific to the Metals & Mining industry due to its significant water usage and potential environmental impact. Insurance companies do not have a similar water-specific compliance reporting requirement in their IFRS standards.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Insurance"
+    ],
+    "pages": [
+      "Page 89",
+      "Page 163-167"
+    ],
+    "pairing_explanation": "These industries all feature extensive supply chains and significant global trade. Comparing sustainability efforts can reveal insights into risk management, environmental impact, and supply chain transparency.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b4-e-commerce",
+      "b6-multiline-and-specialty-retailers-and-distributors",
+      "b10-metals-and-mining",
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the Probable Maximum Loss (PML) for weather-related natural catastrophes, what unique consideration must Insurance companies include that wouldn't apply to Metals & Mining companies?",
+    "optionA": "Geographic location of assets",
+    "optionB": "Historical weather patterns",
+    "optionC": "Reinsurance impact",
+    "optionD": "Asset depreciation rates",
+    "optionE": "Operational downtime",
+    "answer": "C. Reinsurance impact",
+    "explanation": "Insurance companies must consider the impact of reinsurance when calculating the Probable Maximum Loss (PML) for weather-related natural catastrophes. They are required to report the PML on both a gross and net of catastrophe reinsurance basis (FN-IN-450a.1). This consideration is unique to the insurance industry and wouldn't apply to Metals & Mining companies, as they don't typically engage in reinsurance practices.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Insurance"
+    ],
+    "pages": [
+      "Page 163-164"
+    ],
+    "pairing_explanation": "These industries all feature extensive supply chains and significant global trade. Comparing sustainability efforts can reveal insights into risk management, environmental impact, and supply chain transparency.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b4-e-commerce",
+      "b6-multiline-and-specialty-retailers-and-distributors",
+      "b10-metals-and-mining",
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When reporting on greenhouse gas emissions, what specific calculation is required for Insurance companies but not for Metals & Mining companies under IFRS standards?",
+    "optionA": "Scope 1 emissions",
+    "optionB": "Scope 2 emissions",
+    "optionC": "Scope 3 emissions",
+    "optionD": "Financed emissions",
+    "optionE": "Emissions intensity",
+    "answer": "D. Financed emissions",
+    "explanation": "Insurance companies are required to calculate and disclose their financed emissions, which refers to the portion of emissions attributed to their investments and loans (FN-IN-3 and FN-IN-4). This calculation is specific to financial sector companies and is not required for Metals & Mining companies. Metals & Mining companies focus on their direct operational emissions (Scope 1, 2, and 3) but do not have to account for emissions from their investments.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Insurance",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining"
+    ],
+    "pages": [
+      "Page 170-172",
+      "Page 82-84"
+    ],
+    "pairing_explanation": "These industries all feature extensive supply chains and significant global trade. Comparing sustainability efforts can reveal insights into risk management, environmental impact, and supply chain transparency.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b4-e-commerce",
+      "b6-multiline-and-specialty-retailers-and-distributors",
+      "b10-metals-and-mining",
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the IFRS sustainability reporting requirements for Metals & Mining companies and Insurance companies differ in their approach to addressing climate-related risks?",
+    "optionA": "Only Metals & Mining companies must report on physical climate risks",
+    "optionB": "Only Insurance companies must report on transition risks",
+    "optionC": "Metals & Mining focus on operational risks, while Insurance companies address both operational and portfolio risks",
+    "optionD": "Insurance companies only report on liability risks",
+    "optionE": "There are no significant differences in climate risk reporting between the two industries",
+    "answer": "C. Metals & Mining focus on operational risks, while Insurance companies address both operational and portfolio risks",
+    "explanation": "Metals & Mining companies primarily focus on operational climate-related risks, such as those affecting their mining and processing activities (EM-MM-110a.2). In contrast, Insurance companies must address both operational risks and risks associated with their investment portfolios, including underwriting risks and financed emissions (FN-IN-450a.3, FN-IN-3, FN-IN-4). This reflects the broader impact of climate change on the insurance industry's business model and financial stability.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Insurance"
+    ],
+    "pages": [
+      "Page 82-84",
+      "Page 165-167",
+      "Page 170-172"
+    ],
+    "pairing_explanation": "These industries all feature extensive supply chains and significant global trade. Comparing sustainability efforts can reveal insights into risk management, environmental impact, and supply chain transparency.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b4-e-commerce",
+      "b6-multiline-and-specialty-retailers-and-distributors",
+      "b10-metals-and-mining",
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing the sustainability reporting requirements for Metals & Mining companies and Insurance companies, which of the following statements is true regarding their approach to environmental, social, and governance (ESG) factors?",
+    "optionA": "Only Metals & Mining companies are required to report on ESG factors in their operations",
+    "optionB": "Insurance companies must report on ESG factors in their investment strategies, while Metals & Mining companies focus solely on environmental factors",
+    "optionC": "Both industries have identical ESG reporting requirements",
+    "optionD": "Metals & Mining companies report on operational ESG impacts, while Insurance companies report on both operational and investment-related ESG factors",
+    "optionE": "Neither industry is required to report on ESG factors under IFRS standards",
+    "answer": "D. Metals & Mining companies report on operational ESG impacts, while Insurance companies report on both operational and investment-related ESG factors",
+    "explanation": "Metals & Mining companies are required to report on ESG factors related to their operations, such as greenhouse gas emissions, energy management, and water management (EM-MM-110a.1, EM-MM-130a.1, EM-MM-140a.1). Insurance companies, in addition to operational ESG factors, must also report on how they incorporate ESG factors into their investment management processes and strategies (FN-IN-410a.2). This reflects the dual role of insurance companies as both operators and significant investors in the economy.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Insurance"
+    ],
+    "pages": [
+      "Page 82-89",
+      "Page 158-160"
+    ],
+    "pairing_explanation": "These industries all feature extensive supply chains and significant global trade. Comparing sustainability efforts can reveal insights into risk management, environmental impact, and supply chain transparency.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b4-e-commerce",
+      "b6-multiline-and-specialty-retailers-and-distributors",
+      "b10-metals-and-mining",
+      "b17-insurance"
+    ]
+  }
+]

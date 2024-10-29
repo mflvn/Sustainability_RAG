@@ -1,0 +1,174 @@
+[
+  {
+    "question": "For the listed 'EM-IS-110a.1' requirement, what does a company in the Iron & Steel Producers industry need to do?",
+    "optionA": "The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol and the percentage of those emissions that are covered under an emissions-limiting regulation.",
+    "optionB": "The entity shall discuss its long-term and short-term strategy or plan to manage its Scope 1 greenhouse gas emissions, including emission reduction targets and an analysis of performance against those targets.",
+    "optionC": "The entity shall disclose its total energy consumed, percentage from grid electricity, and percentage from renewable sources.",
+    "optionD": "The entity shall disclose its total fresh water withdrawn, percentage recycled, and percentage in regions with High or Extremely High Baseline Water Stress.",
+    "optionE": "The entity shall discuss the process for managing iron ore and/or coking coal sourcing risks arising from environmental and social issues.",
+    "answer": "A",
+    "reference_text": [
+      "EM-IS-110a.1. Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations",
+      "1    The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol\u2014carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF6), and nitrogen trifluoride (NF3).",
+      "3 The entity shall disclose the percentage of its gross global Scope 1 GHG emissions that are covered under an emissions-limiting regulation or program that is intended to directly limit or reduce emissions, such as cap-and-trade schemes, carbon tax/fee systems, and other emissions control (e.g., command-and-control approach) and permit-based mechanisms."
+    ],
+    "pages": [
+      "71",
+      "72"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "For the listed 'EM-IS-110a.2' requirement, what metric should a company in the Iron & Steel Producers industry use for emission reduction targets?",
+    "optionA": "Scope 1 greenhouse gas (GHG) emissions",
+    "optionB": "Total energy consumed",
+    "optionC": "Total fresh water withdrawn",
+    "optionD": "Total iron ore production",
+    "optionE": "Total coking coal production",
+    "answer": "A",
+    "reference_text": [
+      "EM-IS-110a.2. Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets",
+      "1.1    Scope 1 emissions are defined according to The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (GHG Protocol), Revised Edition, March 2004, published by the World Resources Institute and the World Business Council on Sustainable Development (WRI/WBCSD).",
+      "2    The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the following, where relevant:"
+    ],
+    "pages": [
+      "73"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "What is the code of the metric for percentage of energy from grid electricity in the Iron & Steel Producers industry (as listed in the relevant table)?",
+    "optionA": "EM-IS-130a.1",
+    "optionB": "EM-IS-130a.2",
+    "optionC": "EM-IS-110a.1",
+    "optionD": "EM-IS-140a.1",
+    "optionE": "EM-IS-430a.1",
+    "answer": "A",
+    "reference_text": [
+      "EM-IS-130a.1. (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+    ],
+    "pages": [
+      "75"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "What is the category of the 'Total iron ore production' metric in the Iron & Steel Producers industry (as listed in the relevant table)?",
+    "optionA": "Quantitative",
+    "optionB": "Discussion and Analysis",
+    "optionC": "Category not specified",
+    "optionD": "Qualitative",
+    "optionE": "None of the above",
+    "answer": "A",
+    "reference_text": [
+      "Total iron ore production | Quantitative | Metric tons (t) | EM-IS-000.B"
+    ],
+    "pages": [
+      "68"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "What is the code for the metric 'Total fresh water withdrawn' in the Iron & Steel Producers industry and how should this metric be calculated?",
+    "optionA": "The code is EM-IS-140a.1. The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from freshwater sources. Fresh water may be defined according to local regulations, or if no regulatory definition, water with less than 1000 parts per million of dissolved solids.",
+    "optionB": "The code is EM-IS-130a.1. The entity shall calculate this as the total amount of energy consumed in gigajoules from all sources including purchased electricity and self-generated energy.",
+    "optionC": "The code is EM-IS-110a.1. The entity shall disclose its gross global Scope 1 greenhouse gas emissions in metric tons of CO2 equivalents, calculated using published 100-year global warming potential values.",
+    "optionD": "The code is EM-IS-000.A. The entity shall disclose the raw steel production in metric tons, percentage from basic oxygen furnace processes and electric arc furnace processes.",
+    "optionE": "The code is EM-IS-430a.1. The entity shall discuss its process for managing iron ore and coking coal sourcing risks arising from environmental and social issues.",
+    "answer": "A",
+    "pages": [
+      "79"
+    ],
+    "reference_text": [
+      "EM-IS-140a.1. (1) Total fresh water withdrawn, (2) percentage recycled, (3) percentage in regions with High or Extremely High Baseline Water Stress",
+      "1 The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from freshwater sources:",
+      "1.1 Fresh water may be defined according to the local statutes and regulations where the entity operates. Where there is no regulatory definition, fresh water shall be considered to be water that has less than 1000 parts per million of dissolved solids."
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "What is the category of the metric 'Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions' in the Iron & Steel Producers industry and how should this metric be disclosed?",
+    "optionA": "The category is Quantitative. The entity shall disclose the gross global Scope 1 emissions in metric tons of CO2 equivalents and the percentage covered under emissions-limiting regulations.",
+    "optionB": "The category is Discussion and Analysis. The entity shall discuss its long-term and short-term strategy, emissions reduction targets, analysis of performance against targets, and whether targets are associated with emissions limiting programs.",
+    "optionC": "The category is Quantitative. The entity shall disclose the total energy consumed in gigajoules, percentage grid electricity, and percentage renewable energy.",
+    "optionD": "The category is Quantitative. The entity shall disclose the raw steel production in metric tons and percentages from different processes.",
+    "optionE": "The category is Quantitative. The entity shall disclose the total fresh water withdrawn in thousands of cubic meters and percentages recycled and in high water stress regions.",
+    "answer": "B",
+    "pages": [
+      "72",
+      "73",
+      "74"
+    ],
+    "reference_text": [
+      "EM-IS-110a.2. Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets",
+      "1 The entity shall discuss its long-term and short-term strategy or plan to manage its Scope 1 greenhouse gas (GHG) emissions.",
+      "2 The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the scope, type (absolute/intensity), percentage reduction, timelines, mechanisms, and any circumstances for recalculation.",
+      "3 The entity shall discuss the activities, investments, risks and limiting factors related to the plans and targets.",
+      "4 The entity shall discuss the scope of strategies/plans/targets across business units, geographies, emissions sources.",
+      "5 The entity shall discuss whether strategies/plans/targets are related to emissions limiting regulations or programs."
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "For the requirement EM-IS-130a.1 in the Iron & Steel Producers industry, what metric should a company use for '(1) Total energy consumed' and how should this metric be calculated?",
+    "optionA": "The metric is the total amount of energy consumed in gigajoules. This should be calculated as an aggregate of energy from all sources, including energy purchased from external sources and self-generated energy like direct fuel usage and purchased electricity.",
+    "optionB": "The metric is the total Scope 1 greenhouse gas emissions in metric tons of CO2 equivalents. This should be calculated according to the GHG Protocol and using published 100-year global warming potential values.",
+    "optionC": "The metric is the total amount of fuel consumed in gigajoules. This should be calculated based on actual fuel consumed tracked through methods like fuel purchases, vehicle tracking, or fuel expenses.",
+    "optionD": "The metric is the total amount of fresh water withdrawn in thousands of cubic meters. This should be calculated as the amount withdrawn from freshwater sources as defined by local regulations.",
+    "optionE": "The metric is the raw steel production in metric tons. This should be calculated as the total production, with percentages from basic oxygen furnace and electric arc furnace processes.",
+    "answer": "A",
+    "pages": [
+      "75",
+      "76"
+    ],
+    "reference_text": [
+      "EM-IS-130a.1. (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable",
+      "1 The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ).",
+      "1.1 The scope of energy consumption includes energy from all sources, including energy purchased from sources external to the entity and energy produced by the entity itself (self-generated). For example, direct fuel usage, purchased electricity, and heating, cooling, and steam energy are all included within the scope of energy consumption."
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "Can you tell me what topics are covered in the 'Industry Description' section and what are the key takeaways I need to know as a company writing my sustainability report in the Iron & Steel Producers industry?",
+    "optionA": "The topics covered are greenhouse gas emissions management, energy management, water management, and supply chain management of raw materials like iron ore and coking coal. The key takeaways are that steel production is emissions-intensive but technological improvements have reduced emissions, and companies face risks from climate regulations and need to manage energy and water use efficiently.",
+    "optionB": "The industry description covers the different types of companies in the industry, their main products like flat-rolled sheets and pipes, the two main steel production methods (basic oxygen furnace and electric arc furnace), and that most companies don't mine their own ore. The key takeaway is the scope of the industry and common production processes used.",
+    "optionC": "The topics are financial performance metrics like revenue, profits, cash flows, and balance sheet items that iron and steel companies should disclose. The key takeaway is guidance on accounting methods and required financial statement disclosures.",
+    "optionD": "The topics are human capital management issues like employee health and safety, labor relations, and diversity and inclusion metrics that iron and steel companies need to report on. The key takeaways relate to maintaining a productive and ethical workforce.",
+    "optionE": "The topics are corporate governance practices such as board structure, executive compensation policies, and codes of conduct that apply to iron and steel companies. The key takeaways relate to sound governance and ethical business practices.",
+    "answer": "B",
+    "pages": [
+      "69",
+      "70"
+    ],
+    "reference_text": [
+      "The Iron & Steel Producers industry consists of steel producers with iron and steel mills and companies with iron and steel foundries. The steel producers segment consists of companies that produce iron and steel products from their own mills. These products include flat-rolled sheets, tin plates, pipes, tubes, and products made of stainless steel, titanium, and high alloy steels.",
+      "Steel production occurs via two primary methods: the Basic Oxygen Furnace (BOF), which uses iron ore as an input, and the Electric Arc Furnace (EAF), which uses scrap steel. Many companies in the industry operate on an international scale.",
+      "Note: With a few exceptions, most companies do not mine their own ore to manufacture steel and iron products. There are separate SASB standards for the Metals & Mining (EM-MM) industry."
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  }
+]

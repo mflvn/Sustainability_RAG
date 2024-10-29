@@ -1,0 +1,140 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "In comparing the Asset Management & Custody Activities industry with the Pulp & Paper Products industry, which of the following is a required disclosure for Asset Management but not for Pulp & Paper?",
+    "optionA": "Total energy consumed",
+    "optionB": "Percentage of grid electricity used",
+    "optionC": "Amount of recycled and recovered fiber procured",
+    "optionD": "Percentage of total assets under management (AUM) included in financed emissions calculation",
+    "optionE": "Gross global Scope 1 emissions",
+    "answer": "D: Percentage of total assets under management (AUM) included in financed emissions calculation",
+    "explanation": "The Asset Management & Custody Activities industry is required to disclose the percentage of total AUM included in financed emissions calculations (metric FN-AC-1), while the Pulp & Paper Products industry does not have this requirement. Both industries are required to disclose gross global Scope 1 emissions and energy consumption metrics, but only Pulp & Paper needs to report on recycled fiber procurement.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "141",
+      "456"
+    ],
+    "pairing_explanation": "Finance and paper products have intricate supply chains and materiality analysis for paper use, recycling, and the sustainability of financial investments.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b43-pulp-and-paper-products"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When preparing sustainability reports, which of the following metrics is required for the Pulp & Paper Products industry but not for the Asset Management & Custody Activities industry?",
+    "optionA": "Description of proxy voting and investee engagement policies",
+    "optionB": "Amount of recycled and recovered fiber procured",
+    "optionC": "Gross global Scope 1 emissions",
+    "optionD": "Description of long-term and short-term strategy to manage Scope 1 emissions",
+    "optionE": "Total water withdrawn and consumed",
+    "answer": "B: Amount of recycled and recovered fiber procured",
+    "explanation": "The Pulp & Paper Products industry is required to disclose the amount of recycled and recovered fiber procured (metric RR-PP-430a.2), which is not a requirement for the Asset Management & Custody Activities industry. Both industries share requirements for Scope 1 emissions and related strategies, while water management is specific to Pulp & Paper. Proxy voting policies are unique to Asset Management.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "468",
+      "469"
+    ],
+    "pairing_explanation": "Finance and paper products have intricate supply chains and materiality analysis for paper use, recycling, and the sustainability of financial investments.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b43-pulp-and-paper-products"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating financed emissions for the Asset Management industry, which of the following is NOT included in the required disaggregation of emissions data?",
+    "optionA": "Scope 1 emissions",
+    "optionB": "Scope 2 emissions",
+    "optionC": "Scope 3 emissions",
+    "optionD": "Scope 4 emissions",
+    "optionE": "Associated amount of total AUM",
+    "answer": "D: Scope 4 emissions",
+    "explanation": "According to the IFRS S2 Climate-related Disclosures for the Asset Management industry, financed emissions calculations require disaggregation by Scope 1, Scope 2, and Scope 3 emissions, along with the associated amount of total AUM. Scope 4 emissions are not a recognized category in the GHG Protocol and are not included in the required disclosures.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "141",
+      "142"
+    ],
+    "pairing_explanation": "Finance and paper products have intricate supply chains and materiality analysis for paper use, recycling, and the sustainability of financial investments.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b43-pulp-and-paper-products"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "In the Pulp & Paper Products industry, when calculating the percentage of wood fiber sourced from third-party certified forestlands, which of the following is NOT considered a valid third-party forest management certification?",
+    "optionA": "Forest Stewardship Council (FSC)",
+    "optionB": "Programme for the Endorsement of Forest Certification (PEFC)",
+    "optionC": "Sustainable Forest Initiative (SFI)",
+    "optionD": "American Tree Farm System (ATFS)",
+    "optionE": "ISO 14001 Environmental Management System",
+    "answer": "E: ISO 14001 Environmental Management System",
+    "explanation": "When calculating the percentage of wood fiber sourced from third-party certified forestlands, the Pulp & Paper Products industry considers certifications from FSC, PEFC, SFI, and ATFS as valid. ISO 14001 is an environmental management system standard and is not specifically a forest management certification, thus it is not included in this calculation.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "466",
+      "467"
+    ],
+    "pairing_explanation": "Finance and paper products have intricate supply chains and materiality analysis for paper use, recycling, and the sustainability of financial investments.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b43-pulp-and-paper-products"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing the Asset Management & Custody Activities industry with the Pulp & Paper Products industry, which of the following sustainability considerations is most relevant to both sectors?",
+    "optionA": "Forest management practices",
+    "optionB": "Proxy voting policies",
+    "optionC": "Supply chain environmental impacts",
+    "optionD": "Water consumption and stress",
+    "optionE": "Financed emissions calculations",
+    "answer": "C: Supply chain environmental impacts",
+    "explanation": "Both the Asset Management & Custody Activities and Pulp & Paper Products industries need to consider supply chain environmental impacts in their sustainability reporting. For Asset Management, this relates to the environmental impacts of investee companies, while for Pulp & Paper, it concerns the sourcing of wood fiber and its environmental implications. Forest management is specific to Pulp & Paper, proxy voting to Asset Management, water stress primarily to Pulp & Paper, and financed emissions specifically to Asset Management.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "135",
+      "466"
+    ],
+    "pairing_explanation": "Finance and paper products have intricate supply chains and materiality analysis for paper use, recycling, and the sustainability of financial investments.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b43-pulp-and-paper-products"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "Which of the following metrics would be most useful for comparing the climate impact of a company in the Asset Management & Custody Activities industry with one in the Pulp & Paper Products industry?",
+    "optionA": "Total assets under management (AUM)",
+    "optionB": "Amount of recycled and recovered fiber procured",
+    "optionC": "Gross global Scope 1 emissions",
+    "optionD": "Percentage of wood fiber sourced from certified forestlands",
+    "optionE": "Description of proxy voting policies",
+    "answer": "C: Gross global Scope 1 emissions",
+    "explanation": "Gross global Scope 1 emissions is the most comparable metric for assessing climate impact across these two different industries. Both the Asset Management & Custody Activities and Pulp & Paper Products industries are required to disclose this metric. Other metrics like AUM, recycled fiber, and wood sourcing are specific to one industry or the other, while proxy voting policies are not directly related to climate impact.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "456",
+      "141"
+    ],
+    "pairing_explanation": "Finance and paper products have intricate supply chains and materiality analysis for paper use, recycling, and the sustainability of financial investments.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b43-pulp-and-paper-products"
+    ]
+  }
+]

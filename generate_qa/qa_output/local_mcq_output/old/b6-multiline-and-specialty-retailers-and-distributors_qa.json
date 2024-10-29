@@ -1,0 +1,422 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the three components of the energy management metric CG-MR-130a.1 for Multiline and Specialty Retailers & Distributors?",
+    "optionA": "Total energy produced, percentage of solar energy, percentage of wind energy",
+    "optionB": "Total energy consumed, percentage of nuclear energy, percentage of fossil fuels",
+    "optionC": "Total energy consumed, percentage grid electricity, percentage renewable",
+    "optionD": "Total energy exported, percentage of hydroelectric power, percentage of geothermal energy",
+    "optionE": "Total energy saved, percentage of energy efficiency, percentage of carbon offsets",
+    "answer": "C. Total energy consumed, percentage grid electricity, percentage renewable",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors",
+    "page": "40",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the industry description, what makes companies in the Multiline and Specialty Retailers & Distributors industry especially susceptible to reputational risks?",
+    "optionA": "High profit margins",
+    "optionB": "Complex supply chains",
+    "optionC": "Lack of competition",
+    "optionD": "The relatively substitutable nature of retail",
+    "optionE": "Excessive regulation",
+    "answer": "D. The relatively substitutable nature of retail",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors",
+    "page": "39",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What is the unit of measure for the activity metric 'Total area of: (1) retail space and (2) distribution centers'?",
+    "optionA": "Square feet (ft\u00b2)",
+    "optionB": "Square yards (yd\u00b2)",
+    "optionC": "Square kilometers (km\u00b2)",
+    "optionD": "Acres",
+    "optionE": "Square meters (m\u00b2)",
+    "answer": "E. Square meters (m\u00b2)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors",
+    "page": "39",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "When calculating energy consumption from renewable biomass sources, what certification is required for the materials to be included in the scope?",
+    "optionA": "ISO 14001 certification",
+    "optionB": "Energy Star certification",
+    "optionC": "LEED certification",
+    "optionD": "Third-party certification (e.g., Forest Stewardship Council)",
+    "optionE": "EPA SmartWay certification",
+    "answer": "D. Third-party certification (e.g., Forest Stewardship Council)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors",
+    "page": "41",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might a company in this industry benefit financially from implementing renewable energy solutions, considering both the industry characteristics and energy management factors?",
+    "optionA": "By increasing product prices to offset energy costs",
+    "optionB": "Through improved brand reputation leading to higher sales",
+    "optionC": "By reducing operational costs in a low-margin industry while meeting regulatory requirements",
+    "optionD": "By selling excess renewable energy to other retailers",
+    "optionE": "Through tax breaks unrelated to energy consumption",
+    "answer": "C: By reducing operational costs in a low-margin industry while meeting regulatory requirements",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "39-40",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "What factors should a company in this industry consider when deciding between conventional and renewable energy sources for its operations?",
+    "optionA": "Only the initial installation cost of energy systems",
+    "optionB": "The popularity of renewable energy among competitors",
+    "optionC": "The trade-offs between cost, reliability, regulatory compliance, and long-term sustainability",
+    "optionD": "Exclusively the availability of government subsidies",
+    "optionE": "The preference of local utility companies",
+    "answer": "C: The trade-offs between cost, reliability, regulatory compliance, and long-term sustainability",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "40",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How does the requirement for retaining or cancelling Renewable Energy Certificates (RECs) affect a company's claim of renewable energy usage in this industry?",
+    "optionA": "It has no effect on renewable energy claims",
+    "optionB": "It allows companies to claim renewable energy without actually using it",
+    "optionC": "It ensures that companies can only claim renewable energy they have genuinely consumed or purchased",
+    "optionD": "It only applies to energy generated from biomass sources",
+    "optionE": "It exempts companies from reporting grid electricity usage",
+    "answer": "C: It ensures that companies can only claim renewable energy they have genuinely consumed or purchased",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "41",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "Considering the industry description and energy management topic, why might a company choose to invest in on-site renewable energy generation?",
+    "optionA": "To completely eliminate the need for grid electricity",
+    "optionB": "To reduce dependence on the grid, lower long-term costs, and demonstrate environmental commitment",
+    "optionC": "To sell excess energy to other retailers for profit",
+    "optionD": "To avoid reporting energy consumption metrics",
+    "optionE": "To increase the company's total energy consumption",
+    "answer": "B: To reduce dependence on the grid, lower long-term costs, and demonstrate environmental commitment",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "39-41",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What does the term 'higher heating values (HHV)' mean in the context of energy consumption calculations for this industry?",
+    "optionA": "The minimum amount of heat generated by burning a specific fuel",
+    "optionB": "The average heat output of all fuel types used in the industry",
+    "optionC": "The maximum theoretical heat output when burning a fuel, assuming all water vapor is condensed",
+    "optionD": "The heat value of fuel measured at room temperature",
+    "optionE": "The energy content of fuel excluding any heat from water vapor",
+    "answer": "C. The maximum theoretical heat output when burning a fuel, assuming all water vapor is condensed",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "40",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "In the context of this industry's energy management, what is a 'renewable power purchase agreement (PPA)'?",
+    "optionA": "A contract to buy discounted electricity from any source",
+    "optionB": "An agreement to generate renewable energy on-site",
+    "optionC": "A commitment to reduce overall energy consumption",
+    "optionD": "A contract to purchase renewable energy that includes renewable energy certificates or guarantees of origin",
+    "optionE": "A government mandate to use a certain percentage of renewable energy",
+    "answer": "D. A contract to purchase renewable energy that includes renewable energy certificates or guarantees of origin",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "41",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What does the term 'Green-e Energy Certified' refer to in the context of renewable energy sourcing for retailers and distributors?",
+    "optionA": "A certification for energy-efficient appliances",
+    "optionB": "A label for environmentally friendly packaging",
+    "optionC": "A verification program for renewable energy products and utility programs",
+    "optionD": "A rating system for green building materials",
+    "optionE": "A certification for organic products sold in retail stores",
+    "answer": "C. A verification program for renewable energy products and utility programs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "41",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is meant by the 'scope of energy consumption' in the context of energy management disclosures for this industry?",
+    "optionA": "Only electricity purchased from external sources",
+    "optionB": "All energy used in manufacturing products sold by retailers",
+    "optionC": "Energy consumed by customers using products sold by the company",
+    "optionD": "Energy from all sources directly consumed by the entity during the reporting period",
+    "optionE": "Projected energy usage for future expansion plans",
+    "answer": "D. Energy from all sources directly consumed by the entity during the reporting period",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "40",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might the energy management practices of multiline and specialty retailers impact their competitiveness in a low-margin industry?",
+    "optionA": "By increasing product variety",
+    "optionB": "Through direct cost savings, potentially improving profit margins",
+    "optionC": "By attracting more customers to physical stores",
+    "optionD": "Through increased marketing budgets",
+    "optionE": "By reducing the number of retail locations",
+    "answer": "B. Through direct cost savings, potentially improving profit margins",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors",
+    "page": "40",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "What broader implications does the industry's focus on energy management have for environmental sustainability?",
+    "optionA": "It only affects the company's internal operations",
+    "optionB": "It has no impact on environmental sustainability",
+    "optionC": "It contributes to reducing GHG emissions and combating climate change",
+    "optionD": "It only impacts local energy grids",
+    "optionE": "It increases the demand for fossil fuels",
+    "answer": "C. It contributes to reducing GHG emissions and combating climate change",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors",
+    "page": "40",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How does the disclosure of energy consumption percentages from different sources reflect on a company's strategic approach to sustainability?",
+    "optionA": "It only reflects the company's marketing strategy",
+    "optionB": "It has no relation to the company's sustainability approach",
+    "optionC": "It demonstrates the company's commitment to transparency but not sustainability",
+    "optionD": "It shows the company's efforts to diversify energy sources without sustainability considerations",
+    "optionE": "It indicates the company's progress in transitioning to more sustainable energy sources",
+    "answer": "E. It indicates the company's progress in transitioning to more sustainable energy sources",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors",
+    "page": "40-41",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "What does the inclusion of specific requirements for renewable energy claims in the disclosure guidelines suggest about the industry's approach to sustainability reporting?",
+    "optionA": "The industry is trying to make sustainability reporting more complicated",
+    "optionB": "It suggests a focus on simplifying the reporting process",
+    "optionC": "It indicates a move towards standardization and prevention of greenwashing in sustainability claims",
+    "optionD": "The industry is discouraging companies from using renewable energy",
+    "optionE": "It implies that renewable energy is not important for the industry",
+    "answer": "C. It indicates a move towards standardization and prevention of greenwashing in sustainability claims",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors",
+    "page": "41",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the IFRS S2 Climate-related Disclosures, what specific method must be used when calculating energy consumption from fuels and biofuels?",
+    "optionA": "Lower heating values (LHV)",
+    "optionB": "Net calorific values (NCV)",
+    "optionC": "Higher heating values (HHV)",
+    "optionD": "Gross energy content (GEC)",
+    "optionE": "Standard energy units (SEU)",
+    "answer": "C. Higher heating values (HHV)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "40",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the procedure for including renewable energy from biomass sources in sustainability disclosures?",
+    "optionA": "Any biomass source can be included without restrictions",
+    "optionB": "Only biomass from agricultural waste is allowed",
+    "optionC": "Biomass sources must be certified by a government agency",
+    "optionD": "Biomass is excluded from renewable energy calculations",
+    "optionE": "Biomass sources must be certified to a third-party standard or meet specific eligibility criteria",
+    "answer": "E. Biomass sources must be certified to a third-party standard or meet specific eligibility criteria",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "41",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the policy regarding the inclusion of grid electricity mix in a company's renewable energy disclosure?",
+    "optionA": "All grid electricity is considered renewable",
+    "optionB": "Grid electricity is excluded entirely from calculations",
+    "optionC": "Only green tariff programs from the grid are included",
+    "optionD": "The renewable portion of the electricity grid mix outside the entity's control is excluded",
+    "optionE": "The entire grid mix is included regardless of renewable content",
+    "answer": "D. The renewable portion of the electricity grid mix outside the entity's control is excluded",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "41",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the IFRS S2 Climate-related Disclosures, what is the required procedure for a company to claim renewable energy from a power purchase agreement (PPA) in its sustainability reporting?",
+    "optionA": "The company can claim any renewable energy mentioned in the PPA without further action",
+    "optionB": "The PPA must include RECs, but they can be sold separately from the energy",
+    "optionC": "The company must retain and retire the associated RECs on behalf of the entity",
+    "optionD": "Only on-site generated renewable energy can be claimed, PPAs are excluded",
+    "optionE": "The renewable energy can be claimed if it's certified by any third-party, regardless of REC ownership",
+    "answer": "C. The company must retain and retire the associated RECs on behalf of the entity",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors",
+    "page": "41",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the energy management practices outlined in the IFRS S2 Climate-related Disclosures impact the competitive landscape of the Multiline and Specialty Retailers & Distributors industry?",
+    "optionA": "They will have no significant impact on competition",
+    "optionB": "They will primarily benefit large retailers with more resources",
+    "optionC": "They may create new opportunities for differentiation and cost savings, potentially altering competitive dynamics",
+    "optionD": "They will only affect companies with international operations",
+    "optionE": "They will lead to increased consolidation in the industry",
+    "answer": "C: They may create new opportunities for differentiation and cost savings, potentially altering competitive dynamics",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors",
+    "page": "40-41",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "Given the industry description and energy management requirements, how might the focus on energy consumption and renewable sources affect the future store designs and operations in this sector?",
+    "optionA": "It will have no impact on store designs or operations",
+    "optionB": "It will lead to smaller store formats to reduce energy consumption",
+    "optionC": "It may result in innovative store designs incorporating energy-efficient technologies and on-site renewable energy generation",
+    "optionD": "It will cause a shift towards online-only retail models",
+    "optionE": "It will primarily affect distribution centers but not retail locations",
+    "answer": "C: It may result in innovative store designs incorporating energy-efficient technologies and on-site renewable energy generation",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors",
+    "page": "39-41",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the detailed energy disclosure requirements influence investor perceptions and decision-making in the Multiline and Specialty Retailers & Distributors industry?",
+    "optionA": "Investors will ignore these disclosures entirely",
+    "optionB": "It will only influence socially responsible investors",
+    "optionC": "It may lead to increased scrutiny of companies' sustainability efforts and potentially impact valuations and investment decisions",
+    "optionD": "It will only affect companies with poor energy management practices",
+    "optionE": "It will have a negative impact on all companies in the industry",
+    "answer": "C: It may lead to increased scrutiny of companies' sustainability efforts and potentially impact valuations and investment decisions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors",
+    "page": "40-41",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "Considering the energy management topic summary, how might the emphasis on energy efficiency and alternative energy sources affect the industry's supply chain strategies in the long term?",
+    "optionA": "It will have no impact on supply chain strategies",
+    "optionB": "It will lead to complete outsourcing of all energy-intensive operations",
+    "optionC": "It may drive the development of more localized and energy-efficient supply chains, potentially altering global sourcing patterns",
+    "optionD": "It will only affect luxury retailers",
+    "optionE": "It will result in the elimination of all brick-and-mortar stores",
+    "answer": "C: It may drive the development of more localized and energy-efficient supply chains, potentially altering global sourcing patterns",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors",
+    "page": "40",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following energy sources is NOT mentioned as a renewable energy option in the IFRS S2 Climate-related Disclosures for this industry?",
+    "optionA": "Geothermal energy",
+    "optionB": "Wind energy",
+    "optionC": "Solar energy",
+    "optionD": "Hydroelectric energy",
+    "optionE": "Nuclear energy",
+    "answer": "E. Nuclear energy",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "41",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT included in the scope of energy consumption for reporting purposes according to the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Direct fuel usage",
+    "optionB": "Purchased electricity",
+    "optionC": "Heating energy",
+    "optionD": "Cooling energy",
+    "optionE": "Energy consumed by suppliers",
+    "answer": "E. Energy consumed by suppliers",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "40",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following retail categories is NOT explicitly mentioned as part of the Multiline and Specialty Retailers & Distributors industry in the industry description?",
+    "optionA": "Department stores",
+    "optionB": "Mass merchants",
+    "optionC": "Home products stores",
+    "optionD": "Warehouse clubs",
+    "optionE": "Grocery stores",
+    "answer": "E. Grocery stores",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "39",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a separate SASB standard related to the Multiline and Specialty Retailers & Distributors industry?",
+    "optionA": "Food Retailers & Distributors",
+    "optionB": "Drug Retailers",
+    "optionC": "E-Commerce",
+    "optionD": "Apparel, Accessories & Footwear",
+    "optionE": "Electronics Retailers",
+    "answer": "E. Electronics Retailers",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "39",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to the IFRS S2 Climate-related Disclosures for the Multiline and Specialty Retailers & Distributors industry, what is the required unit of measure for reporting total energy consumed?",
+    "optionA": "Kilowatt-hours (kWh)",
+    "optionB": "Megawatt-hours (MWh)",
+    "optionC": "Gigajoules (GJ)",
+    "optionD": "British Thermal Units (BTU)",
+    "optionE": "Calories (cal)",
+    "answer": "C. Gigajoules (GJ)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "40",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When calculating the percentage of renewable energy consumed, which of the following is NOT included in the scope of renewable energy according to the IFRS S2 disclosure requirements?",
+    "optionA": "Renewable fuel consumed by the entity",
+    "optionB": "Renewable energy directly produced by the entity",
+    "optionC": "Renewable energy purchased through a PPA with explicit RECs",
+    "optionD": "Green-e Energy Certified utility program purchases",
+    "optionE": "The renewable portion of the electricity grid mix outside the entity's control",
+    "answer": "E. The renewable portion of the electricity grid mix outside the entity's control",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "41",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "For energy from biomass sources to be considered renewable in sustainability reporting for this industry, which certification is NOT mentioned as acceptable in the IFRS S2 disclosure requirements?",
+    "optionA": "Forest Stewardship Council",
+    "optionB": "Sustainable Forest Initiative",
+    "optionC": "Programme for the Endorsement of Forest Certification",
+    "optionD": "American Tree Farm System",
+    "optionE": "ISO 14001 Environmental Management",
+    "answer": "E. ISO 14001 Environmental Management",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "41",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing energy consumption data for the Multiline and Specialty Retailers & Distributors industry, which of the following is required to ensure consistency across all reported data?",
+    "optionA": "Use of Lower Heating Values (LHV) for all fuel calculations",
+    "optionB": "Conversion of all energy units to British Thermal Units (BTU)",
+    "optionC": "Reporting all electricity consumption in kilowatt-hours (kWh)",
+    "optionD": "Application of consistent conversion factors, such as using Higher Heating Values (HHV) for fuels",
+    "optionE": "Excluding all renewable energy sources from total energy consumption calculations",
+    "answer": "D. Application of consistent conversion factors, such as using Higher Heating Values (HHV) for fuels",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "41",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the total energy consumed for a multiline retailer, which of the following energy sources should NOT be included according to the IFRS S2 disclosure requirements?",
+    "optionA": "Direct fuel usage",
+    "optionB": "Purchased electricity",
+    "optionC": "Heating energy",
+    "optionD": "Energy produced by suppliers",
+    "optionE": "Self-generated energy",
+    "answer": "D. Energy produced by suppliers",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors",
+    "page": "40",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When converting energy data for reporting purposes, which of the following approaches should be used according to the IFRS S2 disclosure requirements?",
+    "optionA": "Use Lower Heating Values (LHV) for all fuel calculations",
+    "optionB": "Apply different conversion factors for renewable and non-renewable energy",
+    "optionC": "Use Higher Heating Values (HHV) for fuel usage and convert kWh to GJ for electricity",
+    "optionD": "Report all energy in kilowatt hours (kWh) without conversion",
+    "optionE": "Use regional-specific conversion factors that vary by location",
+    "answer": "C. Use Higher Heating Values (HHV) for fuel usage and convert kWh to GJ for electricity",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors",
+    "page": "41",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A specialty retailer is reporting on their energy consumption from biomass sources. Which of the following criteria must be met for biomass energy to be included in the scope of renewable energy according to IFRS S2?",
+    "optionA": "Energy from any locally sourced biomass",
+    "optionB": "Biomass certified by any environmental organization",
+    "optionC": "Energy from biomass sources certified to a third-party standard like FSC",
+    "optionD": "Biomass energy from agricultural waste only",
+    "optionE": "Any biomass energy regardless of its source",
+    "answer": "C. Energy from biomass sources certified to a third-party standard like FSC",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors",
+    "page": "41",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A distribution company is preparing its sustainability report and needs to disclose its total energy consumption. Which of the following statements is correct regarding the scope of energy consumption according to IFRS S2?",
+    "optionA": "Only include energy purchased from external sources",
+    "optionB": "Include energy consumed by suppliers and customers",
+    "optionC": "Include energy directly consumed during the reporting period",
+    "optionD": "Only include renewable energy consumption",
+    "optionE": "Include projected energy consumption for the next fiscal year",
+    "answer": "C. Include energy directly consumed during the reporting period",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors",
+    "page": "40",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A multinational retailer is facing challenges in reporting its energy management data consistently across different regions. According to IFRS S2, which of the following approaches should be adopted to ensure consistency in energy data reporting?",
+    "optionA": "Use different conversion factors for each region",
+    "optionB": "Report all energy data in kilowatt hours (kWh) only",
+    "optionC": "Apply conversion factors consistently for all reported data",
+    "optionD": "Use lower heating values (LHV) for all fuel calculations",
+    "optionE": "Report energy consumption in local units for each region",
+    "answer": "C. Apply conversion factors consistently for all reported data",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors",
+    "page": "41",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A global specialty retailer is struggling to accurately report its renewable energy consumption due to varying energy certificate systems across different countries. Which of the following approaches aligns best with IFRS S2 guidelines for reporting renewable energy consumption?",
+    "optionA": "Only report renewable energy consumption from countries with standardized certificate systems",
+    "optionB": "Exclude all renewable energy consumption data due to lack of uniformity",
+    "optionC": "Report all grid electricity as renewable energy to simplify the process",
+    "optionD": "Include renewable energy only if it comes with RECs, GOs, or is part of a certified green power product",
+    "optionE": "Estimate renewable energy consumption based on global averages",
+    "answer": "D. Include renewable energy only if it comes with RECs, GOs, or is part of a certified green power product",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors",
+    "page": "41",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  }
+]

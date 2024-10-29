@@ -1,0 +1,182 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing the percentage of renewable energy consumed, which of the following is NOT considered within the scope of renewable energy for a building products company?",
+    "optionA": "Renewable fuel the entity consumed",
+    "optionB": "Renewable energy the entity directly produced",
+    "optionC": "Renewable energy purchased through a PPA with explicit RECs",
+    "optionD": "The renewable portion of the electricity grid mix outside the entity's control",
+    "optionE": "Green-e Energy Certified utility program purchases",
+    "answer": "D. The renewable portion of the electricity grid mix outside the entity's control",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+    "page": "17",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When reporting on product lifecycle environmental impacts, which of the following is NOT mentioned as a relevant strategy for managing these impacts?",
+    "optionA": "Changes in materials selection",
+    "optionB": "Use of recycled materials",
+    "optionC": "Design for product take-back",
+    "optionD": "Optimization of packaging",
+    "optionE": "Increasing product complexity to improve durability",
+    "answer": "E. Increasing product complexity to improve durability",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+    "page": "18",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "In the context of wood supply chain management, which of the following is NOT considered a third-party forest management standard mentioned in the IFRS sustainability reporting guidelines?",
+    "optionA": "Forest Stewardship Council (FSC)",
+    "optionB": "Programme for the Endorsement of Forest Certification (PEFC)",
+    "optionC": "Sustainable Forest Initiative (SFI)",
+    "optionD": "American Tree Farm (ATF)",
+    "optionE": "International Organization for Standardization (ISO) 14001",
+    "answer": "E. International Organization for Standardization (ISO) 14001",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+    "page": "22-23",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When calculating the percentage of recovered materials recycled, which of the following is NOT considered as recycled or remanufactured according to IFRS sustainability reporting standards?",
+    "optionA": "Materials that are reused for the same purpose",
+    "optionB": "Materials that are reclaimed to recover a usable product",
+    "optionC": "Primary recycled materials",
+    "optionD": "Co-products of equal value to primary recycled materials",
+    "optionE": "Materials incinerated for energy recovery",
+    "answer": "E. Materials incinerated for energy recovery",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+    "page": "20",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of renewable energy consumed, which of the following sources should be excluded from the scope according to IFRS sustainability reporting standards?",
+    "optionA": "Renewable fuel consumed by the entity",
+    "optionB": "Renewable energy directly produced by the entity",
+    "optionC": "Renewable energy purchased through a power purchase agreement with RECs",
+    "optionD": "Renewable portion of the electricity grid mix outside the entity's control",
+    "optionE": "Green-e Energy Certified utility program purchases",
+    "answer": "D. Renewable portion of the electricity grid mix outside the entity's control",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "17",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When disclosing the weight of end-of-life materials recovered, which of the following should NOT be included in the scope?",
+    "optionA": "Materials collected through recycling services",
+    "optionB": "Products recovered through take-back programs",
+    "optionC": "Materials recovered through refurbishment services",
+    "optionD": "Products collected for in-warranty repairs",
+    "optionE": "Materials collected by third parties under contract for reuse",
+    "answer": "D. Products collected for in-warranty repairs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "19-20",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of wood fiber materials certified to third-party forest management standards, how should materials certified to multiple standards be accounted for?",
+    "optionA": "Count each certification separately",
+    "optionB": "Count only the most stringent certification",
+    "optionC": "Count only once in the total percentage",
+    "optionD": "Exclude these materials from the calculation",
+    "optionE": "Apply a weighted average based on certification importance",
+    "answer": "C. Count only once in the total percentage",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "23",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the total energy consumed for sustainability reporting in the Building Products & Furnishings industry, which of the following energy sources should NOT be included?",
+    "optionA": "Purchased electricity from external sources",
+    "optionB": "Direct fuel usage on-site",
+    "optionC": "Self-generated energy produced by the entity",
+    "optionD": "Heating and cooling energy",
+    "optionE": "Energy consumed by the entity's suppliers",
+    "answer": "E. Energy consumed by the entity's suppliers",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+    "page": "16-17",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A building products company is struggling to accurately report on its renewable energy consumption. Which of the following scenarios would NOT be considered renewable energy consumption according to the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Energy from on-site solar panels with retained RECs",
+    "optionB": "Purchased electricity through a Green-e Energy Certified utility program",
+    "optionC": "Biomass energy from Forest Stewardship Council certified materials",
+    "optionD": "Renewable energy from the standard electricity grid mix",
+    "optionE": "Energy from a renewable PPA with explicitly included RECs",
+    "answer": "D. Renewable energy from the standard electricity grid mix",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+    "page": "17",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A furnishings manufacturer is implementing a product take-back program. Which of the following materials recovered through this program should NOT be included in the company's disclosure of end-of-life material recovery?",
+    "optionA": "Products collected by third-party contractors for recycling",
+    "optionB": "Materials from products refurbished by the company",
+    "optionC": "Components recovered for reuse in new products",
+    "optionD": "Products collected and repaired under warranty",
+    "optionE": "Materials collected but sent for energy recovery",
+    "answer": "D. Products collected and repaired under warranty",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+    "page": "19-20",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A building materials company is trying to improve its wood supply chain management. Which of the following actions would NOT be considered a best practice for verifying suppliers' forestry management and harvesting practices?",
+    "optionA": "Implementing a code of conduct for suppliers",
+    "optionB": "Conducting regular audits of supplier practices",
+    "optionC": "Relying solely on suppliers' self-reported data",
+    "optionD": "Including forestry management criteria in supplier contracts",
+    "optionE": "Verifying compliance with jurisdictional regulations",
+    "answer": "C. Relying solely on suppliers' self-reported data",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+    "page": "24",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A company in the Building Products & Furnishings industry is assessing its product lifecycle impacts. Which of the following strategies would NOT be considered relevant for managing these impacts according to IFRS S2?",
+    "optionA": "Using environmentally focused design principles",
+    "optionB": "Optimizing product packaging",
+    "optionC": "Designing for product take-back",
+    "optionD": "Increasing the use of virgin materials",
+    "optionE": "Assessing upstream environmental impacts",
+    "answer": "D. Increasing the use of virgin materials",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+    "page": "18",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  }
+]

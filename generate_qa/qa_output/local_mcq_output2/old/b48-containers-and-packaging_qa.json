@@ -1,0 +1,152 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2 Climate-related Disclosures, what should a company in the Containers & Packaging industry include when discussing its Scope 1 emissions reduction target?",
+    "optionA": "Only the percentage reduction against the base year",
+    "optionB": "Only the timeline for the reduction activity",
+    "optionC": "Only the mechanism for achieving the target",
+    "optionD": "Only the scope of the emission reduction target",
+    "optionE": "The scope, timeline, percentage reduction, and mechanism for achieving the target",
+    "answer": "E. The scope, timeline, percentage reduction, and mechanism for achieving the target",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Containers & Packaging",
+    "page": "510-511",
+    "industries": [
+      "b48-containers-and-packaging"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing water management strategies in the Containers & Packaging industry, which of the following is NOT required according to IFRS S2?",
+    "optionA": "The scope of the strategy and how it relates to different business units",
+    "optionB": "Water management goals and targets prioritized by the company",
+    "optionC": "Activities and investments required to achieve the plans and targets",
+    "optionD": "Disclosure of water management practices from competitors",
+    "optionE": "Analysis of performance against set goals and targets",
+    "answer": "D. Disclosure of water management practices from competitors",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Containers & Packaging",
+    "page": "516-517",
+    "industries": [
+      "b48-containers-and-packaging"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When reporting on hazardous waste in the Containers & Packaging industry, which of the following is considered within the scope of recycled waste according to IFRS S2?",
+    "optionA": "Waste that is incinerated for energy recovery",
+    "optionB": "Waste that is disposed of in landfills",
+    "optionC": "Waste that is reused, reclaimed, or remanufactured",
+    "optionD": "Waste that is exported to other countries",
+    "optionE": "Waste that is stored indefinitely on-site",
+    "answer": "C. Waste that is reused, reclaimed, or remanufactured",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Containers & Packaging",
+    "page": "518",
+    "industries": [
+      "b48-containers-and-packaging"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing information about wood fiber procurement in the Containers & Packaging industry, which of the following is NOT considered a responsible sourcing certification according to IFRS S2?",
+    "optionA": "Forest Stewardship Council (FSC)",
+    "optionB": "Programme for the Endorsement of Forest Certification (PEFC)",
+    "optionC": "Sustainable Forest Initiative (SFI)",
+    "optionD": "American Tree Farm System (ATFS)",
+    "optionE": "International Organization for Standardization (ISO)",
+    "answer": "E. International Organization for Standardization (ISO)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Containers & Packaging",
+    "page": "520",
+    "industries": [
+      "b48-containers-and-packaging"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of energy consumed from renewable sources in the Containers & Packaging industry, which of the following is NOT included in the scope of renewable energy according to IFRS S2?",
+    "optionA": "Renewable fuel consumed by the entity",
+    "optionB": "Renewable energy directly produced by the entity",
+    "optionC": "Renewable energy purchased through a power purchase agreement (PPA) with explicit RECs",
+    "optionD": "Renewable portion of the electricity grid mix outside the entity's control",
+    "optionE": "Green-e Energy Certified utility program purchases",
+    "answer": "D. Renewable portion of the electricity grid mix outside the entity's control",
+    "reference": "Energy Management",
+    "page": "513",
+    "industries": [
+      "b48-containers-and-packaging"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When reporting on water consumption in regions with High or Extremely High Baseline Water Stress for the Containers & Packaging industry, how should a company determine these regions according to IFRS S2?",
+    "optionA": "Using the company's internal water stress assessment",
+    "optionB": "Consulting local water authorities",
+    "optionC": "Using the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "optionD": "Referring to United Nations water scarcity reports",
+    "optionE": "Analyzing historical rainfall data for the past 10 years",
+    "answer": "C. Using the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "reference": "Water Management",
+    "page": "515",
+    "industries": [
+      "b48-containers-and-packaging"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When disclosing Scope 1 GHG emissions for the Containers & Packaging industry, which of the following gases should NOT be included in the calculation according to IFRS S2?",
+    "optionA": "Carbon dioxide (CO2)",
+    "optionB": "Methane (CH4)",
+    "optionC": "Nitrous oxide (N2O)",
+    "optionD": "Sulfur hexafluoride (SF6)",
+    "optionE": "Chlorofluorocarbons (CFCs)",
+    "answer": "E. Chlorofluorocarbons (CFCs)",
+    "reference": "Greenhouse Gas Emissions",
+    "page": "508",
+    "industries": [
+      "b48-containers-and-packaging"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When reporting on hazardous waste management in the Containers & Packaging industry, what should a company do if different legal frameworks define hazardous waste differently across its operational jurisdictions?",
+    "optionA": "Use only the U.S. Resources Conservation and Recovery Act (RCRA) definition",
+    "optionB": "Apply the strictest definition across all operations",
+    "optionC": "Disclose the legal frameworks used and amounts defined under each",
+    "optionD": "Use only the EU Waste Framework Directive definition",
+    "optionE": "Ignore jurisdictional differences and use internal definitions",
+    "answer": "C. Disclose the legal frameworks used and amounts defined under each",
+    "reference": "Waste Management",
+    "page": "518-519",
+    "industries": [
+      "b48-containers-and-packaging"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "In the Containers & Packaging industry, when reporting on wood fiber procurement from certified sources, how should a company handle fiber that is certified to multiple responsible sourcing schemes?",
+    "optionA": "Count the weight of the fiber for each certification it has",
+    "optionB": "Only count the weight once, regardless of multiple certifications",
+    "optionC": "Exclude multiply-certified fiber from the calculation",
+    "optionD": "Apply a multiplier based on the number of certifications",
+    "optionE": "Report it separately from singly-certified fiber",
+    "answer": "B. Only count the weight once, regardless of multiple certifications",
+    "reference": "Supply Chain Management",
+    "page": "520-521",
+    "industries": [
+      "b48-containers-and-packaging"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "In reporting energy consumption for the Containers & Packaging industry, how should a company treat the renewable portion of the electricity grid mix when calculating the percentage of renewable energy consumed?",
+    "optionA": "Include it in the calculation if it exceeds 10% of total consumption",
+    "optionB": "Always include it in the renewable energy percentage",
+    "optionC": "Exclude it from the scope of renewable energy",
+    "optionD": "Include it only if the company has specifically purchased renewable energy credits",
+    "optionE": "Average it with the company's direct renewable energy purchases",
+    "answer": "C. Exclude it from the scope of renewable energy",
+    "reference": "Energy Management",
+    "page": "513",
+    "industries": [
+      "b48-containers-and-packaging"
+    ]
+  }
+]

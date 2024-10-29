@@ -1,0 +1,3810 @@
+[
+    {
+        "question": "What is the unit of measure for the 'Total energy consumed' metric in the Restaurants industry?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code for the metric 'Percentage of food purchased that meets environmental and social sourcing standards' in the Restaurants industry?",
+        "correct_answer": "C",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "On what page can I find details about the 'Water Management' topic for the Restaurants industry?",
+        "correct_answer": "D",
+        "base_model_answer": null,
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": null
+    },
+    {
+        "question": "What is the category of the 'Number of employees at company-owned and franchise locations' metric in the Restaurants industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code of the metric for total energy consumed in the Restaurants industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric for the percentage of food purchased that meets environmental and social sourcing standards in the Restaurants industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for the Water Management topic in the Restaurants industry and how should these metrics be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "What is the code of the metric for the percentage of eggs that originated from a cage-free environment in the Restaurants industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the unit of measure for the total energy consumed metric in the Casinos & Gaming industry?",
+        "correct_answer": "B",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the code for the metric related to the number of active online gaming customers in the Casinos & Gaming industry?",
+        "correct_answer": "C",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "What is the category of the metric for the total area of gaming floor in the Casinos & Gaming industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the energy management disclosure in the Casinos & Gaming industry, what must a company do to claim renewable electricity generated on-site as renewable energy?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the unit of measure for the 'Total energy consumed' metric in the Casinos & Gaming industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the 'Number of active online gaming customers' metric in the Casinos & Gaming industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code of the 'Total area of gaming floor' metric in the Casinos & Gaming industry and how should this metric be disclosed?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the 'Energy Management' topic, what metric should a company in the Casinos & Gaming industry use for 'percentage renewable' and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the unit of measure for the metric 'Total energy consumed' in the Telecommunication Services industry?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code for the metric 'Number of broadband subscribers' in the Telecommunication Services industry?",
+        "correct_answer": "C",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "What is the category of the metric 'Discussion of systems to provide unimpeded service during service interruptions' in the Telecommunication Services industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the listed requirement 'Managing Systemic Risks from Technology Disruptions', what does a company in the Telecommunication Services industry need to do?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code of the metric related to the total energy consumed in the Telecommunication Services industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric related to the percentage of energy consumed that is renewable in the Telecommunication Services industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for the 'Environmental Footprint of Operations' topic in the Telecommunication Services industry and how should these metrics be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "For the listed requirement of discussing systems to provide unimpeded service during service interruptions, what metric should a company in the Telecommunication Services industry use and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the unit of measure for the 'Total energy consumed' metric in the Auto Parts industry?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code for the 'Revenue from products designed to increase fuel efficiency and/or reduce emissions' metric in the Auto Parts industry?",
+        "correct_answer": "C",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "On what page can I find details about the 'Energy Management' topic for the Auto Parts industry?",
+        "correct_answer": "C",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the 'Number of parts produced' metric in the Auto Parts industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the unit of measure for the 'Energy Management' topic in the Auto Parts industry, and how should the percentage of renewable energy be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the 'Revenue from products designed to increase fuel efficiency and/or reduce emissions' metric in the Auto Parts industry, and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the 'Total energy consumed' metric in the Auto Parts industry, and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the 'Design for Fuel Efficiency' topic, what metric should a company in the Auto Parts industry use for revenue, and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric for the 'Percentage of total assets under management (AUM) included in the financed emissions calculation' in the Asset Management & Custody Activities industry?",
+        "correct_answer": "C",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Can you provide for me the unit of measure I should use for the 'Absolute gross Scope 1, Scope 2, and Scope 3 emissions' metric in the Asset Management & Custody Activities industry?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the 'Description of proxy voting and investee engagement policies and procedures' metric in the Asset Management & Custody Activities industry?",
+        "correct_answer": "B",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "On what page can I find details about the 'Transition Risk Exposure' topic for the Asset Management & Custody Activities industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric 'Percentage of total assets under management (AUM) included in the financed emissions calculation' in the Asset Management & Custody Activities industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric 'Description of proxy voting and investee engagement policies and procedures' in the Asset Management & Custody Activities industry and how should this metric be disclosed?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Transition Risk Exposure' topics in the Asset Management & Custody Activities industry and how should these metrics be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "For the listed 'Incorporation of Environmental, Social, and Governance Factors in Investment Management & Advisory' requirement, what metric should a company in the Asset Management & Custody Activities industry use for 'Description of approach to incorporation of ESG factors' and how should this metric be disclosed?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code of the metric for the percentage of eligible products certified to an energy efficiency certification in the Appliance Manufacturing industry?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the metric for the description of efforts to manage products' end-of-life impacts in the Appliance Manufacturing industry?",
+        "correct_answer": "B",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "Can you provide for me the unit of measure I should use for the annual production metric in the Appliance Manufacturing industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the listed requirement of describing efforts to manage products' end-of-life impacts, what does a company in the Appliance Manufacturing industry need to do?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric 'Percentage of eligible products by revenue certified to an energy efficiency certification' in the Appliance Manufacturing industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric 'Percentage of eligible products certified to an Association of Home Appliance Manufacturers (AHAM) sustainability standard' in the Appliance Manufacturing industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Product Lifecycle Environmental Impacts' topic(s) in the Appliance Manufacturing industry and how should these metrics be calculated?",
+        "correct_answer": "D",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "For the listed 'Annual production' requirement, what metric should a company in the Appliance Manufacturing industry use for reporting and how should this metric be calculated?",
+        "correct_answer": "C",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "What is the code of the metric for the 'Amount of defect- and safety-related rework costs' in the Engineering & Construction Services industry?",
+        "correct_answer": "B",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "What is the category of the metric 'Number of incidents of non-compliance with environmental permits, standards, and regulations' in the Engineering & Construction Services industry?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "For the listed requirement IF-EN-410a.2, what metric should a company in the Engineering & Construction Services industry use for discussing the process to incorporate operational-phase energy and water efficiency considerations into project planning and design?",
+        "correct_answer": "C",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide for me the unit of measure I should use for the 'Total backlog' metric in the Engineering & Construction Services industry?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the code of the metric related to the amount of defect- and safety-related rework costs in the Engineering & Construction Services industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for the 'Lifecycle Impacts of Buildings & Infrastructure' topic in the Engineering & Construction Services industry and how should these metrics be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the metric related to the amount of backlog for hydrocarbon-related projects in the Engineering & Construction Services industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "For the listed requirement of discussing processes to assess and manage environmental risks, what metric should a company in the Engineering & Construction Services industry use and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the unit of measure for the 'Total capacity of photovoltaic (PV) solar modules produced' metric in the Solar Technology & Project Developers industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code for the 'Total energy consumed' metric in the Solar Technology & Project Developers industry?",
+        "correct_answer": "C",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "On what page can I find details about 'Water Management in Manufacturing' for the Solar Technology & Project Developers industry?",
+        "correct_answer": "D",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the 'Description of risks associated with integration of solar energy into existing energy infrastructure' metric in the Solar Technology & Project Developers industry?",
+        "correct_answer": "B",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the category of the metric 'Total energy consumed' in the Solar Technology & Project Developers industry and how should this metric be calculated?",
+        "correct_answer": "D",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric 'Total water withdrawn' in the Solar Technology & Project Developers industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Management of Energy Infrastructure Integration & Related Regulations' topic(s) in the Solar Technology & Project Developers industry?",
+        "correct_answer": "D",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "For the listed 'Water Management in Manufacturing' requirement, what metric should a company in the Solar Technology & Project Developers industry use for 'water consumed' and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric for 'Gross global Scope 1 emissions' in the Pulp & Paper Products industry?",
+        "correct_answer": "A",
+        "base_model_answer": null,
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "What is the category of the metric 'Total energy consumed' in the Pulp & Paper Products industry?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "For the listed 'Water Management' requirement, what metric should a company in the Pulp & Paper Products industry use for 'Total water withdrawn'?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "On what page can I find details about 'Energy Management' for the Pulp & Paper Products industry?",
+        "correct_answer": "D",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the 'Gross global Scope 1 emissions' metric in the Pulp & Paper Products industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for the 'Water Management' topic in the Pulp & Paper Products industry and how should these metrics be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the 'Total energy consumed' metric in the Pulp & Paper Products industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "For the listed 'Supply Chain Management' requirement, what metric should a company in the Pulp & Paper Products industry use for sourcing standards and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the unit of measure for the 'Customer gas savings from efficiency measures by market' metric in the Gas Utilities & Distributors industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code for the metric 'Percentage of distribution pipeline that is (1) cast and/or wrought iron and (2) unprotected steel' in the Gas Utilities & Distributors industry?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the category of the metric 'Number of (1) reportable pipeline incidents, (2) corrective actions received, and (3) violations of pipeline safety statutes' in the Gas Utilities & Distributors industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "On what page can I find details about the 'Integrity of Gas Delivery Infrastructure' topic for the Gas Utilities & Distributors industry?",
+        "correct_answer": "E",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code of the metric related to the percentage of distribution pipeline that is cast and/or wrought iron in the Gas Utilities & Distributors industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for the 'Integrity of Gas Delivery Infrastructure' topic in the Gas Utilities & Distributors industry and how should these metrics be calculated?",
+        "correct_answer": "D",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "What is the category of the metric 'Customer gas savings from efficiency measures by market' in the Gas Utilities & Distributors industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "For the listed requirement of discussing notable incidents, what metric should a company in the Gas Utilities & Distributors industry use and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the unit of measure for the 'Total energy consumed' metric in the Iron & Steel Producers industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code for the 'Total fresh water withdrawn' metric in the Iron & Steel Producers industry?",
+        "correct_answer": "C",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "What is the category of the 'Gross global Scope 1 emissions' metric in the Iron & Steel Producers industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "On what page can I find details about the 'Energy Management' topic for the Iron & Steel Producers industry?",
+        "correct_answer": "D",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "What is the category of the metric 'Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations' in the Iron & Steel Producers industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric 'Total energy consumed, percentage grid electricity, percentage renewable' in the Iron & Steel Producers industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Can you provide the unit of measure for the metric 'Total fresh water withdrawn, percentage recycled, percentage in regions with High or Extremely High Baseline Water Stress' in the Iron & Steel Producers industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "For the listed requirement 'Discussion of the process for managing iron ore and/or coking coal sourcing risks arising from environmental and social issues', what metric should a company in the Iron & Steel Producers industry use and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the unit of measure for the metric 'Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations' in the Oil and Gas - Midstream industry?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code for the metric 'Total metric ton-kilometers of: (1) natural gas, (2) crude oil, and (3) refined petroleum products transported, by mode of transport' in the Oil and Gas - Midstream industry?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "On what page can I find details about the 'Greenhouse Gas Emissions' topic for the Oil and Gas - Midstream industry?",
+        "correct_answer": "C",
+        "base_model_answer": null,
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric 'Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets' in the Oil and Gas - Midstream industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the 'Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations' metric in the Oil and Gas - Midstream industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the 'Total metric ton-kilometers of: (1) natural gas, (2) crude oil, and (3) refined petroleum products transported, by mode of transport' metric in the Oil and Gas - Midstream industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Greenhouse Gas Emissions' topic(s) in the Oil and Gas - Midstream industry and how should these metrics be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the 'Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets' metric in the Oil and Gas - Midstream industry and how should this metric be disclosed?",
+        "correct_answer": "B",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the unit of measure for the 'Gross global Scope 1 emissions' metric in the Cruise Lines industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code for the 'Average Energy Efficiency Design Index (EEDI) for new ships' metric in the Cruise Lines industry?",
+        "correct_answer": "D",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the 'Number of shipboard employees' metric in the Cruise Lines industry?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "For the 'Total energy consumed' requirement, what unit of measure should a company in the Cruise Lines industry use?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the 'Gross global Scope 1 emissions' metric in the Cruise Lines industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the 'Average Energy Efficiency Design Index (EEDI) for new ships' metric in the Cruise Lines industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for the 'Greenhouse Gas Emissions' topic in the Cruise Lines industry and how should these metrics be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "For the listed 'Number of vessel port calls' requirement, what metric should a company in the Cruise Lines industry use for reporting and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the unit of measure for the metric 'Total water withdrawn' in the Household & Personal Products industry?",
+        "correct_answer": "D",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code for the metric 'Amount of palm oil sourced' in the Household & Personal Products industry?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the category of the metric 'Description of water management risks and discussion of strategies and practices to mitigate those risks' in the Household & Personal Products industry?",
+        "correct_answer": "B",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "For the metric 'Total water consumed', what percentage should a company in the Household & Personal Products industry disclose for regions with High or Extremely High Baseline Water Stress?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the metric related to water management risks in the Household & Personal Products industry and how should this metric be disclosed?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric for the amount of palm oil sourced in the Household & Personal Products industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide the unit of measure for all the metrics for the Water Management topic in the Household & Personal Products industry and how should these metrics be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "For the listed water management requirement, what metric should a company in the Household & Personal Products industry use for water consumption and how should this metric be calculated?",
+        "correct_answer": "C",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "On what page can I find details about Fleet Fuel Management for the Health Care Distributors industry?",
+        "correct_answer": "C",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the unit of measure for the Payload fuel economy metric in the Health Care Distributors industry?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric for the description of efforts to reduce the environmental impact of logistics in the Health Care Distributors industry?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric for the number of pharmaceutical units sold by product category in the Health Care Distributors industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the 'Payload fuel economy' metric in the Health Care Distributors industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the 'Description of efforts to reduce the environmental impact of logistics' metric in the Health Care Distributors industry and how should this metric be disclosed?",
+        "correct_answer": "B",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Fleet Fuel Management' topics in the Health Care Distributors industry and how should these metrics be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "For the listed 'Fleet Fuel Management' requirement, what metric should a company in the Health Care Distributors industry use for 'Payload fuel economy' and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the unit of measure for the total energy consumed metric in the Internet Media & Services industry?",
+        "correct_answer": "B",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the code for the metric related to the total water withdrawn in the Internet Media & Services industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the Internet Media & Services industry, what is the category of the metric related to the discussion of the integration of environmental considerations into strategic planning for data center needs?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "On what page can I find details about the environmental footprint of hardware infrastructure for the Internet Media & Services industry?",
+        "correct_answer": "C",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code of the metric for total energy consumed in the Internet Media & Services industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric for total water withdrawn in the Internet Media & Services industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for the Environmental Footprint of Hardware Infrastructure topic in the Internet Media & Services industry?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric for the discussion of the integration of environmental considerations into strategic planning for data center needs in the Internet Media & Services industry and how should this metric be disclosed?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the 'Total energy consumed' metric in the Alcoholic Beverages industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code for the metric 'Percentage of beverage ingredients sourced from regions with High or Extremely High Baseline Water Stress' in the Alcoholic Beverages industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "On what page can I find details about 'Water Management' for the Alcoholic Beverages industry?",
+        "correct_answer": "D",
+        "base_model_answer": null,
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Can you provide for me the unit of measure I should use for the 'Total fleet road miles traveled' metric in the Alcoholic Beverages industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the 'Total energy consumed' metric in the Alcoholic Beverages industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the 'Percentage of beverage ingredients sourced from regions with High or Extremely High Baseline Water Stress' metric in the Alcoholic Beverages industry and how should this metric be calculated?",
+        "correct_answer": "C",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for the 'Water Management' topic in the Alcoholic Beverages industry and how should these metrics be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the category of the 'Suppliers' social and environmental responsibility audit' metric in the Alcoholic Beverages industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the unit of measure for the 'Total energy consumed' metric in the Leisure Facilities industry?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code for the 'Attendance' metric in the Leisure Facilities industry?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the 'Number of customer-days' metric in the Leisure Facilities industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the 'Energy Management' requirement, what percentage of energy consumed should be disclosed as renewable in the Leisure Facilities industry?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the category of the 'Total energy consumed' metric in the Leisure Facilities industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for the 'Energy Management' topic in the Leisure Facilities industry and how should these metrics be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the 'Attendance' metric in the Leisure Facilities industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the 'Number of customer-days' metric in the Leisure Facilities industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the unit of measure for the 'Fleet fuel consumed, percentage renewable' metric in the Non-Alcoholic Beverages industry?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code for the 'Total water withdrawn, total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress' metric in the Non-Alcoholic Beverages industry?",
+        "correct_answer": "C",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the 'Suppliers' social and environmental responsibility audit non-conformance rate' metric in the Non-Alcoholic Beverages industry?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "On what page can I find details about the 'Energy Management' topic for the Non-Alcoholic Beverages industry?",
+        "correct_answer": "D",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the 'Fleet fuel consumed, percentage renewable' metric in the Non-Alcoholic Beverages industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "What is the code of the 'Operational energy consumed, percentage grid electricity, percentage renewable' metric in the Non-Alcoholic Beverages industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Water Management' topics in the Non-Alcoholic Beverages industry and how should these metrics be calculated?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "For the listed 'Ingredient Sourcing' requirement, what metric should a company in the Non-Alcoholic Beverages industry use for sourcing risks and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code for the metric 'Total fresh water withdrawn, percentage recycled, percentage in regions with High or Extremely High Baseline Water Stress' in the Construction Materials industry?",
+        "correct_answer": "D",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric 'Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations' in the Construction Materials industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Can you provide for me the unit of measure I should use for the 'Air emissions of the following pollutants' metric in the Construction Materials industry?",
+        "correct_answer": "D",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "On what page can I find details about 'Energy Management' for the Construction Materials industry?",
+        "correct_answer": "D",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric 'Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations' in the Construction Materials industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric 'Air emissions of the following pollutants: (1) NOx (excluding N\u2082O), (2) SOx, (3) particulate matter (PM10), (4) dioxins/furans, (5) volatile organic compounds (VOCs), (6) polycyclic aromatic hydrocarbons (PAHs), and (7) heavy metals' in the Construction Materials industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for the 'Energy Management' topic in the Construction Materials industry and how should these metrics be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "For the listed 'Waste Management' requirement, what metric should a company in the Construction Materials industry use for 'Amount of waste generated, percentage hazardous, percentage recycled' and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric related to the total greenhouse gas (GHG) footprint of product shipments in the E-Commerce industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the unit of measure for the total energy consumed metric in the E-Commerce industry?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "For the metric CG-EC-130a.2, what does a company in the E-Commerce industry need to disclose about water consumption?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "On what page can I find details about the discussion of strategies to reduce the environmental impact of product delivery for the E-Commerce industry?",
+        "correct_answer": "E",
+        "base_model_answer": null,
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": null
+    },
+    {
+        "question": "What is the category of the 'Total energy consumed' metric in the E-Commerce industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the code of the 'Total greenhouse gas (GHG) footprint of product shipments' metric in the E-Commerce industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Hardware Infrastructure Energy & Water Management' topics in the E-Commerce industry?",
+        "correct_answer": "A",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "For the listed 'Data processing capacity, percentage outsourced' requirement, what metric should a company in the E-Commerce industry use for reporting and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric 'Net premiums written related to energy efficiency and low carbon technology' in the Insurance industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code of the metric 'Description of approach to incorporation of ESG factors in investment management processes and strategies' in the Insurance industry?",
+        "correct_answer": "B",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "On what page can I find details about the 'Incorporation of Environmental, Social, and Governance Factors in Investment Management' topic for the Insurance industry?",
+        "correct_answer": "C",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the listed requirement 'Description of approach to incorporation of environmental risks into the underwriting process', what does a company in the Insurance industry need to do?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the code of the metric related to the description of approach to incorporation of environmental risks into the underwriting process for individual contracts in the Insurance industry, and how should this metric be disclosed?",
+        "correct_answer": "C",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Can you provide the unit of measure for the metric related to the probable maximum loss (PML) of insured products from weather-related natural catastrophes in the Insurance industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric related to the net premiums written for policies related to energy efficiency and low carbon technology in the Insurance industry, and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "For the listed requirement of discussing products that incentivize health, safety, and/or environmentally responsible actions in the Insurance industry, what metric should a company use and how should this metric be disclosed?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric for \"Gross global Scope 1 emissions\" in the Air Freight & Logistics industry?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "What is the unit of measure for the \"Total greenhouse gas (GHG) footprint across transport modes\" metric in the Air Freight & Logistics industry?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the \"Fuel consumed by (1) road transport, percentage (a) natural gas and (b) renewable, and (2) air transport, percentage (a) alternative and (b) sustainable\" metric in the Air Freight & Logistics industry?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "On what page can I find details about the \"Load factor for: (1) road transport and (2) air transport\" metric in the Air Freight & Logistics industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the 'Gross global Scope 1 emissions' metric in the Air Freight & Logistics industry and how should this metric be calculated?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the code of the 'Total greenhouse gas (GHG) footprint across transport modes' metric in the Air Freight & Logistics industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Supply Chain Management' topic(s) in the Air Freight & Logistics industry?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "For the listed 'Fuel consumed by (1) road transport, percentage (a) natural gas and (b) renewable, and (2) air transport, percentage (a) alternative and (b) sustainable' requirement, what metric should a company in the Air Freight & Logistics industry use for disclosure and how should this metric be calculated?",
+        "correct_answer": "C",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "What is the code of the metric for 'Volume of recycled water delivered to customers' in the Water Utilities & Services industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the 'Wastewater treatment capacity located in 100-year flood zones' metric in the Water Utilities & Services industry?",
+        "correct_answer": "A",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "For the listed 'Energy Management' requirement, what metric should a company in the Water Utilities & Services industry use for total energy consumed?",
+        "correct_answer": "C",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide for me the unit of measure I should use for the 'Water main replacement rate' metric in the Water Utilities & Services industry?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the 'Total energy consumed' metric in the Water Utilities & Services industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the 'Volume of non-revenue real water losses' metric in the Water Utilities & Services industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Network Resiliency & Impacts of Climate Change' topics in the Water Utilities & Services industry and how should these metrics be calculated?",
+        "correct_answer": "D",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "For the listed 'Water Supply Resilience' requirement, what metric should a company in the Water Utilities & Services industry use for 'Total water sourced from regions with High or Extremely High Baseline Water Stress' and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric for gross global Scope 1 emissions in the Road Transportation industry?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric for total fuel consumed in the Road Transportation industry?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide for me the unit of measure I should use for the load factor metric in the Road Transportation industry?",
+        "correct_answer": "B",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "For the listed requirement of discussing long-term and short-term strategy to manage Scope 1 emissions, what metric should a company in the Road Transportation industry use for emissions reduction targets?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the metric 'Gross global Scope 1 emissions' in the Road Transportation industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric 'Total fuel consumed' in the Road Transportation industry and how should this metric be disclosed?",
+        "correct_answer": "C",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Can you provide the unit of measure for the metric 'Load factor' in the Road Transportation industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "For the listed 'Greenhouse Gas Emissions' requirement, what metric should a company in the Road Transportation industry use for 'emissions reduction targets' and how should this metric be disclosed?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the unit of measure for the 'Total energy consumed' metric in the Aerospace & Defense industry?",
+        "correct_answer": "B",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the code for the 'Revenue from alternative energy-related products' metric in the Aerospace & Defense industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the 'Number of employees' metric in the Aerospace & Defense industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the 'Energy Management' requirement, what percentage calculation should a company in the Aerospace & Defense industry use for grid electricity?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the metric 'Total energy consumed' in the Aerospace & Defense industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric 'Revenue from alternative energy-related products' in the Aerospace & Defense industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for the 'Fuel Economy & Emissions in Use-phase' topic in the Aerospace & Defense industry and how should these metrics be calculated?",
+        "correct_answer": "C",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the metric 'Description of approach and discussion of strategy to address fuel economy and greenhouse gas (GHG) emissions of products' in the Aerospace & Defense industry and how should this metric be disclosed?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code of the metric related to the discussion of process to assess and manage environmental and human health considerations in the Medical Equipment & Supplies industry?",
+        "correct_answer": "A",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the unit of measure for the metric related to the total amount of products accepted for take-back in the Medical Equipment & Supplies industry?",
+        "correct_answer": "B",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "On what page can I find details about the industry description for the Medical Equipment & Supplies industry?",
+        "correct_answer": "B",
+        "base_model_answer": null,
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric related to the number of units sold by product category in the Medical Equipment & Supplies industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the unit of measure for the metric related to the total amount of products accepted for take-back in the Medical Equipment & Supplies industry, and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric related to the discussion of process to assess and manage environmental and human health considerations in the Medical Equipment & Supplies industry, and how should this metric be disclosed?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "For the listed requirement of product take-back, what metric should a company in the Medical Equipment & Supplies industry use for reporting, and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Product Design & Lifecycle Management' topics in the Medical Equipment & Supplies industry and how should these metrics be calculated?",
+        "correct_answer": "D",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "What is the code for the metric 'Percentage of eligible portfolio that (1) has an energy rating and (2) is certified to ENERGY STAR, by property subsector' in the Real Estate industry?",
+        "correct_answer": "D",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric 'Area of properties located in 100-year flood zones, by property subsector' in the Real Estate industry?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide for me the unit of measure I should use for the 'Total water withdrawn by portfolio area with data coverage' metric in the Real Estate industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code for the metric 'Percentage of tenants that are separately metered or submetered for (1) grid electricity consumption and (2) water withdrawals, by property subsector' in the Real Estate industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the metric 'Percentage of eligible portfolio that (1) has an energy rating and (2) is certified to ENERGY STAR, by property subsector' in the Real Estate industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric 'Total energy consumed by portfolio area with data coverage, percentage grid electricity, and percentage renewable, by property subsector' in the Real Estate industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the listed requirement 'Water withdrawal data coverage as a percentage of total floor area and floor area in regions with High or Extremely High Baseline Water Stress, by property subsector', what metric should a company in the Real Estate industry use and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the metric 'Area of properties located in 100-year flood zones, by property subsector' in the Real Estate industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the unit of measure for the 'Area of forestland certified to a third-party forest management standard' metric in the Forestry Management industry?",
+        "correct_answer": "C",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code for the 'Aggregate standing timber inventory' metric in the Forestry Management industry?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the category of the 'Description of strategy to manage opportunities for and risks to forest management and timber production presented by climate change' metric in the Forestry Management industry?",
+        "correct_answer": "B",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "For the 'Area of forestland with protected conservation status' metric, what does a company in the Forestry Management industry need to disclose?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the code of the metric for 'Area of forestland certified to a third-party forest management standard' in the Forestry Management industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the metric 'Aggregate standing timber inventory' in the Forestry Management industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "For the listed requirement 'Description of approach to optimizing opportunities from ecosystem services provided by forestlands', what metric should a company in the Forestry Management industry use and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the metric 'Description of strategy to manage opportunities for and risks to forest management and timber production presented by climate change' in the Forestry Management industry and how should this metric be disclosed?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code of the metric for the number and total value of investments and loans incorporating ESG factors in the Investment Banking & Brokerage industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric for the description of the approach to incorporation of ESG factors in investment banking and brokerage activities?",
+        "correct_answer": "B",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "For the metric FN-IB-1, what unit of measure should be used for Scope 1, Scope 2, and Scope 3 emissions in the Investment Banking & Brokerage industry?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "On what page can I find details about the incorporation of ESG factors in the Investment Banking & Brokerage industry?",
+        "correct_answer": "E",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the metric 'Revenue from (1) underwriting, (2) advisory, and (3) securitization transactions incorporating integration of ESG factors, by industry' in the Investment Banking & Brokerage industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric 'absolute gross (a) Scope 1 emissions, (b) Scope 2 emissions and (c) Scope 3 emissions, and (2) associated revenue' in the Investment Banking & Brokerage industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Transition Risk Exposure' topic in the Investment Banking & Brokerage industry and how should these metrics be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the metric 'Description of the methodology used to calculate facilitated emissions' in the Investment Banking & Brokerage industry and how should this metric be disclosed?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric 'Percentage of products by revenue that contain IEC 62474 declarable substances' in the Electrical & Electronic Equipment industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code of the metric 'Revenue from renewable energy-related and energy efficiency-related products' in the Electrical & Electronic Equipment industry?",
+        "correct_answer": "C",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "On what page can I find details about 'Energy Management' for the Electrical & Electronic Equipment industry?",
+        "correct_answer": "D",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the listed requirement 'RT-EE-410a.1', what does a company in the Electrical & Electronic Equipment industry need to do?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the category of the metric 'Percentage of products by revenue that contain IEC 62474 declarable substances' in the Electrical & Electronic Equipment industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric 'Total energy consumed' in the Electrical & Electronic Equipment industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Product Lifecycle Management' topic(s) in the Electrical & Electronic Equipment industry and how should these metrics be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "For the listed 'Energy Management' requirement, what metric should a company in the Electrical & Electronic Equipment industry use for 'percentage renewable' and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the unit of measure for the 'Gross global Scope 1 emissions' metric in the Rail Transportation industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code for the 'Total fuel consumed, percentage renewable' metric in the Rail Transportation industry?",
+        "correct_answer": "C",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the 'Number of employees' metric in the Rail Transportation industry?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "On what page can I find details about the 'Greenhouse Gas Emissions' topic for the Rail Transportation industry?",
+        "correct_answer": "E",
+        "base_model_answer": null,
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the 'Gross global Scope 1 emissions' metric in the Rail Transportation industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the 'Total fuel consumed, percentage renewable' metric in the Rail Transportation industry and how should this metric be disclosed?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Greenhouse Gas Emissions' topic(s) in the Rail Transportation industry and how should these metrics be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of 'Number of carloads transported' metric in the Rail Transportation industry and how should this metric be disclosed?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code of the metric for 'Total fresh water withdrawn, total fresh water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress' in the Metals & Mining industry?",
+        "correct_answer": "C",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric 'Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations' in the Metals & Mining industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Can you provide for me the unit of measure I should use for the 'Total energy consumed' metric in the Metals & Mining industry?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the code of the metric for 'Number of incidents of non-compliance associated with water quality permits, standards, and regulations' in the Metals & Mining industry?",
+        "correct_answer": "D",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric 'Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations' in the Metals & Mining industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Water Management' topics in the Metals & Mining industry and how should these metrics be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric 'Total energy consumed, percentage grid electricity, percentage renewable' in the Metals & Mining industry and how should this metric be disclosed?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the listed 'Greenhouse Gas Emissions' requirement, what metric should a company in the Metals & Mining industry use for emissions reduction targets and how should this metric be disclosed?",
+        "correct_answer": "C",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric related to the total weight of wood fiber materials purchased in the Building Products & Furnishings industry?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the category of the metric related to the weight of end-of-life material recovered in the Building Products & Furnishings industry?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the unit of measure for the metric related to the area of manufacturing facilities in the Building Products & Furnishings industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the listed energy management requirement, what metric should a company in the Building Products & Furnishings industry use for total energy consumed?",
+        "correct_answer": "C",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the 'Total energy consumed' metric in the Building Products & Furnishings industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the 'Weight of end-of-life material recovered' metric in the Building Products & Furnishings industry and how should this metric be disclosed?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the 'Wood Supply Chain Management' topic, what metric should a company in the Building Products & Furnishings industry use for 'percentage from third-party certified forestlands' and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Energy Management in Manufacturing' topic(s) in the Building Products & Furnishings industry and how should these metrics be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code for the metric 'Gross global Scope 1 emissions' in the Meat, Poultry & Dairy industry?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the unit of measure for the metric 'Total energy consumed' in the Meat, Poultry & Dairy industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric 'Number of incidents of non-compliance with water quality permits, standards, and regulations' in the Meat, Poultry & Dairy industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "On what page can I find details about the 'Greenhouse Gas Emissions' topic summary for the Meat, Poultry & Dairy industry?",
+        "correct_answer": "C",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": null
+    },
+    {
+        "question": "What is the code of the metric for 'Gross global Scope 1 emissions' in the Meat, Poultry & Dairy industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Water Management' topics in the Meat, Poultry & Dairy industry and how should these metrics be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the metric 'Percentage of animal feed sourced from regions with High or Extremely High Baseline Water Stress' in the Meat, Poultry & Dairy industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the listed 'Energy Management' requirement, what metric should a company in the Meat, Poultry & Dairy industry use for 'Total energy consumed' and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the unit of measure for the 'Total water withdrawn' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry?",
+        "correct_answer": "D",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "What is the code for the 'Weight of end-of-life products and e-waste recovered, percentage recycled' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "On what page can I find details about the 'Water Management' topic for the Electronic Manufacturing Services & Original Design Manufacturing industry?",
+        "correct_answer": "D",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the 'Number of manufacturing facilities' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the 'Total water withdrawn' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the 'Weight of end-of-life products and e-waste recovered' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for the 'Water Management' topic in the Electronic Manufacturing Services & Original Design Manufacturing industry and how should these metrics be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "For the listed 'Product Lifecycle Management' requirement, what metric should a company in the Electronic Manufacturing Services & Original Design Manufacturing industry use for e-waste and how should this metric be calculated?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the unit of measure for the 'Fleet fuel consumed, percentage renewable' metric in the Food Retailers & Distributors industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code for the 'Gross global Scope 1 emissions from refrigerants' metric in the Food Retailers & Distributors industry?",
+        "correct_answer": "B",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "What is the category of the 'Revenue from products third-party certified to environmental or social sustainability sourcing standard' metric in the Food Retailers & Distributors industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the 'Percentage of refrigerants consumed with zero ozone-depleting potential' metric, what unit of measure should a company in the Food Retailers & Distributors industry use?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the code of the metric for 'Fleet fuel consumed, percentage renewable' in the Food Retailers & Distributors industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the metric 'Gross global Scope 1 emissions from refrigerants' in the Food Retailers & Distributors industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Air Emissions from Refrigeration' topics in the Food Retailers & Distributors industry and how should these metrics be calculated?",
+        "correct_answer": "D",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "For the listed 'Management of Environmental & Social Impacts in the Supply Chain' requirement, what metric should a company in the Food Retailers & Distributors industry use for 'Revenue from products third-party certified to environmental or social sustainability sourcing standard' and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the unit of measure for the 'Total energy consumed' metric in the Multiline and Specialty Retailers & Distributors industry?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code for the metric 'Total area of retail space and distribution centers' in the Multiline and Specialty Retailers & Distributors industry?",
+        "correct_answer": "C",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "For the 'Energy Management in Retail & Distribution' topic, what percentage of energy consumed should be disclosed as renewable energy?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the category of the metric 'Number of retail locations and distribution centers' in the Multiline and Specialty Retailers & Distributors industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric 'Total energy consumed' in the Multiline and Specialty Retailers & Distributors industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric 'percentage renewable' in the Multiline and Specialty Retailers & Distributors industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Energy Management in Retail & Distribution' topic(s) in the Multiline and Specialty Retailers & Distributors industry?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the listed 'Energy Management in Retail & Distribution' requirement, what metric should a company in the Multiline and Specialty Retailers & Distributors industry use for 'percentage grid electricity' and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric related to the weight of end-of-life products and e-waste recovered in the Hardware industry?",
+        "correct_answer": "D",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "What is the category of the metric related to the percentage of eligible products meeting ENERGY STAR\u00ae criteria in the Hardware industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the listed requirement of EPEAT registration, what metric should a company in the Hardware industry use for reporting the percentage of eligible products?",
+        "correct_answer": "A",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "On what page can I find details about the percentage of products by revenue that contain IEC 62474 declarable substances for the Hardware industry?",
+        "correct_answer": "554",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric 'Percentage of products by revenue that contain IEC 62474 declarable substances' in the Hardware industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code of the metric 'Percentage of eligible products, by revenue, meeting the requirements for EPEAT registration or equivalent' in the Hardware industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Product Lifecycle Management' topic(s) in the Hardware industry and how should these metrics be calculated?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "For the listed 'Weight of end-of-life products and e-waste recovered, percentage recycled' requirement, what metric should a company in the Hardware industry use for calculation and how should this metric be calculated?",
+        "correct_answer": "D",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code for the metric related to the total wood fiber procured in the Containers & Packaging industry?",
+        "correct_answer": "D",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "What is the unit of measure for the metric 'Total aluminum purchased, percentage from certified sources' in the Containers & Packaging industry?",
+        "correct_answer": "A",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "What is the category of the metric 'Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations' in the Containers & Packaging industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "On what page can I find details about the 'Energy Management' topic summary for the Containers & Packaging industry?",
+        "correct_answer": "D",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric 'Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations' in the Containers & Packaging industry and how should this metric be calculated?",
+        "correct_answer": "C",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Water Management' topics in the Containers & Packaging industry and how should these metrics be calculated?",
+        "correct_answer": "C",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric 'Total wood fiber procured, percentage from certified sources' in the Containers & Packaging industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "For the listed 'Energy Management' requirement, what metric should a company in the Containers & Packaging industry use for energy consumption and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the unit of measure for the 'Gross global Scope 1 emissions' metric in the Marine Transportation industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code for the 'Average Energy Efficiency Design Index (EEDI) for new ships' metric in the Marine Transportation industry?",
+        "correct_answer": "D",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "On what page can I find details about the 'Deadweight tonnage' activity metric for the Marine Transportation industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the 'Total distance traveled by vessels' metric in the Marine Transportation industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the 'Gross global Scope 1 emissions' metric in the Marine Transportation industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Greenhouse Gas Emissions' topics in the Marine Transportation industry and how should these metrics be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the 'Average Energy Efficiency Design Index (EEDI) for new ships' metric in the Marine Transportation industry and how should this metric be disclosed?",
+        "correct_answer": "D",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "For the listed 'Total energy consumed' requirement, what metric should a company in the Marine Transportation industry use for energy consumption and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric for \"Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations\" in the Oil & Gas - Exploration & Production industry?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric \"Sensitivity of hydrocarbon reserve levels to future price projection scenarios that account for a price on carbon emissions\" in the Oil & Gas - Exploration & Production industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the metric \"Percentage of hydraulic fracturing sites where ground or surface water quality deteriorated compared to a baseline,\" what does a company in the Oil & Gas - Exploration & Production industry need to do?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide for me the unit of measure I should use for the \"Amount invested in renewable energy, revenue generated by renewable energy sales\" metric in the Oil & Gas - Exploration & Production industry?",
+        "correct_answer": "D",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "What is the category of the metric 'Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations' in the Oil & Gas - Exploration & Production industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric 'Volume of produced water and flowback generated; percentage (1) discharged, (2) injected, (3) recycled; hydrocarbon content in discharged water' in the Oil & Gas - Exploration & Production industry and how should this metric be disclosed?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Reserves Valuation & Capital Expenditures' topic(s) in the Oil & Gas - Exploration & Production industry and how should these metrics be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "For the listed 'Water Management' requirement, what metric should a company in the Oil & Gas - Exploration & Production industry use for 'percentage of hydraulic fracturing sites where ground or surface water quality deteriorated compared to a baseline' and how should this metric be calculated?",
+        "correct_answer": "D",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "What is the unit of measure for the 'Revenue from energy and sustainability services' metric in the Real Estate Services industry?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the code for the metric 'Number of buildings under management with owner operational control' in the Real Estate Services industry?",
+        "correct_answer": "D",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the 'Number of appraisals provided' metric in the Real Estate Services industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the 'Floor area under management that obtained an energy rating' requirement, what does a company in the Real Estate Services industry need to disclose?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code of the metric for the number of buildings under management with owner operational control in the Real Estate Services industry and how should this metric be disclosed?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the category of the metric for revenue from energy and sustainability services in the Real Estate Services industry and how should this metric be disclosed?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for the metric 'Floor area under management with owner operational control' in the Real Estate Services industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the listed requirement of obtaining an energy rating, what metric should a company in the Real Estate Services industry use for the number of buildings and how should this metric be calculated?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the unit of measure for the 'Lifecycle greenhouse gas (GHG) emissions, by biofuel type' metric in the Biofuels industry?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code for the 'Amount of subsidies received through government programs' metric in the Biofuels industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the 'Number of incidents of non-compliance associated with water quality permits, standards, and regulations' metric in the Biofuels industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the 'Percentage of biofuel production third-party certified to an environmental sustainability standard' metric, what unit of measure should a company in the Biofuels industry use?",
+        "correct_answer": "C",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the unit of measure for the metric 'Lifecycle greenhouse gas (GHG) emissions, by biofuel type' in the Biofuels industry, and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric 'Number of incidents of non-compliance associated with water quality permits, standards, and regulations' in the Biofuels industry and how should this metric be disclosed?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the category of the metric 'Percentage of biofuel production third-party certified to an environmental sustainability standard' in the Biofuels industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "For the listed requirement 'Amount of subsidies received through government programs', what metric should a company in the Biofuels industry use for reporting and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code of the metric related to the number and value of mortgage loans in 100-year flood zones in the Mortgage Finance industry?",
+        "correct_answer": "A",
+        "base_model_answer": null,
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Can you provide for me the unit of measure I should use for the total expected loss and Loss Given Default (LGD) metric in the Mortgage Finance industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric related to the description of how climate change and other environmental risks are incorporated into mortgage origination and underwriting in the Mortgage Finance industry?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "For the listed requirement of disclosing the number and value of mortgages originated by category, what metric should a company in the Mortgage Finance industry use?",
+        "correct_answer": "D",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric 'Total expected loss and Loss Given Default (LGD) attributable to mortgage loan default and delinquency due to weather-related natural catastrophes, by geographic region' in the Mortgage Finance industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for the 'Environmental Risk to Mortgaged Properties' topic in the Mortgage Finance industry?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric 'Number and value of mortgage loans in 100-year flood zones' in the Mortgage Finance industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the listed 'Environmental Risk to Mortgaged Properties' requirement, what metric should a company in the Mortgage Finance industry use for 'Description of how climate change and other environmental risks are incorporated into mortgage origination and underwriting' and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the unit of measure for the metric 'Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations' in the Chemicals industry?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code for the metric 'Total energy consumed, percentage grid electricity, percentage renewable, total self-generated energy' in the Chemicals industry?",
+        "correct_answer": "B",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "What is the category of the metric 'Number of incidents of non-compliance associated with water quality permits, standards, and regulations' in the Chemicals industry?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "On what page can I find details about the 'Greenhouse Gas Emissions' topic for the Chemicals industry?",
+        "correct_answer": "D",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code of the metric related to gross global Scope 1 emissions in the Chemicals industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "What is the category of the metric related to total energy consumed in the Chemicals industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide the unit of measure for all the metrics for the Water Management topic in the Chemicals industry and how should these metrics be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric related to revenue from products designed for use-phase resource efficiency in the Chemicals industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric discussing the strategy to address the effects of climate change on business operations in the Managed Care industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Can you provide for me the unit of measure I should use for the metric 'Number of enrollees by plan type' in the Managed Care industry?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the category of the metric 'Discussion of the strategy to address the effects of climate change on business operations' in the Managed Care industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "On what page can I find details about the industry description for the Managed Care industry?",
+        "correct_answer": "C",
+        "base_model_answer": null,
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code of the metric related to the strategy to address the effects of climate change on business operations in the Managed Care industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the metric related to the number of enrollees by plan type in the Managed Care industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Can you provide the unit of measure for the metric related to the number of enrollees by plan type in the Managed Care industry and how should this metric be disclosed?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the category of the metric related to the strategy to address the effects of climate change on business operations in the Managed Care industry and how should this metric be disclosed?",
+        "correct_answer": "B",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "What is the code of the metric for 'Percentage of gross exposure included in the financed emissions calculation' in the Commercial Banks industry?",
+        "correct_answer": "C",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the metric for 'Description of the methodology used to calculate financed emissions' in the Commercial Banks industry?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "For the metric 'Gross exposure to carbon-related industries, by industry', what unit of measure should a company in the Commercial Banks industry use?",
+        "correct_answer": "E",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "On what page can I find details about the 'Transition Risk Exposure' topic for the Commercial Banks industry?",
+        "correct_answer": "D",
+        "base_model_answer": null,
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "What is the category of the metric 'Percentage of gross exposure included in the financed emissions calculation' in the Commercial Banks industry and how should this metric be disclosed?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code of the metric 'Description of approach to incorporation of environmental, social, and governance (ESG) factors in credit analysis' in the Commercial Banks industry and how should this metric be disclosed?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for the 'Transition Risk Exposure' topic in the Commercial Banks industry and how should these metrics be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "For the listed 'Transition Risk Exposure' requirement, what metric should a company in the Commercial Banks industry use for 'gross emissions intensity' and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the unit of measure for the metric 'Gross global Scope 1 emissions' in the Airlines industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code for the metric 'Passenger load factor' in the Airlines industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric 'Total fuel consumed' in the Airlines industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "On what page can I find details about the 'Greenhouse Gas Emissions' topic for the Airlines industry?",
+        "correct_answer": "D",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code of the metric for 'Gross global Scope 1 emissions' in the Airlines industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Greenhouse Gas Emissions' topic(s) in the Airlines industry and how should these metrics be calculated?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the category of 'Total fuel consumed' metric in the Airlines industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "For the listed 'Greenhouse Gas Emissions' requirement, what metric should a company in the Airlines industry use for 'emissions reduction targets' and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the unit of measure for the 'Fleet fuel consumed' metric in the Waste Management industry?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the code for the 'Total landfill gas generated' metric in the Waste Management industry?",
+        "correct_answer": "B",
+        "base_model_answer": null,
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the 'Gross global Scope 1 emissions' metric in the Waste Management industry?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "On what page can I find details about the 'Greenhouse Gas Emissions' topic for the Waste Management industry?",
+        "correct_answer": "E",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric 'Total landfill gas generated' in the Waste Management industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric 'Fleet fuel consumed' in the Waste Management industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for the 'Greenhouse Gas Emissions' topic in the Waste Management industry and how should these metrics be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the metric 'Percentage of alternative fuel vehicles in fleet' in the Waste Management industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric related to the number of lodging facilities located in 100-year flood zones in the Hotels & Lodging industry?",
+        "correct_answer": "C",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Can you provide for me the unit of measure I should use for the total energy consumed metric in the Hotels & Lodging industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric related to the average occupancy rate in the Hotels & Lodging industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the listed requirement on water management, what does a company in the Hotels & Lodging industry need to disclose regarding water withdrawn in high-stress regions?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the category of the metric 'Total energy consumed' in the Hotels & Lodging industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric 'Total water withdrawn' in the Hotels & Lodging industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Climate Change Adaptation' topic(s) in the Hotels & Lodging industry and how should these metrics be disclosed?",
+        "correct_answer": "C",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the listed 'Water Management' requirement, what metric should a company in the Hotels & Lodging industry use for water consumption and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code of the metric related to the description of environmental and social risks associated with sourcing priority raw materials in the Apparel, Accessories & Footwear industry?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric related to the percentage of raw materials third-party certified to an environmental and/or social sustainability standard in the Apparel, Accessories & Footwear industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "On what page can I find details about the environmental supply chain risks in the Apparel, Accessories & Footwear industry?",
+        "correct_answer": "D",
+        "base_model_answer": null,
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the listed requirement CG-AA-440a.2, what metric should a company in the Apparel, Accessories & Footwear industry use for the percentage of raw materials third-party certified to an environmental and/or social sustainability standard?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric 'Percentage of raw materials third-party certified to an environmental and/or social sustainability standard, by standard' in the Apparel, Accessories & Footwear industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code of the metric 'Description of environmental and social risks associated with sourcing priority raw materials' in the Apparel, Accessories & Footwear industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Raw Materials Sourcing' topic(s) in the Apparel, Accessories & Footwear industry and how should these metrics be calculated?",
+        "correct_answer": "C",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "What is the category of the metric 'Number of (1) Tier 1 suppliers and (2) suppliers beyond Tier 1' in the Apparel, Accessories & Footwear industry and how should this metric be disclosed?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code of the metric for the percentage of food ingredients sourced from regions with High or Extremely High Baseline Water Stress in the Processed Foods industry?",
+        "correct_answer": "D",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "Can you provide for me the unit of measure I should use for the total energy consumed metric in the Processed Foods industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric for the number of production facilities in the Processed Foods industry (as listed in the relevant table)?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "For the listed requirement of disclosing the percentage of energy consumed that is renewable, what metric should a company in the Processed Foods industry use?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the metric 'Total energy consumed' in the Processed Foods industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric 'Percentage of food ingredients sourced from regions with High or Extremely High Baseline Water Stress' in the Processed Foods industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Water Management' topics in the Processed Foods industry and how should these metrics be calculated?",
+        "correct_answer": "D",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "For the listed 'Environmental & Social Impacts of Ingredient Supply Chain' requirement, what metric should a company in the Processed Foods industry use for 'Suppliers' social and environmental responsibility audit' and how should this metric be calculated?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the unit of measure for the 'Total energy consumed' metric in the Semiconductors industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the 'Gross global Scope 1 emissions' metric in the Semiconductors industry?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the code for the 'Percentage of products by revenue that contain IEC 62474 declarable substances' metric in the Semiconductors industry?",
+        "correct_answer": "D",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "On what page can I find details about the 'Water Management' topic for the Semiconductors industry?",
+        "correct_answer": "E",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "What is the category of the metric 'Total energy consumed' in the Semiconductors industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the code of the metric 'Gross global Scope 1 emissions' in the Semiconductors industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Water Management' topic(s) in the Semiconductors industry and how should these metrics be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric 'Percentage of products by revenue that contain IEC 62474 declarable substances' in the Semiconductors industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "What is the code of the metric for 'Gross global Scope 1 emissions' in the Agricultural Products industry?",
+        "correct_answer": "A",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "What is the category of the metric 'Fleet fuel consumed, percentage renewable' in the Agricultural Products industry?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "For the listed requirement FB-AG-140a.1, what metric should a company in the Agricultural Products industry use for 'Total water withdrawn'?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "On what page can I find details about 'Energy Management' for the Agricultural Products industry?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the unit of measure for the 'Gross global Scope 1 emissions' metric in the Agricultural Products industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the 'Fleet fuel consumed, percentage renewable' metric in the Agricultural Products industry and how should this metric be disclosed?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the code of the 'Total water withdrawn, total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress' metric in the Agricultural Products industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "For the 'Identification of principal crops and description of risks and opportunities presented by climate change' requirement, what metric should a company in the Agricultural Products industry use for principal crops and how should this metric be calculated?",
+        "correct_answer": "E",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code of the metric related to the total amount of medical waste in the Health Care Delivery industry?",
+        "correct_answer": "B",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "What is the unit of measure for the total energy consumed metric in the Health Care Delivery industry?",
+        "correct_answer": "C",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric related to the number of facilities and beds in the Health Care Delivery industry?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "For the listed requirement on climate change impacts, what should a company in the Health Care Delivery industry describe regarding extreme weather events?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the 'Total energy consumed' metric in the Health Care Delivery industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the 'Total amount of medical waste' metric in the Health Care Delivery industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Waste Management' topics in the Health Care Delivery industry and how should these metrics be calculated?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "For the listed 'Climate Change Impacts on Human Health & Infrastructure' requirement, what metric should a company in the Health Care Delivery industry use for describing policies and practices, and how should this metric be calculated?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the unit of measure for the metric 'Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations' in the Oil & Gas - Refining & Marketing industry?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code for the metric 'Total fresh water withdrawn, percentage recycled, percentage in regions with High or Extremely High Baseline Water Stress' in the Oil & Gas - Refining & Marketing industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric 'Refining throughput of crude oil and other feedstocks' in the Oil & Gas - Refining & Marketing industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the listed requirement 'Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions', what metric should a company in the Oil & Gas - Refining & Marketing industry use for emissions reduction targets?",
+        "correct_answer": "D",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the unit of measure for the 'Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations' metric in the Oil & Gas - Refining & Marketing industry, and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the 'Total fresh water withdrawn, percentage recycled, percentage in regions with High or Extremely High Baseline Water Stress' metric in the Oil & Gas - Refining & Marketing industry, and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the 'Total addressable market and share of market for advanced biofuels and associated infrastructure' metric in the Oil & Gas - Refining & Marketing industry, and how should this metric be calculated?",
+        "correct_answer": "C",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What topics are covered in the 'Greenhouse Gas Emissions' section of the Oil & Gas - Refining & Marketing document, and what are the key takeaways for a company writing its sustainability report?",
+        "correct_answer": "D",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "What is the unit of measure for the 'Fleet utilization rate' metric in the Car Rental & Leasing industry?",
+        "correct_answer": "B",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the code for the 'Average vehicle age' metric in the Car Rental & Leasing industry?",
+        "correct_answer": "C",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the 'Rental day-weighted average rental fleet fuel economy' metric, what does a company in the Car Rental & Leasing industry need to disclose?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the category of the 'Total available rental days' metric in the Car Rental & Leasing industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code of the 'Fleet utilization rate' metric in the Car Rental & Leasing industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the 'Rental day-weighted average rental fleet fuel economy, by region' metric in the Car Rental & Leasing industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Fleet Fuel Economy & Utilization' topic(s) in the Car Rental & Leasing industry and how should these metrics be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "For the listed 'Average vehicle age' requirement, what metric should a company in the Car Rental & Leasing industry use for measurement and how should this metric be calculated?",
+        "correct_answer": "C",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "What is the unit of measure for the 'Average storage capacity of batteries, by product application and technology type' metric in the Fuel Cells & Industrial Batteries industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code for the 'Average battery efficiency as coulombic efficiency, by product application and technology type' metric in the Fuel Cells & Industrial Batteries industry?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the category of the 'Total energy consumed, percentage grid electricity, percentage renewable' metric in the Fuel Cells & Industrial Batteries industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the 'Average operating lifetime of fuel cells, by product application and technology type' metric, what unit of measure should a company in the Fuel Cells & Industrial Batteries industry use?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the metric 'Average storage capacity of batteries, by product application and technology type' in the Fuel Cells & Industrial Batteries industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric 'Average energy efficiency of fuel cells as (1) electrical efficiency and (2) thermal efficiency, by product application and technology type' in the Fuel Cells & Industrial Batteries industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Product Efficiency' topic(s) in the Fuel Cells & Industrial Batteries industry and how should these metrics be calculated?",
+        "correct_answer": "D",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "For the listed 'Energy Management' requirement, what metric should a company in the Fuel Cells & Industrial Batteries industry use for 'percentage renewable' and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric for the number of homes delivered certified to a third-party multi-attribute green building standard in the Home Builders industry?",
+        "correct_answer": "C",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "What is the category of the metric for the number of lots located in 100-year flood zones in the Home Builders industry?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "For the listed requirement IF-HB-160a.3, what does a company in the Home Builders industry need to disclose?",
+        "correct_answer": "C",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Can you provide for me the unit of measure I should use for the metric 'Percentage of installed water fixtures certified to WaterSense\u00ae specifications' in the Home Builders industry?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the category of the metric 'Number of homes delivered certified to a third-party multi-attribute green building standard' in the Home Builders industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric 'Number of lots located in 100-year flood zones' in the Home Builders industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Design for Resource Efficiency' topic(s) in the Home Builders industry and how should these metrics be calculated?",
+        "correct_answer": "D",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "What is the category of the metric 'Total amount of monetary losses as a result of legal proceedings associated with environmental regulations' in the Home Builders industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code for the metric related to the total number of nuclear power units in the Electric Utilities & Power Generators industry?",
+        "correct_answer": "D",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "What is the unit of measure for the metric related to the length of transmission and distribution lines in the Electric Utilities & Power Generators industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric related to customer electricity savings from efficiency measures in the Electric Utilities & Power Generators industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "On what page can I find details about the Greenhouse Gas Emissions & Energy Resource Planning topic for the Electric Utilities & Power Generators industry?",
+        "correct_answer": "C",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "What is the category of the metric 'Total water withdrawn, total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress' in the Electric Utilities & Power Generators industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric 'Greenhouse gas (GHG) emissions associated with power deliveries' in the Electric Utilities & Power Generators industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'End-Use Efficiency & Demand' topics in the Electric Utilities & Power Generators industry and how should these metrics be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the category of the metric 'Number of incidents of non-compliance with physical and/or cybersecurity standards or regulations' in the Electric Utilities & Power Generators industry and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric related to the sensitivity of coal reserve levels to future price projection scenarios in the Coal Operations industry?",
+        "correct_answer": "C",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric related to the number of incidents of non-compliance associated with water quality permits in the Coal Operations industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Can you provide for me the unit of measure I should use for the metric 'Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations' in the Coal Operations industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "On what page can I find details about the 'Greenhouse Gas Emissions' topic for the Coal Operations industry?",
+        "correct_answer": "D",
+        "base_model_answer": null,
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": null
+    },
+    {
+        "question": "What is the category of the metric 'Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations' in the Coal Operations industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric 'Sensitivity of coal reserve levels to future price projection scenarios that account for a price on carbon emissions' in the Coal Operations industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Water Management' topics in the Coal Operations industry and how should these metrics be calculated?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the category of the metric 'Discussion of how price and demand for coal and/or climate regulation influence the capital expenditure strategy for exploration, acquisition, and development of assets' in the Coal Operations industry and how should this metric be disclosed?",
+        "correct_answer": "B",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "What is the unit of measure for the 'Top five materials consumed, by weight' metric in the Wind Technology & Project Developers industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code for the 'Average top head mass per turbine capacity, by wind turbine class' metric in the Wind Technology & Project Developers industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the 'Amount of turbine backlog' metric, what is the unit of measure used in the Wind Technology & Project Developers industry?",
+        "correct_answer": "D",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the 'Description of approach to optimize materials efficiency of wind turbine design' metric in the Wind Technology & Project Developers industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric 'Top five materials consumed, by weight' in the Wind Technology & Project Developers industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric 'Average top head mass per turbine capacity, by wind turbine class' in the Wind Technology & Project Developers industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Materials Efficiency' topic(s) in the Wind Technology & Project Developers industry and how should these metrics be calculated?",
+        "correct_answer": "D",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the listed 'Materials Efficiency' requirement, what metric should a company in the Wind Technology & Project Developers industry use for 'Description of approach to optimize materials efficiency of wind turbine design' and how should this metric be disclosed?",
+        "correct_answer": "C",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "What is the code of the metric for the number of zero emission vehicles (ZEV), hybrid vehicles, and plug-in hybrid vehicles sold in the Automobiles industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric for the sales-weighted average passenger fleet fuel economy, by region in the Automobiles industry?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide for me the unit of measure I should use for the number of vehicles manufactured metric in the Automobiles industry?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "On what page can I find details about the discussion of strategy for managing fleet fuel economy and emissions risks and opportunities in the Automobiles industry?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the category of the metric 'Sales-weighted average passenger fleet fuel economy, by region' in the Automobiles industry and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric 'Number of zero emission vehicles (ZEV), hybrid vehicles, and plug-in hybrid vehicles sold' in the Automobiles industry and how should this metric be disclosed?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Fuel Economy & Use-phase Emissions' topic(s) in the Automobiles industry and how should these metrics be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "For the listed 'Fuel Economy & Use-phase Emissions' requirement, what metric should a company in the Automobiles industry use for 'Discussion of strategy for managing fleet fuel economy and emissions risks and opportunities' and how should this metric be disclosed?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the unit of measure for the 'Total fuel consumed, percentage renewable, percentage used in: (1) on-road equipment and vehicles and (2) off-road equipment' metric in the Oil & Gas Services industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code for the metric 'Percentage of engines in service that meet Tier 4 compliance' in the Oil & Gas Services industry?",
+        "correct_answer": "C",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "On what page can I find details about the 'Water Management Services' topic for the Oil & Gas Services industry?",
+        "correct_answer": "D",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "What is the category of the 'Total amount of drilling performed' metric in the Oil & Gas Services industry?",
+        "correct_answer": "C",
+        "base_model_answer": "E",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "What is the code of the metric related to the percentage of engines in service that comply with the highest level of emissions standards for non-road diesel engine emissions in the Oil & Gas Services industry and how should this metric be calculated?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the category of the metric for the total volume of fresh water handled in operations in the Oil & Gas Services industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "Can you provide the unit of measure for the metric related to the total fuel consumed in the Oil & Gas Services industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the code of the metric for the discussion of strategy or plans to address water consumption and disposal-related risks in the Oil & Gas Services industry and how should this metric be disclosed?",
+        "correct_answer": "D",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "What is the code of the metric related to the total energy consumed in the Software & IT Services industry?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "What is the category of the metric related to the number of licenses or subscriptions in the Software & IT Services industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the listed requirement TC-SI-130a.2, what metric should a company in the Software & IT Services industry use for water consumption?",
+        "correct_answer": "E",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "E",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "On what page can I find details about the integration of environmental considerations into strategic planning for data center needs in the Software & IT Services industry?",
+        "correct_answer": "D",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the metric 'Total energy consumed' in the Software & IT Services industry and how should this metric be calculated?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "What is the code of the metric 'Number of performance issues' in the Software & IT Services industry and how should this metric be disclosed?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "Can you provide the unit of measure (as listed in the relevant table) for the metric 'Data processing capacity' in the Software & IT Services industry and how should this metric be calculated?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "For the listed requirement 'Total water withdrawn', what metric should a company in the Software & IT Services industry use for disclosure and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the unit of measure for the 'Total energy consumed' metric in the Drug Retailers industry?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code for the 'Number of pharmacy locations' metric in the Drug Retailers industry?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "For the listed energy management requirement, what metric should a company in the Drug Retailers industry use for the percentage of energy consumed that is renewable?",
+        "correct_answer": "C",
+        "base_model_answer": "C",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "C"
+    },
+    {
+        "question": "On what page can I find details about the energy management topic for the Drug Retailers industry?",
+        "correct_answer": "C",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the unit of measure for the 'Total energy consumed' metric in the Drug Retailers industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code of the metric for 'Number of pharmacy locations' in the Drug Retailers industry and how should this metric be disclosed?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the 'percentage renewable' metric in the Drug Retailers industry and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "What is the unit of measure for the 'Total area of retail space' metric in the Drug Retailers industry and how should this metric be disclosed?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the unit of measure for the 'Sales-weighted fleet fuel efficiency for medium- and heavy-duty vehicles' metric in the Industrial Machinery & Goods industry?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code for the 'Total energy consumed' metric in the Industrial Machinery & Goods industry?",
+        "correct_answer": "A",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "What is the category of the 'Sales-weighted emissions of nitrogen oxides (NOx) and particulate matter (PM)' metric in the Industrial Machinery & Goods industry?",
+        "correct_answer": "B",
+        "base_model_answer": "B",
+        "top_oss_model_answer": "B",
+        "finetuned_model_answer": "B"
+    },
+    {
+        "question": "For the 'Sales-weighted fuel efficiency for stationary generators' metric, what unit of measure should a company in the Industrial Machinery & Goods industry use?",
+        "correct_answer": "C",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "E"
+    },
+    {
+        "question": "What is the unit of measure for the metric 'Sales-weighted fleet fuel efficiency for medium- and heavy-duty vehicles' in the Industrial Machinery & Goods industry, and how should this metric be calculated?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the category of the metric 'Total energy consumed' in the Industrial Machinery & Goods industry, and how should this metric be disclosed?",
+        "correct_answer": "A",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "A",
+        "finetuned_model_answer": "A"
+    },
+    {
+        "question": "What is the code for the metric 'Sales-weighted emissions of nitrogen oxides (NOx) and particulate matter (PM)' in the Industrial Machinery & Goods industry, and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "D",
+        "top_oss_model_answer": "D",
+        "finetuned_model_answer": "D"
+    },
+    {
+        "question": "For the listed requirement of 'Sales-weighted fuel efficiency for stationary generators', what metric should a company in the Industrial Machinery & Goods industry use and how should this metric be calculated?",
+        "correct_answer": "B",
+        "base_model_answer": "A",
+        "top_oss_model_answer": "C",
+        "finetuned_model_answer": "A"
+    }
+]

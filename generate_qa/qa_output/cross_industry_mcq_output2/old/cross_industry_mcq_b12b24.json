@@ -1,0 +1,144 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "According to IFRS standards, which of the following is a required disclosure for both Oil & Gas - Midstream and Non-Alcoholic Beverages industries regarding their Scope 1 emissions?",
+    "optionA": "Total fleet road miles traveled",
+    "optionB": "Percentage of emissions covered under emissions-limiting regulations",
+    "optionC": "Emissions from vented sources",
+    "optionD": "Percentage of renewable fuel used in fleet vehicles",
+    "optionE": "Emissions from fugitive sources",
+    "answer": "B: Percentage of emissions covered under emissions-limiting regulations",
+    "explanation": "Both industries are required to disclose the percentage of their Scope 1 emissions that are covered under emissions-limiting regulations. For Oil & Gas - Midstream, this is explicitly stated in EM-MD-110a.1. For Non-Alcoholic Beverages, while not directly stated, it's implied in the general Scope 1 emissions reporting requirements (FB-NB-110a.1) which follow similar IFRS guidelines.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages"
+    ],
+    "pages": [
+      "110",
+      "245"
+    ],
+    "pairing_explanation": "Both involve extensive logistics frameworks and share sustainability similarities in emissions, resource efficiency, and supply chain management.",
+    "industries": [
+      "b12-oil-and-gas-midstream",
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When disclosing strategies to manage Scope 1 emissions, which of the following is required for Oil & Gas - Midstream companies but not explicitly mentioned for Non-Alcoholic Beverages companies?",
+    "optionA": "Emission reduction targets",
+    "optionB": "Timeline for reduction activities",
+    "optionC": "Mechanism for achieving targets",
+    "optionD": "Analysis of performance against targets",
+    "optionE": "Breakdown of emissions by specific categories (e.g., flared hydrocarbons, vented emissions)",
+    "answer": "E: Breakdown of emissions by specific categories (e.g., flared hydrocarbons, vented emissions)",
+    "explanation": "The Oil & Gas - Midstream industry requirements (EM-MD-110a.2) specifically mention discussing the scope of strategies for different categories of emissions, including flared hydrocarbons, other combusted emissions, process emissions, vented emissions, and fugitive emissions. This level of detail in categorization is not explicitly required for the Non-Alcoholic Beverages industry in their emissions management strategy disclosure.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages"
+    ],
+    "pages": [
+      "111-113",
+      "247-248"
+    ],
+    "pairing_explanation": "Both involve extensive logistics frameworks and share sustainability similarities in emissions, resource efficiency, and supply chain management.",
+    "industries": [
+      "b12-oil-and-gas-midstream",
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of renewable energy consumed, which of the following is a key difference between the Oil & Gas - Midstream and Non-Alcoholic Beverages industries?",
+    "optionA": "The inclusion of fleet vehicle energy consumption",
+    "optionB": "The definition of renewable energy sources",
+    "optionC": "The use of Renewable Energy Certificates (RECs)",
+    "optionD": "The calculation of total energy consumption",
+    "optionE": "The reporting period for energy consumption",
+    "answer": "A: The inclusion of fleet vehicle energy consumption",
+    "explanation": "For the Oil & Gas - Midstream industry, the metric EM-MD-110a.1 specifically focuses on fleet fuel consumption and the percentage of renewable fuel. In contrast, for the Non-Alcoholic Beverages industry, the energy management metric FB-NB-130a.1 explicitly excludes fleet vehicles from the calculation of operational energy consumed and the percentage of renewable energy. This represents a key difference in how these industries calculate and report their renewable energy usage.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages"
+    ],
+    "pages": [
+      "245-246",
+      "247-248"
+    ],
+    "pairing_explanation": "Both involve extensive logistics frameworks and share sustainability similarities in emissions, resource efficiency, and supply chain management.",
+    "industries": [
+      "b12-oil-and-gas-midstream",
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "In the context of water management, which metric is required for Non-Alcoholic Beverages companies but not explicitly mentioned for Oil & Gas - Midstream companies?",
+    "optionA": "Total water withdrawn",
+    "optionB": "Total water consumed",
+    "optionC": "Percentage of water withdrawn in regions with High or Extremely High Baseline Water Stress",
+    "optionD": "Percentage of water consumed in regions with High or Extremely High Baseline Water Stress",
+    "optionE": "Description of water management risks",
+    "answer": "D: Percentage of water consumed in regions with High or Extremely High Baseline Water Stress",
+    "explanation": "The Non-Alcoholic Beverages industry metric FB-NB-140a.1 specifically requires reporting on the percentage of water consumed in regions with High or Extremely High Baseline Water Stress. This metric is not explicitly mentioned in the Oil & Gas - Midstream industry requirements. While both industries need to address water management, the Non-Alcoholic Beverages industry has more detailed requirements regarding water consumption in water-stressed regions, likely due to the critical nature of water as an input in beverage production.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages"
+    ],
+    "pages": [
+      "249-252"
+    ],
+    "pairing_explanation": "Both involve extensive logistics frameworks and share sustainability similarities in emissions, resource efficiency, and supply chain management.",
+    "industries": [
+      "b12-oil-and-gas-midstream",
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the IFRS sustainability reporting requirements for supply chain management differ between the Oil & Gas - Midstream and Non-Alcoholic Beverages industries?",
+    "optionA": "Only Non-Alcoholic Beverages companies are required to report on supplier audits",
+    "optionB": "Oil & Gas - Midstream companies focus on environmental impacts, while Non-Alcoholic Beverages companies focus on social impacts",
+    "optionC": "Non-Alcoholic Beverages companies must report on both environmental and social impacts of their supply chain, while Oil & Gas - Midstream companies have no specific supply chain reporting requirements",
+    "optionD": "Both industries have identical supply chain reporting requirements",
+    "optionE": "Oil & Gas - Midstream companies must report on pipeline safety, while Non-Alcoholic Beverages companies report on ingredient sourcing risks",
+    "answer": "C: Non-Alcoholic Beverages companies must report on both environmental and social impacts of their supply chain, while Oil & Gas - Midstream companies have no specific supply chain reporting requirements",
+    "explanation": "The Non-Alcoholic Beverages industry has specific metrics (FB-NB-430a.1 and FB-NB-440a.2) that require reporting on suppliers' social and environmental responsibility audits and sourcing risks due to environmental and social considerations. In contrast, the Oil & Gas - Midstream industry standards do not explicitly mention supply chain environmental and social impact reporting requirements. This difference reflects the varying priorities and risk factors in the supply chains of these two industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages"
+    ],
+    "pages": [
+      "253-256"
+    ],
+    "pairing_explanation": "Both involve extensive logistics frameworks and share sustainability similarities in emissions, resource efficiency, and supply chain management.",
+    "industries": [
+      "b12-oil-and-gas-midstream",
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "Which of the following sustainability topics is more prominently addressed in the IFRS reporting requirements for the Non-Alcoholic Beverages industry compared to the Oil & Gas - Midstream industry?",
+    "optionA": "Greenhouse gas emissions",
+    "optionB": "Energy management",
+    "optionC": "Water management",
+    "optionD": "Biodiversity impacts",
+    "optionE": "Waste management",
+    "answer": "C: Water management",
+    "explanation": "Water management is more prominently addressed in the IFRS reporting requirements for the Non-Alcoholic Beverages industry compared to the Oil & Gas - Midstream industry. The Non-Alcoholic Beverages industry has detailed metrics and discussion requirements related to water withdrawal, consumption, management risks, and strategies (FB-NB-140a.1 and FB-NB-140a.2). Additionally, there's a focus on sourcing ingredients from water-stressed regions (FB-NB-440a.1). In contrast, the Oil & Gas - Midstream industry requirements do not have specific metrics dedicated to water management, reflecting the different priorities and resource dependencies of these industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages"
+    ],
+    "pages": [
+      "249-252",
+      "255-256"
+    ],
+    "pairing_explanation": "Both involve extensive logistics frameworks and share sustainability similarities in emissions, resource efficiency, and supply chain management.",
+    "industries": [
+      "b12-oil-and-gas-midstream",
+      "b24-non-alcoholic-beverages"
+    ]
+  }
+]

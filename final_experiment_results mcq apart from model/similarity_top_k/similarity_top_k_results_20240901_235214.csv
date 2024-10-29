@@ -1,0 +1,6 @@
+Experiment Type,Parameter,Model Name,Model Size (B),Accuracy,Total Questions,Correct Answers
+similarity_top_k,1,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,8,77.41935483870968,31,24
+similarity_top_k,5,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,8,80.64516129032258,31,25
+similarity_top_k,10,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,8,6.451612903225806,31,2
+similarity_top_k,20,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,8,0.0,31,0
+similarity_top_k,50,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,8,0.0,31,0

@@ -1,0 +1,9 @@
+Metric,cross,local
+BLEU,0.3105187516268043,0.7917649896330193
+Faithfulness,6.8,7.8
+Multi-hop Questions,100.0,95.0
+Negative Questions,0.0,0.0
+ROUGE,0.418696748481301,0.8673289316455663
+Relevancy,7.4375,8.55
+Single Best Answer,0.0,0.0
+Specificity,8.325,8.7

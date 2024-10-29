@@ -1,0 +1,332 @@
+[
+  {
+    "industries": [
+      "b35-home-builders"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the number of (1) lots and (2) homes delivered on redevelopment sites?",
+    "answer": "A",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_b35-home-builders": 5,
+    "negative_question": 0,
+    "multihop_check": 1
+  },
+  {
+    "industries": [
+      "b35-home-builders"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the number of (1) lots and (2) homes delivered in regions with High or Extremely High Baseline Water Stress?",
+    "answer": "A",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_b35-home-builders": 5,
+    "negative_question": 0,
+    "multihop_check": 0
+  },
+  {
+    "industries": [
+      "b35-home-builders"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the total amount of monetary losses as a result of legal proceedings associated with environmental regulations?",
+    "answer": "A",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_b35-home-builders": 5,
+    "negative_question": 0,
+    "multihop_check": 0
+  },
+  {
+    "industries": [
+      "b35-home-builders"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the discussion of the process to integrate environmental considerations into site selection, site design, and site development and construction?",
+    "answer": "A",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_b35-home-builders": 5,
+    "negative_question": 0,
+    "multihop_check": 0
+  },
+  {
+    "industries": [
+      "b35-home-builders"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the number of (1) lots and (2) homes delivered on redevelopment sites?",
+    "answer": "A",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_b35-home-builders": 5,
+    "negative_question": 0,
+    "multihop_check": 1
+  },
+  {
+    "industries": [
+      "b35-home-builders"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the number of (1) lots and (2) homes delivered in regions with High or Extremely High Baseline Water Stress?",
+    "answer": "A",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_b35-home-builders": 5,
+    "negative_question": 0,
+    "multihop_check": 0
+  },
+  {
+    "industries": [
+      "b35-home-builders"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the total amount of monetary losses as a result of legal proceedings associated with environmental regulations?",
+    "answer": "A",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_b35-home-builders": 5,
+    "negative_question": 0,
+    "multihop_check": 0
+  },
+  {
+    "industries": [
+      "b35-home-builders"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the discussion of the process to integrate environmental considerations into site selection, site design, and site development and construction?",
+    "answer": "A",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_b35-home-builders": 5,
+    "negative_question": 0,
+    "multihop_check": 0
+  },
+  {
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the percentage of refrigerants consumed by the entity that have zero ozone-depleting potential?",
+    "answer": "D",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 10,
+    "relevancy_score_b22-food-retailers-and-distributors": 5,
+    "negative_question": 0,
+    "multihop_check": 0
+  },
+  {
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the entity's average refrigerant emissions rate?",
+    "answer": "C",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 9,
+    "relevancy_score_b22-food-retailers-and-distributors": 5,
+    "negative_question": 0,
+    "multihop_check": 0
+  },
+  {
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ],
+    "qa_type": "single_hop",
+    "question": "What percentage of the entity's energy consumption (excluding fleet vehicles) is from renewable sources?",
+    "answer": "B",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_b22-food-retailers-and-distributors": 5,
+    "negative_question": 0,
+    "multihop_check": 0
+  },
+  {
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ],
+    "qa_type": "single_hop",
+    "question": "What percentage of the entity's revenue is from eggs that originated from a cage-free environment?",
+    "answer": "<UNKNOWN>",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 10,
+    "relevancy_score_b22-food-retailers-and-distributors": 5,
+    "negative_question": 0,
+    "multihop_check": 0
+  },
+  {
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the percentage of refrigerants consumed by the entity that have zero ozone-depleting potential?",
+    "answer": "D",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 10,
+    "relevancy_score_b22-food-retailers-and-distributors": 5,
+    "negative_question": 0,
+    "multihop_check": 0
+  },
+  {
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the entity's average refrigerant emissions rate?",
+    "answer": "C",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 9,
+    "relevancy_score_b22-food-retailers-and-distributors": 5,
+    "negative_question": 0,
+    "multihop_check": 0
+  },
+  {
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What percentage of the entity's energy consumption (excluding fleet vehicles) is from renewable sources?",
+    "answer": "B",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 9,
+    "relevancy_score_b22-food-retailers-and-distributors": 5,
+    "negative_question": 0,
+    "multihop_check": 0
+  },
+  {
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What percentage of the entity's revenue is from eggs that originated from a cage-free environment?",
+    "answer": "<UNKNOWN>",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [],
+    "faithfulness_score": 10,
+    "relevancy_score_b22-food-retailers-and-distributors": 5,
+    "negative_question": 0,
+    "multihop_check": 0
+  },
+  {
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the definition of Scope 1 emissions according to the SASB standards?",
+    "answer": "A",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_b60-air-freight-and-logistics": 5,
+    "negative_question": 0,
+    "multihop_check": 0
+  },
+  {
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the definition of alternative fuel according to the SASB standards?",
+    "answer": "A",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_b60-air-freight-and-logistics": 5,
+    "negative_question": 0,
+    "multihop_check": 0
+  },
+  {
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the definition of sustainable fuel according to the SASB standards?",
+    "answer": "B",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_b60-air-freight-and-logistics": 5,
+    "negative_question": 0,
+    "multihop_check": 0
+  },
+  {
+    "industries": [
+      "b60-air-freight-and-logistics"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the definition of the TR-AF-430a.1 metric according to the SASB standards?",
+    "answer": "A",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_b60-air-freight-and-logistics": 5,
+    "negative_question": 0,
+    "multihop_check": 0
+  }
+]

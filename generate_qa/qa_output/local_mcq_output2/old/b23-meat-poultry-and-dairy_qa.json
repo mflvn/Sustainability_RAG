@@ -1,0 +1,167 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2 Climate-related Disclosures, which of the following is NOT a required disclosure for Scope 1 emissions in the Meat, Poultry & Dairy industry?",
+    "optionA": "Gross global Scope 1 emissions",
+    "optionB": "Emissions reduction targets",
+    "optionC": "Calculation methodology",
+    "optionD": "Changes in emissions from the previous reporting period",
+    "optionE": "Detailed breakdown of emissions by animal species",
+    "answer": "E. Detailed breakdown of emissions by animal species",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "230-231",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When discussing water management risks in sustainability reports for the Meat, Poultry & Dairy industry, which of the following is NOT considered a risk associated with water withdrawals according to IFRS standards?",
+    "optionA": "Environmental constraints",
+    "optionB": "Regulatory constraints",
+    "optionC": "Financial constraints",
+    "optionD": "Stakeholder perceptions",
+    "optionE": "Product quality impacts",
+    "answer": "E. Product quality impacts",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "236",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When reporting on energy management in the Meat, Poultry & Dairy industry, which of the following is NOT required to be disclosed according to IFRS standards?",
+    "optionA": "Total energy consumed",
+    "optionB": "Percentage of grid electricity used",
+    "optionC": "Percentage of renewable energy used",
+    "optionD": "Energy efficiency measures implemented",
+    "optionE": "Calculation methodology for energy consumption",
+    "answer": "D. Energy efficiency measures implemented",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "233-234",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS standards for the Meat, Poultry & Dairy industry, when discussing strategies to manage opportunities and risks related to feed sourcing and livestock supply due to climate change, which of the following is NOT mentioned as a specific strategy?",
+    "optionA": "Use of insurance",
+    "optionB": "Investments in hedging instruments",
+    "optionC": "Supply chain diversification",
+    "optionD": "Ecosystem and biodiversity management",
+    "optionE": "Vertical integration of feed production",
+    "answer": "E. Vertical integration of feed production",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "242-243",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of renewable energy consumed in the Meat, Poultry & Dairy industry, which of the following sources should NOT be included according to IFRS standards?",
+    "optionA": "Renewable fuel directly consumed by the entity",
+    "optionB": "Renewable energy directly produced by the entity",
+    "optionC": "Renewable energy purchased through a power purchase agreement (PPA) with explicit RECs",
+    "optionD": "The renewable portion of the electricity grid mix outside the entity's control",
+    "optionE": "Green-e Energy Certified utility program purchases",
+    "answer": "D. The renewable portion of the electricity grid mix outside the entity's control",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "234",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When disclosing water consumption for the Meat, Poultry & Dairy industry, which of the following is NOT considered as consumed water according to IFRS standards?",
+    "optionA": "Water that evaporates during withdrawal, usage, and discharge",
+    "optionB": "Water that is directly incorporated into the entity's product",
+    "optionC": "Water that is indirectly incorporated into the entity's service",
+    "optionD": "Water that does not return to the same catchment area",
+    "optionE": "Water that is treated and returned to the same catchment area",
+    "answer": "E. Water that is treated and returned to the same catchment area",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "235-236",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of animal litter and manure managed according to a nutrient management plan, which of the following is NOT a required element of the plan as per IFRS standards?",
+    "optionA": "Background and Site Information",
+    "optionB": "Manure and Wastewater Handling and Storage",
+    "optionC": "Land Treatment Practices",
+    "optionD": "Nutrient Management",
+    "optionE": "Carbon Footprint Analysis",
+    "answer": "E. Carbon Footprint Analysis",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "239-240",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When reporting on animal feed sourced from regions with High or Extremely High Baseline Water Stress, which tool should be used to classify water stress levels according to IFRS standards?",
+    "optionA": "UN Water Scarcity Index",
+    "optionB": "World Wildlife Fund Water Risk Filter",
+    "optionC": "World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "optionD": "FAO Global Water Information System",
+    "optionE": "UNEP Global Environment Outlook",
+    "answer": "C. World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "241",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "According to IFRS standards, what is a unique challenge for Meat, Poultry & Dairy companies when reporting Scope 1 greenhouse gas emissions?",
+    "optionA": "Emissions from office buildings",
+    "optionB": "Emissions from transportation vehicles",
+    "optionC": "Emissions directly from animals through enteric fermentation",
+    "optionD": "Emissions from electricity consumption",
+    "optionE": "Emissions from packaging materials",
+    "answer": "C. Emissions directly from animals through enteric fermentation",
+    "reference": "Greenhouse Gas Emissions",
+    "page": "230",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When preparing a sustainability report for a Meat, Poultry & Dairy company, which of the following water-related metrics is specifically required by IFRS standards?",
+    "optionA": "Total water recycled",
+    "optionB": "Water quality improvement initiatives",
+    "optionC": "Number of water-efficient equipment installed",
+    "optionD": "Total water consumed in regions with High or Extremely High Baseline Water Stress",
+    "optionE": "Volume of water used for cleaning operations",
+    "answer": "D. Total water consumed in regions with High or Extremely High Baseline Water Stress",
+    "reference": "Water Management",
+    "page": "235-236",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "According to IFRS standards, what unique aspect must be included when disclosing the percentage of contracts with producers for a Meat, Poultry & Dairy company?",
+    "optionA": "Producer's annual revenue",
+    "optionB": "Producer's years of experience",
+    "optionC": "Producer's location in regions with High or Extremely High Baseline Water Stress",
+    "optionD": "Producer's certification status",
+    "optionE": "Producer's herd size",
+    "answer": "C. Producer's location in regions with High or Extremely High Baseline Water Stress",
+    "reference": "Animal & Feed Sourcing",
+    "page": "241-242",
+    "industries": [
+      "b23-meat-poultry-and-dairy"
+    ]
+  }
+]

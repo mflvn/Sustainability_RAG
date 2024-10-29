@@ -1,0 +1,172 @@
+[
+  {
+    "qa_type": "single_hop",
+    "question": "On what page can I find details about the Industry Description for the Household & Personal Products industry?",
+    "optionA": "Page 32",
+    "optionB": "Page 33",
+    "optionC": "Page 34",
+    "optionD": "Page 35",
+    "optionE": "Page 36",
+    "answer": "B",
+    "reference_text": [
+      "The Household & Personal Products industry comprises companies that manufacture a wide range of goods for personal and commercial consumption, including cosmetics, household and industrial cleaning supplies, soaps and detergents, sanitary paper products, household batteries, razors, and kitchen utensils."
+    ],
+    "pages": [
+      "33"
+    ],
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What is the code of the 'Amount of palm oil sourced, percentage certified through the Roundtable on Sustainable Palm Oil (RSPO) supply chains' metric in the Household & Personal Products industry (as listed in the relevant table)?",
+    "optionA": "CG-HP-140a.1",
+    "optionB": "CG-HP-140a.2",
+    "optionC": "CG-HP-430b.1",
+    "optionD": "CG-HP-000.A",
+    "optionE": "CG-HP-430a.1",
+    "answer": "E",
+    "reference_text": [
+      "| Environmental & Social Impacts of Palm Oil Supply Chain | Amount of palm oil sourced, percentage certified through the Roundtable on Sustainable Palm Oil (RSPO) supply chains as (a) Identity Preserved, (b) Segregated, (c) Mass Balance, or (d) Book & Claim | Quantitative | Metric tons (t), Percentage (%) | CG-HP-430a.1 |"
+    ],
+    "pages": [
+      "33"
+    ],
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "For the listed water management requirement, what does a company in the Household & Personal Products industry need to do regarding water withdrawn in locations with High or Extremely High Baseline Water Stress?",
+    "optionA": "Disclose the amount of water withdrawn as a percentage of total revenue",
+    "optionB": "Disclose water withdrawn as a percentage of the total water withdrawn",
+    "optionC": "Disclose water withdrawn as an absolute value in cubic meters",
+    "optionD": "Disclose water withdrawn as a percentage of total production volume",
+    "optionE": "Disclose the cost of the water withdrawn",
+    "answer": "B",
+    "reference_text": [
+      "5 The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn."
+    ],
+    "pages": [
+      "35"
+    ],
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What is the category of the 'Number of manufacturing facilities' metric in the Household & Personal Products industry?",
+    "optionA": "Discussion and Analysis",
+    "optionB": "Qualitative",
+    "optionC": "Descriptive",
+    "optionD": "Number",
+    "optionE": "Quantitative",
+    "answer": "E",
+    "reference_text": [
+      "| Number of manufacturing facilities | Quantitative | Number | CG-HP-000.B |"
+    ],
+    "pages": [
+      "33"
+    ],
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "Can you provide the unit of measure for all the metrics for the Water Management topic in the Household & Personal Products industry and explain how these metrics should be calculated?",
+    "optionA": "The unit of measure is Thousand cubic meters (m\u00b3) and Percentage (%). Total water withdrawn and consumed should be measured, with percentages calculated for regions with High or Extremely High Baseline Water Stress.",
+    "optionB": "The unit of measure is Liters (L) and Percentage (%). Only total water consumed needs to be measured, with percentages calculated for all regions regardless of water stress.",
+    "optionC": "The unit of measure is Gallons and Percentage (%). Total water withdrawn and consumed should be measured, but only for regions with Extremely High Baseline Water Stress.",
+    "optionD": "The unit of measure is Thousand cubic meters (m\u00b3) and Ratio. Total water withdrawn and consumed should be measured, with ratios calculated for regions with Low or Medium Baseline Water Stress.",
+    "optionE": "n/a",
+    "answer": "A",
+    "reference_text": [
+      "CG-HP-140a.1. (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress",
+      "Quantitative | Thousand cubic meters (m\u00b3), Percentage (%) | CG-HP-140a.1",
+      "1 The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from all sources.",
+      "3 The entity shall disclose the amount of water, in thousands of cubic meters, that was consumed in its operations.",
+      "5 The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn.",
+      "6 The entity shall disclose its water consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water consumed."
+    ],
+    "pages": [
+      "34",
+      "35"
+    ],
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the category of the 'Description of water management risks and discussion of strategies and practices to mitigate those risks' metric in the Household & Personal Products industry, and how should this metric be disclosed?",
+    "optionA": "The category is Quantitative. The metric should be disclosed as a numerical value representing the number of identified risks and mitigation strategies.",
+    "optionB": "The category is Discussion and Analysis. The metric should be disclosed through a detailed narrative describing water management risks and mitigation strategies, including short-term and long-term plans.",
+    "optionC": "The category is Binary. The metric should be disclosed as a yes/no response to whether water management risks exist and if mitigation strategies are in place.",
+    "optionD": "The category is Comparative. The metric should be disclosed by comparing the company's water management risks and strategies to industry benchmarks.",
+    "optionE": "The category is Qualitative. The metric should be disclosed through a detailed narrative describing water management risks and mitigation strategies, including short-term and long-term plans.",
+    "answer": "B",
+    "reference_text": [
+      "CG-HP-140a.2. Description of water management risks and discussion of strategies and practices to mitigate those risks",
+      "Discussion and Analysis | n/a | CG-HP-140a.2",
+      "1 The entity shall describe its water management risks associated with water withdrawals, water consumption, and discharge of water and/or wastewater.",
+      "4 The entity shall discuss its short-term and long-term strategies or plan to mitigate water management risks, including, but not limited to:",
+      "4.1 The scope of its strategy, plans, goals and/or targets, such as how they relate to different business units, geographies, or water-consuming operational processes."
+    ],
+    "pages": [
+      "34",
+      "35",
+      "36"
+    ],
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the code of the palm oil sourcing metric in the Household & Personal Products industry, and how should this metric be calculated?",
+    "optionA": "The code is CG-HP-430a.1. The metric should be calculated as the total amount of palm oil sourced, with no consideration for RSPO certification.",
+    "optionB": "The code is CG-HP-430b.2. The metric should be calculated as the percentage of RSPO-certified palm oil, regardless of the supply chain model.",
+    "optionC": "The code is CG-HP-430a.1. The metric should be calculated as the amount of palm oil sourced and the percentage certified through RSPO supply chains, broken down by four specific models.",
+    "optionD": "The code is CG-HP-430c.3. The metric should be calculated as the ratio of certified to non-certified palm oil, without specifying RSPO supply chain models.",
+    "optionE": "The code is CG-HP-430c.1. The metric should be calculated as the amount of palm oil sourced and the percentage certified through RSPO supply chains, broken down by four specific models.",
+    "answer": "C",
+    "reference_text": [
+      "CG-HP-430a.1. Amount of palm oil sourced, percentage certified through the Roundtable on Sustainable Palm Oil (RSPO) supply chains as (a) Identity Preserved, (b) Segregated, (c) Mass Balance, or (d) Book & Claim",
+      "1 The entity shall disclose the amount, in metric tons, of palm oil that it sourced during the reporting period.",
+      "2 The entity shall disclose the percentage, on a weight basis, of palm oil it sourced that has been third-party certified to bear a Roundtable on Sustainable Palm Oil (RSPO) claim for each of the RSPO supply chain models: (a) Identity Preserved (IP), (b) Segregated (SG), (c) Mass Balance (MB), or (d) Book & Claim (B&C)."
+    ],
+    "pages": [
+      "38"
+    ],
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "Can you tell me what topics are covered in the Environmental & Social Impacts of Palm Oil Supply Chain section of the Household & Personal Products document and what are the key takeaways I need to know as a company writing my sustainability report in this industry?",
+    "optionA": "The section covers palm oil production methods. Key takeaways are to focus on increasing palm oil usage and maximizing yield without considering environmental impacts.",
+    "optionB": "The section covers palm oil alternatives. Key takeaways are to completely eliminate palm oil from supply chains and replace it with synthetic substitutes.",
+    "optionC": "The section covers palm oil sourcing and certification. Key takeaways are to disclose the amount of palm oil sourced, ensure RSPO certification, and consider the environmental and social risks associated with palm oil in the supply chain.",
+    "optionD": "The section covers palm oil transportation. Key takeaways are to optimize logistics for palm oil delivery and reduce transportation-related emissions.",
+    "optionE": "The section covers palm oil sourcing only. Key takeaways are to disclose the source of the palm oil and the amount sourced.",
+    "answer": "C",
+    "reference_text": [
+      "Palm oil harvesting in specific regions of the world can contribute to deforestation, GHG emissions, and other environmental and social problems. If not sourced responsibly, palm oil materials contribute to environmental and social externalities that can present reputational and regulatory risks for companies.",
+      "Companies face pressure to track and responsibly source palm oil. Additionally, they face pressure to ensure minimum standards for working conditions in the supply chain, as the production of palm oil is often associated with labor issues.",
+      "CG-HP-430a.1. Amount of palm oil sourced, percentage certified through the Roundtable on Sustainable Palm Oil (RSPO) supply chains as (a) Identity Preserved, (b) Segregated, (c) Mass Balance, or (d) Book & Claim",
+      "The entity shall disclose the amount, in metric tons, of palm oil that it sourced during the reporting period.",
+      "The entity shall disclose the percentage, on a weight basis, of palm oil it sourced that has been third-party certified to bear a Roundtable on Sustainable Palm Oil (RSPO) claim for each of the RSPO supply chain models"
+    ],
+    "pages": [
+      "38"
+    ],
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  }
+]

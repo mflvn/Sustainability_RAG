@@ -1,0 +1,2635 @@
+[
+  {
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "qa_type": "single_hop",
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Metals & Mining and Electrical & Electronic Equipment industries?",
+    "answer": "A",
+    "temperature": 0,
+    "version": "cross",
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Metals & Mining": 9,
+    "relevancy_score_Electrical & Electronic Equipment": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Metals & Mining",
+    "optionB": "Electrical & Electronic Equipment",
+    "optionC": "Both have the same number",
+    "optionD": "Neither has 'Quantitative' metrics",
+    "optionE": "Not enough information to determine"
+  },
+  {
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "qa_type": "single_hop",
+    "question": "What topics should I report on for Metals & Mining and Electrical & Electronic Equipment industries?",
+    "answer": "A",
+    "temperature": 0,
+    "version": "cross",
+    "specificity_score": 4,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ],
+    "faithfulness_score": 6,
+    "relevancy_score_Metals & Mining": 8,
+    "relevancy_score_Electrical & Electronic Equipment": 7,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Greenhouse Gas Emissions, Energy Management, Water Management, Product Lifecycle Management",
+    "optionB": "Greenhouse Gas Emissions, Energy Management, Water Management",
+    "optionC": "Energy Management, Product Lifecycle Management",
+    "optionD": "Greenhouse Gas Emissions, Water Management, Product Lifecycle Management",
+    "optionE": "Energy Management, Water Management"
+  },
+  {
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Metals & Mining and Electrical & Electronic Equipment industries.",
+    "answer": "A",
+    "temperature": 0,
+    "version": "cross",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Metals & Mining": 10,
+    "relevancy_score_Electrical & Electronic Equipment": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "EM-MM-110a.1, EM-MM-130a.1, EM-MM-140a.1, RT-EE-130a.1, RT-EE-410a.1",
+    "optionB": "EM-MM-110a.1, EM-MM-130a.1, EM-MM-140a.1, RT-EE-130a.1",
+    "optionC": "EM-MM-110a.1, EM-MM-130a.1, EM-MM-140a.1, RT-EE-130a.1, RT-EE-410a.2",
+    "optionD": "EM-MM-110a.1, EM-MM-130a.1, EM-MM-140a.1, RT-EE-130a.1, RT-EE-410a.3",
+    "optionE": "EM-MM-110a.1, EM-MM-130a.1, EM-MM-140a.1, RT-EE-130a.1, RT-EE-410a.1, RT-EE-410a.2"
+  },
+  {
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Are there any common sustainability topics between Metals & Mining and Electrical & Electronic Equipment industries? If so, how do their reporting requirements differ?",
+    "answer": "B",
+    "temperature": 0,
+    "version": "cross",
+    "specificity_score": 7,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "faithfulness_score": 6,
+    "relevancy_score_Metals & Mining": 8,
+    "relevancy_score_Electrical & Electronic Equipment": 7,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Both industries have 'Energy Management' as a common topic, but Metals & Mining requires discussion of energy sources while Electrical & Electronic Equipment focuses on energy efficiency certifications.",
+    "optionB": "Both industries have 'Energy Management' as a common topic, but Metals & Mining requires quantitative data on energy consumption while Electrical & Electronic Equipment focuses on energy efficiency certifications.",
+    "optionC": "Both industries have 'Energy Management' as a common topic, but Metals & Mining requires quantitative data on energy consumption while Electrical & Electronic Equipment requires a discussion of energy sources.",
+    "optionD": "Both industries have 'Water Management' as a common topic, but Metals & Mining requires quantitative data on water consumption while Electrical & Electronic Equipment focuses on water efficiency certifications.",
+    "optionE": "Both industries have 'Greenhouse Gas Emissions' as a common topic, but Metals & Mining requires quantitative data on emissions while Electrical & Electronic Equipment focuses on emissions reduction strategies."
+  },
+  {
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "single_hop",
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Industrial Machinery & Goods and Iron & Steel Producers industries?",
+    "answer": "A",
+    "temperature": 0.2,
+    "version": "cross",
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Iron & Steel Producers": 8,
+    "relevancy_score_Industrial Machinery & Goods": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Industrial Machinery & Goods",
+    "optionB": "Iron & Steel Producers",
+    "optionC": "Both have the same number",
+    "optionD": "Neither has quantitative metrics",
+    "optionE": "Not specified"
+  },
+  {
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "single_hop",
+    "question": "List the activity metrics for Industrial Machinery & Goods and Iron & Steel Producers industries.",
+    "answer": "A",
+    "temperature": 0.2,
+    "version": "cross",
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "faithfulness_score": 6,
+    "relevancy_score_Iron & Steel Producers": 8,
+    "relevancy_score_Industrial Machinery & Goods": 7,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Number of units produced by product category, Number of employees, Raw steel production, Total iron ore production, Total coking coal production",
+    "optionB": "Number of units produced by product category, Number of employees, Raw steel production, Total iron ore production",
+    "optionC": "Number of units produced by product category, Number of employees, Total iron ore production, Total coking coal production",
+    "optionD": "Number of units produced by product category, Number of employees, Raw steel production, Total coking coal production",
+    "optionE": "Number of units produced by product category, Raw steel production, Total iron ore production, Total coking coal production"
+  },
+  {
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What units of measurement are used across the Industrial Machinery & Goods and Iron & Steel Producers industries for measuring energy management metrics?",
+    "answer": "A",
+    "temperature": 0.2,
+    "version": "cross",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Iron & Steel Producers": 8,
+    "relevancy_score_Industrial Machinery & Goods": 7,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Gigajoules (GJ) and Percentage (%)",
+    "optionB": "Gallons per hour and Metric tons (t)",
+    "optionC": "Watts per gallon and Thousand cubic meters (m\u00b3)",
+    "optionD": "Grams per kilowatt-hour and Metric tons (t) CO\u2082-e",
+    "optionE": "Gallons per 1,000 ton-miles and Percentage (%)"
+  },
+  {
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Are there any common sustainability topics between the Industrial Machinery & Goods and Iron & Steel Producers industries? If so, how do their reporting requirements differ?",
+    "answer": "A",
+    "temperature": 0.2,
+    "version": "cross",
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "faithfulness_score": 6,
+    "relevancy_score_Iron & Steel Producers": 8,
+    "relevancy_score_Industrial Machinery & Goods": 7,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Yes, both industries have a topic on Energy Management, but the Iron & Steel Producers industry also requires disclosure of total fuel consumed.",
+    "optionB": "No, there are no common sustainability topics between the two industries.",
+    "optionC": "Yes, both industries have a topic on Greenhouse Gas Emissions, but the Industrial Machinery & Goods industry requires more detailed emissions breakdown.",
+    "optionD": "Yes, both industries have a topic on Water Management, but the Iron & Steel Producers industry requires more detailed water recycling metrics.",
+    "optionE": "Yes, both industries have a topic on Supply Chain Management, but the Industrial Machinery & Goods industry requires more detailed supplier engagement metrics."
+  },
+  {
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "single_hop",
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between the Industrial Machinery & Goods and Iron & Steel Producers industries?",
+    "answer": "A",
+    "temperature": 1.0,
+    "version": "cross",
+    "specificity_score": 7,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Iron & Steel Producers": 8,
+    "relevancy_score_Industrial Machinery & Goods": 8,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Industrial Machinery & Goods has more 'Quantitative' metrics.",
+    "optionB": "Iron & Steel Producers has more 'Quantitative' metrics.",
+    "optionC": "Both industries have the same number of 'Quantitative' metrics.",
+    "optionD": "Neither industry has 'Quantitative' metrics to disclose.",
+    "optionE": "The number of 'Quantitative' metrics cannot be determined from the document."
+  },
+  {
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "single_hop",
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Iron & Steel Producers and Industrial Machinery & Goods industries.",
+    "answer": "A",
+    "temperature": 1.0,
+    "version": "cross",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "faithfulness_score": 6,
+    "relevancy_score_Iron & Steel Producers": 5,
+    "relevancy_score_Industrial Machinery & Goods": 4,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Iron & Steel Producers: Discussion of long-term and short-term strategy to manage Scope 1 emissions; Industrial Machinery & Goods: None",
+    "optionB": "Iron & Steel Producers: None; Industrial Machinery & Goods: Discussion of strategies for renewable energy use",
+    "optionC": "Iron & Steel Producers: Discussion of the process for managing iron ore and/or coking coal sourcing risks; Industrial Machinery & Goods: None",
+    "optionD": "Iron & Steel Producers: Discussion of energy management strategies; Industrial Machinery & Goods: Discussion of fleet emissions strategies",
+    "optionE": "Iron & Steel Producers: None; Industrial Machinery & Goods: None"
+  },
+  {
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Which industries require metrics for sales-weighted fuel efficiency, and how does the reporting differ for these metrics between the Iron & Steel Producers and Industrial Machinery & Goods industries?",
+    "answer": "A",
+    "temperature": 1.0,
+    "version": "cross",
+    "specificity_score": 5,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "E"
+    ],
+    "faithfulness_score": 4,
+    "relevancy_score_Iron & Steel Producers": 2,
+    "relevancy_score_Industrial Machinery & Goods": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Only the Industrial Machinery & Goods industry has metrics for sales-weighted fuel efficiency, focusing on different types of vehicles and equipment.",
+    "optionB": "Both industries require metrics for sales-weighted fuel efficiency, but the Iron & Steel Producers focus on stationary equipment.",
+    "optionC": "Iron & Steel Producers report a broader scope of vehicles for sales-weighted fuel efficiency than Industrial Machinery & Goods.",
+    "optionD": "Sales-weighted fuel efficiency is only applicable to Iron & Steel Producers for raw materials transport.",
+    "optionE": "Iron & Steel Producers have no direct metrics for sales-weighted fuel efficiency compared to Industrial Machinery & Goods."
+  },
+  {
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the common topic between Industrial Machinery & Goods and Iron & Steel Producers industries, and how do their metric categories differ?",
+    "answer": "A",
+    "temperature": 1.0,
+    "version": "cross",
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "faithfulness_score": 5,
+    "relevancy_score_Iron & Steel Producers": 8,
+    "relevancy_score_Industrial Machinery & Goods": 7,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Energy Management is a common topic, with only the Industrial Machinery & Goods using quantitative metrics while Iron & Steel Producers use both quantitative and discussion categories.",
+    "optionB": "Greenhouse Gas Emissions are reported in similar ways, with both using only quantitative metrics.",
+    "optionC": "The common topic of Water Management is measured using discussion metrics in the Iron & Steel Producers and quantitative in Industrial Machinery & Goods.",
+    "optionD": "Supply Chain Management is a common topic but is reported through discussion metrics only in Iron & Steel Producers.",
+    "optionE": "Fuel Economy & Emissions is a common topic, and both use quantitative metrics, with Iron & Steel Producers using less detailed metrics."
+  },
+  {
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "single_hop",
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Industrial Machinery & Goods and Iron & Steel Producers industries?",
+    "answer": "A",
+    "temperature": 0,
+    "version": "cross",
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Iron & Steel Producers": 8,
+    "relevancy_score_Industrial Machinery & Goods": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Industrial Machinery & Goods",
+    "optionB": "Iron & Steel Producers",
+    "optionC": "Both have the same number",
+    "optionD": "Neither has any 'Quantitative' metrics",
+    "optionE": "Not enough information to determine"
+  },
+  {
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "single_hop",
+    "question": "What are the common metrics shared between Industrial Machinery & Goods and Iron & Steel Producers industries, if any?",
+    "answer": "A",
+    "temperature": 0,
+    "version": "cross",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Iron & Steel Producers": 8,
+    "relevancy_score_Industrial Machinery & Goods": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Energy Management: Total energy consumed, percentage grid electricity, percentage renewable",
+    "optionB": "Fuel Economy & Emissions in Use-phase: Sales-weighted fleet fuel efficiency",
+    "optionC": "Greenhouse Gas Emissions: Gross global Scope 1 emissions",
+    "optionD": "Water Management: Total fresh water withdrawn, percentage recycled",
+    "optionE": "No common metrics"
+  },
+  {
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What units of measurement are used across the Industrial Machinery & Goods and Iron & Steel Producers industries for measuring energy management metrics?",
+    "answer": "A",
+    "temperature": 0,
+    "version": "cross",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Iron & Steel Producers": 8,
+    "relevancy_score_Industrial Machinery & Goods": 8,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Gigajoules (GJ), Percentage (%)",
+    "optionB": "Metric tons (t), Percentage (%)",
+    "optionC": "Gallons per hour, Watts per gallon",
+    "optionD": "Thousand cubic meters (m\u00b3), Percentage (%)",
+    "optionE": "Grams per kilowatt-hour"
+  },
+  {
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Are there any common sustainability topics between the Industrial Machinery & Goods and Iron & Steel Producers industries? If so, how do their reporting requirements differ?",
+    "answer": "C",
+    "temperature": 0,
+    "version": "cross",
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "faithfulness_score": 6,
+    "relevancy_score_Iron & Steel Producers": 8,
+    "relevancy_score_Industrial Machinery & Goods": 7,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Both industries report on Energy Management, but Iron & Steel Producers also report on Water Management.",
+    "optionB": "Both industries report on Greenhouse Gas Emissions, but Industrial Machinery & Goods also report on Fuel Economy & Emissions in Use-phase.",
+    "optionC": "Both industries report on Energy Management, but Industrial Machinery & Goods also report on Fuel Economy & Emissions in Use-phase.",
+    "optionD": "Both industries report on Water Management, but Iron & Steel Producers also report on Supply Chain Management.",
+    "optionE": "Both industries report on Supply Chain Management, but Industrial Machinery & Goods also report on Energy Management."
+  },
+  {
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "qa_type": "single_hop",
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Metals & Mining and Electrical & Electronic Equipment industries?",
+    "answer": "A",
+    "temperature": 0.2,
+    "version": "cross",
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Metals & Mining": 9,
+    "relevancy_score_Electrical & Electronic Equipment": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Metals & Mining",
+    "optionB": "Electrical & Electronic Equipment",
+    "optionC": "Both have the same number",
+    "optionD": "Neither has 'Quantitative' metrics",
+    "optionE": "It cannot be determined from the given information"
+  },
+  {
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "qa_type": "single_hop",
+    "question": "What topics should I report on for Metals & Mining and Electrical & Electronic Equipment industries?",
+    "answer": "A",
+    "temperature": 0.2,
+    "version": "cross",
+    "specificity_score": 4,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "faithfulness_score": 6,
+    "relevancy_score_Metals & Mining": 8,
+    "relevancy_score_Electrical & Electronic Equipment": 7,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Greenhouse Gas Emissions, Energy Management, Water Management, Product Lifecycle Management",
+    "optionB": "Greenhouse Gas Emissions, Energy Management, Water Management",
+    "optionC": "Energy Management, Product Lifecycle Management",
+    "optionD": "Greenhouse Gas Emissions, Energy Management",
+    "optionE": "Energy Management, Water Management, Product Lifecycle Management"
+  },
+  {
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What units of measurement are used across the Metals & Mining and Electrical & Electronic Equipment industries for measuring energy consumption?",
+    "answer": "A",
+    "temperature": 0.2,
+    "version": "cross",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "E"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Metals & Mining": 8,
+    "relevancy_score_Electrical & Electronic Equipment": 8,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Gigajoules (GJ)",
+    "optionB": "Kilowatt hours (kWh)",
+    "optionC": "Metric tons (t)",
+    "optionD": "Cubic meters (m\u00b3)",
+    "optionE": "Percentage (%)"
+  },
+  {
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Are there any common sustainability topics between the Metals & Mining and Electrical & Electronic Equipment industries? If so, how do their reporting requirements differ?",
+    "answer": "E",
+    "temperature": 0.2,
+    "version": "cross",
+    "specificity_score": 7,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "E"
+    ],
+    "faithfulness_score": 6,
+    "relevancy_score_Metals & Mining": 8,
+    "relevancy_score_Electrical & Electronic Equipment": 7,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Both industries report on Energy Management, but Metals & Mining includes water management while Electrical & Electronic Equipment includes product lifecycle management.",
+    "optionB": "Both industries report on Greenhouse Gas Emissions, but Metals & Mining includes energy management while Electrical & Electronic Equipment includes water management.",
+    "optionC": "Both industries report on Water Management, but Metals & Mining includes energy management while Electrical & Electronic Equipment includes greenhouse gas emissions.",
+    "optionD": "Both industries report on Product Lifecycle Management, but Metals & Mining includes greenhouse gas emissions while Electrical & Electronic Equipment includes energy management.",
+    "optionE": "Both industries report on Energy Management, but Metals & Mining includes greenhouse gas emissions while Electrical & Electronic Equipment includes product lifecycle management."
+  },
+  {
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ],
+    "qa_type": "single_hop",
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Oil & Gas - Exploration & Production and Electric Utilities & Power Generators industries?",
+    "answer": "A",
+    "temperature": 0.5,
+    "version": "cross",
+    "specificity_score": 7,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Oil & Gas - Exploration & Production": 8,
+    "relevancy_score_Electric Utilities & Power Generators": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Oil & Gas - Exploration & Production",
+    "optionB": "Electric Utilities & Power Generators",
+    "optionC": "Both have the same number",
+    "optionD": "Neither industry has 'Quantitative' metrics",
+    "optionE": "It cannot be determined from the provided information"
+  },
+  {
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ],
+    "qa_type": "single_hop",
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for both Oil & Gas - Exploration & Production and Electric Utilities & Power Generators industries.",
+    "answer": "D",
+    "temperature": 0.5,
+    "version": "cross",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "faithfulness_score": 6,
+    "relevancy_score_Oil & Gas - Exploration & Production": 8,
+    "relevancy_score_Electric Utilities & Power Generators": 7,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets for both industries",
+    "optionB": "Discussion of water management risks and strategies to mitigate those risks in Electric Utilities & Power Generators",
+    "optionC": "Discussion of how price and demand for hydrocarbons influence capital expenditure strategy in Oil & Gas - Exploration & Production",
+    "optionD": "All of the above",
+    "optionE": "None of the above"
+  },
+  {
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What units of measurement are used across the Electric Utilities & Power Generators and Oil & Gas - Exploration & Production industries for measuring water-related metrics?",
+    "answer": "A",
+    "temperature": 0.5,
+    "version": "cross",
+    "specificity_score": 7,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "E"
+    ],
+    "faithfulness_score": 6,
+    "relevancy_score_Electric Utilities & Power Generators": 8,
+    "relevancy_score_Oil & Gas - Exploration & Production": 2,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Thousand cubic meters (m\u00b3)",
+    "optionB": "Liters (L)",
+    "optionC": "Gallons (gal)",
+    "optionD": "Cubic feet (ft\u00b3)",
+    "optionE": "Cubic meters (m\u00b3)"
+  },
+  {
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Give me the codes for all the 'Discussion and Analysis' metrics in Table 1 for the Electric Utilities & Power Generators and Oil & Gas - Exploration & Production industries.",
+    "answer": "A",
+    "temperature": 0.5,
+    "version": "cross",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "D"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Electric Utilities & Power Generators": 8,
+    "relevancy_score_Oil & Gas - Exploration & Production": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "IF-EU-110a.3, IF-EU-140a.3, IF-EU-540a.2, EM-EP-110a.3, EM-EP-420a.4",
+    "optionB": "IF-EU-110a.1, IF-EU-140a.2, IF-EU-420a.2, EM-EP-110a.1, EM-EP-420a.2",
+    "optionC": "IF-EU-110a.2, IF-EU-140a.1, IF-EU-420a.3, EM-EP-110a.2, EM-EP-420a.3",
+    "optionD": "IF-EU-110a.3, IF-EU-140a.1, IF-EU-540a.1, EM-EP-110a.3, EM-EP-420a.1",
+    "optionE": "IF-EU-110a.2, IF-EU-140a.3, IF-EU-420a.2, EM-EP-110a.2, EM-EP-420a.4"
+  },
+  {
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "single_hop",
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Industrial Machinery & Goods and Iron & Steel Producers industries?",
+    "answer": "A",
+    "temperature": 0.5,
+    "version": "cross",
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Iron & Steel Producers": 8,
+    "relevancy_score_Industrial Machinery & Goods": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Industrial Machinery & Goods",
+    "optionB": "Iron & Steel Producers",
+    "optionC": "Both have the same number",
+    "optionD": "Neither have Quantitative metrics",
+    "optionE": "Cannot be determined from the document"
+  },
+  {
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "single_hop",
+    "question": "Which industry has a metric that involves a discussion of long-term and short-term strategy or plan to manage specific emissions in Table 1 between Industrial Machinery & Goods and Iron & Steel Producers industries?",
+    "answer": "B",
+    "temperature": 0.5,
+    "version": "cross",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score_Industrial Machinery & Goods": 3,
+    "relevancy_score_Iron & Steel Producers": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Industrial Machinery & Goods",
+    "optionB": "Iron & Steel Producers",
+    "optionC": "Both have such metrics",
+    "optionD": "Neither have such metrics",
+    "optionE": "Cannot be determined from the document"
+  },
+  {
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Industrial Machinery & Goods and Iron & Steel Producers industries.",
+    "answer": "A",
+    "temperature": 0.5,
+    "version": "cross",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Industrial Machinery & Goods": 8,
+    "relevancy_score_Iron & Steel Producers": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "RT-IG-130a.1, RT-IG-410a.1, RT-IG-410a.2, RT-IG-410a.3, RT-IG-410a.4, EM-IS-110a.1, EM-IS-130a.1, EM-IS-130a.2, EM-IS-140a.1",
+    "optionB": "RT-IG-130a.1, RT-IG-410a.1, RT-IG-410a.2, EM-IS-110a.1, EM-IS-130a.1, EM-IS-130a.2",
+    "optionC": "RT-IG-130a.1, RT-IG-410a.1, RT-IG-410a.2, RT-IG-410a.3, EM-IS-110a.1, EM-IS-140a.1",
+    "optionD": "RT-IG-130a.1, RT-IG-410a.2, RT-IG-410a.3, EM-IS-110a.1, EM-IS-130a.2",
+    "optionE": "RT-IG-410a.1, RT-IG-410a.2, EM-IS-130a.1, EM-IS-130a.2, EM-IS-140a.1"
+  },
+  {
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Are there any common sustainability topics between Industrial Machinery & Goods and Iron & Steel Producers industries? If so, how do their reporting requirements differ?",
+    "answer": "A",
+    "temperature": 0.5,
+    "version": "cross",
+    "specificity_score": 7,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "faithfulness_score": 6,
+    "relevancy_score_Iron & Steel Producers": 8,
+    "relevancy_score_Industrial Machinery & Goods": 7,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Both industries cover Energy Management, but Industrial Machinery & Goods requires percentage grid electricity and renewable energy, while Iron & Steel Producers includes total fuel consumed, percentage coal, and natural gas.",
+    "optionB": "Both industries cover Greenhouse Gas Emissions, but Industrial Machinery & Goods focuses on fuel economy, while Iron & Steel Producers details emissions reduction plans.",
+    "optionC": "Both industries cover Water Management, but Industrial Machinery & Goods focuses on water recycling, while Iron & Steel Producers focuses on water stress regions.",
+    "optionD": "Both industries cover Supply Chain Management, but Industrial Machinery & Goods focuses on raw material sourcing, while Iron & Steel Producers focuses on supplier engagement.",
+    "optionE": "Both industries cover Emissions Management, but Industrial Machinery & Goods focuses on nitrogen oxides, while Iron & Steel Producers focuses on carbon dioxide."
+  },
+  {
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "qa_type": "single_hop",
+    "question": "Which industry has more 'Quantitative' metrics listed in Table 1 between the Metals & Mining and Electrical & Electronic Equipment industries?",
+    "answer": "A",
+    "temperature": 1.0,
+    "version": "cross",
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Metals & Mining": 8,
+    "relevancy_score_Electrical & Electronic Equipment": 8,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Metals & Mining",
+    "optionB": "Electrical & Electronic Equipment",
+    "optionC": "Both have the same number",
+    "optionD": "Information not available",
+    "optionE": "Not applicable"
+  },
+  {
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "qa_type": "single_hop",
+    "question": "What topics should I report on for the Metals & Mining and Electrical & Electronic Equipment industries?",
+    "answer": "B",
+    "temperature": 1.0,
+    "version": "cross",
+    "specificity_score": 5,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "B",
+      "D",
+      "E"
+    ],
+    "faithfulness_score": 6,
+    "relevancy_score_Metals & Mining": 8,
+    "relevancy_score_Electrical & Electronic Equipment": 7,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Greenhouse Gas Emissions, Water Management, Product Lifecycle Management",
+    "optionB": "Greenhouse Gas Emissions, Energy Management, Water Management",
+    "optionC": "Energy Management, Product Lifecycle Management",
+    "optionD": "Greenhouse Gas Emissions, Water Management",
+    "optionE": "Energy Management, Water Management"
+  },
+  {
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Give me the codes for all the 'Quantitative' metrics for Metals & Mining and Electrical & Electronic Equipment industries.",
+    "answer": "A",
+    "temperature": 1.0,
+    "version": "cross",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Metals & Mining": 10,
+    "relevancy_score_Electrical & Electronic Equipment": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "EM-MM-110a.1, EM-MM-130a.1, EM-MM-140a.1, EM-MM-140a.2, RT-EE-130a.1, RT-EE-410a.1",
+    "optionB": "EM-MM-110a.1, EM-MM-130a.1, EM-MM-140a.1, EM-MM-140a.2, RT-EE-410a.2",
+    "optionC": "EM-MM-110a.1, EM-MM-130a.1, EM-MM-140a.1, EM-MM-140a.2, RT-EE-000.A",
+    "optionD": "EM-MM-110a.1, EM-MM-140a.2, RT-EE-130a.1, RT-EE-410a.1, RT-EE-410a.3",
+    "optionE": "EM-MM-130a.1, EM-MM-140a.1, RT-EE-130a.1, RT-EE-410a.3, RT-EE-410a.1"
+  },
+  {
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What units of measurement are used across Metals & Mining and Electrical & Electronic Equipment industries for measuring energy management metrics?",
+    "answer": "B",
+    "temperature": 1.0,
+    "version": "cross",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score_Metals & Mining": 5,
+    "relevancy_score_Electrical & Electronic Equipment": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Metric tons (t) CO2-e, Percentage (%)",
+    "optionB": "Gigajoules (GJ), Percentage (%)",
+    "optionC": "Thousands of cubic meters (m\u00b3), Percentage (%)",
+    "optionD": "Gigawatts (GW), Percentage (%)",
+    "optionE": "Kilowatt hours (kWh), Percentage (%)"
+  },
+  {
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ],
+    "qa_type": "single_hop",
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Electric Utilities & Power Generators and Oil & Gas \u2013 Exploration & Production?",
+    "answer": "A",
+    "temperature": 1.0,
+    "version": "cross",
+    "specificity_score": 7,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 7,
+    "relevancy_score_Electric Utilities & Power Generators": 8,
+    "relevancy_score_Oil & Gas - Exploration & Production": 8,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Electric Utilities & Power Generators",
+    "optionB": "Oil & Gas \u2013 Exploration & Production",
+    "optionC": "Both have the same number",
+    "optionD": "This information is not disclosed",
+    "optionE": "It varies by company"
+  },
+  {
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ],
+    "qa_type": "single_hop",
+    "question": "Give me all the metrics that are in category 'Discussion and Analysis' for Electric Utilities & Power Generators and Oil & Gas \u2013 Exploration & Production industries.",
+    "answer": "E",
+    "temperature": 1.0,
+    "version": "cross",
+    "specificity_score": 4,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "E"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Electric Utilities & Power Generators": 8,
+    "relevancy_score_Oil & Gas - Exploration & Production": 7,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Greenhouse gas (GHG) emissions management strategies",
+    "optionB": "Water management risks and practices discussion",
+    "optionC": "Emissions reduction and capital expenditure strategies",
+    "optionD": "Long-term strategy for emissions management",
+    "optionE": "All of the above"
+  },
+  {
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Are there any common sustainability topics between Electric Utilities & Power Generators and Oil & Gas - Exploration & Production industries? If so, how do their reporting requirements differ?",
+    "answer": "A",
+    "temperature": 1.0,
+    "version": "cross",
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 5,
+    "relevancy_score_Electric Utilities & Power Generators": 8,
+    "relevancy_score_Oil & Gas - Exploration & Production": 7,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Yes, both industries report on Greenhouse Gas Emissions, but their reporting metrics are different.",
+    "optionB": "Yes, both industries report on Water Management, but their reporting metrics are the same.",
+    "optionC": "No, they do not have any common sustainability topics.",
+    "optionD": "Yes, both industries report on Nuclear Safety & Emergency Management, with identical metric requirements.",
+    "optionE": "Yes, both industries report on Greenhouse Gas Emissions, using identical metric requirements."
+  },
+  {
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Give me the codes for all the 'Discussion and Analysis' metrics in Table 1 for Electric Utilities & Power Generators and Oil & Gas - Exploration & Production industries.",
+    "answer": "A",
+    "temperature": 1.0,
+    "version": "cross",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Electric Utilities & Power Generators": 8,
+    "relevancy_score_Oil & Gas - Exploration & Production": 7,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "IF-EU-110a.3, EM-EP-110a.3, EM-EP-420a.4",
+    "optionB": "IF-EU-140a.3, IF-EU-110a.3, EM-EP-140a.4",
+    "optionC": "EM-EP-110a.3, EM-EP-140a.4",
+    "optionD": "IF-EU-110a.3, IF-EU-540a.2, EM-EP-110a.3",
+    "optionE": "IF-EU-140a.3, EM-EP-110a.3, EM-EP-420a.4"
+  },
+  {
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "qa_type": "single_hop",
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Metals & Mining and Electrical & Electronic Equipment industries?",
+    "answer": "A",
+    "temperature": 0.5,
+    "version": "cross",
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Metals & Mining": 8,
+    "relevancy_score_Electrical & Electronic Equipment": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Metals & Mining",
+    "optionB": "Electrical & Electronic Equipment",
+    "optionC": "Both have the same number",
+    "optionD": "Neither have 'Quantitative' metrics",
+    "optionE": "It's not specified in the document"
+  },
+  {
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "qa_type": "single_hop",
+    "question": "List the activity metrics for Metals & Mining and Electrical & Electronic Equipment industries.",
+    "answer": "C",
+    "temperature": 0.5,
+    "version": "cross",
+    "specificity_score": 7,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "faithfulness_score": 7,
+    "relevancy_score_Metals & Mining": 8,
+    "relevancy_score_Electrical & Electronic Equipment": 6,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Production of metal ores and finished metal products, Total number of employees",
+    "optionB": "Number of units produced by product category, Number of employees",
+    "optionC": "Production of metal ores and finished metal products, Number of units produced by product category",
+    "optionD": "Total energy consumed, Total fresh water withdrawn",
+    "optionE": "Percentage of products by revenue that contain IEC 62474 declarable substances, Number of incidents of non-compliance"
+  },
+  {
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Metals & Mining and Electrical & Electronic Equipment industries.",
+    "answer": "B",
+    "temperature": 0.5,
+    "version": "cross",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "B",
+      "E"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Metals & Mining": 10,
+    "relevancy_score_Electrical & Electronic Equipment": 10,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "EM-MM-110a.1, EM-MM-130a.1, EM-MM-140a.1, EM-MM-140a.2, RT-EE-130a.1, RT-EE-410a.1, RT-EE-410a.2, RT-EE-410a.3",
+    "optionB": "EM-MM-110a.1, EM-MM-130a.1, EM-MM-140a.1, EM-MM-140a.2, RT-EE-130a.1, RT-EE-410a.1",
+    "optionC": "EM-MM-110a.1, EM-MM-130a.1, EM-MM-140a.1, RT-EE-130a.1, RT-EE-410a.1",
+    "optionD": "EM-MM-110a.1, EM-MM-130a.1, RT-EE-130a.1, RT-EE-410a.1, RT-EE-410a.2",
+    "optionE": "EM-MM-110a.1, EM-MM-130a.1, EM-MM-140a.1, RT-EE-130a.1, RT-EE-410a.2, RT-EE-410a.3"
+  },
+  {
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Are there any common sustainability topics between Metals & Mining and Electrical & Electronic Equipment industries? If so, how do their reporting requirements differ?",
+    "answer": "C",
+    "temperature": 0.5,
+    "version": "cross",
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "faithfulness_score": 4,
+    "relevancy_score_Metals & Mining": 6,
+    "relevancy_score_Electrical & Electronic Equipment": 5,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Both industries focus on Energy Management, but Metals & Mining includes Water Management, which Electrical & Electronic Equipment does not.",
+    "optionB": "Both industries focus on Greenhouse Gas Emissions, but Metals & Mining includes Water Management, which Electrical & Electronic Equipment does not.",
+    "optionC": "Both industries focus on Energy Management, but Metals & Mining includes Greenhouse Gas Emissions, which Electrical & Electronic Equipment does not.",
+    "optionD": "Both industries focus on Water Management, but Metals & Mining includes Greenhouse Gas Emissions, which Electrical & Electronic Equipment does not.",
+    "optionE": "Both industries focus on Product Lifecycle Management, but Metals & Mining includes Water Management, which Electrical & Electronic Equipment does not."
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the code of the metric for the description of the methodology used to calculate financed emissions in the Commercial Banks industry?",
+    "answer": "E",
+    "temperature": 0,
+    "version": "local",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "E"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "FN-CB-1",
+    "optionB": "FN-CB-2",
+    "optionC": "FN-CB-3",
+    "optionD": "FN-CB-4",
+    "optionE": "FN-CB-5"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the category of the metric for the percentage of gross exposure included in the financed emissions calculation in the Commercial Banks industry?",
+    "answer": "B",
+    "temperature": 0,
+    "version": "local",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Discussion and Analysis",
+    "optionB": "Quantitative",
+    "optionC": "Qualitative",
+    "optionD": "Narrative",
+    "optionE": "Descriptive"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "For the listed requirement of describing the approach to incorporation of ESG factors in credit analysis, what does a company in the Commercial Banks industry need to do?",
+    "answer": "B",
+    "temperature": 0,
+    "version": "local",
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 6,
+    "relevancy_score_Commercial Banks": 8,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Describe the methodology used to calculate financed emissions",
+    "optionB": "Discuss the roles and responsibilities of employees involved",
+    "optionC": "Provide the number of loans screened according to the Equator Principles",
+    "optionD": "Disclose the gross exposure to carbon-related industries",
+    "optionE": "Calculate the percentage of undrawn loan commitments"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "Can you provide for me the unit of measure I should use for the metric of gross exposure to carbon-related industries in the Commercial Banks industry?",
+    "answer": "C",
+    "temperature": 0,
+    "version": "local",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "C"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Commercial Banks": 8,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Metric tons (t) CO2-e",
+    "optionB": "Number",
+    "optionC": "Presentation currency, Percentage %",
+    "optionD": "Percentage %",
+    "optionE": "Number, Presentation currency"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the category of the metric 'Percentage of gross exposure included in the financed emissions calculation' in the Commercial Banks industry and how should this metric be disclosed?",
+    "answer": "B",
+    "temperature": 0,
+    "version": "local",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score_Commercial Banks": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Discussion and Analysis; Disclose the methodology used to calculate financed emissions.",
+    "optionB": "Quantitative; Disclose the percentage of gross exposure to asset classes included in the financed emissions calculation.",
+    "optionC": "Quantitative; Describe the approach to incorporating ESG factors into credit analysis.",
+    "optionD": "Discussion and Analysis; Describe the methodology used to calculate financed emissions.",
+    "optionE": "Quantitative; Disclose the gross exposure to carbon-related industries by industry."
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the code of the metric 'Description of approach to incorporation of environmental, social, and governance (ESG) factors in credit analysis' in the Commercial Banks industry and how should this metric be disclosed?",
+    "answer": "A",
+    "temperature": 0,
+    "version": "local",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "FN-CB-410a.2; The entity shall describe its approach to incorporating ESG factors into its credit analysis.",
+    "optionB": "FN-CB-1; The entity shall disclose its gross exposure to carbon-related industries by industry.",
+    "optionC": "FN-CB-2; The entity shall disclose the percentage of gross exposure included in the financed emissions calculation.",
+    "optionD": "FN-CB-3; The entity shall disclose its absolute gross financed emissions by Scope 1, 2, and 3 emissions.",
+    "optionE": "FN-CB-5; The entity shall describe the methodology used to calculate financed emissions."
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Transition Risk Exposure' topic(s) in the Commercial Banks industry and how should these metrics be calculated?",
+    "answer": "A",
+    "temperature": 0,
+    "version": "local",
+    "specificity_score": 7,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "C",
+      "E"
+    ],
+    "faithfulness_score": 6,
+    "relevancy_score_Commercial Banks": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Metric tons (t) CO2-e, Presentation currency; Disclose absolute gross emissions and gross exposure by industry and asset class.",
+    "optionB": "Number, Presentation currency; Disclose the number and value of loans by segment.",
+    "optionC": "Percentage %; Disclose the percentage of gross exposure included in the financed emissions calculation.",
+    "optionD": "n/a; Describe the approach to incorporating ESG factors into credit analysis.",
+    "optionE": "Metric tons (t) CO2-e per unit of physical or economic output, Presentation currency; Disclose gross emissions intensity and gross exposure by industry and asset class."
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "For the listed 'Transition Risk Exposure' requirement, what metric should a company in the Commercial Banks industry use for 'gross emissions intensity' and how should this metric be calculated?",
+    "answer": "A",
+    "temperature": 0,
+    "version": "local",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Metric tons (t) CO2-e per unit of physical or economic output; Disclose emissions intensity of financed emissions by Scope 1, 2, and 3 emissions for each industry by asset class.",
+    "optionB": "Metric tons (t) CO2-e; Disclose absolute gross emissions by Scope 1, 2, and 3 emissions for each industry by asset class.",
+    "optionC": "Percentage %; Disclose the percentage of gross exposure included in the financed emissions calculation.",
+    "optionD": "n/a; Describe the approach to incorporating ESG factors into credit analysis.",
+    "optionE": "Number, Presentation currency; Disclose the number and value of loans by segment."
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the code for the metric related to the weight of end-of-life products and e-waste recovered in the Electronic Manufacturing Services & Original Design Manufacturing industry?",
+    "answer": "B",
+    "temperature": 0.5,
+    "version": "local",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "TC-ES-140a.1",
+    "optionB": "TC-ES-410a.1",
+    "optionC": "TC-ES-000.A",
+    "optionD": "TC-ES-000.B",
+    "optionE": "TC-ES-000.C"
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "single_hop",
+    "question": "What unit of measure should be used for the total water withdrawn metric in the Electronic Manufacturing Services & Original Design Manufacturing industry?",
+    "answer": "D",
+    "temperature": 0.5,
+    "version": "local",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Gallons",
+    "optionB": "Liters",
+    "optionC": "Metric tons",
+    "optionD": "Thousand cubic meters",
+    "optionE": "Cubic feet"
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "single_hop",
+    "question": "For the requirement related to water management, what must a company in the Electronic Manufacturing Services & Original Design Manufacturing industry disclose about water in regions with High or Extremely High Baseline Water Stress?",
+    "answer": "C",
+    "temperature": 0.5,
+    "version": "local",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Total water withdrawn only",
+    "optionB": "Total water consumed only",
+    "optionC": "Percentage of water withdrawn and consumed in such regions",
+    "optionD": "Water quality standards",
+    "optionE": "Sources of water"
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the category of the metric related to the number of manufacturing facilities in the Electronic Manufacturing Services & Original Design Manufacturing industry?",
+    "answer": "B",
+    "temperature": 0.5,
+    "version": "local",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Qualitative",
+    "optionB": "Quantitative",
+    "optionC": "Descriptive",
+    "optionD": "Analytical",
+    "optionE": "Comparative"
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the category of the 'Total water withdrawn' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry and how should this metric be calculated?",
+    "answer": "B",
+    "temperature": 0.5,
+    "version": "local",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Qualitative; by surveying local water authorities",
+    "optionB": "Quantitative; by measuring all sources of water in thousands of cubic meters",
+    "optionC": "Quantitative; by estimating based on local water usage patterns",
+    "optionD": "Qualitative; by assessing environmental impact reports",
+    "optionE": "Quantitative; by calculating water bills from municipal sources"
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the code of the 'Weight of end-of-life products and e-waste recovered' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry and how should this metric be calculated?",
+    "answer": "B",
+    "temperature": 0.5,
+    "version": "local",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "TC-ES-140a.1; by estimating total waste generated",
+    "optionB": "TC-ES-410a.1; by weighing recovered materials in metric tons",
+    "optionC": "TC-ES-000.B; by counting number of disposal sites",
+    "optionD": "TC-ES-000.C; by estimating based on product sales",
+    "optionE": "TC-ES-140a.1; by measuring landfill contributions"
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for the 'Water Management' topic in the Electronic Manufacturing Services & Original Design Manufacturing industry and how should these metrics be calculated?",
+    "answer": "C",
+    "temperature": 0.5,
+    "version": "local",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "C"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Gallons; by tracking municipal water usage",
+    "optionB": "Liters; by measuring water discharge",
+    "optionC": "Thousand cubic meters (m\u00b3), Percentage (%); by recording total water withdrawn and consumed",
+    "optionD": "Cubic feet; by calculating evaporation rates",
+    "optionE": "Cubic meters; by estimating based on production levels"
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "multi_hop",
+    "question": "For the listed 'Water Management' requirement, what metric should a company in the Electronic Manufacturing Services & Original Design Manufacturing industry use for water consumption and how should this metric be calculated?",
+    "answer": "D",
+    "temperature": 0.5,
+    "version": "local",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Total water consumed; by estimating based on total production output",
+    "optionB": "Total water withdrawn; by recording only municipal water supply usage",
+    "optionC": "Percentage of water stress; by measuring water returned to the same catchment area",
+    "optionD": "Total water consumed; by calculating water that evaporates and is incorporated into products",
+    "optionE": "Water recycled; by tracking wastewater treatment processes"
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the unit of measure for the activity metric 'Number of manufacturing facilities' in the Electronic Manufacturing Services & Original Design Manufacturing industry?",
+    "answer": "D",
+    "temperature": 1.0,
+    "version": "local",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Thousand cubic meters (m\u00b3)",
+    "optionB": "Metric tons (t)",
+    "optionC": "Square feet (ft\u00b2)",
+    "optionD": "Number",
+    "optionE": "Percentage (%)"
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the code for the water management metric concerning the total water withdrawn and consumed in regions with high water stress in the Electronic Manufacturing Services & Original Design Manufacturing industry?",
+    "answer": "A",
+    "temperature": 1.0,
+    "version": "local",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "TC-ES-140a.1",
+    "optionB": "TC-ES-410a.1",
+    "optionC": "TC-ES-000.A",
+    "optionD": "TC-ES-000.B",
+    "optionE": "TC-HW-100a.1"
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "single_hop",
+    "question": "What topics are covered in the 'Product Lifecycle Management' section of the Electronic Manufacturing Services & Original Design Manufacturing document?",
+    "answer": "B",
+    "temperature": 1.0,
+    "version": "local",
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 3,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 2,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Sources of water and regulatory risks related to water management",
+    "optionB": "End-of-life product recovery and recycling percentages",
+    "optionC": "Regulatory risks associated with carbon emissions",
+    "optionD": "Energy efficiency metrics for manufacturing processes",
+    "optionE": "Supply chain logistics efficiency"
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "single_hop",
+    "question": "For the 'Water Management' requirement, what does a company in the Electronic Manufacturing Services & Original Design Manufacturing industry need to disclose regarding water consumption?",
+    "answer": "C",
+    "temperature": 1.0,
+    "version": "local",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "C"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Total amount of water recycled",
+    "optionB": "Total amount of water evaporated",
+    "optionC": "Amount of water consumed, including water directly incorporated into the product",
+    "optionD": "Amount of fresh water obtained from ocean sources",
+    "optionE": "Proportion of water consumed returned to the original catchment area"
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the category of the metric 'Weight of end-of-life products and e-waste recovered, percentage recycled' in the Electronic Manufacturing Services & Original Design Manufacturing industry, and how should this metric be calculated?",
+    "answer": "E",
+    "temperature": 1.0,
+    "version": "local",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "E"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Quantitative; Calculated as the total weight recovered and percentage recycled.",
+    "optionB": "Qualitative; Estimated based on observational data.",
+    "optionC": "Descriptive; Described narratively in reports.",
+    "optionD": "Predictive; Estimated using predictive models.",
+    "optionE": "Quantitative; Calculated as the weight in metric tons of recovered materials and the percentage subsequently recycled."
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Can you provide the code of the metric related to 'Total water withdrawn and consumed in regions with High or Extremely High Baseline Water Stress' in the Electronic Manufacturing Services & Original Design Manufacturing industry and explain how it should be calculated?",
+    "answer": "C",
+    "temperature": 1.0,
+    "version": "local",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "C"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "TC-ES-410a.1; Disclose metric tons of water, fraction representing stress level.",
+    "optionB": "TC-ES-000.C; Quantify in liters extracted from each source.",
+    "optionC": "TC-ES-140a.1; Calculate total water withdrawn and consumed in thousands of cubic meters and as a percentage in stress regions.",
+    "optionD": "TC-ES-000.A; Report number of facilities using water.",
+    "optionE": "TC-ES-140a.1; Utilize gallons for measurement and assess against local regulations."
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What topics are covered in the Water Management section of the sustainability document for the Electronic Manufacturing Services & Original Design Manufacturing industry, and what are the key metrics that companies need to report on?",
+    "answer": "C",
+    "temperature": 1.0,
+    "version": "local",
+    "specificity_score": 7,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "C"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Energy Usage; Report on total energy produced and used.",
+    "optionB": "Emission Levels; Disclose carbon footprint measurements.",
+    "optionC": "Water Management; Report on total water use, consumption, and stress region percentages.",
+    "optionD": "Recycling Programs; Provide data on recycling efficiency.",
+    "optionE": "Land Use; Detail changes in land utilization."
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the unit of measure for the 'Number of manufacturing facilities' in the Electronic Manufacturing Services & Original Design Manufacturing industry, and how should this metric be disclosed in a sustainability report?",
+    "answer": "A",
+    "temperature": 1.0,
+    "version": "local",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Number; Disclose as a quantitative measure of total facilities.",
+    "optionB": "Square feet; Measure area of each facility.",
+    "optionC": "Metric tons; Aggregate weight of facility materials.",
+    "optionD": "Percentage; Proportionate share of total industry facilities.",
+    "optionE": "Cubic meters; Volume analysis of facility space."
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the unit of measure for the 'Total water withdrawn' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry?",
+    "answer": "D",
+    "temperature": 0.2,
+    "version": "local",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Cubic meters (m\u00b3)",
+    "optionB": "Gallons",
+    "optionC": "Liters",
+    "optionD": "Thousand cubic meters (m\u00b3)",
+    "optionE": "Cubic feet"
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the code for the 'Weight of end-of-life products and e-waste recovered, percentage recycled' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry?",
+    "answer": "B",
+    "temperature": 0.2,
+    "version": "local",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "TC-ES-140a.1",
+    "optionB": "TC-ES-410a.1",
+    "optionC": "TC-ES-000.A",
+    "optionD": "TC-ES-000.B",
+    "optionE": "TC-ES-000.C"
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the category of the 'Number of manufacturing facilities' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry?",
+    "answer": "B",
+    "temperature": 0.2,
+    "version": "local",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Qualitative",
+    "optionB": "Quantitative",
+    "optionC": "Descriptive",
+    "optionD": "Analytical",
+    "optionE": "Comparative"
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "single_hop",
+    "question": "On what page can I find details about 'Water Management' for the Electronic Manufacturing Services & Original Design Manufacturing industry?",
+    "answer": "D",
+    "temperature": 0.2,
+    "version": "local",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "C",
+      "D",
+      "E"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Page 545",
+    "optionB": "Page 546",
+    "optionC": "Page 547",
+    "optionD": "Page 548",
+    "optionE": "Page 549"
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the code of the metric related to water management in the Electronic Manufacturing Services & Original Design Manufacturing industry and how should this metric be calculated?",
+    "answer": "A",
+    "temperature": 0.2,
+    "version": "local",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "TC-ES-140a.1; Disclose total water withdrawn and consumed, percentage in high stress regions",
+    "optionB": "TC-ES-410a.1; Disclose weight of e-waste recovered, percentage recycled",
+    "optionC": "TC-ES-000.A; Disclose number of manufacturing facilities",
+    "optionD": "TC-ES-000.B; Disclose area of manufacturing facilities",
+    "optionE": "TC-ES-000.C; Disclose number of employees"
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the category of the metric related to product lifecycle management in the Electronic Manufacturing Services & Original Design Manufacturing industry and how should this metric be disclosed?",
+    "answer": "A",
+    "temperature": 0.2,
+    "version": "local",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Quantitative; Disclose weight of end-of-life products and e-waste recovered, percentage recycled",
+    "optionB": "Qualitative; Disclose strategies for reducing e-waste",
+    "optionC": "Quantitative; Disclose total water withdrawn and consumed",
+    "optionD": "Qualitative; Disclose water management strategies",
+    "optionE": "Quantitative; Disclose number of employees"
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Can you provide the unit of measure for the metric related to water management in the Electronic Manufacturing Services & Original Design Manufacturing industry and how should this metric be calculated?",
+    "answer": "A",
+    "temperature": 0.2,
+    "version": "local",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Thousand cubic meters (m\u00b3), Percentage (%); Disclose total water withdrawn and consumed, percentage in high stress regions",
+    "optionB": "Metric tons (t), Percentage (%); Disclose weight of e-waste recovered, percentage recycled",
+    "optionC": "Number; Disclose number of manufacturing facilities",
+    "optionD": "Square feet (ft\u00b2); Disclose area of manufacturing facilities",
+    "optionE": "Number; Disclose number of employees"
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "multi_hop",
+    "question": "For the listed water management requirement, what metric should a company in the Electronic Manufacturing Services & Original Design Manufacturing industry use for water consumption and how should this metric be calculated?",
+    "answer": "A",
+    "temperature": 0.2,
+    "version": "local",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Total water consumed; Disclose in thousands of cubic meters, percentage in high stress regions",
+    "optionB": "Total water withdrawn; Disclose in thousands of cubic meters, percentage in high stress regions",
+    "optionC": "Weight of e-waste recovered; Disclose in metric tons, percentage recycled",
+    "optionD": "Number of manufacturing facilities; Disclose in number",
+    "optionE": "Area of manufacturing facilities; Disclose in square feet"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the code of the metric that describes the approach to incorporation of ESG factors in credit analysis for the Commercial Banks industry?",
+    "answer": "A",
+    "temperature": 0.2,
+    "version": "local",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "FN-CB-410a.2",
+    "optionB": "FN-CB-1",
+    "optionC": "FN-CB-2",
+    "optionD": "FN-CB-3",
+    "optionE": "FN-CB-5"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the category of the metric for gross exposure to carbon-related industries in the Commercial Banks industry?",
+    "answer": "B",
+    "temperature": 0.2,
+    "version": "local",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Discussion and Analysis",
+    "optionB": "Quantitative",
+    "optionC": "Qualitative",
+    "optionD": "Narrative",
+    "optionE": "Descriptive"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "Can you provide for me the unit of measure I should use for the metric 'Percentage of gross exposure included in the financed emissions calculation' in the Commercial Banks industry?",
+    "answer": "D",
+    "temperature": 0.2,
+    "version": "local",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Metric tons (t) CO2-e",
+    "optionB": "Number",
+    "optionC": "Presentation currency",
+    "optionD": "Percentage %",
+    "optionE": "USD"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "For the listed requirement 'Transition Risk Exposure', what metric should a company in the Commercial Banks industry use for absolute gross emissions by Scope?",
+    "answer": "C",
+    "temperature": 0.2,
+    "version": "local",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "C"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "FN-CB-410a.2",
+    "optionB": "FN-CB-1",
+    "optionC": "FN-CB-3",
+    "optionD": "FN-CB-4",
+    "optionE": "FN-CB-5"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the category of the metric 'Percentage of gross exposure included in the financed emissions calculation' in the Commercial Banks industry and how should this metric be disclosed?",
+    "answer": "B",
+    "temperature": 0.2,
+    "version": "local",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score_Commercial Banks": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Discussion and Analysis; Disclose the methodology used",
+    "optionB": "Quantitative; Disclose the percentage of gross exposure included in the financed emissions calculation",
+    "optionC": "Quantitative; Disclose the absolute gross emissions",
+    "optionD": "Discussion and Analysis; Describe the approach to incorporation of ESG factors",
+    "optionE": "Quantitative; Disclose the gross emissions intensity"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the code of the metric 'absolute gross (a) Scope 1 emissions, (b) Scope 2 emissions, (c) Scope 3 emissions' in the Commercial Banks industry and how should this metric be calculated?",
+    "answer": "C",
+    "temperature": 0.2,
+    "version": "local",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "C"
+    ],
+    "faithfulness_score": 6,
+    "relevancy_score_Commercial Banks": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "FN-CB-1; Calculate using the funded carrying amounts",
+    "optionB": "FN-CB-2; Calculate using the full amount of undrawn loan commitments",
+    "optionC": "FN-CB-3; Calculate using the GHG Protocol Corporate Value Chain (Scope 3) Standard",
+    "optionD": "FN-CB-4; Calculate using the presentation currency",
+    "optionE": "FN-CB-5; Calculate using the contractual amounts for derivatives"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Transition Risk Exposure' topic(s) in the Commercial Banks industry and how should these metrics be calculated?",
+    "answer": "A",
+    "temperature": 0.2,
+    "version": "local",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ],
+    "faithfulness_score": 6,
+    "relevancy_score_Commercial Banks": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Metric tons (t) CO2-e; Calculate using the GHG Protocol",
+    "optionB": "Percentage %; Calculate using the presentation currency",
+    "optionC": "Number; Calculate using the Equator Principles",
+    "optionD": "Metric tons (t) CO2-e per unit; Calculate using the GICS code",
+    "optionE": "Presentation currency; Calculate using the funded carrying amounts"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "For the listed 'Incorporation of Environmental, Social, and Governance Factors in Credit Analysis' requirement, what metric should a company in the Commercial Banks industry use for 'Description of approach to incorporation of ESG factors in credit analysis' and how should this metric be calculated?",
+    "answer": "B",
+    "temperature": 0.2,
+    "version": "local",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 6,
+    "relevancy_score_Commercial Banks": 8,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Quantitative; Calculate using the funded carrying amounts",
+    "optionB": "Discussion and Analysis; Describe the approach to incorporating ESG factors into credit analysis",
+    "optionC": "Quantitative; Calculate using the GHG Protocol",
+    "optionD": "Discussion and Analysis; Describe the methodology used to calculate financed emissions",
+    "optionE": "Quantitative; Calculate using the presentation currency"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the category of the metric 'Description of approach to incorporation of environmental, social, and governance (ESG) factors in credit analysis' in the Commercial Banks industry?",
+    "answer": "B",
+    "temperature": 0.5,
+    "version": "local",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Quantitative",
+    "optionB": "Discussion and Analysis",
+    "optionC": "Qualitative",
+    "optionD": "Financial",
+    "optionE": "Narrative"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the unit of measure for the metric 'Percentage of gross exposure included in the financed emissions calculation' in the Commercial Banks industry (as listed in the relevant table)?",
+    "answer": "D",
+    "temperature": 0.5,
+    "version": "local",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Metric tons (t) CO2-e",
+    "optionB": "Presentation currency",
+    "optionC": "Number",
+    "optionD": "Percentage %",
+    "optionE": "n/a"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the code of the metric 'Gross exposure to carbon-related industries, by industry' in the Commercial Banks industry (as listed in the relevant table)?",
+    "answer": "C",
+    "temperature": 0.5,
+    "version": "local",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "C"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "FN-CB-410a.2",
+    "optionB": "FN-CB-000.A",
+    "optionC": "FN-CB-1",
+    "optionD": "FN-CB-3",
+    "optionE": "FN-CB-5"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "For the listed requirement 'Description of the methodology used to calculate financed emissions', what metric should a company in the Commercial Banks industry use for this?",
+    "answer": "D",
+    "temperature": 0.5,
+    "version": "local",
+    "specificity_score": 6,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score_Commercial Banks": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Absolute gross emissions",
+    "optionB": "Emissions intensity",
+    "optionC": "Gross exposure",
+    "optionD": "Financed emissions",
+    "optionE": "Asset classification"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the category of the metric 'Gross exposure to carbon-related industries' in the Commercial Banks industry and how should this metric be calculated?",
+    "answer": "A",
+    "temperature": 0.5,
+    "version": "local",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Quantitative; calculated using the carrying amount of funded amounts and full amount of undrawn loan commitments.",
+    "optionB": "Discussion and Analysis; calculated using qualitative assessment of industry exposure.",
+    "optionC": "Quantitative; calculated using only the funded carrying amounts.",
+    "optionD": "Discussion and Analysis; calculated using both funded and unfunded amounts.",
+    "optionE": "Quantitative; calculated using the percentage of exposure to carbon-related industries."
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the code of the metric 'Percentage of gross exposure included in the financed emissions calculation' in the Commercial Banks industry and how should this metric be disclosed?",
+    "answer": "B",
+    "temperature": 0.5,
+    "version": "local",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score_Commercial Banks": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "FN-CB-1; disclosed as a percentage of total gross exposure.",
+    "optionB": "FN-CB-2; disclosed as a percentage of gross exposure to asset classes included in the financed emissions calculation.",
+    "optionC": "FN-CB-3; disclosed as a narrative on the exposure included.",
+    "optionD": "FN-CB-4; disclosed as a percentage of funded amounts only.",
+    "optionE": "FN-CB-5; disclosed as a qualitative analysis of exposure."
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "For the 'Incorporation of Environmental, Social, and Governance Factors in Credit Analysis' topic, what is the unit of measure for the metric 'Description of approach to incorporation of ESG factors in credit analysis' in the Commercial Banks industry?",
+    "answer": "C",
+    "temperature": 0.5,
+    "version": "local",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "C"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Percentage",
+    "optionB": "Metric tons (t) CO2-e",
+    "optionC": "n/a",
+    "optionD": "Number",
+    "optionE": "Presentation currency"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the category of the metric 'absolute gross Scope 1, Scope 2, and Scope 3 emissions' for each industry by asset class in the Commercial Banks industry and how should this metric be disclosed?",
+    "answer": "A",
+    "temperature": 0.5,
+    "version": "local",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 8,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Quantitative; disclosed in metric tons (t) CO2-e for each industry by asset class.",
+    "optionB": "Discussion and Analysis; disclosed as qualitative impacts of emissions.",
+    "optionC": "Quantitative; disclosed only for carbon-related industries.",
+    "optionD": "Discussion and Analysis; disclosed in narrative form for each industry.",
+    "optionE": "Quantitative; disclosed in metric tons (t) CO2-e without specifying industry."
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the code of the metric related to water management in the Electronic Manufacturing Services & Original Design Manufacturing industry?",
+    "answer": "A",
+    "temperature": 0,
+    "version": "local",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "TC-ES-140a.1",
+    "optionB": "TC-ES-410a.1",
+    "optionC": "TC-ES-000.A",
+    "optionD": "TC-ES-000.B",
+    "optionE": "TC-ES-000.C"
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the unit of measure for the 'Weight of end-of-life products and e-waste recovered, percentage recycled' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry?",
+    "answer": "B",
+    "temperature": 0,
+    "version": "local",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Thousand cubic meters (m\u00b3), Percentage (%)",
+    "optionB": "Metric tons (t), Percentage (%)",
+    "optionC": "Number",
+    "optionD": "Square feet (ft\u00b2)",
+    "optionE": "Kilograms (kg)"
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "single_hop",
+    "question": "For the listed water management requirement, what does a company in the Electronic Manufacturing Services & Original Design Manufacturing industry need to do regarding water consumption?",
+    "answer": "B",
+    "temperature": 0,
+    "version": "local",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Disclose the amount of water withdrawn from non-freshwater sources only.",
+    "optionB": "Disclose the amount of water consumed in its operations.",
+    "optionC": "Disclose only the water evaporated during withdrawal.",
+    "optionD": "Disclose the amount of water returned to the same catchment area.",
+    "optionE": "Disclose the amount of water used for energy recovery."
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the category of the 'Number of manufacturing facilities' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry?",
+    "answer": "B",
+    "temperature": 0,
+    "version": "local",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Qualitative",
+    "optionB": "Quantitative",
+    "optionC": "Descriptive",
+    "optionD": "Analytical",
+    "optionE": "Comparative"
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the code of the 'Total water withdrawn' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry and how should this metric be calculated?",
+    "answer": "A",
+    "temperature": 0,
+    "version": "local",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "TC-ES-140a.1; Disclose the amount of water withdrawn from all sources in thousands of cubic meters.",
+    "optionB": "TC-ES-410a.1; Disclose the weight of end-of-life products recovered in metric tons.",
+    "optionC": "TC-ES-000.A; Disclose the number of manufacturing facilities.",
+    "optionD": "TC-ES-000.B; Disclose the area of manufacturing facilities in square feet.",
+    "optionE": "TC-ES-000.C; Disclose the number of employees."
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the category of the 'Weight of end-of-life products and e-waste recovered' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry and how should this metric be disclosed?",
+    "answer": "A",
+    "temperature": 0,
+    "version": "local",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Quantitative; Disclose the weight in metric tons and percentage recycled.",
+    "optionB": "Qualitative; Disclose the environmental impact of e-waste.",
+    "optionC": "Quantitative; Disclose the number of products recycled.",
+    "optionD": "Qualitative; Disclose the methods used for recycling.",
+    "optionE": "Quantitative; Disclose the cost savings from recycling."
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for the 'Water Management' topic in the Electronic Manufacturing Services & Original Design Manufacturing industry and how should these metrics be calculated?",
+    "answer": "A",
+    "temperature": 0,
+    "version": "local",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Thousand cubic meters (m\u00b3), Percentage (%); Disclose total water withdrawn and consumed, and percentage in high-stress regions.",
+    "optionB": "Metric tons (t), Percentage (%); Disclose total water recycled and reused.",
+    "optionC": "Number; Disclose the number of water sources used.",
+    "optionD": "Square feet (ft\u00b2); Disclose the area of water bodies affected.",
+    "optionE": "Number; Disclose the number of water conservation initiatives."
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "multi_hop",
+    "question": "For the listed 'Product Lifecycle Management' requirement, what metric should a company in the Electronic Manufacturing Services & Original Design Manufacturing industry use for e-waste and how should this metric be calculated?",
+    "answer": "A",
+    "temperature": 0,
+    "version": "local",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "A"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Weight of end-of-life products and e-waste recovered, percentage recycled; Calculate the weight in metric tons and percentage of recycled material.",
+    "optionB": "Total water withdrawn and consumed; Calculate the volume in cubic meters.",
+    "optionC": "Number of manufacturing facilities; Count the total facilities.",
+    "optionD": "Area of manufacturing facilities; Measure in square feet.",
+    "optionE": "Number of employees; Count the total employees."
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "On what page can I find details about the Incorporation of Environmental, Social, and Governance Factors in Credit Analysis for the Commercial Banks industry?",
+    "answer": "B",
+    "temperature": 1.0,
+    "version": "local",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Page 142",
+    "optionB": "Page 146",
+    "optionC": "Page 148",
+    "optionD": "Page 150",
+    "optionE": "Page 152"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the code of the metric related to the 'Percentage of gross exposure included in the financed emissions calculation' in the Commercial Banks industry?",
+    "answer": "B",
+    "temperature": 1.0,
+    "version": "local",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "FN-CB-1",
+    "optionB": "FN-CB-2",
+    "optionC": "FN-CB-3",
+    "optionD": "FN-CB-4",
+    "optionE": "FN-CB-5"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "Can you provide for me the unit of measure I should use for the 'gross emissions intensity by (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, for each industry by asset class' metric in the Commercial Banks industry?",
+    "answer": "C",
+    "temperature": 1.0,
+    "version": "local",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "C"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Metric tons (t) CO2-e",
+    "optionB": "Presentation currency",
+    "optionC": "Metric tons (t) CO2-e per unit of physical or economic output, Presentation currency",
+    "optionD": "Number, Presentation currency",
+    "optionE": "Percentage %"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the category of the metric 'Description of approach to incorporation of environmental, social, and governance (ESG) factors in credit analysis' for the Commercial Banks industry?",
+    "answer": "C",
+    "temperature": 1.0,
+    "version": "local",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "C"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Quantitative",
+    "optionB": "Financial",
+    "optionC": "Discussion and Analysis",
+    "optionD": "Environmental",
+    "optionE": "Risk Assessment"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the code of the metric for \"absolute gross Scope 3 emissions\" in the Commercial Banks industry and how should this metric be calculated?",
+    "answer": "D",
+    "temperature": 1.0,
+    "version": "local",
+    "specificity_score": 9,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "D"
+    ],
+    "faithfulness_score": 4,
+    "relevancy_score_Commercial Banks": 3,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "FN-CB-410a.2; Description of approach",
+    "optionB": "FN-CB-1; Presentation in currency",
+    "optionC": "FN-CB-2; Measure in percentage",
+    "optionD": "FN-CB-3; Use GHG Protocol",
+    "optionE": "FN-CB-5; Attribute emissions"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the category of the metric for \"percentage of gross exposure included in the financed emissions calculation\" in the Commercial Banks industry and how should this metric be disclosed?",
+    "answer": "B",
+    "temperature": 1.0,
+    "version": "local",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "B"
+    ],
+    "faithfulness_score": 7,
+    "relevancy_score_Commercial Banks": 8,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Qualitative; Describe the method",
+    "optionB": "Quantitative; Disclose as a percentage",
+    "optionC": "Discussion and Analysis; Discuss exposure",
+    "optionD": "Qualitative; Discuss exclusions",
+    "optionE": "Quantitative; Describe presentation currency"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "For the listed 'gross exposure to carbon-related industries' requirement, what metric should a company in the Commercial Banks industry use for disclosure and how should this metric be calculated?",
+    "answer": "C",
+    "temperature": 1.0,
+    "version": "local",
+    "specificity_score": 8,
+    "one_and_only_one_correct_answer": false,
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "faithfulness_score": 9,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "optionA": "Use metric FN-CB-410a.2; Calculate using ESG factors",
+    "optionB": "Use metric FN-CB-000.B; Calculate using personal loans",
+    "optionC": "Use metric FN-CB-1; Calculate gross exposure by industry",
+    "optionD": "Use metric FN-CB-2; Calculate as percentage of gross exposure",
+    "optionE": "Use metric FN-CB-5; Calculate using financed emissions methodology"
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the unit of measure for the \"number and value of checking and savings accounts\" activity metric in the Commercial Banks industry as listed in the relevant table?",
+    "answer": "C",
+    "temperature": 1.0,
+    "version": "local",
+    "specificity_score": 10,
+    "one_and_only_one_correct_answer": true,
+    "correct_answers": [
+      "C"
+    ],
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 10,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "optionA": "Metric tons, Currency",
+    "optionB": "Number, Percentage",
+    "optionC": "Number, Presentation currency",
+    "optionD": "Currency, Percentage",
+    "optionE": "Metric tons, Presentation currency"
+  }
+]

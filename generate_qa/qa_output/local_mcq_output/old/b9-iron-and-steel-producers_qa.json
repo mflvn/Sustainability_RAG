@@ -1,0 +1,422 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the two primary methods of steel production mentioned in the industry description?",
+    "optionA": "Open Hearth Furnace and Blast Furnace",
+    "optionB": "Basic Oxygen Furnace and Electric Arc Furnace",
+    "optionC": "Continuous Casting and Ingot Casting",
+    "optionD": "Induction Furnace and Cupola Furnace",
+    "optionE": "Rotary Kiln and Reverberatory Furnace",
+    "answer": "B. Basic Oxygen Furnace and Electric Arc Furnace",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+    "page": "70",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the document, what is the preferred source for Global Warming Potential (GWP) values?",
+    "optionA": "World Resources Institute Guidelines",
+    "optionB": "United Nations Framework Convention on Climate Change",
+    "optionC": "Intergovernmental Panel on Climate Change Fifth Assessment Report (2014)",
+    "optionD": "Environmental Protection Agency Climate Change Indicators",
+    "optionE": "World Meteorological Organization Global Atmosphere Watch Programme",
+    "answer": "C. Intergovernmental Panel on Climate Change Fifth Assessment Report (2014)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+    "page": "71",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What is the scope of renewable energy from biomass sources limited to, according to the document?",
+    "optionA": "Any biomass source regardless of certification",
+    "optionB": "Only biomass from agricultural waste",
+    "optionC": "Biomass certified by government agencies",
+    "optionD": "Materials certified to a third-party standard, eligible sources according to Green-e Framework, or eligible for state renewable portfolio standard",
+    "optionE": "Exclusively forest-derived biomass",
+    "answer": "D. Materials certified to a third-party standard, eligible sources according to Green-e Framework, or eligible for state renewable portfolio standard",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+    "page": "76",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "How is 'fresh water' defined in the context of water management metrics?",
+    "optionA": "Water with less than 500 parts per million of dissolved solids",
+    "optionB": "Any water that has been treated in a purification plant",
+    "optionC": "Water that has less than 1000 parts per million of dissolved solids, or as defined by local regulations",
+    "optionD": "Only naturally occurring spring or river water",
+    "optionE": "Water with a pH level between 6.5 and 8.5",
+    "answer": "C. Water that has less than 1000 parts per million of dissolved solids, or as defined by local regulations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+    "page": "79",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might an iron and steel company's choice of production process impact its greenhouse gas emissions and energy costs?",
+    "optionA": "The choice has no impact on emissions or energy costs",
+    "optionB": "Electric arc furnaces always result in higher emissions and costs",
+    "optionC": "Basic oxygen furnaces always result in lower emissions and costs",
+    "optionD": "The choice between electric arc and basic oxygen furnaces influences the use of fossil fuels vs. electricity, affecting both emissions and energy costs",
+    "optionE": "The production process only affects product quality, not emissions or costs",
+    "answer": "D. The choice between electric arc and basic oxygen furnaces influences the use of fossil fuels vs. electricity, affecting both emissions and energy costs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+    "page": "71, 75",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "What factors should an iron and steel company consider when developing a strategy to manage Scope 1 emissions?",
+    "optionA": "Only the total amount of emissions produced",
+    "optionB": "The types of GHGs emitted, emission reduction targets, and regulatory environment",
+    "optionC": "Solely the cost of implementing emission reduction technologies",
+    "optionD": "The company's market share and competitor strategies",
+    "optionE": "Only the availability of renewable energy sources",
+    "answer": "B. The types of GHGs emitted, emission reduction targets, and regulatory environment",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+    "page": "71-74",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How does water management in the iron and steel industry relate to both operational and financial risks?",
+    "optionA": "It only affects the quality of steel produced",
+    "optionB": "Water management has no impact on financial risks",
+    "optionC": "It can lead to production disruptions and increased costs due to scarcity, regulations, and community issues",
+    "optionD": "Water management only impacts environmental compliance",
+    "optionE": "It solely affects the company's public image",
+    "answer": "C. It can lead to production disruptions and increased costs due to scarcity, regulations, and community issues",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+    "page": "79",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How can an iron and steel company's approach to supply chain management of raw materials impact its business risks?",
+    "optionA": "Supply chain management has no impact on business risks",
+    "optionB": "It only affects the quality of the final steel products",
+    "optionC": "Proactive management can mitigate risks from environmental and social issues in mining operations",
+    "optionD": "It only impacts the cost of raw materials",
+    "optionE": "Supply chain management is solely about ensuring timely delivery of materials",
+    "answer": "C. Proactive management can mitigate risks from environmental and social issues in mining operations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+    "page": "80",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is the difference between Basic Oxygen Furnace (BOF) and Electric Arc Furnace (EAF) methods in steel production?",
+    "optionA": "BOF uses scrap steel while EAF uses iron ore",
+    "optionB": "BOF produces higher quality steel than EAF",
+    "optionC": "BOF uses iron ore as input, while EAF uses scrap steel",
+    "optionD": "EAF is more energy-efficient than BOF",
+    "optionE": "There is no significant difference between the two methods",
+    "answer": "C. BOF uses iron ore as input, while EAF uses scrap steel",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "69",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "How is 'renewable energy' defined in the context of energy management for iron and steel producers?",
+    "optionA": "Energy from non-fossil fuel sources",
+    "optionB": "Energy from sources replenished faster than their depletion rate",
+    "optionC": "Solar and wind energy only",
+    "optionD": "Any energy not produced from coal",
+    "optionE": "Energy produced on-site by the company",
+    "answer": "B. Energy from sources replenished faster than their depletion rate",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "75-76",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What does 'Scope 1 emissions' refer to in the context of greenhouse gas emissions for iron and steel producers?",
+    "optionA": "Indirect emissions from purchased electricity",
+    "optionB": "Emissions from the company's supply chain",
+    "optionC": "Direct emissions from owned or controlled sources",
+    "optionD": "Emissions from the use of sold products",
+    "optionE": "All greenhouse gas emissions associated with the company",
+    "answer": "C. Direct emissions from owned or controlled sources",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "71-72",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is meant by 'Baseline Water Stress' in the context of water management for iron and steel producers?",
+    "optionA": "The minimum amount of water required for steel production",
+    "optionB": "The ratio of total water withdrawals to total renewable water supplies",
+    "optionC": "The percentage of water recycled in the production process",
+    "optionD": "The amount of freshwater available in a given region",
+    "optionE": "The level of water pollution in nearby water sources",
+    "answer": "B. The ratio of total water withdrawals to total renewable water supplies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "79-80",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might the implementation of emissions-limiting regulations impact the financial performance of iron and steel producers?",
+    "optionA": "It would have no impact on financial performance",
+    "optionB": "It would only affect companies in developing countries",
+    "optionC": "It could result in additional regulatory compliance costs and risks",
+    "optionD": "It would automatically increase profits due to improved efficiency",
+    "optionE": "It would only impact companies using electric arc furnaces",
+    "answer": "C. It could result in additional regulatory compliance costs and risks",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+    "page": "71",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "Why is energy management particularly important for iron and steel producers in the context of sustainability?",
+    "optionA": "Energy costs are negligible in steel production",
+    "optionB": "Energy management only affects product quality",
+    "optionC": "It influences both production costs and environmental impact",
+    "optionD": "Energy management is only relevant for small-scale producers",
+    "optionE": "It only affects the company's public image",
+    "answer": "C. It influences both production costs and environmental impact",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+    "page": "75",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How can water scarcity impact the operations of iron and steel producers?",
+    "optionA": "It has no impact as steel production doesn't require water",
+    "optionB": "It only affects the aesthetics of the final product",
+    "optionC": "It can lead to production disruptions and increased operational costs",
+    "optionD": "Water scarcity only impacts agricultural industries",
+    "optionE": "It improves the quality of steel produced",
+    "answer": "C. It can lead to production disruptions and increased operational costs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+    "page": "79",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "What broader implications does the management of iron ore and coking coal sourcing have for iron and steel producers?",
+    "optionA": "It only affects the color of the final steel product",
+    "optionB": "It has no impact on the company's operations or reputation",
+    "optionC": "It can influence operational stability, regulatory compliance, and corporate reputation",
+    "optionD": "It only matters for companies operating in developing countries",
+    "optionE": "It exclusively impacts the taste of steel products",
+    "answer": "C. It can influence operational stability, regulatory compliance, and corporate reputation",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+    "page": "80",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What specific procedures are iron and steel producers required to follow when calculating their Scope 1 greenhouse gas emissions?",
+    "optionA": "Use only company-specific emission factors",
+    "optionB": "Calculate emissions based on production output only",
+    "optionC": "Follow the methodology in The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard",
+    "optionD": "Report emissions only for CO2 and methane",
+    "optionE": "Use regional averages for all emission calculations",
+    "answer": "C. Follow the methodology in The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+    "page": "71-72",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the required procedure for iron and steel producers to disclose their use of renewable energy?",
+    "optionA": "Only report on-site generated renewable energy",
+    "optionB": "Include all grid electricity as renewable",
+    "optionC": "Report only solar and wind energy use",
+    "optionD": "Disclose renewable energy consumption as a percentage of total energy consumed, including specific criteria for renewable sources",
+    "optionE": "Report renewable energy use only if it exceeds 50% of total energy consumption",
+    "answer": "D. Disclose renewable energy consumption as a percentage of total energy consumed, including specific criteria for renewable sources",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+    "page": "75-76",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the correct procedure for iron and steel producers to calculate the percentage of fuel consumed that is coal?",
+    "optionA": "Divide coal consumed by total energy consumed",
+    "optionB": "Divide coal consumed (in GJ) by total fuel consumed (in GJ)",
+    "optionC": "Calculate based on the weight of coal used",
+    "optionD": "Use the monetary value of coal compared to other fuels",
+    "optionE": "Estimate based on industry averages",
+    "answer": "B. Divide coal consumed (in GJ) by total fuel consumed (in GJ)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+    "page": "77",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the required procedure for iron and steel producers to manage environmental and social risks in their iron ore and/or coking coal supply chain?",
+    "optionA": "Focus solely on cost reduction in the supply chain",
+    "optionB": "Ignore environmental and social issues in supplier countries",
+    "optionC": "Discuss policies and procedures for managing risks, including screening, codes of conduct, audits, and certifications",
+    "optionD": "Only consider risks related to material quality",
+    "optionE": "Delegate all responsibility to suppliers",
+    "answer": "C. Discuss policies and procedures for managing risks, including screening, codes of conduct, audits, and certifications",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+    "page": "80",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the implementation of energy management strategies impact the competitiveness of iron and steel producers in the global market?",
+    "optionA": "By increasing production costs and reducing profit margins",
+    "optionB": "By improving operational efficiency and reducing energy-related expenses",
+    "optionC": "By limiting production capacity and market share",
+    "optionD": "By increasing regulatory compliance costs without any benefits",
+    "optionE": "By having no significant impact on competitiveness",
+    "answer": "B. By improving operational efficiency and reducing energy-related expenses",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+    "page": "75-78",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How could the adoption of water management practices in regions with high water stress influence an iron and steel company's long-term sustainability and stakeholder relationships?",
+    "optionA": "It would have no significant impact on the company's operations or relationships",
+    "optionB": "It would increase operational costs without any benefits",
+    "optionC": "It would improve resource efficiency and strengthen community relations",
+    "optionD": "It would reduce production capacity and market competitiveness",
+    "optionE": "It would only benefit the company's public image without any operational improvements",
+    "answer": "C. It would improve resource efficiency and strengthen community relations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+    "page": "79-80",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "What potential long-term benefits could iron and steel producers gain by investing in renewable energy sources for their operations?",
+    "optionA": "Increased dependence on fossil fuels and higher operational costs",
+    "optionB": "Reduced energy security and increased supply chain risks",
+    "optionC": "Lower greenhouse gas emissions and improved regulatory compliance",
+    "optionD": "Decreased production efficiency and lower product quality",
+    "optionE": "Higher energy costs without any environmental benefits",
+    "answer": "C. Lower greenhouse gas emissions and improved regulatory compliance",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+    "page": "75-78",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the increasing global focus on climate change and greenhouse gas emissions impact the long-term strategy and operations of iron and steel producers?",
+    "optionA": "It will have no significant impact as iron and steel production methods are already optimized",
+    "optionB": "It may lead to increased costs due to carbon pricing, but won't change production methods",
+    "optionC": "It could drive innovation in low-carbon steel production technologies and reshape the industry",
+    "optionD": "It will only affect producers in developed countries, giving an advantage to those in developing nations",
+    "optionE": "It will result in a rapid shift to exclusively using electric arc furnaces within the next 5 years",
+    "answer": "C: It could drive innovation in low-carbon steel production technologies and reshape the industry",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+    "page": "71-74",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a sustainability disclosure topic for the Iron & Steel Producers industry in the given content?",
+    "optionA": "Greenhouse Gas Emissions",
+    "optionB": "Energy Management",
+    "optionC": "Water Management",
+    "optionD": "Supply Chain Management",
+    "optionE": "Waste Management",
+    "answer": "E. Waste Management",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+    "page": "69",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following greenhouse gases is NOT explicitly mentioned as part of the Scope 1 emissions disclosure requirements for iron and steel producers?",
+    "optionA": "Carbon dioxide (CO2)",
+    "optionB": "Methane (CH4)",
+    "optionC": "Nitrous oxide (N2O)",
+    "optionD": "Sulfur hexafluoride (SF6)",
+    "optionE": "Ozone (O3)",
+    "answer": "E. Ozone (O3)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+    "page": "71-72",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT included in the scope of renewable energy sources for the energy management disclosure in the iron and steel industry?",
+    "optionA": "Geothermal energy",
+    "optionB": "Wind energy",
+    "optionC": "Solar energy",
+    "optionD": "Hydroelectric energy",
+    "optionE": "Nuclear energy",
+    "answer": "E. Nuclear energy",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+    "page": "75-76",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a specific risk factor for iron and steel producers when managing their supply chain for iron ore and coking coal?",
+    "optionA": "Environmental issues",
+    "optionB": "Social issues",
+    "optionC": "Political situations",
+    "optionD": "Local labor conditions",
+    "optionE": "Technological obsolescence",
+    "answer": "E. Technological obsolescence",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+    "page": "80",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  }
+]

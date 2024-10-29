@@ -1,0 +1,3 @@
+| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |
+|-------|--------|----------|------------------|------|
+| Energy Management in Retail | (1) Total energy consumed, (2) percent- age grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | HC-DR-130a.1 |

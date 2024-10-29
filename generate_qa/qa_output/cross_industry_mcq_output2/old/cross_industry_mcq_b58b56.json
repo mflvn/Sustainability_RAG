@@ -1,0 +1,146 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When reporting on the environmental footprint of hardware infrastructure for both Internet Media & Services and Software & IT Services industries, which of the following is NOT a required disclosure according to IFRS standards?",
+    "optionA": "Total energy consumed",
+    "optionB": "Percentage of energy from grid electricity",
+    "optionC": "Percentage of energy from renewable sources",
+    "optionD": "Total water withdrawn",
+    "optionE": "Carbon emissions per unit of data processed",
+    "answer": "E. Carbon emissions per unit of data processed",
+    "explanation": "Both industries are required to disclose total energy consumed, percentage of energy from grid electricity, percentage of energy from renewable sources, and total water withdrawn. Carbon emissions per unit of data processed is not explicitly mentioned as a required disclosure in the IFRS standards for either industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services"
+    ],
+    "pages": [
+      "560",
+      "578"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "According to IFRS standards, which of the following is a required component of the discussion on integrating environmental considerations into strategic planning for data center needs for both Internet Media & Services and Software & IT Services industries?",
+    "optionA": "Detailed cost analysis of energy-efficient technologies",
+    "optionB": "Comparison of data center performance against industry benchmarks",
+    "optionC": "Impact of environmental factors on decisions regarding siting, design, construction, refurbishment, and operations of data centers",
+    "optionD": "Projected energy savings from future data center upgrades",
+    "optionE": "Analysis of competitor's data center environmental strategies",
+    "answer": "C. Impact of environmental factors on decisions regarding siting, design, construction, refurbishment, and operations of data centers",
+    "explanation": "Both industries are required to discuss how environmental factors impact the entity's decisions regarding the siting, design, construction, refurbishment, and operations of data centers. This includes consideration of location-based environmental factors and environmental regulations.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services"
+    ],
+    "pages": [
+      "563",
+      "581"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of renewable energy consumed for both Internet Media & Services and Software & IT Services industries, which of the following sources should NOT be included according to IFRS standards?",
+    "optionA": "Renewable fuel consumed by the entity",
+    "optionB": "Renewable energy directly produced by the entity",
+    "optionC": "Renewable energy purchased through a power purchase agreement (PPA) with explicit RECs",
+    "optionD": "Renewable portion of the electricity grid mix outside the entity's control",
+    "optionE": "Green-e Energy Certified utility program purchases",
+    "answer": "D. Renewable portion of the electricity grid mix outside the entity's control",
+    "explanation": "According to the IFRS standards for both industries, the renewable portion of the electricity grid mix that is outside of the control or influence of the entity is explicitly excluded from the scope of renewable energy calculation.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services"
+    ],
+    "pages": [
+      "561-562",
+      "579-580"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When reporting on water consumption for both Internet Media & Services and Software & IT Services industries, which of the following is NOT considered as water consumption according to IFRS standards?",
+    "optionA": "Water that evaporates during withdrawal, usage, and discharge",
+    "optionB": "Water that is directly incorporated into the entity's product or service",
+    "optionC": "Water that is indirectly incorporated into the entity's product or service",
+    "optionD": "Water that returns to the same catchment area from which it was withdrawn",
+    "optionE": "Water that is returned to another catchment area or the sea",
+    "answer": "D. Water that returns to the same catchment area from which it was withdrawn",
+    "explanation": "According to IFRS standards for both industries, water consumption is defined as water that evaporates, is incorporated into products/services, or does not return to the same catchment area. Water that returns to the same catchment area from which it was withdrawn is not considered as consumed.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services"
+    ],
+    "pages": [
+      "562-563",
+      "580-581"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing the Internet Media & Services industry with the Software & IT Services industry in terms of sustainability reporting, which of the following statements is correct?",
+    "optionA": "Only the Internet Media & Services industry is required to report on water stress",
+    "optionB": "The Software & IT Services industry has additional requirements for reporting on systemic risks from technology disruptions",
+    "optionC": "The Internet Media & Services industry has more detailed requirements for reporting on renewable energy sources",
+    "optionD": "Only the Software & IT Services industry is required to discuss environmental considerations in data center planning",
+    "optionE": "The two industries have identical reporting requirements for environmental footprint of hardware infrastructure",
+    "answer": "B. The Software & IT Services industry has additional requirements for reporting on systemic risks from technology disruptions",
+    "explanation": "While both industries have similar requirements for reporting on environmental footprint of hardware infrastructure, the Software & IT Services industry has additional metrics and discussion requirements related to managing systemic risks from technology disruptions, including performance issues, service disruptions, and business continuity risks.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services"
+    ],
+    "pages": [
+      "559-563",
+      "576-583"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the activity metrics differ between the Internet Media & Services industry and the Software & IT Services industry in IFRS sustainability reporting?",
+    "optionA": "Internet Media & Services reports on user activity, while Software & IT Services reports on licenses/subscriptions",
+    "optionB": "Software & IT Services reports on data processing capacity, while Internet Media & Services does not",
+    "optionC": "Internet Media & Services reports on amount of data storage, while Software & IT Services does not",
+    "optionD": "Software & IT Services reports on cloud-based percentages, while Internet Media & Services does not",
+    "optionE": "The activity metrics are identical for both industries",
+    "answer": "A. Internet Media & Services reports on user activity, while Software & IT Services reports on licenses/subscriptions",
+    "explanation": "The main difference in activity metrics is that Internet Media & Services reports on an entity-defined measure of user activity, while Software & IT Services reports on the number of licenses or subscriptions and the percentage that are cloud-based. Both industries report on data processing capacity and amount of data storage.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services"
+    ],
+    "pages": [
+      "559",
+      "576"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ]
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing Scope 1 greenhouse gas emissions for the Pulp and Paper Products industry, which of the following gases must be included?",
+    "optionA": "Only carbon dioxide (CO\u2082)",
+    "optionB": "Carbon dioxide (CO\u2082) and methane (CH\u2084) only",
+    "optionC": "The seven GHGs covered under the Kyoto Protocol",
+    "optionD": "Only gases directly related to paper production",
+    "optionE": "Carbon dioxide (CO\u2082), methane (CH\u2084), and nitrous oxide (N\u2082O) only",
+    "answer": "C. The seven GHGs covered under the Kyoto Protocol",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "456",
+    "industries": [
+      "b43-pulp-and-paper-products"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "In the context of energy management disclosures for the Pulp and Paper Products industry, how should the percentage of energy consumed from biomass be calculated?",
+    "optionA": "Biomass energy consumption divided by total renewable energy consumption",
+    "optionB": "Biomass energy consumption divided by total energy consumption",
+    "optionC": "Biomass energy consumption divided by grid electricity consumption",
+    "optionD": "Biomass energy consumption divided by fossil fuel consumption",
+    "optionE": "Biomass energy consumption divided by self-generated energy",
+    "answer": "B. Biomass energy consumption divided by total energy consumption",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "459-460",
+    "industries": [
+      "b43-pulp-and-paper-products"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing water management risks for the Pulp and Paper Products industry, which of the following is NOT considered a risk associated with water withdrawals and consumption?",
+    "optionA": "Operating in water-stressed regions",
+    "optionB": "Volatility in water costs",
+    "optionC": "Stakeholder perceptions related to water withdrawals",
+    "optionD": "Restrictions to withdrawals due to regulations",
+    "optionE": "Increased profits from water-intensive products",
+    "answer": "E. Increased profits from water-intensive products",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "463",
+    "industries": [
+      "b43-pulp-and-paper-products"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing the percentage of wood fiber sourced from third-party certified forestlands, how should a company handle wood fiber that is certified to multiple third-party certifications?",
+    "optionA": "Only count it towards the certification with the highest standards",
+    "optionB": "Divide it equally among all applicable certifications",
+    "optionC": "Include it in calculations for each relevant certification",
+    "optionD": "Only count it towards the most recently obtained certification",
+    "optionE": "Exclude it from all calculations to avoid double-counting",
+    "answer": "C. Include it in calculations for each relevant certification",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "467",
+    "industries": [
+      "b43-pulp-and-paper-products"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the total energy consumed for disclosure in the Pulp and Paper Products industry, which of the following energy sources should NOT be included?",
+    "optionA": "Purchased electricity",
+    "optionB": "Direct fuel usage",
+    "optionC": "Heating and cooling energy",
+    "optionD": "Steam energy",
+    "optionE": "Energy sold to other entities",
+    "answer": "E. Energy sold to other entities",
+    "reference": "Energy Management",
+    "page": "459-460",
+    "industries": [
+      "b43-pulp-and-paper-products"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "In the context of water management for the Pulp and Paper Products industry, how is water consumption defined?",
+    "optionA": "All water withdrawn from sources",
+    "optionB": "Water that evaporates during usage",
+    "optionC": "Water returned to the same catchment area",
+    "optionD": "Water used for cooling purposes",
+    "optionE": "Total water discharged",
+    "answer": "B. Water that evaporates during usage",
+    "reference": "Water Management",
+    "page": "462-463",
+    "industries": [
+      "b43-pulp-and-paper-products"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of recycled and recovered fiber procured for the Pulp & Paper Products industry, which of the following materials should NOT be considered as recycled content?",
+    "optionA": "Post-consumer material from households",
+    "optionB": "Pre-consumer material diverted from the waste stream",
+    "optionC": "Material that meets the FSC definition of reclaimed material",
+    "optionD": "Rework material capable of being reclaimed within the same process",
+    "optionE": "Returns of material from the distribution chain",
+    "answer": "D. Rework material capable of being reclaimed within the same process",
+    "reference": "Supply Chain Management",
+    "page": "468-469",
+    "industries": [
+      "b43-pulp-and-paper-products"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When preparing a sustainability report for a pulp and paper company, which of the following represents a unique challenge in reporting greenhouse gas (GHG) emissions?",
+    "optionA": "Calculating emissions from office electricity use",
+    "optionB": "Reporting emissions from company-owned vehicles",
+    "optionC": "Accounting for emissions from biomass energy sources",
+    "optionD": "Measuring emissions from employee commuting",
+    "optionE": "Estimating emissions from purchased goods and services",
+    "answer": "C. Accounting for emissions from biomass energy sources",
+    "reference": "Greenhouse Gas Emissions",
+    "page": "456-458",
+    "industries": [
+      "b43-pulp-and-paper-products"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "In the context of water management reporting for a pulp and paper company, which of the following represents a unique industry-specific challenge?",
+    "optionA": "Reporting total water withdrawn",
+    "optionB": "Calculating water consumption",
+    "optionC": "Identifying regions with water stress",
+    "optionD": "Balancing water recycling with energy consumption and waste generation",
+    "optionE": "Measuring rainwater collection",
+    "answer": "D. Balancing water recycling with energy consumption and waste generation",
+    "reference": "Water Management",
+    "page": "462-465",
+    "industries": [
+      "b43-pulp-and-paper-products"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When reporting on supply chain management for a pulp and paper company, which unique challenge must be addressed regarding fiber sourcing?",
+    "optionA": "Tracking the number of suppliers",
+    "optionB": "Reporting on supplier diversity",
+    "optionC": "Calculating transportation emissions",
+    "optionD": "Verifying sustainable forestry practices of non-certified fiber sources",
+    "optionE": "Assessing supplier financial stability",
+    "answer": "D. Verifying sustainable forestry practices of non-certified fiber sources",
+    "reference": "Supply Chain Management",
+    "page": "466-470",
+    "industries": [
+      "b43-pulp-and-paper-products"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When preparing a sustainability report for a pulp and paper company, which of the following represents a unique challenge in balancing the use of recycled fiber?",
+    "optionA": "Determining the appropriate forest certification standards",
+    "optionB": "Calculating Scope 3 emissions from transportation",
+    "optionC": "Optimizing recycled fiber use while managing environmental and economic trade-offs",
+    "optionD": "Measuring water consumption in regions with high water stress",
+    "optionE": "Reporting on the energy efficiency of paper-making machines",
+    "answer": "C. Optimizing recycled fiber use while managing environmental and economic trade-offs",
+    "reference": "Supply Chain Management",
+    "page": "466-470",
+    "industries": [
+      "b43-pulp-and-paper-products"
+    ]
+  }
+]

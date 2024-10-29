@@ -1,0 +1,317 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the three approaches to incorporation of ESG factors in investment management, as defined by the PRI Reporting Framework?",
+    "optionA": "Screening, sustainability themed investment, and integration of ESG",
+    "optionB": "Risk assessment, performance measurement, and client reporting",
+    "optionC": "Asset allocation, portfolio construction, and risk management",
+    "optionD": "Fundamental analysis, technical analysis, and quantitative analysis",
+    "optionE": "Proxy voting, engagement, and divestment",
+    "answer": "A. Screening, sustainability themed investment, and integration of ESG",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "136",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the document, what is the definition of 'financed emissions' in the context of asset management?",
+    "optionA": "Emissions from the asset management company's own operations",
+    "optionB": "Emissions from the companies in which the asset manager invests",
+    "optionC": "Emissions from the transportation of financial assets",
+    "optionD": "The portion of gross emissions of the investee attributed to the investments made by the entity on behalf of a third party",
+    "optionE": "Emissions from the financial transactions processed by the asset manager",
+    "answer": "D. The portion of gross emissions of the investee attributed to the investments made by the entity on behalf of a third party",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "141-142",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What is the primary reason for asset management companies to consider ESG factors in their investment decisions, according to the document?",
+    "optionA": "To comply with government regulations",
+    "optionB": "To attract more clients",
+    "optionC": "To fulfill their fiduciary responsibility to clients",
+    "optionD": "To reduce operational costs",
+    "optionE": "To improve their public image",
+    "answer": "C. To fulfill their fiduciary responsibility to clients",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "135",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the two quantitative activity metrics specifically mentioned for the Asset Management & Custody Activities industry?",
+    "optionA": "Total assets under management (AUM) and total revenue",
+    "optionB": "Total assets under custody and total number of clients",
+    "optionC": "Total assets under management (AUM) and total assets under custody and supervision",
+    "optionD": "Total revenue and number of employees",
+    "optionE": "Total market capitalization and total assets under management (AUM)",
+    "answer": "C. Total assets under management (AUM) and total assets under custody and supervision",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "133",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "In the context of proxy voting and investee engagement, what is the recommended escalation process when company dialogue is failing, according to the International Corporate Governance Network (ICGN) Global Stewardship Principles?",
+    "optionA": "Immediately exit the investment",
+    "optionB": "Only submit shareholder resolutions",
+    "optionC": "Engage in a series of escalating actions, from expressing concerns to corporate representatives to potentially exiting the investment",
+    "optionD": "Solely focus on making public statements",
+    "optionE": "Take no action and wait for the company to improve",
+    "answer": "C. Engage in a series of escalating actions, from expressing concerns to corporate representatives to potentially exiting the investment",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "140",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How do transition risks and financed emissions calculations relate to an asset management company's investment strategy and potential financial outcomes?",
+    "optionA": "They are unrelated concepts with no impact on investment strategy",
+    "optionB": "Transition risks only affect companies in the energy sector",
+    "optionC": "Calculating financed emissions helps identify and assess transition risks, which can lead to better investment decisions, potentially improving returns and attracting more AUM",
+    "optionD": "Financed emissions calculations are only relevant for green bonds",
+    "optionE": "Transition risks and financed emissions only matter for regulatory compliance, not investment performance",
+    "answer": "C. Calculating financed emissions helps identify and assess transition risks, which can lead to better investment decisions, potentially improving returns and attracting more AUM",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "141-142",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might an asset management company's approach to ESG factor incorporation and its ability to calculate financed emissions impact its long-term financial performance?",
+    "optionA": "It has no impact on financial performance",
+    "optionB": "It only affects the company's reputation",
+    "optionC": "It can lead to increased performance fees and AUM, strengthening market share",
+    "optionD": "It only impacts short-term investment returns",
+    "optionE": "It exclusively affects the company's ability to attract new clients",
+    "answer": "C. It can lead to increased performance fees and AUM, strengthening market share",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "135, 141",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What does the term 'sustainability themed investing' refer to in asset management?",
+    "optionA": "Investing only in companies with high ESG ratings",
+    "optionB": "Avoiding investments in fossil fuel companies",
+    "optionC": "Investment in themes or assets specifically related to sustainability, such as clean energy or green technology",
+    "optionD": "Investing in companies that have signed the UN Global Compact",
+    "optionE": "Focusing investments on companies with strong governance practices",
+    "answer": "C: Investment in themes or assets specifically related to sustainability, such as clean energy or green technology",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "135",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What does 'integration of ESG issues' mean in the context of investment management?",
+    "optionA": "Only investing in companies with perfect ESG scores",
+    "optionB": "Excluding all companies with poor environmental records",
+    "optionC": "Creating separate ESG-focused funds",
+    "optionD": "The systematic and explicit inclusion of material ESG factors into investment analysis and investment decisions",
+    "optionE": "Engaging with company management on social issues",
+    "answer": "D: The systematic and explicit inclusion of material ESG factors into investment analysis and investment decisions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "135",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is meant by 'emissions intensity' in the context of financed emissions?",
+    "optionA": "The total amount of greenhouse gases emitted by a company",
+    "optionB": "The carbon footprint of an investment portfolio",
+    "optionC": "The amount of Scope 1, 2, and 3 emissions per unit of economic activity, such as revenue or AUM",
+    "optionD": "The percentage of a portfolio invested in high-emitting sectors",
+    "optionE": "The rate at which emissions are increasing in a given industry",
+    "answer": "C: The amount of Scope 1, 2, and 3 emissions per unit of economic activity, such as revenue or AUM",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "142",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might an asset management company's approach to proxy voting on environmental and social issues impact its overall investment strategy?",
+    "optionA": "It has no impact on investment strategy",
+    "optionB": "It only affects the company's public image",
+    "optionC": "It can influence investment decisions and portfolio composition",
+    "optionD": "It only matters for socially responsible investment funds",
+    "optionE": "It exclusively impacts the company's relationship with regulators",
+    "answer": "C. It can influence investment decisions and portfolio composition",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "138-139",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "What potential consequences might an asset management company face if it fails to effectively manage and disclose its approach to ESG incorporation and financed emissions?",
+    "optionA": "No significant consequences",
+    "optionB": "Only minor reputational damage",
+    "optionC": "Reduced investment performance, loss of AUM, and decreased market share",
+    "optionD": "Increased profitability due to lower operational costs",
+    "optionE": "Improved relationships with regulatory bodies",
+    "answer": "C. Reduced investment performance, loss of AUM, and decreased market share",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "135, 141",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "What is the significance of an asset management company's escalation process for engagements when company dialogue is failing?",
+    "optionA": "It is only relevant for proxy voting",
+    "optionB": "It demonstrates the company's commitment to responsible investing and can influence investee behavior",
+    "optionC": "It is a legal requirement for all asset managers",
+    "optionD": "It only applies to environmental issues",
+    "optionE": "It has no impact on investment decisions",
+    "answer": "B. It demonstrates the company's commitment to responsible investing and can influence investee behavior",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "140",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the document, what should be included in an entity's description of its approach to ESG incorporation?",
+    "optionA": "Only the financial performance of ESG-focused investments",
+    "optionB": "Parties responsible, roles and responsibilities, research approach, and incorporation into strategies",
+    "optionC": "List of excluded companies based on ESG criteria",
+    "optionD": "Historical returns of ESG vs non-ESG portfolios",
+    "optionE": "Marketing materials for ESG-themed products",
+    "answer": "B: Parties responsible, roles and responsibilities, research approach, and incorporation into strategies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "136-137",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is required in the disclosure of an entity's proxy voting approach according to the document?",
+    "optionA": "Only the number of votes cast in favor of management",
+    "optionB": "The process for making decisions, defining materiality, and communicating with company management",
+    "optionC": "A list of all companies where proxies were voted",
+    "optionD": "The personal opinions of the entity's CEO on voting matters",
+    "optionE": "The financial impact of each proxy vote on the portfolio",
+    "answer": "B: The process for making decisions, defining materiality, and communicating with company management",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "138-139",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "In calculating financed emissions, what information must an entity disclose if less than 100% of AUM is included?",
+    "optionA": "Only the percentage of AUM included",
+    "optionB": "An explanation for exclusions including type of assets and associated amount of AUM",
+    "optionC": "The names of excluded clients",
+    "optionD": "The potential emissions of excluded assets",
+    "optionE": "A plan to include 100% of AUM in the next reporting period",
+    "answer": "B: An explanation for exclusions including type of assets and associated amount of AUM",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "141",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the document, what are the key components that should be included in an asset management company's description of its oversight and accountability approach to ESG incorporation?",
+    "optionA": "Only the formal oversight individuals involved",
+    "optionB": "The criteria used in assessing the quality of ESG incorporation",
+    "optionC": "Just the roles and responsibilities of employees involved",
+    "optionD": "The frequency of ESG-related meetings",
+    "optionE": "Formal oversight individuals, roles and responsibilities of employees, and criteria for assessing ESG incorporation quality",
+    "answer": "E. Formal oversight individuals, roles and responsibilities of employees, and criteria for assessing ESG incorporation quality",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "136-137",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "What are the potential implications of an asset management firm not considering transition risks in their investment decision-making process?",
+    "optionA": "It would have no impact on their investment performance",
+    "optionB": "It could lead to improved short-term returns",
+    "optionC": "It might result in reduced exposure to regulatory scrutiny",
+    "optionD": "It could potentially lead to diminished investment returns and loss of market share",
+    "optionE": "It would only affect firms investing in fossil fuel industries",
+    "answer": "D. It could potentially lead to diminished investment returns and loss of market share",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "141",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the calculation and disclosure of financed emissions impact an asset management firm's strategy and client relationships?",
+    "optionA": "It would have no impact on strategy or client relationships",
+    "optionB": "It could lead to a loss of clients concerned about privacy",
+    "optionC": "It might result in increased costs without any benefits",
+    "optionD": "It could potentially drive changes in investment strategies and enhance transparency for clients",
+    "optionE": "It would only benefit firms specializing in green investments",
+    "answer": "D. It could potentially drive changes in investment strategies and enhance transparency for clients",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "141-143",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "What are the potential benefits and challenges of incorporating scenario analysis for ESG trends at the portfolio level?",
+    "optionA": "It would only increase costs without providing any valuable insights",
+    "optionB": "It might lead to overly conservative investment strategies",
+    "optionC": "It could provide a competitive advantage but might be resource-intensive to implement",
+    "optionD": "It would only be useful for firms focusing on environmental investments",
+    "optionE": "It would have no impact on investment decision-making processes",
+    "answer": "C. It could provide a competitive advantage but might be resource-intensive to implement",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "137",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a required disclosure in the calculation of financed emissions?",
+    "optionA": "Absolute gross Scope 1 emissions",
+    "optionB": "Absolute gross Scope 2 emissions",
+    "optionC": "Absolute gross Scope 3 emissions",
+    "optionD": "Associated amount of total AUM",
+    "optionE": "Carbon offsets purchased by investee companies",
+    "answer": "E. Carbon offsets purchased by investee companies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "141-142",
+    "industries": [
+      "b15-asset-management-and-custody-activities"
+    ]
+  }
+]

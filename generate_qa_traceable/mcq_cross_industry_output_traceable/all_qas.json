@@ -1,0 +1,2259 @@
+[
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Apparel, Accessories & Footwear and Coal Operations industries.",
+    "optionA": "EM-CO-110a.2, EM-CO-420a.3",
+    "optionB": "CG-AA-440a.1, EM-CO-110a.2, EM-CO-420a.3",
+    "optionC": "EM-CO-110a.2, EM-CO-420a.1, EM-CO-420a.3",
+    "optionD": "CG-AA-440a.1, EM-CO-110a.2, EM-CO-420a.3, EM-CO-420a.1",
+    "optionE": "<UNKNOWN>",
+    "answer": "optionB",
+    "pages": [
+      "8",
+      "45",
+      "51"
+    ],
+    "reference_text": [
+      "CG-AA-440a.1. Description of environmental and social risks associated with sourcing priority raw materials",
+      "EM-CO-110a.2. Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets",
+      "EM-CO-420a.3. Discussion of how price and demand for coal and/or climate regulation influence the capital expenditure strategy for exploration, acquisition, and development of assets"
+    ],
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "List the activity metrics for Apparel, Accessories & Footwear and Coal Operations industries.",
+    "optionA": "Number of (1) Tier 1 suppliers and (2) suppliers beyond Tier 1, Production of thermal coal, Production of metallurgical coal",
+    "optionB": "Number of (1) Tier 1 suppliers and (2) suppliers beyond Tier 1",
+    "optionC": "Production of thermal coal, Production of metallurgical coal",
+    "optionD": "<UNKNOWN>",
+    "optionE": "Number of (1) Tier 1 suppliers",
+    "answer": "optionA",
+    "pages": [
+      "7",
+      "52"
+    ],
+    "reference_text": [
+      "Number of (1) Tier 1 suppliers and (2) suppliers beyond Tier 1 \u00b9",
+      "Production of thermal coal, Production of metallurgical coal"
+    ],
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Compare the number of quantitative metrics between Apparel, Accessories & Footwear and Coal Operations industries.",
+    "optionA": "The Apparel, Accessories & Footwear industry has more quantitative metrics than the Coal Operations industry.",
+    "optionB": "The Coal Operations industry has more quantitative metrics than the Apparel, Accessories & Footwear industry.",
+    "optionC": "Both industries have the same number of quantitative metrics.",
+    "optionD": "<UNKNOWN>",
+    "optionE": "The Apparel, Accessories & Footwear industry does not have any quantitative metrics.",
+    "answer": "optionB",
+    "pages": [
+      "6-10",
+      "42-52"
+    ],
+    "reference_text": [
+      "For the Apparel, Accessories & Footwear industry, there is 1 quantitative metric: CG-AA-440a.2",
+      "For the Coal Operations industry, there are 5 quantitative metrics: EM-CO-110a.1, EM-CO-140a.1, EM-CO-140a.2, EM-CO-420a.1, EM-CO-420a.2"
+    ],
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Are there any common sustainability topics betweenApparel, Accessories & Footwear and Coal Operations industries?",
+    "optionA": "Yes, both industries share the sustainability topic of greenhouse gas emissions.",
+    "optionB": "No, there are no common sustainability topics between the two industries.",
+    "optionC": "Yes, both industries share the sustainability topics of raw materials sourcing and water management.",
+    "optionD": "Yes, both industries share the sustainability topic of reserves valuation and capital expenditures.",
+    "optionE": "<UNKNOWN>",
+    "answer": "optionA",
+    "pages": [
+      "6",
+      "43"
+    ],
+    "reference_text": [
+      "For Apparel, Accessories & Footwear, the sustainability topics are: Raw Materials Sourcing",
+      "For Coal Operations, the sustainability topics are: Greenhouse Gas Emissions, Water Management, Reserves Valuation & Capital Expenditures"
+    ],
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "When preparing sustainability reports, how do the reporting requirements for describing the strategy or plan to manage Scope 1 emissions differ between the Apparel, Accessories & Footwear and Coal Operations industries?",
+    "optionA": "For the Apparel, Accessories & Footwear industry, there is no requirement to describe the strategy or plan for managing Scope 1 emissions. For Coal Operations, the requirement is to discuss the long-term and short-term strategy or plan to manage Scope 1 emissions, including emissions reduction targets and analysis of performance against those targets.",
+    "optionB": "The reporting requirements are exactly the same for both industries - they must discuss their long-term and short-term strategy or plan for managing Scope 1 emissions, targets, and performance analysis.",
+    "optionC": "For Apparel, Accessories & Footwear, the requirement is to discuss strategies for reducing emissions from raw materials sourcing. For Coal Operations, the requirement is to discuss the overall strategy for managing Scope 1 emissions including targets and performance.",
+    "optionD": "For Apparel, Accessories & Footwear, there is no emissions reporting requirement. For Coal Operations, the only requirement is to disclose the gross global Scope 1 emissions amount.",
+    "optionE": "There are no differing requirements between the two industries when it comes to describing emissions management strategies.",
+    "answer": "C",
+    "pages": [
+      "43-46"
+    ],
+    "reference_text": [
+      "For the Apparel, Accessories & Footwear industry: CG-AA-440a.1. Description of environmental and social risks associated with sourcing priority raw materials...8.1 Relevant strategies to discuss include: due diligence practices, supply chain auditing, partnerships with industry groups or nongovernmental development organizations, using substitute materials, research and development into materials with less environmental or social risks, supplier diversification, implementing supply chain codes of conduct, training or engagement programs, supplier audits and/or certifications, and research into the full traceability of material sources, among other strategies.",
+      "For the Coal Operations industry: EM-CO-110a.2. Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets"
+    ],
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for the Apparel, Accessories & Footwear and Coal Operations industries.",
+    "optionA": "CG-AA-440a.2, EM-CO-110a.1, EM-CO-140a.1, EM-CO-140a.2, EM-CO-420a.1, EM-CO-420a.2",
+    "optionB": "CG-AA-440a.2, EM-CO-000.A, EM-CO-000.B, EM-CO-110a.1, EM-CO-140a.1, EM-CO-140a.2, EM-CO-420a.1, EM-CO-420a.2",
+    "optionC": "CG-AA-440a.2, EM-CO-110a.1, EM-CO-140a.1, EM-CO-420a.1, EM-CO-420a.2",
+    "optionD": "CG-AA-000.A, EM-CO-000.A, EM-CO-000.B, EM-CO-110a.1, EM-CO-140a.1, EM-CO-140a.2, EM-CO-420a.1, EM-CO-420a.2",
+    "optionE": "CG-AA-440a.1, CG-AA-440a.2, EM-CO-110a.1, EM-CO-140a.1, EM-CO-140a.2, EM-CO-420a.1, EM-CO-420a.2",
+    "answer": "B",
+    "pages": [
+      "7-10",
+      "42"
+    ],
+    "reference_text": [
+      "From Table 1 for Apparel, Accessories & Footwear: Quantitative metrics are CG-AA-440a.2",
+      "From Table 2 for Apparel, Accessories & Footwear: Quantitative metric is CG-AA-000.A",
+      "From Table 1 for Coal Operations: Quantitative metrics are EM-CO-110a.1, EM-CO-140a.1, EM-CO-140a.2, EM-CO-420a.1, EM-CO-420a.2",
+      "From Table 2 for Coal Operations: Quantitative metrics are EM-CO-000.A, EM-CO-000.B"
+    ],
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "What units of measurement are used across the Apparel, Accessories & Footwear and Coal Operations industries for measuring water usage?",
+    "optionA": "Thousand cubic meters, Percentage",
+    "optionB": "Cubic meters, Percentage",
+    "optionC": "Gallons, Percentage",
+    "optionD": "Liters, Percentage",
+    "optionE": "No common units of measurement for water usage across the two industries.",
+    "answer": "A",
+    "pages": [
+      "9",
+      "47"
+    ],
+    "reference_text": [
+      "For Apparel, Accessories & Footwear: No metrics related to water usage",
+      "For Coal Operations: EM-CO-140a.1. (1) Total fresh water withdrawn, (2) percentage recycled, (3) percentage in regions with High or Extremely High Baseline Water Stress ... 1 The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from freshwater sources: ... 2 The entity shall disclose the percentage of water recycled as the volume, in thousands of cubic meters, recycled divided by the volume of water withdrawn."
+    ],
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Are there any common sustainability topics between the Apparel, Accessories & Footwear and Coal Operations industries according to Table 1, and if so, what are the differences in their reporting requirements?",
+    "optionA": "Yes, both industries have reporting requirements related to greenhouse gas emissions, but the specific metrics and reporting details differ between the two industries.",
+    "optionB": "No, there are no common sustainability topics with reporting requirements across the two industries based on Table 1.",
+    "optionC": "Yes, both have identical reporting requirements for water management.",
+    "optionD": "Yes, both have the same reporting requirements for raw materials sourcing and reserves valuation.",
+    "optionE": "Yes, the reporting requirements are exactly the same across all sustainability topics for both industries.",
+    "answer": "A",
+    "pages": [
+      "7-10",
+      "42-52"
+    ],
+    "reference_text": [
+      "For Apparel, Accessories & Footwear, Table 1 shows the topic 'Raw Materials Sourcing' with metrics like CG-AA-440a.1 and CG-AA-440a.2",
+      "For Coal Operations, Table 1 shows the topic 'Greenhouse Gas Emissions' with metrics like EM-CO-110a.1 and EM-CO-110a.2"
+    ],
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "List the activity metrics for Oil & Gas-Services and Coal Operations industries.",
+    "optionA": "For Oil & Gas-Services industry: Number of active rig sites, Number of active well sites, Total amount of drilling performed, Total number of hours worked by all employees. For Coal Operations industry: Production of thermal coal, Production of metallurgical coal.",
+    "optionB": "For Oil & Gas-Services industry: Total fuel consumed, percentage renewable, percentage used in on-road and off-road equipment, percentage of engines meeting emissions standards. For Coal Operations industry: Gross global Scope 1 emissions, percentage covered under emissions regulations.",
+    "optionC": "For Oil & Gas-Services industry: Total volume of fresh water handled, percentage recycled. For Coal Operations industry: Total fresh water withdrawn, percentage recycled, percentage in high/extremely high water stress regions.",
+    "optionD": "For Oil & Gas-Services industry: There are no activity metrics specified. For Coal Operations industry: There are no activity metrics specified.",
+    "optionE": "For both industries: There are no activity metrics specified.",
+    "answer": "optionA",
+    "reference_text": [
+      "Table 2. Activity Metrics: ACTIVITY METRIC | CATEGORY | UNIT OF MEASURE | CODE, Number of active rig sites \u00b9\u2077 | Quantitative | Number | EM-SV-000.A, Number of active well sites \u00b9\u2078 | Quantitative | Number | EM-SV-000.B, Total amount of drilling performed | Quantitative | Meters (m) | EM-SV-000.C, Total number of hours worked by all employees | Quantitative | Hours | EM-SV-000.D",
+      "Table 2. Activity Metrics: ACTIVITY METRIC | CATEGORY | UNIT OF MEASURE | CODE, Production of thermal coal | Quantitative | Million metric tons (Mt) | EM-CO-000.A, Production of metallurgical coal | Quantitative | Million metric tons (Mt) | EM-CO-000.B"
+    ],
+    "pages": [
+      "124-125_b14",
+      "42_b7"
+    ],
+    "industries": [
+      "b7-coal-operations",
+      "b14-oil-and-gas-services"
+    ],
+    "pairing_explanation": "Both industries involve extensive environmental impact due to resource extraction and energy production activities. Comparing their sustainability efforts could shed light on how they manage emissions, land use, and community impacts.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Are there any common sustainability topics between Oil & Gas-Services and Coal Operations industries?",
+    "optionA": "Yes, the common sustainability topics are Emissions Reduction and Fuels Management for Oil & Gas-Services industry and Greenhouse Gas Emissions for Coal Operations industry.",
+    "optionB": "Yes, the common sustainability topic is Water Management for both industries.",
+    "optionC": "No, there are no common sustainability topics between the two industries.",
+    "optionD": "Yes, the common sustainability topic is Reserves Valuation & Capital Expenditures for both industries.",
+    "optionE": "Yes, the common sustainability topics are Emissions Reduction Services & Fuels Management and Water Management Services for Oil & Gas-Services industry, and Greenhouse Gas Emissions and Water Management for Coal Operations industry.",
+    "answer": "optionB",
+    "reference_text": [
+      "TOPIC: Water Management Services",
+      "TOPIC: Water Management"
+    ],
+    "pages": [
+      "130_b14",
+      "47_b7"
+    ],
+    "industries": [
+      "b7-coal-operations",
+      "b14-oil-and-gas-services"
+    ],
+    "pairing_explanation": "Both industries involve extensive environmental impact due to resource extraction and energy production activities. Comparing their sustainability efforts could shed light on how they manage emissions, land use, and community impacts.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Compare the number of quantitative metrics between Oil & Gas-Services and Coal Operations industries.",
+    "optionA": "The Oil & Gas-Services industry has 2 quantitative metrics while the Coal Operations industry has 5 quantitative metrics.",
+    "optionB": "The Oil & Gas-Services industry has 3 quantitative metrics while the Coal Operations industry has 4 quantitative metrics.",
+    "optionC": "Both industries have an equal number of 3 quantitative metrics each.",
+    "optionD": "The Oil & Gas-Services industry has 4 quantitative metrics while the Coal Operations industry has 2 quantitative metrics.",
+    "optionE": "The Oil & Gas-Services industry has 3 quantitative metrics while the Coal Operations industry has 5 quantitative metrics.",
+    "answer": "optionB",
+    "reference_text": [
+      "Table 1. Sustainability Disclosure Topics & Metrics: TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE, Emissions Reduction Services & Fuels Management | Total fuel consumed, percentage renewable, percentage used in: (1) on-road equipment and vehicles and (2) off-road equipment | Quantitative | Gigajoules (GJ), Percent- age (%) | EM-SV-110a.1, Emissions Reduction Services & Fuels Management | Percentage of engines in service that meet Tier 4 compliance comply with highest level of emissions standards for non-road diesel engine emissions | Quantitative | Percentage (%) | EM-SV-110a.3, Water Management Services | (1) Total volume of fresh water handled in operations, (2) percentage recycled | Quantitative | Thousand cubic meters (m\u00b3), Percent- age (%) | EM-SV-140a.1",
+      "Table 1. Sustainability Disclosure Topics & Metrics: TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE, Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%) | EM-CO-110a.1, Water Management | (1) Total fresh water withdrawn, (2) percentage recycled, (3) percentage in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%) | EM-CO-140a.1, Reserves Valuation & Capital Expenditures | Sensitivity of coal reserve levels to future price projection scenarios that account for a price on carbon emissions | Quantitative | Million metric tons (Mt) | EM-CO-420a.1, Reserves Valuation & Capital Expenditures | Estimated carbon dioxide emissions embedded in proven coal reserves | Quantitative | Metric tons (t) CO\u2082-e | EM-CO-420a.2"
+    ],
+    "pages": [
+      "126_b14",
+      "42-51_b7"
+    ],
+    "industries": [
+      "b7-coal-operations",
+      "b14-oil-and-gas-services"
+    ],
+    "pairing_explanation": "Both industries involve extensive environmental impact due to resource extraction and energy production activities. Comparing their sustainability efforts could shed light on how they manage emissions, land use, and community impacts.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "What formulas are used to calculate the EM-CO-420a.2 metric 'Estimated carbon dioxide emissions embedded in proven coal reserves' in the Coal Operations industry?",
+    "optionA": "The formula used is: E = R \u00d7 V \u00d7 C, where E = potential emissions in kg CO2, R = proven reserves in Gg, V = net calorific value in TJ/Gg, C = effective CO2 emission factor in kg/TJ.",
+    "optionB": "There is no specific formula mentioned for calculating this metric.",
+    "optionC": "The formula is not explicitly stated, but details on calculation methodologies are provided in Section 3.",
+    "optionD": "The report does not provide any formulas for calculating metrics.",
+    "optionE": "The formula used is: E = P \u00d7 Q, where E = emissions, P = production, Q = emissions factor.",
+    "answer": "optionA",
+    "reference_text": [
+      "Estimated potential carbon dioxide emissions from proven coal reserves shall be calculated according to the following formula, derived from Meinshausen et al: 2.1 E = R \u00d7 V \u00d7 C, where: 2.1.1 E are the potential emissions in kilograms of carbon dioxide (kg CO2); 2.1.2 R are the proven reserves in gigagrams (Gg); 2.1.3 V is the net calorific value in terajoules per gigagram (TJ/Gg); and 2.1.4 C is the effective carbon dioxide emission factor in kilograms CO2 per terajoule (kg/TJ)."
+    ],
+    "pages": [
+      "51_b7"
+    ],
+    "industries": [
+      "b7-coal-operations",
+      "b14-oil-and-gas-services"
+    ],
+    "pairing_explanation": "Both industries involve extensive environmental impact due to resource extraction and energy production activities. Comparing their sustainability efforts could shed light on how they manage emissions, land use, and community impacts.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for the Coal Operations and Oil & Gas-Services industries.",
+    "optionA": "EM-CO-110a.1, EM-CO-140a.1, EM-CO-420a.1, EM-CO-420a.2, EM-SV-110a.1, EM-SV-110a.3, EM-SV-140a.1",
+    "optionB": "EM-CO-000.A, EM-CO-000.B, EM-SV-110a.1, EM-SV-110a.3, EM-SV-140a.1, EM-SV-000.A, EM-SV-000.B, EM-SV-000.C, EM-SV-000.D",
+    "optionC": "EM-CO-110a.1, EM-CO-140a.1, EM-CO-420a.1, EM-CO-420a.2, EM-SV-110a.1, EM-SV-140a.1",
+    "optionD": "EM-CO-110a.1, EM-CO-140a.2, EM-CO-420a.1, EM-SV-110a.2, EM-SV-140a.2",
+    "optionE": "EM-CO-110a.1, EM-CO-140a.1, EM-CO-420a.2, EM-SV-110a.3, EM-SV-140a.1",
+    "answer": "C",
+    "pages": [
+      "43_b7",
+      "126_b14"
+    ],
+    "reference_text": [
+      "Emissions Reduction Services & Fuels Management | Total fuel consumed, percentage renewable, percentage used in: (1) on-road equipment and vehicles and (2) off-road equipment | Quantitative | Gigajoules (GJ), Percent- age (%)",
+      "Water Management Services | (1) Total volume of fresh water handled in operations, (2) percentage recycled | Quantitative | Thousand cubic meters (m\u00b3), Percent- age (%)",
+      "Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%)",
+      "Water Management | (1) Total fresh water withdrawn, (2) percentage recycled, (3) percentage in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%)",
+      "Reserves Valuation & Capital Expenditures | Sensitivity of coal reserve levels to future price projection scenarios that account for a price on carbon emissions | Quantitative | Million metric tons (Mt)",
+      "Reserves Valuation & Capital Expenditures | Estimated carbon dioxide emissions embedded in proven coal reserves | Quantitative | Metric tons (t) CO\u2082-e"
+    ],
+    "industries": [
+      "b7-coal-operations",
+      "b14-oil-and-gas-services"
+    ],
+    "pairing_explanation": "Both industries involve extensive environmental impact due to resource extraction and energy production activities. Comparing their sustainability efforts could shed light on how they manage emissions, land use, and community impacts.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Give me the codes for all the 'Discussion and Analysis' metrics in Table 1 for the Coal Operations and Oil & Gas-Services industries.",
+    "optionA": "EM-CO-110a.2, EM-CO-420a.3, EM-SV-110a.2, EM-SV-140a.2",
+    "optionB": "EM-CO-110a.1, EM-CO-140a.1, EM-CO-420a.1, EM-CO-420a.2",
+    "optionC": "EM-SV-110a.1, EM-SV-110a.3, EM-SV-140a.1",
+    "optionD": "EM-CO-000.A, EM-CO-000.B, EM-SV-000.A, EM-SV-000.B, EM-SV-000.C, EM-SV-000.D",
+    "optionE": "EM-CO-140a.2, EM-SV-140a.2",
+    "answer": "A",
+    "pages": [
+      "44_b7",
+      "127_b14"
+    ],
+    "reference_text": [
+      "Greenhouse Gas Emissions | Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a",
+      "Reserves Valuation & Capital Expenditures | Discussion of how price and demand for coal and/or climate regulation influence the capital expenditure strategy for exploration, acquisition, and development of assets | Discussion and Analysis | n/a",
+      "Emissions Reduction Services & Fuels Management | Discussion of strategy or plans to address air emissions-related risks, opportunities, and impacts | Discussion and Analysis | n/a",
+      "Water Management Services | Discussion of strategy or plans to address water consumption and dispos- al-related risks, opportunities, and impacts | Discussion and Analysis | n/a"
+    ],
+    "industries": [
+      "b7-coal-operations",
+      "b14-oil-and-gas-services"
+    ],
+    "pairing_explanation": "Both industries involve extensive environmental impact due to resource extraction and energy production activities. Comparing their sustainability efforts could shed light on how they manage emissions, land use, and community impacts.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "What units of measurement are used across the Coal Operations and Oil & Gas-Services industries for measuring greenhouse gas emissions?",
+    "optionA": "Million metric tons (Mt)",
+    "optionB": "Metric tons (t) CO2-e, Percentage (%)",
+    "optionC": "Gigajoules (GJ), Percentage (%)",
+    "optionD": "Thousand cubic meters (m\u00b3), Percentage (%)",
+    "optionE": "Number",
+    "answer": "B",
+    "pages": [
+      "43_b7"
+    ],
+    "reference_text": [
+      "Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%)"
+    ],
+    "industries": [
+      "b7-coal-operations",
+      "b14-oil-and-gas-services"
+    ],
+    "pairing_explanation": "Both industries involve extensive environmental impact due to resource extraction and energy production activities. Comparing their sustainability efforts could shed light on how they manage emissions, land use, and community impacts.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Comparing the Coal Operations and Oil & Gas-Services industries, which sustainability topic is more prominently addressed in the Coal Operations industry but not explicitly covered for the Oil & Gas-Services industry?",
+    "optionA": "Greenhouse Gas Emissions",
+    "optionB": "Water Management",
+    "optionC": "Emissions Reduction Services & Fuels Management",
+    "optionD": "Reserves Valuation & Capital Expenditures",
+    "optionE": "Activity Metrics",
+    "answer": "D",
+    "pages": [
+      "43-52_b7",
+      "126-132_b14"
+    ],
+    "reference_text": [
+      "# Reserves Valuation & Capital Expenditures ... EM-CO-420a.1. Sensitivity of coal reserve levels to future price projection scenarios that account for a price on carbon emissions ... EM-CO-420a.2. Estimated carbon dioxide emissions embedded in proven coal reserves ... EM-CO-420a.3. Discussion of how price and demand for coal and/or climate regulation influence the capital expenditure strategy for exploration, acquisition, and development of assets",
+      "The Oil & Gas-Services industry disclosure topics do not include a 'Reserves Valuation & Capital Expenditures' topic."
+    ],
+    "industries": [
+      "b7-coal-operations",
+      "b14-oil-and-gas-services"
+    ],
+    "pairing_explanation": "Both industries involve extensive environmental impact due to resource extraction and energy production activities. Comparing their sustainability efforts could shed light on how they manage emissions, land use, and community impacts.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "What are the common sustainability topics shared between the Household & Personal Products and Processed Foods industries?",
+    "optionA": "Energy Management, Water Management",
+    "optionB": "Environmental & Social Impacts of Palm Oil Supply Chain, Environmental & Social Impacts of Ingredient Supply Chain",
+    "optionC": "Water Management, Environmental & Social Impacts of Ingredient Supply Chain",
+    "optionD": "Energy Management, Environmental & Social Impacts of Palm Oil Supply Chain",
+    "optionE": "Ingredient Sourcing, Water Management",
+    "answer": "C",
+    "reference_text": [
+      "The Household & Personal Products industry has the Water Management topic.",
+      "The Processed Foods industry has the Water Management topic and the Environmental & Social Impacts of Ingredient Supply Chain topic."
+    ],
+    "pages": [
+      "33_b5",
+      "257_b25"
+    ],
+    "industries": [
+      "b5-household-and-personal-products",
+      "b25-processed-foods"
+    ],
+    "pairing_explanation": "Household and personal products, like processed foods, involve complex supply chains, with sustainability metrics focused on waste, resource use, and packaging.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Give me all the metrics that are in category 'Quantitative' for the Household & Personal Products and Processed Foods industries.",
+    "optionA": "CG-HP-140a.1, FB-PF-130a.1, FB-PF-140a.1, FB-PF-140a.2, FB-PF-430a.1, FB-PF-430a.2, FB-PF-440a.1",
+    "optionB": "CG-HP-430a.1, FB-PF-130a.1, FB-PF-140a.1, FB-PF-430a.1, FB-PF-430a.2, FB-PF-440a.1",
+    "optionC": "CG-HP-140a.1, FB-PF-130a.1, FB-PF-140a.1, FB-PF-430a.1, FB-PF-430a.2, FB-PF-440a.1",
+    "optionD": "CG-HP-140a.1, CG-HP-430a.1, FB-PF-130a.1, FB-PF-140a.1, FB-PF-140a.2, FB-PF-430a.1, FB-PF-430a.2, FB-PF-440a.1",
+    "optionE": "CG-HP-140a.1, CG-HP-430a.1, FB-PF-130a.1, FB-PF-140a.1, FB-PF-430a.1, FB-PF-430a.2, FB-PF-440a.1",
+    "answer": "E",
+    "reference_text": [
+      "CG-HP-140a.1 is a Quantitative metric for the Household & Personal Products industry.",
+      "CG-HP-430a.1 is a Quantitative metric for the Household & Personal Products industry.",
+      "FB-PF-130a.1, FB-PF-140a.1, FB-PF-430a.1, FB-PF-430a.2, FB-PF-440a.1 are Quantitative metrics for the Processed Foods industry."
+    ],
+    "pages": [
+      "33_b5",
+      "257_b25"
+    ],
+    "industries": [
+      "b5-household-and-personal-products",
+      "b25-processed-foods"
+    ],
+    "pairing_explanation": "Household and personal products, like processed foods, involve complex supply chains, with sustainability metrics focused on waste, resource use, and packaging.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "List the activity metrics for the Household & Personal Products and Processed Foods industries.",
+    "optionA": "CG-HP-000.A, CG-HP-000.B, FB-PF-000.A, FB-PF-000.B",
+    "optionB": "CG-HP-140a.1, FB-PF-000.A, FB-PF-000.B",
+    "optionC": "CG-HP-430a.1, FB-PF-000.A",
+    "optionD": "CG-HP-000.A, FB-PF-130a.1, FB-PF-140a.1",
+    "optionE": "CG-HP-140a.2, FB-PF-440a.2",
+    "answer": "A",
+    "reference_text": [
+      "The activity metrics for the Household & Personal Products industry are CG-HP-000.A and CG-HP-000.B.",
+      "The activity metrics for the Processed Foods industry are FB-PF-000.A and FB-PF-000.B."
+    ],
+    "pages": [
+      "33_b5",
+      "257_b25"
+    ],
+    "industries": [
+      "b5-household-and-personal-products",
+      "b25-processed-foods"
+    ],
+    "pairing_explanation": "Household and personal products, like processed foods, involve complex supply chains, with sustainability metrics focused on waste, resource use, and packaging.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "What formulas are used to calculate the CG-HP-140a.1 metric in the Household & Personal Products industry and the FB-PF-140a.1 metric in the Processed Foods industry?",
+    "optionA": "There are no formulas specified for calculating these metrics.",
+    "optionB": "To calculate CG-HP-140a.1: Percentage = (Water withdrawn in high/extremely high water stress regions) / (Total water withdrawn). To calculate FB-PF-140a.1: No formula given.",
+    "optionC": "To calculate CG-HP-140a.1: Percentage = (Water consumed in high/extremely high water stress regions) / (Total water consumed). To calculate FB-PF-140a.1: No formula given.",
+    "optionD": "To calculate CG-HP-140a.1: No formula given. To calculate FB-PF-140a.1: Percentage = (Water withdrawn in high/extremely high water stress regions) / (Total water withdrawn), Percentage = (Water consumed in high/extremely high water stress regions) / (Total water consumed).",
+    "optionE": "To calculate CG-HP-140a.1: Percentage = (Water withdrawn in high/extremely high water stress regions) / (Total water withdrawn), Percentage = (Water consumed in high/extremely high water stress regions) / (Total water consumed). To calculate FB-PF-140a.1: Percentage = (Water withdrawn in high/extremely high water stress regions) / (Total water withdrawn), Percentage = (Water consumed in high/extremely high water stress regions) / (Total water consumed).",
+    "answer": "E",
+    "reference_text": [
+      "For CG-HP-140a.1: \"5 The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn. 6 The entity shall disclose its water consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water consumed.\"",
+      "For FB-PF-140a.1: \"5 The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn. 6 The entity shall disclose its water consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water consumed.\""
+    ],
+    "pages": [
+      "34_b5",
+      "261_b25"
+    ],
+    "industries": [
+      "b5-household-and-personal-products",
+      "b25-processed-foods"
+    ],
+    "pairing_explanation": "Household and personal products, like processed foods, involve complex supply chains, with sustainability metrics focused on waste, resource use, and packaging.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for the Processed Foods and Household & Personal Products industries.",
+    "optionA": "FB-PF-130a.1, FB-PF-140a.1, FB-PF-140a.2, FB-PF-430a.1, FB-PF-430a.2, FB-PF-440a.1, CG-HP-140a.1, CG-HP-430a.1",
+    "optionB": "FB-PF-130a.1, FB-PF-140a.1, FB-PF-430a.1, FB-PF-430a.2, FB-PF-440a.1, CG-HP-140a.1, CG-HP-430a.1",
+    "optionC": "FB-PF-140a.1, FB-PF-430a.1, FB-PF-430a.2, FB-PF-440a.1, CG-HP-140a.1, CG-HP-430a.1",
+    "optionD": "FB-PF-130a.1, FB-PF-140a.1, FB-PF-430a.1, FB-PF-440a.1, CG-HP-140a.1, CG-HP-430a.1",
+    "optionE": "<UNKNOWN>",
+    "answer": "D",
+    "reference_text": [
+      "FB-PF-130a.1. (1) Total energy consumed, (2) percent\u00adage grid electricity, (3) percentage renewable",
+      "FB-PF-140a.1. (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress",
+      "FB-PF-430a.1. Percentage of food ingredients sourced that are certified to third-party environ\u00admental and/or social standards, and percentages by standard",
+      "FB-PF-440a.1. Percentage of food ingredients sourced from regions with High or Extremely High Baseline Water Stress",
+      "CG-HP-140a.1. (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress",
+      "CG-HP-430a.1. Amount of palm oil sourced, percentage certified through the Roundtable on Sustainable Palm Oil (RSPO) supply chains as (a) Identity Preserved, (b) Segregated, (c) Mass Balance, or (d) Book & Claim"
+    ],
+    "pages": [
+      "259_b25",
+      "34_b5"
+    ],
+    "industries": [
+      "b5-household-and-personal-products",
+      "b25-processed-foods"
+    ],
+    "pairing_explanation": "Household and personal products, like processed foods, involve complex supply chains, with sustainability metrics focused on waste, resource use, and packaging.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "What units of measurement are used across the Processed Foods and Household & Personal Products industries for measuring water withdrawn and water consumed?",
+    "optionA": "Thousand cubic meters (m\u00b3), Percent\u00adage (%)",
+    "optionB": "Metric tons (t), Percent\u00adage (%)",
+    "optionC": "Gigajoules (GJ), Metric tons (t)",
+    "optionD": "Thousand cubic meters (m\u00b3), Number",
+    "optionE": "<UNKNOWN>",
+    "answer": "A",
+    "reference_text": [
+      "FB-PF-140a.1. (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress",
+      "CG-HP-140a.1. (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress"
+    ],
+    "pages": [
+      "261_b25",
+      "34_b5"
+    ],
+    "industries": [
+      "b5-household-and-personal-products",
+      "b25-processed-foods"
+    ],
+    "pairing_explanation": "Household and personal products, like processed foods, involve complex supply chains, with sustainability metrics focused on waste, resource use, and packaging.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Are there any common sustainability topics between the Processed Foods and Household & Personal Products industries, and if so, how do their reporting requirements differ?",
+    "optionA": "Yes, the Water Management topic is common to both industries. The reporting requirements are identical for measuring total water withdrawn and consumed, but only the Processed Foods industry has an additional metric for reporting non-compliance incidents related to water permits and regulations.",
+    "optionB": "No, there are no common sustainability topics covered for these two industries.",
+    "optionC": "Yes, the Water Management topic is common to both industries. The reporting requirements are exactly the same for both industries.",
+    "optionD": "Yes, the Energy Management topic is common to both industries. The reporting requirements for energy consumption and renewable energy use are more detailed for the Processed Foods industry compared to the Household & Personal Products industry.",
+    "optionE": "<UNKNOWN>",
+    "answer": "A",
+    "reference_text": [
+      "FB-PF-140a.1. (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress",
+      "FB-PF-140a.2. Number of incidents of non-compliance associated with water quantity and/or quality permits, standards, and regula\u00adtions",
+      "CG-HP-140a.1. (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress"
+    ],
+    "pages": [
+      "261_b25",
+      "34_b5"
+    ],
+    "industries": [
+      "b5-household-and-personal-products",
+      "b25-processed-foods"
+    ],
+    "pairing_explanation": "Household and personal products, like processed foods, involve complex supply chains, with sustainability metrics focused on waste, resource use, and packaging.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "When preparing sustainability reports, how do the metrics for measuring water risks differ between the Processed Foods and Household & Personal Products industries?",
+    "optionA": "The Processed Foods industry has a quantitative metric for reporting water-related non-compliance incidents, while the Household & Personal Products industry does not have such a metric.",
+    "optionB": "There is no difference in the water risk metrics between the two industries.",
+    "optionC": "The Household & Personal Products industry has more detailed quantitative metrics for measuring water risks compared to the Processed Foods industry.",
+    "optionD": "The Processed Foods industry has a quantitative metric for measuring the percentage of ingredients sourced from water-stressed regions, while the Household & Personal Products industry does not have such a metric.",
+    "optionE": "<UNKNOWN>",
+    "answer": "A",
+    "reference_text": [
+      "FB-PF-140a.2. Number of incidents of non-compliance associated with water quantity and/or quality permits, standards, and regula\u00adtions",
+      "CG-HP-140a.2. Description of water management risks and discussion of strategies and practi- ces to mitigate those risks"
+    ],
+    "pages": [
+      "261_b25",
+      "34_b5"
+    ],
+    "industries": [
+      "b5-household-and-personal-products",
+      "b25-processed-foods"
+    ],
+    "pairing_explanation": "Household and personal products, like processed foods, involve complex supply chains, with sustainability metrics focused on waste, resource use, and packaging.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Construction Materials and Home Builders industries.",
+    "optionA": "EM-CM-110a.2, IF-HB-160a.4, IF-HB-410a.4, IF-HB-420a.2",
+    "optionB": "EM-CM-110a.2, IF-HB-410a.4, IF-HB-420a.2",
+    "optionC": "IF-HB-160a.4, IF-HB-410a.4, IF-HB-420a.2",
+    "optionD": "EM-CM-110a.2, IF-HB-160a.4, IF-HB-410a.4, IF-HB-420a.2",
+    "optionE": "<UNKNOWN>",
+    "answer": "D",
+    "reference_text": [
+      "Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets",
+      "Discussion of process to integrate environmental considerations into site selection, site design, and site develop\u00adment and construction",
+      "Description of risks and opportunities related to incorporating resource efficiency into home design, and how benefits are communicated to custom\u00aders",
+      "Description of climate change risk exposure analysis, degree of systematic portfolio exposure, and strategies for mitigating risks"
+    ],
+    "pages": [
+      "55_b8",
+      "350_b35",
+      "354_b35",
+      "356_b35"
+    ],
+    "industries": [
+      "b8-construction-materials",
+      "b35-home-builders"
+    ],
+    "pairing_explanation": "Home building and the creation of construction materials both have substantial impacts on resource extraction, land use, and waste generation.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "What are the common sustainability topics shared between Construction Materials and Home Builders industries?",
+    "optionA": "Greenhouse Gas Emissions, Air Quality, Energy Management, Water Management, Waste Management, Product Innovation",
+    "optionB": "Land Use & Ecological Impacts, Design for Resource Efficiency, Climate Change Adaptation",
+    "optionC": "Both A and B",
+    "optionD": "There are no common sustainability topics between the two industries.",
+    "optionE": "<UNKNOWN>",
+    "answer": "C",
+    "reference_text": [
+      "TOPIC | METRIC | CATEGORY | UNIT OF MEASURE",
+      "Greenhouse Gas Emissions | ... | ... | ...",
+      "Air Quality | ... | ... | ...",
+      "Energy Management | ... | ... | ...",
+      "Water Management | ... | ... | ...",
+      "Waste Management | ... | ... | ...",
+      "Product Innovation | ... | ... | ...",
+      "Land Use & Ecological Impacts | ... | ... | ...",
+      "Design for Resource Efficiency | ... | ... | ...",
+      "Climate Change Adaptation | ... | ... | ..."
+    ],
+    "pages": [
+      "53_b8",
+      "346_b35"
+    ],
+    "industries": [
+      "b8-construction-materials",
+      "b35-home-builders"
+    ],
+    "pairing_explanation": "Home building and the creation of construction materials both have substantial impacts on resource extraction, land use, and waste generation.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Compare the number of quantitative metrics between Construction Materials and Home Builders industries as shown in Table 1.",
+    "optionA": "Construction Materials has more quantitative metrics.",
+    "optionB": "Home Builders has more quantitative metrics.",
+    "optionC": "Both industries have the same number of quantitative metrics.",
+    "optionD": "There are no quantitative metrics for either industry.",
+    "optionE": "<UNKNOWN>",
+    "answer": "B",
+    "reference_text": [
+      "For Construction Materials: 7 quantitative metrics",
+      "For Home Builders: 8 quantitative metrics"
+    ],
+    "pages": [
+      "53-68_b8",
+      "346-356_b35"
+    ],
+    "industries": [
+      "b8-construction-materials",
+      "b35-home-builders"
+    ],
+    "pairing_explanation": "Home building and the creation of construction materials both have substantial impacts on resource extraction, land use, and waste generation.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "What formula is used to calculate the 'Percentage recycled' metric for the Construction Materials industry?",
+    "optionA": "The percentage recycled shall be calculated as the weight of waste material that was reused, plus the weight recycled or remanufactured (through treatment or processing) by the entity, plus the amount sent externally for further recycling, divided by the total weight of waste material.",
+    "optionB": "The percentage recycled shall be calculated as the number of recycled homes delivered divided by the total number of homes delivered.",
+    "optionC": "The percentage recycled shall be calculated as the amount of recycled water divided by the total amount of fresh water withdrawn.",
+    "optionD": "The percentage recycled shall be calculated as the amount of energy from renewable sources divided by the total energy consumed.",
+    "optionE": "<UNKNOWN>",
+    "answer": "A",
+    "reference_text": [
+      "3 The entity shall disclose the percentage of waste generated that was recycled.",
+      "3.1 The percentage recycled shall be calculated as the weight of waste material that was reused, plus the weight recycled or remanufactured (through treatment or processing) by the entity, plus the amount sent externally for further recycling, divided by the total weight of waste material, where:"
+    ],
+    "pages": [
+      "66_b8"
+    ],
+    "industries": [
+      "b8-construction-materials",
+      "b35-home-builders"
+    ],
+    "pairing_explanation": "Home building and the creation of construction materials both have substantial impacts on resource extraction, land use, and waste generation.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "When calculating Greenhouse Gas Emissions metrics, what is the key difference between Construction Materials and Home Builders companies?",
+    "optionA": "Construction Materials companies must disclose gross global Scope 1 emissions, while Home Builders companies do not have to disclose any Greenhouse Gas Emissions metrics.",
+    "optionB": "Construction Materials companies must disclose the percentage of emissions covered by emissions-limiting regulations, while Home Builders companies do not have a similar requirement.",
+    "optionC": "Home Builders companies must disclose the number of lots and homes in regions with High or Extremely High Baseline Water Stress, while Construction Materials companies do not have a similar requirement.",
+    "optionD": "Construction Materials companies must disclose a discussion of their strategy to manage Scope 1 emissions, while Home Builders companies only need to disclose quantitative emissions data.",
+    "optionE": "There is no key difference in how Greenhouse Gas Emissions metrics are calculated between the two industries.",
+    "answer": "B",
+    "reference_text": [
+      "3 The entity shall disclose the percentage of its gross global Scope 1 GHG emissions that are covered under an emissions-limiting regulation or program that is intended to directly limit or reduce emissions, such as cap-and-trade schemes, carbon tax/fee systems, and other emissions control (e.g., command-and-control approach) and permit-based mechanisms.",
+      "The Home Builders industry does not have a similar requirement to disclose the percentage of emissions covered by emissions-limiting regulations."
+    ],
+    "pages": [
+      "55-56_b8"
+    ],
+    "industries": [
+      "b8-construction-materials",
+      "b35-home-builders"
+    ],
+    "pairing_explanation": "Home building and the creation of construction materials both have substantial impacts on resource extraction, land use, and waste generation.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for the Construction Materials and Home Builders industries.",
+    "optionA": "EM-CM-110a.1, EM-CM-120a.1, EM-CM-130a.1, EM-CM-140a.1, EM-CM-150a.1, EM-CM-410a.1, EM-CM-410a.2, IF-HB-160a.1, IF-HB-160a.2, IF-HB-410a.1, IF-HB-410a.2, IF-HB-410a.3, IF-HB-420a.1",
+    "optionB": "EM-CM-110a.2, EM-CM-160a.4, IF-HB-410a.4, IF-HB-420a.2",
+    "optionC": "EM-CM-000.A, IF-HB-000.A, IF-HB-000.B, IF-HB-000.C",
+    "optionD": "EM-CM-110a.1, EM-CM-120a.1, EM-CM-130a.1, EM-CM-140a.1, EM-CM-150a.1, EM-CM-410a.1, EM-CM-410a.2, IF-HB-160a.1, IF-HB-160a.2, IF-HB-160a.3, IF-HB-410a.1, IF-HB-410a.2, IF-HB-410a.3, IF-HB-420a.1",
+    "optionE": "EM-CM-110a.1, EM-CM-110a.2, EM-CM-120a.1, EM-CM-130a.1, EM-CM-140a.1, EM-CM-150a.1, EM-CM-410a.1, EM-CM-410a.2, IF-HB-160a.1, IF-HB-160a.2, IF-HB-160a.3, IF-HB-410a.1, IF-HB-410a.2, IF-HB-410a.3, IF-HB-420a.1, IF-HB-420a.2",
+    "answer": "D",
+    "reference_text": [
+      "Table 1 for Construction Materials shows the following Quantitative metrics: EM-CM-110a.1, EM-CM-120a.1, EM-CM-130a.1, EM-CM-140a.1, EM-CM-150a.1, EM-CM-410a.1, EM-CM-410a.2",
+      "Table 1 for Home Builders shows the following Quantitative metrics: IF-HB-160a.1, IF-HB-160a.2, IF-HB-160a.3, IF-HB-410a.1, IF-HB-410a.2, IF-HB-410a.3, IF-HB-420a.1"
+    ],
+    "pages": [
+      "48_b8",
+      "346_b35"
+    ],
+    "industries": [
+      "b8-construction-materials",
+      "b35-home-builders"
+    ],
+    "pairing_explanation": "Home building and the creation of construction materials both have substantial impacts on resource extraction, land use, and waste generation.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Give me the codes for all the 'Discussion and Analysis' metrics in Table 1 for the Construction Materials and Home Builders industries.",
+    "optionA": "EM-CM-110a.2, EM-CM-160a.4, IF-HB-160a.4, IF-HB-410a.4, IF-HB-420a.2",
+    "optionB": "EM-CM-000.A, IF-HB-000.A, IF-HB-000.B, IF-HB-000.C",
+    "optionC": "EM-CM-110a.1, EM-CM-120a.1, EM-CM-130a.1, EM-CM-140a.1, EM-CM-150a.1, EM-CM-410a.1, EM-CM-410a.2, IF-HB-160a.1, IF-HB-160a.2, IF-HB-410a.1, IF-HB-410a.2, IF-HB-410a.3, IF-HB-420a.1",
+    "optionD": "EM-CM-110a.1, EM-CM-110a.2, EM-CM-120a.1, EM-CM-130a.1, EM-CM-140a.1, EM-CM-150a.1, EM-CM-410a.1, EM-CM-410a.2, IF-HB-160a.1, IF-HB-160a.2, IF-HB-160a.3, IF-HB-410a.1, IF-HB-410a.2, IF-HB-410a.3, IF-HB-420a.1, IF-HB-420a.2",
+    "optionE": "EM-CM-110a.2, IF-HB-160a.4, IF-HB-410a.4, IF-HB-420a.2",
+    "answer": "A",
+    "reference_text": [
+      "Table 1 for Construction Materials shows the following 'Discussion and Analysis' metric: EM-CM-110a.2",
+      "Table 1 for Home Builders shows the following 'Discussion and Analysis' metrics: IF-HB-160a.4, IF-HB-410a.4, IF-HB-420a.2"
+    ],
+    "pages": [
+      "48_b8",
+      "346_b35"
+    ],
+    "industries": [
+      "b8-construction-materials",
+      "b35-home-builders"
+    ],
+    "pairing_explanation": "Home building and the creation of construction materials both have substantial impacts on resource extraction, land use, and waste generation.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Are there any common sustainability topics between the Construction Materials and Home Builders industries, and if so, how do their reporting requirements differ?",
+    "optionA": "There are no common sustainability topics between the two industries based on the information provided.",
+    "optionB": "The two industries share the 'Greenhouse Gas Emissions' topic, but the reporting requirements are essentially the same for both industries.",
+    "optionC": "The two industries share the 'Land Use & Ecological Impacts' topic, but the Home Builders industry has more detailed reporting requirements on aspects like site selection and ecosystem impacts.",
+    "optionD": "The two industries share the 'Energy Management' topic, but the Construction Materials industry has more quantitative reporting requirements related to energy use and sources.",
+    "optionE": "The two industries share the 'Design for Resource Efficiency' topic, and the reporting requirements are very similar in covering aspects like energy and water efficiency in buildings/homes.",
+    "answer": "C",
+    "reference_text": [
+      "For the Construction Materials industry, the 'Land Use & Ecological Impacts' topic is not covered.",
+      "For the Home Builders industry, the 'Land Use & Ecological Impacts' topic covers: Number of lots/homes on redevelopment sites, in water stressed regions, monetary losses from environmental regulations, and discussion of integrating environmental considerations into site selection, design and construction.",
+      "The Home Builders industry clearly has more detailed reporting requirements around land use and ecological impacts compared to the Construction Materials industry based on the information provided."
+    ],
+    "pages": [
+      "48-66_b8",
+      "346-351_b35"
+    ],
+    "industries": [
+      "b8-construction-materials",
+      "b35-home-builders"
+    ],
+    "pairing_explanation": "Home building and the creation of construction materials both have substantial impacts on resource extraction, land use, and waste generation.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "List the activity metrics for Volume B9\u2014Iron & Steel Producers and Volume B50\u2014Industrial Machinery & Goods industries.",
+    "optionA": "For Iron & Steel Producers: Raw steel production, percentage from: (1) basic oxygen furnace processes, (2) electric arc furnace processes; Total iron ore production; Total coking coal production. For Industrial Machinery & Goods: Number of units produced by product category; Number of employees.",
+    "optionB": "For Iron & Steel Producers: None. For Industrial Machinery & Goods: None.",
+    "optionC": "For Iron & Steel Producers: Total energy consumed. For Industrial Machinery & Goods: Total energy consumed.",
+    "optionD": "For Iron & Steel Producers: Raw material sourcing risks. For Industrial Machinery & Goods: Emissions of nitrogen oxides (NOx) and particulate matter (PM).",
+    "optionE": "For Iron & Steel Producers: None listed. For Industrial Machinery & Goods: None listed.",
+    "answer": "A",
+    "reference_text": [
+      "Table 2. Activity Metrics: For Iron & Steel Producers: Raw steel production, percentage from: (1) basic oxygen furnace processes, (2) electric arc furnace processes; Total iron ore production; Total coking coal production.",
+      "Table 2. Activity Metrics: For Industrial Machinery & Goods: Number of units produced by product category; Number of employees."
+    ],
+    "pages": [
+      "74",
+      "528"
+    ],
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "pairing_explanation": "These industries are interrelated as steel production feeds into machinery manufacturing, necessitating reviews of supply chain sustainability and emissions.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "What are the common metrics shared between Volume B9\u2014Iron & Steel Producers and Volume B50\u2014Industrial Machinery & Goods industries in Table 1?",
+    "optionA": "There are no common metrics between the two industries.",
+    "optionB": "The common metric is (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable.",
+    "optionC": "The common metrics are: Greenhouse Gas Emissions and Energy Management.",
+    "optionD": "There is no Table 1 provided for these industries.",
+    "optionE": "The common metric is Supply Chain Management.",
+    "answer": "B",
+    "reference_text": [
+      "Table 1 for Iron & Steel Producers includes the metric: Energy Management: (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable",
+      "Table 1 for Industrial Machinery & Goods includes the metric: Energy Management: (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+    ],
+    "pages": [
+      "72",
+      "529"
+    ],
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "pairing_explanation": "These industries are interrelated as steel production feeds into machinery manufacturing, necessitating reviews of supply chain sustainability and emissions.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Volume B9\u2014Iron & Steel Producers and Volume B50\u2014Industrial Machinery & Goods industries?",
+    "optionA": "Volume B9\u2014Iron & Steel Producers has more Quantitative metrics.",
+    "optionB": "Volume B50\u2014Industrial Machinery & Goods has more Quantitative metrics.",
+    "optionC": "Both industries have the same number of Quantitative metrics in Table 1.",
+    "optionD": "There are no Quantitative metrics listed in Table 1 for either industry.",
+    "optionE": "<UNKNOWN>",
+    "answer": "A",
+    "reference_text": [
+      "For Iron & Steel Producers, Table 1 lists 5 Quantitative metrics.",
+      "For Industrial Machinery & Goods, Table 1 lists 4 Quantitative metrics."
+    ],
+    "pages": [
+      "72",
+      "529"
+    ],
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "pairing_explanation": "These industries are interrelated as steel production feeds into machinery manufacturing, necessitating reviews of supply chain sustainability and emissions.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Volume B9\u2014Iron & Steel Producers and Volume B50\u2014Industrial Machinery & Goods industries.",
+    "optionA": "For Iron & Steel Producers: Greenhouse Gas Emissions and Supply Chain Management. For Industrial Machinery & Goods: None.",
+    "optionB": "For Iron & Steel Producers: Energy Management and Water Management. For Industrial Machinery & Goods: Energy Management.",
+    "optionC": "For Iron & Steel Producers: None. For Industrial Machinery & Goods: None.",
+    "optionD": "For Iron & Steel Producers: Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets; Discussion of the process for managing iron ore and/or coking coal sourcing risks arising from environmental and social issues. For Industrial Machinery & Goods: None.",
+    "optionE": "For Iron & Steel Producers: None listed. For Industrial Machinery & Goods: None listed.",
+    "answer": "D",
+    "reference_text": [
+      "Table 1 for Iron & Steel Producers lists the following 'Discussion and Analysis' metrics: Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions...; Discussion of the process for managing iron ore and/or coking coal sourcing risks...",
+      "Table 1 for Industrial Machinery & Goods does not list any 'Discussion and Analysis' metrics."
+    ],
+    "pages": [
+      "72",
+      "529"
+    ],
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "pairing_explanation": "These industries are interrelated as steel production feeds into machinery manufacturing, necessitating reviews of supply chain sustainability and emissions.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "For the Iron & Steel Producers and Industrial Machinery & Goods industries, what are the codes for all the 'Quantitative' metrics in Table 1?",
+    "optionA": "EM-IS-110a.1, EM-IS-130a.1, EM-IS-130a.2, EM-IS-140a.1, RT-IG-130a.1, RT-IG-410a.1, RT-IG-410a.2, RT-IG-410a.3, RT-IG-410a.4",
+    "optionB": "EM-IS-110a.2, EM-IS-430a.1",
+    "optionC": "EM-IS-110a.1, RT-IG-130a.1, RT-IG-410a.1, RT-IG-410a.2, RT-IG-410a.3, RT-IG-410a.4",
+    "optionD": "EM-IS-130a.1, EM-IS-130a.2, EM-IS-140a.1, RT-IG-130a.1, RT-IG-410a.1, RT-IG-410a.2, RT-IG-410a.3, RT-IG-410a.4",
+    "optionE": "EM-IS-110a.1, EM-IS-110a.2, EM-IS-430a.1, RT-IG-130a.1, RT-IG-410a.1, RT-IG-410a.2, RT-IG-410a.3, RT-IG-410a.4",
+    "answer": "D",
+    "reference_text": [
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|-------|--------|----------|------------------|------|",
+      "| Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%) | EM-IS-110a.1 |",
+      "| Energy Management | (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | EM-IS-130a.1 |",
+      "| Energy Management | (1) Total fuel consumed, (2) percentage coal, (3) percentage natural gas, (4) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | EM-IS-130a.2 |",
+      "| Water Management | (1) Total fresh water withdrawn, (2) percentage recycled, (3) percentage in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%) | EM-IS-140a.1 |",
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|-------|--------|----------|--------------------|------|",
+      "| Energy Management | (1) Total energy consumed, (2) percent- age grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | RT-IG-130a.1 |",
+      "| Fuel Economy & Emissions in Use-phase | Sales-weighted fleet fuel efficiency for medium- and heavy-duty vehicles | Quantitative | Gallons per 1,000 ton- miles | RT-IG-410a.1 |",
+      "| Fuel Economy & Emissions in Use-phase | Sales-weighted fuel efficiency for non- road equipment | Quantitative | Gallons per hour | RT-IG-410a.2 |",
+      "| Fuel Economy & Emissions in Use-phase | Sales-weighted fuel efficiency for stationary generators | Quantitative | Watts per gallon | RT-IG-410a.3 |",
+      "| Fuel Economy & Emissions in Use-phase | Sales-weighted emissions of: (1) nitrogen oxides (NOx) and (2) partic- ulate matter (PM) for: (a) marine diesel engines, (b) locomotive diesel engines, (c) on-road medium- and heavy-duty engines, and (d) other non-road diesel engines 88 | Quantitative | Grams per kilowatt-hour | RT-IG-410a.4 |"
+    ],
+    "pages": [
+      "69-70",
+      "528-529"
+    ],
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "pairing_explanation": "These industries are interrelated as steel production feeds into machinery manufacturing, necessitating reviews of supply chain sustainability and emissions.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "For the Iron & Steel Producers and Industrial Machinery & Goods industries, what are the codes for all the 'Discussion and Analysis' metrics in Table 1?",
+    "optionA": "EM-IS-110a.1, RT-IG-130a.1, RT-IG-410a.1, RT-IG-410a.2, RT-IG-410a.3, RT-IG-410a.4",
+    "optionB": "EM-IS-110a.2, EM-IS-430a.1",
+    "optionC": "EM-IS-140a.1, RT-IG-130a.1, RT-IG-410a.1, RT-IG-410a.2, RT-IG-410a.3, RT-IG-410a.4",
+    "optionD": "EM-IS-130a.1, EM-IS-130a.2, RT-IG-130a.1, RT-IG-410a.1, RT-IG-410a.2, RT-IG-410a.3, RT-IG-410a.4",
+    "optionE": "EM-IS-110a.1, EM-IS-130a.1, EM-IS-130a.2, EM-IS-140a.1, RT-IG-130a.1, RT-IG-410a.1, RT-IG-410a.2, RT-IG-410a.3, RT-IG-410a.4",
+    "answer": "B",
+    "reference_text": [
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|-------|--------|----------|------------------|------|",
+      "| Greenhouse Gas Emissions | Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a | EM-IS-110a.2 |",
+      "| Supply Chain Management | Discussion of the process for managing iron ore and/or coking coal sourcing risks arising from environmental and social issues | Discussion and Analysis | n/a | EM-IS-430a.1 |"
+    ],
+    "pages": [
+      "69-70"
+    ],
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "pairing_explanation": "These industries are interrelated as steel production feeds into machinery manufacturing, necessitating reviews of supply chain sustainability and emissions.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "When preparing sustainability reports, how do the metrics for measuring energy management differ between the Iron & Steel Producers and Industrial Machinery & Goods industries?",
+    "optionA": "The industries have the same energy management metrics, only differing in the metric codes used.",
+    "optionB": "The Iron & Steel Producers industry has additional metrics related to fuel consumption breakdowns by type, while the Industrial Machinery & Goods industry focuses only on total energy consumption.",
+    "optionC": "The Industrial Machinery & Goods industry has no metrics related to energy management.",
+    "optionD": "The Iron & Steel Producers industry metrics cover only total energy consumption, while the Industrial Machinery & Goods industry has additional metrics on fuel efficiency for vehicles and generators.",
+    "optionE": "The industries use completely different metrics for measuring energy management, with no overlap.",
+    "answer": "B",
+    "reference_text": [
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|-------|--------|----------|------------------|------|",
+      "| Energy Management | (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | EM-IS-130a.1 |",
+      "| Energy Management | (1) Total fuel consumed, (2) percentage coal, (3) percentage natural gas, (4) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | EM-IS-130a.2 |",
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|-------|--------|----------|--------------------|------|",
+      "| Energy Management | (1) Total energy consumed, (2) percent- age grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | RT-IG-130a.1 |"
+    ],
+    "pages": [
+      "75-78",
+      "529-530"
+    ],
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "pairing_explanation": "These industries are interrelated as steel production feeds into machinery manufacturing, necessitating reviews of supply chain sustainability and emissions.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "When calculating emissions metrics, what is the key difference between Iron & Steel Producers and Industrial Machinery & Goods companies?",
+    "optionA": "Iron & Steel Producers calculate emissions based on the amount of raw materials processed, while Industrial Machinery & Goods calculate emissions based on the fuel efficiency of their products.",
+    "optionB": "There is no difference, both industries calculate emissions the same way based on total energy consumption.",
+    "optionC": "Iron & Steel Producers calculate Scope 1 emissions, while Industrial Machinery & Goods calculate emissions produced during the use phase of their products.",
+    "optionD": "Industrial Machinery & Goods companies are not required to report any emissions metrics.",
+    "optionE": "The industries use completely different methodologies for calculating emissions that are not specified in the reporting standards.",
+    "answer": "C",
+    "reference_text": [
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|-------|--------|----------|------------------|------|",
+      "| Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%) | EM-IS-110a.1 |",
+      "| Fuel Economy & Emissions in Use-phase | Sales-weighted emissions of: (1) nitrogen oxides (NOx) and (2) partic- ulate matter (PM) for: (a) marine diesel engines, (b) locomotive diesel engines, (c) on-road medium- and heavy-duty engines, and (d) other non-road diesel engines 88 | Quantitative | Grams per kilowatt-hour | RT-IG-410a.4 |"
+    ],
+    "pages": [
+      "71-74",
+      "531-533"
+    ],
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "pairing_explanation": "These industries are interrelated as steel production feeds into machinery manufacturing, necessitating reviews of supply chain sustainability and emissions.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "What are the qualitative metrics related to Greenhouse Gas Emissions that need to be disclosed for the Metals & Mining industry?",
+    "optionA": "Number of incidents of non-compliance associated with water quality permits, standards, and regulations.",
+    "optionB": "Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets.",
+    "optionC": "(1) Total fresh water withdrawn, (2) total fresh water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress.",
+    "optionD": "Number of units produced by product category.",
+    "optionE": "Production of (1) metal ores and (2) finished metal products.",
+    "answer": "B",
+    "reference_text": [
+      "EM-MM-110a.2. Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets"
+    ],
+    "pages": [
+      "84"
+    ],
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "pairing_explanation": "Mining provides critical raw materials for electronic equipment, presenting issues of resource depletion and recycling within closed-loop systems.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "What are the required disclosure topics for the Electrical & Electronic Equipment industry related to energy and product lifecycle management?",
+    "optionA": "Energy Management, Product Lifecycle Management",
+    "optionB": "Greenhouse Gas Emissions, Water Management",
+    "optionC": "Greenhouse Gas Emissions, Energy Management",
+    "optionD": "Water Management, Product Lifecycle Management",
+    "optionE": "Energy Management, Waste Management",
+    "answer": "A",
+    "reference_text": [
+      "Table 1. Sustainability Disclosure Topics & Metrics",
+      "TOPIC",
+      "Energy Management",
+      "Product Lifecycle Management"
+    ],
+    "pages": [
+      "522"
+    ],
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "pairing_explanation": "Mining provides critical raw materials for electronic equipment, presenting issues of resource depletion and recycling within closed-loop systems.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "What quantitative metric should be disclosed for the percentage of products containing IEC 62474 declarable substances for the Electrical & Electronic Equipment industry?",
+    "optionA": "Percentage of products by revenue that meet ENERGY STAR\u00ae criteria for energy efficiency certification.",
+    "optionB": "Percentage of products by revenue that contain IEC 62474 declarable substances.",
+    "optionC": "Revenue from renewable energy-related and energy efficiency-related products.",
+    "optionD": "Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations.",
+    "optionE": "(1) Total fresh water withdrawn, (2) total fresh water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress.",
+    "answer": "B",
+    "reference_text": [
+      "RT-EE-410a.1. Percentage of products by revenue that contain IEC 62474 declarable substances"
+    ],
+    "pages": [
+      "525"
+    ],
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "pairing_explanation": "Mining provides critical raw materials for electronic equipment, presenting issues of resource depletion and recycling within closed-loop systems.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1, Metals & Mining or Electrical & Electronic Equipment?",
+    "optionA": "Metals & Mining industry has more Quantitative metrics.",
+    "optionB": "Both industries have equal number of Quantitative metrics.",
+    "optionC": "Electrical & Electronic Equipment industry has more Quantitative metrics.",
+    "optionD": "Neither industry has any Quantitative metrics.",
+    "optionE": "The information to determine this cannot be derived from the given content.",
+    "answer": "A",
+    "reference_text": [
+      "For Metals & Mining: EM-MM-110a.1, EM-MM-130a.1, EM-MM-140a.1 are all Quantitative. For Electrical & Electronic Equipment: Only RT-EE-130a.1, RT-EE-410a.1, RT-EE-410a.2, RT-EE-410a.3 are Quantitative."
+    ],
+    "pages": [
+      "81",
+      "522"
+    ],
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "pairing_explanation": "Mining provides critical raw materials for electronic equipment, presenting issues of resource depletion and recycling within closed-loop systems.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "What units of measurement are used across the Electrical & Electronic Equipment and Metals & Mining industries for measuring water management metrics?",
+    "optionA": "Thousand cubic meters (m\u00b3), Percentage (%)",
+    "optionB": "Metric tons (t), Percentage (%)",
+    "optionC": "Gigajoules (GJ), Percentage (%)",
+    "optionD": "Number, Reporting currency",
+    "optionE": "Percentage (%) by revenue, Reporting currency",
+    "answer": "A",
+    "reference_text": [
+      "(1) Total fresh water withdrawn, (2) total fresh water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%)"
+    ],
+    "pages": [
+      "88_b10",
+      "525_b49"
+    ],
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "pairing_explanation": "Mining provides critical raw materials for electronic equipment, presenting issues of resource depletion and recycling within closed-loop systems.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for the Electrical & Electronic Equipment and Metals & Mining industries.",
+    "optionA": "RT-EE-130a.1, RT-EE-410a.1, RT-EE-410a.2, EM-MM-110a.1, EM-MM-130a.1, EM-MM-140a.1, EM-MM-140a.2",
+    "optionB": "RT-EE-130a.1, RT-EE-410a.1, RT-EE-410a.2, RT-EE-410a.3, EM-MM-110a.1, EM-MM-130a.1, EM-MM-140a.1, EM-MM-140a.2",
+    "optionC": "RT-EE-410a.1, RT-EE-410a.2, EM-MM-110a.1, EM-MM-130a.1, EM-MM-140a.1, EM-MM-140a.2",
+    "optionD": "RT-EE-130a.1, RT-EE-410a.1, RT-EE-410a.3, EM-MM-110a.1, EM-MM-130a.1, EM-MM-140a.1",
+    "optionE": "RT-EE-130a.1, RT-EE-410a.1, RT-EE-410a.2, RT-EE-410a.3, EM-MM-000.A, EM-MM-000.B, EM-MM-110a.1, EM-MM-130a.1, EM-MM-140a.1, EM-MM-140a.2",
+    "answer": "B",
+    "reference_text": [
+      "RT-EE-130a.1, RT-EE-410a.1, RT-EE-410a.2, RT-EE-410a.3",
+      "EM-MM-110a.1, EM-MM-130a.1, EM-MM-140a.1, EM-MM-140a.2"
+    ],
+    "pages": [
+      "522_b49",
+      "81_b10"
+    ],
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "pairing_explanation": "Mining provides critical raw materials for electronic equipment, presenting issues of resource depletion and recycling within closed-loop systems.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Are there any common sustainability topics between the Electrical & Electronic Equipment and Metals & Mining industries, and if so, how do their reporting requirements differ?",
+    "optionA": "Yes, the common topic is Energy Management. The Metals & Mining industry has to report total energy consumed, percentage grid electricity, and percentage renewable. The Electrical & Electronic Equipment industry has similar reporting requirements but also needs to report the percentage of products by revenue that contain IEC 62474 declarable substances.",
+    "optionB": "No, there are no common sustainability topics between the two industries.",
+    "optionC": "Yes, the common topic is Water Management. The reporting requirements are identical for both industries.",
+    "optionD": "Yes, the common topic is Greenhouse Gas Emissions. The Metals & Mining industry has to report gross global Scope 1 emissions and a discussion of strategy, while the Electrical & Electronic Equipment industry does not have any GHG emissions reporting requirements.",
+    "optionE": "Yes, the common topic is Product Lifecycle Management. The Electrical & Electronic Equipment industry has more extensive reporting requirements related to products containing declarable substances and energy efficiency certifications.",
+    "answer": "A",
+    "reference_text": [
+      "(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%)",
+      "Percentage of products by revenue that contain IEC 62474 declarable substances | Quantitative | Percentage (%) by revenue"
+    ],
+    "pages": [
+      "87_b10",
+      "523_b49"
+    ],
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "pairing_explanation": "Mining provides critical raw materials for electronic equipment, presenting issues of resource depletion and recycling within closed-loop systems.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "When calculating greenhouse gas emissions metrics, what is the key difference between Electrical & Electronic Equipment and Metals & Mining companies?",
+    "optionA": "Metals & Mining companies have to report Scope 1 and Scope 2 emissions, while Electrical & Electronic Equipment companies only report Scope 1 emissions.",
+    "optionB": "Metals & Mining companies have to report emissions covered under emissions-limiting regulations, while Electrical & Electronic Equipment companies do not have this requirement.",
+    "optionC": "Electrical & Electronic Equipment companies have to report emissions from their products' use phase, while Metals & Mining companies only report operational emissions.",
+    "optionD": "There are no key differences in how the two industries calculate greenhouse gas emissions metrics.",
+    "optionE": "The emissions reporting requirements for the two industries are not specified in enough detail to determine a key difference.",
+    "answer": "B",
+    "reference_text": [
+      "The entity shall disclose the percentage of its gross global Scope 1 GHG emissions that are covered under an emissions-limiting regulation or program that is intended to directly limit or reduce emissions, such as cap-and-trade schemes, carbon tax/fee systems, and other emissions control (e.g., command-and-control approach) and permit-based mechanisms."
+    ],
+    "pages": [
+      "83_b10"
+    ],
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "pairing_explanation": "Mining provides critical raw materials for electronic equipment, presenting issues of resource depletion and recycling within closed-loop systems.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Are there any common sustainability topics between Volume B11\u2014Oil & Gas-Exploration & Production and Volume B32\u2014Electric Utilities & Power Generators industries?",
+    "optionA": "Yes, the common topics are Greenhouse Gas Emissions & Energy Resource Planning and Water Management.",
+    "optionB": "No, there are no common sustainability topics between the two industries.",
+    "optionC": "The common topic is only Water Management.",
+    "optionD": "The common topic is only Greenhouse Gas Emissions & Energy Resource Planning.",
+    "optionE": "There are no common topics discussed in the given content.",
+    "answer": "A",
+    "reference_text": [
+      "# IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+      "## Table 1. Sustainability Disclosure Topics & Metrics",
+      "| TOPIC | METRIC |",
+      "|-------|--------|",
+      "| Greenhouse Gas Emissions & Energy Resource Planning | ... |",
+      "| Water Management | ... |"
+    ],
+    "pages": [
+      "298_b32",
+      "306_b32"
+    ],
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ],
+    "pairing_explanation": "Both industries are central to energy production, and comparisons can highlight differences and synergies in carbon footprints and renewable integration.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Volume B32\u2014Electric Utilities & Power Generators industry.",
+    "optionA": "IF-EU-110a.3, IF-EU-140a.3, IF-EU-540a.2",
+    "optionB": "IF-EU-110a.1, IF-EU-110a.2, IF-EU-140a.2",
+    "optionC": "IF-EU-420a.2, IF-EU-420a.3, IF-EU-550a.1",
+    "optionD": "IF-EU-540a.1, IF-EU-550a.2",
+    "optionE": "There are no 'Discussion and Analysis' metrics for this industry.",
+    "answer": "A",
+    "reference_text": [
+      "| TOPIC | METRIC | CATEGORY |",
+      "|-------|--------|----------|",
+      "| Greenhouse Gas Emissions & Energy Resource Planning | Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis |",
+      "| Water Management | Description of water management risks and discussion of strategies and practices to mitigate those risks | Discussion and Analysis |",
+      "| Nuclear Safety & Emergency Management | Description of efforts to manage nuclear safety and emergency preparedness | Discussion and Analysis |"
+    ],
+    "pages": [
+      "298_b32"
+    ],
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ],
+    "pairing_explanation": "Both industries are central to energy production, and comparisons can highlight differences and synergies in carbon footprints and renewable integration.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "List the activity metrics for Volume B32\u2014Electric Utilities & Power Generators industry.",
+    "optionA": "Number of: (1) residential, (2) commercial, and (3) industrial customers served, Total electricity delivered to: (1) residential, (2) commercial, (3) industrial, (4) all other retail customers, and (5) wholesale customers, Length of transmission and distribution lines, Total electricity generated, percentage by major energy source, percentage in regulated markets, Total wholesale electricity purchased",
+    "optionB": "Greenhouse Gas Emissions & Energy Resource Planning, Water Management, End-Use Efficiency & Demand, Nuclear Safety & Emergency Management, Grid Resiliency",
+    "optionC": "IF-EU-110a.1, IF-EU-110a.2, IF-EU-140a.1, IF-EU-140a.2, IF-EU-420a.2",
+    "optionD": "There are no activity metrics listed for this industry.",
+    "optionE": "IF-EU-000.A, IF-EU-000.B, IF-EU-000.C, IF-EU-000.D, IF-EU-000.E",
+    "answer": "E",
+    "reference_text": [
+      "## Table 2. Activity Metrics",
+      "| ACTIVITY METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|-----------------|----------|-----------------|------|",
+      "| Number of: (1) residential, (2) commercial, and (3) industrial customers served | Quantitative | Number | IF-EU-000.A |",
+      "| Total electricity delivered to: (1) residential, (2) commercial, (3) industrial, (4) all other retail customers, and (5) wholesale customers | Quantitative | Megawatt hours (MWh) | IF-EU-000.B |",
+      "| Length of transmission and distribution lines | Quantitative | Kilometers (km) | IF-EU-000.C |",
+      "| Total electricity generated, percentage by major energy source, percentage in regulated markets | Quantitative | Megawatt hours (MWh), Percentage (%) | IF-EU-000.D |",
+      "| Total wholesale electricity purchased | Quantitative | Megawatt hours (MWh) | IF-EU-000.E |"
+    ],
+    "pages": [
+      "299_b32"
+    ],
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ],
+    "pairing_explanation": "Both industries are central to energy production, and comparisons can highlight differences and synergies in carbon footprints and renewable integration.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Volume B11\u2014Oil & Gas-Exploration & Production and Volume B32\u2014Electric Utilities & Power Generators industries?",
+    "optionA": "Volume B11\u2014Oil & Gas-Exploration & Production",
+    "optionB": "Volume B32\u2014Electric Utilities & Power Generators",
+    "optionC": "Both industries have the same number of 'Quantitative' metrics in Table 1.",
+    "optionD": "The given content does not specify the number of 'Quantitative' metrics for these industries.",
+    "optionE": "Neither industry has any 'Quantitative' metrics listed in Table 1.",
+    "answer": "B",
+    "reference_text": [
+      "## Table 1. Sustainability Disclosure Topics & Metrics",
+      "| TOPIC | METRIC | CATEGORY |",
+      "|-------|--------|----------|",
+      "| Greenhouse Gas Emissions & Energy Resource Planning | (1) Gross global Scope 1 emissions... | Quantitative |",
+      "| Greenhouse Gas Emissions & Energy Resource Planning | Greenhouse gas (GHG) emissions associated with power deliveries | Quantitative |",
+      "| Water Management | (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative |",
+      "| Water Management | Number of incidents of non-compliance associated with water quantity and/or quality permits, standards, and regulations | Quantitative |",
+      "| End-Use Efficiency & Demand | Percentage of electric load served by smart grid technology | Quantitative |",
+      "| End-Use Efficiency & Demand | Customer electricity savings from efficiency measures, by market | Quantitative |",
+      "| Nuclear Safety & Emergency Management | Total number of nuclear power units, broken down by U.S... | Quantitative |",
+      "| Grid Resiliency | Number of incidents of non-compliance with physical and/or cybersecurity standards or regulations | Quantitative |",
+      "| Grid Resiliency | (1) System Average Interruption Duration Index... | Quantitative |"
+    ],
+    "pages": [
+      "298_b32"
+    ],
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ],
+    "pairing_explanation": "Both industries are central to energy production, and comparisons can highlight differences and synergies in carbon footprints and renewable integration.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Electric Utilities & Power Generators and Oil & Gas-Exploration & Production industries.",
+    "optionA": "IF-EU-110a.1, IF-EU-110a.2, IF-EU-140a.1, IF-EU-140a.2, IF-EU-420a.2, IF-EU-420a.3, IF-EU-540a.1, IF-EU-550a.1, IF-EU-550a.2",
+    "optionB": "IF-EU-110a.1, IF-EU-110a.2, IF-EU-140a.1, IF-EU-140a.2, IF-EU-420a.2, IF-EU-420a.3, IF-EU-540a.1, IF-EU-550a.1, IF-EU-550a.2, IF-OG-110a.1, IF-OG-110a.2, IF-OG-110a.3",
+    "optionC": "IF-EU-110a.1, IF-EU-110a.2, IF-EU-140a.1, IF-EU-140a.2, IF-EU-420a.2, IF-EU-420a.3, IF-EU-540a.1, IF-EU-550a.1, IF-EU-550a.2, IF-OG-120a.1",
+    "optionD": "IF-EU-110a.1, IF-EU-110a.2, IF-EU-140a.1, IF-EU-140a.2, IF-EU-000.A, IF-EU-000.B, IF-EU-000.C, IF-EU-000.D, IF-EU-000.E, IF-OG-110a.1, IF-OG-110a.2, IF-OG-110a.3, IF-OG-120a.1",
+    "optionE": "IF-EU-110a.2, IF-EU-140a.1, IF-EU-420a.2, IF-EU-540a.1, IF-EU-550a.1, IF-EU-550a.2, IF-OG-110a.1, IF-OG-110a.2, IF-OG-120a.1",
+    "answer": "D",
+    "pages": [
+      "298-299",
+      "324-325"
+    ],
+    "reference_text": [
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|-------|--------|----------|-----------------|------|",
+      "| Greenhouse Gas Emissions & Energy Resource Planning | (1) Gross global Scope 1 emissions, percentage covered under (2) emissions-limiting regulations, and (3) emissions-reporting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%) | IF-EU-110a.1 |",
+      "| Greenhouse Gas Emissions & Energy Resource Planning | Greenhouse gas (GHG) emissions associated with power deliveries | Quantitative | Metric tons (t) CO\u2082-e | IF-EU-110a.2 |",
+      "| Water Management | (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%) | IF-EU-140a.1 |",
+      "| Water Management | Number of incidents of non-compliance associated with water quantity and/or quality permits, standards, and regulations | Quantitative | Number | IF-EU-140a.2 |",
+      "| End-Use Efficiency & Demand | Percentage of electric load served by smart grid technology | Quantitative | Percentage (%) by megawatt hours (MWh) | IF-EU-420a.2 |",
+      "| End-Use Efficiency & Demand | Customer electricity savings from efficiency measures, by market | Quantitative | Megawatt hours (MWh) | IF-EU-420a.3 |",
+      "| Nuclear Safety & Emergency Management | Total number of nuclear power units, broken down by U.S. Nuclear Regulatory Commission (NRC) Action Matrix Column results of most recent independent safety review | Quantitative | Number | IF-EU-540a.1 |",
+      "| Grid Resiliency | Number of incidents of non-compliance with physical and/or cybersecurity standards or regulations | Quantitative | Number | IF-EU-550a.1 |",
+      "| Grid Resiliency | (1) System Average Interruption Duration Index (SAIDI), (2) System Average Interruption Frequency Index (SAIFI), and (3) Customer Average Interruption Duration Index (CAIDI), inclusive of major event days | Quantitative | Minutes, Number | IF-EU-550a.2 |",
+      "| ACTIVITY METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|-----------------|----------|-----------------|------|",
+      "| Number of: (1) residential, (2) commercial, and (3) industrial customers served | Quantitative | Number | IF-EU-000.A |",
+      "| Total electricity delivered to: (1) residential, (2) commercial, (3) industrial, (4) all other retail customers, and (5) wholesale customers | Quantitative | Megawatt hours (MWh) | IF-EU-000.B |",
+      "| Length of transmission and distribution lines | Quantitative | Kilometers (km) | IF-EU-000.C |",
+      "| Total electricity generated, percentage by major energy source, percentage in regulated markets | Quantitative | Megawatt hours (MWh), Percentage (%) | IF-EU-000.D |",
+      "| Total wholesale electricity purchased | Quantitative | Megawatt hours (MWh) | IF-EU-000.E |",
+      "| METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|---------|----------|-----------------|------|",
+      "| (1) Gross global Scope 1 emissions, percentage (2) methane (CH\u2084) emissions, percentage (3) covered under emissions-limiting regulations | Quantitative | Metric tons CO\u2082-e, Percentage (%) | IF-OG-110a.1 |",
+      "| Amount of gross global Scope 1 emissions from: (1) flared hydrocarbons, (2) other combustion, (3) process emissions, (4) other vented emissions, and (5) fugitive emissions | Quantitative | Metric tons CO\u2082-e | IF-OG-110a.2 |",
+      "| Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a | IF-OG-110a.3 |",
+      "| Percentage of (1) proved and (2) probable reserves in countries that have the 20 lowest rankings in Transparency International's Corruption Perception Index | Quantitative | Percentage (%) | IF-OG-120a.1 |"
+    ],
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ],
+    "pairing_explanation": "Both industries are central to energy production, and comparisons can highlight differences and synergies in carbon footprints and renewable integration.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Give me the codes for all the 'Discussion and Analysis' metrics in Table 1 for Electric Utilities & Power Generators and Oil & Gas-Exploration & Production industries.",
+    "optionA": "IF-EU-110a.3, IF-EU-140a.3, IF-OG-110a.3",
+    "optionB": "IF-EU-110a.3, IF-EU-140a.3, IF-OG-130a.3",
+    "optionC": "IF-EU-110a.3, IF-OG-110a.3",
+    "optionD": "IF-EU-110a.3, IF-EU-140a.3, IF-OG-110a.3, IF-OG-130a.3",
+    "optionE": "IF-EU-110a.3, IF-EU-540a.2, IF-OG-110a.3",
+    "answer": "A",
+    "pages": [
+      "298",
+      "324"
+    ],
+    "reference_text": [
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|-------|--------|----------|-----------------|------|",
+      "| Greenhouse Gas Emissions & Energy Resource Planning | Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a | IF-EU-110a.3 |",
+      "| Water Management | Description of water management risks and discussion of strategies and practices to mitigate those risks | Discussion and Analysis | n/a | IF-EU-140a.3 |",
+      "| METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|---------|----------|-----------------|------|",
+      "| Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a | IF-OG-110a.3 |"
+    ],
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ],
+    "pairing_explanation": "Both industries are central to energy production, and comparisons can highlight differences and synergies in carbon footprints and renewable integration.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "What units of measurement are used across Electric Utilities & Power Generators and Oil & Gas-Exploration & Production industries for measuring greenhouse gas emissions?",
+    "optionA": "Metric tons CO\u2082-e, Percentage (%)",
+    "optionB": "Metric tons CO\u2082-e, Thousand cubic meters (m\u00b3)",
+    "optionC": "Metric tons CO\u2082-e, Megawatt hours (MWh)",
+    "optionD": "Percentage (%), Megawatt hours (MWh)",
+    "optionE": "Metric tons CO\u2082-e, Percentage (%), Number",
+    "answer": "A",
+    "pages": [
+      "298",
+      "324"
+    ],
+    "reference_text": [
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|-------|--------|----------|-----------------|------|",
+      "| Greenhouse Gas Emissions & Energy Resource Planning | (1) Gross global Scope 1 emissions, percentage covered under (2) emissions-limiting regulations, and (3) emissions-reporting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%) | IF-EU-110a.1 |",
+      "| Greenhouse Gas Emissions & Energy Resource Planning | Greenhouse gas (GHG) emissions associated with power deliveries | Quantitative | Metric tons (t) CO\u2082-e | IF-EU-110a.2 |",
+      "| METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|---------|----------|-----------------|------|",
+      "| (1) Gross global Scope 1 emissions, percentage (2) methane (CH\u2084) emissions, percentage (3) covered under emissions-limiting regulations | Quantitative | Metric tons CO\u2082-e, Percentage (%) | IF-OG-110a.1 |",
+      "| Amount of gross global Scope 1 emissions from: (1) flared hydrocarbons, (2) other combustion, (3) process emissions, (4) other vented emissions, and (5) fugitive emissions | Quantitative | Metric tons CO\u2082-e | IF-OG-110a.2 |"
+    ],
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ],
+    "pairing_explanation": "Both industries are central to energy production, and comparisons can highlight differences and synergies in carbon footprints and renewable integration.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "When preparing sustainability reports, how do the metrics for measuring greenhouse gas emissions differ between the Electric Utilities & Power Generators and Oil & Gas-Exploration & Production industries?",
+    "optionA": "The Electric Utilities & Power Generators industry reports total Scope 1 emissions while the Oil & Gas industry breaks it down into different emission sources like flaring, venting, and fugitive emissions.",
+    "optionB": "There is no difference in how greenhouse gas emissions are measured between the two industries.",
+    "optionC": "The Electric Utilities & Power Generators industry measures emissions intensity while the Oil & Gas industry measures absolute emissions.",
+    "optionD": "The Oil & Gas industry only measures methane emissions while the Electric Utilities & Power Generators industry measures all Scope 1 emissions.",
+    "optionE": "The Electric Utilities & Power Generators industry reports emissions from electricity generation while the Oil & Gas industry reports emissions from exploration and production activities.",
+    "answer": "A",
+    "pages": [
+      "298",
+      "324"
+    ],
+    "reference_text": [
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|-------|--------|----------|-----------------|------|",
+      "| Greenhouse Gas Emissions & Energy Resource Planning | (1) Gross global Scope 1 emissions, percentage covered under (2) emissions-limiting regulations, and (3) emissions-reporting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%) | IF-EU-110a.1 |",
+      "| Greenhouse Gas Emissions & Energy Resource Planning | Greenhouse gas (GHG) emissions associated with power deliveries | Quantitative | Metric tons (t) CO\u2082-e | IF-EU-110a.2 |",
+      "| METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|---------|----------|-----------------|------|",
+      "| (1) Gross global Scope 1 emissions, percentage (2) methane (CH\u2084) emissions, percentage (3) covered under emissions-limiting regulations | Quantitative | Metric tons CO\u2082-e, Percentage (%) | IF-OG-110a.1 |",
+      "| Amount of gross global Scope 1 emissions from: (1) flared hydrocarbons, (2) other combustion, (3) process emissions, (4) other vented emissions, and (5) fugitive emissions | Quantitative | Metric tons CO\u2082-e | IF-OG-110a.2 |"
+    ],
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ],
+    "pairing_explanation": "Both industries are central to energy production, and comparisons can highlight differences and synergies in carbon footprints and renewable integration.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for the Insurance and Real Estate Services industries.",
+    "optionA": "FN-IN-410a.2, FN-IN-410b.2, FN-IN-450a.3, FN-IN-5",
+    "optionB": "IF-RS-410a.1, FN-IN-410a.2, FN-IN-410b.2, FN-IN-450a.3, FN-IN-5",
+    "optionC": "FN-IN-450a.3, FN-IN-5",
+    "optionD": "FN-IN-410a.2, FN-IN-410b.2, FN-IN-450a.3",
+    "optionE": "<UNKNOWN>",
+    "answer": "D",
+    "reference_text": [
+      "FN-IN-410a.2. Description of approach to incorporation of environmental, social, and governance (ESG) factors in investment management processes and strategies",
+      "FN-IN-410b.2. Discussion of products and/or product features that incentivize health, safety, and/or environmentally responsible actions and/or behaviors",
+      "FN-IN-450a.3. Description of approach to incorporation of environmental risks into (1) the underwriting process for individual contracts and (2) the management of firm-level risks and capital adequacy"
+    ],
+    "pages": [
+      "159_b1",
+      "161_b1",
+      "166_b1"
+    ],
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ],
+    "pairing_explanation": "Insurance companies assess risks associated with property, linking sustainability to real estate services through climate risk and resilience planning.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "What are the common metrics shared between the Insurance and Real Estate Services industries in Table 1?",
+    "optionA": "There are no common metrics shared between the two industries.",
+    "optionB": "FN-IN-410a.2, FN-IN-410b.2",
+    "optionC": "FN-IN-450a.3, FN-IN-5",
+    "optionD": "IF-RS-410a.1, FN-IN-410a.2, FN-IN-410b.2, FN-IN-450a.3, FN-IN-5",
+    "optionE": "<UNKNOWN>",
+    "answer": "A",
+    "reference_text": [
+      "Table 1 for the Insurance industry lists different metrics than Table 1 for the Real Estate Services industry, with no overlapping metrics."
+    ],
+    "pages": [
+      "158_b1",
+      "393_b3"
+    ],
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ],
+    "pairing_explanation": "Insurance companies assess risks associated with property, linking sustainability to real estate services through climate risk and resilience planning.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "List the activity metrics for the Insurance and Real Estate Services industries.",
+    "optionA": "For Insurance: FN-IN-000.A. For Real Estate Services: IF-RS-000.A, IF-RS-000.B, IF-RS-000.C, IF-RS-000.D, IF-RS-000.E",
+    "optionB": "For Insurance: Number of policies in force, by segment: (1) property and casualty, (2) life, (3) assumed reinsurance. For Real Estate Services: Number of property management clients, categorized by: (1) tenants and (2) real estate owners, Floor area under management with owner operational control, Number of buildings under management with owner operational control, Number of leases transacted, categorized by: (1) tenants and (2) real estate owners, Number of appraisals provided",
+    "optionC": "For Insurance: Number of policies in force, by segment: (1) property and casualty, (2) life, (3) assumed reinsurance. For Real Estate Services: IF-RS-000.A, IF-RS-000.B, IF-RS-000.C, IF-RS-000.D, IF-RS-000.E",
+    "optionD": "For Insurance: FN-IN-000.A. For Real Estate Services: Number of property management clients, categorized by: (1) tenants and (2) real estate owners, Floor area under management with owner operational control, Number of buildings under management with owner operational control, Number of leases transacted, categorized by: (1) tenants and (2) real estate owners, Number of appraisals provided",
+    "optionE": "<UNKNOWN>",
+    "answer": "B",
+    "reference_text": [
+      "For Insurance industry: Number of policies in force, by segment: (1) property and casualty, (2) life, (3) assumed reinsurance",
+      "For Real Estate Services industry: Number of property management clients, categorized by: (1) tenants and (2) real estate owners, Floor area under management with owner operational control, Number of buildings under management with owner operational control, Number of leases transacted, categorized by: (1) tenants and (2) real estate owners, Number of appraisals provided"
+    ],
+    "pages": [
+      "157_b1",
+      "391_b3",
+      "392_b3"
+    ],
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ],
+    "pairing_explanation": "Insurance companies assess risks associated with property, linking sustainability to real estate services through climate risk and resilience planning.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between the Insurance and Real Estate Services industries?",
+    "optionA": "The Insurance industry has more quantitative metrics.",
+    "optionB": "The Real Estate Services industry has more quantitative metrics.",
+    "optionC": "Both industries have the same number of quantitative metrics.",
+    "optionD": "Not enough information is provided to determine which industry has more quantitative metrics.",
+    "optionE": "<UNKNOWN>",
+    "answer": "B",
+    "reference_text": [
+      "For the Insurance industry, Table 1 lists 10 quantitative metrics: FN-IN-410b.1, FN-IN-450a.1, FN-IN-450a.2, FN-IN-1, FN-IN-2, FN-IN-3, FN-IN-4. For the Real Estate Services industry, Table 1 lists 6 quantitative metrics: IF-RS-410a.1, IF-RS-410a.2, IF-RS-410a.3."
+    ],
+    "pages": [
+      "155_b1",
+      "393_b3"
+    ],
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ],
+    "pairing_explanation": "Insurance companies assess risks associated with property, linking sustainability to real estate services through climate risk and resilience planning.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for the Insurance and Real Estate Services industries.",
+    "optionA": "FN-IN-410b.1, FN-IN-450a.1, FN-IN-450a.2, FN-IN-1, FN-IN-2, FN-IN-3, FN-IN-4, IF-RS-410a.1, IF-RS-410a.2, IF-RS-410a.3, IF-RS-000.A, IF-RS-000.B, IF-RS-000.C, IF-RS-000.D, IF-RS-000.E",
+    "optionB": "FN-IN-410a.2, FN-IN-410b.2, FN-IN-450a.3, IF-RS-410a.1, IF-RS-410a.2, IF-RS-410a.3",
+    "optionC": "FN-IN-410b.1, FN-IN-450a.1, FN-IN-450a.2, FN-IN-1, FN-IN-2, FN-IN-3, FN-IN-4, IF-RS-000.A, IF-RS-000.B, IF-RS-000.C, IF-RS-000.D, IF-RS-000.E",
+    "optionD": "FN-IN-410b.2, FN-IN-450a.3, IF-RS-410a.1, IF-RS-410a.2, IF-RS-410a.3",
+    "optionE": "<UNKNOWN>",
+    "answer": "C",
+    "pages": [
+      "159_b17",
+      "391_b37"
+    ],
+    "reference_text": [
+      "Table 1. Sustainability Disclosure Topics & Metrics: FN-IN-410b.1, FN-IN-450a.1, FN-IN-450a.2, FN-IN-1, FN-IN-2, FN-IN-3, FN-IN-4",
+      "Table 2. Activity Metrics: FN-IN-000.A",
+      "Table 1. Sustainability Disclosure Topics & Metrics: IF-RS-410a.1, IF-RS-410a.2, IF-RS-410a.3",
+      "Table 2. Activity Metrics: IF-RS-000.A, IF-RS-000.B, IF-RS-000.C, IF-RS-000.D, IF-RS-000.E"
+    ],
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ],
+    "pairing_explanation": "Insurance companies assess risks associated with property, linking sustainability to real estate services through climate risk and resilience planning.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "What units of measurement are used across the Insurance and Real Estate Services industries for measuring floor area?",
+    "optionA": "Square miles (mi\u00b2), Number",
+    "optionB": "Acres, Number",
+    "optionC": "Hectares, Number",
+    "optionD": "Square feet (ft\u00b2), Number",
+    "optionE": "<UNKNOWN>",
+    "answer": "D",
+    "pages": [
+      "159_b17",
+      "391_b37",
+      "394_b37"
+    ],
+    "reference_text": [
+      "IF-RS-410a.2: (1) Floor area and (2) number of buildings under management provided with energy and sustainability services: Square feet (ft\u00b2), Number",
+      "IF-RS-410a.3: (1) Floor area and (2) number of buildings under management that obtained an energy rating: Square feet (ft\u00b2), Number",
+      "IF-RS-000.B: Floor area under management with owner operational control 56: Square feet (ft\u00b2)"
+    ],
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ],
+    "pairing_explanation": "Insurance companies assess risks associated with property, linking sustainability to real estate services through climate risk and resilience planning.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Are there any common sustainability topics between the Insurance and Real Estate Services industries, and if so, how do their reporting requirements differ?",
+    "optionA": "No, there are no common sustainability topics between the two industries.",
+    "optionB": "Yes, both industries have a common 'Sustainability Services' topic, but the reporting metrics differ. The Insurance industry does not have quantitative metrics for this topic, while the Real Estate Services industry has quantitative metrics for revenue, floor area, and number of buildings related to sustainability services.",
+    "optionC": "Yes, both industries have a common 'Environmental Risk Exposure' topic, but the reporting requirements are exactly the same for both industries.",
+    "optionD": "Yes, both industries have a common 'Transition Risk Exposure' topic, and the reporting requirements are identical with no differences between the two industries.",
+    "optionE": "<UNKNOWN>",
+    "answer": "B",
+    "pages": [
+      "159_b17",
+      "393_b37"
+    ],
+    "reference_text": [
+      "The Insurance industry does not have any 'Quantitative' metrics listed under the 'Policies Designed to Incentivize Responsible Behavior' topic in Table 1.",
+      "The Real Estate Services industry has the following 'Quantitative' metrics under the 'Sustainability Services' topic in Table 1: IF-RS-410a.1 'Revenue from energy and sustainability services', IF-RS-410a.2 '(1) Floor area and (2) number of buildings under management provided with energy and sustainability services', IF-RS-410a.3 '(1) Floor area and (2) number of buildings under management that obtained an energy rating'"
+    ],
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ],
+    "pairing_explanation": "Insurance companies assess risks associated with property, linking sustainability to real estate services through climate risk and resilience planning.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "When preparing sustainability reports, how do the metrics for measuring transition risk exposure differ between the Insurance and Real Estate Services industries?",
+    "optionA": "The Insurance industry has more quantitative metrics related to transition risk exposure compared to the Real Estate Services industry.",
+    "optionB": "Both industries have the same set of quantitative metrics related to transition risk exposure.",
+    "optionC": "The Real Estate Services industry does not have any metrics related to transition risk exposure.",
+    "optionD": "The Real Estate Services industry has more discussion and analysis based metrics related to transition risk exposure compared to the Insurance industry.",
+    "optionE": "<UNKNOWN>",
+    "answer": "A",
+    "pages": [
+      "159_b17",
+      "168_b17"
+    ],
+    "reference_text": [
+      "The Insurance industry has the following quantitative metrics listed under 'Transition Risk Exposure' in Table 1: FN-IN-1, FN-IN-2, FN-IN-3, FN-IN-4",
+      "The Real Estate Services industry does not have any metrics listed under 'Transition Risk Exposure' in Table 1."
+    ],
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ],
+    "pairing_explanation": "Insurance companies assess risks associated with property, linking sustainability to real estate services through climate risk and resilience planning.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "What are the common metrics shared between the Solar Technology & Project Developers and Wind Technology & Project Developers industries?",
+    "optionA": "There are no common metrics shared between the two industries.",
+    "optionB": "The only common metric is 'Description of approach to optimize materials efficiency of wind turbine design'.",
+    "optionC": "The common metrics are 'Total energy consumed' and 'Total water withdrawn'.",
+    "optionD": "There are no quantitative common metrics, but the qualitative common metric is 'Description of approach to optimize materials efficiency of wind turbine design'.",
+    "optionE": "The common metrics are 'Total capacity of photovoltaic (PV) solar modules produced' and 'Number of delivered wind turbines, by wind turbine class'.",
+    "answer": "D",
+    "reference_text": [
+      "Industry: Solar Technology & Project Developers\n\n## Table 1. Sustainability Disclosure Topics & Metrics\n\n| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |\n|-------|--------|----------|------------------|------|\n| Energy Management in Manufacturing | (1) Total energy consumed, (2) percent- age grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | RR-ST-130a.1 |\n| Water Management in Manufacturing | (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percent- age (%) | RR-ST-140a.1 |\n| Water Management in Manufacturing | Description of water management risks and discussion of strategies and practi- ces to mitigate those risks | Discussion and Analysis | n/a | RR-ST-140a.2 |\n| Management of Energy Infrastructure Integration & Related Regulations | Description of risks associated with integration of solar energy into existing energy infrastructure and discussion of efforts to manage those risks | Discussion and Analysis | n/a | RR-ST-410a.1 |\n| Management of Energy Infrastructure Integration & Related Regulations | Description of risks and opportunities associated with energy policy and its impact on the integration of solar energy into existing energy infrastructure | Discussion and Analysis | n/a | RR-ST-410a.2 |\n\nIndustry: Wind Technology & Project Developers\n\n## Table 1. Sustainability Disclosure Topics & Metrics\n\n| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |\n|-------|--------|----------|------------------|------|\n| Materials Efficiency | Top five materials consumed, by weight | Quantitative | Metric tons (t) | RR-WT-440b.1 |\n| Materials Efficiency | Average top head mass per turbine capacity, by wind turbine class | Quantitative | Metric tons per megawatts (MW) | RR-WT-440b.2 |\n| Materials Efficiency | Description of approach to optimize materials efficiency of wind turbine design | Discussion and Analysis | n/a | RR-WT-440b.3 |"
+    ],
+    "pages": [
+      "473-475_b44",
+      "483-486_b45"
+    ],
+    "industries": [
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ],
+    "pairing_explanation": "Both industries are central to the renewable energy sector and share sustainability themes related to lifecycle analysis, resource use, and environmental impact.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "List the activity metrics for the Solar Technology & Project Developers and Wind Technology & Project Developers industries.",
+    "optionA": "Total capacity of photovoltaic (PV) solar modules produced, Total capacity of completed solar energy systems, Total project development assets.",
+    "optionB": "Total capacity of photovoltaic (PV) solar modules produced, Total capacity of completed solar energy systems, Total project development assets, Number of delivered wind turbines by wind turbine class, Aggregate capacity of delivered wind turbines by wind turbine class, Amount of turbine backlog, Aggregate capacity of turbine backlog.",
+    "optionC": "Number of delivered wind turbines by wind turbine class, Aggregate capacity of delivered wind turbines by wind turbine class, Amount of turbine backlog, Aggregate capacity of turbine backlog.",
+    "optionD": "Total capacity of photovoltaic (PV) solar modules produced, Number of delivered wind turbines by wind turbine class, Amount of turbine backlog.",
+    "optionE": "Total capacity of photovoltaic (PV) solar modules produced, Total project development assets, Number of delivered wind turbines by wind turbine class, Aggregate capacity of turbine backlog.",
+    "answer": "B",
+    "reference_text": [
+      "## Table 2. Activity Metrics\n\n| ACTIVITY METRIC | CATEGORY | UNIT OF MEASURE | CODE |\n|-----------------|----------|------------------|------|\n| Total capacity of photovoltaic (PV) solar modules produced \u2077\u2075 | Quantitative | Megawatts (MW) | RR-ST-000.A |\n| Total capacity of completed solar energy systems \u2077\u2076 | Quantitative | Megawatts (MW) | RR-ST-000.B |\n| Total project development assets \u2077\u2077 | Quantitative | Reporting currency | RR-ST-000.C |\n\n| ACTIVITY METRIC | CATEGORY | UNIT OF MEASURE | CODE |\n|------------------|----------|------------------|------|\n| Number of delivered wind turbines, by wind turbine class | Quantitative | Number | RR-WT-000.A |\n| Aggregate capacity of delivered wind turbines, by wind turbine class | Quantitative | Megawatts (MW) | RR-WT-000.B |\n| Amount of turbine backlog | Quantitative | Reporting currency | RR-WT-000.C |\n| Aggregate capacity of turbine backlog | Quantitative | Megawatts (MW) | RR-WT-000.D |"
+    ],
+    "pages": [
+      "472_b44",
+      "483_b45"
+    ],
+    "industries": [
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ],
+    "pairing_explanation": "Both industries are central to the renewable energy sector and share sustainability themes related to lifecycle analysis, resource use, and environmental impact.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between the Solar Technology & Project Developers and Wind Technology & Project Developers industries?",
+    "optionA": "The Solar Technology & Project Developers industry has more quantitative metrics with 2 metrics.",
+    "optionB": "The Wind Technology & Project Developers industry has more quantitative metrics with 2 metrics.",
+    "optionC": "Both industries have an equal number of 2 quantitative metrics each in Table 1.",
+    "optionD": "The Solar Technology & Project Developers industry has more quantitative metrics with 3 metrics.",
+    "optionE": "The Wind Technology & Project Developers industry has more quantitative metrics with 3 metrics.",
+    "answer": "C",
+    "reference_text": [
+      "Industry: Solar Technology & Project Developers\n\n## Table 1. Sustainability Disclosure Topics & Metrics\n\n| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |\n|-------|--------|----------|------------------|------|\n| Energy Management in Manufacturing | (1) Total energy consumed, (2) percent- age grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | RR-ST-130a.1 |\n| Water Management in Manufacturing | (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percent- age (%) | RR-ST-140a.1 |\n\nIndustry: Wind Technology & Project Developers\n\n## Table 1. Sustainability Disclosure Topics & Metrics\n\n| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |\n|-------|--------|----------|------------------|------|\n| Materials Efficiency | Top five materials consumed, by weight | Quantitative | Metric tons (t) | RR-WT-440b.1 |\n| Materials Efficiency | Average top head mass per turbine capacity, by wind turbine class | Quantitative | Metric tons per megawatts (MW) | RR-WT-440b.2 |"
+    ],
+    "pages": [
+      "473_b44",
+      "483-484_b45"
+    ],
+    "industries": [
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ],
+    "pairing_explanation": "Both industries are central to the renewable energy sector and share sustainability themes related to lifecycle analysis, resource use, and environmental impact.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for the Solar Technology & Project Developers and Wind Technology & Project Developers industries.",
+    "optionA": "Water Management in Manufacturing, Management of Energy Infrastructure Integration & Related Regulations (2 metrics), Materials Efficiency",
+    "optionB": "Description of water management risks and discussion of strategies and practices to mitigate those risks, Description of risks associated with integration of solar energy into existing energy infrastructure and discussion of efforts to manage those risks, Description of risks and opportunities associated with energy policy and its impact on the integration of solar energy into existing energy infrastructure, Description of approach to optimize materials efficiency of wind turbine design",
+    "optionC": "(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable, (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress, Top five materials consumed by weight, Average top head mass per turbine capacity by wind turbine class",
+    "optionD": "Management of Energy Infrastructure Integration & Related Regulations (2 metrics), Materials Efficiency, Description of approach to optimize materials efficiency of wind turbine design",
+    "optionE": "Water Management in Manufacturing, Description of water management risks and discussion of strategies and practices to mitigate those risks, Description of approach to optimize materials efficiency of wind turbine design",
+    "answer": "B",
+    "reference_text": [
+      "Industry: Solar Technology & Project Developers\n\n## Table 1. Sustainability Disclosure Topics & Metrics\n\n| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |\n|-------|--------|----------|------------------|------|\n| Water Management in Manufacturing | Description of water management risks and discussion of strategies and practi- ces to mitigate those risks | Discussion and Analysis | n/a | RR-ST-140a.2 |\n| Management of Energy Infrastructure Integration & Related Regulations | Description of risks associated with integration of solar energy into existing energy infrastructure and discussion of efforts to manage those risks | Discussion and Analysis | n/a | RR-ST-410a.1 |\n| Management of Energy Infrastructure Integration & Related Regulations | Description of risks and opportunities associated with energy policy and its impact on the integration of solar energy into existing energy infrastructure | Discussion and Analysis | n/a | RR-ST-410a.2 |\n\nIndustry: Wind Technology & Project Developers\n\n## Table 1. Sustainability Disclosure Topics & Metrics\n\n| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |\n|-------|--------|----------|------------------|------|\n| Materials Efficiency | Description of approach to optimize materials efficiency of wind turbine design | Discussion and Analysis | n/a | RR-WT-440b.3 |"
+    ],
+    "pages": [
+      "473_b44",
+      "483_b45"
+    ],
+    "industries": [
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ],
+    "pairing_explanation": "Both industries are central to the renewable energy sector and share sustainability themes related to lifecycle analysis, resource use, and environmental impact.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Give me the codes for all the 'Discussion and Analysis' metrics in Table 1 for the Solar Technology & Project Developers and Wind Technology & Project Developers industries.",
+    "optionA": "RR-ST-140a.2, RR-ST-410a.1, RR-ST-410a.2, RR-WT-440b.3",
+    "optionB": "RR-ST-140a.2, RR-ST-410a.1, RR-ST-410a.2",
+    "optionC": "RR-ST-140a.2, RR-WT-440b.3",
+    "optionD": "RR-ST-410a.1, RR-ST-410a.2, RR-WT-440b.3",
+    "optionE": "RR-ST-140a.2, RR-ST-410a.1",
+    "answer": "A",
+    "reference_text": [
+      "Table 1. Sustainability Disclosure Topics & Metrics",
+      "Water Management in Manufacturing | Description of water management risks and discussion of strategies and practi- ces to mitigate those risks | Discussion and Analysis | n/a | RR-ST-140a.2 ",
+      "Management of Energy Infrastructure Integration & Related Regulations | Description of risks associated with integration of solar energy into existing energy infrastructure and discussion of efforts to manage those risks | Discussion and Analysis | n/a | RR-ST-410a.1",
+      "Management of Energy Infrastructure Integration & Related Regulations | Description of risks and opportunities associated with energy policy and its impact on the integration of solar energy into existing energy infrastructure | Discussion and Analysis | n/a | RR-ST-410a.2",
+      "Materials Efficiency | Description of approach to optimize materials efficiency of wind turbine design | Discussion and Analysis | n/a | RR-WT-440b.3"
+    ],
+    "pages": [
+      "475",
+      "479-480",
+      "481-482",
+      "485-486"
+    ],
+    "industries": [
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ],
+    "pairing_explanation": "Both industries are central to the renewable energy sector and share sustainability themes related to lifecycle analysis, resource use, and environmental impact.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "What units of measurement are used across the Solar Technology & Project Developers and Wind Technology & Project Developers industries for measuring water consumption?",
+    "optionA": "Thousand cubic meters (m\u00b3), Percentage (%)",
+    "optionB": "Gigajoules (GJ), Percentage (%)",
+    "optionC": "Megawatts (MW), Percentage (%)",
+    "optionD": "Metric tons (t)",
+    "optionE": "Reporting currency",
+    "answer": "A",
+    "reference_text": [
+      "(1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percent- age (%)"
+    ],
+    "pages": [
+      "475"
+    ],
+    "industries": [
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ],
+    "pairing_explanation": "Both industries are central to the renewable energy sector and share sustainability themes related to lifecycle analysis, resource use, and environmental impact.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Are there any common sustainability topics between the Solar Technology & Project Developers and Wind Technology & Project Developers industries, and if so, how do their reporting requirements differ?",
+    "optionA": "Yes, the Materials Efficiency topic is common, but the reporting requirements differ in terms of the specific metrics used. Solar companies report on energy and water usage, while wind companies report on materials consumed and turbine design efficiency.",
+    "optionB": "No, there are no common sustainability topics covered for these two industries.",
+    "optionC": "Yes, the Energy Management topic is common, but the reporting requirements are exactly the same for both industries.",
+    "optionD": "Yes, the Water Management topic is common, and the reporting requirements are also exactly the same for both industries.",
+    "optionE": "<UNKNOWN>",
+    "answer": "A",
+    "reference_text": [
+      "Table 1 topics for Solar Technology & Project Developers: Energy Management in Manufacturing, Water Management in Manufacturing, Management of Energy Infrastructure Integration & Related Regulations",
+      "Table 1 topics for Wind Technology & Project Developers: Materials Efficiency"
+    ],
+    "pages": [
+      "473",
+      "483"
+    ],
+    "industries": [
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ],
+    "pairing_explanation": "Both industries are central to the renewable energy sector and share sustainability themes related to lifecycle analysis, resource use, and environmental impact.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "When calculating RR-ST-140a.1 metrics related to water consumption, what is the key difference between Solar Technology & Project Developers and Wind Technology & Project Developers companies?",
+    "optionA": "Solar companies need to analyze water risks based on Baseline Water Stress levels, while wind companies do not have this requirement.",
+    "optionB": "Wind companies need to analyze water risks based on Baseline Water Stress levels, while solar companies do not have this requirement.",
+    "optionC": "There is no difference, both industries have the same requirements for calculating the RR-ST-140a.1 water consumption metric.",
+    "optionD": "The RR-ST-140a.1 metric only applies to solar companies, not wind companies.",
+    "optionE": "The RR-ST-140a.1 metric only applies to wind companies, not solar companies.",
+    "answer": "A",
+    "reference_text": [
+      "The entity shall analyze all of its operations for water risks and identify activities that withdraw and consume water in locations with High (40\u201380 percent) or Extremely High (>80 percent) Baseline Water Stress as classified by the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct.",
+      "The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn.",
+      "The entity shall disclose its water consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water consumed."
+    ],
+    "pages": [
+      "476"
+    ],
+    "industries": [
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ],
+    "pairing_explanation": "Both industries are central to the renewable energy sector and share sustainability themes related to lifecycle analysis, resource use, and environmental impact.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "What formula is used to calculate the 'percentage renewable' metric in the Internet Media & Services and Software & IT Services industries?",
+    "optionA": "The percentage shall be calculated as renewable energy consumption divided by total energy consumption.",
+    "optionB": "The percentage shall be calculated as grid electricity consumption divided by total energy consumption.",
+    "optionC": "The percentage shall be calculated as water consumption divided by total water withdrawn.",
+    "optionD": "The percentage shall be calculated as total energy consumed divided by renewable energy consumption.",
+    "optionE": "The percentage shall be calculated as customer downtime divided by number of service disruptions.",
+    "answer": "A",
+    "reference_text": [
+      "3.2 The percentage shall be calculated as renewable energy consumption divided by total energy consumption.",
+      "3.2 The percentage shall be calculated as renewable energy consumption divided by total energy consumption."
+    ],
+    "pages": [
+      "561_b56",
+      "579_b58"
+    ],
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "What activity metrics are listed for both the Internet Media & Services and Software & IT Services industries?",
+    "optionA": "(1) Number of licenses or subscriptions, (2) percentage cloud-based",
+    "optionB": "(1) Data processing capacity, (2) percentage outsourced",
+    "optionC": "(1) Amount of data storage, (2) percentage outsourced",
+    "optionD": "Entity-defined measure of user activity",
+    "optionE": "All of the above",
+    "answer": "E",
+    "reference_text": [
+      "(1) Data processing capacity, (2) percentage outsourced",
+      "(1) Amount of data storage, (2) percentage outsourced"
+    ],
+    "pages": [
+      "559_b56",
+      "576_b58"
+    ],
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Internet Media & Services and Software & IT Services industries?",
+    "optionA": "Internet Media & Services",
+    "optionB": "Software & IT Services",
+    "optionC": "Both industries have the same number of quantitative metrics in Table 1",
+    "optionD": "Neither industry has any quantitative metrics in Table 1",
+    "optionE": "The number of quantitative metrics cannot be determined from the given information",
+    "answer": "C",
+    "reference_text": [
+      "TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE",
+      "TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE"
+    ],
+    "pages": [
+      "559_b56",
+      "576_b58"
+    ],
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Are there any common sustainability topics between the Internet Media & Services and Software & IT Services industries?",
+    "optionA": "No, there are no common sustainability topics covered.",
+    "optionB": "Yes, the 'Environmental Footprint of Hardware Infrastructure' topic is common to both industries.",
+    "optionC": "Yes, the 'Managing Systemic Risks from Technology Disruptions' topic is common to both industries.",
+    "optionD": "Yes, the 'Environmental Footprint of Data Centers' topic is common to both industries.",
+    "optionE": "Yes, the 'Water Management' topic is common to both industries.",
+    "answer": "B",
+    "reference_text": [
+      "Environmental Footprint of Hardware Infrastructure",
+      "Environmental Footprint of Hardware Infrastructure"
+    ],
+    "pages": [
+      "559_b56",
+      "576_b58"
+    ],
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Are there any common sustainability topics between the Internet Media & Services and Software & IT Services industries, and if so, how do their reporting requirements differ?",
+    "optionA": "There is no common sustainability topic between the two industries. Their reporting requirements are completely different.",
+    "optionB": "The common sustainability topic is Environmental Footprint of Hardware Infrastructure. For this topic, the reporting requirements in terms of quantitative metrics are exactly the same across both industries.",
+    "optionC": "The common sustainability topic is Environmental Footprint of Hardware Infrastructure. While the quantitative metrics are the same, the reporting requirements for the discussion and analysis metric differ slightly between the two industries.",
+    "optionD": "The common sustainability topic is Managing Systemic Risks from Technology Disruptions. The quantitative and discussion and analysis metrics for this topic are identical across both industries.",
+    "optionE": "There are no common sustainability topics explicitly mentioned for these two industries.",
+    "answer": "C",
+    "reference_text": [
+      "Industry: Internet Media & Services\n\n## Table 1. Sustainability Disclosure Topics & Metrics\n\n| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |\n|-------|--------|----------|------------------|------|\n| Environmental Footprint of Hardware Infrastructure | (1) Total energy consumed, (2) percent- age grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | TC-IM-130a.1 |\n| Environmental Footprint of Hardware Infrastructure | (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percent- age (%) | TC-IM-130a.2 |\n| Environmental Footprint of Hardware Infrastructure | Discussion of the integration of environ- mental considerations into strategic planning for data center needs | Discussion and Analysis | n/a | TC-IM-130a.3 |",
+      "Industry: Software & Information Technology (IT) Services\n\n## Table 1. Sustainability Disclosure Topics & Metrics\n\n| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |\n|-------|--------|----------|-----------------|------|\n| Environmental Footprint of Hardware Infrastructure | (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | | TC-SI-130a.1 |\n| Environmental Footprint of Hardware Infrastructure | (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | | TC-SI-130a.2 |\n| Environmental Footprint of Hardware Infrastructure | Discussion of the integration of environmental considerations into strategic planning for data center needs | Discussion and Analysis | | TC-SI-130a.3 |"
+    ],
+    "pages": [
+      "559-563_b56",
+      "578-581_b58"
+    ],
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "When preparing sustainability reports, how do the metrics for measuring water consumption differ between the Internet Media & Services and Software & IT Services industries?",
+    "optionA": "The metrics are exactly the same for both industries in terms of quantifying total water withdrawn and consumed as well as percentage in water-stressed regions.",
+    "optionB": "For the Internet Media & Services industry, only total water withdrawn needs to be reported, while for Software & IT Services, both total withdrawn and consumed need to be quantified.",
+    "optionC": "The Internet Media & Services industry has to report water metrics in specific units like thousand cubic meters, while the Software & IT Services industry does not require specifying units.",
+    "optionD": "The Software & IT Services industry does not require reporting any water consumption metrics, unlike the Internet Media & Services industry which has detailed requirements.",
+    "optionE": "There is no difference in the water consumption metrics reporting requirements between the two industries.",
+    "answer": "A",
+    "reference_text": [
+      "TC-IM-130a.2. (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress\n\n1     The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from all sources.\n...\n3     The entity shall disclose the amount of water, in thousands of cubic meters, that was consumed in its operations.\n...\n5     The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn.\n\n6     The entity shall disclose its water consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water consumed.",
+      "TC-SI-130a.2. (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress\n\n1     The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from all sources.\n...\n3     The entity shall disclose the amount of water, in thousands of cubic meters, that was consumed in its operations.\n...\n5     The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn.\n\n6     The entity shall disclose its water consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water consumed."
+    ],
+    "pages": [
+      "562_b56",
+      "580_b58"
+    ],
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "What units of measurement are used across the Internet Media & Services and Software & IT Services industries for measuring renewable energy consumption?",
+    "optionA": "Percentage (%)",
+    "optionB": "Kilowatt hours (kWh)",
+    "optionC": "Petabytes",
+    "optionD": "The units are not explicitly specified for either industry.",
+    "optionE": "Gigajoules (GJ) for the Internet Media & Services industry, while units are not specified for the Software & IT Services industry.",
+    "answer": "D",
+    "reference_text": [
+      "TC-IM-130a.1. ...\n3    The entity shall disclose (3) the percentage of energy it consumed that is renewable energy.",
+      "TC-SI-130a.1. ...\n3 The entity shall disclose (3) the percentage of energy it consumed that is renewable energy."
+    ],
+    "pages": [
+      "561_b56",
+      "579_b58"
+    ],
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Give me the codes for all the 'Discussion and Analysis' metrics in Table 1 for the Internet Media & Services and Software & IT Services industries.",
+    "optionA": "TC-IM-130a.3, TC-SI-130a.3",
+    "optionB": "TC-IM-130a.2, TC-SI-550a.2",
+    "optionC": "TC-IM-000.A, TC-SI-000.A",
+    "optionD": "TC-IM-130a.1, TC-SI-130a.1",
+    "optionE": "TC-IM-550a.2, TC-SI-550a.2",
+    "answer": "A",
+    "reference_text": [
+      "| Environmental Footprint of Hardware Infrastructure | Discussion of the integration of environ- mental considerations into strategic planning for data center needs | Discussion and Analysis | n/a | TC-IM-130a.3 |",
+      "| Environmental Footprint of Hardware Infrastructure | Discussion of the integration of environmental considerations into strategic planning for data center needs | Discussion and Analysis | | TC-SI-130a.3 |"
+    ],
+    "pages": [
+      "559_b56",
+      "578_b58"
+    ],
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Compare the number of 'Quantitative' metrics between the Mortgage Finance and Asset Management & Custody Activities industries.",
+    "optionA": "The Mortgage Finance industry has 4 'Quantitative' metrics, while the Asset Management & Custody Activities industry has 3.",
+    "optionB": "The Mortgage Finance industry has 2 'Quantitative' metrics, while the Asset Management & Custody Activities industry has 4.",
+    "optionC": "The Mortgage Finance industry has 3 'Quantitative' metrics, while the Asset Management & Custody Activities industry has 3.",
+    "optionD": "The Mortgage Finance industry has 2 'Quantitative' metrics, while the Asset Management & Custody Activities industry has 3.",
+    "optionE": "Both the Mortgage Finance and Asset Management & Custody Activities industries have 3 'Quantitative' metrics each.",
+    "answer": "D",
+    "reference_text": [
+      "For the Mortgage Finance industry, the 'Quantitative' metrics listed in Table 1 are: FN-MF-450a.1, FN-MF-450a.2.",
+      "For the Asset Management & Custody Activities industry, the 'Quantitative' metrics listed in Table 1 are: FN-AC-410a.1, FN-AC-1, FN-AC-2, FN-AC-3."
+    ],
+    "pages": [
+      "185_b19",
+      "135_b15"
+    ],
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b19-mortgage-finance"
+    ],
+    "pairing_explanation": "Asset management and mortgage finance are pivotal in funding sustainable projects and investments, focusing on long-term economic and environmental impacts.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "List the activity metrics for the Mortgage Finance and Asset Management & Custody Activities industries.",
+    "optionA": "For Mortgage Finance: (1) Number and (2) value of mortgages originated / purchased by category - residential and commercial. For Asset Management & Custody: Total assets under management (AUM), Total assets under custody and supervision.",
+    "optionB": "For Mortgage Finance: None listed. For Asset Management & Custody: Total assets under management (AUM), Total assets under custody and supervision.",
+    "optionC": "For Mortgage Finance: (1) Number and (2) value of mortgages originated by category - residential and commercial. For Asset Management & Custody: None listed.",
+    "optionD": "For Mortgage Finance: (1) Number and (2) value of mortgages purchased by category - residential and commercial. For Asset Management & Custody: Total assets under management (AUM).",
+    "optionE": "For Mortgage Finance: (1) Number and (2) value of mortgages originated by category - residential and commercial, (1) Number and (2) value of mortgages purchased by category - residential and commercial. For Asset Management & Custody: Total assets under management (AUM), Total assets under custody and supervision.",
+    "answer": "A",
+    "reference_text": [
+      "For the Mortgage Finance industry, the activity metrics listed in Table 2 are: (1) Number and (2) value of mortgages originated by category: (a) residential and (b) commercial, (1) Number and (2) value of mortgages purchased by category: (a) residential and (b) commercial.",
+      "For the Asset Management & Custody Activities industry, the activity metrics listed in Table 2 are: Total assets under management (AUM), Total assets under custody and supervision."
+    ],
+    "pages": [
+      "184_b19",
+      "133_b15"
+    ],
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b19-mortgage-finance"
+    ],
+    "pairing_explanation": "Asset management and mortgage finance are pivotal in funding sustainable projects and investments, focusing on long-term economic and environmental impacts.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for the Mortgage Finance and Asset Management & Custody Activities industries.",
+    "optionA": "For Mortgage Finance: FN-MF-450a.3. For Asset Management & Custody: FN-AC-410a.2, FN-AC-410a.3, FN-AC-4.",
+    "optionB": "For Mortgage Finance: None. For Asset Management & Custody: FN-AC-410a.2, FN-AC-410a.3.",
+    "optionC": "For Mortgage Finance: FN-MF-450a.3. For Asset Management & Custody: FN-AC-410a.2, FN-AC-4.",
+    "optionD": "For Mortgage Finance: FN-MF-450a.3. For Asset Management & Custody: FN-AC-410a.2, FN-AC-410a.3, FN-AC-4.",
+    "optionE": "For Mortgage Finance: None. For Asset Management & Custody: FN-AC-410a.2, FN-AC-4.",
+    "answer": "D",
+    "reference_text": [
+      "For the Mortgage Finance industry, the metric in the 'Discussion and Analysis' category from Table 1 is: FN-MF-450a.3.",
+      "For the Asset Management & Custody Activities industry, the metrics in the 'Discussion and Analysis' category from Table 1 are: FN-AC-410a.2, FN-AC-410a.3, FN-AC-4."
+    ],
+    "pages": [
+      "185_b19",
+      "135_b15"
+    ],
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b19-mortgage-finance"
+    ],
+    "pairing_explanation": "Asset management and mortgage finance are pivotal in funding sustainable projects and investments, focusing on long-term economic and environmental impacts.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "What are the common sustainability topics between the Mortgage Finance and Asset Management & Custody Activities industries?",
+    "optionA": "Environmental Risk to Mortgaged Properties, Incorporation of Environmental, Social, and Governance Factors in Investment Management & Advisory",
+    "optionB": "Environmental Risk to Mortgaged Properties, Transition Risk Exposure",
+    "optionC": "There are no common sustainability topics between the two industries.",
+    "optionD": "Incorporation of Environmental, Social, and Governance Factors in Investment Management & Advisory, Transition Risk Exposure",
+    "optionE": "Incorporation of Environmental, Social, and Governance Factors in Investment Management & Advisory",
+    "answer": "C",
+    "reference_text": [
+      "For the Mortgage Finance industry, the sustainability topics listed are: Environmental Risk to Mortgaged Properties.",
+      "For the Asset Management & Custody Activities industry, the sustainability topics listed are: Incorporation of Environmental, Social, and Governance Factors in Investment Management & Advisory, Transition Risk Exposure."
+    ],
+    "pages": [
+      "185_b19",
+      "135_b15"
+    ],
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b19-mortgage-finance"
+    ],
+    "pairing_explanation": "Asset management and mortgage finance are pivotal in funding sustainable projects and investments, focusing on long-term economic and environmental impacts.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "What are the codes for all the 'Quantitative' metrics in Table 1 for the Asset Management & Custody Activities and Mortgage Finance industries?",
+    "optionA": "FN-AC-410a.1, FN-AC-1, FN-AC-2, FN-AC-3, FN-MF-450a.1, FN-MF-450a.2, FN-MF-000.A, FN-MF-000.B",
+    "optionB": "FN-AC-410a.2, FN-AC-410a.3, FN-AC-4, FN-MF-450a.3",
+    "optionC": "FN-AC-000.A, FN-AC-000.B",
+    "optionD": "FN-MF-450a.1, FN-MF-450a.2, FN-MF-000.A, FN-MF-000.B, FN-AC-410a.1, FN-AC-1, FN-AC-2, FN-AC-3",
+    "optionE": "<UNKNOWN>",
+    "answer": "D",
+    "reference_text": [
+      "FN-MF-450a.1. (1) Number and (2) value of mortgage loans in 100-year flood zones",
+      "FN-MF-450a.2. (1) Total expected loss and (2) Loss Given Default (LGD) attributable to mortgage loan default and delinquency due to weather-related natural catastrophes, by geographic region",
+      "FN-MF-000.A: (1) Number and (2) value of mortgages originated by category: (a) residential and (b) commercial",
+      "FN-MF-000.B: (1) Number and (2) value of mortgages purchased by category: (a) residential and (b) commercial",
+      "FN-AC-410a.1. Amount of assets under management, by asset class, that employ (1) integration of environmental, social, and governance (ESG) issues, (2) sustainability themed investing, and (3) screening",
+      "FN-AC-1: Percentage of total assets under management (AUM) included in the financed emissions calculation",
+      "FN-AC-2: (1) Absolute gross (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) associated amount of total AUM (i.e., financed emissions)",
+      "FN-AC-3: (1) Gross emissions intensity by (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) associated amount of total AUM (i.e., financed emissions)"
+    ],
+    "pages": [
+      "185-187_b19",
+      "134-143_b15"
+    ],
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b19-mortgage-finance"
+    ],
+    "pairing_explanation": "Asset management and mortgage finance are pivotal in funding sustainable projects and investments, focusing on long-term economic and environmental impacts.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Give me the codes for all the 'Discussion and Analysis' metrics in Table 1 for the Asset Management & Custody Activities and Mortgage Finance industries.",
+    "optionA": "FN-AC-410a.2, FN-AC-410a.3, FN-AC-4, FN-MF-450a.3",
+    "optionB": "FN-MF-450a.1, FN-MF-450a.2, FN-MF-000.A, FN-MF-000.B",
+    "optionC": "FN-AC-410a.1, FN-AC-1, FN-AC-2, FN-AC-3",
+    "optionD": "<UNKNOWN>",
+    "optionE": "FN-AC-000.A, FN-AC-000.B",
+    "answer": "A",
+    "reference_text": [
+      "FN-AC-410a.2. Description of approach to incorporation of environmental, social, and governance (ESG) factors in investment and/or wealth management processes and strategies",
+      "FN-AC-410a.3. Description of proxy voting and investee engagement policies and procedures",
+      "FN-AC-4. Description of the methodology used to calculate financed emissions",
+      "FN-MF-450a.3. Description of how climate change and other environmental risks are incorporated into mortgage origination and underwriting"
+    ],
+    "pages": [
+      "135-138_b15",
+      "186-187_b19"
+    ],
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b19-mortgage-finance"
+    ],
+    "pairing_explanation": "Asset management and mortgage finance are pivotal in funding sustainable projects and investments, focusing on long-term economic and environmental impacts.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "When preparing sustainability reports, how do the metrics for measuring incorporation of environmental, social, and governance (ESG) factors differ between the Asset Management & Custody Activities and Mortgage Finance industries?",
+    "optionA": "There are no metrics related to ESG incorporation for the Mortgage Finance industry, while the Asset Management & Custody Activities industry has metrics FN-AC-410a.1, FN-AC-410a.2, and FN-AC-410a.3 covering this topic.",
+    "optionB": "Both industries have similar metrics covering the incorporation of ESG factors, such as FN-MF-450a.3 for Mortgage Finance and FN-AC-410a.1, FN-AC-410a.2, and FN-AC-410a.3 for Asset Management & Custody Activities.",
+    "optionC": "The Mortgage Finance industry has metric FN-MF-450a.3 related to ESG incorporation, while the Asset Management & Custody Activities industry does not have any metrics on this topic.",
+    "optionD": "The metrics for measuring ESG incorporation are identical for both industries, using the same code FN-XYZ-123.",
+    "optionE": "<UNKNOWN>",
+    "answer": "A",
+    "reference_text": [
+      "FN-AC-410a.1. Amount of assets under management, by asset class, that employ (1) integration of environmental, social, and governance (ESG) issues, (2) sustainability themed investing, and (3) screening",
+      "FN-AC-410a.2. Description of approach to incorporation of environmental, social, and governance (ESG) factors in investment and/or wealth management processes and strategies",
+      "FN-AC-410a.3. Description of proxy voting and investee engagement policies and procedures",
+      "FN-MF-450a.3. Description of how climate change and other environmental risks are incorporated into mortgage origination and underwriting"
+    ],
+    "pages": [
+      "135-138_b15",
+      "186-187_b19"
+    ],
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b19-mortgage-finance"
+    ],
+    "pairing_explanation": "Asset management and mortgage finance are pivotal in funding sustainable projects and investments, focusing on long-term economic and environmental impacts.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Comparing the Asset Management & Custody Activities and Mortgage Finance industries, which sustainability topic is more prominently addressed in the Asset Management & Custody Activities industry but not explicitly covered for the Mortgage Finance industry?",
+    "optionA": "Environmental Risk to Mortgaged Properties",
+    "optionB": "Incorporation of Environmental, Social, and Governance Factors in Investment Management & Advisory",
+    "optionC": "Transition Risk Exposure",
+    "optionD": "<UNKNOWN>",
+    "optionE": "There are no sustainability topics covered more prominently in one industry versus the other",
+    "answer": "B",
+    "reference_text": [
+      "Industry: Mortgage Finance\n## Table 1. Sustainability Disclosure Topics & Metrics\n| TOPIC | \n|-------|\n| Environmental Risk to Mortgaged Properties |",
+      "Industry: Asset Management & Custody Activities  \n## Table 1. Sustainability Disclosure Topics & Metrics\n| TOPIC |\n|-------|\n| Incorporation of Environmental, Social, and Governance Factors in Investment Management & Advisory |\n| Transition Risk Exposure |"
+    ],
+    "pages": [
+      "185_b19",
+      "133_b15"
+    ],
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b19-mortgage-finance"
+    ],
+    "pairing_explanation": "Asset management and mortgage finance are pivotal in funding sustainable projects and investments, focusing on long-term economic and environmental impacts.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Apparel, Accessories & Footwear, Appliance Manufacturing, and Building Products & Furnishings industries.",
+    "optionA": "CG-AA-440a.1, CG-AM-410a.3, CG-BF-410a.1",
+    "optionB": "CG-AA-440a.1, CG-AM-410a.2, CG-BF-410a.1",
+    "optionC": "CG-AA-440a.2, CG-AM-410a.3, CG-BF-410a.1",
+    "optionD": "CG-AA-440a.1, CG-AM-410a.3, CG-BF-430a.1",
+    "optionE": "CG-AA-440a.2, CG-AM-410a.2, CG-BF-410a.2",
+    "answer": "C",
+    "reference_text": [
+      "CG-AA-440a.1. Description of environmental and social risks associated with sourcing priority raw materials",
+      "CG-AM-410a.3. Description of efforts to manage products' end-of-life impacts",
+      "CG-BF-410a.1. Description of efforts to manage product lifecycle impacts and meet demand for sustainable products"
+    ],
+    "pages": [
+      "8_b1",
+      "14_b2",
+      "18_b3"
+    ],
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b2-appliance-manufacturing",
+      "b3-building-products-and-furnishings"
+    ],
+    "pairing_explanation": "These industries all involve consumer goods that have significant global supply chains, environmental impacts from manufacturing, and considerations around labor practices in emerging markets.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Appliance Manufacturing and Building Products & Furnishings industries?",
+    "optionA": "Appliance Manufacturing has more quantitative metrics in Table 1.",
+    "optionB": "Building Products & Furnishings has more quantitative metrics in Table 1.",
+    "optionC": "Both industries have an equal number of quantitative metrics in Table 1.",
+    "optionD": "Neither industry has any quantitative metrics listed in Table 1.",
+    "optionE": "The information to determine this is not provided in the document.",
+    "answer": "B",
+    "reference_text": [
+      "For Appliance Manufacturing, Table 1 shows 2 quantitative metrics: CG-AM-410a.1, CG-AM-410a.2",
+      "For Building Products & Furnishings, Table 1 shows 3 quantitative metrics: CG-BF-130a.1, CG-BF-410a.2, CG-BF-430a.1"
+    ],
+    "pages": [
+      "11_b2",
+      "15_b3"
+    ],
+    "industries": [
+      "b2-appliance-manufacturing",
+      "b3-building-products-and-furnishings"
+    ],
+    "pairing_explanation": "These industries all involve consumer goods that have significant global supply chains, environmental impacts from manufacturing, and considerations around labor practices in emerging markets.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Are there any common sustainability topics between Apparel, Accessories & Footwear, Appliance Manufacturing, and Building Products & Furnishings industries?",
+    "optionA": "No, there are no common sustainability topics across the three industries.",
+    "optionB": "Yes, the common sustainability topic is Raw Materials Sourcing.",
+    "optionC": "Yes, the common sustainability topic is Product Lifecycle Environmental Impacts.",
+    "optionD": "Yes, the common sustainability topics are Raw Materials Sourcing and Product Lifecycle Environmental Impacts.",
+    "optionE": "Yes, the common sustainability topic is Energy Management in Manufacturing.",
+    "answer": "C",
+    "reference_text": [
+      "Topics for Apparel, Accessories & Footwear include Raw Materials Sourcing",
+      "Topics for Appliance Manufacturing include Product Lifecycle Environmental Impacts",
+      "Topics for Building Products & Furnishings include Product Lifecycle Environmental Impacts"
+    ],
+    "pages": [
+      "7_b1",
+      "11_b2",
+      "15_b3"
+    ],
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b2-appliance-manufacturing",
+      "b3-building-products-and-furnishings"
+    ],
+    "pairing_explanation": "These industries all involve consumer goods that have significant global supply chains, environmental impacts from manufacturing, and considerations around labor practices in emerging markets.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "What are the common metrics shared between Coal Operations and Iron & Steel Producers industries, if any?",
+    "optionA": "EM-CO-110a.1 and EM-IS-110a.1, which are both about gross global Scope 1 emissions and percentage covered under emissions-limiting regulations.",
+    "optionB": "There are no common metrics shared between the two industries.",
+    "optionC": "EM-CO-110a.2 and EM-IS-110a.2, which are both about discussion of strategy/plan to manage Scope 1 emissions and emission reduction targets.",
+    "optionD": "EM-CO-140a.1 and EM-IS-140a.1, which are both about total fresh water withdrawn, percentage recycled, and percentage in regions with high water stress.",
+    "optionE": "EM-CO-420a.1 and EM-IS-430a.1, which are about sensitivity of reserves to price scenarios and managing supply chain risks respectively.",
+    "answer": "C",
+    "reference_text": [
+      "For Coal Operations, EM-CO-110a.2 is: 'Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets'",
+      "For Iron & Steel Producers, EM-IS-110a.2 is: 'Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets'"
+    ],
+    "pages": [
+      "45_b7",
+      "73_b9"
+    ],
+    "industries": [
+      "b7-coal-operations",
+      "b9-iron-and-steel-producers"
+    ],
+    "pairing_explanation": "These extractive industries have substantial environmental impacts, including emissions, land use, and water consumption, making them critical to compare in sustainability reporting.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "When preparing sustainability reports, how do the metrics for measuring Greenhouse Gas Emissions differ between the Coal Operations and Iron & Steel Producers industries?",
+    "optionA": "There is no difference in the metrics for measuring Greenhouse Gas Emissions between these two industries.",
+    "optionB": "Coal Operations has an additional metric for estimated carbon dioxide emissions embedded in proven coal reserves.",
+    "optionC": "Iron & Steel Producers has an additional metric for total energy consumed broken down by source.",
+    "optionD": "Coal Operations measures Scope 2 emissions while Iron & Steel Producers measures Scope 1 emissions.",
+    "optionE": "Coal Operations measures emissions reductions while Iron & Steel Producers measures emissions increases.",
+    "answer": "B",
+    "reference_text": [
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|-------|--------|----------|-----------------|------|",
+      "| Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%) | EM-CO-110a.1 |",
+      "| Greenhouse Gas Emissions | Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a | EM-CO-110a.2 |",
+      "| Reserves Valuation & Capital Expenditures | Estimated carbon dioxide emissions embedded in proven coal reserves | Quantitative | Metric tons (t) CO\u2082-e | EM-CO-420a.2 |",
+      "| Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%) | EM-IS-110a.1 |",
+      "| Greenhouse Gas Emissions | Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a | EM-IS-110a.2 |"
+    ],
+    "pages": [
+      "48_b7",
+      "71_b9"
+    ],
+    "industries": [
+      "b7-coal-operations",
+      "b9-iron-and-steel-producers"
+    ],
+    "pairing_explanation": "These extractive industries have substantial environmental impacts, including emissions, land use, and water consumption, making them critical to compare in sustainability reporting.",
+    "qa_type": "multi_hop"
+  }
+]

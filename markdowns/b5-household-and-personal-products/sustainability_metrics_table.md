@@ -1,0 +1,5 @@
+| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |
+|-------|--------|----------|------------------|------|
+| Water Management | (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m³), Percent- age (%) | CG-HP-140a.1 |
+| Water Management | Description of water management risks and discussion of strategies and practi- ces to mitigate those risks | Discussion and Analysis | n/a | CG-HP-140a.2 |
+| Environmental & Social Impacts of Palm Oil Supply Chain | Amount of palm oil sourced, percentage certified through the Roundtable on Sustainable Palm Oil (RSPO) supply chains as (a) Identity Preserved, (b) Segregated, (c) Mass Balance, or (d) Book & Claim | Quantitative | Metric tons (t), Percentage (%) | CG-HP-430a.1 |

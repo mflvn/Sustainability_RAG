@@ -1,0 +1,144 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When reporting on greenhouse gas emissions for Iron & Steel Producers and Industrial Machinery & Goods manufacturers, which of the following is a key difference in the required disclosures?",
+    "optionA": "Only Iron & Steel Producers need to report Scope 1 emissions",
+    "optionB": "Industrial Machinery & Goods manufacturers must report Scope 3 emissions, while Iron & Steel Producers do not",
+    "optionC": "Iron & Steel Producers must disclose the percentage of emissions covered under emissions-limiting regulations",
+    "optionD": "Industrial Machinery & Goods manufacturers are required to report emissions from product use phase",
+    "optionE": "Both industries have identical GHG reporting requirements",
+    "answer": "C: Iron & Steel Producers must disclose the percentage of emissions covered under emissions-limiting regulations",
+    "explanation": "According to the IFRS S2 standards, Iron & Steel Producers are required to disclose the percentage of their Scope 1 emissions that are covered under emissions-limiting regulations (EM-IS-110a.1). This specific requirement is not mentioned for Industrial Machinery & Goods manufacturers. While both industries need to report on emissions, this particular aspect is a key difference in their reporting requirements.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Industrial Machinery & Goods"
+    ],
+    "pages": [
+      "72",
+      "529"
+    ],
+    "pairing_explanation": "These industries are interrelated as steel production feeds into machinery manufacturing, necessitating reviews of supply chain sustainability and emissions.",
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "In terms of energy management reporting, what is a key similarity between the Iron & Steel Producers and Industrial Machinery & Goods industries according to IFRS S2 standards?",
+    "optionA": "Both industries must report on coal consumption percentage",
+    "optionB": "Both industries are required to disclose total energy consumed, percentage grid electricity, and percentage renewable",
+    "optionC": "Both industries need to report on energy intensity per unit of production",
+    "optionD": "Neither industry is required to report on energy management",
+    "optionE": "Both industries must disclose energy efficiency improvements year-over-year",
+    "answer": "B: Both industries are required to disclose total energy consumed, percentage grid electricity, and percentage renewable",
+    "explanation": "According to the IFRS S2 standards, both Iron & Steel Producers (EM-IS-130a.1) and Industrial Machinery & Goods manufacturers (RT-IG-130a.1) are required to disclose (1) total energy consumed, (2) percentage grid electricity, and (3) percentage renewable. This is a key similarity in their energy management reporting requirements.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Industrial Machinery & Goods"
+    ],
+    "pages": [
+      "75",
+      "529"
+    ],
+    "pairing_explanation": "These industries are interrelated as steel production feeds into machinery manufacturing, necessitating reviews of supply chain sustainability and emissions.",
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of renewable energy consumed for both Iron & Steel Producers and Industrial Machinery & Goods manufacturers, which of the following is considered within the scope of renewable energy according to IFRS S2 standards?",
+    "optionA": "All biomass sources without certification",
+    "optionB": "Grid electricity from unspecified sources",
+    "optionC": "Renewable energy certificates (RECs) that have been sold",
+    "optionD": "On-site generated renewable electricity with retained and retired RECs",
+    "optionE": "Fossil fuel-based energy with carbon offsets",
+    "answer": "D: On-site generated renewable electricity with retained and retired RECs",
+    "explanation": "For both industries, IFRS S2 standards specify that for any renewable electricity generated on-site, the associated RECs and GOs must be retained (i.e., not sold) and retired or cancelled on behalf of the entity in order for it to be claimed as renewable energy. This ensures that the renewable attributes are not double-counted and accurately reflect the entity's renewable energy consumption.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Industrial Machinery & Goods"
+    ],
+    "pages": [
+      "76",
+      "530"
+    ],
+    "pairing_explanation": "These industries are interrelated as steel production feeds into machinery manufacturing, necessitating reviews of supply chain sustainability and emissions.",
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "In reporting fuel efficiency for Industrial Machinery & Goods manufacturers, which metric is used for stationary generators that is not applicable to Iron & Steel Producers?",
+    "optionA": "Gallons per 1,000 ton-miles",
+    "optionB": "Watts per gallon",
+    "optionC": "Gigajoules per metric ton of production",
+    "optionD": "Kilowatt-hours per unit produced",
+    "optionE": "Liters per operating hour",
+    "answer": "B: Watts per gallon",
+    "explanation": "For Industrial Machinery & Goods manufacturers, IFRS S2 standards require reporting the sales-weighted fuel efficiency for stationary generators in watts per gallon (RT-IG-410a.3). This specific metric is not applicable to Iron & Steel Producers, as they do not typically manufacture stationary generators. This metric is unique to the Industrial Machinery & Goods industry and reflects the efficiency of power generation equipment they produce.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Industrial Machinery & Goods"
+    ],
+    "pages": [
+      "532"
+    ],
+    "pairing_explanation": "These industries are interrelated as steel production feeds into machinery manufacturing, necessitating reviews of supply chain sustainability and emissions.",
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the IFRS S2 standards for Iron & Steel Producers and Industrial Machinery & Goods manufacturers differ in their approach to addressing emissions in the value chain?",
+    "optionA": "Only Iron & Steel Producers need to report on supply chain emissions",
+    "optionB": "Industrial Machinery & Goods manufacturers focus on product use-phase emissions, while Iron & Steel Producers focus on production emissions",
+    "optionC": "Both industries have identical requirements for value chain emissions reporting",
+    "optionD": "Iron & Steel Producers report on Scope 3 emissions, while Industrial Machinery & Goods manufacturers do not",
+    "optionE": "Neither industry is required to report on value chain emissions",
+    "answer": "B: Industrial Machinery & Goods manufacturers focus on product use-phase emissions, while Iron & Steel Producers focus on production emissions",
+    "explanation": "The IFRS S2 standards for these industries differ in their approach to value chain emissions. For Industrial Machinery & Goods manufacturers, there's a strong focus on product use-phase emissions, with requirements to report on fuel efficiency and emissions for various types of equipment they produce (RT-IG-410a.1 to RT-IG-410a.4). In contrast, Iron & Steel Producers' standards focus more on production-related emissions, including Scope 1 emissions and energy management in the production process (EM-IS-110a.1, EM-IS-130a.1). This difference reflects the distinct roles these industries play in the value chain, with machinery manufacturers being more concerned about the environmental impact of their products during use, while steel producers focus on the emissions from their production processes.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Industrial Machinery & Goods"
+    ],
+    "pages": [
+      "71",
+      "531"
+    ],
+    "pairing_explanation": "These industries are interrelated as steel production feeds into machinery manufacturing, necessitating reviews of supply chain sustainability and emissions.",
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "Comparing the Iron & Steel Producers and Industrial Machinery & Goods industries, which sustainability topic is more prominently addressed in the IFRS S2 standards for Industrial Machinery & Goods but not explicitly covered for Iron & Steel Producers?",
+    "optionA": "Water management",
+    "optionB": "Energy consumption",
+    "optionC": "Greenhouse gas emissions",
+    "optionD": "Fuel economy and emissions in use-phase",
+    "optionE": "Supply chain management",
+    "answer": "D: Fuel economy and emissions in use-phase",
+    "explanation": "The IFRS S2 standards for Industrial Machinery & Goods manufacturers prominently address 'Fuel Economy & Emissions in Use-phase' as a key sustainability topic (RT-IG-410a.1 to RT-IG-410a.4). This topic includes detailed metrics for fuel efficiency and emissions of various types of equipment during their use. In contrast, this specific topic is not explicitly covered in the standards for Iron & Steel Producers. This difference reflects the nature of the products each industry produces, with machinery and equipment having significant environmental impacts during their use phase, while steel products' main environmental impact is during production.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Industrial Machinery & Goods"
+    ],
+    "pages": [
+      "528",
+      "531"
+    ],
+    "pairing_explanation": "These industries are interrelated as steel production feeds into machinery manufacturing, necessitating reviews of supply chain sustainability and emissions.",
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ]
+  }
+]

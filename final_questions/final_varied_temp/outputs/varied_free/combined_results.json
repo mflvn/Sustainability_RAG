@@ -1,0 +1,1442 @@
+[
+  {
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ],
+    "qa_type": "single_hop",
+    "question": "Give me all the metrics from Table 1 that are in category 'Quantitative' for Insurance and Real Estate Services industries.",
+    "answer": "Insurance:\n- Net premiums written related to energy efficiency and low carbon technology | Reporting currency | FN-IN-410b.1\n- Probable Maximum Loss (PML) of insured products from weather-related natural catastrophes | Reporting currency | FN-IN-450a.1\n- Total amount of monetary losses attributable to insurance payouts from (1) modeled natural catastrophes and (2) non-modeled natural catastrophes, by type of event and geographic segment (net and gross of reinsurance) | Reporting currency | FN-IN-450a.2\n- (1) Gross exposure to carbon-related industries, by industry (2) total gross exposure to all industries, and (3) percentage of total gross exposure to each carbon-related industry | Presentation currency, Percentage % | FN-IN-1\n- Percentage of gross exposure included in the financed emissions calculation | Percentage % | FN-IN-2\n- For each industry by asset class: (1) absolute gross (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) gross exposure (i.e., financed emissions) | Metric tons (t) CO2-e, Presentation currency | FN-IN-3\n- For each industry by asset class: (1) gross emissions intensity of (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) gross exposure (i.e., financed emissions) | Metric tons (t) CO2-e per unit of physical or economic output | FN-IN-4\n\nReal Estate Services:\n- Revenue from energy and sustainability services | Reporting currency | IF-RS-410a.1\n- (1) Floor area and (2) number of buildings under management provided with energy and sustainability services | Square feet (ft\u00b2), Number | IF-RS-410a.2\n- (1) Floor area and (2) number of buildings under management that obtained an energy rating | Square feet (ft\u00b2), Number | IF-RS-410a.3",
+    "temperature": 0,
+    "version": "cross",
+    "specificity_score": 9,
+    "faithfulness_score": 9,
+    "relevancy_score_Insurance": 8,
+    "relevancy_score_Real Estate Services": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.36698822567698836,
+    "ROUGE": 0.7579617786603918
+  },
+  {
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ],
+    "qa_type": "single_hop",
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Insurance and Real Estate Services industries?",
+    "answer": "The Insurance industry has more 'Quantitative' metrics to disclose in Table 1 compared to the Real Estate Services industry.",
+    "temperature": 0,
+    "version": "cross",
+    "specificity_score": 8,
+    "faithfulness_score": 7,
+    "relevancy_score_Insurance": 8,
+    "relevancy_score_Real Estate Services": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 4.423308370369201e-15,
+    "ROUGE": 0.057971012985133887
+  },
+  {
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Insurance and Real Estate Services industries.",
+    "answer": "Insurance: FN-IN-410b.1, FN-IN-450a.1, FN-IN-450a.2, FN-IN-1, FN-IN-2, FN-IN-3, FN-IN-4\nReal Estate Services: IF-RS-410a.1, IF-RS-410a.2, IF-RS-410a.3",
+    "temperature": 0,
+    "version": "cross",
+    "specificity_score": 9,
+    "faithfulness_score": 10,
+    "relevancy_score_Insurance": 8,
+    "relevancy_score_Real Estate Services": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 7.100151042565986e-12,
+    "ROUGE": 0.05102040683673473
+  },
+  {
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What units of measurement are used across Insurance and Real Estate Services industries for measuring quantitative metrics?",
+    "answer": "Insurance: Reporting currency, Presentation currency, Percentage %, Metric tons (t) CO2-e, Metric tons (t) CO2-e per unit of physical or economic output\nReal Estate Services: Reporting currency, Square feet (ft\u00b2), Number",
+    "temperature": 0,
+    "version": "cross",
+    "specificity_score": 9,
+    "faithfulness_score": 5,
+    "relevancy_score_Insurance": 6,
+    "relevancy_score_Real Estate Services": 7,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 7.194427197457061e-06,
+    "ROUGE": 0.19323671285210858
+  },
+  {
+    "industries": [
+      "b16-commercial-banks",
+      "b42-fuel-cells-and-industrial-batteries"
+    ],
+    "qa_type": "single_hop",
+    "question": "Give me all the metrics from Table 1 that are in category 'Quantitative' for Commercial Banks and Fuel Cells & Industrial Batteries industries.",
+    "answer": "Commercial Banks:\n- (1) Gross exposure to carbon-related industries, by industry, (2) total gross exposure to all industries, and (3) percentage of total gross exposure for each carbon-related industry | Quantitative | Presentation currency, Percentage % | FN-CB-1\n- Percentage of gross exposure included in the financed emissions calculation | Quantitative | Percentage % | FN-CB-2\n- For each industry by asset class: (1) absolute gross (a) Scope 1 emissions, (b) Scope 2 emissions, (c) Scope 3 emissions and (2) gross exposure (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e, Presentation currency | FN-CB-3\n- For each industry by asset class: (1) gross emissions intensity by (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) gross exposure (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e per unit of physical or economic output, Presentation currency | FN-CB-4\n\nFuel Cells & Industrial Batteries:\n- (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | RR-FC-130a.1\n- Average storage capacity of batteries, by product application and technology type | Quantitative | Specific energy (Wh/kg) | RR-FC-410a.1\n- Average energy efficiency of fuel cells as (1) electrical efficiency and (2) thermal efficiency, by product application and technology type | Quantitative | Percentage (%) | RR-FC-410a.2\n- Average battery efficiency as coulombic efficiency, by product application and technology type | Quantitative | Percentage (%) | RR-FC-410a.3\n- Average operating lifetime of fuel cells, by product application and technology type | Quantitative | Hours (h) | RR-FC-410a.4\n- Average operating lifetime of batteries, by product application and technology type | Quantitative | Number of cycles | RR-FC-410a.5",
+    "temperature": 0.2,
+    "version": "cross",
+    "specificity_score": 9,
+    "faithfulness_score": 8,
+    "relevancy_score_Commercial Banks": 8,
+    "relevancy_score_Fuel Cells & Industrial Batteries": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.897014723412426,
+    "ROUGE": 0.9537036987075618
+  },
+  {
+    "industries": [
+      "b16-commercial-banks",
+      "b42-fuel-cells-and-industrial-batteries"
+    ],
+    "qa_type": "single_hop",
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Commercial Banks and Fuel Cells & Industrial Batteries industries?",
+    "answer": "Fuel Cells & Industrial Batteries industry has more 'Quantitative' metrics to disclose in Table 1.",
+    "temperature": 0.2,
+    "version": "cross",
+    "specificity_score": 8,
+    "faithfulness_score": 5,
+    "relevancy_score_Commercial Banks": 6,
+    "relevancy_score_Fuel Cells & Industrial Batteries": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 9.060140240821136e-11,
+    "ROUGE": 0.04999999781250009
+  },
+  {
+    "industries": [
+      "b16-commercial-banks",
+      "b42-fuel-cells-and-industrial-batteries"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Commercial Banks and Fuel Cells & Industrial Batteries industries.",
+    "answer": "Commercial Banks:\n- FN-CB-1\n- FN-CB-2\n- FN-CB-3\n- FN-CB-4\n\nFuel Cells & Industrial Batteries:\n- RR-FC-130a.1\n- RR-FC-410a.1\n- RR-FC-410a.2\n- RR-FC-410a.3\n- RR-FC-410a.4\n- RR-FC-410a.5",
+    "temperature": 0.2,
+    "version": "cross",
+    "specificity_score": 9,
+    "faithfulness_score": 9,
+    "relevancy_score_Commercial Banks": 8,
+    "relevancy_score_Fuel Cells & Industrial Batteries": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 3.927184467410605e-08,
+    "ROUGE": 0.1437908474979709
+  },
+  {
+    "industries": [
+      "b16-commercial-banks",
+      "b42-fuel-cells-and-industrial-batteries"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What units of measurement are used across Commercial Banks and Fuel Cells & Industrial Batteries industries for measuring quantitative metrics?",
+    "answer": "Commercial Banks:\n- Presentation currency\n- Percentage %\n- Metric tons (t) CO2-e\n- Metric tons (t) CO2-e per unit of physical or economic output\n\nFuel Cells & Industrial Batteries:\n- Gigajoules (GJ)\n- Percentage (%)\n- Specific energy (Wh/kg)\n- Hours (h)\n- Number of cycles",
+    "temperature": 0.2,
+    "version": "cross",
+    "specificity_score": 9,
+    "faithfulness_score": 4,
+    "relevancy_score_Commercial Banks": 5,
+    "relevancy_score_Fuel Cells & Industrial Batteries": 6,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.0011319451329104154,
+    "ROUGE": 0.26347305072107285
+  },
+  {
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "single_hop",
+    "question": "What topics should I report on for Industrial Machinery & Goods and Iron & Steel Producers industries?",
+    "answer": "For the Industrial Machinery & Goods industry, the topics to report on include Energy Management and Fuel Economy & Emissions in Use-phase. For the Iron & Steel Producers industry, the topics to report on include Greenhouse Gas Emissions, Energy Management, Water Management, and Supply Chain Management.",
+    "temperature": 0,
+    "version": "cross",
+    "specificity_score": 6,
+    "faithfulness_score": 4,
+    "relevancy_score_Iron & Steel Producers": 5,
+    "relevancy_score_Industrial Machinery & Goods": 5,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.0,
+    "ROUGE": 0.999999995
+  },
+  {
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "single_hop",
+    "question": "Compare the number of quantitative metrics between Industrial Machinery & Goods and Iron & Steel Producers industries.",
+    "answer": "The Industrial Machinery & Goods industry has five quantitative metrics in Table 1: (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable, Sales-weighted fleet fuel efficiency for medium- and heavy-duty vehicles, Sales-weighted fuel efficiency for non-road equipment, Sales-weighted fuel efficiency for stationary generators, and Sales-weighted emissions of: (1) nitrogen oxides (NOx) and (2) particulate matter (PM) for various engines. The Iron & Steel Producers industry has four quantitative metrics in Table 1: Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations, (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable, (1) Total fuel consumed, (2) percentage coal, (3) percentage natural gas, (4) percentage renewable, and (1) Total fresh water withdrawn, (2) percentage recycled, (3) percentage in regions with High or Extremely High Baseline Water Stress.",
+    "temperature": 0,
+    "version": "cross",
+    "specificity_score": 8,
+    "faithfulness_score": 5,
+    "relevancy_score_Industrial Machinery & Goods": 6,
+    "relevancy_score_Iron & Steel Producers": 7,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.0,
+    "ROUGE": 0.999999995
+  },
+  {
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Industrial Machinery & Goods and Iron & Steel Producers industries.",
+    "answer": "Industrial Machinery & Goods: RT-IG-130a.1, RT-IG-410a.1, RT-IG-410a.2, RT-IG-410a.3, RT-IG-410a.4\nIron & Steel Producers: EM-IS-110a.1, EM-IS-130a.1, EM-IS-130a.2, EM-IS-140a.1",
+    "temperature": 0,
+    "version": "cross",
+    "specificity_score": 9,
+    "faithfulness_score": 9,
+    "relevancy_score_Iron & Steel Producers": 8,
+    "relevancy_score_Industrial Machinery & Goods": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.0955059460617961e-07,
+    "ROUGE": 0.11940298285921146
+  },
+  {
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What units of measurement are used across Industrial Machinery & Goods and Iron & Steel Producers industries for measuring energy management?",
+    "answer": "Industrial Machinery & Goods: Gigajoules (GJ), Percentage (%)\nIron & Steel Producers: Gigajoules (GJ), Percentage (%)",
+    "temperature": 0,
+    "version": "cross",
+    "specificity_score": 9,
+    "faithfulness_score": 7,
+    "relevancy_score_Iron & Steel Producers": 8,
+    "relevancy_score_Industrial Machinery & Goods": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.07728338834583949,
+    "ROUGE": 0.22857142426122457
+  },
+  {
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ],
+    "qa_type": "single_hop",
+    "question": "Give me all the metrics from Table 1 that are in category 'Quantitative' for Insurance and Real Estate Services industries.",
+    "answer": "Insurance:\n- Net premiums written related to energy efficiency and low carbon technology | Quantitative | Reporting currency | FN-IN-410b.1\n- Probable Maximum Loss (PML) of insured products from weather-related natural catastrophes | Quantitative | Reporting currency | FN-IN-450a.1\n- Total amount of monetary losses attributable to insurance payouts from (1) modeled natural catastrophes and (2) non-modeled natural catastrophes, by type of event and geographic segment (net and gross of reinsurance) | Quantitative | Reporting currency | FN-IN-450a.2\n- (1) Gross exposure to carbon-related industries, by industry (2) total gross exposure to all industries, and (3) percentage of total gross exposure to each carbon-related industry | Quantitative | Presentation currency, Percentage % | FN-IN-1\n- Percentage of gross exposure included in the financed emissions calculation | Quantitative | Percentage % | FN-IN-2\n- For each industry by asset class: (1) absolute gross (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) gross exposure (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e, Presentation currency | FN-IN-3\n- For each industry by asset class: (1) gross emissions intensity of (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) gross exposure (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e per unit of physical or economic output | FN-IN-4\n\nReal Estate Services:\n- Revenue from energy and sustainability services | Quantitative | Reporting currency | IF-RS-410a.1\n- (1) Floor area and (2) number of buildings under management provided with energy and sustainability services | Quantitative | Square feet (ft\u00b2), Number | IF-RS-410a.2\n- (1) Floor area and (2) number of buildings under management that obtained an energy rating | Quantitative | Square feet (ft\u00b2), Number | IF-RS-410a.3",
+    "temperature": 0.2,
+    "version": "cross",
+    "specificity_score": 9,
+    "faithfulness_score": 9,
+    "relevancy_score_Insurance": 8,
+    "relevancy_score_Real Estate Services": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.7920287378703413,
+    "ROUGE": 0.9230769180843196
+  },
+  {
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ],
+    "qa_type": "single_hop",
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Insurance and Real Estate Services industries?",
+    "answer": "Insurance industry has more 'Quantitative' metrics to disclose in Table 1.",
+    "temperature": 0.2,
+    "version": "cross",
+    "specificity_score": 8,
+    "faithfulness_score": 6,
+    "relevancy_score_Insurance": 8,
+    "relevancy_score_Real Estate Services": 7,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 2.3360147835821103e-15,
+    "ROUGE": 0.05479451915462567
+  },
+  {
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Insurance and Real Estate Services industries.",
+    "answer": "Insurance: FN-IN-410b.1, FN-IN-450a.1, FN-IN-450a.2, FN-IN-1, FN-IN-2, FN-IN-3, FN-IN-4\nReal Estate Services: IF-RS-410a.1, IF-RS-410a.2, IF-RS-410a.3",
+    "temperature": 0.2,
+    "version": "cross",
+    "specificity_score": 9,
+    "faithfulness_score": 9,
+    "relevancy_score_Insurance": 8,
+    "relevancy_score_Real Estate Services": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 5.189371222480179e-10,
+    "ROUGE": 0.05847953066037417
+  },
+  {
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Are there any common sustainability topics between Insurance and Real Estate Services industries? If so, how do their reporting requirements differ?",
+    "answer": "Common sustainability topic: Incorporation of Environmental, Social, and Governance Factors in Investment Management (Insurance) and Sustainability Services (Real Estate Services).\n\nReporting requirements differ as follows:\n- Insurance: Description of approach to incorporation of environmental, social, and governance (ESG) factors in investment management processes and strategies (Discussion and Analysis, FN-IN-410a.2).\n- Real Estate Services: Revenue from energy and sustainability services (Quantitative, IF-RS-410a.1).",
+    "temperature": 0.2,
+    "version": "cross",
+    "specificity_score": 7,
+    "faithfulness_score": 4,
+    "relevancy_score_Insurance": 6,
+    "relevancy_score_Real Estate Services": 5,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.46292154078914455,
+    "ROUGE": 0.7021276546310549
+  },
+  {
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "qa_type": "single_hop",
+    "question": "Give me all the metrics from Table 1 that are in category 'Quantitative' for Metals & Mining and Electrical & Electronic Equipment industries.",
+    "answer": "Metals & Mining:\n- Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO2-e, Percentage (%) | EM-MM-110a.1\n- (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | EM-MM-130a.1\n- (1) Total fresh water withdrawn, (2) total fresh water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%) | EM-MM-140a.1\n- Number of incidents of non-compliance associated with water quality permits, standards, and regulations | Quantitative | Number | EM-MM-140a.2\n\nElectrical & Electronic Equipment:\n- (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | RT-EE-130a.1\n- Percentage of products by revenue that contain IEC 62474 declarable substances | Quantitative | Percentage (%) by revenue | RT-EE-410a.1\n- Percentage of eligible products, by revenue, that meet ENERGY STAR\u00ae criteria certified to an energy efficiency certification | Quantitative | Percentage (%) by revenue | RT-EE-410a.2\n- Revenue from renewable energy-related and energy efficiency-related products | Quantitative | Reporting currency | RT-EE-410a.3",
+    "temperature": 0,
+    "version": "cross",
+    "specificity_score": 9,
+    "faithfulness_score": 9,
+    "relevancy_score_Metals & Mining": 8,
+    "relevancy_score_Electrical & Electronic Equipment": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.773289000097492,
+    "ROUGE": 0.8989898939919396
+  },
+  {
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "qa_type": "single_hop",
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Metals & Mining and Electrical & Electronic Equipment industries?",
+    "answer": "Metals & Mining industry has 4 'Quantitative' metrics to disclose in Table 1, while Electrical & Electronic Equipment industry has 4 'Quantitative' metrics to disclose in Table 1.",
+    "temperature": 0,
+    "version": "cross",
+    "specificity_score": 6,
+    "faithfulness_score": 6,
+    "relevancy_score_Metals & Mining": 8,
+    "relevancy_score_Electrical & Electronic Equipment": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.1216043240088111e-05,
+    "ROUGE": 0.05042016549961174
+  },
+  {
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Metals & Mining and Electrical & Electronic Equipment industries.",
+    "answer": "Metals & Mining: EM-MM-110a.1, EM-MM-130a.1, EM-MM-140a.1, EM-MM-140a.2\nElectrical & Electronic Equipment: RT-EE-130a.1, RT-EE-410a.1, RT-EE-410a.2, RT-EE-410a.3",
+    "temperature": 0,
+    "version": "cross",
+    "specificity_score": 9,
+    "faithfulness_score": 9,
+    "relevancy_score_Metals & Mining": 8,
+    "relevancy_score_Electrical & Electronic Equipment": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 7.867542211222801e-07,
+    "ROUGE": 0.12068965292063026
+  },
+  {
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What units of measurement are used across Metals & Mining and Electrical & Electronic Equipment industries for measuring energy management?",
+    "answer": "Metals & Mining: Gigajoules (GJ), Percentage (%)\nElectrical & Electronic Equipment: Gigajoules (GJ), Percentage (%)",
+    "temperature": 0,
+    "version": "cross",
+    "specificity_score": 9,
+    "faithfulness_score": 7,
+    "relevancy_score_Metals & Mining": 8,
+    "relevancy_score_Electrical & Electronic Equipment": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.07244604665724022,
+    "ROUGE": 0.23529411349480975
+  },
+  {
+    "industries": [
+      "b16-commercial-banks",
+      "b42-fuel-cells-and-industrial-batteries"
+    ],
+    "qa_type": "single_hop",
+    "question": "Give me all the metrics from Table 1 that are in category 'Quantitative' for Commercial Banks and Fuel Cells & Industrial Batteries industries.",
+    "answer": "Commercial Banks:\n- (1) Gross exposure to carbon-related industries, by industry, (2) total gross exposure to all industries, and (3) percentage of total gross exposure for each carbon-related industry | Quantitative | Presentation currency, Percentage % | FN-CB-1\n- Percentage of gross exposure included in the financed emissions calculation | Quantitative | Percentage % | FN-CB-2\n- For each industry by asset class: (1) absolute gross (a) Scope 1 emissions, (b) Scope 2 emissions, (c) Scope 3 emissions and (2) gross exposure (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e, Presentation currency | FN-CB-3\n- For each industry by asset class: (1) gross emissions intensity by (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) gross exposure (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e per unit of physical or economic output, Presentation currency | FN-CB-4\n\nFuel Cells & Industrial Batteries:\n- (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | RR-FC-130a.1\n- Average storage capacity of batteries, by product application and technology type | Quantitative | Specific energy (Wh/kg) | RR-FC-410a.1\n- Average energy efficiency of fuel cells as (1) electrical efficiency and (2) thermal efficiency, by product application and technology type | Quantitative | Percentage (%) | RR-FC-410a.2\n- Average battery efficiency as coulombic efficiency, by product application and technology type | Quantitative | Percentage (%) | RR-FC-410a.3\n- Average operating lifetime of fuel cells, by product application and technology type | Quantitative | Hours (h) | RR-FC-410a.4\n- Average operating lifetime of batteries, by product application and technology type | Quantitative | Number of cycles | RR-FC-410a.5",
+    "temperature": 0,
+    "version": "cross",
+    "specificity_score": 9,
+    "faithfulness_score": 7,
+    "relevancy_score_Commercial Banks": 8,
+    "relevancy_score_Fuel Cells & Industrial Batteries": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.897014723412426,
+    "ROUGE": 0.9537036987075618
+  },
+  {
+    "industries": [
+      "b16-commercial-banks",
+      "b42-fuel-cells-and-industrial-batteries"
+    ],
+    "qa_type": "single_hop",
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Commercial Banks and Fuel Cells & Industrial Batteries industries?",
+    "answer": "The Fuel Cells & Industrial Batteries industry has more 'Quantitative' metrics to disclose in Table 1. It has six quantitative metrics, whereas the Commercial Banks industry has four quantitative metrics.",
+    "temperature": 0,
+    "version": "cross",
+    "specificity_score": 8,
+    "faithfulness_score": 4,
+    "relevancy_score_Commercial Banks": 5,
+    "relevancy_score_Fuel Cells & Industrial Batteries": 6,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.561687516802194e-06,
+    "ROUGE": 0.06153845843195283
+  },
+  {
+    "industries": [
+      "b16-commercial-banks",
+      "b42-fuel-cells-and-industrial-batteries"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Commercial Banks and Fuel Cells & Industrial Batteries industries.",
+    "answer": "Commercial Banks: FN-CB-1, FN-CB-2, FN-CB-3, FN-CB-4\nFuel Cells & Industrial Batteries: RR-FC-130a.1, RR-FC-410a.1, RR-FC-410a.2, RR-FC-410a.3, RR-FC-410a.4, RR-FC-410a.5",
+    "temperature": 0,
+    "version": "cross",
+    "specificity_score": 9,
+    "faithfulness_score": 8,
+    "relevancy_score_Commercial Banks": 8,
+    "relevancy_score_Fuel Cells & Industrial Batteries": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.563580131097568e-08,
+    "ROUGE": 0.05263157685941837
+  },
+  {
+    "industries": [
+      "b16-commercial-banks",
+      "b42-fuel-cells-and-industrial-batteries"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What units of measurement are used across Commercial Banks and Fuel Cells & Industrial Batteries industries for measuring quantitative metrics?",
+    "answer": "Commercial Banks: Presentation currency, Percentage %, Metric tons (t) CO2-e, Metric tons (t) CO2-e per unit of physical or economic output\nFuel Cells & Industrial Batteries: Gigajoules (GJ), Percentage (%), Specific energy (Wh/kg), Hours (h), Number of cycles",
+    "temperature": 0,
+    "version": "cross",
+    "specificity_score": 8,
+    "faithfulness_score": 4,
+    "relevancy_score_Commercial Banks": 5,
+    "relevancy_score_Fuel Cells & Industrial Batteries": 6,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.0010777862769988432,
+    "ROUGE": 0.25149700281688125
+  },
+  {
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "qa_type": "single_hop",
+    "question": "Compare the number of quantitative metrics between Metals & Mining and Electrical & Electronic Equipment industries.",
+    "answer": "The Metals & Mining industry has five quantitative metrics in Table 1, while the Electrical & Electronic Equipment industry has four quantitative metrics in Table 1.",
+    "temperature": 0.2,
+    "version": "cross",
+    "specificity_score": 8,
+    "faithfulness_score": 6,
+    "relevancy_score_Metals & Mining": 8,
+    "relevancy_score_Electrical & Electronic Equipment": 7,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 4.10317856845503e-06,
+    "ROUGE": 0.03333333066805577
+  },
+  {
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "qa_type": "single_hop",
+    "question": "List the activity metrics for Metals & Mining and Electrical & Electronic Equipment industries.",
+    "answer": "Metals & Mining industry activity metrics: Production of (1) metal ores and (2) finished metal products; Total number of employees, percentage contractors.\nElectrical & Electronic Equipment industry activity metrics: Number of units produced by product category; Number of employees.",
+    "temperature": 0.2,
+    "version": "cross",
+    "specificity_score": 8,
+    "faithfulness_score": 7,
+    "relevancy_score_Metals & Mining": 8,
+    "relevancy_score_Electrical & Electronic Equipment": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.32018425159895963,
+    "ROUGE": 0.5624999950195313
+  },
+  {
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What units of measurement are used across Metals & Mining and Electrical & Electronic Equipment industries for measuring energy management?",
+    "answer": "Metals & Mining: Gigajoules (GJ), Percentage (%)\nElectrical & Electronic Equipment: Gigajoules (GJ), Percentage (%)",
+    "temperature": 0.2,
+    "version": "cross",
+    "specificity_score": 9,
+    "faithfulness_score": 7,
+    "relevancy_score_Metals & Mining": 8,
+    "relevancy_score_Electrical & Electronic Equipment": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.07244604665724022,
+    "ROUGE": 0.23529411349480975
+  },
+  {
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Are there any common sustainability topics between Metals & Mining and Electrical & Electronic Equipment industries? If so, how do their reporting requirements differ?",
+    "answer": "Common Topic: Energy Management\nMetals & Mining Reporting Requirements: (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | EM-MM-130a.1\nElectrical & Electronic Equipment Reporting Requirements: (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | RT-EE-130a.1",
+    "temperature": 0.2,
+    "version": "cross",
+    "specificity_score": 7,
+    "faithfulness_score": 6,
+    "relevancy_score_Metals & Mining": 8,
+    "relevancy_score_Electrical & Electronic Equipment": 7,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.7093363614296314,
+    "ROUGE": 0.7636363587173554
+  },
+  {
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ],
+    "qa_type": "single_hop",
+    "question": "What topics should I report on for Electric Utilities & Power Generators and Oil & Gas - Exploration & Production industries?",
+    "answer": "For the Electric Utilities & Power Generators industry, the topics include Greenhouse Gas Emissions & Energy Resource Planning, Water Management, End-Use Efficiency & Demand, Nuclear Safety & Emergency Management, and Grid Resiliency. For the Oil & Gas - Exploration & Production industry, the topics include Greenhouse Gas Emissions, Water Management, and Reserves Valuation & Capital Expenditures.",
+    "temperature": 0.2,
+    "version": "cross",
+    "specificity_score": 6,
+    "faithfulness_score": 5,
+    "relevancy_score_Electric Utilities & Power Generators": 6,
+    "relevancy_score_Oil & Gas - Exploration & Production": 6,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.0,
+    "ROUGE": 0.999999995
+  },
+  {
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ],
+    "qa_type": "single_hop",
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Electric Utilities & Power Generators and Oil & Gas - Exploration & Production industries.",
+    "answer": "For the Electric Utilities & Power Generators industry, the metrics in the 'Discussion and Analysis' category are: Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets (IF-EU-110a.3), Description of water management risks and discussion of strategies and practices to mitigate those risks (IF-EU-140a.3), and Description of efforts to manage nuclear safety and emergency preparedness (IF-EU-540a.2). For the Oil & Gas - Exploration & Production industry, the metrics in the 'Discussion and Analysis' category are: Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets (EM-EP-110a.3), and Discussion of how price and demand for hydrocarbons and/or climate regulation influence the capital expenditure strategy for exploration, acquisition, and development of assets (EM-EP-420a.4).",
+    "temperature": 0.2,
+    "version": "cross",
+    "specificity_score": 9,
+    "faithfulness_score": 7,
+    "relevancy_score_Electric Utilities & Power Generators": 8,
+    "relevancy_score_Oil & Gas - Exploration & Production": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.0,
+    "ROUGE": 0.999999995
+  },
+  {
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Electric Utilities & Power Generators and Oil & Gas - Exploration & Production industries.",
+    "answer": "Electric Utilities & Power Generators: IF-EU-110a.1, IF-EU-110a.2, IF-EU-140a.1, IF-EU-140a.2, IF-EU-420a.2, IF-EU-420a.3, IF-EU-540a.1, IF-EU-550a.1, IF-EU-550a.2\nOil & Gas - Exploration & Production: EM-EP-110a.1, EM-EP-110a.2, EM-EP-140a.1, EM-EP-140a.2, EM-EP-140a.3, EM-EP-140a.4, EM-EP-420a.1, EM-EP-420a.2, EM-EP-420a.3",
+    "temperature": 0.2,
+    "version": "cross",
+    "specificity_score": 10,
+    "faithfulness_score": 9,
+    "relevancy_score_Electric Utilities & Power Generators": 8,
+    "relevancy_score_Oil & Gas - Exploration & Production": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 3.052690089366377e-08,
+    "ROUGE": 0.09638554042676734
+  },
+  {
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What units of measurement are used across Electric Utilities & Power Generators and Oil & Gas - Exploration & Production industries for measuring water management metrics?",
+    "answer": "Electric Utilities & Power Generators: Thousand cubic meters (m\u00b3), Percentage (%)\nOil & Gas - Exploration & Production: Thousand cubic meters (m\u00b3), Percentage (%), Metric tons (t)",
+    "temperature": 0.2,
+    "version": "cross",
+    "specificity_score": 9,
+    "faithfulness_score": 5,
+    "relevancy_score_Oil & Gas - Exploration & Production": 6,
+    "relevancy_score_Electric Utilities & Power Generators": 7,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.0026361063558591733,
+    "ROUGE": 0.1724137902497028
+  },
+  {
+    "industries": [
+      "b12-oil-and-gas-midstream",
+      "b59-telecommunication-services"
+    ],
+    "qa_type": "single_hop",
+    "question": "Give me all the metrics from Table 1 that are in category 'Quantitative' for Oil & Gas-Midstream and Telecommunication Services industries.",
+    "answer": "Oil & Gas-Midstream: Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations (Metric tons (t) CO\u2082-e, Percentage (%)) - EM-MD-110a.1\n\nTelecommunication Services: (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable (Gigajoules (GJ), Percentage (%)) - TC-TL-130a.1",
+    "temperature": 0.2,
+    "version": "cross",
+    "specificity_score": 9,
+    "faithfulness_score": 9,
+    "relevancy_score_Oil & Gas - Midstream": 8,
+    "relevancy_score_Telecommunication Services": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.5596454950766666,
+    "ROUGE": 0.7012986963197841
+  },
+  {
+    "industries": [
+      "b12-oil-and-gas-midstream",
+      "b59-telecommunication-services"
+    ],
+    "qa_type": "single_hop",
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Oil & Gas-Midstream and Telecommunication Services industries?",
+    "answer": "Both Oil & Gas-Midstream and Telecommunication Services industries have one 'Quantitative' metric each in Table 1.",
+    "temperature": 0.2,
+    "version": "cross",
+    "specificity_score": 6,
+    "faithfulness_score": 6,
+    "relevancy_score_Oil and Gas - Midstream": 8,
+    "relevancy_score_Telecommunication Services": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.001018206834436184,
+    "ROUGE": 0.0350877152600805
+  },
+  {
+    "industries": [
+      "b12-oil-and-gas-midstream",
+      "b59-telecommunication-services"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Oil & Gas-Midstream and Telecommunication Services industries.",
+    "answer": "Oil & Gas-Midstream: EM-MD-110a.1\nTelecommunication Services: TC-TL-130a.1",
+    "temperature": 0.2,
+    "version": "cross",
+    "specificity_score": 9,
+    "faithfulness_score": 9,
+    "relevancy_score_Oil and Gas - Midstream": 8,
+    "relevancy_score_Telecommunication Services": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 3.3150181890013094e-05,
+    "ROUGE": 0.12244897685964186
+  },
+  {
+    "industries": [
+      "b12-oil-and-gas-midstream",
+      "b59-telecommunication-services"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Are there any common sustainability topics between Oil & Gas-Midstream and Telecommunication Services industries? If so, how do their reporting requirements differ?",
+    "answer": "Yes, both industries address the topic of emissions and energy consumption. In the Oil & Gas-Midstream industry, the focus is on \"Greenhouse Gas Emissions\" with metrics like \"Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations\" and \"Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets.\" In contrast, the Telecommunication Services industry focuses on the \"Environmental Footprint of Operations\" with metrics such as \"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable.\" The Oil & Gas-Midstream industry requires both quantitative and discussion-based metrics, while the Telecommunication Services industry focuses on quantitative metrics related to energy consumption.",
+    "temperature": 0.2,
+    "version": "cross",
+    "specificity_score": 7,
+    "faithfulness_score": 4,
+    "relevancy_score_Oil and Gas - Midstream": 6,
+    "relevancy_score_Telecommunication Services": 5,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.39471598266128255,
+    "ROUGE": 0.5285714236367347
+  },
+  {
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "single_hop",
+    "question": "What topics should I report on for Industrial Machinery & Goods and Iron & Steel Producers industries?",
+    "answer": "For the Industrial Machinery & Goods industry, the topics to report on include Energy Management, Fuel Economy & Emissions in Use-phase. For the Iron & Steel Producers industry, the topics to report on include Greenhouse Gas Emissions, Energy Management, Water Management, and Supply Chain Management.",
+    "temperature": 0.5,
+    "version": "cross",
+    "specificity_score": 8,
+    "faithfulness_score": 4,
+    "relevancy_score_Iron & Steel Producers": 5,
+    "relevancy_score_Industrial Machinery & Goods": 5,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.0,
+    "ROUGE": 0.999999995
+  },
+  {
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "single_hop",
+    "question": "Give me all the metrics from Table 1 that are in category 'Quantitative' for Industrial Machinery & Goods and Iron & Steel Producers industries.",
+    "answer": "For the Industrial Machinery & Goods industry, the metrics in category 'Quantitative' are: (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable; Sales-weighted fleet fuel efficiency for medium- and heavy-duty vehicles; Sales-weighted fuel efficiency for non-road equipment; Sales-weighted fuel efficiency for stationary generators; Sales-weighted emissions of: (1) nitrogen oxides (NOx) and (2) particulate matter (PM) for: (a) marine diesel engines, (b) locomotive diesel engines, (c) on-road medium- and heavy-duty engines, and (d) other non-road diesel engines.\n\nFor the Iron & Steel Producers industry, the metrics in category 'Quantitative' are: Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations; (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable; (1) Total fuel consumed, (2) percentage coal, (3) percentage natural gas, (4) percentage renewable; (1) Total fresh water withdrawn, (2) percentage recycled, (3) percentage in regions with High or Extremely High Baseline Water Stress.",
+    "temperature": 0.5,
+    "version": "cross",
+    "specificity_score": 8,
+    "faithfulness_score": 9,
+    "relevancy_score_Iron & Steel Producers": 8,
+    "relevancy_score_Industrial Machinery & Goods": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.0,
+    "ROUGE": 0.999999995
+  },
+  {
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Industrial Machinery & Goods and Iron & Steel Producers industries.",
+    "answer": "Industrial Machinery & Goods: RT-IG-130a.1, RT-IG-410a.1, RT-IG-410a.2, RT-IG-410a.3, RT-IG-410a.4\nIron & Steel Producers: EM-IS-110a.1, EM-IS-130a.1, EM-IS-130a.2, EM-IS-140a.1",
+    "temperature": 0.5,
+    "version": "cross",
+    "specificity_score": 9,
+    "faithfulness_score": 9,
+    "relevancy_score_Iron & Steel Producers": 8,
+    "relevancy_score_Industrial Machinery & Goods": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.0955059460617961e-07,
+    "ROUGE": 0.11940298285921146
+  },
+  {
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What units of measurement are used across Industrial Machinery & Goods and Iron & Steel Producers industries for measuring energy management metrics?",
+    "answer": "Industrial Machinery & Goods: Gigajoules (GJ), Percentage (%)\nIron & Steel Producers: Gigajoules (GJ), Percentage (%)",
+    "temperature": 0.5,
+    "version": "cross",
+    "specificity_score": 9,
+    "faithfulness_score": 6,
+    "relevancy_score_Iron & Steel Producers": 8,
+    "relevancy_score_Industrial Machinery & Goods": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.019513179361274658,
+    "ROUGE": 0.1951219472932779
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "What does the IFRS require companies to disclose regarding the incorporation of ESG factors in credit analysis for the Commercial Banks industry?",
+    "answer": "The entity shall describe its approach to the incorporating environmental, social, and governance (ESG) factors into its credit analysis. The scope of disclosure shall include commercial and industrial lending as well as project finance. The entity shall describe policies that determine its approach to the incorporation of ESG factors in credit analysis. The entity shall discuss how it incorporates ESG factors when estimating credit losses over the contractual term of the entity's financial assets. The entity shall describe its approach to implementation of the aspects of the entity's ESG incorporation practices. The entity shall describe its oversight/accountability approach to the incorporation of ESG factors. The entity shall discuss whether it conducts scenario analysis and/or modeling in which the risk profile of future ESG trends is calculated at the portfolio level of commercial and industrial credit exposure. The entity shall discuss ESG trends that it views as broadly applicable in terms of their impact on sectors and industries, as well as the trends it views as sector- or industry-specific. The entity shall describe significant concentrations of credit exposure to ESG factors, including, but not limited to, carbon-related assets, water-stressed regions, and cybersecurity risks. The entity shall describe how ESG factors are incorporated in the assessment of and influence the entity's perspectives on traditional macroeconomic factors, traditional microeconomic factors, overall creditworthiness of a borrower, maturity or tenor of a loan, expected loss, including probability of default, exposure at default, and loss given default, and value of posted collateral. The entity may disclose additional quantitative measures related to its approach to the incorporation of ESG factors in credit analysis.",
+    "temperature": 0.5,
+    "version": "local",
+    "specificity_score": 9,
+    "faithfulness_score": 9,
+    "relevancy_score_Commercial Banks": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.0,
+    "ROUGE": 0.999999995
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "Describe the calculation method for the gross exposure to carbon-related industries metric for the Commercial Banks industry.",
+    "answer": "The entity shall disclose its gross exposure to carbon-related industries, by industry. For funded amounts, gross exposure is defined as the funded carrying amounts expressed in the presentation currency of the entity's financial statements whether prepared in accordance with IFRS Accounting Standards or other GAAP. Carrying amount means the amount before subtracting the loss allowance, when applicable. For undrawn loan commitments, gross exposure is defined as the full amount of the commitment expressed in the presentation currency of the entity's financial statements. For derivatives, gross exposure is defined as the contractual amounts to be exchanged in a derivative for which gross cash flows are exchanged, or the net amounts in a derivative for which net cash flows are exchanged, as applicable, expressed in the presentation currency of the entity's financial statements. Carbon-related industries are industries responsible for relatively high direct or indirect GHG emissions. Carbon related industries include but are not limited to: Oil, Gas & Consumable Fuels; Chemicals, Construction Materials, Metals & Mining, and Paper & Forest Products; Air Freight & Logistics, Airlines, Marine, and Road & Rail; Automobiles; Homebuilding; Beverages and Food Products; Electric Utilities, Gas Utilities and Multi Utilities; Real Estate Management & Development. The entity shall use the Global Industry Classification Standard (GICS) 6-digit industry-level code for classifying counterparties. The entity shall disclose the classification standard used if different from GICS.",
+    "temperature": 0.5,
+    "version": "local",
+    "specificity_score": 9,
+    "faithfulness_score": 8,
+    "relevancy_score_Commercial Banks": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.0,
+    "ROUGE": 0.999999995
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What do I need to discuss or disclose for the 'Incorporation of Environmental, Social, and Governance Factors in Credit Analysis' topic in the Commercial Banks industry?",
+    "answer": "1. The entity shall describe its approach to the incorporating environmental, social, and governance (ESG) factors into its credit analysis.\n\n   1.1 The definition of incorporation of ESG factors is aligned with that of the Global Sustainable Investment Alliance (GSIA) and includes the use of ESG information in the investment decision-making processes.\n\n   1.2 Examples of ESG factors/issues are provided in the PRI Reporting Framework \u2013 Main definitions 2018, section \"ESG issues.\"\n\n   1.3 Credit analysis is defined as method to calculate the creditworthiness of a business or organization, i.e., their ability to honor debt obligations, which seeks to identify the appropriate level of default risk associated with financing such business, organization, or project.\n\n2. The scope of disclosure shall include commercial and industrial lending as well as project finance.\n\n3. The entity shall describe policies that determine its approach to the incorporation of ESG factors in credit analysis.\n\n4. The entity shall discuss how it incorporates ESG factors when estimating credit losses over the contractual term of the entity's financial assets.\n\n5. The entity shall describe its approach to implementation of the aspects of the entity's ESG incorporation practices.\n\n6. The entity shall describe its oversight/accountability approach to the incorporation of ESG factors.\n\n7. The entity shall discuss whether it conducts scenario analysis and/or modeling in which the risk profile of future ESG trends is calculated at the portfolio level of commercial and industrial credit exposure.\n\n8. The entity shall discuss ESG trends that it views as broadly applicable in terms of their impact on sectors and industries, as well as the trends it views as sector- or industry-specific.\n\n9. The entity shall describe significant concentrations of credit exposure to ESG factors, including, but not limited to, carbon-related assets, water-stressed regions, and cybersecurity risks.\n\n10. The entity shall describe how ESG factors are incorporated in the assessment of and influence the entity's perspectives on:\n\n11. The entity may disclose additional quantitative measures related to its approach to the incorporation of ESG factors in credit analysis.",
+    "temperature": 0.5,
+    "version": "local",
+    "specificity_score": 8,
+    "faithfulness_score": 7,
+    "relevancy_score_Commercial Banks": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.0,
+    "ROUGE": 0.999999995
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the category of the 'Gross exposure to carbon-related industries' metric in the Commercial Banks industry and how should this metric be calculated?",
+    "answer": "1. The entity shall disclose its gross exposure to carbon-related industries, by industry.\n\n   1.1 For funded amounts, gross exposure is defined as the funded carrying amounts expressed in the presentation currency of the entity's financial statements whether prepared in accordance with IFRS Accounting Standards or other GAAP.\n\n      1.1.1 Carrying amount means the amount before subtracting the loss allowance, when applicable.\n\n   1.2 For undrawn loan commitments, gross exposure is defined as the full amount of the commitment expressed in the presentation currency of the entity's financial statements.\n\n   1.3 For derivatives, gross exposure is defined as the contractual amounts to be exchanged in a derivative for which gross cash flows are exchanged, or the net amounts in a derivative for which net cash flows are exchanged, as applicable, expressed in the presentation currency of the entity's financial statements.\n\n   1.4 Carbon-related industries are industries responsible for relatively high direct or indirect GHG emissions.",
+    "temperature": 0.5,
+    "version": "local",
+    "specificity_score": 8,
+    "faithfulness_score": 8,
+    "relevancy_score_Commercial Banks": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.0,
+    "ROUGE": 0.999999995
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "What are the factors that the company should describe in its approach and strategy to the incorporation of ESG factors, according to the FN-CB-410a.2 metrics for the Commercial Banks industry?",
+    "answer": "The entity shall describe its approach to the incorporating environmental, social, and governance (ESG) factors into its credit analysis. The scope of disclosure shall include commercial and industrial lending as well as project finance. The entity shall describe policies that determine its approach to the incorporation of ESG factors in credit analysis. The entity shall discuss how it incorporates ESG factors when estimating credit losses over the contractual term of the entity's financial assets. The entity shall describe its approach to implementation of the aspects of the entity's ESG incorporation practices. The entity shall describe its oversight/accountability approach to the incorporation of ESG factors. The entity shall discuss whether it conducts scenario analysis and/or modeling in which the risk profile of future ESG trends is calculated at the portfolio level of commercial and industrial credit exposure. The entity shall discuss ESG trends that it views as broadly applicable in terms of their impact on sectors and industries, as well as the trends it views as sector- or industry-specific. The entity shall describe significant concentrations of credit exposure to ESG factors, including, but not limited to, carbon-related assets, water-stressed regions, and cybersecurity risks. The entity shall describe how ESG factors are incorporated in the assessment of and influence the entity's perspectives on traditional macroeconomic factors, traditional microeconomic factors, overall creditworthiness of a borrower, maturity or tenor of a loan, expected loss, including probability of default, exposure at default, and loss given default, and value of posted collateral.",
+    "temperature": 0.2,
+    "version": "local",
+    "specificity_score": 8,
+    "faithfulness_score": 6,
+    "relevancy_score_Commercial Banks": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.0,
+    "ROUGE": 0.999999995
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "Describe the calculation method for the FN-CB-1 metric for the Commercial Banks industry.",
+    "answer": "The entity shall disclose its gross exposure to carbon-related industries, by industry. For funded amounts, gross exposure is defined as the funded carrying amounts expressed in the presentation currency of the entity's financial statements whether prepared in accordance with IFRS Accounting Standards or other GAAP. Carrying amount means the amount before subtracting the loss allowance, when applicable. For undrawn loan commitments, gross exposure is defined as the full amount of the commitment expressed in the presentation currency of the entity's financial statements. For derivatives, gross exposure is defined as the contractual amounts to be exchanged in a derivative for which gross cash flows are exchanged, or the net amounts in a derivative for which net cash flows are exchanged, as applicable, expressed in the presentation currency of the entity's financial statements. Carbon-related industries are industries responsible for relatively high direct or indirect GHG emissions. The entity shall use the Global Industry Classification Standard (GICS) 6-digit industry-level code for classifying counterparties. The entity shall disclose the classification standard used if different from GICS. The entity shall disclose its gross exposure to all industries. The entity shall disclose the percentage of total gross exposure for each carbon-related industry. The entity shall calculate the percentage by dividing its gross exposure to each carbon-related industry by the total gross exposure to all industries. The scope of disclosure includes but is not limited to loans, project finance, bonds, equity investments and derivatives. Undrawn loan commitments to carbon-related industries shall be disclosed separately. The entity may additionally calculate and disclose gross exposure to other asset classes. In such cases, the entity shall include an explanation of why the inclusion of those additional asset classes provides more relevant information to primary users of general purpose financial reporting.",
+    "temperature": 0.2,
+    "version": "local",
+    "specificity_score": 9,
+    "faithfulness_score": 8,
+    "relevancy_score_Commercial Banks": 9,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "BLEU": 1.0,
+    "ROUGE": 0.999999995
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What do I need to discuss or disclose for the 'Incorporation of Environmental, Social, and Governance Factors in Credit Analysis' topic in the Commercial Banks industry?",
+    "answer": "1. The entity shall describe its approach to the incorporating environmental, social, and governance (ESG) factors into its credit analysis.\n\n   1.1 The definition of incorporation of ESG factors is aligned with that of the Global Sustainable Investment Alliance (GSIA) and includes the use of ESG information in the investment decision-making processes.\n\n   1.2 Examples of ESG factors/issues are provided in the PRI Reporting Framework \u2013 Main definitions 2018, section \"ESG issues.\"\n\n   1.3 Credit analysis is defined as method to calculate the creditworthiness of a business or organization, i.e., their ability to honor debt obligations, which seeks to identify the appropriate level of default risk associated with financing such business, organization, or project.\n\n2. The scope of disclosure shall include commercial and industrial lending as well as project finance.\n\n3. The entity shall describe policies that determine its approach to the incorporation of ESG factors in credit analysis.\n\n4. The entity shall discuss how it incorporates ESG factors when estimating credit losses over the contractual term of the entity's financial assets.\n\n5. The entity shall describe its approach to implementation of the aspects of the entity's ESG incorporation practices.\n\n   5.1 The discussion shall include, but is not limited to:\n   \n       5.1.1 Parties responsible for day-to-day incorporation of ESG factors\n       \n       5.1.2 Roles and responsibilities of employees involved\n\n5.1.3 Approach to conducting ESG-related research\n\n5.1.4 Approach to incorporating ESG factors into assessing creditworthiness of borrowers\n\n6 The entity shall describe its oversight/accountability approach to the incorporation of ESG factors.\n\n6.1 The discussion shall include, but is not limited to:\n\n6.1.1 Formal oversight individuals and/or bodies involved\n\n6.1.2 Roles and responsibilities of employees involved\n\n6.1.3 Criteria used in assessing the quality of ESG incorporation\n\n7 The entity shall discuss whether it conducts scenario analysis and/or modeling in which the risk profile of future ESG trends is calculated at the portfolio level of commercial and industrial credit exposure.\n\n7.1 ESG trends include, but are not limited to, climate change, natural resource constraints, human capital risks and opportunities, and cybersecurity risks.\n\n8 The entity shall discuss ESG trends that it views as broadly applicable in terms of their impact on sectors and industries, as well as the trends it views as sector- or industry-specific.\n\n8.1 The entity may further provide the discussion in the context of geographic exposure of its commercial and industrial credit portfolio.\n\n9 The entity shall describe significant concentrations of credit exposure to ESG factors, including, but not limited to, carbon-related assets, water-stressed regions, and cybersecurity risks.\n\n10 The entity shall describe how ESG factors are incorporated in the assessment of and influence the entity's perspectives on:\n\n10.1 Traditional macroeconomic factors such as the economic conditions, central bank monetary policy, industry trends, and geopolitical risks that affect creditworthiness of borrowers\n\n10.2 Traditional microeconomic factors such as supply and demand for products or services that affect financial conditions and operational results of borrowers as well as their creditworthiness\n\n10.3 Overall creditworthiness of a borrower\n\n10.4 Maturity or tenor of a loan\n\n10.5 Expected loss, including probability of default, exposure at default, and loss given default\n\n10.6 Value of posted collateral\n\n11 The entity may disclose additional quantitative measures related to its approach to the incorporation of ESG factors in credit analysis, such as:\n\n11.1 Number of commercial and industrial loans and project finance screened according to the Equator Principles (EP III) (or equivalent) by EP Category\n\n11.2 Number of loans for which a review of environmental or social risks was performed, e.g., by the entity's Environmental and Social Risk Management (ESRM) group",
+    "temperature": 0.2,
+    "version": "local",
+    "specificity_score": 8,
+    "faithfulness_score": 7,
+    "relevancy_score_Commercial Banks": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.732494705682641,
+    "ROUGE": 0.8364888074279909
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the code of the 'Gross exposure to carbon-related industries' metric in the Commercial Banks industry and how should this metric be calculated?",
+    "answer": "FN-CB-1. (1) Gross exposure to carbon-related industries, by industry, (2) total gross exposure to all industries, and (3) percentage of total gross exposure for each carbon-related industry\n\n1. The entity shall disclose its gross exposure to carbon-related industries, by industry.\n\n   1.1 For funded amounts, gross exposure is defined as the funded carrying amounts expressed in the presentation currency of the entity's financial statements whether prepared in accordance with IFRS Accounting Standards or other GAAP.\n\n      1.1.1 Carrying amount means the amount before subtracting the loss allowance, when applicable.\n\n   1.2 For undrawn loan commitments, gross exposure is defined as the full amount of the commitment expressed in the presentation currency of the entity's financial statements.\n\n   1.3 For derivatives, gross exposure is defined as the contractual amounts to be exchanged in a derivative for which gross cash flows are exchanged, or the net amounts in a derivative for which net cash flows are exchanged, as applicable, expressed in the presentation currency of the entity's financial statements.\n\n   1.4 Carbon-related industries are industries responsible for relatively high direct or indirect GHG emissions.\n\n      1.4.1 Carbon related industries include but are not limited to:\n      \n      - Oil, Gas & Consumable Fuels\n      - Chemicals, Construction Materials, Metals & Mining, and Paper & Forest Products\n\n\u2022 Air Freight & Logistics, Airlines, Marine, and Road & Rail\n\n\u2022 Automobiles\n\n\u2022 Homebuilding\n\n\u2022 Beverages and Food Products\n\n\u2022 Electric Utilities, Gas Utilities and Multi Utilities\n\n\u2022 Real Estate Management & Development\n\n1.4.2 The entity shall use the Global Industry Classification Standard (GICS) 6-digit industry-level code for classifying counterparties.\n\n1.4.2.1 The entity shall use the latest version of the classification system available at the date of reporting.\n\n1.4.3 The entity shall disclose the classification standard used if different from GICS.\n\n2 The entity shall disclose its gross exposure to all industries.\n\n3 The entity shall disclose the percentage of total gross exposure for each carbon-related industry.\n\n3.1 The entity shall calculate the percentage by dividing its gross exposure to each carbon-related industry by the total gross exposure to all industries.\n\n4 The scope of disclosure includes but is not limited to loans, project finance, bonds, equity investments and derivatives.\n\n4.1 Undrawn loan commitments to carbon-related industries shall be disclosed separately.\n\n4.1.1 For undrawn loan commitments, the entity shall separately calculate the percentage by dividing the full amount of undrawn loan commitments to carbon related industries by the full amount of undrawn loan commitments to all industries.\n\n4.2 The entity may additionally calculate and disclose gross exposure to other asset classes.\n\n4.2.1 In such cases, the entity shall include an explanation of why the inclusion of those additional asset classes provides more relevant information to primary users of general purpose financial reporting.",
+    "temperature": 0.2,
+    "version": "local",
+    "specificity_score": 9,
+    "faithfulness_score": 9,
+    "relevancy_score_Commercial Banks": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.7141563332669072,
+    "ROUGE": 0.8245243080503645
+  },
+  {
+    "industries": [
+      "b29-health-care-distributors"
+    ],
+    "qa_type": "single_hop",
+    "question": "Describe the calculation method for the payload fuel economy metric for the Health Care Distributors industry.",
+    "answer": "Payload fuel economy shall be calculated as: total gallons of fuel consumed / revenue tons miles (RTM), where revenue ton miles (RTM) = total weight of paid tonnage transported (payload) \u00d7 total distance in miles goods were transported.",
+    "temperature": 0.5,
+    "version": "local",
+    "specificity_score": 10,
+    "faithfulness_score": 10,
+    "relevancy_score_Health Care Distributors": 10,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.0,
+    "ROUGE": 0.999999995
+  },
+  {
+    "industries": [
+      "b29-health-care-distributors"
+    ],
+    "qa_type": "single_hop",
+    "question": "What does the IFRS require companies to disclose regarding payload fuel economy for the Health Care Distributors industry?",
+    "answer": "The entity shall disclose its aggregate payload fuel economy for its transportation fleet.",
+    "temperature": 0.5,
+    "version": "local",
+    "specificity_score": 9,
+    "faithfulness_score": 9,
+    "relevancy_score_Health Care Distributors": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.0,
+    "ROUGE": 0.999999995
+  },
+  {
+    "industries": [
+      "b29-health-care-distributors"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the code of the 'Payload fuel economy' metric in the Health Care Distributors industry and how should this metric be calculated?",
+    "answer": "The code of the 'Payload fuel economy' metric in the Health Care Distributors industry is HC-DI-110a.1. Payload fuel economy shall be calculated as: total gallons of fuel consumed / revenue tons miles (RTM), where revenue ton miles (RTM) = total weight of paid tonnage transported (payload) \u00d7 total distance in miles goods were transported. Payload includes the weight of paid tonnage and excludes the vehicle weight.",
+    "temperature": 0.5,
+    "version": "local",
+    "specificity_score": 10,
+    "faithfulness_score": 10,
+    "relevancy_score_Health Care Distributors": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.700924552859243,
+    "ROUGE": 0.7708333283355036
+  },
+  {
+    "industries": [
+      "b29-health-care-distributors"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What do I need to discuss or disclose for the 'Description of efforts to reduce the environmental impact of logistics' topic in the Health Care Distributors industry?",
+    "answer": "The entity shall describe the nature, scope, and implementation of its programs and initiatives to reduce the environmental impact of its logistics operations. Relevant efforts to describe include, but are not limited to, upgrades to fleet (fuel efficiency), usage of alternative and/or renewable fuels, optimized logistics routes, and idling reduction programs.",
+    "temperature": 0.5,
+    "version": "local",
+    "specificity_score": 8,
+    "faithfulness_score": 6,
+    "relevancy_score_Health Care Distributors": 7,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.740931055824848,
+    "ROUGE": 0.9411764656055364
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "single_hop",
+    "question": "What does the IFRS require companies to disclose regarding water management for the Electronic Manufacturing Services & Original Design Manufacturing industry?",
+    "answer": "The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from all sources. The entity shall disclose the amount of water, in thousands of cubic meters, that was consumed in its operations. The entity shall analyze all of its operations for water risks and identify activities that withdraw and consume water in locations with High (40-80 percent) or Extremely High (>80 percent) Baseline Water Stress as classified by the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct. The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn. The entity shall disclose its water consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water consumed.",
+    "temperature": 0.5,
+    "version": "local",
+    "specificity_score": 9,
+    "faithfulness_score": 8,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.0,
+    "ROUGE": 0.999999995
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "single_hop",
+    "question": "Describe the calculation method for the weight of end-of-life products and e-waste recovered metric for the Electronic Manufacturing Services & Original Design Manufacturing industry.",
+    "answer": "The entity shall disclose the weight, in metric tons, of end-of-life material that was recovered, including through reverse logistics services, recycling services, product take-back programs, and refurbishment services. The percentage shall be calculated as the weight of end-of-life material that was recovered and subsequently recycled divided by the total weight of end-of-life material that was recovered.",
+    "temperature": 0.5,
+    "version": "local",
+    "specificity_score": 9,
+    "faithfulness_score": 8,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.0,
+    "ROUGE": 0.999999995
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the category of the 'Total water withdrawn' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry and how should this metric be disclosed?",
+    "answer": "The 'Total water withdrawn' metric falls under the 'Quantitative' category. The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from all sources. Water sources include surface water (including water from wetlands, rivers, lakes, and oceans), groundwater, rainwater collected directly and stored by the entity, and water and wastewater obtained from municipal water supplies, water utilities, or other entities. The entity may disclose portions of its supply by source if, for example, significant portions of withdrawals are from non-freshwater sources.",
+    "temperature": 0.5,
+    "version": "local",
+    "specificity_score": 8,
+    "faithfulness_score": 8,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.0,
+    "ROUGE": 0.999999995
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the code of the 'Weight of end-of-life products and e-waste recovered' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry and how should this metric be calculated?",
+    "answer": "The code for the 'Weight of end-of-life products and e-waste recovered' metric is TC-ES-410a.1. The entity shall disclose the weight, in metric tons, of end-of-life material that was recovered, including through reverse logistics services, recycling services, product take-back programs, and refurbishment services. The percentage shall be calculated as the weight of end-of-life material that was recovered and subsequently recycled divided by the total weight of end-of-life material that was recovered.",
+    "temperature": 0.5,
+    "version": "local",
+    "specificity_score": 10,
+    "faithfulness_score": 8,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.0,
+    "ROUGE": 0.999999995
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "single_hop",
+    "question": "How should I report water consumption for the Electronic Manufacturing Services & Original Design Manufacturing industry?",
+    "answer": "The entity shall disclose the amount of water, in thousands of cubic meters, that was consumed in its operations. Water consumption is defined as: Water that evaporates during withdrawal, usage, and discharge; Water that is directly or indirectly incorporated into the entity's product or service; Water that does not otherwise return to the same catchment area from which it was withdrawn, such as water returned to another catchment area or the sea.",
+    "temperature": 0.2,
+    "version": "local",
+    "specificity_score": 6,
+    "faithfulness_score": 5,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 6,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.0,
+    "ROUGE": 0.999999995
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the code of the metric for the weight of end-of-life products and e-waste recovered in the Electronic Manufacturing Services & Original Design Manufacturing industry?",
+    "answer": "TC-ES-410a.1",
+    "temperature": 0.2,
+    "version": "local",
+    "specificity_score": 10,
+    "faithfulness_score": 10,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 10,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.2170994537392895e-14,
+    "ROUGE": 0.16666666513888892
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the code of the 'Total water withdrawn' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry and how should this metric be calculated?",
+    "answer": "The code for the 'Total water withdrawn' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry is TC-ES-140a.1. The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from all sources. Water sources include surface water (including water from wetlands, rivers, lakes, and oceans), groundwater, rainwater collected directly and stored by the entity, and water and wastewater obtained from municipal water supplies, water utilities, or other entities.",
+    "temperature": 0.2,
+    "version": "local",
+    "specificity_score": 10,
+    "faithfulness_score": 8,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.3994767037053186,
+    "ROUGE": 0.7142857093172084
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the category of the 'Weight of end-of-life products and e-waste recovered' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry and how should this metric be disclosed?",
+    "answer": "The category of the 'Weight of end-of-life products and e-waste recovered' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry is Quantitative. The entity shall disclose the weight, in metric tons, of end-of-life material that was recovered, including through reverse logistics services, recycling services, product take-back programs, and refurbishment services. End-of-life material that was recovered is defined as products, materials, and parts, including electronic waste material (e-waste), that at the end of their useful life would have otherwise been disposed of as waste or used for energy recovery, but have instead been collected.",
+    "temperature": 0.2,
+    "version": "local",
+    "specificity_score": 9,
+    "faithfulness_score": 7,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.668985667790381,
+    "ROUGE": 0.825174820180938
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "single_hop",
+    "question": "What does the IFRS require companies to disclose regarding water management for the Electronic Manufacturing Services & Original Design Manufacturing industry?",
+    "answer": "The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from all sources. The entity shall disclose the amount of water, in thousands of cubic meters, that was consumed in its operations. The entity shall analyze all of its operations for water risks and identify activities that withdraw and consume water in locations with High (40-80 percent) or Extremely High (>80 percent) Baseline Water Stress as classified by the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct. The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn. The entity shall disclose its water consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water consumed.",
+    "temperature": 0,
+    "version": "local",
+    "specificity_score": 9,
+    "faithfulness_score": 8,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.0,
+    "ROUGE": 0.999999995
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "single_hop",
+    "question": "Describe the calculation method for the weight of end-of-life products and e-waste recovered metric for the Electronic Manufacturing Services & Original Design Manufacturing industry.",
+    "answer": "The entity shall disclose the weight, in metric tons, of end-of-life material that was recovered, including through reverse logistics services, recycling services, product take-back programs, and refurbishment services. The percentage shall be calculated as the weight of end-of-life material that was recovered and subsequently recycled divided by the total weight of end-of-life material that was recovered.",
+    "temperature": 0,
+    "version": "local",
+    "specificity_score": 9,
+    "faithfulness_score": 8,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.0,
+    "ROUGE": 0.999999995
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the code of the 'Water Management' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry and how should this metric be calculated?",
+    "answer": "The code of the 'Water Management' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry is TC-ES-140a.1. The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from all sources. Water sources include surface water (including water from wetlands, rivers, lakes, and oceans), groundwater, rainwater collected directly and stored by the entity, and water and wastewater obtained from municipal water supplies, water utilities, or other entities. The entity shall disclose the amount of water, in thousands of cubic meters, that was consumed in its operations. Water consumption is defined as water that evaporates during withdrawal, usage, and discharge; water that is directly or indirectly incorporated into the entity's product or service; and water that does not otherwise return to the same catchment area from which it was withdrawn, such as water returned to another catchment area or the sea.",
+    "temperature": 0,
+    "version": "local",
+    "specificity_score": 9,
+    "faithfulness_score": 8,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.5706507336983886,
+    "ROUGE": 0.8124999950265842
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the category of the 'Product Lifecycle Management' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry and how should this metric be disclosed?",
+    "answer": "The category of the 'Product Lifecycle Management' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry is Quantitative. The entity shall disclose the weight, in metric tons, of end-of-life material that was recovered, including through reverse logistics services, recycling services, product take-back programs, and refurbishment services. The entity shall disclose the percentage of end-of-life material that was recovered and subsequently recycled. The percentage shall be calculated as the weight of end-of-life material that was recovered and subsequently recycled divided by the total weight of end-of-life material that was recovered.",
+    "temperature": 0,
+    "version": "local",
+    "specificity_score": 8,
+    "faithfulness_score": 6,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.600049211789295,
+    "ROUGE": 0.7289719576277404
+  },
+  {
+    "industries": [
+      "b29-health-care-distributors"
+    ],
+    "qa_type": "single_hop",
+    "question": "Describe the calculation method for the payload fuel economy metric for the Health Care Distributors industry.",
+    "answer": "Payload fuel economy shall be calculated as: total gallons of fuel consumed / revenue tons miles (RTM), where revenue ton miles (RTM) = total weight of paid tonnage transported (payload) \u00d7 total distance in miles goods were transported.",
+    "temperature": 0,
+    "version": "local",
+    "specificity_score": 10,
+    "faithfulness_score": 10,
+    "relevancy_score_Health Care Distributors": 10,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.0,
+    "ROUGE": 0.999999995
+  },
+  {
+    "industries": [
+      "b29-health-care-distributors"
+    ],
+    "qa_type": "single_hop",
+    "question": "What are some examples of efforts to reduce the environmental impact of logistics for the Health Care Distributors industry?",
+    "answer": "Relevant efforts to describe include, but are not limited to, upgrades to fleet (fuel efficiency), usage of alternative and/or renewable fuels, optimized logistics routes, and idling reduction programs.",
+    "temperature": 0,
+    "version": "local",
+    "specificity_score": 7,
+    "faithfulness_score": 6,
+    "relevancy_score_Health Care Distributors": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.0,
+    "ROUGE": 0.999999995
+  },
+  {
+    "industries": [
+      "b29-health-care-distributors"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the category of the 'Payload fuel economy' metric in the Health Care Distributors industry and how should this metric be calculated?",
+    "answer": "The category of the 'Payload fuel economy' metric is Quantitative. Payload fuel economy shall be calculated as: total gallons of fuel consumed / revenue tons miles (RTM), where revenue ton miles (RTM) = total weight of paid tonnage transported (payload) \u00d7 total distance in miles goods were transported. Payload includes the weight of paid tonnage and excludes the vehicle weight.",
+    "temperature": 0,
+    "version": "local",
+    "specificity_score": 10,
+    "faithfulness_score": 10,
+    "relevancy_score_Health Care Distributors": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.6953071243818303,
+    "ROUGE": 0.7912087862383771
+  },
+  {
+    "industries": [
+      "b29-health-care-distributors"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What do I need to discuss or disclose for the 'Description of efforts to reduce the environmental impact of logistics' topic in the Health Care Distributors industry?",
+    "answer": "The entity shall describe the nature, scope, and implementation of its programs and initiatives to reduce the environmental impact of its logistics operations. Relevant efforts to describe include, but are not limited to, upgrades to fleet (fuel efficiency), usage of alternative and/or renewable fuels, optimized logistics routes, and idling reduction programs.",
+    "temperature": 0,
+    "version": "local",
+    "specificity_score": 8,
+    "faithfulness_score": 6,
+    "relevancy_score_Health Care Distributors": 7,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.6408185147858506,
+    "ROUGE": 0.879120874193938
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "What does the IFRS require companies to disclose regarding the incorporation of ESG factors in credit analysis for the Commercial Banks industry?",
+    "answer": "The entity shall describe its approach to the incorporating environmental, social, and governance (ESG) factors into its credit analysis, including policies that determine its approach, how it incorporates ESG factors when estimating credit losses, and the oversight/accountability approach, among other detailed requirements.",
+    "temperature": 1.0,
+    "version": "local",
+    "specificity_score": 8,
+    "faithfulness_score": 8,
+    "relevancy_score_Commercial Banks": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.0,
+    "ROUGE": 0.999999995
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "What is the category of the 'Gross exposure to carbon-related industries' metric for the Commercial Banks industry?",
+    "answer": "Quantitative",
+    "temperature": 1.0,
+    "version": "local",
+    "specificity_score": 10,
+    "faithfulness_score": 10,
+    "relevancy_score_Commercial Banks": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 3.723135471803531e-21,
+    "ROUGE": 0.07407407336076818
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "Analyze the reporting complexity of 'Incorporation of Environmental, Social, and Governance Factors in Credit Analysis' and 'Transition Risk Exposure' by comparing the number of required metrics.",
+    "answer": "For the topic 'Incorporation of Environmental, Social, and Governance Factors in Credit Analysis', there is one metric required: FN-CB-410a.2. Description of approach to incorporation of environmental, social, and governance (ESG) factors in credit analysis. \n\nFor the topic 'Transition Risk Exposure', there are multiple metrics required: \n1. FN-CB-1. (1) Gross exposure to carbon-related industries, by industry, (2) total gross exposure to all industries, and (3) percentage of total gross exposure for each carbon-related industry\n2. FN-CB-2. Percentage of gross exposure included in the financed emissions calculation\n3. FN-CB-3. For each industry by asset class: (1) absolute gross (a) Scope 1 emissions, (b) Scope 2 emissions, (c) Scope 3 emissions and (2) gross exposure (i.e., financed emissions).\n4. FN-CB-4. For each industry by asset class: (1) gross emissions intensity by (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) gross exposure (i.e., financed emissions)\n5. FN-CB-5. Description of the methodology used to calculate financed emissions.",
+    "temperature": 1.0,
+    "version": "local",
+    "specificity_score": 8,
+    "faithfulness_score": 5,
+    "relevancy_score_Commercial Banks": 6,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.8095740391699187,
+    "ROUGE": 0.8553459069593766
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What do I need to discuss or disclose for the 'Incorporation of ESG Factors in Credit Analysis' topic in the Commercial Banks industry?",
+    "answer": "1. The entity shall describe its approach to the incorporating environmental, social, and governance (ESG) factors into its credit analysis. \n\n2. The scope of disclosure shall include commercial and industrial lending as well as project finance.\n\n3. The entity shall describe policies that determine its approach to the incorporation of ESG factors in credit analysis.\n\n4. The entity shall discuss how it incorporates ESG factors when estimating credit losses over the contractual term of the entity's financial assets.\n\n5. The entity shall describe its approach to implementation of the aspects of the entity's ESG incorporation practices, including:\n   - Parties responsible for day-to-day incorporation of ESG factors\n   - Roles and responsibilities of employees involved\n   - Approach to conducting ESG-related research\n   - Approach to incorporating ESG factors into assessing creditworthiness of borrowers\n\n6. The entity shall describe its oversight/accountability approach to the incorporation of ESG factors.\n   - Formal oversight individuals and/or bodies involved\n   - Roles and responsibilities of employees involved\n   - Criteria used in assessing the quality of ESG incorporation\n\n7. The entity shall discuss whether it conducts scenario analysis and/or modeling in which the risk profile of future ESG trends is calculated at the portfolio level of commercial and industrial credit exposure.\n\n8. The entity shall discuss ESG trends that it views as broadly applicable in terms of their impact on sectors and industries, as well as the trends it views as sector- or industry-specific.\n\n9. The entity shall describe significant concentrations of credit exposure to ESG factors, including carbon-related assets, water-stressed regions, and cybersecurity risks.\n\n10. The entity shall describe how ESG factors are incorporated in the assessment of and influence the entity's perspectives on:\n    - Traditional macroeconomic factors\n    - Traditional microeconomic factors\n    - Overall creditworthiness of a borrower\n    - Maturity or tenor of a loan\n    - Expected loss\n    - Value of posted collateral\n\n11. The entity may disclose additional quantitative measures related to its approach to the incorporation of ESG factors in credit analysis.",
+    "temperature": 1.0,
+    "version": "local",
+    "specificity_score": 9,
+    "faithfulness_score": 7,
+    "relevancy_score_Commercial Banks": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.23648556251386127,
+    "ROUGE": 0.39234449359767404
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "single_hop",
+    "question": "How should I report the metric for water consumption in the Electronic Manufacturing Services & Original Design Manufacturing industry?",
+    "answer": "The entity shall disclose the amount of water, in thousands of cubic meters, that was consumed in its operations.",
+    "temperature": 1.0,
+    "version": "local",
+    "specificity_score": 7,
+    "faithfulness_score": 6,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 8,
+    "negative_question": 0,
+    "multihop_check": 0,
+    "BLEU": 1.0,
+    "ROUGE": 0.999999995
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "single_hop",
+    "question": "What does the IFRS require companies to disclose regarding e-waste recovery for the Electronic Manufacturing Services & Original Design Manufacturing industry?",
+    "answer": "The entity shall disclose the weight, in metric tons, of end-of-life material that was recovered, including through reverse logistics services, recycling services, product take-back programs, and refurbishment services.",
+    "temperature": 1.0,
+    "version": "local",
+    "specificity_score": 8,
+    "faithfulness_score": 9,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.0,
+    "ROUGE": 0.999999995
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the code of the 'Total water withdrawn and consumed' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry and how should this metric be disclosed?",
+    "answer": "The code of the 'Total water withdrawn and consumed' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry is TC-ES-140a.1. The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from all sources. The entity shall disclose the amount of water, in thousands of cubic meters, that was consumed in its operations. Water consumption is defined as water that evaporates during withdrawal, usage, and discharge; water that is directly or indirectly incorporated into the entity's product or service; and water that does not otherwise return to the same catchment area from which it was withdrawn, such as water returned to another catchment area or the sea.",
+    "temperature": 1.0,
+    "version": "local",
+    "specificity_score": 9,
+    "faithfulness_score": 8,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.6021593211849352,
+    "ROUGE": 0.7651006661681907
+  },
+  {
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the category of the 'Weight of end-of-life products and e-waste recovered, percentage recycled' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry and how should this metric be calculated?",
+    "answer": "The 'Weight of end-of-life products and e-waste recovered, percentage recycled' metric falls under the 'Quantitative' category. The entity shall disclose the weight, in metric tons, of end-of-life material that was recovered, including through reverse logistics services, recycling services, product take-back programs, and refurbishment services. The percentage of end-of-life material that was recovered and subsequently recycled shall be calculated as the weight of end-of-life material that was recovered and subsequently recycled divided by the total weight of end-of-life material that was recovered.",
+    "temperature": 1.0,
+    "version": "local",
+    "specificity_score": 9,
+    "faithfulness_score": 8,
+    "relevancy_score_Electronic Manufacturing Services & Original Design Manufacturing": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.6522180114483838,
+    "ROUGE": 0.8837209252568958
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "What does the IFRS require companies to disclose regarding the incorporation of ESG factors in credit analysis for the Commercial Banks industry?",
+    "answer": "The entity shall describe its approach to the incorporating environmental, social, and governance (ESG) factors into its credit analysis. The scope of disclosure shall include commercial and industrial lending as well as project finance. The entity shall describe policies that determine its approach to the incorporation of ESG factors in credit analysis. The entity shall discuss how it incorporates ESG factors when estimating credit losses over the contractual term of the entity's financial assets. The entity shall describe its approach to implementation of the aspects of the entity's ESG incorporation practices. The entity shall describe its oversight/accountability approach to the incorporation of ESG factors. The entity shall discuss whether it conducts scenario analysis and/or modeling in which the risk profile of future ESG trends is calculated at the portfolio level of commercial and industrial credit exposure. The entity shall discuss ESG trends that it views as broadly applicable in terms of their impact on sectors and industries, as well as the trends it views as sector- or industry-specific. The entity shall describe significant concentrations of credit exposure to ESG factors, including, but not limited to, carbon-related assets, water-stressed regions, and cybersecurity risks. The entity shall describe how ESG factors are incorporated in the assessment of and influence the entity's perspectives on traditional macroeconomic factors, traditional microeconomic factors, overall creditworthiness of a borrower, maturity or tenor of a loan, expected loss, and value of posted collateral. The entity may disclose additional quantitative measures related to its approach to the incorporation of ESG factors in credit analysis.",
+    "temperature": 0,
+    "version": "local",
+    "specificity_score": 9,
+    "faithfulness_score": 9,
+    "relevancy_score_Commercial Banks": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.15662518738653466,
+    "ROUGE": 0.5188679204699181
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "single_hop",
+    "question": "Describe the calculation method for the gross exposure to carbon-related industries metric for the Commercial Banks industry.",
+    "answer": "The entity shall disclose its gross exposure to carbon-related industries, by industry. For funded amounts, gross exposure is defined as the funded carrying amounts expressed in the presentation currency of the entity's financial statements whether prepared in accordance with IFRS Accounting Standards or other GAAP. Carrying amount means the amount before subtracting the loss allowance, when applicable. For undrawn loan commitments, gross exposure is defined as the full amount of the commitment expressed in the presentation currency of the entity's financial statements. For derivatives, gross exposure is defined as the contractual amounts to be exchanged in a derivative for which gross cash flows are exchanged, or the net amounts in a derivative for which net cash flows are exchanged, as applicable, expressed in the presentation currency of the entity's financial statements. Carbon-related industries are industries responsible for relatively high direct or indirect GHG emissions. Carbon related industries include but are not limited to: Oil, Gas & Consumable Fuels, Chemicals, Construction Materials, Metals & Mining, and Paper & Forest Products, Air Freight & Logistics, Airlines, Marine, and Road & Rail, Automobiles, Homebuilding, Beverages and Food Products, Electric Utilities, Gas Utilities and Multi Utilities, Real Estate Management & Development. The entity shall use the Global Industry Classification Standard (GICS) 6-digit industry-level code for classifying counterparties. The entity shall use the latest version of the classification system available at the date of reporting. The entity shall disclose the classification standard used if different from GICS.",
+    "temperature": 0,
+    "version": "local",
+    "specificity_score": 9,
+    "faithfulness_score": 8,
+    "relevancy_score_Commercial Banks": 9,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 0.7497428598324223,
+    "ROUGE": 0.912751672866763
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What do I need to discuss or disclose for the 'Incorporation of Environmental, Social, and Governance Factors in Credit Analysis' topic in the Commercial Banks industry?",
+    "answer": "1. The entity shall describe its approach to the incorporating environmental, social, and governance (ESG) factors into its credit analysis.\n\n   1.1 The definition of incorporation of ESG factors is aligned with that of the Global Sustainable Investment Alliance (GSIA) and includes the use of ESG information in the investment decision-making processes.\n\n   1.2 Examples of ESG factors/issues are provided in the PRI Reporting Framework \u2013 Main definitions 2018, section \"ESG issues.\"\n\n   1.3 Credit analysis is defined as method to calculate the creditworthiness of a business or organization, i.e., their ability to honor debt obligations, which seeks to identify the appropriate level of default risk associated with financing such business, organization, or project.\n\n2. The scope of disclosure shall include commercial and industrial lending as well as project finance.\n\n3. The entity shall describe policies that determine its approach to the incorporation of ESG factors in credit analysis.\n\n4. The entity shall discuss how it incorporates ESG factors when estimating credit losses over the contractual term of the entity's financial assets.\n\n5. The entity shall describe its approach to implementation of the aspects of the entity's ESG incorporation practices.\n\n   5.1 The discussion shall include, but is not limited to:\n   \n       5.1.1 Parties responsible for day-to-day incorporation of ESG factors\n       \n       5.1.2 Roles and responsibilities of employees involved\n\n5.1.3 Approach to conducting ESG-related research\n\n5.1.4 Approach to incorporating ESG factors into assessing creditworthiness of borrowers\n\n6 The entity shall describe its oversight/accountability approach to the incorporation of ESG factors.\n\n6.1 The discussion shall include, but is not limited to:\n\n6.1.1 Formal oversight individuals and/or bodies involved\n\n6.1.2 Roles and responsibilities of employees involved\n\n6.1.3 Criteria used in assessing the quality of ESG incorporation\n\n7 The entity shall discuss whether it conducts scenario analysis and/or modeling in which the risk profile of future ESG trends is calculated at the portfolio level of commercial and industrial credit exposure.\n\n7.1 ESG trends include, but are not limited to, climate change, natural resource constraints, human capital risks and opportunities, and cybersecurity risks.\n\n8 The entity shall discuss ESG trends that it views as broadly applicable in terms of their impact on sectors and industries, as well as the trends it views as sector- or industry-specific.\n\n8.1 The entity may further provide the discussion in the context of geographic exposure of its commercial and industrial credit portfolio.\n\n9 The entity shall describe significant concentrations of credit exposure to ESG factors, including, but not limited to, carbon-related assets, water-stressed regions, and cybersecurity risks.\n\n10 The entity shall describe how ESG factors are incorporated in the assessment of and influence the entity's perspectives on:\n\n10.1 Traditional macroeconomic factors such as the economic conditions, central bank monetary policy, industry trends, and geopolitical risks that affect creditworthiness of borrowers\n\n10.2 Traditional microeconomic factors such as supply and demand for products or services that affect financial conditions and operational results of borrowers as well as their creditworthiness\n\n10.3 Overall creditworthiness of a borrower\n\n10.4 Maturity or tenor of a loan\n\n10.5 Expected loss, including probability of default, exposure at default, and loss given default\n\n10.6 Value of posted collateral\n\n11 The entity may disclose additional quantitative measures related to its approach to the incorporation of ESG factors in credit analysis, such as:\n\n11.1 Number of commercial and industrial loans and project finance screened according to the Equator Principles (EP III) (or equivalent) by EP Category\n\n11.2 Number of loans for which a review of environmental or social risks was performed, e.g., by the entity's Environmental and Social Risk Management (ESRM) group",
+    "temperature": 0,
+    "version": "local",
+    "specificity_score": 8,
+    "faithfulness_score": 7,
+    "relevancy_score_Commercial Banks": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.0,
+    "ROUGE": 0.999999995
+  },
+  {
+    "industries": [
+      "b16-commercial-banks"
+    ],
+    "qa_type": "multi_hop",
+    "question": "What is the code of the 'Transition Risk Exposure' metric in the Commercial Banks industry and how should this metric be calculated?",
+    "answer": "FN-CB-1. (1) Gross exposure to carbon-related industries, by industry, (2) total gross exposure to all industries, and (3) percentage of total gross exposure for each carbon-related industry\n\n1. The entity shall disclose its gross exposure to carbon-related industries, by industry.\n\n   1.1 For funded amounts, gross exposure is defined as the funded carrying amounts expressed in the presentation currency of the entity's financial statements whether prepared in accordance with IFRS Accounting Standards or other GAAP.\n\n      1.1.1 Carrying amount means the amount before subtracting the loss allowance, when applicable.\n\n   1.2 For undrawn loan commitments, gross exposure is defined as the full amount of the commitment expressed in the presentation currency of the entity's financial statements.\n\n   1.3 For derivatives, gross exposure is defined as the contractual amounts to be exchanged in a derivative for which gross cash flows are exchanged, or the net amounts in a derivative for which net cash flows are exchanged, as applicable, expressed in the presentation currency of the entity's financial statements.\n\n   1.4 Carbon-related industries are industries responsible for relatively high direct or indirect GHG emissions.\n\n      1.4.1 Carbon related industries include but are not limited to:\n      \n      - Oil, Gas & Consumable Fuels\n      - Chemicals, Construction Materials, Metals & Mining, and Paper & Forest Products\n\n\u2022 Air Freight & Logistics, Airlines, Marine, and Road & Rail\n\n\u2022 Automobiles\n\n\u2022 Homebuilding\n\n\u2022 Beverages and Food Products\n\n\u2022 Electric Utilities, Gas Utilities and Multi Utilities\n\n\u2022 Real Estate Management & Development\n\n1.4.2 The entity shall use the Global Industry Classification Standard (GICS) 6-digit industry-level code for classifying counterparties.\n\n1.4.2.1 The entity shall use the latest version of the classification system available at the date of reporting.\n\n1.4.3 The entity shall disclose the classification standard used if different from GICS.\n\n2 The entity shall disclose its gross exposure to all industries.\n\n3 The entity shall disclose the percentage of total gross exposure for each carbon-related industry.\n\n3.1 The entity shall calculate the percentage by dividing its gross exposure to each carbon-related industry by the total gross exposure to all industries.\n\n4 The scope of disclosure includes but is not limited to loans, project finance, bonds, equity investments and derivatives.\n\n4.1 Undrawn loan commitments to carbon-related industries shall be disclosed separately.\n\n4.1.1 For undrawn loan commitments, the entity shall separately calculate the percentage by dividing the full amount of undrawn loan commitments to carbon related industries by the full amount of undrawn loan commitments to all industries.\n\n4.2 The entity may additionally calculate and disclose gross exposure to other asset classes.\n\n4.2.1 In such cases, the entity shall include an explanation of why the inclusion of those additional asset classes provides more relevant information to primary users of general purpose financial reporting.",
+    "temperature": 0,
+    "version": "local",
+    "specificity_score": 8,
+    "faithfulness_score": 6,
+    "relevancy_score_Commercial Banks": 8,
+    "negative_question": 0,
+    "multihop_check": 1,
+    "BLEU": 1.0,
+    "ROUGE": 0.999999995
+  }
+]

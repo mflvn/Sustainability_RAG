@@ -1,0 +1,186 @@
+[
+  {
+    "question": "What formula is used to calculate the 'percentage renewable' metric in the Internet Media & Services and Software & IT Services industries?",
+    "optionA": "The percentage shall be calculated as renewable energy consumption divided by total energy consumption.",
+    "optionB": "The percentage shall be calculated as grid electricity consumption divided by total energy consumption.",
+    "optionC": "The percentage shall be calculated as water consumption divided by total water withdrawn.",
+    "optionD": "The percentage shall be calculated as total energy consumed divided by renewable energy consumption.",
+    "optionE": "The percentage shall be calculated as customer downtime divided by number of service disruptions.",
+    "answer": "A",
+    "reference_text": [
+      "3.2 The percentage shall be calculated as renewable energy consumption divided by total energy consumption.",
+      "3.2 The percentage shall be calculated as renewable energy consumption divided by total energy consumption."
+    ],
+    "pages": [
+      "561_b56",
+      "579_b58"
+    ],
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "What activity metrics are listed for both the Internet Media & Services and Software & IT Services industries?",
+    "optionA": "(1) Number of licenses or subscriptions, (2) percentage cloud-based",
+    "optionB": "(1) Data processing capacity, (2) percentage outsourced",
+    "optionC": "(1) Amount of data storage, (2) percentage outsourced",
+    "optionD": "Entity-defined measure of user activity",
+    "optionE": "All of the above",
+    "answer": "E",
+    "reference_text": [
+      "(1) Data processing capacity, (2) percentage outsourced",
+      "(1) Amount of data storage, (2) percentage outsourced"
+    ],
+    "pages": [
+      "559_b56",
+      "576_b58"
+    ],
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Internet Media & Services and Software & IT Services industries?",
+    "optionA": "Internet Media & Services",
+    "optionB": "Software & IT Services",
+    "optionC": "Both industries have the same number of quantitative metrics in Table 1",
+    "optionD": "Neither industry has any quantitative metrics in Table 1",
+    "optionE": "The number of quantitative metrics cannot be determined from the given information",
+    "answer": "C",
+    "reference_text": [
+      "TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE",
+      "TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE"
+    ],
+    "pages": [
+      "559_b56",
+      "576_b58"
+    ],
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Are there any common sustainability topics between the Internet Media & Services and Software & IT Services industries?",
+    "optionA": "No, there are no common sustainability topics covered.",
+    "optionB": "Yes, the 'Environmental Footprint of Hardware Infrastructure' topic is common to both industries.",
+    "optionC": "Yes, the 'Managing Systemic Risks from Technology Disruptions' topic is common to both industries.",
+    "optionD": "Yes, the 'Environmental Footprint of Data Centers' topic is common to both industries.",
+    "optionE": "Yes, the 'Water Management' topic is common to both industries.",
+    "answer": "B",
+    "reference_text": [
+      "Environmental Footprint of Hardware Infrastructure",
+      "Environmental Footprint of Hardware Infrastructure"
+    ],
+    "pages": [
+      "559_b56",
+      "576_b58"
+    ],
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Are there any common sustainability topics between the Internet Media & Services and Software & IT Services industries, and if so, how do their reporting requirements differ?",
+    "optionA": "There is no common sustainability topic between the two industries. Their reporting requirements are completely different.",
+    "optionB": "The common sustainability topic is Environmental Footprint of Hardware Infrastructure. For this topic, the reporting requirements in terms of quantitative metrics are exactly the same across both industries.",
+    "optionC": "The common sustainability topic is Environmental Footprint of Hardware Infrastructure. While the quantitative metrics are the same, the reporting requirements for the discussion and analysis metric differ slightly between the two industries.",
+    "optionD": "The common sustainability topic is Managing Systemic Risks from Technology Disruptions. The quantitative and discussion and analysis metrics for this topic are identical across both industries.",
+    "optionE": "There are no common sustainability topics explicitly mentioned for these two industries.",
+    "answer": "C",
+    "reference_text": [
+      "Industry: Internet Media & Services\n\n## Table 1. Sustainability Disclosure Topics & Metrics\n\n| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |\n|-------|--------|----------|------------------|------|\n| Environmental Footprint of Hardware Infrastructure | (1) Total energy consumed, (2) percent- age grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | TC-IM-130a.1 |\n| Environmental Footprint of Hardware Infrastructure | (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percent- age (%) | TC-IM-130a.2 |\n| Environmental Footprint of Hardware Infrastructure | Discussion of the integration of environ- mental considerations into strategic planning for data center needs | Discussion and Analysis | n/a | TC-IM-130a.3 |",
+      "Industry: Software & Information Technology (IT) Services\n\n## Table 1. Sustainability Disclosure Topics & Metrics\n\n| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |\n|-------|--------|----------|-----------------|------|\n| Environmental Footprint of Hardware Infrastructure | (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | | TC-SI-130a.1 |\n| Environmental Footprint of Hardware Infrastructure | (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | | TC-SI-130a.2 |\n| Environmental Footprint of Hardware Infrastructure | Discussion of the integration of environmental considerations into strategic planning for data center needs | Discussion and Analysis | | TC-SI-130a.3 |"
+    ],
+    "pages": [
+      "559-563_b56",
+      "578-581_b58"
+    ],
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "When preparing sustainability reports, how do the metrics for measuring water consumption differ between the Internet Media & Services and Software & IT Services industries?",
+    "optionA": "The metrics are exactly the same for both industries in terms of quantifying total water withdrawn and consumed as well as percentage in water-stressed regions.",
+    "optionB": "For the Internet Media & Services industry, only total water withdrawn needs to be reported, while for Software & IT Services, both total withdrawn and consumed need to be quantified.",
+    "optionC": "The Internet Media & Services industry has to report water metrics in specific units like thousand cubic meters, while the Software & IT Services industry does not require specifying units.",
+    "optionD": "The Software & IT Services industry does not require reporting any water consumption metrics, unlike the Internet Media & Services industry which has detailed requirements.",
+    "optionE": "There is no difference in the water consumption metrics reporting requirements between the two industries.",
+    "answer": "A",
+    "reference_text": [
+      "TC-IM-130a.2. (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress\n\n1     The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from all sources.\n...\n3     The entity shall disclose the amount of water, in thousands of cubic meters, that was consumed in its operations.\n...\n5     The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn.\n\n6     The entity shall disclose its water consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water consumed.",
+      "TC-SI-130a.2. (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress\n\n1     The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from all sources.\n...\n3     The entity shall disclose the amount of water, in thousands of cubic meters, that was consumed in its operations.\n...\n5     The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn.\n\n6     The entity shall disclose its water consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water consumed."
+    ],
+    "pages": [
+      "562_b56",
+      "580_b58"
+    ],
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "What units of measurement are used across the Internet Media & Services and Software & IT Services industries for measuring renewable energy consumption?",
+    "optionA": "Percentage (%)",
+    "optionB": "Kilowatt hours (kWh)",
+    "optionC": "Petabytes",
+    "optionD": "The units are not explicitly specified for either industry.",
+    "optionE": "Gigajoules (GJ) for the Internet Media & Services industry, while units are not specified for the Software & IT Services industry.",
+    "answer": "D",
+    "reference_text": [
+      "TC-IM-130a.1. ...\n3    The entity shall disclose (3) the percentage of energy it consumed that is renewable energy.",
+      "TC-SI-130a.1. ...\n3 The entity shall disclose (3) the percentage of energy it consumed that is renewable energy."
+    ],
+    "pages": [
+      "561_b56",
+      "579_b58"
+    ],
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Give me the codes for all the 'Discussion and Analysis' metrics in Table 1 for the Internet Media & Services and Software & IT Services industries.",
+    "optionA": "TC-IM-130a.3, TC-SI-130a.3",
+    "optionB": "TC-IM-130a.2, TC-SI-550a.2",
+    "optionC": "TC-IM-000.A, TC-SI-000.A",
+    "optionD": "TC-IM-130a.1, TC-SI-130a.1",
+    "optionE": "TC-IM-550a.2, TC-SI-550a.2",
+    "answer": "A",
+    "reference_text": [
+      "| Environmental Footprint of Hardware Infrastructure | Discussion of the integration of environ- mental considerations into strategic planning for data center needs | Discussion and Analysis | n/a | TC-IM-130a.3 |",
+      "| Environmental Footprint of Hardware Infrastructure | Discussion of the integration of environmental considerations into strategic planning for data center needs | Discussion and Analysis | | TC-SI-130a.3 |"
+    ],
+    "pages": [
+      "559_b56",
+      "578_b58"
+    ],
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "qa_type": "multi_hop"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "According to IFRS standards, which of the following is a required disclosure for Appliance Manufacturing companies but not for Oil & Gas Refining & Marketing companies?",
+    "optionA": "Gross global Scope 1 emissions",
+    "optionB": "Percentage of products certified to energy efficiency standards",
+    "optionC": "Total fresh water withdrawn",
+    "optionD": "Long-term strategy to manage emissions",
+    "optionE": "Refining operating capacity",
+    "answer": "B: Percentage of products certified to energy efficiency standards",
+    "explanation": "Appliance Manufacturing companies are required to disclose the percentage of eligible products certified to energy efficiency standards (CG-AM-410a.1), while this is not a requirement for Oil & Gas Refining & Marketing companies. Both industries have requirements related to emissions, water management, and operational capacity, but product energy efficiency certification is specific to Appliance Manufacturing.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Refining & Marketing"
+    ],
+    "pages": [
+      "12",
+      "114-115"
+    ],
+    "pairing_explanation": "Resource-intensive manufacturing in appliance production can be compared with the heavy industrial processes and significant emissions found in oil refining.",
+    "industries": [
+      "b2-appliance-manufacturing",
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "Which of the following metrics is required for both Appliance Manufacturing and Oil & Gas Refining & Marketing companies under IFRS sustainability reporting standards?",
+    "optionA": "Percentage of products certified to AHAM sustainability standards",
+    "optionB": "Total addressable market for advanced biofuels",
+    "optionC": "Description of efforts to manage products' end-of-life impacts",
+    "optionD": "Gross global Scope 1 emissions",
+    "optionE": "Percentage of water recycled",
+    "answer": "D: Gross global Scope 1 emissions",
+    "explanation": "While Gross global Scope 1 emissions is explicitly required for Oil & Gas Refining & Marketing companies (EM-RM-110a.1), it is also implicitly required for Appliance Manufacturing companies under the broader IFRS S2 Climate-related Disclosures. The other options are specific to one industry or not explicitly required for both.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Refining & Marketing"
+    ],
+    "pages": [
+      "12-14",
+      "116-120"
+    ],
+    "pairing_explanation": "Resource-intensive manufacturing in appliance production can be compared with the heavy industrial processes and significant emissions found in oil refining.",
+    "industries": [
+      "b2-appliance-manufacturing",
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of products certified to energy efficiency standards for Appliance Manufacturing, what is the correct denominator to use?",
+    "optionA": "Total revenue from all products",
+    "optionB": "Total number of products manufactured",
+    "optionC": "Total revenue from products eligible for certification",
+    "optionD": "Total number of product categories",
+    "optionE": "Total production capacity",
+    "answer": "C: Total revenue from products eligible for certification",
+    "explanation": "According to CG-AM-410a.1, the entity shall calculate the percentage as the revenue from products meeting the requirements for the applicable certification divided by total revenue from products eligible for certification by each certification. This ensures that only products that could potentially be certified are included in the calculation.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing"
+    ],
+    "pages": [
+      "12-13"
+    ],
+    "pairing_explanation": "Resource-intensive manufacturing in appliance production can be compared with the heavy industrial processes and significant emissions found in oil refining.",
+    "industries": [
+      "b2-appliance-manufacturing",
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "For Oil & Gas Refining & Marketing companies, when reporting on water management, which of the following is NOT a required component of the disclosure EM-RM-140a.1?",
+    "optionA": "Total fresh water withdrawn",
+    "optionB": "Percentage of water recycled",
+    "optionC": "Percentage of water withdrawn in regions with High or Extremely High Baseline Water Stress",
+    "optionD": "Percentage of water consumed in regions with High or Extremely High Baseline Water Stress",
+    "optionE": "Total wastewater generated",
+    "answer": "E: Total wastewater generated",
+    "explanation": "According to EM-RM-140a.1, Oil & Gas Refining & Marketing companies are required to disclose (1) total fresh water withdrawn, (2) percentage recycled, and (3) percentage in regions with High or Extremely High Baseline Water Stress. The disclosure also requires reporting on water consumed in high-stress regions. However, total wastewater generated is not explicitly required in this metric.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Refining & Marketing"
+    ],
+    "pages": [
+      "121-122"
+    ],
+    "pairing_explanation": "Resource-intensive manufacturing in appliance production can be compared with the heavy industrial processes and significant emissions found in oil refining.",
+    "industries": [
+      "b2-appliance-manufacturing",
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the IFRS sustainability reporting requirements for Appliance Manufacturing and Oil & Gas Refining & Marketing differ in their approach to product lifecycle impacts?",
+    "optionA": "Only Appliance Manufacturing considers end-of-life impacts",
+    "optionB": "Only Oil & Gas Refining & Marketing considers product use emissions",
+    "optionC": "Both industries have identical lifecycle impact reporting requirements",
+    "optionD": "Appliance Manufacturing focuses on energy efficiency, while Oil & Gas Refining & Marketing focuses on advanced biofuels",
+    "optionE": "Neither industry is required to report on product lifecycle impacts",
+    "answer": "D: Appliance Manufacturing focuses on energy efficiency, while Oil & Gas Refining & Marketing focuses on advanced biofuels",
+    "explanation": "The Appliance Manufacturing industry is required to report on product energy efficiency certifications and end-of-life management (CG-AM-410a.1, CG-AM-410a.2, CG-AM-410a.3), focusing on the use phase and disposal of products. In contrast, the Oil & Gas Refining & Marketing industry is required to report on advanced biofuels and associated infrastructure (EM-RM-410a.2), which addresses the environmental impact of their products during use. This reflects the different nature of products and their lifecycle impacts in these industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Refining & Marketing"
+    ],
+    "pages": [
+      "12-14",
+      "122-123"
+    ],
+    "pairing_explanation": "Resource-intensive manufacturing in appliance production can be compared with the heavy industrial processes and significant emissions found in oil refining.",
+    "industries": [
+      "b2-appliance-manufacturing",
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "Which sustainability topic is explicitly addressed in the IFRS reporting requirements for both Appliance Manufacturing and Oil & Gas Refining & Marketing industries?",
+    "optionA": "Product energy efficiency",
+    "optionB": "Water management",
+    "optionC": "Greenhouse gas emissions",
+    "optionD": "Waste management",
+    "optionE": "Occupational health and safety",
+    "answer": "C: Greenhouse gas emissions",
+    "explanation": "Greenhouse gas emissions is a topic explicitly addressed in the IFRS reporting requirements for both industries. For Appliance Manufacturing, it's covered under the broader climate-related disclosures, while for Oil & Gas Refining & Marketing, it's specifically addressed in EM-RM-110a.1 and EM-RM-110a.2. Water management is explicitly required for Oil & Gas Refining & Marketing but not for Appliance Manufacturing. Product energy efficiency is specific to Appliance Manufacturing. Waste management and occupational health and safety are not explicitly mentioned as top-level disclosure topics for either industry in the given extracts.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Refining & Marketing"
+    ],
+    "pages": [
+      "12",
+      "116-120"
+    ],
+    "pairing_explanation": "Resource-intensive manufacturing in appliance production can be compared with the heavy industrial processes and significant emissions found in oil refining.",
+    "industries": [
+      "b2-appliance-manufacturing",
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  }
+]

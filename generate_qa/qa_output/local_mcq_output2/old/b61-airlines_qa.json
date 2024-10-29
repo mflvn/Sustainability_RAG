@@ -1,0 +1,167 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2 Climate-related Disclosures for the Airlines industry, which of the following is NOT a required activity metric to be reported?",
+    "optionA": "Available seat kilometers (ASK)",
+    "optionB": "Passenger load factor",
+    "optionC": "Revenue passenger kilometers (RPK)",
+    "optionD": "Number of aircraft in fleet",
+    "optionE": "Average age of fleet",
+    "answer": "D. Number of aircraft in fleet",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Airlines",
+    "page": "598-599",
+    "industries": [
+      "b61-airlines"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing gross global Scope 1 emissions for the Airlines industry, which of the following greenhouse gases is NOT covered under the Kyoto Protocol and therefore not required to be included?",
+    "optionA": "Carbon dioxide (CO\u2082)",
+    "optionB": "Methane (CH\u2084)",
+    "optionC": "Nitrous oxide (N\u2082O)",
+    "optionD": "Sulfur hexafluoride (SF\u2086)",
+    "optionE": "Ozone (O\u2083)",
+    "answer": "E. Ozone (O\u2083)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Airlines",
+    "page": "600-601",
+    "industries": [
+      "b61-airlines"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When discussing the strategy to manage Scope 1 emissions in the Airlines industry, which of the following is NOT mentioned as a relevant activity or investment for achieving reduction targets?",
+    "optionA": "Use of ground power and pre-conditioned air",
+    "optionB": "Adjusting flight speed to optimize fuel efficiency",
+    "optionC": "Route design (e.g., NextGen)",
+    "optionD": "Use of winglets",
+    "optionE": "Increasing the number of first-class seats",
+    "answer": "E. Increasing the number of first-class seats",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Airlines",
+    "page": "602",
+    "industries": [
+      "b61-airlines"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2, what is the correct unit of measure for disclosing total fuel consumed by airlines?",
+    "optionA": "Liters",
+    "optionB": "Gallons",
+    "optionC": "Metric tons",
+    "optionD": "Gigajoules (GJ)",
+    "optionE": "Kilowatt-hours (kWh)",
+    "answer": "D. Gigajoules (GJ)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Airlines",
+    "page": "602-603",
+    "industries": [
+      "b61-airlines"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of sustainable fuel consumed by an airline, which of the following is NOT a criterion for defining sustainable fuel according to ICAO?",
+    "optionA": "Achieves net greenhouse gas emissions reduction on a life cycle basis",
+    "optionB": "Avoids competition with food and water through utilization of marginal or unviable land",
+    "optionC": "Contributes to local social and economic development",
+    "optionD": "Requires less than 50% of the storage capacity compared to conventional jet fuel",
+    "optionE": "Meets all criteria described by ICAO for alternative fuels",
+    "answer": "D. Requires less than 50% of the storage capacity compared to conventional jet fuel",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Airlines",
+    "page": "603",
+    "industries": [
+      "b61-airlines"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "According to IFRS S2, when calculating energy consumption from fuels for the Airlines industry, which type of heating values should be used?",
+    "optionA": "Lower Heating Values (LHV)",
+    "optionB": "Higher Heating Values (HHV)",
+    "optionC": "Average Heating Values (AHV)",
+    "optionD": "Standardized Heating Values (SHV)",
+    "optionE": "Net Calorific Values (NCV)",
+    "answer": "B. Higher Heating Values (HHV)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Airlines",
+    "page": "603",
+    "industries": [
+      "b61-airlines"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the passenger load factor for an airline company, which of the following formulas should be used according to IFRS S2?",
+    "optionA": "Available Seat Kilometers (ASK) divided by Revenue Passenger Kilometers (RPK)",
+    "optionB": "Revenue Passenger Kilometers (RPK) divided by Available Seat Kilometers (ASK)",
+    "optionC": "Number of passengers divided by number of flights",
+    "optionD": "Revenue Ton Kilometers (RTK) divided by Available Seat Kilometers (ASK)",
+    "optionE": "Number of occupied seats divided by total number of seats",
+    "answer": "B. Revenue Passenger Kilometers (RPK) divided by Available Seat Kilometers (ASK)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Airlines",
+    "page": "598",
+    "industries": [
+      "b61-airlines"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of alternative fuel consumed by an airline, which of the following is the correct formula according to IFRS S2?",
+    "optionA": "Alternative fuel consumed (in GJ) / Total fuel consumed (in GJ) * 100",
+    "optionB": "Alternative fuel consumed (in liters) / Total fuel consumed (in liters) * 100",
+    "optionC": "Alternative fuel cost / Total fuel cost * 100",
+    "optionD": "Alternative fuel weight (in kg) / Total fuel weight (in kg) * 100",
+    "optionE": "Number of flights using alternative fuel / Total number of flights * 100",
+    "answer": "A. Alternative fuel consumed (in GJ) / Total fuel consumed (in GJ) * 100",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Airlines",
+    "page": "602-603",
+    "industries": [
+      "b61-airlines"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What unique challenge does the Airlines industry face when reporting Scope 1 emissions according to IFRS S2?",
+    "optionA": "Calculating emissions from office buildings",
+    "optionB": "Reporting emissions from ground vehicles",
+    "optionC": "Accounting for emissions from aircraft fuel use",
+    "optionD": "Measuring emissions from cargo operations",
+    "optionE": "Estimating emissions from employee commutes",
+    "answer": "C. Accounting for emissions from aircraft fuel use",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Airlines",
+    "page": "600",
+    "industries": [
+      "b61-airlines"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What unique challenge does the Airlines industry face when reporting on sustainable fuel consumption?",
+    "optionA": "Defining what constitutes sustainable fuel",
+    "optionB": "Measuring the volume of sustainable fuel used",
+    "optionC": "Sourcing sustainable fuel suppliers",
+    "optionD": "Calculating the cost of sustainable fuel",
+    "optionE": "Meeting ICAO's criteria for sustainable fuel while also achieving net GHG emissions reduction",
+    "answer": "E. Meeting ICAO's criteria for sustainable fuel while also achieving net GHG emissions reduction",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Airlines",
+    "page": "603",
+    "industries": [
+      "b61-airlines"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "According to IFRS S2, what unique challenge does the Airlines industry face when reporting on fuel consumption and efficiency improvements?",
+    "optionA": "Lack of standardized fuel measurement tools",
+    "optionB": "Difficulty in tracking fuel consumption across different aircraft models",
+    "optionC": "Reporting on fuel efficiency improvements while expanding routes and services",
+    "optionD": "Accounting for fuel losses during storage and transfer",
+    "optionE": "Measuring the impact of weather conditions on fuel consumption",
+    "answer": "C. Reporting on fuel efficiency improvements while expanding routes and services",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Airlines",
+    "page": "602-603",
+    "industries": [
+      "b61-airlines"
+    ]
+  }
+]

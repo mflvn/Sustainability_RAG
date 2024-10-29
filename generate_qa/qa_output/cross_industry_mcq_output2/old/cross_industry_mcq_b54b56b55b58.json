@@ -1,0 +1,163 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When reporting on water management for the Electronic Manufacturing Services & Original Design Manufacturing and Software & IT Services industries, what is a key difference in the required disclosures?",
+    "optionA": "Only EMS & ODM companies need to report water consumption",
+    "optionB": "Software & IT Services must report water quality, while EMS & ODM do not",
+    "optionC": "EMS & ODM must disclose water recycling rates, while Software & IT Services do not",
+    "optionD": "Software & IT Services must discuss water in data center planning, while EMS & ODM do not",
+    "optionE": "Both industries have identical water reporting requirements",
+    "answer": "D: Software & IT Services must discuss water in data center planning, while EMS & ODM do not",
+    "explanation": "While both industries must report on total water withdrawn and consumed, the Software & IT Services industry has an additional requirement (TC-SI-130a.3) to discuss the integration of environmental considerations, including water use, into strategic planning for data center needs. This requirement is not present for the EMS & ODM industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electronic Manufacturing Services & Original Design Manufacturing",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services"
+    ],
+    "pages": [
+      "548",
+      "579",
+      "581"
+    ],
+    "pairing_explanation": "The technology sector spans from manufacturing to services, each with unique sustainability challenges. Comparative reporting can help elucidate environmental impacts, data privacy, and ethical issues across the lifecycle of tech products and services.",
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design",
+      "b56-internet-media-and-services",
+      "b55-hardware",
+      "b58-software-and-it-services"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "In preparing sustainability reports, how do the product lifecycle management disclosure requirements differ between the Hardware and Internet Media & Services industries?",
+    "optionA": "Only Hardware companies must report on EPEAT registration",
+    "optionB": "Internet Media & Services must report on e-waste, while Hardware does not",
+    "optionC": "Hardware must disclose ENERGY STAR certification, while Internet Media & Services does not",
+    "optionD": "Internet Media & Services must report on product energy efficiency, while Hardware does not",
+    "optionE": "Both industries have identical product lifecycle management requirements",
+    "answer": "A: Only Hardware companies must report on EPEAT registration",
+    "explanation": "The Hardware industry has specific requirements to report on the percentage of products meeting EPEAT registration or equivalent (TC-HW-410a.2), ENERGY STAR criteria (TC-HW-410a.3), and the weight of end-of-life products recovered and recycled (TC-HW-410a.4). The Internet Media & Services industry does not have these specific product lifecycle management metrics in its disclosure requirements.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hardware",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services"
+    ],
+    "pages": [
+      "555",
+      "556",
+      "559",
+      "560"
+    ],
+    "pairing_explanation": "The technology sector spans from manufacturing to services, each with unique sustainability challenges. Comparative reporting can help elucidate environmental impacts, data privacy, and ethical issues across the lifecycle of tech products and services.",
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design",
+      "b56-internet-media-and-services",
+      "b55-hardware",
+      "b58-software-and-it-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of renewable energy consumed for the Hardware and Software & IT Services industries, which of the following is NOT considered within the scope of renewable energy?",
+    "optionA": "On-site generated solar power with retained RECs",
+    "optionB": "Purchased wind power through a PPA with explicit RECs",
+    "optionC": "Biomass energy from Forest Stewardship Council certified sources",
+    "optionD": "Hydroelectric power purchased through a Green-e Energy Certified program",
+    "optionE": "The renewable portion of the standard electricity grid mix",
+    "answer": "E: The renewable portion of the standard electricity grid mix",
+    "explanation": "Both industries use the same criteria for calculating renewable energy consumption. The scope includes renewable energy directly produced or purchased with explicit renewable energy certificates (RECs) or through certified programs. However, the renewable portion of the standard electricity grid mix that is outside the control or influence of the entity is specifically excluded from the scope of renewable energy calculations.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hardware",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services"
+    ],
+    "pages": [
+      "554",
+      "579"
+    ],
+    "pairing_explanation": "The technology sector spans from manufacturing to services, each with unique sustainability challenges. Comparative reporting can help elucidate environmental impacts, data privacy, and ethical issues across the lifecycle of tech products and services.",
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design",
+      "b56-internet-media-and-services",
+      "b55-hardware",
+      "b58-software-and-it-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When reporting on the environmental footprint of hardware infrastructure for the Internet Media & Services and Software & IT Services industries, which additional metric is recommended but not required?",
+    "optionA": "Carbon emissions per data center",
+    "optionB": "Water usage effectiveness (WUE)",
+    "optionC": "Power usage effectiveness (PUE)",
+    "optionD": "Renewable energy certificate (REC) retirement rate",
+    "optionE": "E-waste recycling percentage",
+    "answer": "C: Power usage effectiveness (PUE)",
+    "explanation": "Both industries have similar requirements for reporting on energy consumption and water use. However, they both also include a recommendation (not a requirement) to disclose the trailing twelve-month (TTM) weighted average power usage effectiveness (PUE) for data centers. This metric is specifically mentioned as an additional disclosure that entities may choose to include.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services"
+    ],
+    "pages": [
+      "561",
+      "580"
+    ],
+    "pairing_explanation": "The technology sector spans from manufacturing to services, each with unique sustainability challenges. Comparative reporting can help elucidate environmental impacts, data privacy, and ethical issues across the lifecycle of tech products and services.",
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design",
+      "b56-internet-media-and-services",
+      "b55-hardware",
+      "b58-software-and-it-services"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How does the approach to managing hazardous materials differ in the sustainability reporting requirements for the Electronic Manufacturing Services & Original Design Manufacturing industry compared to the Internet Media & Services industry?",
+    "optionA": "Only EMS & ODM must report on hazardous waste management",
+    "optionB": "Internet Media & Services has stricter hazardous material guidelines",
+    "optionC": "EMS & ODM must report on IEC 62474 declarable substances, while Internet Media & Services does not",
+    "optionD": "Internet Media & Services must report on data center chemical use, while EMS & ODM does not",
+    "optionE": "Both industries have identical hazardous material reporting requirements",
+    "answer": "C: EMS & ODM must report on IEC 62474 declarable substances, while Internet Media & Services does not",
+    "explanation": "The Electronic Manufacturing Services & Original Design Manufacturing industry has specific requirements to report on product lifecycle management, including the percentage of products containing IEC 62474 declarable substances (TC-ES-410a.1). This requirement reflects the industry's involvement in physical product manufacturing. The Internet Media & Services industry, primarily focused on digital services, does not have similar requirements for hazardous materials reporting in its sustainability disclosures.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electronic Manufacturing Services & Original Design Manufacturing",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services"
+    ],
+    "pages": [
+      "550",
+      "559",
+      "560"
+    ],
+    "pairing_explanation": "The technology sector spans from manufacturing to services, each with unique sustainability challenges. Comparative reporting can help elucidate environmental impacts, data privacy, and ethical issues across the lifecycle of tech products and services.",
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design",
+      "b56-internet-media-and-services",
+      "b55-hardware",
+      "b58-software-and-it-services"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "In terms of sustainability reporting, how do the Hardware and Software & IT Services industries differ in their approach to disclosing risks related to technology disruptions?",
+    "optionA": "Only Hardware companies must report on supply chain disruptions",
+    "optionB": "Software & IT Services must report on customer downtime, while Hardware does not",
+    "optionC": "Hardware must disclose product failure rates, while Software & IT Services does not",
+    "optionD": "Software & IT Services must discuss business continuity risks, while Hardware does not",
+    "optionE": "Both industries have identical technology disruption reporting requirements",
+    "answer": "B: Software & IT Services must report on customer downtime, while Hardware does not",
+    "explanation": "The Software & IT Services industry has specific requirements to report on the number of performance issues, service disruptions, and total customer downtime (TC-SI-550a.1). Additionally, they must describe business continuity risks related to disruptions of operations (TC-SI-550a.2). The Hardware industry does not have similar specific requirements for reporting on technology disruptions in its sustainability disclosures. This difference reflects the critical nature of uptime and service continuity in the software and IT services sector.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hardware",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services"
+    ],
+    "pages": [
+      "552",
+      "582",
+      "583"
+    ],
+    "pairing_explanation": "The technology sector spans from manufacturing to services, each with unique sustainability challenges. Comparative reporting can help elucidate environmental impacts, data privacy, and ethical issues across the lifecycle of tech products and services.",
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design",
+      "b56-internet-media-and-services",
+      "b55-hardware",
+      "b58-software-and-it-services"
+    ]
+  }
+]

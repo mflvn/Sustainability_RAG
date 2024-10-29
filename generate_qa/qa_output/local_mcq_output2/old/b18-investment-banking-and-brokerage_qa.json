@@ -1,0 +1,182 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When reporting revenue from transactions incorporating ESG factors, how should an investment banking entity break down this information?",
+    "optionA": "By client type and transaction size",
+    "optionB": "By geographic region and currency",
+    "optionC": "By underwriting, advisory, and securitization activities",
+    "optionD": "By environmental, social, and governance categories",
+    "optionE": "By profit margin and transaction volume",
+    "answer": "C. By underwriting, advisory, and securitization activities",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "176-177",
+    "industries": [
+      "b18-investment-banking-and-brokerage"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "Which classification system should an investment banking entity use to categorize industries when reporting ESG-related transactions?",
+    "optionA": "Standard Industrial Classification (SIC)",
+    "optionB": "North American Industry Classification System (NAICS)",
+    "optionC": "International Standard Industrial Classification (ISIC)",
+    "optionD": "Global Industry Classification Standard (GICS)",
+    "optionE": "Bloomberg Industry Classification System (BICS)",
+    "answer": "D. Global Industry Classification Standard (GICS)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "177",
+    "industries": [
+      "b18-investment-banking-and-brokerage"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When describing the approach to incorporating ESG factors in investment banking activities, which of the following is NOT required to be included in the discussion?",
+    "optionA": "Parties responsible for day-to-day incorporation of ESG factors",
+    "optionB": "Approach to conducting ESG-related research",
+    "optionC": "Roles and responsibilities of employees involved",
+    "optionD": "Criteria used in assessing the quality of ESG incorporation",
+    "optionE": "Detailed biographies of ESG team members",
+    "answer": "E. Detailed biographies of ESG team members",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "179",
+    "industries": [
+      "b18-investment-banking-and-brokerage"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When reporting facilitated emissions, how should an investment banking entity disclose this information?",
+    "optionA": "As a single combined figure for all emissions",
+    "optionB": "Disaggregated by Scope 1, Scope 2, and Scope 3 emissions for each industry by key business line",
+    "optionC": "Only for Scope 1 and Scope 2 emissions",
+    "optionD": "As a percentage of total company emissions",
+    "optionE": "Aggregated by client type without emission scope distinction",
+    "answer": "B. Disaggregated by Scope 1, Scope 2, and Scope 3 emissions for each industry by key business line",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "181-182",
+    "industries": [
+      "b18-investment-banking-and-brokerage"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When reporting the number and value of investments and loans incorporating ESG factors, which of the following should be excluded?",
+    "optionA": "Debt securities",
+    "optionB": "Public equity securities",
+    "optionC": "Infrastructure investments",
+    "optionD": "Real estate investments",
+    "optionE": "Commercial lending activities",
+    "answer": "E. Commercial lending activities",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "177-178",
+    "industries": [
+      "b18-investment-banking-and-brokerage"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating facilitated emissions, which of the following is NOT considered a 'key business line'?",
+    "optionA": "Underwriting",
+    "optionB": "Advisory",
+    "optionC": "Securitization",
+    "optionD": "Asset management",
+    "optionE": "Investing and lending",
+    "answer": "D. Asset management",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "181-182",
+    "industries": [
+      "b18-investment-banking-and-brokerage"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the revenue from transactions incorporating ESG factors (FN-IB-410a.1), how should an investment bank break down the revenue?",
+    "optionA": "By client type and transaction size",
+    "optionB": "By geographic region and currency",
+    "optionC": "By (1) underwriting, (2) advisory, and (3) securitization",
+    "optionD": "By environmental, social, and governance categories",
+    "optionE": "By profit margin and transaction volume",
+    "answer": "C. By (1) underwriting, (2) advisory, and (3) securitization",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "176-177",
+    "industries": [
+      "b18-investment-banking-and-brokerage"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When disclosing facilitated emissions (FN-IB-1), how should an investment bank disaggregate the absolute gross emissions?",
+    "optionA": "By client size and industry sector",
+    "optionB": "By geographic region and transaction type",
+    "optionC": "By Scope 1, Scope 2, and Scope 3 emissions",
+    "optionD": "By underwriting, advisory, and securitization activities",
+    "optionE": "By short-term and long-term investments",
+    "answer": "C. By Scope 1, Scope 2, and Scope 3 emissions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "181-182",
+    "industries": [
+      "b18-investment-banking-and-brokerage"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When disclosing significant concentrations of exposure to ESG factors, what unique aspect should an investment bank consider that might not apply to other industries?",
+    "optionA": "Employee health and safety risks",
+    "optionB": "Supply chain disruptions",
+    "optionC": "Product lifecycle assessments",
+    "optionD": "Exposure to carbon-related assets in water-stressed regions",
+    "optionE": "Manufacturing process emissions",
+    "answer": "D. Exposure to carbon-related assets in water-stressed regions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "180",
+    "industries": [
+      "b18-investment-banking-and-brokerage"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What unique challenge does an investment bank face when calculating and disclosing 'facilitated emissions'?",
+    "optionA": "Measuring direct emissions from company vehicles",
+    "optionB": "Calculating emissions from electricity consumption",
+    "optionC": "Determining emissions from employee commuting",
+    "optionD": "Attributing a share of counterparty emissions to capital market services provided",
+    "optionE": "Assessing emissions from waste management",
+    "answer": "D. Attributing a share of counterparty emissions to capital market services provided",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "181-182",
+    "industries": [
+      "b18-investment-banking-and-brokerage"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What unique challenge does an investment bank face when incorporating ESG factors into its securitization activities?",
+    "optionA": "Determining the carbon footprint of securitized assets",
+    "optionB": "Assessing the social impact of securitized loans",
+    "optionC": "Evaluating the governance practices of securitization vehicles",
+    "optionD": "Calculating the environmental risk of re-securitization",
+    "optionE": "Integrating ESG factors into the complex process of combining and repackaging financial assets",
+    "answer": "E. Integrating ESF factors into the complex process of combining and repackaging financial assets",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "177-178",
+    "industries": [
+      "b18-investment-banking-and-brokerage"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When conducting scenario analysis for ESG risks in investment banking activities, what specific factor should be considered that is unique to this industry?",
+    "optionA": "Impact of climate change on agricultural yields",
+    "optionB": "Effects of water scarcity on manufacturing processes",
+    "optionC": "Influence of ESG trends on the risk profile of underwritten securities and advisory transactions",
+    "optionD": "Carbon footprint of the bank's office buildings",
+    "optionE": "Employee satisfaction with the bank's sustainability initiatives",
+    "answer": "C. Influence of ESG trends on the risk profile of underwritten securities and advisory transactions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "179-180",
+    "industries": [
+      "b18-investment-banking-and-brokerage"
+    ]
+  }
+]

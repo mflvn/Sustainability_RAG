@@ -1,0 +1,168 @@
+[
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Quantitative' for Insurance and Real Estate Services industries.",
+    "answer": "Insurance:\n- Net premiums written related to energy efficiency and low carbon technology | Quantitative | Reporting currency | FN-IN-410b.1\n- Probable Maximum Loss (PML) of insured products from weather-related natural catastrophes | Quantitative | Reporting currency | FN-IN-450a.1\n- Total amount of monetary losses attributable to insurance payouts from (1) modeled natural catastrophes and (2) non-modeled natural catastrophes, by type of event and geographic segment (net and gross of reinsurance) | Quantitative | Reporting currency | FN-IN-450a.2\n- (1) Gross exposure to carbon-related industries, by industry (2) total gross exposure to all industries, and (3) percentage of total gross exposure to each carbon-related industry | Quantitative | Presentation currency, Percentage % | FN-IN-1\n- Percentage of gross exposure included in the financed emissions calculation | Quantitative | Percentage % | FN-IN-2\n- For each industry by asset class: (1) absolute gross (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) gross exposure (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e, Presentation currency | FN-IN-3\n- For each industry by asset class: (1) gross emissions intensity of (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) gross exposure (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e per unit of physical or economic output | FN-IN-4\n\nReal Estate Services:\n- Revenue from energy and sustainability services | Quantitative | Reporting currency | IF-RS-410a.1\n- (1) Floor area and (2) number of buildings under management provided with energy and sustainability services | Quantitative | Square feet (ft\u00b2), Number | IF-RS-410a.2\n- (1) Floor area and (2) number of buildings under management that obtained an energy rating | Quantitative | Square feet (ft\u00b2), Number | IF-RS-410a.3",
+    "reference_text": [
+      "| Policies Designed to Incentivize Responsible Behavior | Net premiums written related to energy efficiency and low carbon technology | Quantitative | Reporting currency | FN-IN-410b.1 |",
+      "| Environmental Physical Risk Exposure | Probable Maximum Loss (PML) of insured products from weather-related natural catastrophes 21 | Quantitative | Reporting currency | FN-IN-450a.1 |",
+      "| Environmental Physical Risk Exposure | Total amount of monetary losses attributable to insurance payouts from (1) modeled natural catastrophes and (2) non-modeled natural catastrophes, by type of event and geographic segment (net and gross of reinsurance) 22 | Quantitative | Reporting currency | FN-IN-450a.2 |",
+      "| Transition Risk Exposure | (1) Gross exposure to carbon-related industries, by industry (2) total gross exposure to all industries, and (3) percentage of total gross exposure to each carbon-related industry | Quantitative | Presentation currency, Percentage % | FN-IN-1 |",
+      "| Transition Risk Exposure | Percentage of gross exposure included in the financed emissions calculation | Quantitative | Percentage % | FN-IN-2 |",
+      "| Transition Risk Exposure | For each industry by asset class: (1) absolute gross (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) gross exposure (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e, Presentation currency | FN-IN-3 |",
+      "| Transition Risk Exposure | For each industry by asset class: (1) gross emissions intensity of (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) gross exposure (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e per unit of physical or economic output | FN-IN-4 |",
+      "| Sustainability Services | Revenue from energy and sustainability services 55 | Quantitative | Reporting currency | IF-RS-410a.1 |",
+      "| Sustainability Services | (1) Floor area and (2) number of buildings under management provided with energy and sustainability services | Quantitative | Square feet (ft\u00b2), Number | IF-RS-410a.2 |",
+      "| Sustainability Services | (1) Floor area and (2) number of buildings under management that obtained an energy rating | Quantitative | Square feet (ft\u00b2), Number | IF-RS-410a.3 |"
+    ],
+    "pages": [
+      "Page 155",
+      "Page 156",
+      "Page 157",
+      "Page 158",
+      "Page 159",
+      "Page 160",
+      "Page 161",
+      "Page 162",
+      "Page 163",
+      "Page 164",
+      "Page 165",
+      "Page 166",
+      "Page 167",
+      "Page 168",
+      "Page 169",
+      "Page 170",
+      "Page 171",
+      "Page 172",
+      "Page 173",
+      "Page 391",
+      "Page 392",
+      "Page 393",
+      "Page 394",
+      "Page 395",
+      "Page 396"
+    ],
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0.2
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Insurance and Real Estate Services industries?",
+    "answer": "Insurance industry has more 'Quantitative' metrics to disclose in Table 1.",
+    "reference_text": [
+      "| Policies Designed to Incentivize Responsible Behavior | Net premiums written related to energy efficiency and low carbon technology | Quantitative | Reporting currency | FN-IN-410b.1 |",
+      "| Environmental Physical Risk Exposure | Probable Maximum Loss (PML) of insured products from weather-related natural catastrophes 21 | Quantitative | Reporting currency | FN-IN-450a.1 |",
+      "| Environmental Physical Risk Exposure | Total amount of monetary losses attributable to insurance payouts from (1) modeled natural catastrophes and (2) non-modeled natural catastrophes, by type of event and geographic segment (net and gross of reinsurance) 22 | Quantitative | Reporting currency | FN-IN-450a.2 |",
+      "| Transition Risk Exposure | (1) Gross exposure to carbon-related industries, by industry (2) total gross exposure to all industries, and (3) percentage of total gross exposure to each carbon-related industry | Quantitative | Presentation currency, Percentage % | FN-IN-1 |",
+      "| Transition Risk Exposure | Percentage of gross exposure included in the financed emissions calculation | Quantitative | Percentage % | FN-IN-2 |",
+      "| Transition Risk Exposure | For each industry by asset class: (1) absolute gross (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) gross exposure (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e, Presentation currency | FN-IN-3 |",
+      "| Transition Risk Exposure | For each industry by asset class: (1) gross emissions intensity of (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) gross exposure (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e per unit of physical or economic output | FN-IN-4 |",
+      "| Sustainability Services | Revenue from energy and sustainability services 55 | Quantitative | Reporting currency | IF-RS-410a.1 |",
+      "| Sustainability Services | (1) Floor area and (2) number of buildings under management provided with energy and sustainability services | Quantitative | Square feet (ft\u00b2), Number | IF-RS-410a.2 |",
+      "| Sustainability Services | (1) Floor area and (2) number of buildings under management that obtained an energy rating | Quantitative | Square feet (ft\u00b2), Number | IF-RS-410a.3 |"
+    ],
+    "pages": [
+      "Page 155",
+      "Page 156",
+      "Page 157",
+      "Page 158",
+      "Page 159",
+      "Page 160",
+      "Page 161",
+      "Page 162",
+      "Page 163",
+      "Page 164",
+      "Page 165",
+      "Page 166",
+      "Page 167",
+      "Page 168",
+      "Page 169",
+      "Page 170",
+      "Page 171",
+      "Page 172",
+      "Page 173",
+      "Page 391",
+      "Page 392",
+      "Page 393",
+      "Page 394",
+      "Page 395",
+      "Page 396"
+    ],
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0.2
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Insurance and Real Estate Services industries.",
+    "answer": "Insurance: FN-IN-410b.1, FN-IN-450a.1, FN-IN-450a.2, FN-IN-1, FN-IN-2, FN-IN-3, FN-IN-4\nReal Estate Services: IF-RS-410a.1, IF-RS-410a.2, IF-RS-410a.3",
+    "reference_text": [
+      "| Incorporation of Environmental, Social, and Governance Factors in Investment Management | Description of approach to incorporation of environmental, social, and governance (ESG) factors in investment management processes and strategies | Discussion and Analysis | n/a | FN-IN-410a.2 |",
+      "| Policies Designed to Incentivize Responsible Behavior | Net premiums written related to energy efficiency and low carbon technology | Quantitative | Reporting currency | FN-IN-410b.1 |",
+      "| Environmental Physical Risk Exposure | Probable Maximum Loss (PML) of insured products from weather-related natural catastrophes 21 | Quantitative | Reporting currency | FN-IN-450a.1 |",
+      "| Environmental Physical Risk Exposure | Total amount of monetary losses attributable to insurance payouts from (1) modeled natural catastrophes and (2) non-modeled natural catastrophes, by type of event and geographic segment (net and gross of reinsurance) 22 | Quantitative | Reporting currency | FN-IN-450a.2 |",
+      "| Transition Risk Exposure | (1) Gross exposure to carbon-related industries, by industry (2) total gross exposure to all industries, and (3) percentage of total gross exposure to each carbon-related industry | Quantitative | Presentation currency, Percentage % | FN-IN-1 |",
+      "| Transition Risk Exposure | Percentage of gross exposure included in the financed emissions calculation | Quantitative | Percentage % | FN-IN-2 |",
+      "| Transition Risk Exposure | For each industry by asset class: (1) absolute gross (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) gross exposure (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e, Presentation currency | FN-IN-3 |",
+      "| Transition Risk Exposure | For each industry by asset class: (1) gross emissions intensity of (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) gross exposure (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e per unit of physical or economic output | FN-IN-4 |",
+      "| Sustainability Services | Revenue from energy and sustainability services 55 | Quantitative | Reporting currency | IF-RS-410a.1 |",
+      "| Sustainability Services | (1) Floor area and (2) number of buildings under management provided with energy and sustainability services | Quantitative | Square feet (ft\u00b2), Number | IF-RS-410a.2 |",
+      "| Sustainability Services | (1) Floor area and (2) number of buildings under management that obtained an energy rating | Quantitative | Square feet (ft\u00b2), Number | IF-RS-410a.3 |"
+    ],
+    "pages": [
+      "Page 155",
+      "Page 156",
+      "Page 157",
+      "Page 158",
+      "Page 159",
+      "Page 160",
+      "Page 161",
+      "Page 162",
+      "Page 163",
+      "Page 164",
+      "Page 165",
+      "Page 166",
+      "Page 167",
+      "Page 168",
+      "Page 169",
+      "Page 170",
+      "Page 171",
+      "Page 172",
+      "Page 173",
+      "Page 391",
+      "Page 392",
+      "Page 393",
+      "Page 394",
+      "Page 395",
+      "Page 396"
+    ],
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0.2
+  },
+  {
+    "question": "Are there any common sustainability topics between Insurance and Real Estate Services industries? If so, how do their reporting requirements differ?",
+    "answer": "Common sustainability topic: Incorporation of Environmental, Social, and Governance Factors in Investment Management (Insurance) and Sustainability Services (Real Estate Services).\n\nReporting requirements differ as follows:\n- Insurance: Description of approach to incorporation of environmental, social, and governance (ESG) factors in investment management processes and strategies (Discussion and Analysis, FN-IN-410a.2).\n- Real Estate Services: Revenue from energy and sustainability services (Quantitative, IF-RS-410a.1).",
+    "reference_text": [
+      "| Incorporation of Environmental, Social, and Governance Factors in Investment Management | Description of approach to incorporation of environmental, social, and governance (ESG) factors in investment management processes and strategies | Discussion and Analysis | n/a | FN-IN-410a.2 |",
+      "| Sustainability Services | Revenue from energy and sustainability services 55 | Quantitative | Reporting currency | IF-RS-410a.1 |"
+    ],
+    "pages": [
+      "Page 155",
+      "Page 391"
+    ],
+    "industries": [
+      "b17-insurance",
+      "b37-real-estate-services"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0.2
+  }
+]

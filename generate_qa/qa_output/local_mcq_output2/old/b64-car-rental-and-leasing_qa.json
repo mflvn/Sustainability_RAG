@@ -1,0 +1,137 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When reporting the average fuel economy of a car rental company's fleet, which of the following is NOT a required unit of measure according to the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Miles per gallon (mpg)",
+    "optionB": "Liters per kilometer (L/km)",
+    "optionC": "Grams of CO\u2082 per kilometer (gCO\u2082/km)",
+    "optionD": "Kilometers per liter (km/L)",
+    "optionE": "Gallons per 100 miles (gal/100mi)",
+    "answer": "E. Gallons per 100 miles (gal/100mi)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Car Rental & Leasing",
+    "page": "615-616",
+    "industries": [
+      "b64-car-rental-and-leasing"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When calculating the fleet utilization rate for a car rental company, which of the following periods should be excluded from the total number of available rental days?",
+    "optionA": "Days when vehicles were rented out",
+    "optionB": "Weekends and holidays",
+    "optionC": "Days when vehicles were in transit between locations",
+    "optionD": "Days when vehicles were undergoing inspection, cleaning, or maintenance",
+    "optionE": "Days when vehicles were available but not rented",
+    "answer": "D. Days when vehicles were undergoing inspection, cleaning, or maintenance",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Car Rental & Leasing",
+    "page": "616",
+    "industries": [
+      "b64-car-rental-and-leasing"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to the IFRS S2 Climate-related Disclosures, which of the following is NOT considered a required activity metric for the Car Rental & Leasing industry?",
+    "optionA": "Average vehicle age",
+    "optionB": "Total available rental days",
+    "optionC": "Average rental fleet size",
+    "optionD": "Fleet fuel economy",
+    "optionE": "Fleet utilization rate",
+    "answer": "E. Fleet utilization rate",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Car Rental & Leasing",
+    "page": "614",
+    "industries": [
+      "b64-car-rental-and-leasing"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "According to the IFRS S2 Climate-related Disclosures, which of the following is the correct formula for calculating the fleet utilization rate?",
+    "optionA": "Total number of vehicles / Total number of rental days",
+    "optionB": "Total number of rental days / Total number of calendar days",
+    "optionC": "Total number of available rental days / Total number of rental days",
+    "optionD": "Total number of rental days / Total number of available rental days",
+    "optionE": "Total number of vehicles / Total number of available rental days",
+    "answer": "D. Total number of rental days / Total number of available rental days",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Car Rental & Leasing",
+    "page": "616",
+    "industries": [
+      "b64-car-rental-and-leasing"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the rental day-weighted average rental fleet fuel economy for a car rental company operating in multiple regions, which of the following methods should be used according to the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Arithmetic mean of all vehicle fuel efficiencies",
+    "optionB": "Median of all vehicle fuel efficiencies",
+    "optionC": "Harmonic mean of vehicle fuel efficiencies, weighted by rental days",
+    "optionD": "Mode of all vehicle fuel efficiencies",
+    "optionE": "Geometric mean of vehicle fuel efficiencies",
+    "answer": "C. Harmonic mean of vehicle fuel efficiencies, weighted by rental days",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Car Rental & Leasing",
+    "page": "615",
+    "industries": [
+      "b64-car-rental-and-leasing"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A car rental company is preparing its sustainability report and wants to disclose its fleet's fuel economy. According to IFRS S2, which of the following units should be used for reporting in the European Union?",
+    "optionA": "Miles per gallon (mpg)",
+    "optionB": "Liters per 100 kilometers (L/100km)",
+    "optionC": "Grams of CO\u2082 per kilometer (gCO\u2082/km)",
+    "optionD": "Kilometers per liter (km/L)",
+    "optionE": "Gallons per mile (gpm)",
+    "answer": "C. Grams of CO\u2082 per kilometer (gCO\u2082/km)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Car Rental & Leasing",
+    "page": "615",
+    "industries": [
+      "b64-car-rental-and-leasing"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A car rental company operates in multiple countries. According to IFRS S2, how should the company report its rental fleet's fuel economy?",
+    "optionA": "Use a single global average for all regions",
+    "optionB": "Report only for the region with the strictest fuel economy standards",
+    "optionC": "By geographic region, using units appropriate for each region's standards",
+    "optionD": "Combine all data and report in miles per gallon (mpg) only",
+    "optionE": "Report only for regions where fuel economy disclosure is mandatory",
+    "answer": "C. By geographic region, using units appropriate for each region's standards",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Car Rental & Leasing",
+    "page": "615-616",
+    "industries": [
+      "b64-car-rental-and-leasing"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When preparing a sustainability report for a car rental company, which of the following emerging trends should be considered as a potential threat to long-term profitability, according to the IFRS S2 industry description?",
+    "optionA": "Increased demand for luxury vehicles",
+    "optionB": "Rise of electric vehicles",
+    "optionC": "Growth of international tourism",
+    "optionD": "Expansion of car dealerships",
+    "optionE": "Growth of public transit and ride-sharing services in major metropolitan areas",
+    "answer": "E. Growth of public transit and ride-sharing services in major metropolitan areas",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Car Rental & Leasing",
+    "page": "614",
+    "industries": [
+      "b64-car-rental-and-leasing"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A car rental company is implementing a car-sharing business model in urban areas. According to the IFRS S2 Climate-related Disclosures, what is the primary challenge this company should address in its sustainability report regarding this new business model?",
+    "optionA": "Increased carbon emissions from more frequent vehicle use",
+    "optionB": "Higher maintenance costs due to increased vehicle wear and tear",
+    "optionC": "Difficulty in tracking individual user's driving behavior",
+    "optionD": "Balancing enhanced business efficiency with environmental impact reduction",
+    "optionE": "Reduced profitability due to lower rental fees in car-sharing models",
+    "answer": "D. Balancing enhanced business efficiency with environmental impact reduction",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Car Rental & Leasing",
+    "page": "615",
+    "industries": [
+      "b64-car-rental-and-leasing"
+    ]
+  }
+]

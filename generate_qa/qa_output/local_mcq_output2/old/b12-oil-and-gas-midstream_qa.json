@@ -1,0 +1,167 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2 Climate-related Disclosures, how should a midstream oil and gas company calculate the percentage of its Scope 1 emissions from methane?",
+    "optionA": "By dividing total methane emissions by total CO2 emissions",
+    "optionB": "By dividing methane emissions in CO2-e by gross global Scope 1 GHG emissions in CO2-e",
+    "optionC": "By calculating the ratio of methane to other greenhouse gases",
+    "optionD": "By measuring methane emissions as a percentage of natural gas transported",
+    "optionE": "By estimating methane emissions based on pipeline length",
+    "answer": "B: By dividing methane emissions in CO2-e by gross global Scope 1 GHG emissions in CO2-e",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "110",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When discussing long-term and short-term strategies to manage Scope 1 emissions, which of the following is NOT required to be included in the analysis of performance against emission reduction targets?",
+    "optionA": "The scope of the emission reduction target",
+    "optionB": "Whether the target is absolute or intensity-based",
+    "optionC": "The percentage reduction against the base year",
+    "optionD": "The mechanism(s) for achieving the target",
+    "optionE": "The projected financial impact of missing the target",
+    "answer": "E: The projected financial impact of missing the target",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "111-112",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "Which of the following is considered a category of emissions that should be discussed in the scope of strategies, plans, and/or reduction targets for a midstream oil and gas company?",
+    "optionA": "Recycled emissions",
+    "optionB": "Captured emissions",
+    "optionC": "Flared hydrocarbons",
+    "optionD": "Offset emissions",
+    "optionE": "Imported emissions",
+    "answer": "C: Flared hydrocarbons",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "112",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing the percentage of emissions covered under emissions-limiting regulations, which of the following should NOT be included in the calculation?",
+    "optionA": "Emissions covered by cap-and-trade schemes",
+    "optionB": "Emissions subject to carbon tax systems",
+    "optionC": "Emissions under permit-based mechanisms",
+    "optionD": "Emissions covered by voluntary trading systems",
+    "optionE": "Emissions under command-and-control approaches",
+    "answer": "D: Emissions covered by voluntary trading systems",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "110-111",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating gross global Scope 1 emissions for a midstream oil and gas company, which of the following is NOT considered a direct emission source?",
+    "optionA": "Equipment at well sites",
+    "optionB": "Marine vessels transporting products",
+    "optionC": "Tank truck fleets",
+    "optionD": "Moveable equipment at drilling facilities",
+    "optionE": "Emissions from electricity purchased from the grid",
+    "answer": "E. Emissions from electricity purchased from the grid",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "109-110",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When reporting on emission reduction targets, which of the following elements is NOT required to be disclosed by a midstream oil and gas company?",
+    "optionA": "The scope of the emission reduction target",
+    "optionB": "Whether the target is absolute or intensity-based",
+    "optionC": "The percentage reduction against the base year",
+    "optionD": "The timelines for the reduction activity",
+    "optionE": "The projected financial impact of achieving the target",
+    "answer": "E. The projected financial impact of achieving the target",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "111-112",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When consolidating GHG emission data for a midstream oil and gas company, which of the following approaches is NOT mentioned as an acceptable method in the IFRS S2 Climate-related Disclosures?",
+    "optionA": "The financial control approach defined by the GHG Protocol",
+    "optionB": "The financial approach detailed in the IPIECA/API/OGP Petroleum Industry Guidelines",
+    "optionC": "The approach provided by the Climate Disclosure Standards Board (CDSB)",
+    "optionD": "The equity share approach defined by the GHG Protocol",
+    "optionE": "The approach aligned with the entity's financial reporting data consolidation",
+    "answer": "D. The equity share approach defined by the GHG Protocol",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "110-111",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "Which of the following is NOT mentioned as a specific midstream natural gas activity in the industry description?",
+    "optionA": "Gathering of natural gas",
+    "optionB": "Transport of natural gas",
+    "optionC": "Processing of natural gas",
+    "optionD": "Refining of natural gas",
+    "optionE": "Storage of natural gas",
+    "answer": "D. Refining of natural gas",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "108",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When reporting on Scope 1 emissions, which of the following greenhouse gases is NOT listed as one of the seven GHGs covered under the Kyoto Protocol?",
+    "optionA": "Carbon dioxide (CO\u2082)",
+    "optionB": "Methane (CH\u2084)",
+    "optionC": "Nitrous oxide (N\u2082O)",
+    "optionD": "Sulfur dioxide (SO\u2082)",
+    "optionE": "Nitrogen trifluoride (NF\u2083)",
+    "answer": "D. Sulfur dioxide (SO\u2082)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "109-110",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A midstream oil and gas company is struggling to accurately report its fugitive emissions. Which of the following best describes the nature of fugitive emissions according to the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Emissions that are intentionally vented during normal operations",
+    "optionB": "Emissions from flaring activities",
+    "optionC": "Emissions that can be individually found and 'fixed' to make emissions 'near zero'",
+    "optionD": "Emissions from stationary combustion sources",
+    "optionE": "Emissions from mobile sources like trucks and ships",
+    "answer": "C. Emissions that can be individually found and 'fixed' to make emissions 'near zero'",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "113",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A sustainability reporting team for a midstream oil and gas company is unsure how to categorize emissions from their gas-driven pneumatic devices. According to the IFRS S2 Climate-related Disclosures, under which category should these emissions be reported?",
+    "optionA": "Flared hydrocarbons",
+    "optionB": "Process emissions",
+    "optionC": "Fugitive emissions",
+    "optionD": "Vented emissions",
+    "optionE": "Other combusted emissions",
+    "answer": "D. Vented emissions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+    "page": "113",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  }
+]

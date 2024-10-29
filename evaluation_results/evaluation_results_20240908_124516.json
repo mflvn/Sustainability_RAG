@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Automobiles and Restaurants industries?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "What units of measurement are used across Building Products & Furnishings and Real Estate industries for measuring energy consumption?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Asset Management & Custody Activities and Mortgage Finance industries.",
+    "type": "mcq",
+    "correct_answer": "C",
+    "model_answer": "A",
+    "is_correct": false,
+    "industries": []
+  },
+  {
+    "question": "Give me the codes for all the 'Discussion and Analysis' metrics in Table 1 for Airlines and Managed Care industries.",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "B",
+    "is_correct": false,
+    "industries": []
+  },
+  {
+    "question": "How does the calculation of energy-related metrics differ between Building Products & Furnishings and Real Estate companies?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Health Care Delivery and Mortgage Finance industries.",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Water Utilities & Services and Cruise Lines industries?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for the Hardware and Oil & Gas-Exploration & Production industries.",
+    "type": "mcq",
+    "correct_answer": "C",
+    "model_answer": "B",
+    "is_correct": false,
+    "industries": []
+  },
+  {
+    "question": "Are there any common sustainability topics between the Multiline and Specialty Retailers & Distributors and Waste Management industries? If so, how do their reporting requirements differ?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "Analyze the reporting complexity of Building Products & Furnishings and Real Estate industries by comparing the number of required metrics and the diversity of measurement units used.",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": []
+  }
+]

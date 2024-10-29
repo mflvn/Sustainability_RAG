@@ -1,0 +1,167 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When calculating the percentage of new leases that contain a cost recovery clause for resource efficiency-related capital improvements, what should be used as the denominator?",
+    "optionA": "Total portfolio gross floor area",
+    "optionB": "Total portfolio newly leased floor area",
+    "optionC": "Total number of new leases",
+    "optionD": "Total revenue from new leases",
+    "optionE": "Total number of tenants",
+    "answer": "B. Total portfolio newly leased floor area",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate",
+    "page": "384",
+    "industries": [
+      "b36-real-estate"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "What should a real estate company disclose regarding water withdrawal data coverage in regions with High or Extremely High Baseline Water Stress?",
+    "optionA": "Total water withdrawn in these regions",
+    "optionB": "Percentage of properties in these regions",
+    "optionC": "Number of tenants in these regions",
+    "optionD": "Percentage of portfolio gross floor area with complete water withdrawal data coverage in these regions",
+    "optionE": "Water efficiency measures implemented in these regions",
+    "answer": "D. Percentage of portfolio gross floor area with complete water withdrawal data coverage in these regions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate",
+    "page": "374",
+    "industries": [
+      "b36-real-estate"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "In discussing climate change risk exposure, what specific aspect of the analysis should a real estate company include regarding the identified risks and opportunities?",
+    "optionA": "Only the financial impact on the company",
+    "optionB": "Only the physical impact on properties",
+    "optionC": "The timeline over which such risks and opportunities are expected to manifest",
+    "optionD": "The personal opinions of the CEO",
+    "optionE": "The impact on competitors",
+    "answer": "C. The timeline over which such risks and opportunities are expected to manifest",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate",
+    "page": "389",
+    "industries": [
+      "b36-real-estate"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing the percentage of tenants that are separately metered for grid electricity consumption, what should be used as the denominator in the calculation?",
+    "optionA": "Total number of tenants",
+    "optionB": "Total portfolio gross floor area",
+    "optionC": "Total portfolio leasable floor area",
+    "optionD": "Total electricity consumption",
+    "optionE": "Total number of buildings",
+    "answer": "C. Total portfolio leasable floor area",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate",
+    "page": "385",
+    "industries": [
+      "b36-real-estate"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the like-for-like percentage change in water withdrawn for a real estate portfolio, which properties should be excluded?",
+    "optionA": "Properties with high vacancy rates",
+    "optionB": "Properties in water-stressed regions",
+    "optionC": "Properties acquired or disposed of during the reporting period",
+    "optionD": "Properties with incomplete water data",
+    "optionE": "Properties with water-efficient fixtures",
+    "answer": "C. Properties acquired or disposed of during the reporting period",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "378",
+    "industries": [
+      "b36-real-estate"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "In calculating energy consumption data coverage for a real estate portfolio, how is floor area considered to have complete data coverage?",
+    "optionA": "When data is available for at least 50% of energy types consumed",
+    "optionB": "When data is available for electricity consumption only",
+    "optionC": "When data is obtained for all types of energy consumed in the relevant floor area",
+    "optionD": "When data is estimated based on similar properties",
+    "optionE": "When data is available for common areas only",
+    "answer": "C. When data is obtained for all types of energy consumed in the relevant floor area",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "360-361",
+    "industries": [
+      "b36-real-estate"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "How should a real estate company determine if a property is located in a High or Extremely High Baseline Water Stress area?",
+    "optionA": "By consulting local water utility providers",
+    "optionB": "Using the World Resources Institute's Water Risk Atlas tool, Aqueduct",
+    "optionC": "Based on the property's historical water consumption data",
+    "optionD": "Using internal company risk assessment tools",
+    "optionE": "By the frequency of water shortages in the area",
+    "answer": "B. Using the World Resources Institute's Water Risk Atlas tool, Aqueduct",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "376",
+    "industries": [
+      "b36-real-estate"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A real estate company is struggling to obtain energy consumption data from its tenants. What is the recommended approach to improve data coverage according to IFRS S2?",
+    "optionA": "Implement financial penalties for tenants who don't share data",
+    "optionB": "Only report on properties where the company has full control over energy usage",
+    "optionC": "Use estimated data for all tenant spaces",
+    "optionD": "Establish agreements with tenants to mutually share energy consumption data",
+    "optionE": "Ignore tenant spaces in energy reporting altogether",
+    "answer": "D. Establish agreements with tenants to mutually share energy consumption data",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate",
+    "page": "386",
+    "industries": [
+      "b36-real-estate"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When reporting on climate change risk exposure for a real estate portfolio, which of the following is NOT considered a significant risk or opportunity to be disclosed?",
+    "optionA": "Availability of water",
+    "optionB": "Extreme weather events",
+    "optionC": "Impacts on tenant demand",
+    "optionD": "Changes in property aesthetic preferences",
+    "optionE": "Evolving regulation and legislation",
+    "answer": "D. Changes in property aesthetic preferences",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate",
+    "page": "389",
+    "industries": [
+      "b36-real-estate"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A real estate company is preparing to disclose its approach to measuring and improving sustainability impacts of tenants. Which of the following is NOT a recommended strategy according to IFRS S2?",
+    "optionA": "Establishing shared energy consumption and water withdrawal targets",
+    "optionB": "Requiring tenants to provide accurate information for mandatory energy rating schemes",
+    "optionC": "Setting standards for tenant works related to energy consumption and indoor environmental quality",
+    "optionD": "Prioritizing cost minimization over sustainability requirements in all cases",
+    "optionE": "Implementing agreements to mutually share energy consumption and water withdrawal data",
+    "answer": "D. Prioritizing cost minimization over sustainability requirements in all cases",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate",
+    "page": "386",
+    "industries": [
+      "b36-real-estate"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When disclosing information about properties located in 100-year flood zones, what should a real estate company do if floor area data is not available for Apartments and Lodging/Resorts property subsectors?",
+    "optionA": "Exclude these properties from the disclosure",
+    "optionB": "Estimate the floor area based on similar properties",
+    "optionC": "Use the number of units instead of floor area",
+    "optionD": "Report only the land area occupied by these properties",
+    "optionE": "Combine these subsectors with others to avoid separate reporting",
+    "answer": "C. Use the number of units instead of floor area",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate",
+    "page": "388",
+    "industries": [
+      "b36-real-estate"
+    ]
+  }
+]

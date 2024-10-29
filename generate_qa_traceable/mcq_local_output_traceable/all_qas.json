@@ -1,0 +1,2232 @@
+[
+  {
+    "qa_type": "single_hop",
+    "question": "What is the unit of measure for the 'Percentage of raw materials third-party certified to an environmental and/or social sustainability standard, by standard' metric in the Apparel, Accessories & Footwear industry (as listed in the relevant table)?",
+    "optionA": "Number",
+    "optionB": "Percentage (%)",
+    "optionC": "Percentage (%) by weight",
+    "optionD": "Quantitative",
+    "optionE": "n/a",
+    "answer": "C",
+    "reference_text": [
+      "| Raw Materials Sourcing | Percentage of raw materials third-party certified to an environmental and/or social sustainability standard, by standard | Quantitative | Percentage (%) by weight | CG-AA-440a.2 |"
+    ],
+    "pages": [
+      "7"
+    ],
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "For the listed raw materials sourcing requirement, what does a company in the Apparel, Accessories & Footwear industry need to do regarding cotton as a priority raw material?",
+    "optionA": "Discuss its approach to managing risks associated with cotton production",
+    "optionB": "Disclose the percentage of organic cotton used in its products",
+    "optionC": "Identify cotton-growing regions with water stress and discuss vulnerability and price variability risk management",
+    "optionD": "Report on the carbon footprint of its cotton supply chain",
+    "optionE": "Nothing since cotton is not a priority raw material",
+    "answer": "C",
+    "reference_text": [
+      "7 If the entity identifies cotton as one of its priority raw materials, it shall discuss its vulnerability to cotton-growing regions with water stress and how it manages the risk of price variability due to sourcing cotton from these regions."
+    ],
+    "pages": [
+      "9"
+    ],
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What is the code of the 'Number of (1) Tier 1 suppliers and (2) suppliers beyond Tier 1' metric in the Apparel, Accessories & Footwear industry (as listed in the relevant table)?",
+    "optionA": "CG-AA-440a.1",
+    "optionB": "CG-AA-440a.2",
+    "optionC": "CG-AA-000.B",
+    "optionD": "CG-AA-000.A",
+    "optionE": "CG-AA-000.C",
+    "answer": "D",
+    "reference_text": [
+      "| Number of (1) Tier 1 suppliers and (2) suppliers beyond Tier 1 \u00b9 | Quantitative | Number | CG-AA-000.A |"
+    ],
+    "pages": [
+      "7"
+    ],
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "For the listed raw materials sourcing requirement, how should a company in the Apparel, Accessories & Footwear industry calculate the percentage of raw materials third-party certified to an environmental and/or social standard?",
+    "optionA": "Number of certified materials divided by total number of materials",
+    "optionB": "Weight of certified materials divided by total weight of all materials",
+    "optionC": "Cost of certified materials divided by total cost of all materials",
+    "optionD": "Volume of certified materials divided by total volume of all materials",
+    "optionE": "It does not need to calculate this",
+    "answer": "B",
+    "reference_text": [
+      "1.3 The entity shall calculate the percentage as the weight of raw materials third-party certified to an environmental and/or social standard divided by the total weight of raw materials that compose the entity's finished products."
+    ],
+    "pages": [
+      "10"
+    ],
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the code of the 'Raw Materials Sourcing' metric related to third-party certification in the Apparel, Accessories & Footwear industry, and how should this metric be calculated?",
+    "optionA": "CG-AA-440a.1, calculated as the percentage of raw materials certified by weight",
+    "optionB": "CG-AA-440a.2, calculated as the percentage of raw materials certified by volume",
+    "optionC": "CG-AA-440a.2, calculated as the percentage of raw materials certified by weight",
+    "optionD": "CG-AA-000.A, calculated as the number of suppliers certified",
+    "optionE": "CG-AA-000.B, calculated as the number of suppliers certified",
+    "answer": "C",
+    "reference_text": [
+      "CG-AA-440a.2. Percentage of raw materials third-party certified to an environmental and/or social sustainability standard, by standard",
+      "The entity shall calculate the percentage as the weight of raw materials third-party certified to an environmental and/or social standard divided by the total weight of raw materials that compose the entity's finished products."
+    ],
+    "pages": [
+      "9",
+      "10"
+    ],
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the category of the 'Raw Materials Sourcing' metric related to environmental and social risks in the Apparel, Accessories & Footwear industry, and how should this metric be disclosed?",
+    "optionA": "Quantitative, disclosed as a percentage of suppliers audited",
+    "optionB": "Discussion and Analysis, disclosed as the list of suppliers audited",
+    "optionC": "Quantitative, disclosed as the number of risk incidents reported",
+    "optionD": "Discussion and Analysis, disclosed as a list of certified suppliers",
+    "optionE": "Discussion and Analysis, disclosed as a description of risks and management approach",
+    "answer": "E",
+    "reference_text": [
+      "CG-AA-440a.1. Description of environmental and social risks associated with sourcing priority raw materials",
+      "The entity shall discuss its strategic approach to managing environmental and social risks that arise from sourcing priority raw materials",
+      "Disclosure shall include the methodology of how the entity identified priority raw materials.",
+      "The entity shall discuss its approach to managing risks associated with the use of raw materials in its products, including physical limits on availability, access, price, and reputational risks."
+    ],
+    "pages": [
+      "8",
+      "9"
+    ],
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "Can you provide the unit of measure for all the metrics for the 'Raw Materials Sourcing' topic in the Apparel, Accessories & Footwear industry, and how should these metrics be calculated?",
+    "optionA": "Percentage (%) for both metrics, calculated by number of suppliers certified",
+    "optionB": "n/a for the first metric and Percentage (%) for the second, calculated by weight of materials certified",
+    "optionC": "Number for both metrics, calculated by counting certified materials",
+    "optionD": "Discussion for the first metric and Number for the second, calculated by counting certified suppliers",
+    "optionE": "Discussion for both metrics, with no unit of measure for either",
+    "answer": "B",
+    "reference_text": [
+      "Description of environmental and social risks associated with sourcing priority raw materials | Discussion and Analysis | n/a | CG-AA-440a.1",
+      "Percentage of raw materials third-party certified to an environmental and/or social sustainability standard, by standard | Quantitative | Percentage (%) by weight | CG-AA-440a.2",
+      "The entity shall calculate the percentage as the weight of raw materials third-party certified to an environmental and/or social standard divided by the total weight of raw materials that compose the entity's finished products."
+    ],
+    "pages": [
+      "7",
+      "9"
+    ],
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What topics are covered in the 'Raw Materials Sourcing' section of the Apparel, Accessories & Footwear document, and what are the key takeaways for a company writing its sustainability report in this industry?",
+    "optionA": "Only environmental risks; key takeaway is to focus on reducing water usage in cotton production",
+    "optionB": "Environmental and social risks; key takeaway is to disclose third-party certifications by percentage of total raw materials",
+    "optionC": "Supply chain management; key takeaway is to list all Tier 1 and beyond Tier 1 suppliers",
+    "optionD": "Environmental and social risks, strategic approach, and third-party certifications; key takeaways include discussing risks, management strategies, and disclosing certified material percentages",
+    "optionE": "Environmental risks and supply chain management; key takeaways include discussing risks and listing all Tier 1 and beyond Tier 1 suppliers",
+    "answer": "D",
+    "reference_text": [
+      "The Apparel, Accessories & Footwear industry relies on numerous raw materials as key inputs for finished products, including cotton, leather, wool, rubber, and precious minerals and metals. Sustainability impacts related to climate change, land use, resource scarcity, and conflict in regions where the industry's supply chain operates are increasingly shaping the industry's ability to source materials.",
+      "The entity shall discuss its strategic approach to managing environmental and social risks that arise from sourcing priority raw materials",
+      "The entity shall discuss its approach to managing risks associated with the use of raw materials in its products, including physical limits on availability, access, price, and reputational risks.",
+      "The entity shall disclose the percentage of raw materials that are third-party certified to an environmental or social sustainability standard."
+    ],
+    "pages": [
+      "8",
+      "9",
+      "10"
+    ],
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What category of activity metric is used for reporting annual production in the Appliance Manufacturing industry?",
+    "optionA": "Qualitative",
+    "optionB": "Quantitative",
+    "optionC": "Discussion and Analysis",
+    "optionD": "Percentage",
+    "optionE": "n/a",
+    "answer": "B",
+    "reference_text": [
+      "Annual production \u00b2 | Quantitative | Number of units | CG-AM-000.A"
+    ],
+    "pages": [
+      "11"
+    ],
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "For the listed Product Lifecycle Environmental Impacts requirement, what metric should a company in the Appliance Manufacturing industry use for energy efficiency certification?",
+    "optionA": "Percentage of eligible products by revenue",
+    "optionB": "Number of certified products",
+    "optionC": "Total energy savings from certified products",
+    "optionD": "Market share of certified products",
+    "optionE": "Percentage of certified products by cost",
+    "answer": "A",
+    "reference_text": [
+      "Percentage of eligible products by revenue certified to an energy efficiency certification | Quantitative | Percentage (%) by revenue | CG-AM-410a.1"
+    ],
+    "pages": [
+      "11"
+    ],
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What is the code of the metric related to efforts to manage products' end-of-life impacts in the Appliance Manufacturing industry?",
+    "optionA": "CG-AM-410a.1",
+    "optionB": "CG-AM-410a.2",
+    "optionC": "CG-AM-410a.3",
+    "optionD": "CG-AM-000.A",
+    "optionE": "CG-AM-000.B",
+    "answer": "C",
+    "reference_text": [
+      "Description of efforts to manage products' end-of-life impacts | Discussion and Analysis | n/a | CG-AM-410a.3"
+    ],
+    "pages": [
+      "11"
+    ],
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "For the listed requirement on managing products' end-of-life impacts, what does a company in the Appliance Manufacturing industry need to do regarding extended producer responsibility (EPR) initiatives?",
+    "optionA": "Report on EPR initiatives, but not on voluntary measures",
+    "optionB": "Focus solely on product take-back programs",
+    "optionC": "Report on EPR initiatives only if they are profitable",
+    "optionD": "Companies in this industry do not need to report on managing products' end-of-life impacts",
+    "optionE": "Discuss participation in EPR initiatives, including voluntary or mandatory nature and performance measures",
+    "answer": "E",
+    "reference_text": [
+      "The entity shall discuss its participation in extended producer responsibility (EPR) initiatives, including the following aspects:",
+      "4.1    Whether the entity directly conducts product take-back, recovery, and recycling or if the entity supports infrastructure for product recovery and recycling through joint ventures, partnerships with retailers and others, or by funding research into recycling technologies",
+      "4.2    Whether the initiative is voluntary or mandatory (e.g., in order to maintain compliance with EU Directive 2012/19/EU on waste electrical and electronic equipment (WEEE) or the Japan home appliance recycling law)",
+      "4.3    Relevant performance measures or targets for the initiative such as the total amount of material recovered and the total amount of material recycled"
+    ],
+    "pages": [
+      "13",
+      "14"
+    ],
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the category of the 'Percentage of eligible products by revenue certified to an energy efficiency certification' metric in the Appliance Manufacturing industry, and how should this metric be calculated?",
+    "optionA": "Quantitative; Calculate as the revenue from certified products divided by total revenue from all products",
+    "optionB": "Quantitative; Calculate as the revenue from products meeting certification requirements divided by total revenue from eligible products for each certification",
+    "optionC": "Discussion and Analysis; Provide a narrative description of energy efficiency certifications obtained",
+    "optionD": "Qualitative; List all energy efficiency certifications achieved without calculating percentages",
+    "optionE": "Qualitative; List all energy efficiency certifications achieved with narrative descriptions",
+    "answer": "B",
+    "reference_text": [
+      "CG-AM-410a.1. Percentage of eligible products by revenue certified to the an energy efficiency certification",
+      "1 The entity shall disclose the percentage of its revenue from eligible products certified to an energy efficiency certification.",
+      "1.1 The entity shall calculate the percentage as the revenue from products meeting the requirements for the applicable certification divided by total revenue from products eligible for certification by each certification.",
+      "1.1.1 Eligible products are those in a product category for which certification exists, including but not limited to: heating and cooling product categories such as air purifiers, clothes dryers, clothes washers, dehumidifiers, dishwashers, freezers, refrigerators, air conditioning, boilers, ductless heating and cooling, furnaces, heat pumps, and ventilation fans."
+    ],
+    "pages": [
+      "12"
+    ],
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the code of the 'Percentage of eligible products certified to an Association of Home Appliance Manufacturers (AHAM) sustainability standard' metric in the Appliance Manufacturing industry, and how should this metric be disclosed?",
+    "optionA": "CG-AM-410a.1; Disclose the percentage of revenue from all products certified to any sustainability standard",
+    "optionB": "CG-AM-410a.3; Provide a narrative description of AHAM sustainability standards achieved",
+    "optionC": "CG-AM-410a.2; Disclose the percentage of revenue from eligible products certified to AHAM sustainability standards, calculated as certified product revenue divided by total eligible product revenue",
+    "optionD": "CG-AM-000.A; Report the number of units produced that are certified to AHAM sustainability standards",
+    "optionE": "CG-AM-000.C; Report the number of units produced that are certified to AHAM sustainability standards",
+    "answer": "C",
+    "reference_text": [
+      "CG-AM-410a.2. Percentage of eligible products certified to an Association of Home Appliance Manufacturers (AHAM) sustainability standard",
+      "1 The entity shall disclose the percentage of its revenue from eligible products certified to an Association of Home Appliance Manufacturers (AHAM) sustainability standard.",
+      "1.1 Eligible products are those addressed by the scope of an AHAM sustainability standard.",
+      "1.2 The entity shall calculate the percentage as the revenue from products certified to an AHAM sustainability standard divided by total revenue from products eligible for certification to an AHAM sustainability standard."
+    ],
+    "pages": [
+      "13"
+    ],
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "Can you tell me what topics are covered in the 'Product Lifecycle Environmental Impacts' section of the Appliance Manufacturing document and what are the key takeaways I need to know as a company writing my sustainability report in the Appliance Manufacturing industry?",
+    "optionA": "The topic covers energy efficiency certifications only; Key takeaway is to focus on obtaining energy star ratings for all products",
+    "optionB": "The topic covers AHAM sustainability standards only; Key takeaway is to certify all products to AHAM standards",
+    "optionC": "The topic covers energy efficiency, AHAM sustainability standards, and end-of-life impacts; Key takeaways include differentiating products through environmental impact, improving energy and water efficiency, and managing end-of-life disposal",
+    "optionD": "The topic covers production volumes only; Key takeaway is to report annual production numbers for small and major appliances",
+    "optionE": "The topic covers end-of-life impacts only; Key takeaway is to manage end-of-life disposal",
+    "answer": "C",
+    "reference_text": [
+      "# Product Lifecycle Environmental Impacts",
+      "## Topic Summary",
+      "Companies in the Appliance Manufacturing industry are constantly seeking to differentiate their products from those of their competitors. One key differentiating factor is the environmental impact of products over their lifecycle, which is often associated with the cost of using appliances. This issue involves a company's ability to design products with the entire lifecycle in mind, from creation and use to disposal. In particular, this covers energy and water efficiency in appliances, which account for a significant proportion of a home's energy and water use, as well as designing for and facilitating safe end-of-life disposal and recycling. Companies that prioritize designing and manufacturing products with improved environmental impacts are more likely to grow consumer demand and market share. Furthermore, companies that are able to minimize the environmental impacts of products are more likely to be better positioned to increased regulation related to areas such as extended producer responsibility."
+    ],
+    "pages": [
+      "12"
+    ],
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "For the listed 'Description of efforts to manage products' end-of-life impacts' requirement, what metric should a company in the Appliance Manufacturing industry use for extended producer responsibility (EPR) initiatives and how should this metric be disclosed?",
+    "optionA": "Quantitative metric measuring the percentage of products recycled; Disclose as a percentage of total products sold",
+    "optionB": "Financial metric reporting the cost of EPR initiatives; Disclose as a monetary value in the company's reporting currency",
+    "optionC": "Discussion and Analysis; Describe participation in EPR initiatives, including voluntary or mandatory nature, direct product take-back or support for recycling infrastructure, and relevant performance measures or targets",
+    "optionD": "Binary metric indicating presence or absence of EPR program; Disclose as 'Yes' or 'No' without further details",
+    "optionE": "Qualitative metric; listing the EPR initiatives the company is participating in",
+    "answer": "C",
+    "reference_text": [
+      "CG-AM-410a.3. Description of efforts to manage products' end-of-life impacts",
+      "4    The entity shall discuss its participation in extended producer responsibility (EPR) initiatives, including the following aspects:",
+      "4.1    Whether the entity directly conducts product take-back, recovery, and recycling or if the entity supports infrastructure for product recovery and recycling through joint ventures, partnerships with retailers and others, or by funding research into recycling technologies",
+      "4.2    Whether the initiative is voluntary or mandatory (e.g., in order to maintain compliance with EU Directive 2012/19/EU on waste electrical and electronic equipment (WEEE) or the Japan home appliance recycling law)",
+      "4.3    Relevant performance measures or targets for the initiative such as the total amount of material recovered and the total amount of material recycled"
+    ],
+    "pages": [
+      "13",
+      "14"
+    ],
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "On what page can I find details about the 'Wood Supply Chain Management' topic for the Building Products & Furnishings industry?",
+    "optionA": "Page 15",
+    "optionB": "Page 18",
+    "optionC": "Page 23",
+    "optionD": "Page 24",
+    "optionE": "Page 22",
+    "answer": "E",
+    "reference_text": [
+      "# Wood Supply Chain Management",
+      "## Topic Summary",
+      "The Building Products & Furnishings industry utilizes large amounts of wood sourced from forests worldwide. Unsustainable production and harvesting of timber can result in adverse environmental and social impacts, including biodiversity loss and harm to the livelihoods of forest-dependent communities."
+    ],
+    "pages": [
+      "22"
+    ],
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What is the unit of measure for the 'Annual production' activity metric in the Building Products & Furnishings industry (as listed in the relevant table)?",
+    "optionA": "Metric tons (t)",
+    "optionB": "Square meters (m\u00b2)",
+    "optionC": "Number of units, weight, and/or square feet",
+    "optionD": "Gigajoules (GJ)",
+    "optionE": "n/a",
+    "answer": "C",
+    "reference_text": [
+      "| ACTIVITY METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|------------------|----------|------------------|------|",
+      "| Annual production\u2074 | Quantitative | See note | CG-BF-000.A |",
+      "4 Note to CG-BF-000.A \u2013 Production shall be disclosed in typical units tracked by the entity such as number of units, weight, and/or square feet."
+    ],
+    "pages": [
+      "15"
+    ],
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "For the listed 'Energy Management in Manufacturing' requirement, what metric should a company in the Building Products & Furnishings industry use for reporting renewable energy consumption?",
+    "optionA": "Square meters (m2)",
+    "optionB": "Gigajoules (GJ)",
+    "optionC": "Kilowatt hours (kWh)",
+    "optionD": "Metric tons of CO2 equivalent",
+    "optionE": "Percentage of total energy consumed",
+    "answer": "E",
+    "reference_text": [
+      "3. The entity shall disclose (3) the percentage of energy it consumed that is renewable energy.",
+      "3.1 Renewable energy is defined as energy from sources that are replenished at a rate greater than or equal to their rate of depletion, such as geothermal, wind, solar, hydro, and biomass.",
+      "3.2 The percentage shall be calculated as renewable energy consumption divided by total energy consumption."
+    ],
+    "pages": [
+      "16",
+      "17"
+    ],
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What is the code of the 'Total weight of wood fiber materials purchased' metric in the Building Products & Furnishings industry (as listed in the relevant table)?",
+    "optionA": "CG-BF-130a.1",
+    "optionB": "CG-BF-410a.1",
+    "optionC": "CG-BF-410a.2",
+    "optionD": "CG-BF-430a.1",
+    "optionE": "CG-BF-430a.2",
+    "answer": "D",
+    "reference_text": [
+      "| Wood Supply Chain Management | (1) Total weight of wood fiber materials purchased, (2) percentage from third-party certified forestlands, (3) percentage by standard, and (4) percentage certified to other wood fiber standards, (5) percentage by standard\u00b3 | Quantitative | Metric tons (t), Percentage (%) by weight | CG-BF-430a.1 |"
+    ],
+    "pages": [
+      "15"
+    ],
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the category of the 'Annual production' activity metric in the Building Products & Furnishings industry and how should this metric be disclosed?",
+    "optionA": "Quantitative; disclosed in typical units tracked by the entity such as number of units, weight, and/or square feet",
+    "optionB": "Qualitative; disclosed as a narrative description of production processes",
+    "optionC": "Quantitative; disclosed only in metric tons",
+    "optionD": "Qualitative; disclosed as a percentage of total industry production",
+    "optionE": "Quantitative; disclosed as a percentage of total industry production",
+    "answer": "A",
+    "reference_text": [
+      "Annual production\u2074 | Quantitative | See note | CG-BF-000.A",
+      "4 Note to CG-BF-000.A \u2013 Production shall be disclosed in typical units tracked by the entity such as number of units, weight, and/or square feet."
+    ],
+    "pages": [
+      "15"
+    ],
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "Can you provide the unit of measure for all the metrics for the 'Energy Management in Manufacturing' topic in the Building Products & Furnishings industry and how should these metrics be calculated?",
+    "optionA": "Gigajoules (GJ) and Percentage (%); calculated based on total energy consumed and percentage of renewable energy",
+    "optionB": "Kilowatt-hours (kWh) and Percentage (%); calculated based on electricity consumption",
+    "optionC": "Metric tons of CO2 equivalent and Percentage (%); calculated based on emissions from energy consumption",
+    "optionD": "British Thermal Units (BTU) and Ratio; calculated based on energy intensity per unit of production",
+    "optionE": "Metric tons of CO2 and British Thermal Units (BTU), calculated based on electricity consumption",
+    "answer": "A",
+    "reference_text": [
+      "Energy Management in Manufacturing | (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | CG-BF-130a.1",
+      "1. The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ).",
+      "2. The entity shall disclose (2) the percentage of energy it consumed that was supplied from grid electricity.",
+      "3. The entity shall disclose (3) the percentage of energy it consumed that is renewable energy."
+    ],
+    "pages": [
+      "16",
+      "17"
+    ],
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the code of the 'Weight of end-of-life material recovered' metric in the Building Products & Furnishings industry and how should this metric be disclosed?",
+    "optionA": "CG-BF-410a.1; disclosed as a qualitative description of recovery efforts",
+    "optionB": "CG-BF-410a.2; disclosed as total weight in metric tons and percentage recycled",
+    "optionC": "CG-BF-000.A; disclosed in typical units tracked by the entity",
+    "optionD": "CG-BF-130a.1; disclosed as total energy consumed in the recovery process",
+    "optionE": "CG-BF-130a.3; disclosed as total energy consumed in the recovery process",
+    "answer": "B",
+    "reference_text": [
+      "Product Lifecycle Environmental Impacts | (1) Weight of end-of-life material recovered, (2) percentage of recovered materials recycled | Quantitative | Metric tons (t), Percentage (%) by weight | CG-BF-410a.2",
+      "1 The entity shall disclose the weight, in metric tons, of materials recovered, including those recovered through recycling services, product take-back programs, and refurbishment services.",
+      "2 The entity shall disclose the percentage of end-of-life materials recovered that were recycled or remanufactured."
+    ],
+    "pages": [
+      "19",
+      "20"
+    ],
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "Can you tell me what topics are covered in the 'Wood Supply Chain Management' section of the Building Products & Furnishings document and what are the key takeaways I need to know as a company writing my sustainability report in this industry?",
+    "optionA": "Topic: Sustainable wood sourcing; Key takeaways: Disclose total weight of wood fiber purchased, percentages from certified forestlands and other wood fiber standards",
+    "optionB": "Topic: Deforestation prevention; Key takeaways: Report on reforestation efforts and carbon sequestration",
+    "optionC": "Topic: Timber production efficiency; Key takeaways: Disclose productivity metrics and waste reduction in wood processing",
+    "optionD": "Topic: Wood product innovation; Key takeaways: Report on development of new wood-based materials and their environmental benefits",
+    "optionE": "Topic: Tree Diversity initiatives; Key takeaways: Report on initiatives to maintain tree diversity",
+    "answer": "A",
+    "reference_text": [
+      "Wood Supply Chain Management",
+      "Topic Summary",
+      "The Building Products & Furnishings industry utilizes large amounts of wood sourced from forests worldwide. Unsustainable production and harvesting of timber can result in adverse environmental and social impacts, including biodiversity loss and harm to the livelihoods of forest-dependent communities.",
+      "Metrics",
+      "CG-BF-430a.1. (1) Total weight of wood fiber materials purchased; (2) percentage from third-party certified forestlands, (3) percentage by standard, and (4) percentage certified to other wood fiber standards, (5) percentage by standard"
+    ],
+    "pages": [
+      "22",
+      "23"
+    ],
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What is the code of the 'Total greenhouse gas (GHG) footprint of product shipments' metric in the E-Commerce industry (as listed in the relevant table)?",
+    "optionA": "CG-EC-410a.1",
+    "optionB": "CG-EC-410a.2",
+    "optionC": "CG-EC-130a.1",
+    "optionD": "CG-EC-130a.2",
+    "optionE": "CG-EC-130a.B",
+    "answer": "A",
+    "reference_text": [
+      "| Product Packaging & Distribution | Total greenhouse gas (GHG) footprint of product shipments | Quantitative | Metric tons (t) CO\u2082-e | CG-EC-410a.1 |"
+    ],
+    "pages": [
+      "25"
+    ],
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "Can you provide for me the unit of measure I should use for the 'Data processing capacity, percentage outsourced' metric in the E-Commerce industry?",
+    "optionA": "Number",
+    "optionB": "Percentage (%)",
+    "optionC": "Gigajoules (GJ)",
+    "optionD": "units of measure typically tracked",
+    "optionE": "n/a",
+    "answer": "D",
+    "reference_text": [
+      "| Data processing capacity, percentage outsourced \u2077 | Quantitative | See note | CG-EC-000.B |"
+    ],
+    "pages": [
+      "25"
+    ],
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "For the listed 'Total energy consumed' requirement, what does a company in the E-Commerce industry need to do?",
+    "optionA": "Disclose the total amount of energy consumed as an aggregate figure, in kilowatt-hours (kWh)",
+    "optionB": "Disclose the total amount of energy consumed as an aggregate figure, in gigajoules (GJ)",
+    "optionC": "Disclose the total amount of energy consumed as separate figures for each energy source",
+    "optionD": "Disclose the total amount of energy consumed as a percentage of renewable energy",
+    "optionE": "Disclose the total amount of energy consumed as a percentages for each energy source",
+    "answer": "B",
+    "reference_text": [
+      "1. The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ)."
+    ],
+    "pages": [
+      "27"
+    ],
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What topics are covered in the 'Hardware Infrastructure Energy & Water Management' section of the E-Commerce document?",
+    "optionA": "Energy consumption, water consumption, and data center efficiency",
+    "optionB": "Product packaging, distribution, and carbon footprint",
+    "optionC": "User activity metrics and data processing capacity",
+    "optionD": "Environmental considerations for strategic planning",
+    "optionE": "Data processing capacity, percentage outsourced",
+    "answer": "A",
+    "reference_text": [
+      "A large part of the energy consumed by the E-Commerce industry is used to power critical hardware and IT infrastructure in data centers. Data centers need to be powered continuously, and disruptions to the energy supply can have a material impact on operations, depending on the magnitude and timing of the disruption. Companies also face a tradeoff when it comes to energy and water consumption for their data center cooling needs: Cooling data centers with water instead of chillers is a means of improving energy efficiency, but it can lead to dependence on significant local water resources."
+    ],
+    "pages": [
+      "27"
+    ],
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the category of the 'Total greenhouse gas (GHG) footprint of product shipments' metric in the E-Commerce industry, and how should this metric be calculated?",
+    "optionA": "Quantitative; Calculate using the well-to-wheel methodology for all outbound shipments",
+    "optionB": "Qualitative; Estimate based on average shipping distances and vehicle types",
+    "optionC": "Quantitative; Calculate using the tank-to-wheels methodology for all outbound shipments according to EN 16258:2012",
+    "optionD": "Discussion and Analysis; Provide a narrative description of GHG emissions from shipping",
+    "optionE": "Qualitative; Provide a list of GHG emissions from shipping ",
+    "answer": "C",
+    "reference_text": [
+      "CG-EC-410a.1. Total greenhouse gas (GHG) footprint of product shipments",
+      "1. The entity shall disclose the complete tank-to-wheels greenhouse gas (GHG) footprint, in metric tons of CO\u2082-e, associated with outbound shipment of the entity's products.",
+      "1.2 The entity shall calculate its disclosure according to EN 16258:2012, Methodology for calculation and declaration of energy consumption and GHG emissions of transport services (freight and passengers).",
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "| Product Packaging & Distribution | Total greenhouse gas (GHG) footprint of product shipments | Quantitative | Metric tons (t) CO\u2082-e | CG-EC-410a.1 |"
+    ],
+    "pages": [
+      "31",
+      "32"
+    ],
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "Can you provide the unit of measure for all the metrics for the 'Hardware Infrastructure Energy & Water Management' topic in the E-Commerce industry and how should these metrics be calculated?",
+    "optionA": "All metrics use percentage (%); Calculate based on industry averages",
+    "optionB": "Gigajoules (GJ) and Thousand cubic meters (m\u00b3); Calculate total consumption and percentages as specified in the guidelines",
+    "optionC": "Kilowatt-hours (kWh) and Liters (L); Calculate based on utility bills",
+    "optionD": "Percentage (%) only",
+    "optionE": "No specific unit of measure; Provide qualitative descriptions only",
+    "answer": "B",
+    "reference_text": [
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "| Hardware Infrastructure Energy & Water Management | (1) Total energy consumed, (2) percent- age grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | CG-EC-130a.1 |",
+      "| Hardware Infrastructure Energy & Water Management | (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percent- age (%) | CG-EC-130a.2 |",
+      "1. The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ).",
+      "2. The entity shall disclose (2) the percentage of energy it consumed that was supplied from grid electricity.",
+      "3. The entity shall disclose (3) the percentage of energy it consumed that is renewable energy.",
+      "1. The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from all sources.",
+      "3. The entity shall disclose the amount of water, in thousands of cubic meters, that was consumed in its operations."
+    ],
+    "pages": [
+      "25",
+      "27",
+      "28",
+      "29"
+    ],
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the code of the 'Discussion of strategies to reduce the environmental impact of product delivery' metric in the E-Commerce industry and how should this metric be disclosed?",
+    "optionA": "CG-EC-410a.1; Disclose quantitative data on emissions reduction targets",
+    "optionB": "CG-EC-410a.2; Disclose quantitative data on emissions reduction targets",
+    "optionC": "CG-EC-410a.2; Discuss strategies for reducing environmental impact of fulfillment and delivery, including packaging and transportation",
+    "optionD": "CG-EC-130a.3; Provide a detailed analysis of carbon offsetting initiatives",
+    "optionE": "CG-EC-000.C; Report on the number of shipments and their average distance",
+    "answer": "C",
+    "reference_text": [
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "| Product Packaging & Distribution | Discussion of strategies to reduce the environmental impact of product delivery | Discussion and Analysis | n/a | CG-EC-410a.2 |",
+      "CG-EC-410a.2. Discussion of strategies to reduce the environmental impact of product delivery",
+      "1. The entity shall discuss its strategies to reduce the environmental impact of fulfillment and delivery of its products, including impacts associated with packaging materials and those associated with product transportation.",
+      "2. Relevant strategies to discuss include, but are not limited to:",
+      "2.1 Discussion of logistics selection, mode selection, and management (e.g., rail transport vs. air freight transport) and/or operation for route efficiency",
+      "2.2 Discussion of packaging choices, including, but not limited to, decisions to utilize recycled or renewable (e.g., bio-based plastic) packaging material, decisions to optimize the amount of packaging materials used (e.g., source reduction), use of refillable or reusable packaging, and design for efficient shipping and transport",
+      "2.3 Discussion of fuel choices and vehicle choices for fleets owned and/or operated by the entity, such as decisions to use renewable and low-emission fuels and low-emission vehicles"
+    ],
+    "pages": [
+      "25",
+      "32"
+    ],
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "Can you tell me what topics are covered in the 'Hardware Infrastructure Energy & Water Management' section of the E-Commerce document and what are the key takeaways I need to know as a company writing my sustainability report in the E-Commerce industry?",
+    "optionA": "Only energy consumption is covered; Key takeaway is to report total energy used",
+    "optionB": "Energy and water consumption are covered; Key takeaways include reporting total energy and water usage, percentages of grid and renewable electricity, and water stress considerations",
+    "optionC": "Only water consumption is covered; Key takeaway is to report water usage in data centers",
+    "optionD": "Carbon emissions are the main focus; Key takeaway is to report greenhouse gas emissions from data centers",
+    "optionE": "Water consumption is the main focus; Key takeaway is to report water stress considerations",
+    "answer": "B",
+    "reference_text": [
+      "# Hardware Infrastructure Energy & Water Management",
+      "## Topic Summary",
+      "A large part of the energy consumed by the E-Commerce industry is used to power critical hardware and IT infrastructure in data centers. Data centers need to be powered continuously, and disruptions to the energy supply can have a material impact on operations, depending on the magnitude and timing of the disruption. Companies also face a tradeoff when it comes to energy and water consumption for their data center cooling needs: Cooling data centers with water instead of chillers is a means of improving energy efficiency, but it can lead to dependence on significant local water resources. Companies that effectively manage this issue may benefit from cost savings and minimize reputational risks, as there is growing concern over energy and water use.",
+      "## Metrics",
+      "CG-EC-130a.1. (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable",
+      "CG-EC-130a.2. (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress",
+      "CG-EC-130a.3. Discussion of the integration of environmental considerations into strategic planning for data center needs"
+    ],
+    "pages": [
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "On what page can I find details about the Industry Description for the Household & Personal Products industry?",
+    "optionA": "Page 32",
+    "optionB": "Page 33",
+    "optionC": "Page 34",
+    "optionD": "Page 35",
+    "optionE": "Page 36",
+    "answer": "B",
+    "reference_text": [
+      "The Household & Personal Products industry comprises companies that manufacture a wide range of goods for personal and commercial consumption, including cosmetics, household and industrial cleaning supplies, soaps and detergents, sanitary paper products, household batteries, razors, and kitchen utensils."
+    ],
+    "pages": [
+      "33"
+    ],
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What is the code of the 'Amount of palm oil sourced, percentage certified through the Roundtable on Sustainable Palm Oil (RSPO) supply chains' metric in the Household & Personal Products industry (as listed in the relevant table)?",
+    "optionA": "CG-HP-140a.1",
+    "optionB": "CG-HP-140a.2",
+    "optionC": "CG-HP-430b.1",
+    "optionD": "CG-HP-000.A",
+    "optionE": "CG-HP-430a.1",
+    "answer": "E",
+    "reference_text": [
+      "| Environmental & Social Impacts of Palm Oil Supply Chain | Amount of palm oil sourced, percentage certified through the Roundtable on Sustainable Palm Oil (RSPO) supply chains as (a) Identity Preserved, (b) Segregated, (c) Mass Balance, or (d) Book & Claim | Quantitative | Metric tons (t), Percentage (%) | CG-HP-430a.1 |"
+    ],
+    "pages": [
+      "33"
+    ],
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "For the listed water management requirement, what does a company in the Household & Personal Products industry need to do regarding water withdrawn in locations with High or Extremely High Baseline Water Stress?",
+    "optionA": "Disclose the amount of water withdrawn as a percentage of total revenue",
+    "optionB": "Disclose water withdrawn as a percentage of the total water withdrawn",
+    "optionC": "Disclose water withdrawn as an absolute value in cubic meters",
+    "optionD": "Disclose water withdrawn as a percentage of total production volume",
+    "optionE": "Disclose the cost of the water withdrawn",
+    "answer": "B",
+    "reference_text": [
+      "5 The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn."
+    ],
+    "pages": [
+      "35"
+    ],
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What is the category of the 'Number of manufacturing facilities' metric in the Household & Personal Products industry?",
+    "optionA": "Discussion and Analysis",
+    "optionB": "Qualitative",
+    "optionC": "Descriptive",
+    "optionD": "Number",
+    "optionE": "Quantitative",
+    "answer": "E",
+    "reference_text": [
+      "| Number of manufacturing facilities | Quantitative | Number | CG-HP-000.B |"
+    ],
+    "pages": [
+      "33"
+    ],
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "Can you provide the unit of measure for all the metrics for the Water Management topic in the Household & Personal Products industry and explain how these metrics should be calculated?",
+    "optionA": "The unit of measure is Thousand cubic meters (m\u00b3) and Percentage (%). Total water withdrawn and consumed should be measured, with percentages calculated for regions with High or Extremely High Baseline Water Stress.",
+    "optionB": "The unit of measure is Liters (L) and Percentage (%). Only total water consumed needs to be measured, with percentages calculated for all regions regardless of water stress.",
+    "optionC": "The unit of measure is Gallons and Percentage (%). Total water withdrawn and consumed should be measured, but only for regions with Extremely High Baseline Water Stress.",
+    "optionD": "The unit of measure is Thousand cubic meters (m\u00b3) and Ratio. Total water withdrawn and consumed should be measured, with ratios calculated for regions with Low or Medium Baseline Water Stress.",
+    "optionE": "n/a",
+    "answer": "A",
+    "reference_text": [
+      "CG-HP-140a.1. (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress",
+      "Quantitative | Thousand cubic meters (m\u00b3), Percentage (%) | CG-HP-140a.1",
+      "1 The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from all sources.",
+      "3 The entity shall disclose the amount of water, in thousands of cubic meters, that was consumed in its operations.",
+      "5 The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn.",
+      "6 The entity shall disclose its water consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water consumed."
+    ],
+    "pages": [
+      "34",
+      "35"
+    ],
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the category of the 'Description of water management risks and discussion of strategies and practices to mitigate those risks' metric in the Household & Personal Products industry, and how should this metric be disclosed?",
+    "optionA": "The category is Quantitative. The metric should be disclosed as a numerical value representing the number of identified risks and mitigation strategies.",
+    "optionB": "The category is Discussion and Analysis. The metric should be disclosed through a detailed narrative describing water management risks and mitigation strategies, including short-term and long-term plans.",
+    "optionC": "The category is Binary. The metric should be disclosed as a yes/no response to whether water management risks exist and if mitigation strategies are in place.",
+    "optionD": "The category is Comparative. The metric should be disclosed by comparing the company's water management risks and strategies to industry benchmarks.",
+    "optionE": "The category is Qualitative. The metric should be disclosed through a detailed narrative describing water management risks and mitigation strategies, including short-term and long-term plans.",
+    "answer": "B",
+    "reference_text": [
+      "CG-HP-140a.2. Description of water management risks and discussion of strategies and practices to mitigate those risks",
+      "Discussion and Analysis | n/a | CG-HP-140a.2",
+      "1 The entity shall describe its water management risks associated with water withdrawals, water consumption, and discharge of water and/or wastewater.",
+      "4 The entity shall discuss its short-term and long-term strategies or plan to mitigate water management risks, including, but not limited to:",
+      "4.1 The scope of its strategy, plans, goals and/or targets, such as how they relate to different business units, geographies, or water-consuming operational processes."
+    ],
+    "pages": [
+      "34",
+      "35",
+      "36"
+    ],
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the code of the palm oil sourcing metric in the Household & Personal Products industry, and how should this metric be calculated?",
+    "optionA": "The code is CG-HP-430a.1. The metric should be calculated as the total amount of palm oil sourced, with no consideration for RSPO certification.",
+    "optionB": "The code is CG-HP-430b.2. The metric should be calculated as the percentage of RSPO-certified palm oil, regardless of the supply chain model.",
+    "optionC": "The code is CG-HP-430a.1. The metric should be calculated as the amount of palm oil sourced and the percentage certified through RSPO supply chains, broken down by four specific models.",
+    "optionD": "The code is CG-HP-430c.3. The metric should be calculated as the ratio of certified to non-certified palm oil, without specifying RSPO supply chain models.",
+    "optionE": "The code is CG-HP-430c.1. The metric should be calculated as the amount of palm oil sourced and the percentage certified through RSPO supply chains, broken down by four specific models.",
+    "answer": "C",
+    "reference_text": [
+      "CG-HP-430a.1. Amount of palm oil sourced, percentage certified through the Roundtable on Sustainable Palm Oil (RSPO) supply chains as (a) Identity Preserved, (b) Segregated, (c) Mass Balance, or (d) Book & Claim",
+      "1 The entity shall disclose the amount, in metric tons, of palm oil that it sourced during the reporting period.",
+      "2 The entity shall disclose the percentage, on a weight basis, of palm oil it sourced that has been third-party certified to bear a Roundtable on Sustainable Palm Oil (RSPO) claim for each of the RSPO supply chain models: (a) Identity Preserved (IP), (b) Segregated (SG), (c) Mass Balance (MB), or (d) Book & Claim (B&C)."
+    ],
+    "pages": [
+      "38"
+    ],
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "Can you tell me what topics are covered in the Environmental & Social Impacts of Palm Oil Supply Chain section of the Household & Personal Products document and what are the key takeaways I need to know as a company writing my sustainability report in this industry?",
+    "optionA": "The section covers palm oil production methods. Key takeaways are to focus on increasing palm oil usage and maximizing yield without considering environmental impacts.",
+    "optionB": "The section covers palm oil alternatives. Key takeaways are to completely eliminate palm oil from supply chains and replace it with synthetic substitutes.",
+    "optionC": "The section covers palm oil sourcing and certification. Key takeaways are to disclose the amount of palm oil sourced, ensure RSPO certification, and consider the environmental and social risks associated with palm oil in the supply chain.",
+    "optionD": "The section covers palm oil transportation. Key takeaways are to optimize logistics for palm oil delivery and reduce transportation-related emissions.",
+    "optionE": "The section covers palm oil sourcing only. Key takeaways are to disclose the source of the palm oil and the amount sourced.",
+    "answer": "C",
+    "reference_text": [
+      "Palm oil harvesting in specific regions of the world can contribute to deforestation, GHG emissions, and other environmental and social problems. If not sourced responsibly, palm oil materials contribute to environmental and social externalities that can present reputational and regulatory risks for companies.",
+      "Companies face pressure to track and responsibly source palm oil. Additionally, they face pressure to ensure minimum standards for working conditions in the supply chain, as the production of palm oil is often associated with labor issues.",
+      "CG-HP-430a.1. Amount of palm oil sourced, percentage certified through the Roundtable on Sustainable Palm Oil (RSPO) supply chains as (a) Identity Preserved, (b) Segregated, (c) Mass Balance, or (d) Book & Claim",
+      "The entity shall disclose the amount, in metric tons, of palm oil that it sourced during the reporting period.",
+      "The entity shall disclose the percentage, on a weight basis, of palm oil it sourced that has been third-party certified to bear a Roundtable on Sustainable Palm Oil (RSPO) claim for each of the RSPO supply chain models"
+    ],
+    "pages": [
+      "38"
+    ],
+    "industries": [
+      "b5-household-and-personal-products"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What is the unit of measure for the 'Total area of: (1) retail space and (2) distribution centers' activity metric in the Multiline and Specialty Retailers & Distributors industry (as listed in the relevant table)?",
+    "optionA": "Square meters (m\u00b2)",
+    "optionB": "Square feet (ft\u00b2)",
+    "optionC": "Hectares (ha)",
+    "optionD": "Acres (ac)",
+    "optionE": "Meters",
+    "answer": "A",
+    "reference_text": [
+      "Total area of: (1) retail space and (2) distribution centers | Quantitative | Square meters (m\u00b2) | CG-MR-000.B"
+    ],
+    "pages": [
+      "39"
+    ],
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "For the listed energy consumption requirement, what does a company in the Multiline and Specialty Retailers & Distributors industry need to do when calculating energy consumption from fuels and biofuels?",
+    "optionA": "Use lower heating values (LHV)",
+    "optionB": "Use heating values (HV)",
+    "optionC": "Use net calorific values (NCV)",
+    "optionD": "Use thermal efficiency values (TEV)",
+    "optionE": "Use higher heating values (HHV)",
+    "answer": "E",
+    "reference_text": [
+      "In calculating energy consumption from fuels and biofuels, the entity shall use higher heating values (HHV), also known as gross calorific values (GCV), which are directly measured or taken from the Intergovernmental Panel on Climate Change (IPCC)."
+    ],
+    "pages": [
+      "40"
+    ],
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What is the code of the 'Total energy consumed, percentage grid electricity, percentage renewable' metric in the Multiline and Specialty Retailers & Distributors industry?",
+    "optionA": "CG-MR-130a.2",
+    "optionB": "CG-MR-000.A",
+    "optionC": "CG-MR-130b.1",
+    "optionD": "CG-MR-000.B",
+    "optionE": "CG-MR-130a.1",
+    "answer": "E",
+    "reference_text": [
+      "Energy Management in Retail & Distribution | (1) Total energy consumed, (2) percent\u00adage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent\u00adage (%) | CG-MR-130a.1"
+    ],
+    "pages": [
+      "39"
+    ],
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "For the listed renewable energy requirement, what is the scope of renewable energy from biomass sources limited to in the Multiline and Specialty Retailers & Distributors industry?",
+    "optionA": "Only energy from biomass sources certified by the Forest Stewardship Council",
+    "optionB": "Energy from any biomass source, regardless of certification",
+    "optionC": "Energy from biomass sources certified to any third-party standard or eligible for state renewable portfolio standards",
+    "optionD": "Only energy from biomass sources eligible for the Green-e Framework for Renewable Energy Certification",
+    "optionE": "Only energy from biomass sources certified to a third-party standard",
+    "answer": "C",
+    "reference_text": [
+      "Energy from biomass sources is limited to materials certified to a third-party standard (e.g., Forest Stewardship Council, Sustainable Forest Initiative, Programme for the Endorsement of Forest Certification, or American Tree Farm System), materials considered eligible sources of supply according to the Green-e Framework for Renewable Energy Certification, Version 1.0 (2017) or Green-e regional standards, and/or materials that are eligible for an applicable state renewable portfolio standard."
+    ],
+    "pages": [
+      "41"
+    ],
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the code for the 'Energy Management in Retail & Distribution' metric in the Multiline and Specialty Retailers & Distributors industry, and how should the renewable energy percentage be calculated for this metric?",
+    "optionA": "The code is CG-MR-130a.1, and the renewable energy percentage should be calculated as renewable energy consumption divided by total energy consumption.",
+    "optionB": "The code is CG-MR-000.A, and the renewable energy percentage should be calculated as renewable energy production divided by total energy consumption.",
+    "optionC": "The code is CG-MR-130a.1, and the renewable energy percentage should be calculated as renewable energy production divided by total energy production.",
+    "optionD": "The code is CG-MR-000.B, and the renewable energy percentage should be calculated as renewable energy consumption divided by grid electricity consumption.",
+    "optionE": "The code is CG-MR-000.B, and the renewable energy percentage should be calculated as renewable energy consumption divided by total energy consumption.",
+    "answer": "A",
+    "reference_text": [
+      "CG-MR-130a.1. (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable",
+      "3.2    The percentage shall be calculated as renewable energy consumption divided by total energy consumption."
+    ],
+    "pages": [
+      "39",
+      "40",
+      "41"
+    ],
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the unit of measure for the 'Total area of: (1) retail space and (2) distribution centers' activity metric in the Multiline and Specialty Retailers & Distributors industry, and how should the scope of energy consumption be defined for the 'Energy Management in Retail & Distribution' topic?",
+    "optionA": "The unit of measure is square meters (m\u00b2), and the scope of energy consumption includes only energy directly consumed by the entity during the reporting period.",
+    "optionB": "The unit of measure is square feet (ft\u00b2), and the scope of energy consumption includes only energy directly consumed by the entity during the reporting period.",
+    "optionC": "The unit of measure is square meters (m\u00b2), and the scope of energy consumption includes all energy consumed by the entity and its suppliers during the reporting period.",
+    "optionD": "The unit of measure is acres, and the scope of energy consumption includes only energy produced by the entity itself during the reporting period.",
+    "optionE": "The unit of measure is square feet (ft\u00b2), and the scope of energy consumption includes energy from all sources, including energy purchased from sources external to the entity and energy produced by the entity itself.",
+    "answer": "A",
+    "reference_text": [
+      "Total area of: (1) retail space and (2) distribution centers | Quantitative | Square meters (m\u00b2) | CG-MR-000.B",
+      "1.2    The scope of energy consumption includes only energy directly consumed by the entity during the reporting period."
+    ],
+    "pages": [
+      "39",
+      "40"
+    ],
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the category of the 'Total energy consumed' metric in the Multiline and Specialty Retailers & Distributors industry, and how should the entity calculate energy consumption from fuels and biofuels?",
+    "optionA": "The category is Qualitative, and the entity should use lower heating values (LHV) to calculate energy consumption from fuels and biofuels.",
+    "optionB": "The category is Quantitative, and the entity should use higher heating values (HHV), also known as gross calorific values (GCV), to calculate energy consumption from fuels and biofuels.",
+    "optionC": "The category is Quantitative, and the entity should use net calorific values (NCV) to calculate energy consumption from fuels and biofuels.",
+    "optionD": "The category is Descriptive, and the entity should use average heating values (AHV) to calculate energy consumption from fuels and biofuels.",
+    "optionE": "The category is Number, and the entity should use higher heating values (HHV), also known as gross calorific values (GCV), to calculate energy consumption from fuels and biofuels.",
+    "answer": "B",
+    "reference_text": [
+      "Energy Management in Retail & Distribution | (1) Total energy consumed, (2) percent\u00adage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent\u00adage (%) | CG-MR-130a.1",
+      "1.3    In calculating energy consumption from fuels and biofuels, the entity shall use higher heating values (HHV), also known as gross calorific values (GCV), which are directly measured or taken from the Intergovernmental Panel on Climate Change (IPCC)."
+    ],
+    "pages": [
+      "39",
+      "40"
+    ],
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the scope of renewable energy for the 'Energy Management in Retail & Distribution' topic in the Multiline and Specialty Retailers & Distributors industry, and how should a company handle renewable electricity generated on-site to claim it as renewable energy?",
+    "optionA": "The scope includes all renewable energy sources, and for on-site generation, the company must sell the RECs and GOs to claim it as renewable energy.",
+    "optionB": "The scope excludes biomass, and for on-site generation, the company must retain and retire the RECs and GOs on behalf of the entity to claim it as renewable energy.",
+    "optionC": "The scope includes geothermal, wind, solar, hydro, and biomass, and for on-site generation, the company must retain and retire or cancel the RECs and GOs on behalf of the entity to claim it as renewable energy.",
+    "optionD": "The scope only includes solar and wind energy, and for on-site generation, the company can claim it as renewable energy without any action on RECs and GOs.",
+    "optionE": "The scope includes solar and wind energy, and for on-site generation, the company must sell the RECs and GOs to claim it as renewable energy.",
+    "answer": "C",
+    "reference_text": [
+      "3.1    Renewable energy is defined as energy from sources that are replenished at a rate greater than or equal to their rate of depletion, such as geothermal, wind, solar, hydro, and biomass.",
+      "3.3.1 For any renewable electricity generated on-site, any RECs and GOs must be retained (i.e., not sold) and retired or cancelled on behalf of the entity in order for the entity to claim them as renewable energy."
+    ],
+    "pages": [
+      "40",
+      "41"
+    ],
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What is the code for the metric 'Production of thermal coal' in the Coal Operations industry?",
+    "optionA": "EM-CO-000.A",
+    "optionB": "EM-CO-000.B",
+    "optionC": "EM-CO-110a.1",
+    "optionD": "EM-CO-140a.1",
+    "optionE": "EM-CO-140b.1",
+    "answer": "A. EM-CO-000.A",
+    "reference_text": [
+      "Production of thermal coal | Quantitative | Million metric tons (Mt) | EM-CO-000.A"
+    ],
+    "pages": [
+      "42"
+    ],
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What is the unit of measure for the 'Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations' metric in the Coal Operations industry (as listed in the relevant table)?",
+    "optionA": "Metric tons (t) CO\u2082-e",
+    "optionB": "Percentage (%)",
+    "optionC": "Metric tons (t) CO\u2082-e, Percentage (%)",
+    "optionD": "Million metric tons (Mt)",
+    "optionE": "n/a",
+    "answer": "C. Metric tons (t) CO\u2082-e, Percentage (%)",
+    "reference_text": [
+      "Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%) | EM-CO-110a.1"
+    ],
+    "pages": [
+      "43"
+    ],
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "On what page can I find details about the 'Water Management' topic for the Coal Operations industry?",
+    "optionA": "Page 43",
+    "optionB": "Page 45",
+    "optionC": "Page 44",
+    "optionD": "Page 49",
+    "optionE": "Page 47",
+    "answer": "E. Page 47",
+    "reference_text": [
+      "# Water Management"
+    ],
+    "pages": [
+      "47"
+    ],
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "For the listed water management requirement, what does a company in the Coal Operations industry need to do regarding water withdrawn in locations with High or Extremely High Baseline Water Stress?",
+    "optionA": "Disclose the total amount of water withdrawn",
+    "optionB": "Disclose the percentage of water recycled",
+    "optionC": "Disclose its water recycled as a percentage of the total water withdrawn",
+    "optionD": "Disclose the number of incidents of non-compliance",
+    "optionE": "Disclose its water withdrawn as a percentage of the total water withdrawn",
+    "answer": "E. Disclose its water withdrawn as a percentage of the total water withdrawn",
+    "reference_text": [
+      "The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn."
+    ],
+    "pages": [
+      "47"
+    ],
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What formula is used to calculate the EM-CO-420a.2 metric 'Estimated carbon dioxide emissions embedded in proven coal reserves' in the Coal Operations industry?",
+    "optionA": "E = R \u00d7 V \u00d7 C, where: E are the potential emissions in kilograms of carbon dioxide (kg CO2); R are the proven reserves in gigagrams (Gg); V is the net calorific value in terajoules per gigagram (TJ/Gg); and C is the effective carbon dioxide emission factor in kilograms CO2 per terajoule (kg/TJ).",
+    "optionB": "There is no formula provided for calculating this metric.",
+    "optionC": "The formula uses engineering estimates based on the weight of coal reserves and default carbon content values from the IPCC Guidelines.",
+    "optionD": "The formula is not explicitly stated but uses factors like proven reserves, calorific value, and emission factors from established sources.",
+    "optionE": "No formula is needed to calculate this metric, it is based on the company's own internal data and assumptions.",
+    "answer": "A",
+    "reference_text": [
+      "Estimated potential carbon dioxide emissions from proven coal reserves shall be calculated according to the following formula, derived from Meinshausen et al: E = R \u00d7 V \u00d7 C, where: E are the potential emissions in kilograms of carbon dioxide (kg CO2); R are the proven reserves in gigagrams (Gg); V is the net calorific value in terajoules per gigagram (TJ/Gg); and C is the effective carbon dioxide emission factor in kilograms CO2 per terajoule (kg/TJ)."
+    ],
+    "pages": [
+      "51"
+    ],
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the code of the metric related to water quality incidents in the Coal Operations industry, and how should this metric be disclosed?",
+    "optionA": "The code is EM-CO-140a.1, and it should be disclosed as the total number of non-compliance incidents, including only those resulting in formal enforcement actions.",
+    "optionB": "The code is EM-CO-140a.2, and it should be disclosed as the total number of non-compliance incidents, regardless of enforcement actions.",
+    "optionC": "The code is EM-CO-140a.2, and it should be disclosed as the total number of non-compliance incidents that resulted in formal enforcement actions.",
+    "optionD": "The code is EM-CO-140b.2, and it should be disclosed as the total number of non-compliance incidents that resulted in formal enforcement actions.",
+    "optionE": "The code is EM-CO-140a.1, and it should be disclosed as the total number of non-compliance incidents, including violations of technology-based standards and quality-based standards.",
+    "answer": "C. The code is EM-CO-140a.2, and it should be disclosed as the total number of non-compliance incidents that resulted in formal enforcement actions.",
+    "reference_text": [
+      "EM-CO-140a.2. Number of incidents of non-compliance associated with water quality permits, standards, and regulations",
+      "1 The entity shall disclose the total number of instances of non-compliance, including violations of a technology-based standard and exceedances of quantity and/or quality-based standards.",
+      "3 The scope of disclosure shall only include incidents of non-compliance that resulted in a formal enforcement action(s).",
+      "3.1 Formal enforcement actions are defined as governmental recognized actions that address a violation or threatened violation of water quantity and/or quality laws, regulations, policies, or orders, and can result in administrative penalty orders, administrative orders, and judicial actions, among others."
+    ],
+    "pages": [
+      "47",
+      "48"
+    ],
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "Can you tell me what topics are covered in the 'Reserves Valuation & Capital Expenditures' section of the Coal Operations document and what are the key takeaways I need to know as a company writing my sustainability report in this industry?",
+    "optionA": "The section covers reserve sensitivity analysis and carbon emissions. Key takeaways are to disclose proven and probable reserves under different price scenarios and estimate CO2 emissions from reserves.",
+    "optionB": "The section covers reserve valuation methods and capital expenditure strategies. Key takeaways are to explain how coal prices affect valuation and describe future investment plans.",
+    "optionC": "The section covers reserve sensitivity analysis and capital expenditure strategy only. Key takeaways are to perform sensitivity analysis using IEA scenarios and discuss how climate regulation affects CAPEX strategy.",
+    "optionD": "The section covers reserve reporting requirements and financial risks. Key takeaways are to disclose proven reserves and discuss potential financial impacts of climate change on the business.",
+    "optionE": "The section covers reserve sensitivity analysis, carbon emissions estimation, and capital expenditure strategy. Key takeaways are to perform sensitivity analysis using IEA scenarios, estimate CO2 in reserves, and discuss how climate regulation affects CAPEX strategy.",
+    "answer": "E. The section covers reserve sensitivity analysis, carbon emissions estimation, and capital expenditure strategy. Key takeaways are to perform sensitivity analysis using IEA scenarios, estimate CO2 in reserves, and discuss how climate regulation affects CAPEX strategy.",
+    "reference_text": [
+      "EM-CO-420a.1. Sensitivity of coal reserve levels to future price projection scenarios that account for a price on carbon emissions",
+      "EM-CO-420a.2. Estimated carbon dioxide emissions embedded in proven coal reserves",
+      "EM-CO-420a.3. Discussion of how price and demand for coal and/or climate regulation influence the capital expenditure strategy for exploration, acquisition, and development of assets",
+      "1 The entity shall perform a sensitivity analysis of its reserves to determine how several future scenarios may affect its determination of whether the reserves are proven or probable.",
+      "2 The entity shall analyze the sensitivity of its current proven and probable reserves using the price trajectories published by the International Energy Agency (IEA) in its World Energy Outlook (WEO) publication",
+      "1 The entity shall calculate and disclose an estimate of the carbon dioxide emissions embedded in its proven coal reserves.",
+      "1 The entity shall discuss how projections for price and demand for coal and the path of air quality and climate regulation influence the entity's capital expenditure (CAPEX) strategy."
+    ],
+    "pages": [
+      "49",
+      "50",
+      "51",
+      "52"
+    ],
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the category of the metric related to water withdrawal in the Coal Operations industry and how should this metric be disclosed?",
+    "optionA": "The category is Qualitative, and it should be disclosed as a narrative description of water management practices.",
+    "optionB": "The category is Quantitative, and it should be disclosed as the total volume of water withdrawn in cubic meters.",
+    "optionC": "The category is Quantitative, and it should be disclosed as three separate components: total fresh water withdrawn, percentage recycled, and percentage in water-stressed regions.",
+    "optionD": "The category is Discussion and Analysis, and it should be disclosed as a detailed report on water usage trends and conservation efforts.",
+    "optionE": "The category is Qualitative, and it should be disclosed as a detailed report on water usage trends and conservation efforts",
+    "answer": "C. The category is Quantitative, and it should be disclosed as three separate components: total fresh water withdrawn, percentage recycled, and percentage in water-stressed regions.",
+    "reference_text": [
+      "EM-CO-140a.1. (1) Total fresh water withdrawn, (2) percentage recycled, (3) percentage in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%)",
+      "1 The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from freshwater sources:",
+      "2 The entity shall disclose the percentage of water recycled as the volume, in thousands of cubic meters, recycled divided by the volume of water withdrawn.",
+      "4 The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn."
+    ],
+    "pages": [
+      "47",
+      "48"
+    ],
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "question": "What is the code of the metric for 'Total energy consumed, percentage grid electricity, percentage alternative, percentage renewable' in the Construction Materials industry?",
+    "optionA": "EM-CM-130a.1",
+    "optionB": "EM-CM-110a.1",
+    "optionC": "EM-CM-120a.1",
+    "optionD": "EM-CM-140a.1",
+    "optionE": "EM-CM-150a.1",
+    "answer": "A",
+    "pages": [
+      "61"
+    ],
+    "reference_text": [
+      "EM-CM-130a.1. (1) Total energy consumed, (2) percentage grid electricity, (3) percentage alternative, (4) percentage renewable"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "question": "For the listed requirement 'Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations', what does a company in the Construction Materials industry need to do?",
+    "optionA": "Disclose its gross global Scope 1 greenhouse gas emissions and the percentage covered under emissions-limiting regulations.",
+    "optionB": "Discuss its strategy for managing Scope 1 emissions and emissions reduction targets.",
+    "optionC": "Disclose air emissions of pollutants like NOx, SOx, and particulate matter.",
+    "optionD": "Disclose the total energy consumed and percentages from grid, alternative, and renewable sources.",
+    "optionE": "Disclose the amount of waste generated, percentage hazardous, and percentage recycled.",
+    "answer": "A",
+    "pages": [
+      "55",
+      "56"
+    ],
+    "reference_text": [
+      "The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol...",
+      "The entity shall disclose the percentage of its gross global Scope 1 GHG emissions that are covered under an emissions-limiting regulation or program that is intended to directly limit or reduce emissions, such as cap-and-trade schemes, carbon tax/fee systems, and other emissions control (e.g., command-and-control approach) and permit-based mechanisms."
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "question": "What is the category of the 'Production by major product line' metric in the Construction Materials industry?",
+    "optionA": "Quantitative",
+    "optionB": "Discussion and Analysis",
+    "optionC": "n/a",
+    "optionD": "Percentage (%)",
+    "optionE": "Metric tons (t)",
+    "answer": "A",
+    "pages": [
+      "53"
+    ],
+    "reference_text": [
+      "| ACTIVITY METRIC | CATEGORY | UNIT OF MEASURE | CODE | |------------------|----------|-----------------|------| | Production by major product line | Quantitative | Metric tons (t) | EM-CM-000.A |"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "question": "For the listed requirement 'Amount of waste generated, percentage hazardous, percentage recycled', what metric should a company in the Construction Materials industry use for percentage recycled?",
+    "optionA": "The weight of waste material that was reused, plus the weight recycled or remanufactured by the entity, plus the amount sent externally for further recycling, divided by the total weight of waste material.",
+    "optionB": "The weight of hazardous waste as defined per the legal or regulatory framework divided by the total weight of waste material.",
+    "optionC": "The weight of waste material incinerated for energy recovery divided by the total weight of waste material.",
+    "optionD": "The weight of waste material sent to landfill divided by the total weight of waste material.",
+    "optionE": "The weight of waste material recycled on-site divided by the total weight of waste material.",
+    "answer": "A",
+    "pages": [
+      "66"
+    ],
+    "reference_text": [
+      "The percentage recycled shall be calculated as the weight of waste material that was reused, plus the weight recycled or remanufactured (through treatment or processing) by the entity, plus the amount sent externally for further recycling, divided by the total weight of waste material..."
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "question": "What is the code of the metric 'Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations' in the Construction Materials industry and how should this metric be calculated?",
+    "optionA": "The code is EM-CM-110a.1. To calculate this metric: 1) Disclose gross global Scope 1 GHG emissions in metric tons CO2-e according to the GHG Protocol. 2) Disclose the percentage covered under emissions-limiting regulations like cap-and-trade schemes. This percentage is calculated as emissions covered by regulations / total Scope 1 emissions.",
+    "optionB": "The code is EM-CM-110a.2. To calculate this metric: Discuss the long-term and short-term strategy to manage Scope 1 emissions, emission reduction targets, and an analysis of performance against those targets.",
+    "optionC": "The code is EM-CM-120a.1. To calculate this metric: Disclose air emissions of NOx, SOx, PM10, dioxins/furans, VOCs, PAHs, and heavy metals in metric tons.",
+    "optionD": "The code is EM-CM-130a.1. To calculate this metric: 1) Disclose total energy consumed in gigajoules. 2) Disclose percentage grid electricity. 3) Disclose percentage alternative energy sources. 4) Disclose percentage renewable energy.",
+    "optionE": "The code is EM-CM-140a.1. To calculate this metric: 1) Disclose total fresh water withdrawn in thousands of cubic meters. 2) Disclose percentage recycled water. 3) Disclose percentage in High/Extremely High Baseline Water Stress regions.",
+    "answer": "A",
+    "reference_text": [
+      "EM-CM-110a.1. Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations",
+      "1 The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol\u2014carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF6), and nitrogen trifluoride (NF3).",
+      "3 The entity shall disclose the percentage of its gross global Scope 1 GHG emissions that are covered under an emissions-limiting regulation or program that is intended to directly limit or reduce emissions, such as cap-and-trade schemes, carbon tax/fee systems, and other emissions control (e.g., command-and-control approach) and permit-based mechanisms.",
+      "3.2 The percentage shall be calculated as the total amount of gross global Scope 1 GHG emissions (CO2-e) that are covered under emissions-limiting regulations divided by the total amount of gross global Scope 1 GHG emissions (CO2-e)."
+    ],
+    "pages": [
+      "55",
+      "56"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for the 'Air Quality' topic in the Construction Materials industry?",
+    "optionA": "Metric tons (t), Percentage (%)",
+    "optionB": "Metric tons (t) CO2-e, Percentage (%)",
+    "optionC": "Gigajoules (GJ), Percentage (%)",
+    "optionD": "Thousand cubic meters (m\u00b3), Percentage (%)",
+    "optionE": "Reporting currency, Percentage (%)",
+    "answer": "A",
+    "reference_text": [
+      "| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|-------|--------|----------|-----------------|------|",
+      "| Air Quality | Air emissions of the following pollutants: (1) NOx (excluding N\u2082O), (2) SOx, (3) particulate matter (PM10), (4) dioxins/furans, (5) volatile organic compounds (VOCs), (6) polycyclic aromatic hydrocarbons (PAHs), and (7) heavy metals | Quantitative | Metric tons (t) | EM-CM-120a.1 |"
+    ],
+    "pages": [
+      "53"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "question": "For the requirement 'The entity shall disclose the percentage of waste generated that was hazardous', what metric should a company in the Construction Materials industry use and how should this metric be calculated?",
+    "optionA": "The metric is EM-CM-150a.1 'Amount of waste generated, percentage hazardous, percentage recycled'. The percentage hazardous waste is calculated as: weight of hazardous waste as defined by applicable regulations / total weight of waste material.",
+    "optionB": "The metric is EM-CM-120a.1 'Air emissions of pollutants'. The percentage hazardous waste is not covered under this metric.",
+    "optionC": "The metric is EM-CM-140a.1 'Total fresh water withdrawn, percentage recycled, percentage in High/Extremely High Baseline Water Stress'. The percentage hazardous waste is not covered under this metric.",
+    "optionD": "The metric is EM-CM-130a.1 'Total energy consumed, percentage grid/alternative/renewable'. The percentage hazardous waste is not covered under this metric.",
+    "optionE": "The metric is EM-CM-410a.2 'Total addressable market and share for reduced environmental impact products'. The percentage hazardous waste is not covered under this metric.",
+    "answer": "A",
+    "reference_text": [
+      "EM-CM-150a.1. Amount of waste generated, percentage hazardous, percentage recycled",
+      "2 The entity shall disclose the percentage of waste generated that was hazardous.",
+      "2.1 The percentage of hazardous waste shall be calculated as the weight of hazardous waste as defined per the legal or regulatory framework(s) applicable within the jurisdiction(s) where the waste is generated divided by the total weight of waste material."
+    ],
+    "pages": [
+      "65",
+      "66"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "question": "Can you tell me what topics are covered in the 'Product Innovation' section of the Construction Materials document and what are the key takeaways I need to know as a company writing my sustainability report in this industry?",
+    "optionA": "The Product Innovation section covers metrics on: 1) Percentage of products qualifying for sustainable building certifications, and 2) Total addressable market and share for products reducing environmental impacts. Key takeaways are that companies should disclose revenue from certified sustainable products, estimate the market for reduced-impact products, and disclose their current share of that market.",
+    "optionB": "The Product Innovation section covers metrics on air emissions of pollutants like NOx, SOx, and particulate matter. A key takeaway is disclosing strategies to reduce these emissions at production facilities.",
+    "optionC": "The Product Innovation section covers metrics on total energy consumption, percentage from grid/alternative/renewable sources. A key takeaway is disclosing efforts to increase renewable energy use.",
+    "optionD": "The Product Innovation section covers metrics on water withdrawal, recycling, and operations in water stressed areas. A key takeaway is disclosing risks in water scarce regions and efforts to recycle water.",
+    "optionE": "The Product Innovation section covers metrics on waste generation, percentage hazardous, and percentage recycled. A key takeaway is disclosing programs to reduce hazardous waste and increase recycling rates.",
+    "answer": "A",
+    "reference_text": [
+      "# Product Innovation",
+      "## Topic Summary",
+      "Innovations in building materials are a key component in the growth of sustainable construction. Consumer and regulatory trends are largely driving adoption of sustainable building materials and processes that are more resource efficient and can reduce health impacts of buildings throughout their lifecycle. This is creating new business drivers for construction materials companies, with an opportunity to increase revenues.",
+      "## Metrics",
+      "EM-CM-410a.1. Percentage of products that qualify for credits in sustainable building design and construction certifications",
+      "EM-CM-410a.2. Total addressable market and share of market for products that reduce energy, water, and/or material impacts during usage and/or production"
+    ],
+    "pages": [
+      "67",
+      "68"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "question": "For the listed 'EM-IS-110a.1' requirement, what does a company in the Iron & Steel Producers industry need to do?",
+    "optionA": "The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol and the percentage of those emissions that are covered under an emissions-limiting regulation.",
+    "optionB": "The entity shall discuss its long-term and short-term strategy or plan to manage its Scope 1 greenhouse gas emissions, including emission reduction targets and an analysis of performance against those targets.",
+    "optionC": "The entity shall disclose its total energy consumed, percentage from grid electricity, and percentage from renewable sources.",
+    "optionD": "The entity shall disclose its total fresh water withdrawn, percentage recycled, and percentage in regions with High or Extremely High Baseline Water Stress.",
+    "optionE": "The entity shall discuss the process for managing iron ore and/or coking coal sourcing risks arising from environmental and social issues.",
+    "answer": "A",
+    "reference_text": [
+      "EM-IS-110a.1. Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations",
+      "1    The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol\u2014carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF6), and nitrogen trifluoride (NF3).",
+      "3 The entity shall disclose the percentage of its gross global Scope 1 GHG emissions that are covered under an emissions-limiting regulation or program that is intended to directly limit or reduce emissions, such as cap-and-trade schemes, carbon tax/fee systems, and other emissions control (e.g., command-and-control approach) and permit-based mechanisms."
+    ],
+    "pages": [
+      "71",
+      "72"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "For the listed 'EM-IS-110a.2' requirement, what metric should a company in the Iron & Steel Producers industry use for emission reduction targets?",
+    "optionA": "Scope 1 greenhouse gas (GHG) emissions",
+    "optionB": "Total energy consumed",
+    "optionC": "Total fresh water withdrawn",
+    "optionD": "Total iron ore production",
+    "optionE": "Total coking coal production",
+    "answer": "A",
+    "reference_text": [
+      "EM-IS-110a.2. Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets",
+      "1.1    Scope 1 emissions are defined according to The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (GHG Protocol), Revised Edition, March 2004, published by the World Resources Institute and the World Business Council on Sustainable Development (WRI/WBCSD).",
+      "2    The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the following, where relevant:"
+    ],
+    "pages": [
+      "73"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "What is the code of the metric for percentage of energy from grid electricity in the Iron & Steel Producers industry (as listed in the relevant table)?",
+    "optionA": "EM-IS-130a.1",
+    "optionB": "EM-IS-130a.2",
+    "optionC": "EM-IS-110a.1",
+    "optionD": "EM-IS-140a.1",
+    "optionE": "EM-IS-430a.1",
+    "answer": "A",
+    "reference_text": [
+      "EM-IS-130a.1. (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+    ],
+    "pages": [
+      "75"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "What is the category of the 'Total iron ore production' metric in the Iron & Steel Producers industry (as listed in the relevant table)?",
+    "optionA": "Quantitative",
+    "optionB": "Discussion and Analysis",
+    "optionC": "Category not specified",
+    "optionD": "Qualitative",
+    "optionE": "None of the above",
+    "answer": "A",
+    "reference_text": [
+      "Total iron ore production | Quantitative | Metric tons (t) | EM-IS-000.B"
+    ],
+    "pages": [
+      "68"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "What is the code for the metric 'Total fresh water withdrawn' in the Iron & Steel Producers industry and how should this metric be calculated?",
+    "optionA": "The code is EM-IS-140a.1. The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from freshwater sources. Fresh water may be defined according to local regulations, or if no regulatory definition, water with less than 1000 parts per million of dissolved solids.",
+    "optionB": "The code is EM-IS-130a.1. The entity shall calculate this as the total amount of energy consumed in gigajoules from all sources including purchased electricity and self-generated energy.",
+    "optionC": "The code is EM-IS-110a.1. The entity shall disclose its gross global Scope 1 greenhouse gas emissions in metric tons of CO2 equivalents, calculated using published 100-year global warming potential values.",
+    "optionD": "The code is EM-IS-000.A. The entity shall disclose the raw steel production in metric tons, percentage from basic oxygen furnace processes and electric arc furnace processes.",
+    "optionE": "The code is EM-IS-430a.1. The entity shall discuss its process for managing iron ore and coking coal sourcing risks arising from environmental and social issues.",
+    "answer": "A",
+    "pages": [
+      "79"
+    ],
+    "reference_text": [
+      "EM-IS-140a.1. (1) Total fresh water withdrawn, (2) percentage recycled, (3) percentage in regions with High or Extremely High Baseline Water Stress",
+      "1 The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from freshwater sources:",
+      "1.1 Fresh water may be defined according to the local statutes and regulations where the entity operates. Where there is no regulatory definition, fresh water shall be considered to be water that has less than 1000 parts per million of dissolved solids."
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "What is the category of the metric 'Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions' in the Iron & Steel Producers industry and how should this metric be disclosed?",
+    "optionA": "The category is Quantitative. The entity shall disclose the gross global Scope 1 emissions in metric tons of CO2 equivalents and the percentage covered under emissions-limiting regulations.",
+    "optionB": "The category is Discussion and Analysis. The entity shall discuss its long-term and short-term strategy, emissions reduction targets, analysis of performance against targets, and whether targets are associated with emissions limiting programs.",
+    "optionC": "The category is Quantitative. The entity shall disclose the total energy consumed in gigajoules, percentage grid electricity, and percentage renewable energy.",
+    "optionD": "The category is Quantitative. The entity shall disclose the raw steel production in metric tons and percentages from different processes.",
+    "optionE": "The category is Quantitative. The entity shall disclose the total fresh water withdrawn in thousands of cubic meters and percentages recycled and in high water stress regions.",
+    "answer": "B",
+    "pages": [
+      "72",
+      "73",
+      "74"
+    ],
+    "reference_text": [
+      "EM-IS-110a.2. Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets",
+      "1 The entity shall discuss its long-term and short-term strategy or plan to manage its Scope 1 greenhouse gas (GHG) emissions.",
+      "2 The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the scope, type (absolute/intensity), percentage reduction, timelines, mechanisms, and any circumstances for recalculation.",
+      "3 The entity shall discuss the activities, investments, risks and limiting factors related to the plans and targets.",
+      "4 The entity shall discuss the scope of strategies/plans/targets across business units, geographies, emissions sources.",
+      "5 The entity shall discuss whether strategies/plans/targets are related to emissions limiting regulations or programs."
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "For the requirement EM-IS-130a.1 in the Iron & Steel Producers industry, what metric should a company use for '(1) Total energy consumed' and how should this metric be calculated?",
+    "optionA": "The metric is the total amount of energy consumed in gigajoules. This should be calculated as an aggregate of energy from all sources, including energy purchased from external sources and self-generated energy like direct fuel usage and purchased electricity.",
+    "optionB": "The metric is the total Scope 1 greenhouse gas emissions in metric tons of CO2 equivalents. This should be calculated according to the GHG Protocol and using published 100-year global warming potential values.",
+    "optionC": "The metric is the total amount of fuel consumed in gigajoules. This should be calculated based on actual fuel consumed tracked through methods like fuel purchases, vehicle tracking, or fuel expenses.",
+    "optionD": "The metric is the total amount of fresh water withdrawn in thousands of cubic meters. This should be calculated as the amount withdrawn from freshwater sources as defined by local regulations.",
+    "optionE": "The metric is the raw steel production in metric tons. This should be calculated as the total production, with percentages from basic oxygen furnace and electric arc furnace processes.",
+    "answer": "A",
+    "pages": [
+      "75",
+      "76"
+    ],
+    "reference_text": [
+      "EM-IS-130a.1. (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable",
+      "1 The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ).",
+      "1.1 The scope of energy consumption includes energy from all sources, including energy purchased from sources external to the entity and energy produced by the entity itself (self-generated). For example, direct fuel usage, purchased electricity, and heating, cooling, and steam energy are all included within the scope of energy consumption."
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "Can you tell me what topics are covered in the 'Industry Description' section and what are the key takeaways I need to know as a company writing my sustainability report in the Iron & Steel Producers industry?",
+    "optionA": "The topics covered are greenhouse gas emissions management, energy management, water management, and supply chain management of raw materials like iron ore and coking coal. The key takeaways are that steel production is emissions-intensive but technological improvements have reduced emissions, and companies face risks from climate regulations and need to manage energy and water use efficiently.",
+    "optionB": "The industry description covers the different types of companies in the industry, their main products like flat-rolled sheets and pipes, the two main steel production methods (basic oxygen furnace and electric arc furnace), and that most companies don't mine their own ore. The key takeaway is the scope of the industry and common production processes used.",
+    "optionC": "The topics are financial performance metrics like revenue, profits, cash flows, and balance sheet items that iron and steel companies should disclose. The key takeaway is guidance on accounting methods and required financial statement disclosures.",
+    "optionD": "The topics are human capital management issues like employee health and safety, labor relations, and diversity and inclusion metrics that iron and steel companies need to report on. The key takeaways relate to maintaining a productive and ethical workforce.",
+    "optionE": "The topics are corporate governance practices such as board structure, executive compensation policies, and codes of conduct that apply to iron and steel companies. The key takeaways relate to sound governance and ethical business practices.",
+    "answer": "B",
+    "pages": [
+      "69",
+      "70"
+    ],
+    "reference_text": [
+      "The Iron & Steel Producers industry consists of steel producers with iron and steel mills and companies with iron and steel foundries. The steel producers segment consists of companies that produce iron and steel products from their own mills. These products include flat-rolled sheets, tin plates, pipes, tubes, and products made of stainless steel, titanium, and high alloy steels.",
+      "Steel production occurs via two primary methods: the Basic Oxygen Furnace (BOF), which uses iron ore as an input, and the Electric Arc Furnace (EAF), which uses scrap steel. Many companies in the industry operate on an international scale.",
+      "Note: With a few exceptions, most companies do not mine their own ore to manufacture steel and iron products. There are separate SASB standards for the Metals & Mining (EM-MM) industry."
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "What is the code for the metric on Greenhouse Gas Emissions related to a company's strategy and targets in the Metals & Mining industry?",
+    "optionA": "EM-MM-110a.1",
+    "optionB": "EM-MM-110a.2",
+    "optionC": "EM-MM-130a.1",
+    "optionD": "EM-MM-140a.1",
+    "optionE": "EM-MM-140a.2",
+    "answer": "B",
+    "pages": [
+      "84"
+    ],
+    "reference_text": [
+      "EM-MM-110a.2. Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "question": "What category is the metric 'Total number of employees, percentage contractors' under in the Metals & Mining industry?",
+    "optionA": "Quantitative",
+    "optionB": "Discussion and Analysis",
+    "optionC": "Qualitative",
+    "optionD": "Descriptive",
+    "optionE": "Narrative",
+    "answer": "A",
+    "pages": [
+      "81"
+    ],
+    "reference_text": [
+      "Total number of employees, percentage contractors | Quantitative |"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "question": "According to the document, what should a company in the Metals & Mining industry disclose for the metric 'Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations'?",
+    "optionA": "Its gross global Scope 1 GHG emissions and the percentage covered under emissions-limiting regulations.",
+    "optionB": "Only its gross global Scope 1 GHG emissions.",
+    "optionC": "Only the percentage of emissions covered under emissions-limiting regulations.",
+    "optionD": "Its total energy consumed and percentage from renewable sources.",
+    "optionE": "Its water withdrawal and consumption in areas of high water stress.",
+    "answer": "A",
+    "pages": [
+      "82",
+      "83"
+    ],
+    "reference_text": [
+      "The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol...",
+      "The entity shall disclose the percentage of its gross global Scope 1 GHG emissions that are covered under an emissions-limiting regulation or program that is intended to directly limit or reduce emissions, such as cap-and-trade schemes, carbon tax/fee systems, and other emissions control (e.g., command-and-control approach) and permit-based mechanisms."
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "question": "What unit of measure should be used for the metric '(1) Total fresh water withdrawn, (2) total fresh water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress' in the Metals & Mining industry?",
+    "optionA": "Metric tons (t)",
+    "optionB": "Gigajoules (GJ)",
+    "optionC": "Thousand cubic meters (m\u00b3)",
+    "optionD": "Number",
+    "optionE": "Percentage (%)",
+    "answer": "C",
+    "pages": [
+      "88"
+    ],
+    "reference_text": [
+      "(1) Total fresh water withdrawn, (2) total fresh water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%)"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "question": "What is the category of the 'Number of incidents of non-compliance associated with water quality permits, standards, and regulations' metric in the Metals & Mining industry and how should this metric be calculated?",
+    "optionA": "The category is Quantitative. This metric should be calculated by disclosing the total number of instances of non-compliance, including violations of a technology-based standard and exceedances of quality-based standards governed by permits and regulations.",
+    "optionB": "The category is Discussion and Analysis. This metric requires a narrative discussion of the company's strategy to manage water quality compliance.",
+    "optionC": "The category is Quantitative. This metric should be calculated by disclosing the total volume of water discharged that violated permits or standards.",
+    "optionD": "The category is Quantitative. This metric should be calculated by disclosing the total fines or penalties paid for water quality violations.",
+    "optionE": "The category is Discussion and Analysis. This metric requires a discussion of the company's process for obtaining water quality permits.",
+    "answer": "A",
+    "reference_text": [
+      "EM-MM-140a.2. Number of incidents of non-compliance associated with water quality permits, standards, and regulations",
+      "1 The entity shall disclose the total number of instances of non-compliance, including violations of a technology-based standard and exceedances of quality-based standards."
+    ],
+    "pages": [
+      "89"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "question": "Can you provide the unit of measure for all the metrics for the 'Greenhouse Gas Emissions' topic in the Metals & Mining industry?",
+    "optionA": "Metric tons (t) CO2-e, Percentage (%)",
+    "optionB": "Metric tons (t) CO2-e, Number",
+    "optionC": "Gigajoules (GJ), Percentage (%)",
+    "optionD": "Thousand cubic meters (m\u00b3), Percentage (%)",
+    "optionE": "Number, Percentage (%)",
+    "answer": "A",
+    "reference_text": [
+      "Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO2-e, Percentage (%) | EM-MM-110a.1",
+      "Greenhouse Gas Emissions | Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a | EM-MM-110a.2"
+    ],
+    "pages": [
+      "81"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "question": "What is the code for the '(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable' metric in the Metals & Mining industry and how should this metric be disclosed?",
+    "optionA": "The code is EM-MM-130a.1. This metric should be disclosed by providing (1) the total amount of energy consumed in gigajoules, (2) the percentage of energy from grid electricity, and (3) the percentage of renewable energy consumed.",
+    "optionB": "The code is EM-MM-140a.1. This metric should be disclosed by providing the total fresh water withdrawn and consumed, with percentages in regions with high water stress.",
+    "optionC": "The code is EM-MM-110a.2. This metric requires a discussion of the company's strategy, targets and performance for managing Scope 1 emissions.",
+    "optionD": "The code is EM-MM-000.A. This metric requires disclosure of production volumes for metal ores and finished products.",
+    "optionE": "The code is EM-MM-000.B. This metric requires disclosure of the total number of employees and percentage of contractors.",
+    "answer": "A",
+    "reference_text": [
+      "EM-MM-130a.1. (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable",
+      "1 The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ).",
+      "2 The entity shall disclose (2) the percentage of energy it consumed that was supplied from grid electricity.",
+      "3 The entity shall disclose (3) the percentage of energy it consumed that is renewable energy."
+    ],
+    "pages": [
+      "86",
+      "87"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "question": "Can you tell me if I reported the 'Water Management' topic correctly for the Metals & Mining industry based on the following disclosure: 'Our total fresh water withdrawal was 5,000,000 m3, of which 20% was in regions with high water stress. Our total fresh water consumption was 2,500,000 m3, of which 15% was in high water stress areas. We had 3 incidents of non-compliance with water quality permits during the year.'",
+    "optionA": "Yes, your disclosure for the Water Management topic appears to be correct based on the metrics and requirements specified.",
+    "optionB": "No, your disclosure is missing the required breakdown of fresh water withdrawn and consumed specifically in regions with Extremely High Baseline Water Stress.",
+    "optionC": "No, your disclosure should report fresh water withdrawn and consumed in thousand cubic meter units, not just cubic meters.",
+    "optionD": "No, the number of non-compliance incidents disclosed does not provide enough context on the types of violations or regulations involved as required.",
+    "optionE": "No, your disclosure is missing a listing of the specific facilities located in high water stress areas as required.",
+    "answer": "B",
+    "reference_text": [
+      "EM-MM-140a.1. (1) Total fresh water withdrawn, (2) total fresh water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress",
+      "3 The entity shall analyze all of its operations for water risks and identify activities that withdraw and consume water in locations with High (40-80%) or Extremely High (>80%) Baseline Water Stress as classified by the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct.",
+      "4 The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn.",
+      "5 The entity shall disclose its water consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water consumed."
+    ],
+    "pages": [
+      "88",
+      "89"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "question": "What is the code of the metric for 'Estimated carbon dioxide emissions embedded in proved hydrocarbon reserves' in the Oil & Gas - Exploration & Production industry?",
+    "optionA": "EM-EP-110a.1",
+    "optionB": "EM-EP-140a.2",
+    "optionC": "EM-EP-420a.2",
+    "optionD": "EM-EP-420a.3",
+    "optionE": "EM-EP-000.A",
+    "answer": "C",
+    "pages": [
+      "105"
+    ],
+    "reference_text": [
+      "EM-EP-420a.2. Estimated carbon dioxide emissions embedded in proved hydrocarbon reserves"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "question": "For the listed 'EM-EP-140a.4 Percentage of hydraulic fracturing sites where ground or surface water quality deteriorated compared to a baseline' requirement, what metric should a company in the Oil & Gas - Exploration & Production industry use for determining if water quality deteriorated?",
+    "optionA": "Presence of thermogenic gas or a mixture of thermogenic and biogenic gas that was not present in baseline testing",
+    "optionB": "An increase in methane concentration by more than 10 mg/l between sampling periods",
+    "optionC": "Benzene, toluene, ethylbenzene, or xylenes (BTEX compounds) or total petroleum hydrocarbons (TPH) are present in higher concentrations as compared to the baseline",
+    "optionD": "Both A and C",
+    "optionE": "Both B and C",
+    "answer": "D",
+    "pages": [
+      "101"
+    ],
+    "reference_text": [
+      "2 Deterioration in water quality is, at a minimum, defined as occurring when testing indicates:",
+      "2.1 Presence of thermogenic gas or a mixture of thermogenic and biogenic gas that was not present in baseline testing.",
+      "2.2 An increase in methane concentration by more than 5.0 mg/l between sampling periods.",
+      "2.3 Benzene, toluene, ethylbenzene, or xylenes (BTEX compounds) or total petroleum hydrocarbons (TPH) are present in higher concentrations as compared to the baseline."
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "question": "On what page can I find details about the 'Greenhouse Gas Emissions' topic for the Oil & Gas - Exploration & Production industry?",
+    "optionA": "90-92",
+    "optionB": "93-98",
+    "optionC": "99-102",
+    "optionD": "103-107",
+    "optionE": "108-112",
+    "answer": "B",
+    "pages": [
+      "93",
+      "94",
+      "95",
+      "96",
+      "97",
+      "98"
+    ],
+    "reference_text": [
+      "# Greenhouse Gas Emissions",
+      "## Topic Summary",
+      "...",
+      "## Metrics",
+      "EM-EP-110a.1. Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations",
+      "...",
+      "EM-EP-110a.2. Amount of gross global Scope 1 emissions from: (1) flared hydrocarbons, (2) other combustion, (3) process emissions, (4) other vented emissions, and (5) fugitive emissions",
+      "...",
+      "EM-EP-110a.3. Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "question": "What is the category of the 'Volume of produced water and flowback generated; percentage (1) discharged, (2) injected, (3) recycled; hydrocarbon content in discharged water' metric in the Oil & Gas - Exploration & Production industry?",
+    "optionA": "Quantitative",
+    "optionB": "Discussion and Analysis",
+    "optionC": "Qualitative",
+    "optionD": "Descriptive",
+    "optionE": "Narrative",
+    "answer": "A",
+    "pages": [
+      "91"
+    ],
+    "reference_text": [
+      "| Water Management | Volume of produced water and flowback generated; percentage (1) discharged, (2) injected, (3) recycled; hydrocarbon content in discharged water | Quantitative | Thousand cubic meters (m\u00b3), Percent\u00adage (%), Metric tons (t) | EM-EP-140a.2 |"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "question": "What is the code of the metric 'Estimated carbon dioxide emissions embedded in proved hydrocarbon reserves' in the Oil & Gas - Exploration & Production industry and how should this metric be calculated?",
+    "optionA": "The code is EM-EP-420a.2. This metric should be calculated according to the formula: E = R \u00d7 V \u00d7 C, where E are the potential emissions in kilograms of carbon dioxide (kg CO\u2082), R are the proved reserves in gigagrams (Gg), V is the net calorific value in terajoules per gigagram (TJ/Gg), and C is the effective carbon dioxide emission factor in kilograms CO\u2082 per terajoule (kg/TJ).",
+    "optionB": "The code is EM-EP-140a.1. This metric should be calculated by disclosing the total amount spent, including capital and research and development expenditures, on renewable or alternative energy sources.",
+    "optionC": "The code is EM-EP-110a.3. This metric requires a discussion of the entity's long-term and short-term strategy or plan to manage its Scope 1 greenhouse gas emissions.",
+    "optionD": "The code is EM-EP-420a.4. This metric requires a discussion of how price and demand for hydrocarbons and/or climate regulation influence the capital expenditure strategy for exploration, acquisition, and development of assets.",
+    "optionE": "The code is EM-EP-140a.2. This metric requires disclosing the volume of produced water and flowback generated, and the percentage discharged, injected, and recycled.",
+    "answer": "A",
+    "pages": [
+      "105"
+    ],
+    "reference_text": [
+      "Estimated potential carbon dioxide emissions from proved hydrocarbon reserves shall be calculated according to the following formula, derived from Meinshausen et al.: 2.1 E = R \u00d7 V \u00d7 C, where: 2.1.1 E are the potential emissions in kilograms of carbon dioxide (kg CO\u2082); 2.1.2 R are the proved reserves in gigagrams (Gg); 2.1.3 V is the net calorific value in terajoules per gigagram (TJ/Gg); and 2.1.4 C is the effective carbon dioxide emission factor in kilograms CO\u2082 per terajoule (kg/TJ)."
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "question": "Can you provide the unit of measure for all the metrics under the 'Water Management' topic in the Oil & Gas - Exploration & Production industry?",
+    "optionA": "Thousand cubic meters (m\u00b3), Percentage (%)",
+    "optionB": "Metric tons CO\u2082-e (t), Percentage (%)",
+    "optionC": "Million barrels (MMbbls), Million standard cubic feet (MMscf), Reporting currency",
+    "optionD": "Thousand barrels per day (Mbbl/day), Million standard cubic feet per day (MMscf/day), Number",
+    "optionE": "Metric tons (t) CO\u2082-e, Reporting currency",
+    "answer": "A",
+    "pages": [
+      "99",
+      "100",
+      "101"
+    ],
+    "reference_text": [
+      "(1) Total fresh water withdrawn, (2) total fresh water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%)",
+      "Volume of produced water and flowback generated; percentage (1) discharged, (2) injected, (3) recycled; hydrocarbon content in discharged water | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%), Metric tons (t)",
+      "Percentage of hydraulically fractured wells for which there is public disclosure of all fracturing fluid chemicals used | Quantitative | Percentage (%)",
+      "Percentage of hydraulic fracturing sites where ground or surface water quality deteriorated compared to a baseline | Quantitative | Percentage (%)"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "question": "For the requirement 'Percentage of hydraulic fracturing sites where ground or surface water quality deteriorated compared to a baseline', what metric should a company in the Oil & Gas - Exploration & Production industry use and how should it be calculated?",
+    "optionA": "The company should use the metric code EM-EP-140a.4. It should be calculated as the total number of hydraulic fracturing well sites where a deterioration in ground or surface water quality was detected compared to a baseline measurement, divided by the total number of hydraulic fracturing well sites.",
+    "optionB": "The company should use the metric code EM-EP-140a.1. It should be calculated by disclosing the total fresh water withdrawn and consumed, and the percentage of each in regions with High or Extremely High Baseline Water Stress.",
+    "optionC": "The company should use the metric code EM-EP-420a.3. It should be calculated by disclosing the total amount invested in renewable energy and the revenue generated from renewable energy sales.",
+    "optionD": "The company should use the metric code EM-EP-110a.2. It should be calculated by disclosing the amount of Scope 1 emissions from flared hydrocarbons, other combustion, process emissions, vented emissions, and fugitive emissions.",
+    "optionE": "The company should use the metric code EM-EP-140a.3. It should be calculated as the percentage of hydraulically fractured wells for which all fracturing fluid chemicals are publicly disclosed.",
+    "answer": "A",
+    "pages": [
+      "101",
+      "102"
+    ],
+    "reference_text": [
+      "The entity shall calculate the percentage as: the total number of hydraulic fracturing well sites for which it detected a deterioration in the ground or surface water surrounding the well site as compared to a baseline measurement, divided by the total number of hydraulic fracturing well sites.",
+      "Deterioration in water quality is, at a minimum, defined as occurring when testing indicates: 2.1 Presence of thermogenic gas or a mixture of thermogenic and biogenic gas that was not present in baseline testing. 2.2 An increase in methane concentration by more than 5.0 mg/l between sampling periods. 2.3 Benzene, toluene, ethylbenzene, or xylenes (BTEX compounds) or total petroleum hydrocarbons (TPH) are present in higher concentrations as compared to the baseline."
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "question": "Can you tell me what topics are covered in the 'Greenhouse Gas Emissions' section of the document and what are the key takeaways I need to know as a company writing my sustainability report in the Oil & Gas - Exploration & Production industry?",
+    "optionA": "The 'Greenhouse Gas Emissions' section covers metrics related to disclosing gross global Scope 1 emissions, emissions from different sources like flaring and venting, and strategies to manage Scope 1 emissions. Key takeaways are to disclose emissions by source, percentage of methane emissions, emissions covered by regulations, and have a plan to manage emissions with reduction targets.",
+    "optionB": "The 'Greenhouse Gas Emissions' section covers metrics related to water management such as fresh water withdrawn and consumed in water-stressed areas, produced water and flowback volumes, and disclosure of fracturing fluid chemicals. Key takeaways are to monitor water usage and quality impacts from hydraulic fracturing activities.",
+    "optionC": "The 'Greenhouse Gas Emissions' section covers metrics related to reserves valuation and capital expenditures such as sensitivity of reserves to carbon pricing scenarios, embedded emissions in reserves, investments in renewable energy, and how climate regulation impacts capital strategy. Key takeaways are to analyze risks to reserves from climate policies.",
+    "optionD": "The 'Greenhouse Gas Emissions' section covers activity metrics to disclose production volumes of oil, natural gas, synthetic oil and gas, as well as number of offshore and terrestrial sites. Key takeaways are to report operational activity levels.",
+    "optionE": "The 'Greenhouse Gas Emissions' section provides an overview of the Oil & Gas Exploration & Production industry but does not specify any disclosure requirements. The key takeaway is to understand the sector's activities and emissions sources.",
+    "answer": "A",
+    "pages": [
+      "93",
+      "94",
+      "95",
+      "96",
+      "97",
+      "98"
+    ],
+    "reference_text": [
+      "Greenhouse Gas Emissions: Topic Summary...",
+      "EM-EP-110a.1. Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations",
+      "EM-EP-110a.2. Amount of gross global Scope 1 emissions from: (1) flared hydrocarbons, (2) other combustion, (3) process emissions, (4) other vented emissions, and (5) fugitive emissions",
+      "EM-EP-110a.3. Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "question": "What is the code for the metric 'Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations' in the Oil & Gas - Midstream industry?",
+    "optionA": "EM-MD-110a.2",
+    "optionB": "EM-MD-000.A",
+    "optionC": "EM-MD-110a.1",
+    "optionD": "EM-EP-110a.1",
+    "optionE": "EM-RM-110a.1",
+    "answer": "C",
+    "pages": [
+      "108"
+    ],
+    "reference_text": [
+      "TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%) | EM-MD-110a.1 |"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "question": "For the metric 'Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations', what does a company in the Oil & Gas - Midstream industry need to disclose?",
+    "optionA": "The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol.",
+    "optionB": "The entity shall disclose the percentage of its emissions that are covered under an emissions-limiting regulation or that is intended to directly limit or reduce emissions.",
+    "optionC": "The entity shall disclose the percentage of gross global Scope 1 emissions from methane emissions.",
+    "optionD": "All of the above.",
+    "optionE": "None of the above.",
+    "answer": "D",
+    "pages": [
+      "110"
+    ],
+    "reference_text": [
+      "1 The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol\u2014carbon dioxide (CO\u2082), methane (CH\u2084), nitrous oxide (N\u2082O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF\u2086), and nitrogen trifluoride (NF\u2083).",
+      "3 The entity shall disclose the percentage of gross global Scope 1 emissions from methane emissions.",
+      "4 The entity shall disclose the percentage of its emissions that are covered under an emissions-limiting regulation or that is intended to directly limit or reduce emissions, such as cap-and-trade schemes, carbon tax/fee systems, and other emissions control (e.g., command-and-control approach) and permit-based mechanisms."
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "question": "What is the category of the activity metric 'Total metric ton-kilometers of: (1) natural gas, (2) crude oil, and (3) refined petroleum products transported, by mode of transport' in the Oil & Gas - Midstream industry?",
+    "optionA": "Quantitative",
+    "optionB": "Discussion and Analysis",
+    "optionC": "Qualitative",
+    "optionD": "Descriptive",
+    "optionE": "The category is not specified.",
+    "answer": "A",
+    "pages": [
+      "108"
+    ],
+    "reference_text": [
+      "ACTIVITY METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "Total metric ton-kilometers of: (1) natural gas, (2) crude oil, and (3) refined petroleum products transported, by mode of transport \u00b9\u2074 | Quantitative | Metric ton (t) kilometers | EM-MD-000.A |"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "question": "For the listed requirement EM-MD-110a.2 'Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets', what metric should a company in the Oil & Gas - Midstream industry use for its emission reduction target?",
+    "optionA": "The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the scope of the emission reduction target.",
+    "optionB": "The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including whether the target is absolute or intensity-based, and the metric denominator, if it is an intensity-based target.",
+    "optionC": "The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the percentage reduction against the base year, with the base year representing the first year against which emissions are evaluated towards the achievement of the target.",
+    "optionD": "All of the above.",
+    "optionE": "None of the above.",
+    "answer": "D",
+    "pages": [
+      "111-112"
+    ],
+    "reference_text": [
+      "2 The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the following, where relevant:",
+      "2.1 The scope of the emission reduction target (e.g., the percentage of total emissions to which the target is applicable);",
+      "2.2 Whether the target is absolute or intensity-based, and the metric denominator, if it is an intensity-based target;",
+      "2.3 The percentage reduction against the base year, with the base year representing the first year against which emissions are evaluated towards the achievement of the target;"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "question": "What is the category of the 'Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations' metric in the Oil & Gas - Midstream industry and how should this metric be calculated?",
+    "optionA": "The category is Quantitative. This metric should be calculated as metric tons (t) CO\u2082-e for gross global Scope 1 emissions, percentage for methane emissions, and percentage for emissions covered under emissions-limiting regulations.",
+    "optionB": "The category is Discussion and Analysis. There are no specific calculation instructions provided for this metric.",
+    "optionC": "The category is Quantitative. This metric should be calculated using the GHG Protocol methodology for Scope 1 emissions, with methane emissions as a percentage and emissions under regulations as a percentage.",
+    "optionD": "The category is Quantitative. This metric requires reporting total Scope 1 emissions in metric tons, but no calculation details are provided for the percentage values.",
+    "optionE": "The category is not specified. No calculation methodology is provided for this metric.",
+    "answer": "C",
+    "pages": [
+      "109",
+      "110",
+      "111"
+    ],
+    "reference_text": [
+      "EM-MD-110a.1. Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations",
+      "1 The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol\u2014carbon dioxide (CO\u2082), methane (CH\u2084), nitrous oxide (N\u2082O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF\u2086), and nitrogen trifluoride (NF\u2083).",
+      "3 The entity shall disclose the percentage of gross global Scope 1 emissions from methane emissions.",
+      "4 The entity shall disclose the percentage of its emissions that are covered under an emissions-limiting regulation or that is intended to directly limit or reduce emissions, such as cap-and-trade schemes, carbon tax/fee systems, and other emissions control (e.g., command-and-control approach) and permit-based mechanisms."
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "question": "For the requirement 'Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets', what metric should a company in the Oil & Gas - Midstream industry use and how should this metric be disclosed?",
+    "optionA": "Companies should use the 'Gross global Scope 1 emissions' metric and disclose their strategy, targets, and performance analysis for reducing this metric.",
+    "optionB": "There is no specific metric associated with this requirement. Companies should provide a qualitative discussion of their emissions management strategies, targets, and performance.",
+    "optionC": "Companies should use the 'Total metric ton-kilometers transported' activity metric and discuss their emissions strategies and targets related to this metric.",
+    "optionD": "Companies should disclose their total Scope 1 and Scope 2 emissions and discuss strategies to reduce these combined emissions.",
+    "optionE": "Companies should use the 'Percentage methane' metric from EM-MD-110a.1 and discuss strategies specifically for reducing methane emissions.",
+    "answer": "B",
+    "pages": [
+      "111",
+      "112"
+    ],
+    "reference_text": [
+      "EM-MD-110a.2. Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets",
+      "1 The entity shall discuss its long-term and short-term strategy or plan to manage its Scope 1 greenhouse gas (GHG) emissions.",
+      "2 The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the following, where relevant: ...",
+      "3 The entity shall discuss activities and investments required to achieve the plans and/or targets, and any risks or limiting factors that might affect achievements of the plans and/or targets."
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "question": "Can you tell me if I reported the 'Greenhouse Gas Emissions' topic correctly for the Oil & Gas - Midstream industry? I disclosed our total Scope 1 emissions in metric tons CO2e and provided a discussion of our methane leak detection and repair program.",
+    "optionA": "Yes, you have reported the 'Greenhouse Gas Emissions' topic correctly by providing the required Scope 1 emissions data and discussing your methane emissions management approach.",
+    "optionB": "No, you have not reported this topic fully. You still need to disclose the percentage of Scope 1 emissions from methane and the percentage covered by emissions regulations.",
+    "optionC": "Partially, you provided the total Scope 1 emissions data correctly but are still missing the percentage of emissions covered by emissions regulations for full reporting.",
+    "optionD": "Partially, you discussed methane emissions management which is relevant, but are still missing the actual Scope 1 emissions data and percentage of emissions covered by regulations.",
+    "optionE": "No, the reporting requirements for this topic are to disclose only a discussion of your long-term and short-term emissions management strategy, not any quantitative emissions data.",
+    "answer": "B",
+    "pages": [
+      "109",
+      "110",
+      "111"
+    ],
+    "reference_text": [
+      "EM-MD-110a.1. Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations",
+      "1 The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere...",
+      "3 The entity shall disclose the percentage of gross global Scope 1 emissions from methane emissions.",
+      "4 The entity shall disclose the percentage of its emissions that are covered under an emissions-limiting regulation..."
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "question": "What is the code for the activity metric 'Total metric ton-kilometers transported' in the Oil & Gas - Midstream industry and how should this metric be calculated?",
+    "optionA": "The code is EM-MD-000.A. This metric should be calculated as the total metric ton-kilometers of natural gas, crude oil, and refined petroleum products transported by all relevant modes like pipeline, tanker, truck, etc.",
+    "optionB": "The code is EM-MD-110a.1. This metric covers gross global Scope 1 emissions and should be calculated using the GHG Protocol methodology.",
+    "optionC": "The code is EM-MD-110a.2. This metric requires a discussion of the company's emissions management strategy and targets, not a quantitative calculation.",
+    "optionD": "There is no specific code provided for this activity metric in the document.",
+    "optionE": "The code is EM-MD-000.B. The calculation methodology is not specified for this metric.",
+    "answer": "A",
+    "pages": [
+      "108"
+    ],
+    "reference_text": [
+      "Table 2. Activity Metrics",
+      "ACTIVITY METRIC | CATEGORY | UNIT OF MEASURE | CODE",
+      "Total metric ton-kilometers of: (1) natural gas, (2) crude oil, and (3) refined petroleum products transported, by mode of transport \u00b9\u2074 | Quantitative | Metric ton (t) kilometers | EM-MD-000.A",
+      "\u00b9\u2074 Note to EM-MD-000.A \u2013 Relevant modes of transport include: pipeline, tanker, truck, etc."
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "question": "What is the code for the metric 'Refining throughput of crude oil and other feedstocks' in the Oil & Gas - Refining & Marketing industry?",
+    "optionA": "EM-RM-110a.1",
+    "optionB": "EM-RM-140a.1",
+    "optionC": "EM-RM-410a.2",
+    "optionD": "EM-RM-000.A",
+    "optionE": "EM-RM-000.B",
+    "answer": "D",
+    "pages": [
+      "114"
+    ],
+    "reference_text": [
+      "Refining throughput of crude oil and other feedstocks",
+      "Quantitative",
+      "Barrels of oil equivalent (BOE)",
+      "EM-RM-000.A"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "question": "What is the category of the metric 'Refining operating capacity' for the Oil & Gas - Refining & Marketing industry?",
+    "optionA": "Quantitative",
+    "optionB": "Discussion and Analysis",
+    "optionC": "Qualitative",
+    "optionD": "Descriptive",
+    "optionE": "Narrative",
+    "answer": "A",
+    "pages": [
+      "114",
+      "115"
+    ],
+    "reference_text": [
+      "Refining operating capacity",
+      "Quantitative"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "question": "For the requirement EM-RM-110a.2, what does a company in the Oil & Gas - Refining & Marketing industry need to do regarding emission reduction targets?",
+    "optionA": "Discuss its long-term and short-term strategy or plan to manage Scope 1 emissions.",
+    "optionB": "Disclose its gross global Scope 1 emissions and percentage covered under emissions-limiting regulations.",
+    "optionC": "Analyze its performance against emission reduction targets, including details like target scope, type, percentage reduction, timelines, and mechanisms.",
+    "optionD": "Discuss activities, investments, risks and limiting factors related to achieving emission plans and targets.",
+    "optionE": "All of the above",
+    "answer": "E",
+    "pages": [
+      "118",
+      "119"
+    ],
+    "reference_text": [
+      "The entity shall discuss its long-term and short-term strategy or plan to manage its Scope 1 greenhouse gas (GHG) emissions.",
+      "The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the following, where relevant: ...",
+      "The entity shall discuss activities and investments required to achieve the plans and/or targets, and any risks or limiting factors that might affect achievement of the plans and/or targets."
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "question": "For the listed EM-RM-410a.2 requirement, what metric should a company in the Oil & Gas - Refining & Marketing industry use for total addressable market?",
+    "optionA": "Potential revenue if the entity captures 100% market share",
+    "optionB": "Current revenue from advanced biofuels and infrastructure",
+    "optionC": "Projected growth of the advanced biofuels market",
+    "optionD": "Target 3-year market share for advanced biofuels",
+    "optionE": "None of the above",
+    "answer": "A",
+    "pages": [
+      "122"
+    ],
+    "reference_text": [
+      "Total addressable market is defined as potential revenue should the entity capture 100 percent of the market share of the product category (e.g., the global market for advanced biofuels and advanced biofuel infrastructure)."
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "question": "What is the code for the metric 'Refining throughput of crude oil and other feedstocks' in the Oil & Gas - Refining & Marketing industry and how should this metric be calculated?",
+    "optionA": "EM-RM-000.A. The total volume of crude oil and other feedstocks processed in the refinery system during the reporting period.",
+    "optionB": "EM-RM-000.A. The total volume of crude oil processed in the refinery system during the reporting period, excluding other feedstocks.",
+    "optionC": "EM-RM-000.B. The total volume of crude oil and other feedstocks processed in the refinery system during the reporting period.",
+    "optionD": "EM-RM-000.A. The maximum volume of crude oil and other feedstocks that can be processed in the refinery system.",
+    "optionE": "EM-RM-000.B. The total volume of crude oil processed in the refinery system during the reporting period.",
+    "answer": "A",
+    "pages": [
+      "114"
+    ],
+    "reference_text": [
+      "Note: The standards discussed below are for \"pure-play\" R&M activities, or independent R&M companies. Integrated oil and gas companies conduct upstream operations and are also involved in the distribution and/or refining or marketing of products. SASB has separate standards for the Oil and Gas Exploration & Production (EM-EP), and Midstream (EM-MD) industries. As such, integrated companies should also consider the disclosure topics and metrics from these standards.",
+      "15 Note to EM-RM-000.A \u2013 The total volume of crude oil and other feedstocks processed in the refinery system during the reporting period."
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "question": "How should a company in the Oil & Gas - Refining & Marketing industry disclose its gross global Scope 1 greenhouse gas emissions?",
+    "optionA": "Disclose only the emissions from stationary combustion sources like boilers and furnaces.",
+    "optionB": "Disclose emissions from all sources including stationary and mobile sources, process emissions, vented emissions, and fugitive emissions, consolidated per the financial control approach.",
+    "optionC": "Disclose only the emissions from mobile sources like vehicles and marine vessels.",
+    "optionD": "Disclose emissions from stationary and mobile sources, but exclude process, vented, and fugitive emissions.",
+    "optionE": "Disclose emissions only from sources located in regions with emissions-limiting regulations.",
+    "answer": "B",
+    "pages": [
+      "116",
+      "117"
+    ],
+    "reference_text": [
+      "1 The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol\u2014carbon dioxide (CO\u2082), methane (CH\u2084), nitrous oxide (N\u2082O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF\u2086), and nitrogen trifluoride (NF\u2083).",
+      "2 Scope 1 emissions are defined and shall be calculated according to the methodology contained in The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (GHG Protocol), Revised Edition, March 2004, published by the World Resources Institute and the World Business Council on Sustainable Development (WRI/WBCSD).",
+      "2.1 These emissions include direct emissions of GHGs from stationary or mobile sources; these sources include but are not limited to: equipment at well sites, production facilities, refineries, chemical plants, terminals, fixed site drilling rigs, office buildings, marine vessels transporting products, tank truck fleets, mobile drilling rigs, and moveable equipment at drilling and production facilities.",
+      "2.3 GHG emissions data shall be consolidated according to the approach with which the entity consolidates its financial reporting data, which is generally aligned with the \"financial control\" approach defined by the GHG Protocol as well as:"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "question": "For the requirement EM-RM-110a.2 on discussing strategy and targets for managing Scope 1 emissions, what categories of emissions sources should a company in the Oil & Gas - Refining & Marketing industry consider?",
+    "optionA": "Flared hydrocarbons, other combusted emissions, process emissions, vented emissions, and fugitive emissions.",
+    "optionB": "Only flared hydrocarbons and other combusted emissions from stationary sources.",
+    "optionC": "Only process emissions and vented emissions.",
+    "optionD": "Flared hydrocarbons, other combusted emissions, and process emissions.",
+    "optionE": "Only fugitive emissions and vented emissions.",
+    "answer": "A",
+    "pages": [
+      "119",
+      "120"
+    ],
+    "reference_text": [
+      "4.1 Categories of emissions sources may include:",
+      "4.1.1 Flared hydrocarbons, including all emissions emitted from flares and which are associated with the management and disposal of unrecoverable natural gas via combustion of hydrocarbon products from routine operations, upsets, or emergencies",
+      "4.1.2 Other combusted emissions, including, but not limited to: (1) emissions from stationary devices, including, but not limited to boilers, heaters, furnaces, reciprocating internal combustion engines and turbines, incinerators, and thermal/catalytic oxidizers, (2) emissions from mobile sources, including, but not limited to barges, ships, railcars, and trucks for material transport; planes/ helicopters and other company vehicles for personnel transport; forklifts, all terrain vehicles, construction equipment, and other off-road mobile equipment, and (3) other combusted emissions",
+      "4.1.3 Process emissions, including, but not limited to those emissions that are not combusted and are intentional or designed into the process or technology to occur during normal operations and are a result of some form of chemical transformation or processing step. Such emissions include, but are not limited to those from hydrogen plants, amine units, glycol dehydrators, fluid catalytic cracking unit and reformer generation, and flexi-coker coke burn",
+      "4.1.4 Vented emissions, including those emissions that are not combusted and are intentional or designed into the process or technology to occur during normal operations, and which include, but are not limited to: (1) venting from crude oil, condensate, or natural gas product storage tanks, gas-driven pneumatic devices, gas samplers, chemical injection pumps, exploratory drilling, loading/ballasting/transit, and loading racks, (2) venting resulting from maintenance/turn-arounds, including, but not limited to decoking of furnace tubes, well unloading, vessel and gas compressor depressurizing, compressor starts, gas sampling, and pipeline blowdowns, and (3) venting from non-routine activities, including but not limited to pressure relief valves, pressure control valves, fuel supply unloading valves, and emergency shut-down devices",
+      "4.1.5 Fugitive emissions, including those emissions which can be individually found and \"fixed\" to make emissions \"near zero\" and which include, but are not limited to emissions from valves, flanges, connectors, pumps, compressor seal leaks, catadyne heaters, and wastewater treatment and surface impoundments"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "question": "What is the code and unit of measure for the metric on total addressable market and share of market for advanced biofuels and associated infrastructure in the Oil & Gas - Refining & Marketing industry?",
+    "optionA": "EM-RM-410a.2, Reporting currency and Percentage (%)",
+    "optionB": "EM-RM-410a.1, Reporting currency and Percentage (%)",
+    "optionC": "EM-RM-410a.2, Barrels of oil equivalent (BOE) and Percentage (%)",
+    "optionD": "EM-RM-410a.1, Thousand cubic meters (m\u00b3) and Percentage (%)",
+    "optionE": "EM-RM-410a.2, Metric tons (t) CO2-e and Percentage (%)",
+    "answer": "A",
+    "pages": [
+      "122"
+    ],
+    "reference_text": [
+      "Total addressable market and share of market for advanced biofuels and associated infrastructure",
+      "Quantitative",
+      "Reporting currency, Percentage (%)",
+      "EM-RM-410a.2"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  }
+]

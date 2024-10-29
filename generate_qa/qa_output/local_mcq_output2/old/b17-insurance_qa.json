@@ -1,0 +1,182 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "What is the primary purpose of disclosing the Probable Maximum Loss (PML) of insured products from weather-related natural catastrophes?",
+    "optionA": "To demonstrate the company's financial strength",
+    "optionB": "To assess current and future performance on environmental risk management",
+    "optionC": "To comply with tax regulations",
+    "optionD": "To attract more customers",
+    "optionE": "To calculate annual bonuses for executives",
+    "answer": "B. To assess current and future performance on environmental risk management",
+    "reference": "Physical Risk Exposure",
+    "page": "163-164",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing the approach to incorporating environmental risks, what time horizons should an insurance company consider?",
+    "optionA": "Only short-term horizons",
+    "optionB": "Short-term and medium-term horizons",
+    "optionC": "Short-term, medium-term, and long-term horizons",
+    "optionD": "Only long-term horizons",
+    "optionE": "There is no requirement to consider time horizons",
+    "answer": "C. Short-term, medium-term, and long-term horizons",
+    "reference": "Physical Risk Exposure",
+    "page": "166",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "What should be included in the description of an insurance company's approach to incorporating ESG factors in investment management processes?",
+    "optionA": "Only negative/exclusionary screening methods",
+    "optionB": "Marketing strategies for ESG-focused products",
+    "optionC": "Detailed employee performance reviews",
+    "optionD": "Approaches including screening, sustainability themed investment, and integration of ESG",
+    "optionE": "Only positive/best-in-class screening methods",
+    "answer": "D. Approaches including screening, sustainability themed investment, and integration of ESG",
+    "reference": "Incorporation of Environmental, Social, and Governance Factors in Investment Management",
+    "page": "158-159",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing financed emissions, how should an insurance company calculate the percentage of gross exposure included?",
+    "optionA": "By dividing net exposure by total assets",
+    "optionB": "By multiplying gross exposure by the number of industries",
+    "optionC": "By dividing gross exposure included in financed emissions by total gross exposure to all industries and asset classes",
+    "optionD": "By subtracting liabilities from total assets",
+    "optionE": "By adding up all carbon-related exposures",
+    "answer": "C. By dividing gross exposure included in financed emissions by total gross exposure to all industries and asset classes",
+    "reference": "Transition Risk Exposure",
+    "page": "169-170",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the Probable Maximum Loss (PML) for weather-related natural catastrophes, what is the minimum number of likelihood of exceedance scenarios an insurance company should disclose?",
+    "optionA": "One scenario",
+    "optionB": "Two scenarios",
+    "optionC": "Three scenarios",
+    "optionD": "Four scenarios",
+    "optionE": "Five scenarios",
+    "answer": "C. Three scenarios",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "163",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When disclosing gross exposure to carbon-related industries, which classification system should an insurance company use to categorize counterparties?",
+    "optionA": "Standard Industrial Classification (SIC)",
+    "optionB": "North American Industry Classification System (NAICS)",
+    "optionC": "Global Industry Classification Standard (GICS)",
+    "optionD": "International Standard Industrial Classification (ISIC)",
+    "optionE": "Bloomberg Industry Classification System (BICS)",
+    "answer": "C. Global Industry Classification Standard (GICS)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "169",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating financed emissions intensity, what unit of measure should an insurance company use?",
+    "optionA": "Metric tons of CO2 equivalent per dollar of revenue",
+    "optionB": "Metric tons of CO2 equivalent per employee",
+    "optionC": "Metric tons of CO2 equivalent per unit of economic or physical activity",
+    "optionD": "Metric tons of CO2 equivalent per square foot of office space",
+    "optionE": "Metric tons of CO2 equivalent per insurance policy",
+    "answer": "C. Metric tons of CO2 equivalent per unit of economic or physical activity",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "172",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When disclosing net premiums written related to energy efficiency and low carbon technology, which of the following should be included in the scope?",
+    "optionA": "All insurance policies",
+    "optionB": "Only renewable energy insurance policies",
+    "optionC": "Policies where the insurer has separately priced and identified such net premiums in its billing to the customer",
+    "optionD": "Only carbon capture and storage insurance policies",
+    "optionE": "Policies related to traditional fossil fuel technologies",
+    "answer": "C. Policies where the insurer has separately priced and identified such net premiums in its billing to the customer",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "162",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What is a key challenge for insurance companies when incorporating environmental risks into their underwriting process for individual contracts?",
+    "optionA": "Lack of historical data on climate-related events",
+    "optionB": "Difficulty in pricing policies accurately",
+    "optionC": "Limited availability of reinsurance options",
+    "optionD": "Regulatory restrictions on risk assessment methods",
+    "optionE": "Inability to use catastrophe modeling",
+    "answer": "B: Difficulty in pricing policies accurately",
+    "reference": "Physical Risk Exposure",
+    "page": "165-166",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When assessing climate-related risks for insurance portfolios, which of the following is NOT considered a relevant time horizon according to IFRS S2?",
+    "optionA": "Short-term",
+    "optionB": "Medium-term",
+    "optionC": "Long-term",
+    "optionD": "Immediate-term",
+    "optionE": "All of the above are considered",
+    "answer": "D: Immediate-term",
+    "reference": "Physical Risk Exposure",
+    "page": "166",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What is a unique challenge for insurance companies when calculating and disclosing financed emissions?",
+    "optionA": "Lack of standardized calculation methodologies",
+    "optionB": "Difficulty in obtaining emissions data from investees",
+    "optionC": "Regulatory restrictions on emissions reporting",
+    "optionD": "Limited software tools for emissions calculations",
+    "optionE": "Inability to differentiate between Scope 1, 2, and 3 emissions",
+    "answer": "B: Difficulty in obtaining emissions data from investees",
+    "reference": "Transition Risk Exposure",
+    "page": "173",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What is a key challenge for insurance companies when incorporating climate-related scenarios into their Probable Maximum Loss (PML) calculations?",
+    "optionA": "Lack of historical data on extreme weather events",
+    "optionB": "Difficulty in predicting future regulatory changes",
+    "optionC": "Uncertainty in critical input parameters and assumptions for long-term scenarios",
+    "optionD": "Limited availability of catastrophe modeling software",
+    "optionE": "Inconsistency in global reporting standards for climate risks",
+    "answer": "C. Uncertainty in critical input parameters and assumptions for long-term scenarios",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "164",
+    "industries": [
+      "b17-insurance"
+    ]
+  }
+]

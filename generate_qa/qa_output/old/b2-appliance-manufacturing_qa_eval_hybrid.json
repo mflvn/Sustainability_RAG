@@ -1,0 +1,399 @@
+{
+  "evaluation_date": "2024-07-27T17:03:27.337568",
+  "total_questions": 23,
+  "correct_answers": 23,
+  "questions": [
+    {
+      "question": "What is one key differentiating factor for companies in the Appliance Manufacturing industry?",
+      "options": {
+        "optionA": "Product color options",
+        "optionB": "Brand name recognition",
+        "optionC": "Environmental impact of products over their lifecycle",
+        "optionD": "Manufacturing speed",
+        "optionE": "Product size variety"
+      },
+      "correct_answer": "C. Environmental impact of products over their lifecycle",
+      "rag_response": "C: Environmental impact of products over their lifecycle",
+      "is_correct": true,
+      "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+      "page": "12",
+      "industry": "b2-appliance-manufacturing",
+      "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document."
+    },
+    {
+      "question": "Which of the following is NOT mentioned as an AHAM sustainability standard in the document?",
+      "options": {
+        "optionA": "ANSI/AHAM 7001.2-2015: Sustainability Standard for Household Refrigeration Appliances",
+        "optionB": "AHAM 7002-2014: Sustainability Standard for Household Portable and Floor Care Appliances",
+        "optionC": "ANSI/AHAM 7003-2016: Sustainability Standard for Household Clothes Washers",
+        "optionD": "AHAM 7008-2018: Sustainability Standard for Household Dehumidifier Appliances",
+        "optionE": "AHAM 7009-2019: Sustainability Standard for Household Dishwasher Appliances"
+      },
+      "correct_answer": "E. AHAM 7009-2019: Sustainability Standard for Household Dishwasher Appliances",
+      "rag_response": "E: AHAM 7009-2019: Sustainability Standard for Household Dishwasher Appliances",
+      "is_correct": true,
+      "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+      "page": "13",
+      "industry": "b2-appliance-manufacturing",
+      "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document."
+    },
+    {
+      "question": "What is one way companies can incorporate end-of-life considerations into product design, according to the document?",
+      "options": {
+        "optionA": "Using expensive, rare materials",
+        "optionB": "Designing products for single-use only",
+        "optionC": "Using materials that are easily and commonly recyclable",
+        "optionD": "Increasing the use of hazardous materials",
+        "optionE": "Making products difficult to disassemble"
+      },
+      "correct_answer": "C. Using materials that are easily and commonly recyclable",
+      "rag_response": "C: Using materials that are easily and commonly recyclable",
+      "is_correct": true,
+      "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+      "page": "13-14",
+      "industry": "b2-appliance-manufacturing",
+      "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document."
+    },
+    {
+      "question": "How should an entity calculate the percentage of eligible products certified to an energy efficiency certification?",
+      "options": {
+        "optionA": "Total number of certified products divided by total number of products",
+        "optionB": "Revenue from certified products divided by total company revenue",
+        "optionC": "Number of certified product categories divided by total product categories",
+        "optionD": "Revenue from certified products divided by revenue from eligible products",
+        "optionE": "Number of certified products divided by number of eligible products"
+      },
+      "correct_answer": "D. Revenue from certified products divided by revenue from eligible products",
+      "rag_response": "D: Revenue from certified products divided by revenue from eligible products",
+      "is_correct": true,
+      "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+      "page": "12",
+      "industry": "b2-appliance-manufacturing",
+      "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document."
+    },
+    {
+      "question": "How might a company in the Appliance Manufacturing industry simultaneously address consumer demand, market share growth, and potential future regulations?",
+      "options": {
+        "optionA": "By focusing solely on product durability",
+        "optionB": "By prioritizing low-cost manufacturing techniques",
+        "optionC": "By designing products with improved environmental impacts throughout their lifecycle",
+        "optionD": "By increasing marketing budgets for existing products",
+        "optionE": "By expanding into unrelated product categories"
+      },
+      "correct_answer": "C. By designing products with improved environmental impacts throughout their lifecycle",
+      "rag_response": "C: By designing products with improved environmental impacts throughout their lifecycle",
+      "is_correct": true,
+      "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "page": "12",
+      "industry": "b2-appliance-manufacturing",
+      "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document."
+    },
+    {
+      "question": "In the context of managing product end-of-life impacts, which combination of actions would most comprehensively address the issue according to the document?",
+      "options": {
+        "optionA": "Only focusing on recyclable materials and hazardous material elimination",
+        "optionB": "Designing for disassembly and participating in voluntary take-back programs",
+        "optionC": "Using easily recyclable materials, eliminating hazardous materials, designing for disassembly, proper labeling, and participating in EPR initiatives",
+        "optionD": "Solely relying on mandatory EPR initiatives and proper labeling",
+        "optionE": "Focusing only on recycling technologies research and product take-back"
+      },
+      "correct_answer": "C. Using easily recyclable materials, eliminating hazardous materials, designing for disassembly, proper labeling, and participating in EPR initiatives",
+      "rag_response": "C: Using easily recyclable materials, eliminating hazardous materials, designing for disassembly, proper labeling, and participating in EPR initiatives",
+      "is_correct": true,
+      "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "page": "13-14",
+      "industry": "b2-appliance-manufacturing",
+      "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document."
+    },
+    {
+      "question": "How does the document suggest companies should approach sustainability certifications and standards across different product categories?",
+      "options": {
+        "optionA": "Focus only on energy efficiency certifications for all products",
+        "optionB": "Ignore sustainability standards and focus solely on production numbers",
+        "optionC": "Obtain AHAM sustainability certifications for all products regardless of eligibility",
+        "optionD": "Disclose percentages for both energy efficiency certifications and AHAM sustainability standards, considering eligible products for each",
+        "optionE": "Only pursue certifications for the most profitable product lines"
+      },
+      "correct_answer": "D. Disclose percentages for both energy efficiency certifications and AHAM sustainability standards, considering eligible products for each",
+      "rag_response": "D: Disclose percentages for both energy efficiency certifications and AHAM sustainability standards, considering eligible products for each",
+      "is_correct": true,
+      "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "page": "12-13",
+      "industry": "b2-appliance-manufacturing",
+      "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document."
+    },
+    {
+      "question": "How might a company's approach to product lifecycle environmental impacts affect both its market position and its ability to comply with potential future regulations?",
+      "options": {
+        "optionA": "By focusing solely on energy efficiency certifications",
+        "optionB": "By prioritizing only end-of-life disposal methods",
+        "optionC": "By designing products with improved environmental impacts throughout their lifecycle, from creation and use to disposal",
+        "optionD": "By investing exclusively in AHAM sustainability standards",
+        "optionE": "By concentrating only on reducing toxic heavy metals in products"
+      },
+      "correct_answer": "C. By designing products with improved environmental impacts throughout their lifecycle, from creation and use to disposal",
+      "rag_response": "C: By designing products with improved environmental impacts throughout their lifecycle, from creation and use to disposal",
+      "is_correct": true,
+      "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "page": "12-14",
+      "industry": "b2-appliance-manufacturing",
+      "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document."
+    },
+    {
+      "question": "What is the concept of 'designing for disassembly' in the context of appliance manufacturing?",
+      "options": {
+        "optionA": "Creating products that can be easily taken apart by consumers for DIY repairs",
+        "optionB": "Designing products so they can be easily, rapidly, and cost-effectively disassembled with commonly available tools",
+        "optionC": "Developing appliances that automatically disassemble themselves at the end of their lifecycle",
+        "optionD": "Constructing products with fewer components to simplify the manufacturing process",
+        "optionE": "Creating modular designs that allow for easy replacement of individual parts"
+      },
+      "correct_answer": "B. Designing products so they can be easily, rapidly, and cost-effectively disassembled with commonly available tools",
+      "rag_response": "B: Designing products so they can be easily, rapidly, and cost-effectively disassembled with commonly available tools",
+      "is_correct": true,
+      "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "page": "14",
+      "industry": "b2-appliance-manufacturing",
+      "qa_type": "Definition/Explanation: Questions asking to define or explain industry-specific terms or concepts."
+    },
+    {
+      "question": "What does the term 'extended producer responsibility' (EPR) mean in the appliance manufacturing industry?",
+      "options": {
+        "optionA": "A marketing strategy to extend product warranties",
+        "optionB": "A manufacturing technique to produce longer-lasting appliances",
+        "optionC": "A pricing model that includes the cost of disposal in the initial purchase price",
+        "optionD": "An initiative where manufacturers are responsible for the entire lifecycle of their products, including take-back, recovery, and recycling",
+        "optionE": "A customer service approach that provides support throughout the product's lifespan"
+      },
+      "correct_answer": "D. An initiative where manufacturers are responsible for the entire lifecycle of their products, including take-back, recovery, and recycling",
+      "rag_response": "D: An initiative where manufacturers are responsible for the entire lifecycle of their products, including take-back, recovery, and recycling",
+      "is_correct": true,
+      "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "page": "14",
+      "industry": "b2-appliance-manufacturing",
+      "qa_type": "Definition/Explanation: Questions asking to define or explain industry-specific terms or concepts."
+    },
+    {
+      "question": "In the context of appliance manufacturing, what are 'eligible products' when discussing energy efficiency certifications?",
+      "options": {
+        "optionA": "All products manufactured by a company",
+        "optionB": "Only high-end, luxury appliances",
+        "optionC": "Products that consume the most energy in households",
+        "optionD": "Products in categories for which energy efficiency certification exists, such as heating and cooling products",
+        "optionE": "Appliances that have already achieved some level of energy efficiency"
+      },
+      "correct_answer": "D. Products in categories for which energy efficiency certification exists, such as heating and cooling products",
+      "rag_response": "D: Products in categories for which energy efficiency certification exists, such as heating and cooling products",
+      "is_correct": true,
+      "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "page": "12",
+      "industry": "b2-appliance-manufacturing",
+      "qa_type": "Definition/Explanation: Questions asking to define or explain industry-specific terms or concepts."
+    },
+    {
+      "question": "What does the 'Product Lifecycle Environmental Impacts' topic encompass in the appliance manufacturing industry?",
+      "options": {
+        "optionA": "Only the manufacturing process of appliances",
+        "optionB": "The marketing and sales strategies for eco-friendly products",
+        "optionC": "The company's ability to design products considering their entire lifecycle, from creation and use to disposal",
+        "optionD": "The financial impacts of environmental regulations on product pricing",
+        "optionE": "The logistics of distributing appliances to retail locations"
+      },
+      "correct_answer": "C. The company's ability to design products considering their entire lifecycle, from creation and use to disposal",
+      "rag_response": "C: The company's ability to design products considering their entire lifecycle, from creation and use to disposal",
+      "is_correct": true,
+      "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "page": "12",
+      "industry": "b2-appliance-manufacturing",
+      "qa_type": "Definition/Explanation: Questions asking to define or explain industry-specific terms or concepts."
+    },
+    {
+      "question": "How might the integration of AHAM sustainability standards in product design impact an appliance manufacturer's market competitiveness and environmental responsibility?",
+      "options": {
+        "optionA": "It only affects the company's environmental image without any market benefits",
+        "optionB": "It leads to increased production costs without any consumer interest",
+        "optionC": "It improves market share and positions the company favorably for future regulations",
+        "optionD": "It only matters for luxury appliance brands",
+        "optionE": "It reduces the quality and durability of appliances"
+      },
+      "correct_answer": "C. It improves market share and positions the company favorably for future regulations",
+      "rag_response": "C: It improves market share and positions the company favorably for future regulations",
+      "is_correct": true,
+      "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "page": "12-13",
+      "industry": "b2-appliance-manufacturing",
+      "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information."
+    },
+    {
+      "question": "What broader implications does the industry's focus on product lifecycle environmental impacts have for consumer behavior and home energy consumption?",
+      "options": {
+        "optionA": "It has no effect on consumer behavior or energy consumption",
+        "optionB": "It only affects the manufacturing process, not consumer use",
+        "optionC": "It leads to increased energy consumption in homes",
+        "optionD": "It encourages consumers to buy more appliances, regardless of efficiency",
+        "optionE": "It can significantly reduce household energy and water use through efficient appliances"
+      },
+      "correct_answer": "E. It can significantly reduce household energy and water use through efficient appliances",
+      "rag_response": "E: It can significantly reduce household energy and water use through efficient appliances",
+      "is_correct": true,
+      "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "page": "12",
+      "industry": "b2-appliance-manufacturing",
+      "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information."
+    },
+    {
+      "question": "In what ways does the disclosure of production numbers by product category (CG-AM-000.A) contribute to understanding the industry's environmental impact and sustainability efforts?",
+      "options": {
+        "optionA": "It only helps in calculating profit margins",
+        "optionB": "It's irrelevant to environmental considerations",
+        "optionC": "It allows for assessment of resource usage and efficiency across different appliance types",
+        "optionD": "It only matters for tax purposes",
+        "optionE": "It's used exclusively for marketing purposes"
+      },
+      "correct_answer": "C. It allows for assessment of resource usage and efficiency across different appliance types",
+      "rag_response": "C: It allows for assessment of resource usage and efficiency across different appliance types",
+      "is_correct": true,
+      "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "page": "11",
+      "industry": "b2-appliance-manufacturing",
+      "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information."
+    },
+    {
+      "question": "In the context of AHAM sustainability standards, how should a company handle additions or updates to the scope of these standards?",
+      "options": {
+        "optionA": "Ignore the updates until the next reporting cycle",
+        "optionB": "Seek an extension before implementing any changes",
+        "optionC": "Immediately recall all products not meeting the new standards",
+        "optionD": "Consider them as additions to the scope of disclosure",
+        "optionE": "Apply for an exemption from the new standards"
+      },
+      "correct_answer": "D. Consider them as additions to the scope of disclosure",
+      "rag_response": "D: Consider them as additions to the scope of disclosure",
+      "is_correct": true,
+      "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "page": "13",
+      "industry": "b2-appliance-manufacturing",
+      "qa_type": "Policy/Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document."
+    },
+    {
+      "question": "When describing efforts to manage products' end-of-life impacts, what aspect of extended producer responsibility (EPR) initiatives must a company discuss?",
+      "options": {
+        "optionA": "The cost of implementing EPR initiatives",
+        "optionB": "The environmental benefits of EPR initiatives",
+        "optionC": "The consumer feedback on EPR initiatives",
+        "optionD": "Whether the initiative is voluntary or mandatory",
+        "optionE": "The marketing strategies for promoting EPR initiatives"
+      },
+      "correct_answer": "D. Whether the initiative is voluntary or mandatory",
+      "rag_response": "D: Whether the initiative is voluntary or mandatory",
+      "is_correct": true,
+      "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "page": "14",
+      "industry": "b2-appliance-manufacturing",
+      "qa_type": "Policy/Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document."
+    },
+    {
+      "question": "According to the industry standards, what specific information must a company disclose if its products are certified to a previous version of energy efficiency certification requirements?",
+      "options": {
+        "optionA": "Only the number of products certified to the previous version",
+        "optionB": "The version to which products are certified and the number of products",
+        "optionC": "The version, number of certified products, and timeline for updating certification",
+        "optionD": "Only the timeline for achieving certification to the most current version",
+        "optionE": "No disclosure is required for previous versions of certification"
+      },
+      "correct_answer": "C. The version, number of certified products, and timeline for updating certification",
+      "rag_response": "C: The version, number of certified products, and timeline for updating certification",
+      "is_correct": true,
+      "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "page": "12",
+      "industry": "b2-appliance-manufacturing",
+      "qa_type": "Policy/Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document."
+    },
+    {
+      "question": "What are the required elements for an appliance manufacturer to disclose when describing its efforts to manage products' end-of-life impacts?",
+      "options": {
+        "optionA": "Only the recycling processes for toxic heavy metals",
+        "optionB": "The scope of efforts and product design considerations for end-of-life",
+        "optionC": "Participation in extended producer responsibility initiatives only",
+        "optionD": "The scope of efforts, product design considerations, and participation in EPR initiatives",
+        "optionE": "Only the materials used in product manufacturing"
+      },
+      "correct_answer": "D. The scope of efforts, product design considerations, and participation in EPR initiatives",
+      "rag_response": "D: The scope of efforts, product design considerations, and participation in EPR initiatives",
+      "is_correct": true,
+      "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "page": "13-14",
+      "industry": "b2-appliance-manufacturing",
+      "qa_type": "Policy/Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document."
+    },
+    {
+      "question": "How might the increasing focus on energy efficiency certifications in the appliance industry influence future regulatory trends and consumer behavior?",
+      "options": {
+        "optionA": "It would have no impact on regulations or consumer behavior",
+        "optionB": "It would lead to decreased consumer interest in appliance efficiency",
+        "optionC": "It would result in fewer regulations for the appliance industry",
+        "optionD": "It would only affect industrial appliances, not consumer products",
+        "optionE": "It could lead to stricter energy regulations and increased consumer demand for efficient products"
+      },
+      "correct_answer": "E. It could lead to stricter energy regulations and increased consumer demand for efficient products",
+      "rag_response": "E: It could lead to stricter energy regulations and increased consumer demand for efficient products",
+      "is_correct": true,
+      "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+      "page": "12-13",
+      "industry": "b2-appliance-manufacturing",
+      "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis."
+    },
+    {
+      "question": "What potential challenges and opportunities might appliance manufacturers face when incorporating end-of-life considerations into product design?",
+      "options": {
+        "optionA": "There are no significant challenges or opportunities in this area",
+        "optionB": "Challenges in sourcing recyclable materials and opportunities for innovative design",
+        "optionC": "Only challenges related to increased production costs",
+        "optionD": "Only opportunities for marketing eco-friendly products",
+        "optionE": "Challenges in meeting safety regulations and opportunities for reducing manufacturing complexity"
+      },
+      "correct_answer": "B: Challenges in sourcing recyclable materials and opportunities for innovative design",
+      "rag_response": "B: Challenges in sourcing recyclable materials and opportunities for innovative design",
+      "is_correct": true,
+      "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "page": "13-14",
+      "industry": "b2-appliance-manufacturing",
+      "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis."
+    },
+    {
+      "question": "Which of the following topics is NOT mentioned as a key sustainability disclosure topic for the Appliance Manufacturing industry?",
+      "options": {
+        "optionA": "Product Lifecycle Environmental Impacts",
+        "optionB": "Energy Efficiency Certifications",
+        "optionC": "AHAM Sustainability Standards",
+        "optionD": "Extended Producer Responsibility",
+        "optionE": "Supply Chain Management"
+      },
+      "correct_answer": "E. Supply Chain Management",
+      "rag_response": "E: Supply Chain Management",
+      "is_correct": true,
+      "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "page": "11",
+      "industry": "b2-appliance-manufacturing",
+      "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document."
+    },
+    {
+      "question": "Which of the following metrics is NOT included in the Activity Metrics table for the Appliance Manufacturing industry?",
+      "options": {
+        "optionA": "Annual production",
+        "optionB": "Number of units produced",
+        "optionC": "Product categories",
+        "optionD": "Small appliances and major appliances",
+        "optionE": "Annual revenue"
+      },
+      "correct_answer": "E. Annual revenue",
+      "rag_response": "E: Annual revenue",
+      "is_correct": true,
+      "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "page": "11",
+      "industry": "b2-appliance-manufacturing",
+      "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document."
+    }
+  ],
+  "accuracy": 95.65217391304348
+}

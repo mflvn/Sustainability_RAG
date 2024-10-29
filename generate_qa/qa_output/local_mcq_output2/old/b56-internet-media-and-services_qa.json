@@ -1,0 +1,167 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing renewable energy consumption for an Internet Media & Services company, which of the following sources should NOT be included in the scope of renewable energy?",
+    "optionA": "Renewable fuel consumed by the entity",
+    "optionB": "Renewable energy directly produced by the entity",
+    "optionC": "Renewable energy purchased through a power purchase agreement with RECs",
+    "optionD": "The renewable portion of the electricity grid mix outside the entity's control",
+    "optionE": "Green-e Energy Certified utility program purchases",
+    "answer": "D. The renewable portion of the electricity grid mix outside the entity's control",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services",
+    "page": "561",
+    "industries": [
+      "b56-internet-media-and-services"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "For Internet Media & Services companies, when calculating the percentage of energy consumed from renewable sources, what is required for on-site generated renewable electricity to be claimed as renewable energy?",
+    "optionA": "The energy must be sold to the grid",
+    "optionB": "RECs and GOs must be retained and retired or cancelled on behalf of the entity",
+    "optionC": "The energy must be used exclusively for data center operations",
+    "optionD": "A third-party must certify the renewable energy generation",
+    "optionE": "The energy must be stored in batteries for later use",
+    "answer": "B. RECs and GOs must be retained and retired or cancelled on behalf of the entity",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services",
+    "page": "561",
+    "industries": [
+      "b56-internet-media-and-services"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When an Internet Media & Services company is disclosing water consumption in regions with water stress, how is 'High Baseline Water Stress' defined according to the World Resources Institute's Water Risk Atlas tool, Aqueduct?",
+    "optionA": "20-40 percent",
+    "optionB": "40-60 percent",
+    "optionC": "40-80 percent",
+    "optionD": "60-80 percent",
+    "optionE": ">80 percent",
+    "answer": "C. 40-80 percent",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services",
+    "page": "562",
+    "industries": [
+      "b56-internet-media-and-services"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "In discussing the integration of environmental considerations into strategic planning for data center needs, which of the following is NOT mentioned as a location-based environmental factor to be considered?",
+    "optionA": "Regional humidity",
+    "optionB": "Average temperature",
+    "optionC": "Water availability",
+    "optionD": "Soil composition",
+    "optionE": "Energy efficiency standards",
+    "answer": "D. Soil composition",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services",
+    "page": "563",
+    "industries": [
+      "b56-internet-media-and-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "How should an Internet Media & Services company calculate the percentage of energy consumed that was supplied from grid electricity?",
+    "optionA": "Total energy consumed divided by purchased grid electricity",
+    "optionB": "Purchased grid electricity divided by total energy consumed",
+    "optionC": "Renewable energy consumed divided by purchased grid electricity",
+    "optionD": "Self-generated energy divided by purchased grid electricity",
+    "optionE": "Purchased grid electricity minus renewable energy consumed",
+    "answer": "B. Purchased grid electricity divided by total energy consumed",
+    "reference": "Environmental Footprint of Hardware Infrastructure",
+    "page": "560",
+    "industries": [
+      "b56-internet-media-and-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When disclosing water consumption, how is water consumption defined for an Internet Media & Services company?",
+    "optionA": "Only water that evaporates during usage",
+    "optionB": "Water that is incorporated into the company's product or service",
+    "optionC": "Water that returns to a different catchment area",
+    "optionD": "All of the above",
+    "optionE": "Only water used for cooling data centers",
+    "answer": "D. All of the above",
+    "reference": "Environmental Footprint of Hardware Infrastructure",
+    "page": "562",
+    "industries": [
+      "b56-internet-media-and-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "What is the correct unit of measure for disclosing the amount of data storage in the activity metrics for Internet Media & Services companies?",
+    "optionA": "Gigabytes",
+    "optionB": "Terabytes",
+    "optionC": "Petabytes",
+    "optionD": "Exabytes",
+    "optionE": "Zettabytes",
+    "answer": "C. Petabytes",
+    "reference": "Table 2. Activity Metrics",
+    "page": "559",
+    "industries": [
+      "b56-internet-media-and-services"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When considering environmental factors for data center strategic planning, which of the following is NOT mentioned as a specific consideration in the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Regional humidity",
+    "optionB": "Average temperature",
+    "optionC": "Water availability",
+    "optionD": "Soil composition",
+    "optionE": "Energy efficiency standards",
+    "answer": "D. Soil composition",
+    "reference": "Environmental Footprint of Hardware Infrastructure",
+    "page": "563",
+    "industries": [
+      "b56-internet-media-and-services"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What unique challenge does the Internet Media & Services industry face when managing energy and water use in data centers?",
+    "optionA": "Balancing between energy efficiency and water consumption for cooling",
+    "optionB": "Sourcing renewable energy for all operations",
+    "optionC": "Implementing blockchain technology for energy tracking",
+    "optionD": "Reducing carbon emissions from employee commutes",
+    "optionE": "Managing e-waste from outdated hardware",
+    "answer": "A. Balancing between energy efficiency and water consumption for cooling",
+    "reference": "Environmental Footprint of Hardware Infrastructure",
+    "page": "560",
+    "industries": [
+      "b56-internet-media-and-services"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What unique activity metric does the IFRS S2 Climate-related Disclosures require Internet Media & Services companies to define and disclose?",
+    "optionA": "Annual revenue from digital services",
+    "optionB": "Number of employees in IT departments",
+    "optionC": "Entity-defined measure of user activity",
+    "optionD": "Carbon footprint per user",
+    "optionE": "Average data transfer speed",
+    "answer": "C. Entity-defined measure of user activity",
+    "reference": "Table 2. Activity Metrics",
+    "page": "559",
+    "industries": [
+      "b56-internet-media-and-services"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What unique trade-off do Internet Media & Services companies face when managing data center cooling needs?",
+    "optionA": "Balancing energy efficiency with water consumption",
+    "optionB": "Choosing between renewable and non-renewable energy sources",
+    "optionC": "Deciding between on-premise and cloud-based data storage",
+    "optionD": "Managing data processing capacity versus data storage capacity",
+    "optionE": "Optimizing user activity metrics against environmental impact",
+    "answer": "A. Balancing energy efficiency with water consumption",
+    "reference": "Environmental Footprint of Hardware Infrastructure",
+    "page": "560",
+    "industries": [
+      "b56-internet-media-and-services"
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2 Climate-related Disclosures for the Software & IT Services industry, which of the following is NOT a required disclosure topic?",
+    "optionA": "Environmental Footprint of Hardware Infrastructure",
+    "optionB": "Managing Systemic Risks from Technology Disruptions",
+    "optionC": "Cybersecurity and Data Privacy",
+    "optionD": "Total energy consumed and percentage of renewable energy",
+    "optionE": "Total water withdrawn and consumed in water-stressed areas",
+    "answer": "C. Cybersecurity and Data Privacy",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services",
+    "page": "576",
+    "industries": [
+      "b58-software-and-it-services"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing the percentage of renewable energy consumed, which of the following is NOT included in the scope of renewable energy according to IFRS S2?",
+    "optionA": "Renewable fuel consumed by the entity",
+    "optionB": "Renewable energy directly produced by the entity",
+    "optionC": "Renewable energy purchased through a PPA with explicit RECs",
+    "optionD": "Renewable portion of the electricity grid mix outside the entity's control",
+    "optionE": "Green-e Energy Certified utility program purchases",
+    "answer": "D. Renewable portion of the electricity grid mix outside the entity's control",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services",
+    "page": "579",
+    "industries": [
+      "b58-software-and-it-services"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "In the context of water consumption disclosure for Software & IT Services, how is water consumption defined according to IFRS S2?",
+    "optionA": "Only water that evaporates during usage",
+    "optionB": "Water that is recycled within the facility",
+    "optionC": "Total water withdrawn minus water discharged",
+    "optionD": "Water that evaporates, is incorporated into products, or doesn't return to the same catchment area",
+    "optionE": "Only water used for cooling data centers",
+    "answer": "D. Water that evaporates, is incorporated into products, or doesn't return to the same catchment area",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services",
+    "page": "580",
+    "industries": [
+      "b58-software-and-it-services"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When discussing business continuity risks related to disruptions of operations, what is considered a 'significant' service disruption according to IFRS S2?",
+    "optionA": "Any disruption lasting more than 1 hour",
+    "optionB": "Disruptions affecting at least 50% of customers",
+    "optionC": "Disruptions with remediation costs exceeding $1 million",
+    "optionD": "Any disruption caused by a cyber attack",
+    "optionE": "Disruptions with material correction costs or affecting a large number of customers or fundamental business operations",
+    "answer": "E. Disruptions with material correction costs or affecting a large number of customers or fundamental business operations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services",
+    "page": "583",
+    "industries": [
+      "b58-software-and-it-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the total energy consumed by a software company, which of the following energy sources should NOT be included according to IFRS S2?",
+    "optionA": "Purchased electricity",
+    "optionB": "Direct fuel usage",
+    "optionC": "Heating energy",
+    "optionD": "Energy consumed by customers using the company's software",
+    "optionE": "Steam energy",
+    "answer": "D. Energy consumed by customers using the company's software",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services",
+    "page": "578",
+    "industries": [
+      "b58-software-and-it-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "According to IFRS S2, how should a software company calculate the percentage of energy consumed that was supplied from grid electricity?",
+    "optionA": "Total energy consumed divided by purchased grid electricity consumption",
+    "optionB": "Purchased grid electricity consumption divided by total energy consumption",
+    "optionC": "Purchased grid electricity consumption minus renewable energy consumption",
+    "optionD": "Total energy consumed minus self-generated energy",
+    "optionE": "Purchased grid electricity consumption plus renewable energy consumption",
+    "answer": "B. Purchased grid electricity consumption divided by total energy consumption",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services",
+    "page": "578",
+    "industries": [
+      "b58-software-and-it-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the Power Usage Effectiveness (PUE) for data centers, what is the correct formula according to IFRS S2?",
+    "optionA": "Amount of power delivered to computing equipment divided by total power used by the facility",
+    "optionB": "Total power used by the facility minus power used for cooling",
+    "optionC": "Total amount of power used by the facility divided by amount of power delivered to computing equipment",
+    "optionD": "Amount of power used for cooling divided by power delivered to computing equipment",
+    "optionE": "Total power used by the facility plus power delivered to computing equipment",
+    "answer": "C. Total amount of power used by the facility divided by amount of power delivered to computing equipment",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services",
+    "page": "579-580",
+    "industries": [
+      "b58-software-and-it-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "How should a software company calculate the total customer downtime related to service disruptions according to IFRS S2?",
+    "optionA": "Sum of all service disruption durations",
+    "optionB": "Number of affected licenses multiplied by average disruption duration",
+    "optionC": "Total number of service disruptions in a year",
+    "optionD": "Interruption duration of each service disruption multiplied by the number of affected software and IT services licenses",
+    "optionE": "Average disruption duration divided by total number of licenses",
+    "answer": "D. Interruption duration of each service disruption multiplied by the number of affected software and IT services licenses",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services",
+    "page": "582-583",
+    "industries": [
+      "b58-software-and-it-services"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When reporting on water consumption in regions with high water stress, what specific metric should a software company include according to IFRS S2?",
+    "optionA": "Total water withdrawn only",
+    "optionB": "Total water consumed only",
+    "optionC": "Percentage of water recycled",
+    "optionD": "Both total water withdrawn and consumed, with percentages in high-stress regions",
+    "optionE": "Volume of water used for cooling data centers",
+    "answer": "D: Both total water withdrawn and consumed, with percentages in high-stress regions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "580-581",
+    "industries": [
+      "b58-software-and-it-services"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What unique consideration should software companies address when discussing the integration of environmental factors into data center planning?",
+    "optionA": "Only focus on energy efficiency",
+    "optionB": "Prioritize water consumption over energy use",
+    "optionC": "Consider location-based factors like humidity and temperature",
+    "optionD": "Ignore environmental regulations in planning",
+    "optionE": "Solely base decisions on cost factors",
+    "answer": "C: Consider location-based factors like humidity and temperature",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "581",
+    "industries": [
+      "b58-software-and-it-services"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What unique aspect of renewable energy reporting should software companies be aware of when preparing their sustainability report according to IFRS S2?",
+    "optionA": "Only report on solar energy use",
+    "optionB": "Exclude all grid electricity from calculations",
+    "optionC": "Include renewable energy certificates (RECs) only if retained and retired",
+    "optionD": "Report all green power as 100% renewable",
+    "optionE": "Ignore biomass sources entirely",
+    "answer": "C: Include renewable energy certificates (RECs) only if retained and retired",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "579",
+    "industries": [
+      "b58-software-and-it-services"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A software company is preparing its sustainability report and needs to disclose information about its data center operations. What unique challenge does IFRS S2 highlight regarding the trade-off between energy and water consumption in data centers?",
+    "optionA": "Balancing the cost of energy with the cost of water",
+    "optionB": "Deciding between on-premise and cloud-based data centers",
+    "optionC": "Managing the trade-off between energy efficiency and water usage for cooling",
+    "optionD": "Choosing between renewable and non-renewable energy sources",
+    "optionE": "Determining the optimal location for data centers based on energy availability",
+    "answer": "C. Managing the trade-off between energy efficiency and water usage for cooling",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services",
+    "page": "578",
+    "industries": [
+      "b58-software-and-it-services"
+    ]
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When preparing sustainability reports for both car rental/leasing and road transportation companies, which of the following metrics is required to be disclosed for BOTH industries according to IFRS S2 Climate-related Disclosures?",
+    "optionA": "Fleet utilization rate",
+    "optionB": "Average vehicle age",
+    "optionC": "Total fuel consumed",
+    "optionD": "Number of employees",
+    "optionE": "Load factor",
+    "answer": "C: Total fuel consumed",
+    "explanation": "Both industries are required to disclose total fuel consumption. For car rental and leasing, it's part of the fleet fuel economy disclosure (TR-CR-410a.1), while for road transportation, it's explicitly required in TR-RO-110a.3.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "615",
+      "639-640"
+    ],
+    "pairing_explanation": "Both industries depend heavily on vehicle fleets, hence sharing sustainability issues like emissions, fuel efficiency, and lifecycle management.",
+    "industries": [
+      "b64-car-rental-and-leasing",
+      "b68-road-transportation"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "A sustainability reporting team is preparing reports for both a car rental company and a road transportation company. Which of the following metrics is specifically required for the road transportation company but NOT for the car rental company?",
+    "optionA": "Average rental fleet size",
+    "optionB": "Gross global Scope 1 emissions",
+    "optionC": "Fleet utilization rate",
+    "optionD": "Rental day-weighted average rental fleet fuel economy",
+    "optionE": "Total available rental days",
+    "answer": "B: Gross global Scope 1 emissions",
+    "explanation": "Gross global Scope 1 emissions (TR-RO-110a.1) is a specific requirement for road transportation companies but not explicitly mentioned for car rental companies in the given IFRS S2 disclosures.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "614",
+      "637-638"
+    ],
+    "pairing_explanation": "Both industries depend heavily on vehicle fleets, hence sharing sustainability issues like emissions, fuel efficiency, and lifecycle management.",
+    "industries": [
+      "b64-car-rental-and-leasing",
+      "b68-road-transportation"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When comparing the fuel efficiency metrics for car rental/leasing and road transportation industries, which statement is correct?",
+    "optionA": "Both industries use the same unit of measure for fuel efficiency",
+    "optionB": "Road transportation uses revenue ton miles (RTM) while car rental uses rental day-weighted average",
+    "optionC": "Car rental allows for different units based on geographic region, while road transportation has a single global standard",
+    "optionD": "Both industries prioritize CO2 emissions per kilometer as the primary efficiency metric",
+    "optionE": "Road transportation focuses on load factor, while car rental focuses on fleet age",
+    "answer": "C: Car rental allows for different units based on geographic region, while road transportation has a single global standard",
+    "explanation": "The car rental industry allows for different units of fuel efficiency based on geographic region (e.g., gCO2/km, L/km, mpg), while the road transportation industry focuses on a more standardized approach using metrics like gross global Scope 1 emissions and total fuel consumed.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "615-616",
+      "637-640"
+    ],
+    "pairing_explanation": "Both industries depend heavily on vehicle fleets, hence sharing sustainability issues like emissions, fuel efficiency, and lifecycle management.",
+    "industries": [
+      "b64-car-rental-and-leasing",
+      "b68-road-transportation"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "A sustainability analyst is comparing utilization metrics between car rental/leasing and road transportation companies. Which pair of metrics would be most appropriate for this comparison?",
+    "optionA": "Fleet utilization rate vs. Load factor",
+    "optionB": "Average rental fleet size vs. Number of truck drivers",
+    "optionC": "Total available rental days vs. Revenue ton miles (RTM)",
+    "optionD": "Rental day-weighted average fleet fuel economy vs. Gross global Scope 1 emissions",
+    "optionE": "Average vehicle age vs. Total fuel consumed",
+    "answer": "A: Fleet utilization rate vs. Load factor",
+    "explanation": "Fleet utilization rate (for car rental/leasing) and load factor (for road transportation) are the most comparable metrics for assessing how efficiently each industry is using its vehicle capacity. Both metrics provide insights into the operational efficiency of the respective fleets.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "614",
+      "616",
+      "636"
+    ],
+    "pairing_explanation": "Both industries depend heavily on vehicle fleets, hence sharing sustainability issues like emissions, fuel efficiency, and lifecycle management.",
+    "industries": [
+      "b64-car-rental-and-leasing",
+      "b68-road-transportation"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing the environmental impact focus areas of car rental/leasing and road transportation industries, which statement is most accurate?",
+    "optionA": "Car rental focuses on fleet age, while road transportation prioritizes driver efficiency",
+    "optionB": "Road transportation emphasizes long-term emission reduction strategies, while car rental does not address this",
+    "optionC": "Both industries equally prioritize the use of renewable fuels in their disclosures",
+    "optionD": "Car rental emphasizes customer behavior, while road transportation focuses solely on vehicle efficiency",
+    "optionE": "Both industries focus on fleet fuel economy, but measure and report it differently",
+    "answer": "E: Both industries focus on fleet fuel economy, but measure and report it differently",
+    "explanation": "Both car rental/leasing and road transportation industries prioritize fleet fuel economy, but they measure and report it differently. Car rental uses rental day-weighted average fleet fuel economy, while road transportation focuses on total fuel consumed and the percentage of renewable fuels used.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "615-616",
+      "639-640"
+    ],
+    "pairing_explanation": "Both industries depend heavily on vehicle fleets, hence sharing sustainability issues like emissions, fuel efficiency, and lifecycle management.",
+    "industries": [
+      "b64-car-rental-and-leasing",
+      "b68-road-transportation"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the IFRS S2 Climate-related Disclosures differ in addressing future-oriented strategies for car rental/leasing companies compared to road transportation companies?",
+    "optionA": "Only car rental companies are required to discuss future fleet composition",
+    "optionB": "Road transportation companies must provide detailed emission reduction targets, while car rental companies do not",
+    "optionC": "Car rental companies focus on short-term strategies, while road transportation companies focus on long-term plans",
+    "optionD": "Both industries have identical requirements for discussing future emission reduction strategies",
+    "optionE": "Neither industry is required to discuss future-oriented strategies in their disclosures",
+    "answer": "B: Road transportation companies must provide detailed emission reduction targets, while car rental companies do not",
+    "explanation": "The IFRS S2 disclosures for road transportation companies explicitly require a discussion of long-term and short-term strategies to manage Scope 1 emissions, including emission reduction targets (TR-RO-110a.2). This level of detail for future-oriented strategies is not explicitly required in the disclosures for car rental companies.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "615-616",
+      "638-639"
+    ],
+    "pairing_explanation": "Both industries depend heavily on vehicle fleets, hence sharing sustainability issues like emissions, fuel efficiency, and lifecycle management.",
+    "industries": [
+      "b64-car-rental-and-leasing",
+      "b68-road-transportation"
+    ]
+  }
+]

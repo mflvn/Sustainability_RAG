@@ -1,0 +1,721 @@
+{
+  "evaluation_date": "2024-09-04T17:27:36.621791",
+  "total_questions": 272,
+  "questions": [
+    {
+      "question": "How should I calculate the percentage of energy consumed that is renewable for the Metals & Mining industry?",
+      "correct_answer": "The percentage shall be calculated as renewable energy consumption divided by total energy consumption.",
+      "rag_response": "The percentage of energy consumed that is renewable should be calculated as renewable energy consumption divided by total energy consumption.",
+      "bleu_score": 0.5695988432761473,
+      "rouge_l_score": 0.7857142808163265,
+      "reference": [
+        "The percentage shall be calculated as renewable energy consumption divided by total energy consumption."
+      ],
+      "page": [
+        "87"
+      ],
+      "industries": [
+        "b10-metals-and-mining"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "What does the IFRS require companies to disclose regarding total energy consumed for the Internet Media & Services industry?",
+      "correct_answer": "The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ).",
+      "rag_response": "The entity shall disclose the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ). The scope of energy consumption includes energy from all sources, including energy purchased from sources external to the entity and energy produced by the entity itself (self-generated).",
+      "bleu_score": 0.3745015183994073,
+      "rouge_l_score": 0.6792452784193664,
+      "reference": [
+        "The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ)."
+      ],
+      "page": [
+        "Page 560"
+      ],
+      "industries": [
+        "b56-internet-media-and-services"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "What does the IFRS require companies to disclose regarding the number of incidents of non-compliance with environmental permits, standards, and regulations for the Engineering & Construction Services industry?",
+      "correct_answer": "The entity shall disclose the total number of instances of non-compliance associated with the environment, including, but not limited to, violations of permits, standards, and/or regulations associated with waste, air quality and/or emissions, water discharges, water withdrawal exceedances, effluent limit exceedances (such as waste load allocation), violation of wastewater pretreatment requirements, oil or hazardous substance spills, land use, and endangered species.",
+      "rag_response": "The entity shall disclose the total number of instances of non-compliance associated with the environment, including, but not limited to, violations of permits, standards, and/or regulations associated with waste, air quality and/or emissions, water discharges, water withdrawal exceedances, effluent limit exceedances, violation of wastewater pretreatment requirements, oil or hazardous substance spills, land use, and endangered species.",
+      "bleu_score": 0.8846481137270356,
+      "rouge_l_score": 0.939999995018,
+      "reference": [
+        "The entity shall disclose the total number of instances of non-compliance associated with the environment, including, but not limited to, violations of permits, standards, and/or regulations associated with waste, air quality and/or emissions, water discharges, water withdrawal exceedances, effluent limit exceedances (such as waste load allocation), violation of wastewater pretreatment requirements, oil or hazardous substance spills, land use, and endangered species."
+      ],
+      "page": [
+        "Page 323"
+      ],
+      "industries": [
+        "b33-engineering-and-construction-services"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "What does the IFRS require companies to disclose regarding energy management for the Processed Foods industry?",
+      "correct_answer": "The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ). The scope of energy consumption includes energy from all sources, including energy purchased from sources external to the entity and energy produced by the entity itself (self-generated). For example, direct fuel usage, purchased electricity, and heating, cooling, and steam energy are all included within the scope of energy consumption. The scope of energy consumption includes only energy directly consumed by the entity during the reporting period. In calculating energy consumption from fuels and biofuels, the entity shall use higher heating values (HHV), also known as gross calorific values (GCV), which are directly measured or taken from the Intergovernmental Panel on Climate Change (IPCC). The entity shall disclose (2) the percentage of energy it consumed that was supplied from grid electricity. The percentage shall be calculated as purchased grid electricity consumption divided by total energy consumption. The entity shall disclose (3) the percentage of energy it consumed that is renewable energy. Renewable energy is defined as energy from sources that are replenished at a rate greater than or equal to their rate of depletion, such as geothermal, wind, solar, hydro, and biomass. The percentage shall be calculated as renewable energy consumption divided by total energy consumption.",
+      "rag_response": "The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ), (2) the percentage of grid electricity, and (3) the percentage of renewable energy.",
+      "bleu_score": 0.006790155801868966,
+      "rouge_l_score": 0.3333333301698807,
+      "reference": [
+        "The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ).",
+        "The scope of energy consumption includes energy from all sources, including energy purchased from sources external to the entity and energy produced by the entity itself (self-generated). For example, direct fuel usage, purchased electricity, and heating, cooling, and steam energy are all included within the scope of energy consumption.",
+        "The scope of energy consumption includes only energy directly consumed by the entity during the reporting period.",
+        "In calculating energy consumption from fuels and biofuels, the entity shall use higher heating values (HHV), also known as gross calorific values (GCV), which are directly measured or taken from the Intergovernmental Panel on Climate Change (IPCC).",
+        "The entity shall disclose (2) the percentage of energy it consumed that was supplied from grid electricity.",
+        "The percentage shall be calculated as purchased grid electricity consumption divided by total energy consumption.",
+        "The entity shall disclose (3) the percentage of energy it consumed that is renewable energy.",
+        "Renewable energy is defined as energy from sources that are replenished at a rate greater than or equal to their rate of depletion, such as geothermal, wind, solar, hydro, and biomass.",
+        "The percentage shall be calculated as renewable energy consumption divided by total energy consumption."
+      ],
+      "page": [
+        "259",
+        "260"
+      ],
+      "industries": [
+        "b25-processed-foods"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "What is the category of the 'Payload fuel economy' metric in the Health Care Distributors industry and how should this metric be calculated?",
+      "correct_answer": "The category of the 'Payload fuel economy' metric is Quantitative. Payload fuel economy shall be calculated as: total gallons of fuel consumed / revenue tons miles (RTM), where revenue ton miles (RTM) = total weight of paid tonnage transported (payload) \u00d7 total distance in miles goods were transported.",
+      "rag_response": "The category of the 'Payload fuel economy' metric in the Health Care Distributors industry is HC-DI-110a.1. This metric should be calculated as total gallons of fuel consumed divided by revenue tons miles (RTM), where revenue ton miles (RTM) equals total weight of paid tonnage transported (payload) multiplied by total distance in miles goods were transported.",
+      "bleu_score": 0.6112295894670335,
+      "rouge_l_score": 0.7407407357597928,
+      "reference": [
+        "| Fleet Fuel Management | Payload fuel economy | Quantitative | Gallons, Tons (U.S.), Miles | HC-DI-110a.1 |",
+        "3 Payload fuel economy shall be calculated as: total gallons of fuel consumed / revenue tons miles (RTM), where revenue ton miles (RTM) = total weight of paid tonnage transported (payload) \u00d7 total distance in miles goods were transported."
+      ],
+      "page": [
+        "Page 289",
+        "Page 290"
+      ],
+      "industries": [
+        "b29-health-care-distributors"
+      ],
+      "qa_type": "multi_hop"
+    },
+    {
+      "question": "What do I need to discuss or disclose for the 'Description of efforts to reduce the environmental impact of logistics' topic in the Health Care Distributors industry?",
+      "correct_answer": "The entity shall describe the nature, scope, and implementation of its programs and initiatives to reduce the environmental impact of its logistics operations. Relevant efforts to describe include, but are not limited to, upgrades to fleet (fuel efficiency), usage of alternative and/or renewable fuels, optimized logistics routes, and idling reduction programs.",
+      "rag_response": "You need to describe the nature, scope, and implementation of your programs and initiatives to reduce the environmental impact of your logistics operations. Relevant efforts to describe include, but are not limited to, upgrades to fleet (fuel efficiency), usage of alternative and/or renewable fuels, optimized logistics routes, and idling reduction programs.",
+      "bleu_score": 0.8661414259615641,
+      "rouge_l_score": 0.9113924000640923,
+      "reference": [
+        "| Fleet Fuel Management | Description of efforts to reduce the environmental impact of logistics | Discussion and Analysis | n/a | HC-DI-110a.2 |",
+        "1 The entity shall describe the nature, scope, and implementation of its programs and initiatives to reduce the environmental impact of its logistics operations.",
+        "2 Relevant efforts to describe include, but are not limited to, upgrades to fleet (fuel efficiency), usage of alternative and/or renewable fuels, optimized logistics routes, and idling reduction programs."
+      ],
+      "page": [
+        "Page 289",
+        "Page 290"
+      ],
+      "industries": [
+        "b29-health-care-distributors"
+      ],
+      "qa_type": "multi_hop"
+    },
+    {
+      "question": "What does the IFRS require companies to disclose regarding gross global Scope 1 emissions for the Metals & Mining industry?",
+      "correct_answer": "The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol\u2014carbon dioxide (CO\u2082), methane (CH\u2084), nitrous oxide (N\u2082O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF\u2086), and nitrogen trifluoride (NF\u2083). Emissions of all GHGs shall be consolidated and disclosed in metric tons of carbon dioxide equivalents (CO\u2082-e), and calculated in accordance with published 100-year time horizon global warming potential (GWP) values. To date, the preferred source for GWP values is the Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report (2014). Gross emissions are GHGs emitted into the atmosphere before accounting for offsets, credits, or other similar mechanisms that have reduced or compensated for emissions.",
+      "rag_response": "The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol\u2014carbon dioxide (CO\u2082), methane (CH\u2084), nitrous oxide (N\u2082O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF\u2086), and nitrogen trifluoride (NF\u2083).",
+      "bleu_score": 0.2557291599131006,
+      "rouge_l_score": 0.5985401417912516,
+      "reference": [
+        "The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol\u2014carbon dioxide (CO\u2082), methane (CH\u2084), nitrous oxide (N\u2082O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF\u2086), and nitrogen trifluoride (NF\u2083).",
+        "Emissions of all GHGs shall be consolidated and disclosed in metric tons of carbon dioxide equivalents (CO\u2082-e), and calculated in accordance with published 100-year time horizon global warming potential (GWP) values. To date, the preferred source for GWP values is the Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report (2014).",
+        "Gross emissions are GHGs emitted into the atmosphere before accounting for offsets, credits, or other similar mechanisms that have reduced or compensated for emissions."
+      ],
+      "page": [
+        "82",
+        "83"
+      ],
+      "industries": [
+        "b10-metals-and-mining"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "Describe the calculation method for the percentage of food ingredients sourced from regions with High or Extremely High Baseline Water Stress for the Processed Foods industry.",
+      "correct_answer": "The percentage shall be calculated as the cost of food ingredients purchased from Tier 1 suppliers that withdraw and consume water in regions with High or Extremely High Baseline Water Stress for the production of the agricultural products divided by the total cost of food ingredients purchased from Tier 1 suppliers.",
+      "rag_response": "The percentage is calculated as the cost of food ingredients purchased from Tier 1 suppliers that withdraw and consume water in regions with High or Extremely High Baseline Water Stress for the production of the agricultural products divided by the total cost of food ingredients purchased from Tier 1 suppliers.",
+      "bleu_score": 0.9354820189150094,
+      "rouge_l_score": 0.9589041045899794,
+      "reference": [
+        "The percentage shall be calculated as the cost of food ingredients purchased from Tier 1 suppliers that withdraw and consume water in regions with High or Extremely High Baseline Water Stress for the production of the agricultural products divided by the total cost of food ingredients purchased from Tier 1 suppliers."
+      ],
+      "page": [
+        "268"
+      ],
+      "industries": [
+        "b25-processed-foods"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "What is the code of the 'Lifecycle greenhouse gas (GHG) emissions, by biofuel type' metric in the Biofuels industry and how should this metric be calculated?",
+      "correct_answer": "The code for the 'Lifecycle greenhouse gas (GHG) emissions, by biofuel type' metric in the Biofuels industry is RR-BI-410a.1. The entity shall disclose its lifecycle GHG emissions (in grams of CO\u2082-e per megajoule) for each biofuel category it produces. Lifecycle GHG emissions are defined as the aggregate quantity of GHG emissions (including direct emissions and significant indirect emissions, such as significant emissions from land-use changes) related to the full fuel lifecycle, including all stages of fuel and feedstock production and distribution, from feedstock generation or extraction through the distribution and delivery of the finished fuel, to the ultimate consumer and use of the fuel, where the mass values for all GHGs are adjusted to account for their relative global warming potential. The entity shall disclose its lifecycle GHG emissions for each of the following biofuel types that it produces: (1) renewable fuel, (2) advanced biofuel, (3) biodiesel, and (4) cellulosic biofuel.",
+      "rag_response": "RR-BI-410a.1. Lifecycle greenhouse gas (GHG) emissions, by biofuel type, should be calculated as the aggregate quantity of GHG emissions (including direct emissions and significant indirect emissions, such as significant emissions from land-use changes) related to the full fuel lifecycle, including all stages of fuel and feedstock production and distribution, from feedstock generation or extraction through the distribution and delivery of the finished fuel, to the ultimate consumer and use of the fuel, where the mass values for all GHGs are adjusted to account for their relative global warming potential.",
+      "bleu_score": 0.43271387359360963,
+      "rouge_l_score": 0.7453416101168937,
+      "reference": [
+        "RR-BI-410a.1. Lifecycle greenhouse gas (GHG) emissions, by biofuel type",
+        "1 The entity shall disclose its lifecycle GHG emissions (in grams of CO\u2082-e per megajoule) for each biofuel category it produces.",
+        "1.1 Lifecycle GHG emissions are defined as the aggregate quantity of GHG emissions (including direct emissions and significant indirect emissions, such as significant emissions from land-use changes) related to the full fuel lifecycle, including all stages of fuel and feedstock production and distribution, from feedstock generation or extraction through the distribution and delivery of the finished fuel, to the ultimate consumer and use of the fuel, where the mass values for all GHGs are adjusted to account for their relative global warming potential.",
+        "1.2 The entity shall disclose its lifecycle GHG emissions for each of the following biofuel types that it produces: (1) renewable fuel, (2) advanced biofuel, (3) biodiesel, and (4) cellulosic biofuel."
+      ],
+      "page": [
+        "431",
+        "432"
+      ],
+      "industries": [
+        "b40-biofuels"
+      ],
+      "qa_type": "multi_hop"
+    },
+    {
+      "question": "Compare and contrast the reporting requirements for 'Structural Integrity & Safety' and 'Lifecycle Impacts of Buildings & Infrastructure' topics in the Engineering & Construction Services industry.",
+      "correct_answer": "For the 'Structural Integrity & Safety' topic, the entity is required to disclose the total amount of defect- and safety-related rework costs incurred, which includes costs associated with labor, materials, design, equipment, and subcontractors. The entity may discuss projects with significant rework costs relative to actual or projected total project costs, including root causes of rework, corrective actions implemented, and financial impacts to the company. Additionally, the entity must disclose the total amount of monetary losses incurred during the reporting period as a result of legal proceedings associated with defect- and safety-related incidents and allegations. The entity shall briefly describe the nature and context of all monetary losses as a result of legal proceedings and describe any corrective actions implemented. \n\nFor the 'Lifecycle Impacts of Buildings & Infrastructure' topic, the entity shall disclose the number of commissioned projects certified to a third-party multi-attribute sustainability standard and the number of active projects seeking such certification. The entity shall disclose the third-party multi-attribute sustainability standard(s) to which projects are certified or seeking certification. The entity shall also provide a discussion of the process it uses to incorporate operational-phase energy and water efficiency considerations into project planning and design, including actions taken to incorporate such considerations, geographic markets, competitive advantages, and long-term cost-benefit analyses. The entity shall describe its approach to assessing risks associated with operational-phase energy and water efficiency considerations and its use of codes, guidelines, and standards that address operational-phase energy and water efficiency.",
+      "rag_response": "The 'Structural Integrity & Safety' topic requires the disclosure of defect- and safety-related rework costs, while the 'Lifecycle Impacts of Buildings & Infrastructure' topic requires the disclosure of the number of projects certified to a third-party multi-attribute sustainability standard and the number of active projects seeking such certification. The former focuses on the safety and integrity of buildings and infrastructure, whereas the latter focuses on the environmental impacts of these projects throughout their lifecycle.",
+      "bleu_score": 0.044855650238627344,
+      "rouge_l_score": 0.3372092983017847,
+      "reference": [
+        "For the 'Structural Integrity & Safety' topic, the entity is required to disclose the total amount of defect- and safety-related rework costs incurred, which includes costs associated with labor, materials, design, equipment, and subcontractors. The entity may discuss projects with significant rework costs relative to actual or projected total project costs, including root causes of rework, corrective actions implemented, and financial impacts to the company. Additionally, the entity must disclose the total amount of monetary losses incurred during the reporting period as a result of legal proceedings associated with defect- and safety-related incidents and allegations. The entity shall briefly describe the nature and context of all monetary losses as a result of legal proceedings and describe any corrective actions implemented.",
+        "For the 'Lifecycle Impacts of Buildings & Infrastructure' topic, the entity shall disclose the number of commissioned projects certified to a third-party multi-attribute sustainability standard and the number of active projects seeking such certification. The entity shall disclose the third-party multi-attribute sustainability standard(s) to which projects are certified or seeking certification. The entity shall also provide a discussion of the process it uses to incorporate operational-phase energy and water efficiency considerations into project planning and design, including actions taken to incorporate such considerations, geographic markets, competitive advantages, and long-term cost-benefit analyses. The entity shall describe its approach to assessing risks associated with operational-phase energy and water efficiency considerations and its use of codes, guidelines, and standards that address operational-phase energy and water efficiency."
+      ],
+      "page": [
+        "326",
+        "327",
+        "328",
+        "329",
+        "330"
+      ],
+      "industries": [
+        "b33-engineering-and-construction-services"
+      ],
+      "qa_type": "multi_hop"
+    },
+    {
+      "question": "Describe the calculation method for the lifecycle greenhouse gas (GHG) emissions metric for the Biofuels industry.",
+      "correct_answer": "The entity shall disclose its lifecycle GHG emissions (in grams of CO\u2082-e per megajoule) for each biofuel category it produces. Lifecycle GHG emissions are defined as the aggregate quantity of GHG emissions (including direct emissions and significant indirect emissions, such as significant emissions from land-use changes) related to the full fuel lifecycle, including all stages of fuel and feedstock production and distribution, from feedstock generation or extraction through the distribution and delivery of the finished fuel, to the ultimate consumer and use of the fuel, where the mass values for all GHGs are adjusted to account for their relative global warming potential. The entity shall disclose its lifecycle GHG emissions for each of the following biofuel types that it produces: (1) renewable fuel, (2) advanced biofuel, (3) biodiesel, and (4) cellulosic biofuel.",
+      "rag_response": "The lifecycle greenhouse gas (GHG) emissions metric for the Biofuels industry is defined as the aggregate quantity of GHG emissions, including direct emissions and significant indirect emissions, such as significant emissions from land-use changes, related to the full fuel lifecycle. This includes all stages of fuel and feedstock production and distribution, from feedstock generation or extraction through the distribution and delivery of the finished fuel, to the ultimate consumer and use of the fuel. The mass values for all GHGs are adjusted to account for their relative global warming potential.",
+      "bleu_score": 0.4369777521422202,
+      "rouge_l_score": 0.6944444395611499,
+      "reference": [
+        "The entity shall disclose its lifecycle GHG emissions (in grams of CO\u2082-e per megajoule) for each biofuel category it produces.",
+        "Lifecycle GHG emissions are defined as the aggregate quantity of GHG emissions (including direct emissions and significant indirect emissions, such as significant emissions from land-use changes) related to the full fuel lifecycle, including all stages of fuel and feedstock production and distribution, from feedstock generation or extraction through the distribution and delivery of the finished fuel, to the ultimate consumer and use of the fuel, where the mass values for all GHGs are adjusted to account for their relative global warming potential.",
+        "The entity shall disclose its lifecycle GHG emissions for each of the following biofuel types that it produces: (1) renewable fuel, (2) advanced biofuel, (3) biodiesel, and (4) cellulosic biofuel."
+      ],
+      "page": [
+        "431",
+        "432"
+      ],
+      "industries": [
+        "b40-biofuels"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "What does the IFRS require companies to disclose regarding water management risks for the Household & Personal Products industry?",
+      "correct_answer": "The entity shall describe its water management risks associated with water withdrawals, water consumption, and discharge of water and/or wastewater.",
+      "rag_response": "The entity shall describe its water management risks associated with water withdrawals, water consumption, and discharge of water and/or wastewater.",
+      "bleu_score": 1.0,
+      "rouge_l_score": 0.999999995,
+      "reference": [
+        "The entity shall describe its water management risks associated with water withdrawals, water consumption, and discharge of water and/or wastewater."
+      ],
+      "page": [
+        "Page 35"
+      ],
+      "industries": [
+        "b5-household-and-personal-products"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "What does the IFRS require companies to disclose regarding the sales-weighted average passenger fleet fuel economy for the Automobiles industry?",
+      "correct_answer": "The entity shall disclose the average fuel economy of its passenger and light-duty vehicle fleet, weighted for the footprint of vehicles sold, by geographic region.",
+      "rag_response": "The entity shall disclose the average fuel economy of its passenger and light-duty vehicle fleet, weighted for the footprint of vehicles sold, by geographic region.",
+      "bleu_score": 1.0,
+      "rouge_l_score": 0.999999995,
+      "reference": [
+        "The entity shall disclose the average fuel economy of its passenger and light-duty vehicle fleet, weighted for the footprint of vehicles sold, by geographic region."
+      ],
+      "page": [
+        "610"
+      ],
+      "industries": [
+        "b63-automobiles"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "Describe the calculation method for the percentage of palm oil certified through RSPO supply chains for the Household & Personal Products industry.",
+      "correct_answer": "The percentage shall be calculated as the weight in each respective RSPO supply chain model (IP, SG, MB, or B&C) of RSPO-certified palm oil sourced by the entity divided by the total weight, in metric tons, of palm oil sourced by the entity.",
+      "rag_response": "The percentage of palm oil certified through RSPO supply chains is calculated as the weight in each respective RSPO supply chain model (IP, SG, MB, or B&C) of RSPO-certified palm oil sourced by the entity divided by the total weight, in metric tons, of palm oil sourced by the entity.",
+      "bleu_score": 0.8242879643139965,
+      "rouge_l_score": 0.9090909040955004,
+      "reference": [
+        "The percentage shall be calculated as the weight in each respective RSPO supply chain model (IP, SG, MB, or B&C) of RSPO-certified palm oil sourced by the entity divided by the total weight, in metric tons, of palm oil sourced by the entity."
+      ],
+      "page": [
+        "Page 38"
+      ],
+      "industries": [
+        "b5-household-and-personal-products"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Fuel Economy & Use-phase Emissions' topics in the Automobiles industry and how should these metrics be calculated?",
+      "correct_answer": "The unit of measure for the 'Sales-weighted average passenger fleet fuel economy, by region' metric is Mpg, L/km, gCO\u2082/km, km/L. The unit of measure for the 'Number of (1) zero emission vehicles (ZEV), (2) hybrid vehicles, and (3) plug-in hybrid vehicles sold' metric is Number. The 'Sales-weighted average passenger fleet fuel economy, by region' metric should be calculated by disclosing the average fuel economy of its passenger and light-duty vehicle fleet, weighted for the footprint of vehicles sold, by geographic region. The 'Number of (1) zero emission vehicles (ZEV), (2) hybrid vehicles, and (3) plug-in hybrid vehicles sold' metric should be calculated by disclosing the number of vehicles sold during the reporting period that can be classified as: (1) zero emission vehicles (ZEV), (2) hybrid vehicles, and (3) plug-in hybrid electric vehicles.",
+      "rag_response": "For the 'Fuel Economy & Use-phase Emissions' topics in the Automobiles industry, the units of measure for the metrics are as follows:\n\n1. Grams of carbon dioxide per kilometer (gCO2 / km) for passenger cars and light commercial vehicles in the European Union\n2. Liters of petrol per kilometer (L / km) for passenger vehicles in Japan\n3. Miles per gallon (mpg) for domestic passenger cars, imported passenger cars, and light trucks in the U.S. that are subject to Corporate Average Fuel Economy (CAFE) standards\n4. Kilometers per liter (km / L) for passenger vehicles in New Zealand\n\nThe metrics should be calculated as follows:\n\n1. The average fuel economy shall be calculated by model year as required for regulatory purposes.\n2. In the absence of regulatory guidance on calculating a fleet average, the entity shall calculate performance based on the fuel economy of vehicles sold during the reporting period weighted by sales volume.\n3. The calculation shall be made on a fleet-average basis regardless of whether regulations are based on vehicle weight.",
+      "bleu_score": 0.0958278815010271,
+      "rouge_l_score": 0.26506023641747717,
+      "reference": [
+        "| Fuel Economy & Use-phase Emissions | Sales-weighted average passenger fleet fuel economy, by region | Quantitative | Mpg, L/km, gCO\u2082/km, km/L | TR-AU-410a.1 |",
+        "| Fuel Economy & Use-phase Emissions | Number of (1) zero emission vehicles (ZEV), (2) hybrid vehicles, and (3) plug-in hybrid vehicles sold | Quantitative | Number | TR-AU-410a.2 |",
+        "1 The entity shall disclose the average fuel economy of its passenger and light-duty vehicle fleet, weighted for the footprint of vehicles sold, by geographic region.",
+        "1 The entity shall disclose the number of vehicles sold during the reporting period that can be classified as: (1) zero emission vehicles (ZEV), (2) hybrid vehicles, and (3) plug-in hybrid electric vehicles."
+      ],
+      "page": [
+        "609",
+        "610",
+        "611"
+      ],
+      "industries": [
+        "b63-automobiles"
+      ],
+      "qa_type": "multi_hop"
+    },
+    {
+      "question": "What is the code of the metric for total energy consumed in the Internet Media & Services industry and how should this metric be calculated?",
+      "correct_answer": "The code for the metric for total energy consumed in the Internet Media & Services industry is TC-IM-130a.1. The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ). The scope of energy consumption includes energy from all sources, including energy purchased from sources external to the entity and energy produced by the entity itself (self-generated). For example, direct fuel usage, purchased electricity, and heating, cooling, and steam energy are all included within the scope of energy consumption. The scope of energy consumption includes only energy directly consumed by the entity during the reporting period. In calculating energy consumption from fuels and biofuels, the entity shall use higher heating values (HHV), also known as gross calorific values (GCV), which are directly measured or taken from the Intergovernmental Panel on Climate Change (IPCC).",
+      "rag_response": "TC-IM-130a.1. The entity shall disclose the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ). The scope of energy consumption includes energy from all sources, including energy purchased from sources external to the entity and energy produced by the entity itself (self-generated).",
+      "bleu_score": 0.12446995554506311,
+      "rouge_l_score": 0.5853658495181441,
+      "reference": [
+        "The code for the metric for total energy consumed in the Internet Media & Services industry is TC-IM-130a.1.",
+        "The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ).",
+        "The scope of energy consumption includes energy from all sources, including energy purchased from sources external to the entity and energy produced by the entity itself (self-generated). For example, direct fuel usage, purchased electricity, and heating, cooling, and steam energy are all included within the scope of energy consumption.",
+        "The scope of energy consumption includes only energy directly consumed by the entity during the reporting period.",
+        "In calculating energy consumption from fuels and biofuels, the entity shall use higher heating values (HHV), also known as gross calorific values (GCV), which are directly measured or taken from the Intergovernmental Panel on Climate Change (IPCC)."
+      ],
+      "page": [
+        "Page 559",
+        "Page 560"
+      ],
+      "industries": [
+        "b56-internet-media-and-services"
+      ],
+      "qa_type": "multi_hop"
+    },
+    {
+      "question": "How should I report the percentage of energy consumed that is renewable for the Internet Media & Services industry?",
+      "correct_answer": "The entity shall disclose (3) the percentage of energy it consumed that is renewable energy.",
+      "rag_response": "To report the percentage of energy consumed that is renewable for the Internet Media & Services industry, you should calculate it as renewable energy consumption divided by total energy consumption. Renewable energy includes renewable fuel consumed, renewable energy directly produced, and renewable energy purchased through a renewable power purchase agreement (PPA) that explicitly includes renewable energy certificates (RECs) or Guarantees of Origin (GOs).",
+      "bleu_score": 0.07299492377977855,
+      "rouge_l_score": 0.2666666630888889,
+      "reference": [
+        "The entity shall disclose (3) the percentage of energy it consumed that is renewable energy."
+      ],
+      "page": [
+        "Page 560"
+      ],
+      "industries": [
+        "b56-internet-media-and-services"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "How should I report the amount of defect- and safety-related rework costs for the Engineering & Construction Services industry?",
+      "correct_answer": "The entity shall disclose the total amount of defect- and safety-related rework costs incurred.",
+      "rag_response": "The entity shall disclose the total amount of defect- and safety-related rework costs incurred. Rework is defined as activities in the field that have to be done more than once in the field or activities that remove work previously installed as part of the project. The scope of rework costs includes, but is not limited to, costs associated with labor, materials, design, equipment, and subcontractors.",
+      "bleu_score": 0.18558788266795456,
+      "rouge_l_score": 0.4444444409876544,
+      "reference": [
+        "The entity shall disclose the total amount of defect- and safety-related rework costs incurred."
+      ],
+      "page": [
+        "Page 326"
+      ],
+      "industries": [
+        "b33-engineering-and-construction-services"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "What do I need to discuss or disclose for the integration of environmental considerations into strategic planning for data center needs in the Internet Media & Services industry?",
+      "correct_answer": "The entity shall describe its approach to the integration of environmental considerations, including energy and water use, into strategic planning for data centers. Discussion shall include, but is not limited to, how environmental factors impact the entity's decisions regarding the siting, design, construction, refurbishment, and operations of data centers. Environmental factors and criteria may include, but are not limited to: Location-based environmental factors, such as regional humidity, average temperature, and water availability. Environmental regulations, such as energy efficiency standards and national- or state-level carbon legislation on pricing, and carbon intensity of grid electricity. The scope of disclosure includes considerations for existing owned data centers, development of new data centers, and outsourcing of data center services, where relevant.",
+      "rag_response": "You need to describe your approach to the integration of environmental considerations, including energy and water use, into strategic planning for data centers. The discussion should include how environmental factors impact your decisions regarding the siting, design, construction, refurbishment, and operations of data centers. Environmental factors and criteria may include location-based environmental factors, such as regional humidity, average temperature, and water availability, as well as environmental regulations, such as energy efficiency standards and national- or state-level carbon legislation on pricing, and carbon intensity of grid electricity.",
+      "bleu_score": 0.5470822066815343,
+      "rouge_l_score": 0.7361111062075617,
+      "reference": [
+        "The entity shall describe its approach to the integration of environmental considerations, including energy and water use, into strategic planning for data centers.",
+        "Discussion shall include, but is not limited to, how environmental factors impact the entity's decisions regarding the siting, design, construction, refurbishment, and operations of data centers.",
+        "Environmental factors and criteria may include, but are not limited to: Location-based environmental factors, such as regional humidity, average temperature, and water availability.",
+        "Environmental regulations, such as energy efficiency standards and national- or state-level carbon legislation on pricing, and carbon intensity of grid electricity.",
+        "The scope of disclosure includes considerations for existing owned data centers, development of new data centers, and outsourcing of data center services, where relevant."
+      ],
+      "page": [
+        "Page 563"
+      ],
+      "industries": [
+        "b56-internet-media-and-services"
+      ],
+      "qa_type": "multi_hop"
+    },
+    {
+      "question": "What is the category of the 'Total water withdrawn and consumed' metric in the Household & Personal Products industry and how should this metric be calculated?",
+      "correct_answer": "The category of the 'Total water withdrawn and consumed' metric is Quantitative. The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from all sources. Water sources include surface water (including water from wetlands, rivers, lakes, and oceans), groundwater, rainwater collected directly and stored by the entity, and water and wastewater obtained from municipal water supplies, water utilities, or other entities. The entity shall disclose the amount of water, in thousands of cubic meters, that was consumed in its operations. Water consumption is defined as water that evaporates during withdrawal, usage, and discharge; water that is directly or indirectly incorporated into the entity's product or service; and water that does not otherwise return to the same catchment area from which it was withdrawn, such as water returned to another catchment area or the sea.",
+      "rag_response": "The category of the 'Total water withdrawn and consumed' metric in the Household & Personal Products industry is Water Management. \n\nTo calculate this metric, the entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from all sources, including surface water, groundwater, rainwater collected directly and stored by the entity, and water and wastewater obtained from municipal water supplies, water utilities, or other entities. The entity shall also disclose the amount of water, in thousands of cubic meters, that was consumed in its operations, which is defined as water that evaporates during withdrawal, usage, and discharge, water that is directly or indirectly incorporated into the entity's product or service, and water that does not otherwise return to the same catchment area from which it was withdrawn.",
+      "bleu_score": 0.718665091410528,
+      "rouge_l_score": 0.7701863304039197,
+      "reference": [
+        "| Water Management | (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percent- age (%) | CG-HP-140a.1 |",
+        "CG-HP-140a.1. (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress",
+        "1 The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from all sources.",
+        "1.1 Water sources include surface water (including water from wetlands, rivers, lakes, and oceans), groundwater, rainwater collected directly and stored by the entity, and water and wastewater obtained from municipal water supplies, water utilities, or other entities.",
+        "3 The entity shall disclose the amount of water, in thousands of cubic meters, that was consumed in its operations.",
+        "3.1 Water consumption is defined as:",
+        "3.1.1 Water that evaporates during withdrawal, usage, and discharge;",
+        "3.1.2 Water that is directly or indirectly incorporated into the entity's product or service;",
+        "3.1.3 Water that does not otherwise return to the same catchment area from which it was withdrawn, such as water returned to another catchment area or the sea."
+      ],
+      "page": [
+        "Page 33",
+        "Page 34",
+        "Page 35"
+      ],
+      "industries": [
+        "b5-household-and-personal-products"
+      ],
+      "qa_type": "multi_hop"
+    },
+    {
+      "question": "Describe the calculation method for the payload fuel economy metric for the Health Care Distributors industry.",
+      "correct_answer": "Payload fuel economy shall be calculated as: total gallons of fuel consumed / revenue tons miles (RTM), where revenue ton miles (RTM) = total weight of paid tonnage transported (payload) \u00d7 total distance in miles goods were transported.",
+      "rag_response": "The calculation method for the payload fuel economy metric is: total gallons of fuel consumed / revenue tons miles (RTM), where revenue ton miles (RTM) = total weight of paid tonnage transported (payload) \u00d7 total distance in miles goods were transported.",
+      "bleu_score": 0.8236702231973224,
+      "rouge_l_score": 0.7936507886621317,
+      "reference": [
+        "Payload fuel economy shall be calculated as: total gallons of fuel consumed / revenue tons miles (RTM), where revenue ton miles (RTM) = total weight of paid tonnage transported (payload) \u00d7 total distance in miles goods were transported."
+      ],
+      "page": [
+        "Page 290"
+      ],
+      "industries": [
+        "b29-health-care-distributors"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "What is the code of the 'Amount of palm oil sourced' metric in the Household & Personal Products industry and how should this metric be calculated?",
+      "correct_answer": "The code of the 'Amount of palm oil sourced' metric is CG-HP-430a.1. The entity shall disclose the amount, in metric tons, of palm oil that it sourced during the reporting period. The scope of palm oil includes palm kernel oil and palm kernel expeller. The entity shall disclose the percentage, on a weight basis, of palm oil it sourced that has been third-party certified to bear a Roundtable on Sustainable Palm Oil (RSPO) claim for each of the RSPO supply chain models: (a) Identity Preserved (IP), (b) Segregated (SG), (c) Mass Balance (MB), or (d) Book & Claim (B&C). The percentage shall be calculated as the weight in each respective RSPO supply chain model (IP, SG, MB, or B&C) of RSPO-certified palm oil sourced by the entity divided by the total weight, in metric tons, of palm oil sourced by the entity.",
+      "rag_response": "CG-HP-430a.1. The entity shall disclose the amount, in metric tons, of palm oil that it sourced during the reporting period.",
+      "bleu_score": 0.00122069692500587,
+      "rouge_l_score": 0.38461538150887575,
+      "reference": [
+        "| Environmental & Social Impacts of Palm Oil Supply Chain | Amount of palm oil sourced, percentage certified through the Roundtable on Sustainable Palm Oil (RSPO) supply chains as (a) Identity Preserved, (b) Segregated, (c) Mass Balance, or (d) Book & Claim | Quantitative | Metric tons (t), Percentage (%) | CG-HP-430a.1 |",
+        "CG-HP-430a.1. Amount of palm oil sourced, percentage certified through the Roundtable on Sustainable Palm Oil (RSPO) supply chains as (a) Identity Preserved, (b) Segregated, (c) Mass Balance, or (d) Book & Claim",
+        "1 The entity shall disclose the amount, in metric tons, of palm oil that it sourced during the reporting period.",
+        "2 The entity shall disclose the percentage, on a weight basis, of palm oil it sourced that has been third-party certified to bear a Roundtable on Sustainable Palm Oil (RSPO) claim for each of the RSPO supply chain models: (a) Identity Preserved (IP), (b) Segregated (SG), (c) Mass Balance (MB), or (d) Book & Claim (B&C).",
+        "2.2 The percentage shall be calculated as the weight in each respective RSPO supply chain model (IP, SG, MB, or B&C) of RSPO-certified palm oil sourced by the entity divided by the total weight, in metric tons, of palm oil sourced by the entity."
+      ],
+      "page": [
+        "Page 33",
+        "Page 38"
+      ],
+      "industries": [
+        "b5-household-and-personal-products"
+      ],
+      "qa_type": "multi_hop"
+    },
+    {
+      "question": "What do I need to discuss or disclose for the 'Water Management' topic in the Processed Foods industry?",
+      "correct_answer": "FB-PF-140a.1. (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress\n\n1 The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from all sources.\n\n1.1 Water sources include surface water (including water from wetlands, rivers, lakes, and oceans), groundwater, rainwater collected directly and stored by the entity, and water and wastewater obtained from municipal water supplies, water utilities, or other entities.\n\n2 The entity may disclose portions of its supply by source if, for example, significant portions of withdrawals are from non-freshwater sources.\n\n2.1 Fresh water may be defined according to the local laws and regulations where the entity operates. Where there is no legal definition, fresh water shall be considered to be water that has less than 1,000 parts per million of dissolved solids.\n\n2.2 Water obtained from a water utility in compliance with jurisdictional drinking water regulations can be assumed to meet the definition of fresh water.\n\n3 The entity shall disclose the amount of water, in thousands of cubic meters, that was consumed in its operations.\n\n3.1 Water consumption is defined as:\n\n3.1.1 Water that evaporates during withdrawal, usage, and discharge;\n\n3.1.2 Water that is directly or indirectly incorporated into the entity's product or service;\n\n3.1.3 Water that does not otherwise return to the same catchment area from which it was withdrawn, such as water returned to another catchment area or the sea.\n\n4 The entity shall analyze all of its operations for water risks and identify activities that withdraw and consume water in locations with High (40\u201380 percent) or Extremely High (>80 percent) Baseline Water Stress as classified by the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct.\n\n5 The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn.\n\n6 The entity shall disclose its water consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water consumed.\n\nFB-PF-140a.2. Number of incidents of non-compliance associated with water quantity and/or quality permits, standards, and regulations\n\n1 The entity shall disclose the total number of instances of non-compliance, including violations of a technology-based standard and exceedances of quantity and/or quality-based standards.\n\n2 The scope of disclosure includes incidents governed by national, state, and local statutory permits and regulations, including, but not limited to, the discharge of a hazardous substance, violation of pretreatment requirements, or total maximum daily load (TMDL) exceedances.\n\n3 The scope of disclosure shall only include incidents of non-compliance that resulted in a formal enforcement action(s).\n\n3.1 Formal enforcement actions are defined as governmental actions that address a violation or threatened violation of water quantity and/or quality laws, regulations, policies, or orders, and can result in administrative penalty orders, administrative orders, and judicial actions, among others.\n\n4 Violations shall be disclosed, regardless of their measurement methodology or frequency. These include violations for:\n\n4.1 Continuous discharges, limitations, standards, and prohibitions that are generally expressed as maximum daily, weekly average, and monthly averages\n\n4.2 Non-continuous discharges and limitations that are generally expressed in terms of frequency, total mass, maximum rate of discharge, and mass or concentration of specified pollutants\n\nFB-PF-140a.3. Description of water management risks and discussion of strategies and practices to mitigate those risks\n\n1 The entity shall describe its water management risks associated with water withdrawals, water consumption, and discharge of water and/or wastewater.\n\n1.1 Risks associated with water withdrawals and water consumption include risks to the availability of adequate, clean water resources, including, but not limited to:\n\n1.1.1 Environmental constraints\u2014such as operating in water-stressed regions, drought, concerns of aquatic impingement or entrainment, interannual or seasonal variability, and risks due to the impact of climate change\n\n1.1.2 Regulatory and financial constraints\u2014such as volatility in water costs, stakeholder perceptions and concerns related to water withdrawals (e.g., those from local communities, non-governmental organizations, and regulatory agencies), direct competition with and impact from the actions of other users (e.g., commercial and municipal users), restrictions to withdrawals due to regulations, and constraints on the entity's ability to obtain and retain water rights or permits\n\n1.2 Risks associated with the discharge of water and/or wastewater, include, but are not limited to, the ability to obtain rights or permits related to discharges, compliance with regulations related to discharges, restrictions to discharges, the ability to maintain control over the temperature of water discharges, liabilities and/or reputational risks, and increased operating costs due to regulation, stakeholder perceptions and concerns related to water discharges (e.g., those from local communities, non-governmental organizations, and regulatory agencies).\n\n2 The entity may describe water management risks in the context of:\n\n2.1 How risks may vary by withdrawal source, including surface water (including water from wetlands, rivers, lakes, and oceans), groundwater, rainwater collected directly and stored by the entity, and water and wastewater obtained from municipal water supplies, water utilities, or other entities; and\n\n2.2 How risks may vary by discharge destinations, including surface water, groundwater, or wastewater utilities.\n\n3 The entity may discuss the potential impacts that water management risks may have on its operations and the timeline over which such risks are expected to manifest.\n\n3.1 Impacts may include, but are not limited to, those associated with costs, revenues, liabilities, continuity of operations, and reputation.\n\n4 The entity shall discuss its short-term and long-term strategies or plan to mitigate water management risks, including, but not limited to:\n\n4.1 The scope of its strategy, plans, goals and/or targets, such as how they relate to different business units, geographies, or water-consuming operational processes.\n\n4.2 Any water management goals and/or targets it has prioritized, and an analysis of performance against those goals and/or targets.\n\n4.2.1 Goals and targets may include, but are not limited to, those associated with reducing water withdrawals, reducing water consumption, reducing water discharges, reducing aquatic impingements, improving the quality of water discharges, and regulatory compliance.\n\n4.3 The activities and investments required to achieve the plans, goals and/or targets, and any risks or limiting factors that might affect achievement of the plans and/or targets.\n\n4.4 Disclosure of strategies, plans, goals, and/or targets shall be limited to activities that were ongoing (active) or reached completion during the reporting period.\n\n5 For water management targets, the entity shall additionally disclose:\n\n5.1 Whether the target is absolute or intensity-based, and the metric denominator if it is an intensity-based target.\n\n5.2 The timelines for the water management plans, including the start year, the target year, and the base year.\n\n5.3 The mechanism(s) for achieving the target, including:\n\n5.3.1 Efficiency efforts, such as the use of water recycling and/or closed-loop systems;\n\n5.3.2 Product innovations such as redesigning products or services to require less water;\n\n5.3.3 Process and equipment innovations, such as those that enable the reduction of aquatic impingements or entrainments;\n\n5.3.4 Use of tools and technologies (e.g., the World Wildlife Fund Water Risk Filter, The Global Water Tool, and Water Footprint Network Footprint Assessment Tool) to analyze water use, risk, and opportunities;\n\n5.3.5 Collaborations or programs in place with the community or other organizations.\n\n5.4 The percentage reduction or improvement from the base year, where the base year is the first year against which water management targets are evaluated toward the achievement of the target.\n\n6 The entity shall discuss whether its water management practices result in any additional lifecycle impacts or tradeoffs in its organization, including tradeoffs in land use, energy production, and greenhouse gas (GHG) emissions, and why the entity chose these practices despite lifecycle tradeoffs.",
+      "rag_response": "For the 'Water Management' topic in the Processed Foods industry, you need to disclose the following:\n\n1. Total water withdrawn and total water consumed, with a percentage of each in regions with High or Extremely High Baseline Water Stress.\n2. Water management risks associated with water withdrawals, water consumption, and discharge of water and/or wastewater.\n3. Strategies and practices to mitigate those water management risks.\n4. Whether your water management practices result in any additional lifecycle impacts or tradeoffs in your organization, including tradeoffs in land use, energy production, and greenhouse gas (GHG) emissions, and why you chose these practices despite lifecycle tradeoffs.\n5. The percentage reduction or improvement from the base year, where the base year is the first year against which water management targets are evaluated toward the achievement of the target.\n\nAdditionally, you need to analyze all of your operations for water risks and identify activities that withdraw and consume water in locations with High (40\u201380 percent) or Extremely High (>80 percent) Baseline Water Stress as classified by the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct.",
+      "bleu_score": 0.0018337544538763171,
+      "rouge_l_score": 0.3451776618609086,
+      "reference": [
+        "FB-PF-140a.1. (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress",
+        "1 The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from all sources.",
+        "1.1 Water sources include surface water (including water from wetlands, rivers, lakes, and oceans), groundwater, rainwater collected directly and stored by the entity, and water and wastewater obtained from municipal water supplies, water utilities, or other entities.",
+        "2 The entity may disclose portions of its supply by source if, for example, significant portions of withdrawals are from non-freshwater sources.",
+        "2.1 Fresh water may be defined according to the local laws and regulations where the entity operates. Where there is no legal definition, fresh water shall be considered to be water that has less than 1,000 parts per million of dissolved solids.",
+        "2.2 Water obtained from a water utility in compliance with jurisdictional drinking water regulations can be assumed to meet the definition of fresh water.",
+        "3 The entity shall disclose the amount of water, in thousands of cubic meters, that was consumed in its operations.",
+        "3.1 Water consumption is defined as:",
+        "3.1.1 Water that evaporates during withdrawal, usage, and discharge;",
+        "3.1.2 Water that is directly or indirectly incorporated into the entity's product or service;",
+        "3.1.3 Water that does not otherwise return to the same catchment area from which it was withdrawn, such as water returned to another catchment area or the sea.",
+        "4 The entity shall analyze all of its operations for water risks and identify activities that withdraw and consume water in locations with High (40\u201380 percent) or Extremely High (>80 percent) Baseline Water Stress as classified by the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct.",
+        "5 The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn.",
+        "6 The entity shall disclose its water consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water consumed.",
+        "FB-PF-140a.2. Number of incidents of non-compliance associated with water quantity and/or quality permits, standards, and regulations",
+        "1 The entity shall disclose the total number of instances of non-compliance, including violations of a technology-based standard and exceedances of quantity and/or quality-based standards.",
+        "2 The scope of disclosure includes incidents governed by national, state, and local statutory permits and regulations, including, but not limited to, the discharge of a hazardous substance, violation of pretreatment requirements, or total maximum daily load (TMDL) exceedances.",
+        "3 The scope of disclosure shall only include incidents of non-compliance that resulted in a formal enforcement action(s).",
+        "3.1 Formal enforcement actions are defined as governmental actions that address a violation or threatened violation of water quantity and/or quality laws, regulations, policies, or orders, and can result in administrative penalty orders, administrative orders, and judicial actions, among others.",
+        "4 Violations shall be disclosed, regardless of their measurement methodology or frequency. These include violations for:",
+        "4.1 Continuous discharges, limitations, standards, and prohibitions that are generally expressed as maximum daily, weekly average, and monthly averages",
+        "4.2 Non-continuous discharges and limitations that are generally expressed in terms of frequency, total mass, maximum rate of discharge, and mass or concentration of specified pollutants",
+        "FB-PF-140a.3. Description of water management risks and discussion of strategies and practices to mitigate those risks",
+        "1 The entity shall describe its water management risks associated with water withdrawals, water consumption, and discharge of water and/or wastewater.",
+        "1.1 Risks associated with water withdrawals and water consumption include risks to the availability of adequate, clean water resources, including, but not limited to:",
+        "1.1.1 Environmental constraints\u2014such as operating in water-stressed regions, drought, concerns of aquatic impingement or entrainment, interannual or seasonal variability, and risks due to the impact of climate change",
+        "1.1.2 Regulatory and financial constraints\u2014such as volatility in water costs, stakeholder perceptions and concerns related to water withdrawals (e.g., those from local communities, non-governmental organizations, and regulatory agencies), direct competition with and impact from the actions of other users (e.g., commercial and municipal users), restrictions to withdrawals due to regulations, and constraints on the entity's ability to obtain and retain water rights or permits",
+        "1.2 Risks associated with the discharge of water and/or wastewater, include, but are not limited to, the ability to obtain rights or permits related to discharges, compliance with regulations related to discharges, restrictions to discharges, the ability to maintain control over the temperature of water discharges, liabilities and/or reputational risks, and increased operating costs due to regulation, stakeholder perceptions and concerns related to water discharges (e.g., those from local communities, non-governmental organizations, and regulatory agencies).",
+        "2 The entity may describe water management risks in the context of:",
+        "2.1 How risks may vary by withdrawal source, including surface water (including water from wetlands, rivers, lakes, and oceans), groundwater, rainwater collected directly and stored by the entity, and water and wastewater obtained from municipal water supplies, water utilities, or other entities; and",
+        "2.2 How risks may vary by discharge destinations, including surface water, groundwater, or wastewater utilities.",
+        "3 The entity may discuss the potential impacts that water management risks may have on its operations and the timeline over which such risks are expected to manifest.",
+        "3.1 Impacts may include, but are not limited to, those associated with costs, revenues, liabilities, continuity of operations, and reputation.",
+        "4 The entity shall discuss its short-term and long-term strategies or plan to mitigate water management risks, including, but not limited to:",
+        "4.1 The scope of its strategy, plans, goals and/or targets, such as how they relate to different business units, geographies, or water-consuming operational processes.",
+        "4.2 Any water management goals and/or targets it has prioritized, and an analysis of performance against those goals and/or targets.",
+        "4.2.1 Goals and targets may include, but are not limited to, those associated with reducing water withdrawals, reducing water consumption, reducing water discharges, reducing aquatic impingements, improving the quality of water discharges, and regulatory compliance.",
+        "4.3 The activities and investments required to achieve the plans, goals and/or targets, and any risks or limiting factors that might affect achievement of the plans and/or targets.",
+        "4.4 Disclosure of strategies, plans, goals, and/or targets shall be limited to activities that were ongoing (active) or reached completion during the reporting period.",
+        "5 For water management targets, the entity shall additionally disclose:",
+        "5.1 Whether the target is absolute or intensity-based, and the metric denominator if it is an intensity-based target.",
+        "5.2 The timelines for the water management plans, including the start year, the target year, and the base year.",
+        "5.3 The mechanism(s) for achieving the target, including:",
+        "5.3.1 Efficiency efforts, such as the use of water recycling and/or closed-loop systems;",
+        "5.3.2 Product innovations such as redesigning products or services to require less water;",
+        "5.3.3 Process and equipment innovations, such as those that enable the reduction of aquatic impingements or entrainments;",
+        "5.3.4 Use of tools and technologies (e.g., the World Wildlife Fund Water Risk Filter, The Global Water Tool, and Water Footprint Network Footprint Assessment Tool) to analyze water use, risk, and opportunities;",
+        "5.3.5 Collaborations or programs in place with the community or other organizations.",
+        "5.4 The percentage reduction or improvement from the base year, where the base year is the first year against which water management targets are evaluated toward the achievement of the target.",
+        "6 The entity shall discuss whether its water management practices result in any additional lifecycle impacts or tradeoffs in its organization, including tradeoffs in land use, energy production, and greenhouse gas (GHG) emissions, and why the entity chose these practices despite lifecycle tradeoffs."
+      ],
+      "page": [
+        "261",
+        "262",
+        "263",
+        "264"
+      ],
+      "industries": [
+        "b25-processed-foods"
+      ],
+      "qa_type": "multi_hop"
+    },
+    {
+      "question": "What is the category of the metric 'Total energy consumed, percentage grid electricity, percentage renewable' in the Metals & Mining industry and how should this metric be calculated?",
+      "correct_answer": "The category of the metric 'Total energy consumed, percentage grid electricity, percentage renewable' is Quantitative. The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ). The scope of energy consumption includes energy from all sources, including energy purchased from sources external to the entity and energy produced by the entity itself (self-generated). The entity shall disclose (2) the percentage of energy it consumed that was supplied from grid electricity, calculated as purchased grid electricity consumption divided by total energy consumption. The entity shall disclose (3) the percentage of energy it consumed that is renewable energy, calculated as renewable energy consumption divided by total energy consumption.",
+      "rag_response": "The category of the metric 'Total energy consumed, percentage grid electricity, percentage renewable' in the Metals & Mining industry is EM-MM-130a.1. \n\nThe metric should be calculated as follows:\n- Total energy consumed: The entity shall disclose the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ). The scope of energy consumption includes energy from all sources, including energy purchased from sources external to the entity and energy produced by the entity itself (self-generated). \n- Percentage grid electricity: The percentage shall be calculated as purchased grid electricity consumption divided by total energy consumption.\n- Percentage renewable energy: The percentage shall be calculated as renewable energy consumption divided by total energy consumption. Renewable energy is defined as energy from sources that are replenished at a rate greater than or equal to their rate of depletion, such as geothermal, wind, solar, hydro, and biomass.",
+      "bleu_score": 0.5397497190304414,
+      "rouge_l_score": 0.686131382055517,
+      "reference": [
+        "| Energy Management | (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | EM-MM-130a.1 |",
+        "1 The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ).",
+        "1.1 The scope of energy consumption includes energy from all sources, including energy purchased from sources external to the entity and energy produced by the entity itself (self-generated).",
+        "2 The entity shall disclose (2) the percentage of energy it consumed that was supplied from grid electricity.",
+        "2.1 The percentage shall be calculated as purchased grid electricity consumption divided by total energy consumption.",
+        "3 The entity shall disclose (3) the percentage of energy it consumed that is renewable energy.",
+        "3.2 The percentage shall be calculated as renewable energy consumption divided by total energy consumption."
+      ],
+      "page": [
+        "Page 81",
+        "Page 86",
+        "Page 87"
+      ],
+      "industries": [
+        "b10-metals-and-mining"
+      ],
+      "qa_type": "multi_hop"
+    },
+    {
+      "question": "What are some examples of efforts to reduce the environmental impact of logistics for the Health Care Distributors industry?",
+      "correct_answer": "Relevant efforts to describe include, but are not limited to, upgrades to fleet (fuel efficiency), usage of alternative and/or renewable fuels, optimized logistics routes, and idling reduction programs.",
+      "rag_response": "Upgrades to fleet (fuel efficiency), usage of alternative and/or renewable fuels, optimized logistics routes, and idling reduction programs.",
+      "bleu_score": 0.6065306597126334,
+      "rouge_l_score": 0.7555555507555557,
+      "reference": [
+        "Relevant efforts to describe include, but are not limited to, upgrades to fleet (fuel efficiency), usage of alternative and/or renewable fuels, optimized logistics routes, and idling reduction programs."
+      ],
+      "page": [
+        "Page 290"
+      ],
+      "industries": [
+        "b29-health-care-distributors"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "Are there any specific programs or regulations I need to discuss for the Automobiles industry? Which ones?",
+      "correct_answer": "Relevant programs and initiatives include, but are not limited to: California Low-Emission Vehicle Program \u2013 LEV III, China VI emission standard, Euro 6 standards for light duty vehicles, U.S. Clean Air Act, U.S. Corporate Average Fuel Economy (CAFE) standards.",
+      "rag_response": "Yes, there are specific programs and regulations that you should discuss for the Automobiles industry. These include:\n\n1. California Low-Emission Vehicle Program \u2013 LEV III\n2. China VI emission standard\n3. Euro 6 standards for light duty vehicles\n4. U.S. Clean Air Act\n5. U.S. Corporate Average Fuel Economy (CAFE) standards",
+      "bleu_score": 0.44469943028094766,
+      "rouge_l_score": 0.5977011445052187,
+      "reference": [
+        "Relevant programs and initiatives include, but are not limited to:",
+        "California Low-Emission Vehicle Program \u2013 LEV III",
+        "China VI emission standard",
+        "Euro 6 standards for light duty vehicles",
+        "U.S. Clean Air Act",
+        "U.S. Corporate Average Fuel Economy (CAFE) standards."
+      ],
+      "page": [
+        "612"
+      ],
+      "industries": [
+        "b63-automobiles"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "What is the category of the 'Sales-weighted average passenger fleet fuel economy, by region' metric in the Automobiles industry and how should this metric be calculated?",
+      "correct_answer": "The category of the 'Sales-weighted average passenger fleet fuel economy, by region' metric is Quantitative. The entity shall disclose the average fuel economy of its passenger and light-duty vehicle fleet, weighted for the footprint of vehicles sold, by geographic region. The average fuel economy shall be calculated by model year as required for regulatory purposes. In the absence of regulatory guidance on calculating a fleet average, the entity shall calculate performance based on the fuel economy of vehicles sold during the reporting period weighted by sales volume. The calculation shall be made on a fleet-average basis regardless of whether regulations are based on vehicle weight.",
+      "rag_response": "The category of the 'Sales-weighted average passenger fleet fuel economy, by region' metric in the Automobiles industry is Fuel Economy & Use-phase Emissions. This metric should be calculated by model year as required for regulatory purposes, or in the absence of regulatory guidance, by calculating performance based on the fuel economy of vehicles sold during the reporting period, weighted by sales volume.",
+      "bleu_score": 0.33311907998431617,
+      "rouge_l_score": 0.6194690216367765,
+      "reference": [
+        "| Fuel Economy & Use-phase Emissions | Sales-weighted average passenger fleet fuel economy, by region | Quantitative | Mpg, L/km, gCO\u2082/km, km/L | TR-AU-410a.1 |",
+        "1 The entity shall disclose the average fuel economy of its passenger and light-duty vehicle fleet, weighted for the footprint of vehicles sold, by geographic region.",
+        "1.1 The average fuel economy shall be calculated by model year as required for regulatory purposes.",
+        "1.2 In the absence of regulatory guidance on calculating a fleet average, the entity shall calculate performance based on the fuel economy of vehicles sold during the reporting period weighted by sales volume.",
+        "1.3 The calculation shall be made on a fleet-average basis regardless of whether regulations are based on vehicle weight."
+      ],
+      "page": [
+        "609",
+        "610"
+      ],
+      "industries": [
+        "b63-automobiles"
+      ],
+      "qa_type": "multi_hop"
+    },
+    {
+      "question": "Compare and contrast the reporting requirements for 'Energy Management' and 'Environmental & Social Impacts of Ingredient Supply Chain' topics in the Processed Foods industry.",
+      "correct_answer": "Energy Management:\n\nFB-PF-130a.1. (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable\n\n1 The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ).\n\n1.1 The scope of energy consumption includes energy from all sources, including energy purchased from sources external to the entity and energy produced by the entity itself (self-generated). For example, direct fuel usage, purchased electricity, and heating, cooling, and steam energy are all included within the scope of energy consumption.\n\n1.2 The scope of energy consumption includes only energy directly consumed by the entity during the reporting period.\n\n1.3 In calculating energy consumption from fuels and biofuels, the entity shall use higher heating values (HHV), also known as gross calorific values (GCV), which are directly measured or taken from the Intergovernmental Panel on Climate Change (IPCC).\n\n2 The entity shall disclose (2) the percentage of energy it consumed that was supplied from grid electricity.\n\n2.1 The percentage shall be calculated as purchased grid electricity consumption divided by total energy consumption.\n\n3 The entity shall disclose (3) the percentage of energy it consumed that is renewable energy.\n\n3.1 Renewable energy is defined as energy from sources that are replenished at a rate greater than or equal to their rate of depletion, such as geothermal, wind, solar, hydro, and biomass.\n\nEnvironmental & Social Impacts of Ingredient Supply Chain:\n\nFB-PF-430a.1. Percentage of food ingredients sourced that are certified to third-party environmental and/or social standards, and percentages by standard\n\n1 The entity shall disclose the percentage of food ingredients sourced that are certified to a third-party environmental and/or social standard.\n\n1.1 Environmental standards are defined as standards that address environmental impacts related to the production of food ingredients such as, protection of primary forests, maintenance of surface water and groundwater quality, and implementation of integrated pest management solutions or an Organic System Plan.\n\n1.2 Social standards are defined as standards that address social impacts related to the production of food ingredients such as, compensation of workforce, training and continual monitoring of health and safety risks associated with the application of agrochemicals and child-labor practices.\n\n1.3 The percentage shall be calculated as the cost of food ingredients purchased from Tier 1 suppliers that have been certified to a third-party environmental and/or social standard divided by the total cost of food ingredients purchased from Tier 1 suppliers.\n\n1.4 Examples of certifications to third-party environmental and social standards include, but are not limited to:\n\n1.4.1 Bonsucro\n\n1.4.2 Fairtrade International\n\n1.4.3 Fair Trade USA\n\n1.4.4 Roundtable on Sustainable Palm Oil (RSPO)\n\n1.4.5 Roundtable on Responsible Soy (RTRS)\n\n1.4.6 Rainforest Alliance\n\n1.4.7 SA8000\n\n1.4.8 U.S. Department of Agriculture (USDA) Organic",
+      "rag_response": "The reporting requirements for 'Energy Management' and 'Environmental & Social Impacts of Ingredient Supply Chain' topics in the Processed Foods industry share some similarities, but also have distinct differences.\n\nSimilarities:\n\n* Both topics require disclosure of metrics related to environmental impacts, such as energy consumption and water usage.\n* Both topics emphasize the importance of managing risks and opportunities related to environmental and social considerations.\n\nDifferences:\n\n* Energy Management focuses specifically on energy consumption, renewable energy, and energy efficiency, with metrics such as total energy consumed, percentage of grid electricity, and percentage of renewable energy.\n* Environmental & Social Impacts of Ingredient Supply Chain, on the other hand, focuses on the environmental and social impacts of sourcing ingredients, including metrics such as percentage of food ingredients sourced from regions with High or Extremely High Baseline Water Stress, and percentage of food ingredients certified to third-party environmental and/or social standards.\n* Energy Management is more focused on the operational aspects of energy use, whereas Environmental & Social Impacts of Ingredient Supply Chain is more focused on the supply chain and sourcing practices.\n* The metrics and disclosure requirements for Energy Management are more quantitative, whereas those for Environmental & Social Impacts of Ingredient Supply Chain are more qualitative and narrative-driven.\n\nOverall, while both topics are important for the Processed Foods industry, they require different types of reporting and disclosure, reflecting the distinct challenges and opportunities in each area.",
+      "bleu_score": 0.05810888146018549,
+      "rouge_l_score": 0.27355622636893606,
+      "reference": [
+        "Energy Management:",
+        "FB-PF-130a.1. (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable",
+        "1 The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ).",
+        "1.1 The scope of energy consumption includes energy from all sources, including energy purchased from sources external to the entity and energy produced by the entity itself (self-generated). For example, direct fuel usage, purchased electricity, and heating, cooling, and steam energy are all included within the scope of energy consumption.",
+        "1.2 The scope of energy consumption includes only energy directly consumed by the entity during the reporting period.",
+        "1.3 In calculating energy consumption from fuels and biofuels, the entity shall use higher heating values (HHV), also known as gross calorific values (GCV), which are directly measured or taken from the Intergovernmental Panel on Climate Change (IPCC).",
+        "2 The entity shall disclose (2) the percentage of energy it consumed that was supplied from grid electricity.",
+        "2.1 The percentage shall be calculated as purchased grid electricity consumption divided by total energy consumption.",
+        "3 The entity shall disclose (3) the percentage of energy it consumed that is renewable energy.",
+        "3.1 Renewable energy is defined as energy from sources that are replenished at a rate greater than or equal to their rate of depletion, such as geothermal, wind, solar, hydro, and biomass.",
+        "Environmental & Social Impacts of Ingredient Supply Chain:",
+        "FB-PF-430a.1. Percentage of food ingredients sourced that are certified to third-party environmental and/or social standards, and percentages by standard",
+        "1 The entity shall disclose the percentage of food ingredients sourced that are certified to a third-party environmental and/or social standard.",
+        "1.1 Environmental standards are defined as standards that address environmental impacts related to the production of food ingredients such as, protection of primary forests, maintenance of surface water and groundwater quality, and implementation of integrated pest management solutions or an Organic System Plan.",
+        "1.2 Social standards are defined as standards that address social impacts related to the production of food ingredients such as, compensation of workforce, training and continual monitoring of health and safety risks associated with the application of agrochemicals and child-labor practices.",
+        "1.3 The percentage shall be calculated as the cost of food ingredients purchased from Tier 1 suppliers that have been certified to a third-party environmental and/or social standard divided by the total cost of food ingredients purchased from Tier 1 suppliers.",
+        "1.4 Examples of certifications to third-party environmental and social standards include, but are not limited to:",
+        "1.4.1 Bonsucro",
+        "1.4.2 Fairtrade International",
+        "1.4.3 Fair Trade USA",
+        "1.4.4 Roundtable on Sustainable Palm Oil (RSPO)",
+        "1.4.5 Roundtable on Responsible Soy (RTRS)",
+        "1.4.6 Rainforest Alliance",
+        "1.4.7 SA8000",
+        "1.4.8 U.S. Department of Agriculture (USDA) Organic"
+      ],
+      "page": [
+        "259",
+        "260",
+        "265",
+        "266"
+      ],
+      "industries": [
+        "b25-processed-foods"
+      ],
+      "qa_type": "multi_hop"
+    },
+    {
+      "question": "What does the IFRS require companies to disclose regarding water management risks for the Biofuels industry?",
+      "correct_answer": "The entity shall describe its water management risks associated with water withdrawals, water consumption, and discharge of water and/or wastewater. Risks associated with water withdrawals and water consumption include risks to the availability of adequate, clean water resources, including, but not limited to: Environmental constraints\u2014such as operating in water-stressed regions, drought, concerns of aquatic impingement or entrainment, interannual or seasonal variability, and risks due to the impact of climate change. Regulatory and financial constraints\u2014such as volatility in water costs, stakeholder perceptions and concerns related to water withdrawals (e.g., those from local communities, non-governmental organizations, and regulatory agencies), direct competition with and impact from the actions of other users (e.g., commercial and municipal users), restrictions to withdrawals due to regulations, and constraints on the entity's ability to obtain and retain water rights or permits. Risks associated with the discharge of water and/or wastewater, include, but are not limited to, the ability to obtain rights or permits related to discharges, compliance with regulations related to discharges, restrictions to discharges, the ability to maintain control over the temperature of water discharges, liabilities and/or reputational risks, and increased operating costs due to regulation, stakeholder perceptions and concerns related to water discharges (e.g., those from local communities, non-governmental organizations, and regulatory agencies).",
+      "rag_response": "The IFRS requires companies in the Biofuels industry to disclose the following information regarding water management risks:\n\n1. Total water withdrawn, total water consumed, and the percentage of each in regions with High or Extremely High Baseline Water Stress.\n2. The amount of water withdrawn and consumed in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn.\n3. The entity's water management plans, including timelines, mechanisms for achieving targets, and percentage reduction or improvement from the base year.\n4. The number of incidents of non-compliance associated with water quality permits, standards, and regulations, including violations of technology-based standards and exceedances of quality-based standards.\n\nAdditionally, companies are required to discuss their efforts to manage risks and opportunities associated with each aspect of the legal and regulatory environment, including water management risks, and to disclose their approach to managing risks and/or opportunities associated with feedstock production, including constraints created by regulation, and limits on availability and price.",
+      "bleu_score": 0.030084026487757074,
+      "rouge_l_score": 0.20792078709685338,
+      "reference": [
+        "The entity shall describe its water management risks associated with water withdrawals, water consumption, and discharge of water and/or wastewater.",
+        "Risks associated with water withdrawals and water consumption include risks to the availability of adequate, clean water resources, including, but not limited to:",
+        "Environmental constraints\u2014such as operating in water-stressed regions, drought, concerns of aquatic impingement or entrainment, interannual or seasonal variability, and risks due to the impact of climate change.",
+        "Regulatory and financial constraints\u2014such as volatility in water costs, stakeholder perceptions and concerns related to water withdrawals (e.g., those from local communities, non-governmental organizations, and regulatory agencies), direct competition with and impact from the actions of other users (e.g., commercial and municipal users), restrictions to withdrawals due to regulations, and constraints on the entity's ability to obtain and retain water rights or permits.",
+        "Risks associated with the discharge of water and/or wastewater, include, but are not limited to, the ability to obtain rights or permits related to discharges, compliance with regulations related to discharges, restrictions to discharges, the ability to maintain control over the temperature of water discharges, liabilities and/or reputational risks, and increased operating costs due to regulation, stakeholder perceptions and concerns related to water discharges (e.g., those from local communities, non-governmental organizations, and regulatory agencies)."
+      ],
+      "page": [
+        "428",
+        "429"
+      ],
+      "industries": [
+        "b40-biofuels"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "Compare and contrast the reporting requirements for Greenhouse Gas Emissions and Water Management topics in the Metals & Mining industry.",
+      "correct_answer": "For Greenhouse Gas Emissions, the reporting requirements include disclosing gross global Scope 1 emissions in metric tons of CO2-e, the percentage covered under emissions-limiting regulations, and discussing long-term and short-term strategies to manage Scope 1 emissions, including emissions reduction targets and performance analysis. For Water Management, the requirements include disclosing total fresh water withdrawn and consumed in thousand cubic meters, the percentage in regions with High or Extremely High Baseline Water Stress, and the number of incidents of non-compliance with water quality permits, standards, and regulations.",
+      "rag_response": "The reporting requirements for Greenhouse Gas Emissions and Water Management topics in the Metals & Mining industry share some similarities, but also have distinct differences.\n\nSimilarities:\n\n* Both topics require the disclosure of specific metrics, such as the total amount of energy consumed (EM-MM-130a.1) and the total water withdrawn and consumed (EM-MM-140a.1).\n* Both topics require the entity to disclose the percentage of its operations that are covered under certain regulations or programs, such as emissions-limiting regulations (EM-MM-110a.1) and water quality permits, standards, and regulations (EM-MM-140a.2).\n* Both topics require the entity to disclose incidents of non-compliance, such as violations of emissions regulations (EM-MM-110a.1) and water quality permits, standards, and regulations (EM-MM-140a.2).\n\nDifferences:\n\n* The scope of reporting for Greenhouse Gas Emissions is broader, covering all seven greenhouse gases (GHGs) covered under the Kyoto Protocol, whereas Water Management focuses on water withdrawn and consumed in locations with High or Extremely High Baseline Water Stress.\n* The metrics required for Greenhouse Gas Emissions are more detailed, including the disclosure of gross global Scope 1 GHG emissions, percentage covered under emissions-limiting regulations, and the calculation of emissions using specific methodologies (EM-MM-110a.1). In contrast, Water Management requires the disclosure of total water withdrawn and consumed, as well as the number of incidents of non-compliance associated with water quality permits, standards, and regulations.\n* The reporting requirements for Greenhouse Gas Emissions are more prescriptive, with specific guidance on calculation methodologies and consolidation of emissions data (EM-MM-110a.1). In contrast, the reporting requirements for Water Management are more general, with less prescriptive guidance on calculation methodologies and data consolidation.\n\nOverall, while both topics require the disclosure of specific metrics and incidents of non-compliance, the reporting requirements for Greenhouse Gas Emissions are more detailed and prescriptive, reflecting the industry's significant contribution to global GHG emissions.",
+      "bleu_score": 0.11811698479172879,
+      "rouge_l_score": 0.3829787190204844,
+      "reference": [
+        "| Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO2-e, Percentage (%) | EM-MM-110a.1 |",
+        "| Greenhouse Gas Emissions | Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a | EM-MM-110a.2 |",
+        "| Water Management | (1) Total fresh water withdrawn, (2) total fresh water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%) | EM-MM-140a.1 |",
+        "| Water Management | Number of incidents of non-compliance associated with water quality permits, standards, and regulations | Quantitative | Number | EM-MM-140a.2 |"
+      ],
+      "page": [
+        "Page 81",
+        "Page 88",
+        "Page 89"
+      ],
+      "industries": [
+        "b10-metals-and-mining"
+      ],
+      "qa_type": "multi_hop"
+    },
+    {
+      "question": "What do I need to discuss or disclose for the 'Environmental Impacts of Project Development' topic in the Engineering & Construction Services industry?",
+      "correct_answer": "The entity shall discuss the processes it employs to assess and manage the environmental risks associated with project siting, design and construction. Environmental risks may include, but are not limited to, ecological impacts, biodiversity impacts, emissions to air, discharges to water, slope disturbance, soil disturbance and erosion, storm water management, waste management, natural resource consumption, and hazardous chemical usage. The entity shall discuss the due diligence practices it employs to assess the environmental risks of projects, where relevant due diligence practices include environmental impact assessments and stakeholder engagement practices. Relevant items to discuss include, but are not limited to: practices to assess the baseline environmental considerations of the project site; feasible, environmentally preferable alternatives for the project; local legal requirements; the protection of biodiversity; use of renewable natural resources; use of hazardous substances; and efficient production, delivery and use of energy. The entity shall discuss the operational practices it employs to the minimize environmental impacts during project siting, design, and construction, which may include, but are not limited to: waste management, reducing biodiversity impacts, emissions to air, discharges to water, natural resource consumption, and hazardous chemical usage. The entity shall describe its approach to operating in compliance with all applicable environmental regulations and permits. Relevant items to discuss include, but are not limited to: employee training on relevant regulations and cleanup procedures, quality control processes on project sites, internal mechanisms for reporting and following up on environmental incidents, and maintenance and reporting of accurate data. The entity shall discuss the use of codes, guidelines, and standards to assess and minimize environmental impacts of project siting, design, and construction, where applicable. Relevant codes, guidelines, and standards may include, but are not limited to: BREEAM\u00ae, The Equator Principles, International Finance Corporation's Environmental and Social Performance Standards and Guidance Notes, Institute for Sustainable Infrastructure's (ISI) Envision\u00ae rating system, International Organization for Standardization (ISO) environmental standards, United Nations Development Programme's Performance Standards on Environmental and Social Sustainability, United Nations Global Compact's Environmental Principles, and U.S. Green Building Council's LEED\u00ae certification. The entity shall describe its approach to managing projects that have heightened environmental and/or social due diligence requirements or are expected to have significant adverse environmental and/or social impacts, including additional measures or policies it employs. An example of a project type that has heightened environmental and/or social impacts are \"Category A\" projects categorized by the International Finance Corporation (IFC). The entity may describe its approach to categorizing the severity of environmental risk for its projects, including how it determines if a project has heightened environmental risk. Where applicable and relevant, the entity shall describe differences between policies and practices for its different operating regions, project types, and business segments. The scope of disclosure includes project stages associated with siting, design, and construction that the entity is involved with through contractual responsibility, including, but not limited to, feasibility studies, proposals, design and planning, subcontractor procurement, and construction.",
+      "rag_response": "For the 'Environmental Impacts of Project Development' topic in the Engineering & Construction Services industry, you need to discuss or disclose the following:\n\n1. Processes to assess and manage environmental risks associated with project design, siting, and construction.\n2. Due diligence practices to assess environmental risks of projects, including environmental impact assessments and stakeholder engagement practices.\n3. Operational practices to minimize environmental impacts during project siting, design, and construction, such as waste management, reducing biodiversity impacts, emissions to air, discharges to water, natural resource consumption, and hazardous chemical usage.\n4. Approach to operating in compliance with all applicable environmental regulations and permits, including employee training, quality control processes, internal mechanisms for reporting and following up on environmental incidents, and maintenance and reporting of accurate data.\n5. Use of codes, guidelines, and standards to assess and minimize environmental impacts of project siting, design, and construction, such as BREEAM, The Equator Principles, International Finance Corporation's Environmental and Social Performance Standards and Guidance Notes, and others.\n6. Approach to managing projects with heightened environmental and/or social due diligence requirements or significant adverse environmental and/or social impacts.\n7. Differences between policies and practices for different operating regions, project types, and business segments, where applicable and relevant.\n\nAdditionally, you need to disclose the following metrics:\n\n1. Number of incidents of non-compliance with environmental permits, standards, and regulations.\n2. Amount of backlog for hydrocarbon-related projects and renewable energy projects.\n3. Amount of backlog for projects with significant environmental and/or social impacts.\n\nNote that the scope of disclosure includes incidents governed by national, state, and local statutory permits and regulations, as well as incidents of non-compliance received by the entity and by subcontractors under the entity's direct supervision.",
+      "bleu_score": 0.2509372258412047,
+      "rouge_l_score": 0.5340314087200188,
+      "reference": [
+        "The entity shall discuss the processes it employs to assess and manage the environmental risks associated with project siting, design and construction.",
+        "Environmental risks may include, but are not limited to, ecological impacts, biodiversity impacts, emissions to air, discharges to water, slope disturbance, soil disturbance and erosion, storm water management, waste management, natural resource consumption, and hazardous chemical usage.",
+        "The entity shall discuss the due diligence practices it employs to assess the environmental risks of projects, where relevant due diligence practices include environmental impact assessments and stakeholder engagement practices.",
+        "Relevant items to discuss include, but are not limited to: practices to assess the baseline environmental considerations of the project site; feasible, environmentally preferable alternatives for the project; local legal requirements; the protection of biodiversity; use of renewable natural resources; use of hazardous substances; and efficient production, delivery and use of energy.",
+        "The entity shall discuss the operational practices it employs to the minimize environmental impacts during project siting, design, and construction, which may include, but are not limited to: waste management, reducing biodiversity impacts, emissions to air, discharges to water, natural resource consumption, and hazardous chemical usage.",
+        "The entity shall describe its approach to operating in compliance with all applicable environmental regulations and permits.",
+        "Relevant items to discuss include, but are not limited to: employee training on relevant regulations and cleanup procedures, quality control processes on project sites, internal mechanisms for reporting and following up on environmental incidents, and maintenance and reporting of accurate data.",
+        "The entity shall discuss the use of codes, guidelines, and standards to assess and minimize environmental impacts of project siting, design, and construction, where applicable. Relevant codes, guidelines, and standards may include, but are not limited to:",
+        "BREEAM\u00ae",
+        "The Equator Principles",
+        "International Finance Corporation's Environmental and Social Performance Standards and Guidance Notes",
+        "Institute for Sustainable Infrastructure's (ISI) Envision\u00ae rating system",
+        "International Organization for Standardization (ISO) environmental standards",
+        "United Nations Development Programme's Performance Standards on Environmental and Social Sustainability",
+        "United Nations Global Compact's Environmental Principles",
+        "U.S. Green Building Council's LEED\u00ae certification",
+        "The entity shall describe its approach to managing projects that have heightened environmental and/or social due diligence requirements or are expected to have significant adverse environmental and/or social impacts, including additional measures or policies it employs.",
+        "An example of a project type that has heightened environmental and/or social impacts are \"Category A\" projects categorized by the International Finance Corporation (IFC).",
+        "The entity may describe its approach to categorizing the severity of environmental risk for its projects, including how it determines if a project has heightened environmental risk.",
+        "Where applicable and relevant, the entity shall describe differences between policies and practices for its different operating regions, project types, and business segments.",
+        "The scope of disclosure includes project stages associated with siting, design, and construction that the entity is involved with through contractual responsibility, including, but not limited to, feasibility studies, proposals, design and planning, subcontractor procurement, and construction."
+      ],
+      "page": [
+        "324",
+        "325"
+      ],
+      "industries": [
+        "b33-engineering-and-construction-services"
+      ],
+      "qa_type": "multi_hop"
+    }
+  ],
+  "average_bleu": 0.04851343635845928,
+  "average_rouge_l": 0.07089183532176081
+}

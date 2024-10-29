@@ -1,0 +1,176 @@
+[
+  {
+    "question": "What is the code for the metric 'Refining throughput of crude oil and other feedstocks' in the Oil & Gas - Refining & Marketing industry?",
+    "optionA": "EM-RM-110a.1",
+    "optionB": "EM-RM-140a.1",
+    "optionC": "EM-RM-410a.2",
+    "optionD": "EM-RM-000.A",
+    "optionE": "EM-RM-000.B",
+    "answer": "D",
+    "pages": [
+      "114"
+    ],
+    "reference_text": [
+      "Refining throughput of crude oil and other feedstocks",
+      "Quantitative",
+      "Barrels of oil equivalent (BOE)",
+      "EM-RM-000.A"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "question": "What is the category of the metric 'Refining operating capacity' for the Oil & Gas - Refining & Marketing industry?",
+    "optionA": "Quantitative",
+    "optionB": "Discussion and Analysis",
+    "optionC": "Qualitative",
+    "optionD": "Descriptive",
+    "optionE": "Narrative",
+    "answer": "A",
+    "pages": [
+      "114",
+      "115"
+    ],
+    "reference_text": [
+      "Refining operating capacity",
+      "Quantitative"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "question": "For the requirement EM-RM-110a.2, what does a company in the Oil & Gas - Refining & Marketing industry need to do regarding emission reduction targets?",
+    "optionA": "Discuss its long-term and short-term strategy or plan to manage Scope 1 emissions.",
+    "optionB": "Disclose its gross global Scope 1 emissions and percentage covered under emissions-limiting regulations.",
+    "optionC": "Analyze its performance against emission reduction targets, including details like target scope, type, percentage reduction, timelines, and mechanisms.",
+    "optionD": "Discuss activities, investments, risks and limiting factors related to achieving emission plans and targets.",
+    "optionE": "All of the above",
+    "answer": "E",
+    "pages": [
+      "118",
+      "119"
+    ],
+    "reference_text": [
+      "The entity shall discuss its long-term and short-term strategy or plan to manage its Scope 1 greenhouse gas (GHG) emissions.",
+      "The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the following, where relevant: ...",
+      "The entity shall discuss activities and investments required to achieve the plans and/or targets, and any risks or limiting factors that might affect achievement of the plans and/or targets."
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "question": "For the listed EM-RM-410a.2 requirement, what metric should a company in the Oil & Gas - Refining & Marketing industry use for total addressable market?",
+    "optionA": "Potential revenue if the entity captures 100% market share",
+    "optionB": "Current revenue from advanced biofuels and infrastructure",
+    "optionC": "Projected growth of the advanced biofuels market",
+    "optionD": "Target 3-year market share for advanced biofuels",
+    "optionE": "None of the above",
+    "answer": "A",
+    "pages": [
+      "122"
+    ],
+    "reference_text": [
+      "Total addressable market is defined as potential revenue should the entity capture 100 percent of the market share of the product category (e.g., the global market for advanced biofuels and advanced biofuel infrastructure)."
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "question": "What is the code for the metric 'Refining throughput of crude oil and other feedstocks' in the Oil & Gas - Refining & Marketing industry and how should this metric be calculated?",
+    "optionA": "EM-RM-000.A. The total volume of crude oil and other feedstocks processed in the refinery system during the reporting period.",
+    "optionB": "EM-RM-000.A. The total volume of crude oil processed in the refinery system during the reporting period, excluding other feedstocks.",
+    "optionC": "EM-RM-000.B. The total volume of crude oil and other feedstocks processed in the refinery system during the reporting period.",
+    "optionD": "EM-RM-000.A. The maximum volume of crude oil and other feedstocks that can be processed in the refinery system.",
+    "optionE": "EM-RM-000.B. The total volume of crude oil processed in the refinery system during the reporting period.",
+    "answer": "A",
+    "pages": [
+      "114"
+    ],
+    "reference_text": [
+      "Note: The standards discussed below are for \"pure-play\" R&M activities, or independent R&M companies. Integrated oil and gas companies conduct upstream operations and are also involved in the distribution and/or refining or marketing of products. SASB has separate standards for the Oil and Gas Exploration & Production (EM-EP), and Midstream (EM-MD) industries. As such, integrated companies should also consider the disclosure topics and metrics from these standards.",
+      "15 Note to EM-RM-000.A \u2013 The total volume of crude oil and other feedstocks processed in the refinery system during the reporting period."
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "question": "How should a company in the Oil & Gas - Refining & Marketing industry disclose its gross global Scope 1 greenhouse gas emissions?",
+    "optionA": "Disclose only the emissions from stationary combustion sources like boilers and furnaces.",
+    "optionB": "Disclose emissions from all sources including stationary and mobile sources, process emissions, vented emissions, and fugitive emissions, consolidated per the financial control approach.",
+    "optionC": "Disclose only the emissions from mobile sources like vehicles and marine vessels.",
+    "optionD": "Disclose emissions from stationary and mobile sources, but exclude process, vented, and fugitive emissions.",
+    "optionE": "Disclose emissions only from sources located in regions with emissions-limiting regulations.",
+    "answer": "B",
+    "pages": [
+      "116",
+      "117"
+    ],
+    "reference_text": [
+      "1 The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol\u2014carbon dioxide (CO\u2082), methane (CH\u2084), nitrous oxide (N\u2082O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF\u2086), and nitrogen trifluoride (NF\u2083).",
+      "2 Scope 1 emissions are defined and shall be calculated according to the methodology contained in The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (GHG Protocol), Revised Edition, March 2004, published by the World Resources Institute and the World Business Council on Sustainable Development (WRI/WBCSD).",
+      "2.1 These emissions include direct emissions of GHGs from stationary or mobile sources; these sources include but are not limited to: equipment at well sites, production facilities, refineries, chemical plants, terminals, fixed site drilling rigs, office buildings, marine vessels transporting products, tank truck fleets, mobile drilling rigs, and moveable equipment at drilling and production facilities.",
+      "2.3 GHG emissions data shall be consolidated according to the approach with which the entity consolidates its financial reporting data, which is generally aligned with the \"financial control\" approach defined by the GHG Protocol as well as:"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "question": "For the requirement EM-RM-110a.2 on discussing strategy and targets for managing Scope 1 emissions, what categories of emissions sources should a company in the Oil & Gas - Refining & Marketing industry consider?",
+    "optionA": "Flared hydrocarbons, other combusted emissions, process emissions, vented emissions, and fugitive emissions.",
+    "optionB": "Only flared hydrocarbons and other combusted emissions from stationary sources.",
+    "optionC": "Only process emissions and vented emissions.",
+    "optionD": "Flared hydrocarbons, other combusted emissions, and process emissions.",
+    "optionE": "Only fugitive emissions and vented emissions.",
+    "answer": "A",
+    "pages": [
+      "119",
+      "120"
+    ],
+    "reference_text": [
+      "4.1 Categories of emissions sources may include:",
+      "4.1.1 Flared hydrocarbons, including all emissions emitted from flares and which are associated with the management and disposal of unrecoverable natural gas via combustion of hydrocarbon products from routine operations, upsets, or emergencies",
+      "4.1.2 Other combusted emissions, including, but not limited to: (1) emissions from stationary devices, including, but not limited to boilers, heaters, furnaces, reciprocating internal combustion engines and turbines, incinerators, and thermal/catalytic oxidizers, (2) emissions from mobile sources, including, but not limited to barges, ships, railcars, and trucks for material transport; planes/ helicopters and other company vehicles for personnel transport; forklifts, all terrain vehicles, construction equipment, and other off-road mobile equipment, and (3) other combusted emissions",
+      "4.1.3 Process emissions, including, but not limited to those emissions that are not combusted and are intentional or designed into the process or technology to occur during normal operations and are a result of some form of chemical transformation or processing step. Such emissions include, but are not limited to those from hydrogen plants, amine units, glycol dehydrators, fluid catalytic cracking unit and reformer generation, and flexi-coker coke burn",
+      "4.1.4 Vented emissions, including those emissions that are not combusted and are intentional or designed into the process or technology to occur during normal operations, and which include, but are not limited to: (1) venting from crude oil, condensate, or natural gas product storage tanks, gas-driven pneumatic devices, gas samplers, chemical injection pumps, exploratory drilling, loading/ballasting/transit, and loading racks, (2) venting resulting from maintenance/turn-arounds, including, but not limited to decoking of furnace tubes, well unloading, vessel and gas compressor depressurizing, compressor starts, gas sampling, and pipeline blowdowns, and (3) venting from non-routine activities, including but not limited to pressure relief valves, pressure control valves, fuel supply unloading valves, and emergency shut-down devices",
+      "4.1.5 Fugitive emissions, including those emissions which can be individually found and \"fixed\" to make emissions \"near zero\" and which include, but are not limited to emissions from valves, flanges, connectors, pumps, compressor seal leaks, catadyne heaters, and wastewater treatment and surface impoundments"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "question": "What is the code and unit of measure for the metric on total addressable market and share of market for advanced biofuels and associated infrastructure in the Oil & Gas - Refining & Marketing industry?",
+    "optionA": "EM-RM-410a.2, Reporting currency and Percentage (%)",
+    "optionB": "EM-RM-410a.1, Reporting currency and Percentage (%)",
+    "optionC": "EM-RM-410a.2, Barrels of oil equivalent (BOE) and Percentage (%)",
+    "optionD": "EM-RM-410a.1, Thousand cubic meters (m\u00b3) and Percentage (%)",
+    "optionE": "EM-RM-410a.2, Metric tons (t) CO2-e and Percentage (%)",
+    "answer": "A",
+    "pages": [
+      "122"
+    ],
+    "reference_text": [
+      "Total addressable market and share of market for advanced biofuels and associated infrastructure",
+      "Quantitative",
+      "Reporting currency, Percentage (%)",
+      "EM-RM-410a.2"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  }
+]

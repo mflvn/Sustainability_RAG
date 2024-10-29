@@ -1,0 +1,137 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing energy consumption for a health care facility, which of the following is NOT included in the scope of energy consumption according to IFRS S2?",
+    "optionA": "Direct fuel usage",
+    "optionB": "Purchased electricity",
+    "optionC": "Heating energy",
+    "optionD": "Energy consumed by suppliers",
+    "optionE": "Steam energy",
+    "answer": "D. Energy consumed by suppliers",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "283",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When reporting on medical waste management, which of the following is NOT considered a category of medical waste according to IFRS S2?",
+    "optionA": "Cultures and Stocks",
+    "optionB": "Pathological Wastes",
+    "optionC": "Human Blood and Blood Products",
+    "optionD": "Sharps",
+    "optionE": "General office waste",
+    "answer": "E. General office waste",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "285-286",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2, when describing policies and practices to address climate change impacts on human health and infrastructure, which of the following is NOT a required consideration for health care delivery companies?",
+    "optionA": "Risks to physical infrastructure in flood-prone areas",
+    "optionB": "Risks based on facility design, such as equipment location",
+    "optionC": "Capacity needs for heat-related illnesses",
+    "optionD": "Preparedness for changing disease profiles",
+    "optionE": "Impact on company's stock price",
+    "answer": "E. Impact on company's stock price",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "288",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2, when reporting on pharmaceutical waste management, how should a health care delivery company calculate the percentage of hazardous pharmaceutical waste disposed of by incineration?",
+    "optionA": "Weight of incinerated hazardous waste divided by total weight of all pharmaceutical waste",
+    "optionB": "Weight of incinerated hazardous waste divided by total weight of hazardous pharmaceutical waste",
+    "optionC": "Volume of incinerated hazardous waste divided by total volume of hazardous pharmaceutical waste",
+    "optionD": "Number of incinerated hazardous waste items divided by total number of hazardous pharmaceutical waste items",
+    "optionE": "Weight of incinerated hazardous waste divided by weight of non-hazardous pharmaceutical waste",
+    "answer": "B. Weight of incinerated hazardous waste divided by total weight of hazardous pharmaceutical waste",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "286-287",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When reporting on energy management, how should a health care delivery company calculate the percentage of energy consumed that was supplied from grid electricity?",
+    "optionA": "Total energy consumed divided by grid electricity consumed",
+    "optionB": "Grid electricity consumed divided by total energy consumed",
+    "optionC": "Renewable energy consumed divided by grid electricity consumed",
+    "optionD": "Grid electricity consumed minus renewable energy consumed",
+    "optionE": "Total energy consumed minus renewable energy consumed",
+    "answer": "B. Grid electricity consumed divided by total energy consumed",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "283",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When preparing a sustainability report for a Health Care Delivery company, which of the following energy sources should be included in the scope of renewable energy consumption?",
+    "optionA": "All hydropower sources regardless of certification",
+    "optionB": "Biomass from any source",
+    "optionC": "Grid electricity with an unspecified mix of renewables",
+    "optionD": "Natural gas with carbon offsets",
+    "optionE": "Solar energy with retained and retired RECs",
+    "answer": "E. Solar energy with retained and retired RECs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "283-284",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When a Health Care Delivery company uses a waste transport service or broker to handle its pharmaceutical waste, what is the company's responsibility regarding waste disposition reporting under IFRS S2?",
+    "optionA": "No responsibility, as the waste is handled by a third party",
+    "optionB": "Report only the total amount of waste collected by the service",
+    "optionC": "Assume an equal split between incineration, recycling, and landfill",
+    "optionD": "Make a good faith effort to determine the final disposition method",
+    "optionE": "Report only on hazardous waste disposition",
+    "answer": "D. Make a good faith effort to determine the final disposition method",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "287",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "According to IFRS S2, what unique challenge does a health care delivery company face when reporting on energy consumption from renewable sources in relation to hydropower?",
+    "optionA": "All hydropower sources are automatically considered renewable",
+    "optionB": "Hydropower is excluded from renewable energy reporting",
+    "optionC": "Only hydropower from dams larger than 100 MW capacity is considered renewable",
+    "optionD": "Hydropower must be certified by the Low Impact Hydropower Institute or eligible for a state Renewable Portfolio Standard",
+    "optionE": "Hydropower is only considered renewable if it's sourced from run-of-river projects",
+    "answer": "D. Hydropower must be certified by the Low Impact Hydropower Institute or eligible for a state Renewable Portfolio Standard",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "283-284",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When preparing a sustainability report for a health care delivery company, what unique consideration must be given to reporting on medical waste that contains human blood and blood products?",
+    "optionA": "Only report on blood products if they exceed 5% of total medical waste",
+    "optionB": "Exclude all blood-related waste from medical waste calculations",
+    "optionC": "Report separately on liquid blood waste and items saturated with dried blood",
+    "optionD": "Only include blood products if they were used in laboratory analysis",
+    "optionE": "Include all items saturated and/or dripping with human blood, as well as those caked with dried human blood",
+    "answer": "E. Include all items saturated and/or dripping with human blood, as well as those caked with dried human blood",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+    "page": "285-286",
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  }
+]

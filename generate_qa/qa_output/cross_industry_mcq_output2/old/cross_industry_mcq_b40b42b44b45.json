@@ -1,0 +1,154 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When reporting on water management for the Solar Technology & Project Developers and Biofuels industries, which of the following is a required disclosure for both industries?",
+    "optionA": "Description of water recycling efforts",
+    "optionB": "Total water withdrawn and consumed",
+    "optionC": "Water quality permits violations",
+    "optionD": "Percentage of water from renewable sources",
+    "optionE": "Cost savings from water efficiency measures",
+    "answer": "B: Total water withdrawn and consumed",
+    "explanation": "Both the Solar Technology & Project Developers (RR-ST-140a.1) and Biofuels (RR-BI-140a.1) industries are required to disclose the total water withdrawn and consumed. This includes reporting the percentage of each in regions with High or Extremely High Baseline Water Stress.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Solar Technology & Project Developers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Biofuels"
+    ],
+    "pages": [
+      "476",
+      "427"
+    ],
+    "pairing_explanation": "These industries are pivotal in the renewable energy sector. Sustainability reporting comparisons can provide insights into the advancements, efficiencies, and environmental impacts of various renewable technologies.",
+    "industries": [
+      "b40-biofuels",
+      "b42-fuel-cells-and-industrial-batteries",
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "In contrast to the Wind Technology & Project Developers industry, what additional energy-related disclosure is required for the Fuel Cells & Industrial Batteries industry?",
+    "optionA": "Total energy consumed",
+    "optionB": "Percentage of grid electricity used",
+    "optionC": "Percentage of renewable energy used",
+    "optionD": "Average energy efficiency of products",
+    "optionE": "Energy production capacity of products sold",
+    "answer": "D: Average energy efficiency of products",
+    "explanation": "The Fuel Cells & Industrial Batteries industry requires disclosure of average energy efficiency of fuel cells and batteries (RR-FC-410a.2 and RR-FC-410a.3), which is not a requirement for the Wind Technology & Project Developers industry. Both industries must report on total energy consumed, percentage of grid electricity, and percentage of renewable energy used.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Fuel Cells & Industrial Batteries",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Wind Technology & Project Developers"
+    ],
+    "pages": [
+      "450-452",
+      "484-486"
+    ],
+    "pairing_explanation": "These industries are pivotal in the renewable energy sector. Sustainability reporting comparisons can provide insights into the advancements, efficiencies, and environmental impacts of various renewable technologies.",
+    "industries": [
+      "b40-biofuels",
+      "b42-fuel-cells-and-industrial-batteries",
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the lifecycle emissions balance for the Biofuels industry, which of the following is NOT included in the scope of emissions considered?",
+    "optionA": "Feedstock crop production emissions",
+    "optionB": "Fuel refining emissions",
+    "optionC": "Fuel and feedstock transport emissions",
+    "optionD": "Vehicle exhaust emissions",
+    "optionE": "End-of-life disposal emissions",
+    "answer": "E: End-of-life disposal emissions",
+    "explanation": "According to RR-BI-410a.1, the lifecycle GHG emissions calculation for biofuels includes emissions from feedstock crop production, land use, fuel refining, fuel and feedstock transport, and vehicle exhaust emissions. End-of-life disposal emissions are not mentioned as part of this calculation.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Biofuels"
+    ],
+    "pages": [
+      "431-432"
+    ],
+    "pairing_explanation": "These industries are pivotal in the renewable energy sector. Sustainability reporting comparisons can provide insights into the advancements, efficiencies, and environmental impacts of various renewable technologies.",
+    "industries": [
+      "b40-biofuels",
+      "b42-fuel-cells-and-industrial-batteries",
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "In the Wind Technology & Project Developers industry, how is the average top head mass per turbine capacity calculated?",
+    "optionA": "Total turbine weight divided by rated capacity",
+    "optionB": "Nacelle and rotor weight divided by rated capacity",
+    "optionC": "Nacelle, rotor, and blade weight divided by rated capacity",
+    "optionD": "Tower weight divided by rated capacity",
+    "optionE": "Total turbine weight multiplied by rated capacity",
+    "answer": "B: Nacelle and rotor weight divided by rated capacity",
+    "explanation": "According to RR-WT-440b.2, the average top head mass per turbine capacity is calculated as the mass of the top head (which includes the turbine nacelle and the turbine rotor, but excludes the blades) in metric tons divided by turbine capacity in megawatts (MW).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Wind Technology & Project Developers"
+    ],
+    "pages": [
+      "485"
+    ],
+    "pairing_explanation": "These industries are pivotal in the renewable energy sector. Sustainability reporting comparisons can provide insights into the advancements, efficiencies, and environmental impacts of various renewable technologies.",
+    "industries": [
+      "b40-biofuels",
+      "b42-fuel-cells-and-industrial-batteries",
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the Solar Technology & Project Developers and Fuel Cells & Industrial Batteries industries differ in their approach to reporting product efficiency?",
+    "optionA": "Solar reports on panel efficiency, while Fuel Cells report on energy density",
+    "optionB": "Solar reports on installation efficiency, while Fuel Cells report on charging efficiency",
+    "optionC": "Solar does not have specific product efficiency metrics, while Fuel Cells report on energy and thermal efficiency",
+    "optionD": "Both industries report on the same efficiency metrics",
+    "optionE": "Solar reports on energy payback time, while Fuel Cells report on power density",
+    "answer": "C: Solar does not have specific product efficiency metrics, while Fuel Cells report on energy and thermal efficiency",
+    "explanation": "The Solar Technology & Project Developers industry does not have specific product efficiency metrics in its disclosure requirements. In contrast, the Fuel Cells & Industrial Batteries industry is required to report on average energy efficiency of fuel cells as electrical and thermal efficiency (RR-FC-410a.2) and average battery efficiency as coulombic efficiency (RR-FC-410a.3).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Solar Technology & Project Developers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Fuel Cells & Industrial Batteries"
+    ],
+    "pages": [
+      "471-482",
+      "450-453"
+    ],
+    "pairing_explanation": "These industries are pivotal in the renewable energy sector. Sustainability reporting comparisons can provide insights into the advancements, efficiencies, and environmental impacts of various renewable technologies.",
+    "industries": [
+      "b40-biofuels",
+      "b42-fuel-cells-and-industrial-batteries",
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "What key sustainability topic is addressed in the Biofuels industry standards but not explicitly covered in the Wind Technology & Project Developers industry standards?",
+    "optionA": "Energy management",
+    "optionB": "Materials efficiency",
+    "optionC": "Water management",
+    "optionD": "Lifecycle emissions",
+    "optionE": "Supply chain management",
+    "answer": "C: Water management",
+    "explanation": "Water management is a key sustainability topic addressed in the Biofuels industry standards (RR-BI-140a.1, RR-BI-140a.2, RR-BI-140a.3) but is not explicitly covered in the Wind Technology & Project Developers industry standards. The Wind industry focuses more on materials efficiency (RR-WT-440b.1, RR-WT-440b.2, RR-WT-440b.3).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Biofuels",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Wind Technology & Project Developers"
+    ],
+    "pages": [
+      "427-430",
+      "483-486"
+    ],
+    "pairing_explanation": "These industries are pivotal in the renewable energy sector. Sustainability reporting comparisons can provide insights into the advancements, efficiencies, and environmental impacts of various renewable technologies.",
+    "industries": [
+      "b40-biofuels",
+      "b42-fuel-cells-and-industrial-batteries",
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ]
+  }
+]

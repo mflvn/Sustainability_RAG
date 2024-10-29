@@ -1,0 +1,29 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What is one key differentiating factor for companies in the Appliance Manufacturing industry?\nA. Product color options\nB. Brand name recognition\nC. Environmental impact of products over their lifecycle\nD. Manufacturing speed\nE. Product size variety\n",
+    "faithfulness": {
+      "passing": true,
+      "score": 1.0,
+      "feedback": "YES"
+    },
+    "relevancy": {
+      "passing": true,
+      "score": 1.0,
+      "feedback": "YES"
+    },
+    "factual_accuracy": {
+      "score": 1.0,
+      "passing": true,
+      "explanation": "{\n    \"Result\": [\n        {\n            \"Fact\": \"1. The key differentiating factor for companies in the Appliance Manufacturing industry is the environmental impact of products over their lifecycle.\",\n            \"Reasoning\": \"The context explicitly mentions that one key differentiating factor for companies in the Appliance Manufacturing industry is the environmental impact of products over their lifecycle. This aligns with the fact provided.\",\n            \"Judgement\": \"yes\"\n        }\n    ]\n}"
+    },
+    "response_consistency": {
+      "score": 1.0,
+      "passing": true,
+      "explanation": "The response is highly appropriate for the given question as it directly addresses one of the key differentiating factors for companies in the Appliance Manufacturing industry, which is the environmental impact of products over their lifecycle. This factor is highlighted in the context as a crucial aspect that companies focus on to differentiate their products and attract consumers. By emphasizing the importance of designing products with improved environmental impacts, the response aligns perfectly with the industry's sustainability goals and consumer demands.\nThe context specifically mentions that one key differentiating factor for companies in the Appliance Manufacturing industry is the environmental impact of products over their lifecycle. The response accurately identifies and highlights this factor, showcasing an understanding of the industry's priorities and challenges. It reflects the industry's emphasis on sustainability and the need for companies to design products with energy and water efficiency, safe disposal, and recycling in mind. By focusing on the environmental impact of products, the response aligns with the broader narrative of the industry's sustainability efforts and consumer preferences. It directly responds to the question by pinpointing a critical factor that sets companies apart in the Appliance Manufacturing sector, demonstrating a clear understanding of the industry dynamics."
+    },
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  }
+]

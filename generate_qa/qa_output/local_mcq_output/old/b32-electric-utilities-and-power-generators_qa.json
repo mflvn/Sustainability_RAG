@@ -1,0 +1,407 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the three main indices used to measure power interruptions in the electric utility industry?",
+    "optionA": "SAIDI, SAIFI, and CAIDI",
+    "optionB": "SAIDI, CAIFI, and MAIFI",
+    "optionC": "SAIFI, CAIDI, and ASAI",
+    "optionD": "CAIDI, MAIFI, and ASAI",
+    "optionE": "SAIDI, ASAI, and MAIFI",
+    "answer": "A: SAIDI, SAIFI, and CAIDI",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "318-319",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What does SAIDI measure in the context of electric power distribution?",
+    "optionA": "The average number of interruptions a customer experiences",
+    "optionB": "The total duration of interruptions for the average customer",
+    "optionC": "The average time to restore service after an interruption",
+    "optionD": "The frequency of major event days",
+    "optionE": "The total number of customers affected by interruptions",
+    "answer": "B: The total duration of interruptions for the average customer",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "318-319",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "How is SAIFI (System Average Interruption Frequency Index) calculated?",
+    "optionA": "Total duration of interruptions divided by total number of customers",
+    "optionB": "Total number of customers interrupted divided by total number of customers served",
+    "optionC": "Total duration of interruptions divided by total number of interruptions",
+    "optionD": "Total number of interruptions divided by total number of customers interrupted",
+    "optionE": "Total number of customers served divided by total number of interruptions",
+    "answer": "B: Total number of customers interrupted divided by total number of customers served",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "319",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What is the purpose of calculating the major event day threshold (TMED) in electric utility performance metrics?",
+    "optionA": "To determine the average duration of power outages",
+    "optionB": "To identify days with exceptionally high SAIDI values",
+    "optionC": "To calculate the frequency of power interruptions",
+    "optionD": "To measure the efficiency of power restoration",
+    "optionE": "To estimate the total number of customers affected by outages",
+    "answer": "B: To identify days with exceptionally high SAIDI values",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "319-320",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might a utility's efforts to manage nuclear safety impact its grid resiliency, and what are the potential financial implications?",
+    "optionA": "Nuclear safety efforts have no impact on grid resiliency or finances",
+    "optionB": "Improved nuclear safety reduces grid resiliency but increases financial stability",
+    "optionC": "Enhanced nuclear safety can improve grid resiliency and potentially lead to better regulatory relationships and financial outcomes",
+    "optionD": "Nuclear safety efforts only affect the immediate area around the plant, with no impact on overall grid resiliency or finances",
+    "optionE": "Increased focus on nuclear safety always leads to higher electricity costs for consumers",
+    "answer": "C: Enhanced nuclear safety can improve grid resiliency and potentially lead to better regulatory relationships and financial outcomes",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "315-318",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How does the implementation of smart grid technology affect both end-use efficiency and grid resiliency, and what are the potential cybersecurity implications?",
+    "optionA": "Smart grids only improve end-use efficiency with no impact on resiliency or cybersecurity",
+    "optionB": "Smart grids enhance both efficiency and resiliency but have no effect on cybersecurity",
+    "optionC": "Smart grids reduce efficiency and resiliency while increasing cybersecurity risks",
+    "optionD": "Smart grids improve efficiency and resiliency but may increase vulnerability to cyber attacks, requiring additional security measures",
+    "optionE": "Smart grids only affect grid resiliency without impacting efficiency or cybersecurity",
+    "answer": "D: Smart grids improve efficiency and resiliency but may increase vulnerability to cyber attacks, requiring additional security measures",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "310-313, 318-320",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How do water management strategies in electricity generation relate to greenhouse gas emissions and long-term financial performance of electric utilities?",
+    "optionA": "Water management has no connection to greenhouse gas emissions or financial performance",
+    "optionB": "Effective water management reduces emissions but always leads to poorer financial performance",
+    "optionC": "Water management only affects local ecosystems, with no impact on emissions or finances",
+    "optionD": "Improved water management can reduce both water consumption and greenhouse gas emissions, potentially leading to better long-term financial performance",
+    "optionE": "Water management strategies only impact short-term operational costs, with no effect on emissions or long-term finances",
+    "answer": "D: Improved water management can reduce both water consumption and greenhouse gas emissions, potentially leading to better long-term financial performance",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "300-309",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How do end-use efficiency measures implemented by electric utilities affect their greenhouse gas emissions, regulatory compliance, and financial performance?",
+    "optionA": "End-use efficiency measures only affect consumer behavior, with no impact on the utility's emissions, compliance, or finances",
+    "optionB": "Efficiency measures increase emissions and worsen financial performance but improve regulatory compliance",
+    "optionC": "End-use efficiency reduces emissions and improves regulatory compliance, but always leads to revenue loss for utilities",
+    "optionD": "Efficiency measures can reduce emissions, enhance regulatory compliance, and potentially improve financial performance through incentives and cost savings",
+    "optionE": "End-use efficiency only affects short-term energy consumption patterns, with no long-term impact on emissions, compliance, or finances",
+    "answer": "D: Efficiency measures can reduce emissions, enhance regulatory compliance, and potentially improve financial performance through incentives and cost savings",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "310-314",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is a 'smart grid' as defined by the International Energy Agency (IEA)?",
+    "optionA": "A grid that exclusively uses renewable energy sources",
+    "optionB": "An electricity network that only serves residential customers",
+    "optionC": "A grid system that focuses solely on reducing power outages",
+    "optionD": "An electricity network that uses digital and other advanced technologies to monitor and manage electricity transport from all generation sources to meet varying electricity demands of end users",
+    "optionE": "A power distribution system that relies entirely on manual control and traditional infrastructure",
+    "answer": "D. An electricity network that uses digital and other advanced technologies to monitor and manage electricity transport from all generation sources to meet varying electricity demands of end users",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+    "page": "310-311",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is 'gross global Scope 1 emissions' in the context of electric utilities?",
+    "optionA": "The total amount of electricity generated by a utility",
+    "optionB": "The carbon footprint of the utility's office buildings",
+    "optionC": "Direct greenhouse gas emissions to the atmosphere of seven GHGs covered under the Kyoto Protocol, before accounting for offsets or credits",
+    "optionD": "The emissions from power purchased from third-party generators",
+    "optionE": "The total carbon emissions from the utility's vehicle fleet",
+    "answer": "C. Direct greenhouse gas emissions to the atmosphere of seven GHGs covered under the Kyoto Protocol, before accounting for offsets or credits",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+    "page": "300-301",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What are 'initiating events' in the context of nuclear safety and emergency preparedness?",
+    "optionA": "Scheduled maintenance activities for nuclear power plants",
+    "optionB": "Regular safety drills conducted by nuclear facility staff",
+    "optionC": "The process of starting up a nuclear reactor",
+    "optionD": "Natural or human-induced events that cause an event sequence potentially leading to radiation exposure",
+    "optionE": "Annual inspections carried out by regulatory bodies",
+    "answer": "D. Natural or human-induced events that cause an event sequence potentially leading to radiation exposure",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+    "page": "316",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is 'decoupling' in the context of electric utility rate structures, and how does it relate to energy efficiency?",
+    "optionA": "A process of separating power generation from distribution",
+    "optionB": "A rate design that disconnects utility revenues from customer energy consumption",
+    "optionC": "A method to reduce peak electricity demand",
+    "optionD": "A strategy to increase reliance on renewable energy sources",
+    "optionE": "A technique to improve grid stability during power outages",
+    "answer": "B. A rate design that disconnects utility revenues from customer energy consumption",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators",
+    "page": "314-315",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "What is the significance of the 'System Average Interruption Duration Index (SAIDI)' in assessing an electric utility's performance?",
+    "optionA": "It measures the utility's profitability",
+    "optionB": "It indicates the average duration of power interruptions for customers",
+    "optionC": "It tracks the utility's renewable energy generation",
+    "optionD": "It measures the utility's energy efficiency",
+    "optionE": "It calculates the utility's carbon emissions",
+    "answer": "B: It indicates the average duration of power interruptions for customers",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "318-319",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How does climate change potentially affect the grid resiliency challenges faced by electric utilities?",
+    "optionA": "It has no impact on grid resiliency",
+    "optionB": "It only affects renewable energy generation",
+    "optionC": "It increases the frequency and severity of extreme weather events threatening infrastructure",
+    "optionD": "It reduces the need for grid maintenance",
+    "optionE": "It only impacts coastal utilities",
+    "answer": "C: It increases the frequency and severity of extreme weather events threatening infrastructure",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "318",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "What role do 'major event days' play in the reporting of grid reliability metrics like SAIDI and SAIFI?",
+    "optionA": "They are excluded from all calculations",
+    "optionB": "They only affect SAIDI calculations",
+    "optionC": "They are used to calculate average performance",
+    "optionD": "They are included to provide a comprehensive view of grid performance including extreme events",
+    "optionE": "They only matter for regulatory compliance",
+    "answer": "D: They are included to provide a comprehensive view of grid performance including extreme events",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "319-320",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What are the key components of a utility's efforts to manage nuclear safety and emergency preparedness according to IF-EU-540a.2?",
+    "optionA": "Focusing solely on equipment maintenance and upgrades",
+    "optionB": "Implementing strict employee disciplinary measures",
+    "optionC": "Identifying and assessing initiating events and event sequences",
+    "optionD": "Increasing security personnel at nuclear facilities",
+    "optionE": "Conducting public awareness campaigns about nuclear energy",
+    "answer": "C. Identifying and assessing initiating events and event sequences",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "315-316",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the disclosure requirements, how should an electric utility calculate the percentage of its electric load served by smart grid technology?",
+    "optionA": "Total smart grid energy / Total energy generated",
+    "optionB": "Number of smart meters / Total number of customers",
+    "optionC": "Smart grid investments / Total infrastructure investments",
+    "optionD": "Total energy load served by smart grid / Total energy load",
+    "optionE": "Smart grid capacity / Total generation capacity",
+    "answer": "D. Total energy load served by smart grid / Total energy load",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "311-312",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the correct approach for disclosing greenhouse gas (GHG) emissions associated with power deliveries according to IF-EU-110a.2?",
+    "optionA": "Disclose only emissions from owned power generation",
+    "optionB": "Report net emissions after subtracting carbon offsets",
+    "optionC": "Disclose gross global GHG emissions from owned generation and purchased power",
+    "optionD": "Report only CO2 emissions, excluding other greenhouse gases",
+    "optionE": "Disclose emissions based on estimated customer usage",
+    "answer": "C. Disclose gross global GHG emissions from owned generation and purchased power",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "302-303",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "How should an electric utility disclose incidents of non-compliance with physical and cybersecurity standards according to IF-EU-550a.1?",
+    "optionA": "Report only cybersecurity breaches",
+    "optionB": "Disclose total number of non-compliance instances with mandatory standards",
+    "optionC": "Report financial penalties resulting from non-compliance",
+    "optionD": "Disclose only incidents that resulted in service interruptions",
+    "optionE": "Report number of employees involved in security incidents",
+    "answer": "B. Disclose total number of non-compliance instances with mandatory standards",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "318",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might an electric utility's strategy to manage Scope 1 emissions impact its long-term financial performance and regulatory relationships?",
+    "optionA": "It would likely decrease financial performance due to increased costs of emissions reduction technologies",
+    "optionB": "It would have no significant impact on financial performance or regulatory relationships",
+    "optionC": "It could improve financial performance through increased operational efficiency and stronger regulatory relationships",
+    "optionD": "It would only impact regulatory relationships positively but have no effect on financial performance",
+    "optionE": "It would lead to immediate financial gains but strained regulatory relationships in the long term",
+    "answer": "C: It could improve financial performance through increased operational efficiency and stronger regulatory relationships",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "304-305",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "What are the potential implications of increasing water scarcity for electric utilities' operations and strategic planning?",
+    "optionA": "It would have no significant impact on operations or planning",
+    "optionB": "It would only affect utilities in desert regions",
+    "optionC": "It could lead to increased operational costs and the need for new water management strategies",
+    "optionD": "It would result in immediate shutdown of all water-intensive power plants",
+    "optionE": "It would only impact hydroelectric power generation",
+    "answer": "C: It could lead to increased operational costs and the need for new water management strategies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "306-309",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the implementation of smart grid technologies affect an electric utility's relationship with its customers and its ability to manage demand?",
+    "optionA": "It would have no effect on customer relationships or demand management",
+    "optionB": "It would worsen customer relationships due to privacy concerns but improve demand management",
+    "optionC": "It could enhance customer engagement and enable more effective demand response programs",
+    "optionD": "It would only benefit large industrial customers, alienating residential consumers",
+    "optionE": "It would improve demand management but significantly increase electricity costs for all customers",
+    "answer": "C: It could enhance customer engagement and enable more effective demand response programs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "310-313",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "What are the potential long-term impacts of increasing grid resiliency investments on an electric utility's financial performance and regulatory standing?",
+    "optionA": "They would only increase costs without any benefits to financial performance or regulatory standing",
+    "optionB": "They would have no impact on financial performance or regulatory standing",
+    "optionC": "They could improve reliability, potentially leading to better regulatory relationships and long-term financial benefits",
+    "optionD": "They would only benefit the utility's regulatory standing but harm its financial performance",
+    "optionE": "They would result in immediate financial gains but worsen regulatory relationships",
+    "answer": "C: They could improve reliability, potentially leading to better regulatory relationships and long-term financial benefits",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "318-320",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a metric for measuring grid resiliency in the document?",
+    "optionA": "System Average Interruption Duration Index (SAIDI)",
+    "optionB": "System Average Interruption Frequency Index (SAIFI)",
+    "optionC": "Customer Average Interruption Duration Index (CAIDI)",
+    "optionD": "Grid Modernization Index (GMI)",
+    "optionE": "Major event day threshold (TMED)",
+    "answer": "D. Grid Modernization Index (GMI)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "318-320",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT listed as a component of nuclear safety and emergency preparedness efforts in the document?",
+    "optionA": "Identifying and assessing initiating events",
+    "optionB": "Implementing emergency plans",
+    "optionC": "Training personnel",
+    "optionD": "Using technology",
+    "optionE": "Conducting regular public evacuation drills",
+    "answer": "E. Conducting regular public evacuation drills",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "316-317",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT listed as a trait of a positive safety culture for nuclear power operations in the document?",
+    "optionA": "Leadership safety values and actions",
+    "optionB": "Problem identification and resolution",
+    "optionC": "Continuous learning",
+    "optionD": "Questioning attitude",
+    "optionE": "Prioritizing cost-efficiency over safety measures",
+    "answer": "E. Prioritizing cost-efficiency over safety measures",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "316-317",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a water management risk for electric utilities in the document?",
+    "optionA": "Environmental constraints such as operating in water-stressed regions",
+    "optionB": "Regulatory and financial constraints related to water withdrawals",
+    "optionC": "Stakeholder perceptions and concerns related to water discharges",
+    "optionD": "Risks associated with the discharge of water and/or wastewater",
+    "optionE": "Groundwater contamination from nuclear waste storage",
+    "answer": "E. Groundwater contamination from nuclear waste storage",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "308-309",
+    "industries": [
+      "b32-electric-utilities-and-power-generators"
+    ]
+  }
+]

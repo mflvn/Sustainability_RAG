@@ -1,0 +1,160 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When reporting on energy management, which of the following is a key difference between the requirements for Health Care Delivery companies and Drug Retailers?",
+    "optionA": "Only Health Care Delivery companies need to report total energy consumed",
+    "optionB": "Drug Retailers must report energy consumption for each individual store",
+    "optionC": "Health Care Delivery companies must report on waste management, while Drug Retailers do not",
+    "optionD": "Drug Retailers are not required to report the percentage of renewable energy consumed",
+    "optionE": "Health Care Delivery companies must report energy consumption by source type",
+    "answer": "C: Health Care Delivery companies must report on waste management, while Drug Retailers do not",
+    "explanation": "While both industries are required to report on total energy consumed, percentage of grid electricity, and percentage of renewable energy, Health Care Delivery companies have additional requirements to report on waste management, including medical and pharmaceutical waste. Drug Retailers do not have specific waste management reporting requirements in their industry standard.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers"
+    ],
+    "pages": [
+      "282-287",
+      "279-281"
+    ],
+    "pairing_explanation": "Healthcare industries are interconnected and face similar sustainability challenges related to resource management, environmental impacts of medical waste, and equitable access to healthcare services.",
+    "industries": [
+      "b27-drug-retailers",
+      "b28-health-care-delivery",
+      "b31-medical-equipment-and-supplies",
+      "b29-health-care-distributors"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "Which of the following metrics is required for Health Care Distributors but not for Medical Equipment & Supplies companies according to IFRS S2?",
+    "optionA": "Total energy consumed",
+    "optionB": "Payload fuel economy",
+    "optionC": "Number of units sold by product category",
+    "optionD": "Description of efforts to reduce environmental impact",
+    "optionE": "Total amount of products accepted for take-back",
+    "answer": "B: Payload fuel economy",
+    "explanation": "Health Care Distributors are required to report on payload fuel economy (HC-DI-110a.1) as part of their fleet fuel management disclosures. This metric is not required for Medical Equipment & Supplies companies, which instead focus on product design and lifecycle management metrics.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies"
+    ],
+    "pages": [
+      "289-291",
+      "294-296"
+    ],
+    "pairing_explanation": "Healthcare industries are interconnected and face similar sustainability challenges related to resource management, environmental impacts of medical waste, and equitable access to healthcare services.",
+    "industries": [
+      "b27-drug-retailers",
+      "b28-health-care-delivery",
+      "b31-medical-equipment-and-supplies",
+      "b29-health-care-distributors"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of renewable energy consumed, as required for both Health Care Delivery and Drug Retailers, which of the following sources would NOT be included in the scope of renewable energy?",
+    "optionA": "On-site solar panels with retained RECs",
+    "optionB": "Wind energy purchased through a PPA with explicit RECs",
+    "optionC": "Biomass energy from Forest Stewardship Council certified materials",
+    "optionD": "Hydropower certified by the Low Impact Hydropower Institute",
+    "optionE": "The renewable portion of the standard electricity grid mix",
+    "answer": "E: The renewable portion of the standard electricity grid mix",
+    "explanation": "According to the guidelines for both industries, 'The renewable portion of the electricity grid mix that is outside of the control or influence of the entity is excluded from the scope of renewable energy.' All other options listed are valid sources of renewable energy under the specified conditions.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers"
+    ],
+    "pages": [
+      "283-284",
+      "280-281"
+    ],
+    "pairing_explanation": "Healthcare industries are interconnected and face similar sustainability challenges related to resource management, environmental impacts of medical waste, and equitable access to healthcare services.",
+    "industries": [
+      "b27-drug-retailers",
+      "b28-health-care-delivery",
+      "b31-medical-equipment-and-supplies",
+      "b29-health-care-distributors"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When reporting on product take-back for Medical Equipment & Supplies companies, how should the total amount of products accepted for take-back be categorized?",
+    "optionA": "By product type and disposal method",
+    "optionB": "By reuse, recycling, or donation status",
+    "optionC": "By devices and equipment, and supplies",
+    "optionD": "By hazardous and non-hazardous waste",
+    "optionE": "By energy efficiency rating",
+    "answer": "C: By devices and equipment, and supplies",
+    "explanation": "According to HC-MS-410a.2, Medical Equipment & Supplies companies should disclose the total amount of products accepted for take-back and reused, recycled, or donated, broken down by: (1) devices and equipment and (2) supplies. Devices and equipment include high-value machines and advanced devices, while supplies include simple supplies and low-cost equipment.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies"
+    ],
+    "pages": [
+      "296"
+    ],
+    "pairing_explanation": "Healthcare industries are interconnected and face similar sustainability challenges related to resource management, environmental impacts of medical waste, and equitable access to healthcare services.",
+    "industries": [
+      "b27-drug-retailers",
+      "b28-health-care-delivery",
+      "b31-medical-equipment-and-supplies",
+      "b29-health-care-distributors"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "Which of the following sustainability topics is most relevant to Health Care Delivery companies but not explicitly addressed in the metrics for Drug Retailers?",
+    "optionA": "Energy management",
+    "optionB": "Waste management",
+    "optionC": "Product safety",
+    "optionD": "Employee health and safety",
+    "optionE": "Supply chain management",
+    "answer": "B: Waste management",
+    "explanation": "Waste management, particularly medical and pharmaceutical waste, is a significant sustainability topic for Health Care Delivery companies with specific metrics (HC-DY-150a.1 and HC-DY-150a.2). This topic is not explicitly addressed in the metrics for Drug Retailers, which focus primarily on energy management in retail operations.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers"
+    ],
+    "pages": [
+      "285-287",
+      "279-281"
+    ],
+    "pairing_explanation": "Healthcare industries are interconnected and face similar sustainability challenges related to resource management, environmental impacts of medical waste, and equitable access to healthcare services.",
+    "industries": [
+      "b27-drug-retailers",
+      "b28-health-care-delivery",
+      "b31-medical-equipment-and-supplies",
+      "b29-health-care-distributors"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "Which sustainability consideration is uniquely emphasized for Health Care Distributors compared to the other healthcare industries discussed (Health Care Delivery, Drug Retailers, and Medical Equipment & Supplies)?",
+    "optionA": "Product design and lifecycle management",
+    "optionB": "Energy efficiency in facilities",
+    "optionC": "Management of hazardous materials",
+    "optionD": "Transportation and logistics efficiency",
+    "optionE": "Water consumption and management",
+    "answer": "D: Transportation and logistics efficiency",
+    "explanation": "Health Care Distributors have a unique emphasis on transportation and logistics efficiency, as evidenced by their required disclosures on fleet fuel management (HC-DI-110a.1 and HC-DI-110a.2). This focus is not present in the metrics for Health Care Delivery, Drug Retailers, or Medical Equipment & Supplies, which tend to focus more on facility-based energy management or product-related sustainability issues.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Delivery",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies"
+    ],
+    "pages": [
+      "289-291",
+      "282-288",
+      "279-281",
+      "294-296"
+    ],
+    "pairing_explanation": "Healthcare industries are interconnected and face similar sustainability challenges related to resource management, environmental impacts of medical waste, and equitable access to healthcare services.",
+    "industries": [
+      "b27-drug-retailers",
+      "b28-health-care-delivery",
+      "b31-medical-equipment-and-supplies",
+      "b29-health-care-distributors"
+    ]
+  }
+]

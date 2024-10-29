@@ -1,0 +1,152 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When calculating Scope 1 GHG emissions for a metals and mining company, which of the following is NOT considered a direct emission source according to IFRS S2?",
+    "optionA": "Equipment at mine sites",
+    "optionB": "Smelting facilities",
+    "optionC": "Office buildings",
+    "optionD": "Metal transportation (marine, road, and rail)",
+    "optionE": "Purchased electricity from the grid",
+    "answer": "E. Purchased electricity from the grid",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "82",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2, when disclosing the percentage of Scope 1 emissions covered under emissions-limiting regulations, which of the following should be excluded?",
+    "optionA": "California Cap-and-Trade",
+    "optionB": "European Union Emissions Trading Scheme (EU ETS)",
+    "optionC": "Quebec Cap-and-Trade",
+    "optionD": "Voluntary emissions-limiting regulations",
+    "optionE": "Carbon tax systems",
+    "answer": "D. Voluntary emissions-limiting regulations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "83-84",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing renewable energy consumption for a metals and mining company under IFRS S2, which of the following is NOT considered within the scope of renewable energy?",
+    "optionA": "Geothermal energy",
+    "optionB": "Wind energy",
+    "optionC": "Solar energy",
+    "optionD": "Hydroelectric energy",
+    "optionE": "The renewable portion of the electricity grid mix outside the entity's control",
+    "answer": "E. The renewable portion of the electricity grid mix outside the entity's control",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "86-87",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2, when reporting incidents of non-compliance associated with water quality permits, standards, and regulations, which of the following should be included?",
+    "optionA": "All identified non-compliances, regardless of enforcement action",
+    "optionB": "Only non-compliances that resulted in monetary fines",
+    "optionC": "Non-compliances that resulted in formal enforcement actions",
+    "optionD": "Only non-compliances related to technology-based standards",
+    "optionE": "Non-compliances identified through internal audits only",
+    "answer": "C. Non-compliances that resulted in formal enforcement actions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "89",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of energy consumed from grid electricity for a metals and mining company under IFRS S2, what is the correct formula?",
+    "optionA": "Grid electricity consumed / Total energy produced",
+    "optionB": "Grid electricity consumed / Total electricity consumed",
+    "optionC": "Purchased grid electricity consumption / Total energy consumption",
+    "optionD": "Renewable electricity consumed / Total energy consumption",
+    "optionE": "Grid electricity consumed - Renewable energy consumed",
+    "answer": "C. Purchased grid electricity consumption / Total energy consumption",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "86-87",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When determining water consumption for a metals and mining operation under IFRS S2, which of the following is NOT included in the definition?",
+    "optionA": "Water that evaporates during withdrawal, usage, and discharge",
+    "optionB": "Water that is directly incorporated into the entity's product",
+    "optionC": "Water that is indirectly incorporated into the entity's service",
+    "optionD": "Water that is treated and returned to the same catchment area",
+    "optionE": "Water that is returned to another catchment area or the sea",
+    "answer": "D. Water that is treated and returned to the same catchment area",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "88-89",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "According to IFRS S2, when determining the percentage of freshwater withdrawn in regions with High or Extremely High Baseline Water Stress for a metals and mining company, which tool should be used to classify water stress levels?",
+    "optionA": "UN Water Scarcity Index",
+    "optionB": "IPCC Water Stress Indicator",
+    "optionC": "World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "optionD": "FAO's Global Water Information System",
+    "optionE": "UNEP Global Environment Outlook",
+    "answer": "C. World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "88-89",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A mining company is setting emission reduction targets as part of its sustainability report. According to IFRS S2, which of the following elements is NOT required when discussing these targets?",
+    "optionA": "The scope of the emission reduction target",
+    "optionB": "Whether the target is absolute- or intensity-based",
+    "optionC": "The percentage reduction against the base year",
+    "optionD": "The timelines for the reduction activity",
+    "optionE": "The projected increase in market share due to emission reductions",
+    "answer": "E. The projected increase in market share due to emission reductions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "84-85",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A mining company is experiencing decreasing grades of deposits and increasing depth of mining operations. Which sustainability reporting challenge does this scenario most directly relate to?",
+    "optionA": "Increased water consumption",
+    "optionB": "Higher energy intensity",
+    "optionC": "Greater land disturbance",
+    "optionD": "Increased waste generation",
+    "optionE": "Higher employee turnover",
+    "answer": "B. Higher energy intensity",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "86",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When reporting on water-related incidents of non-compliance, what specific challenge might a metals and mining company face in determining which incidents to include in its sustainability report?",
+    "optionA": "Identifying all water sources used in operations",
+    "optionB": "Calculating total water consumption",
+    "optionC": "Determining if an incident resulted in a formal enforcement action",
+    "optionD": "Measuring the pH levels of discharged water",
+    "optionE": "Estimating future water needs",
+    "answer": "C. Determining if an incident resulted in a formal enforcement action",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+    "page": "89",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "For the Industrial Machinery & Goods industry, which of the following is NOT a required metric for the 'Energy Management' sustainability disclosure topic according to IFRS S2?",
+    "optionA": "Total energy consumed",
+    "optionB": "Percentage grid electricity",
+    "optionC": "Percentage renewable energy",
+    "optionD": "Energy intensity per unit of production",
+    "optionE": "Higher heating values (HHV) of fuels",
+    "answer": "D. Energy intensity per unit of production",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Industrial Machinery & Goods",
+    "page": "529-530",
+    "industries": [
+      "b50-industrial-machinery-and-goods"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When calculating the percentage of renewable energy consumed for sustainability reporting in the Industrial Machinery & Goods industry, which of the following is NOT included in the scope of renewable energy?",
+    "optionA": "Renewable fuel consumed by the entity",
+    "optionB": "Renewable energy directly produced by the entity",
+    "optionC": "Renewable energy purchased through a PPA with explicit RECs",
+    "optionD": "Green-e Energy Certified utility program purchases",
+    "optionE": "The renewable portion of the electricity grid mix outside the entity's control",
+    "answer": "E. The renewable portion of the electricity grid mix outside the entity's control",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Industrial Machinery & Goods",
+    "page": "530",
+    "industries": [
+      "b50-industrial-machinery-and-goods"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "For the 'Fuel Economy & Emissions in Use-phase' topic, how should a company in the Industrial Machinery & Goods industry report the sales-weighted fleet fuel efficiency for medium- and heavy-duty vehicles?",
+    "optionA": "Miles per gallon",
+    "optionB": "Kilometers per liter",
+    "optionC": "Gallons per 1,000 ton-miles",
+    "optionD": "Liters per 100 kilometers",
+    "optionE": "Watts per gallon",
+    "answer": "C. Gallons per 1,000 ton-miles",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Industrial Machinery & Goods",
+    "page": "531",
+    "industries": [
+      "b50-industrial-machinery-and-goods"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When reporting sales-weighted emissions for various engine types in the Industrial Machinery & Goods industry, which unit of measurement should be used for nitrogen oxides (NOx) and particulate matter (PM)?",
+    "optionA": "Grams per kilometer",
+    "optionB": "Grams per kilowatt-hour",
+    "optionC": "Milligrams per cubic meter",
+    "optionD": "Parts per million",
+    "optionE": "Pounds per megawatt-hour",
+    "answer": "B. Grams per kilowatt-hour",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Industrial Machinery & Goods",
+    "page": "532-533",
+    "industries": [
+      "b50-industrial-machinery-and-goods"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When reporting the sales-weighted fuel efficiency for non-road equipment in the Industrial Machinery & Goods industry, what is the correct unit of measure to use?",
+    "optionA": "Miles per gallon",
+    "optionB": "Kilowatt-hours per mile",
+    "optionC": "Gallons per hour",
+    "optionD": "Liters per kilometer",
+    "optionE": "Watts per gallon",
+    "answer": "C. Gallons per hour",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Industrial Machinery & Goods",
+    "page": "531-532",
+    "industries": [
+      "b50-industrial-machinery-and-goods"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "How should a company in the Industrial Machinery & Goods industry calculate the sales-weighted fuel efficiency for stationary generators?",
+    "optionA": "Arithmetic mean of design fuel efficiency in watts per gallon",
+    "optionB": "Median of design fuel efficiency in watts per gallon",
+    "optionC": "Geometric mean of design fuel efficiency in watts per gallon",
+    "optionD": "Harmonic mean of design fuel efficiency in watts per gallon",
+    "optionE": "Mode of design fuel efficiency in watts per gallon",
+    "answer": "D. Harmonic mean of design fuel efficiency in watts per gallon",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Industrial Machinery & Goods",
+    "page": "532",
+    "industries": [
+      "b50-industrial-machinery-and-goods"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "In the Industrial Machinery & Goods industry, when calculating sales-weighted emissions for marine diesel engines, locomotive diesel engines, on-road medium- and heavy-duty engines, and other non-road diesel engines, how should the emissions be weighted?",
+    "optionA": "By the total revenue generated from each engine type",
+    "optionB": "By the total production cost of each engine type",
+    "optionC": "By the number of each engine type sold during the reporting period",
+    "optionD": "By the market share of each engine type",
+    "optionE": "By the average lifespan of each engine type",
+    "answer": "C. By the number of each engine type sold during the reporting period",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Industrial Machinery & Goods",
+    "page": "532-533",
+    "industries": [
+      "b50-industrial-machinery-and-goods"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What specific challenge does the Industrial Machinery & Goods industry face when reporting on renewable energy consumption?",
+    "optionA": "Defining what constitutes renewable energy",
+    "optionB": "Calculating the percentage of renewable energy consumed",
+    "optionC": "Identifying sources of renewable energy",
+    "optionD": "Reporting on energy produced vs. energy consumed",
+    "optionE": "Ensuring RECs and GOs are retained for on-site generated renewable electricity",
+    "answer": "E. Ensuring RECs and GOs are retained for on-site generated renewable electricity",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Industrial Machinery & Goods",
+    "page": "530",
+    "industries": [
+      "b50-industrial-machinery-and-goods"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When reporting on fuel economy and emissions in the use-phase, what unique challenge does the Industrial Machinery & Goods industry face with regards to non-road equipment?",
+    "optionA": "Lack of standardized fuel efficiency metrics",
+    "optionB": "Difficulty in measuring emissions during actual use",
+    "optionC": "Variability in operating conditions affecting fuel efficiency",
+    "optionD": "Limited data on customer usage patterns",
+    "optionE": "Incompatibility of equipment with renewable fuels",
+    "answer": "C. Variability in operating conditions affecting fuel efficiency",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Industrial Machinery & Goods",
+    "page": "531-532",
+    "industries": [
+      "b50-industrial-machinery-and-goods"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What is a specific challenge for companies in the Industrial Machinery & Goods industry when reporting on sales-weighted emissions for different engine types?",
+    "optionA": "Lack of emission testing facilities",
+    "optionB": "High cost of emissions measurement equipment",
+    "optionC": "Difficulty in aggregating data from multiple product lines",
+    "optionD": "Inconsistent definitions of engine categories across jurisdictions",
+    "optionE": "Limited access to customer usage data",
+    "answer": "D. Inconsistent definitions of engine categories across jurisdictions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Industrial Machinery & Goods",
+    "page": "532-533",
+    "industries": [
+      "b50-industrial-machinery-and-goods"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What unique challenge does a company in the Industrial Machinery & Goods industry face when reporting on energy consumption from biomass sources for sustainability reporting?",
+    "optionA": "Determining the carbon neutrality of biomass sources",
+    "optionB": "Calculating the total energy output from biomass",
+    "optionC": "Ensuring biomass sources are certified or eligible under specific standards",
+    "optionD": "Measuring the renewable energy percentage from biomass",
+    "optionE": "Estimating the cost-effectiveness of biomass energy",
+    "answer": "C: Ensuring biomass sources are certified or eligible under specific standards",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Industrial Machinery & Goods",
+    "page": "530",
+    "industries": [
+      "b50-industrial-machinery-and-goods"
+    ]
+  }
+]

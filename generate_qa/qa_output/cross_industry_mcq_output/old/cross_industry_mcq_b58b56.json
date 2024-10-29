@@ -1,0 +1,148 @@
+[
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the Software & IT Services and Internet Media & Services industries differ in their approach to disclosing energy consumption from renewable sources?",
+    "optionA": "Only Software & IT Services discloses renewable energy consumption",
+    "optionB": "Internet Media & Services uses a different calculation method for renewable energy percentage",
+    "optionC": "Software & IT Services includes grid mix in renewable energy calculations",
+    "optionD": "Internet Media & Services doesn't consider biomass as a renewable energy source",
+    "optionE": "There is no significant difference in their approach to disclosing renewable energy consumption",
+    "answer": "E. There is no significant difference in their approach to disclosing renewable energy consumption",
+    "explanation": "Both industries use the same approach for disclosing renewable energy consumption. They both calculate the percentage as renewable energy consumption divided by total energy consumption, exclude the renewable portion of the grid mix outside their control, and have the same requirements for claiming renewable energy from on-site generation, PPAs, and biomass sources.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services"
+    ],
+    "pages": [
+      "561",
+      "562",
+      "579",
+      "580"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "What key environmental consideration is explicitly mentioned for both Software & IT Services and Internet Media & Services industries when planning for data center needs?",
+    "optionA": "Soil contamination risks",
+    "optionB": "Biodiversity impact",
+    "optionC": "Air quality standards",
+    "optionD": "Water availability",
+    "optionE": "Noise pollution",
+    "answer": "D. Water availability",
+    "explanation": "Both industries explicitly mention water availability as a key environmental factor to consider in data center planning. The disclosures for both sectors state that 'Environmental factors and criteria may include, but are not limited to: Location-based environmental factors, such as regional humidity, average temperature, and water availability.'",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services"
+    ],
+    "pages": [
+      "563",
+      "581"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Comparison",
+    "question": "How do the activity metrics for data processing capacity differ between the Software & IT Services and Internet Media & Services industries?",
+    "optionA": "Software & IT Services uses MFLOPS, while Internet Media & Services uses MIPS",
+    "optionB": "Internet Media & Services includes rack space, while Software & IT Services doesn't",
+    "optionC": "Software & IT Services measures in petabytes, while Internet Media & Services uses gigabytes",
+    "optionD": "Internet Media & Services considers only cloud services, while Software & IT Services includes on-premise solutions",
+    "optionE": "There is no significant difference in how they measure data processing capacity",
+    "answer": "E. There is no significant difference in how they measure data processing capacity",
+    "explanation": "Both industries use the same approach for measuring data processing capacity. They both allow for reporting in units such as Million Service Units (MSUs), Million Instructions per Second (MIPS), Mega Floating-Point Operations per Second (MFLOPS), compute cycles, or other units typically tracked by the entity. Both also allow for alternative measures such as rack space or data center square footage, and include the same types of services in the percentage outsourced calculation.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services"
+    ],
+    "pages": [
+      "560",
+      "577"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Comparison",
+    "question": "What is a key difference in the activity metrics reported by Software & IT Services companies compared to Internet Media & Services companies?",
+    "optionA": "Only Software & IT Services reports on data storage amounts",
+    "optionB": "Internet Media & Services reports on user activity, while Software & IT Services doesn't",
+    "optionC": "Software & IT Services reports on number of licenses, while Internet Media & Services doesn't",
+    "optionD": "Only Internet Media & Services reports on data processing capacity",
+    "optionE": "Software & IT Services reports on cloud-based percentages, while Internet Media & Services doesn't",
+    "answer": "C. Software & IT Services reports on number of licenses, while Internet Media & Services doesn't",
+    "explanation": "A key difference in activity metrics is that Software & IT Services companies report on '(1) Number of licenses or subscriptions, (2) percentage cloud-based' (TC-SI-000.A), while Internet Media & Services companies instead report on 'Entity-defined measure of user activity' (TC-IM-000.A). Both industries report on data processing capacity and data storage amounts.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services"
+    ],
+    "pages": [
+      "559",
+      "576"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ]
+  },
+  {
+    "qa_type": "Trend Identification",
+    "question": "What common trend in sustainable data center management is reflected in the disclosure requirements for both Software & IT Services and Internet Media & Services industries?",
+    "optionA": "Focus on reducing e-waste",
+    "optionB": "Emphasis on using only renewable energy sources",
+    "optionC": "Balancing energy efficiency and water consumption",
+    "optionD": "Prioritizing biodiversity conservation near data centers",
+    "optionE": "Mandating the use of specific cooling technologies",
+    "answer": "C. Balancing energy efficiency and water consumption",
+    "explanation": "Both industries' disclosure requirements reflect a trend of balancing energy efficiency and water consumption in data center management. The documentation for both sectors mentions the trade-off between energy and water consumption due to cooling needs, stating that 'cooling data centers with water instead of chillers is a means of improving energy efficiency, but it can lead to dependence on significant local water resources.'",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services"
+    ],
+    "pages": [
+      "560",
+      "578"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ]
+  },
+  {
+    "qa_type": "Trend Identification",
+    "question": "What emerging trend in sustainable technology infrastructure is addressed in the disclosure requirements for both Software & IT Services and Internet Media & Services industries?",
+    "optionA": "Mandatory use of artificial intelligence for energy management",
+    "optionB": "Integration of environmental considerations into strategic planning for data centers",
+    "optionC": "Exclusive use of edge computing to reduce energy consumption",
+    "optionD": "Implementation of blockchain for tracking carbon emissions",
+    "optionE": "Requirement for all data centers to be underground for natural cooling",
+    "answer": "B. Integration of environmental considerations into strategic planning for data centers",
+    "explanation": "Both industries are required to discuss the integration of environmental considerations into strategic planning for data center needs. This reflects an emerging trend in sustainable technology infrastructure where companies are expected to consider environmental factors in their data center strategies, including siting, design, construction, refurbishment, and operations.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services"
+    ],
+    "pages": [
+      "563",
+      "581"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ]
+  }
+]

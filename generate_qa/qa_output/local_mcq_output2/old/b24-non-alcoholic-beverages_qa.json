@@ -1,0 +1,182 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing the percentage of renewable fuel consumed by fleet vehicles, what is the minimum lifecycle greenhouse gas (GHG) emissions reduction required for a fuel to be considered renewable?",
+    "optionA": "At least 10% less than baseline lifecycle GHG emissions",
+    "optionB": "At least 15% less than baseline lifecycle GHG emissions",
+    "optionC": "At least 20% less than baseline lifecycle GHG emissions",
+    "optionD": "At least 25% less than baseline lifecycle GHG emissions",
+    "optionE": "At least 30% less than baseline lifecycle GHG emissions",
+    "answer": "C: At least 20% less than baseline lifecycle GHG emissions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "245",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When calculating energy consumption from fuels and biofuels for the Energy Management disclosure, which heating value should be used?",
+    "optionA": "Lower heating values (LHV)",
+    "optionB": "Higher heating values (HHV)",
+    "optionC": "Average heating values (AHV)",
+    "optionD": "Standardized heating values (SHV)",
+    "optionE": "Net calorific values (NCV)",
+    "answer": "B: Higher heating values (HHV)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "247",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing water management risks, which of the following is NOT mentioned as a specific risk associated with water withdrawals and consumption?",
+    "optionA": "Environmental constraints",
+    "optionB": "Regulatory constraints",
+    "optionC": "Financial constraints",
+    "optionD": "Technological constraints",
+    "optionE": "Stakeholder perceptions and concerns",
+    "answer": "D: Technological constraints",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "250",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing the corrective action rate for supplier audit non-conformances, within how many days should corrective actions for major non-conformances be completed?",
+    "optionA": "30 days",
+    "optionB": "60 days",
+    "optionC": "90 days",
+    "optionD": "120 days",
+    "optionE": "180 days",
+    "answer": "C: 90 days",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "254",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of renewable fuel consumed by fleet vehicles, which of the following is NOT a requirement for fuel to be considered renewable?",
+    "optionA": "Produced from renewable biomass",
+    "optionB": "Used to replace or reduce fossil fuel in transportation fuel",
+    "optionC": "Achieved net lifecycle GHG emissions reduction of at least 20%",
+    "optionD": "Sourced from a certified sustainable supplier",
+    "optionE": "Meets the definition set by the standard or regulation used",
+    "answer": "D. Sourced from a certified sustainable supplier",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "245-246",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "For the Energy Management disclosure, how should the percentage of renewable energy consumed be calculated?",
+    "optionA": "Renewable energy production divided by total energy consumption",
+    "optionB": "Renewable energy consumption divided by grid electricity consumption",
+    "optionC": "Renewable energy consumption divided by total energy consumption",
+    "optionD": "Renewable energy purchases divided by total energy purchases",
+    "optionE": "Renewable energy production divided by total energy production",
+    "answer": "C. Renewable energy consumption divided by total energy consumption",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "247-248",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating water consumption for the Water Management disclosure, which of the following is NOT included in the definition of water consumption?",
+    "optionA": "Water that evaporates during withdrawal, usage, and discharge",
+    "optionB": "Water that is directly incorporated into the entity's product",
+    "optionC": "Water that is indirectly incorporated into the entity's service",
+    "optionD": "Water that is treated and returned to the same catchment area",
+    "optionE": "Water that is returned to another catchment area or the sea",
+    "answer": "D. Water that is treated and returned to the same catchment area",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "249-250",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When disclosing the percentage of beverage ingredients sourced from water-stressed regions, how should the calculation be performed?",
+    "optionA": "Volume of ingredients from stressed regions / Total volume of ingredients",
+    "optionB": "Number of suppliers in stressed regions / Total number of suppliers",
+    "optionC": "Cost of ingredients from stressed regions / Total cost of ingredients",
+    "optionD": "Water consumed in stressed regions / Total water consumed",
+    "optionE": "Production facilities in stressed regions / Total production facilities",
+    "answer": "C. Cost of ingredients from stressed regions / Total cost of ingredients",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "255",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "In the context of fleet fuel management for a non-alcoholic beverage company, what is the correct approach to calculate the percentage of renewable fuel consumed?",
+    "optionA": "Total renewable fuel / Total fossil fuel",
+    "optionB": "Renewable fuel in liters / Total fuel in gigajoules",
+    "optionC": "Renewable fuel in gigajoules / Total fuel in gigajoules",
+    "optionD": "Total biofuel / Total fuel",
+    "optionE": "Renewable electricity used / Total fleet energy consumption",
+    "answer": "C. Renewable fuel in gigajoules / Total fuel in gigajoules",
+    "reference": "Fleet Fuel Management",
+    "page": "246",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When reporting on suppliers' social and environmental responsibility audits, how is a 'major non-conformance' defined in the non-alcoholic beverage industry?",
+    "optionA": "Any violation of local labor laws",
+    "optionB": "Minor issues that can be easily corrected",
+    "optionC": "Systemic breaking of code requirements or law that requires immediate escalation",
+    "optionD": "Failure to provide documentation during an audit",
+    "optionE": "Non-compliance with company-specific policies",
+    "answer": "C. Systemic breaking of code requirements or law that requires immediate escalation",
+    "reference": "Environmental & Social Impacts of Ingredient Supply Chain",
+    "page": "253",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When identifying priority beverage ingredients for sustainability reporting, which of the following criteria should a non-alcoholic beverage company primarily consider?",
+    "optionA": "Ingredients with the lowest market price",
+    "optionB": "Ingredients with the shortest shelf life",
+    "optionC": "Ingredients that constitute the largest expense or have significant environmental/social risks",
+    "optionD": "Ingredients sourced from the closest geographical locations",
+    "optionE": "Ingredients with the highest sugar content",
+    "answer": "C. Ingredients that constitute the largest expense or have significant environmental/social risks",
+    "reference": "Ingredient Sourcing",
+    "page": "255",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A non-alcoholic beverage company is facing challenges in managing water risks in its supply chain. According to the IFRS S2 Climate-related Disclosures, which of the following is NOT a recommended strategy for mitigating water management risks?",
+    "optionA": "Implementing water recycling systems",
+    "optionB": "Redesigning products to require less water",
+    "optionC": "Relocating operations to regions with abundant water resources",
+    "optionD": "Using tools to analyze water use and risks",
+    "optionE": "Collaborating with local communities on water conservation",
+    "answer": "C. Relocating operations to regions with abundant water resources",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages",
+    "page": "251-252",
+    "industries": [
+      "b24-non-alcoholic-beverages"
+    ]
+  }
+]

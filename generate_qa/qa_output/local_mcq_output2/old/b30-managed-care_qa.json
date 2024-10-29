@@ -1,0 +1,122 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to the IFRS S2 Climate-related Disclosures for the Managed Care industry, which of the following is NOT listed as a specific aspect of illnesses and diseases that should be discussed in relation to climate change effects?",
+    "optionA": "Geographic incidence",
+    "optionB": "Morbidity",
+    "optionC": "Mortality",
+    "optionD": "Treatment costs",
+    "optionE": "Prevalence rates",
+    "answer": "D. Treatment costs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "293",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When discussing the strategy to address climate change effects on business operations, which of the following is NOT mentioned as a relevant disclosure topic in the IFRS S2 for Managed Care?",
+    "optionA": "Increases in allergic responses",
+    "optionB": "Migration of tropical diseases",
+    "optionC": "Increases in waterborne diseases",
+    "optionD": "Increased rates of human developmental diseases",
+    "optionE": "Increases in chronic respiratory diseases",
+    "answer": "E. Increases in chronic respiratory diseases",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "293",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "What is the unit of measure specified for the climate-related disclosure metric HC-MC-450a.1 in the IFRS S2 for the Managed Care industry?",
+    "optionA": "Number",
+    "optionB": "Percentage",
+    "optionC": "Currency",
+    "optionD": "Ratio",
+    "optionE": "n/a",
+    "answer": "E. n/a",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "292",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the impact of climate change on a managed care company's risk models, which of the following metrics is NOT explicitly mentioned in the IFRS S2 Climate-related Disclosures for the Managed Care industry?",
+    "optionA": "Changes in geographic incidence of illnesses",
+    "optionB": "Changes in morbidity rates",
+    "optionC": "Changes in mortality rates",
+    "optionD": "Changes in hospital admission rates",
+    "optionE": "Changes in the spread of infectious diseases",
+    "answer": "D. Changes in hospital admission rates",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "293",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "According to the IFRS S2 Climate-related Disclosures for Managed Care, how should a company quantify the impact of climate change on plan affordability?",
+    "optionA": "Calculate the percentage increase in premiums due to climate-related risks",
+    "optionB": "Measure the change in the number of enrollees by plan type",
+    "optionC": "Determine the increase in claims related to climate-induced illnesses",
+    "optionD": "Assess the cost of adapting risk assessment models",
+    "optionE": "The standard does not specify a quantitative measure for this impact",
+    "answer": "E. The standard does not specify a quantitative measure for this impact",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "293",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "In calculating the potential financial impact of climate change, which of the following is NOT explicitly required to be discussed according to the IFRS S2 for Managed Care?",
+    "optionA": "Projected impacts on revenue",
+    "optionB": "Projected impacts on costs",
+    "optionC": "Projected impacts on plan affordability",
+    "optionD": "Projected impacts on market share",
+    "optionE": "Incorporation of climate effects into risk assessment",
+    "answer": "D. Projected impacts on market share",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "293",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When assessing the impact of climate change on human health for sustainability reporting, which of the following metrics is specified as a quantitative activity metric in the IFRS S2 for the Managed Care industry?",
+    "optionA": "Number of climate-related claims processed annually",
+    "optionB": "Percentage increase in tropical disease cases",
+    "optionC": "Number of enrollees by plan type",
+    "optionD": "Annual cost of climate-related health interventions",
+    "optionE": "Frequency of extreme weather-related health incidents",
+    "answer": "C. Number of enrollees by plan type",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "292",
+    "industries": [
+      "b30-managed-care"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "In preparing a sustainability report for a Managed Care company, which unique challenge is highlighted by the IFRS S2 as requiring specific discussion in relation to climate change impacts?",
+    "optionA": "Changes in medical technology",
+    "optionB": "Shifts in healthcare policy",
+    "optionC": "Fluctuations in drug prices",
+    "optionD": "Incorporation of climate change effects into risk assessment and risk-adjustment activities",
+    "optionE": "Changes in healthcare workforce distribution",
+    "answer": "D. Incorporation of climate change effects into risk assessment and risk-adjustment activities",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Managed Care",
+    "page": "293",
+    "industries": [
+      "b30-managed-care"
+    ]
+  }
+]

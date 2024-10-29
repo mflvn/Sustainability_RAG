@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Oil & Gas-Midstream and Telecommunication Services industries.",
+    "answer": "Oil & Gas-Midstream: Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a | EM-MD-110a.2\nTelecommunication Services: Discussion of systems to provide unimpeded service during service interruptions | Discussion and Analysis | n/a | TC-TL-550a.2",
+    "reference_text": [
+      "| Greenhouse Gas Emissions | Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a | EM-MD-110a.2 |",
+      "| Managing Systemic Risks from Technology Disruptions | Discussion of systems to provide unimpeded service during service interruptions | Discussion and Analysis | n/a | TC-TL-550a.2 |"
+    ],
+    "pages": [
+      "Page 108",
+      "Page 584"
+    ],
+    "industries": [
+      "b12-oil-and-gas-midstream",
+      "b59-telecommunication-services"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0
+  },
+  {
+    "question": "List the activity metrics for Oil & Gas-Midstream and Telecommunication Services industries.",
+    "answer": "Oil & Gas-Midstream: Total metric ton-kilometers of: (1) natural gas, (2) crude oil, and (3) refined petroleum products transported, by mode of transport | Quantitative | Metric ton (t) kilometers | EM-MD-000.A\nTelecommunication Services: Number of wireless subscribers | Quantitative | Number | TC-TL-000.A\nNumber of wireline subscribers | Quantitative | Number | TC-TL-000.B\nNumber of broadband subscribers | Quantitative | Number | TC-TL-000.C\nNetwork traffic | Quantitative | Petabytes | TC-TL-000.D",
+    "reference_text": [
+      "| Total metric ton-kilometers of: (1) natural gas, (2) crude oil, and (3) refined petroleum products transported, by mode of transport \u00b9\u2074 | Quantitative | Metric ton (t) kilometers | EM-MD-000.A |",
+      "| Number of wireless subscribers 107 | Quantitative | Number | TC-TL-000.A |",
+      "| Number of wireline subscribers 108 | Quantitative | Number | TC-TL-000.B |",
+      "| Number of broadband subscribers 109 | Quantitative | Number | TC-TL-000.C |",
+      "| Network traffic | Quantitative | Petabytes | TC-TL-000.D |"
+    ],
+    "pages": [
+      "Page 108",
+      "Page 584"
+    ],
+    "industries": [
+      "b12-oil-and-gas-midstream",
+      "b59-telecommunication-services"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Oil & Gas-Midstream and Telecommunication Services industries.",
+    "answer": "Oil & Gas-Midstream: EM-MD-110a.1\nTelecommunication Services: TC-TL-130a.1",
+    "reference_text": [
+      "| Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%) | EM-MD-110a.1 |",
+      "| Environmental Footprint of Operations | (1) Total energy consumed, (2) percent\u00adage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent\u00adage (%) | TC-TL-130a.1 |"
+    ],
+    "pages": [
+      "Page 108",
+      "Page 584"
+    ],
+    "industries": [
+      "b12-oil-and-gas-midstream",
+      "b59-telecommunication-services"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0
+  },
+  {
+    "question": "What units of measurement are used across Oil & Gas-Midstream and Telecommunication Services industries for measuring quantitative metrics?",
+    "answer": "Oil & Gas-Midstream: Metric tons (t) CO\u2082-e, Percentage (%)\nTelecommunication Services: Gigajoules (GJ), Percentage (%)",
+    "reference_text": [
+      "| Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%) | EM-MD-110a.1 |",
+      "| Environmental Footprint of Operations | (1) Total energy consumed, (2) percent\u00adage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent\u00adage (%) | TC-TL-130a.1 |"
+    ],
+    "pages": [
+      "Page 108",
+      "Page 584"
+    ],
+    "industries": [
+      "b12-oil-and-gas-midstream",
+      "b59-telecommunication-services"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0
+  }
+]

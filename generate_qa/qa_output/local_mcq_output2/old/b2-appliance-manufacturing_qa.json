@@ -1,0 +1,152 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing the percentage of eligible products certified to an energy efficiency certification, what should a company do if it has products certified to a previous version of certification requirements?",
+    "optionA": "Ignore the old certifications and only report on current versions",
+    "optionB": "Combine all certifications without distinguishing between versions",
+    "optionC": "Disclose this information, including version, breakdown, and timeline for current certification",
+    "optionD": "Only report on products with the most current certification",
+    "optionE": "Exclude these products from the disclosure entirely",
+    "answer": "C. Disclose this information, including version, breakdown, and timeline for current certification",
+    "reference": "Product Lifecycle Environmental Impacts",
+    "page": "12",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "In the context of AHAM sustainability standards, how should a company calculate the percentage of eligible products certified?",
+    "optionA": "Total certified products divided by total products manufactured",
+    "optionB": "Revenue from certified products divided by total company revenue",
+    "optionC": "Number of certified product lines divided by total product lines",
+    "optionD": "Revenue from certified products divided by revenue from eligible products",
+    "optionE": "Weight of certified products divided by total product weight",
+    "answer": "D. Revenue from certified products divided by revenue from eligible products",
+    "reference": "Product Lifecycle Environmental Impacts",
+    "page": "13",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When describing efforts to manage products' end-of-life impacts, which of the following is NOT mentioned as a consideration to incorporate into product design?",
+    "optionA": "Use of easily recyclable materials",
+    "optionB": "Eliminating hazardous materials",
+    "optionC": "Designing for disassembly",
+    "optionD": "Proper labeling of components",
+    "optionE": "Maximizing product lifespan",
+    "answer": "E. Maximizing product lifespan",
+    "reference": "Product Lifecycle Environmental Impacts",
+    "page": "13-14",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When discussing participation in extended producer responsibility (EPR) initiatives, what aspect should a company include in its disclosure?",
+    "optionA": "The cost of implementing EPR initiatives",
+    "optionB": "The number of employees involved in EPR programs",
+    "optionC": "The impact of EPR on product pricing",
+    "optionD": "Whether the initiative is voluntary or mandatory",
+    "optionE": "The marketing strategies used to promote EPR initiatives",
+    "answer": "D. Whether the initiative is voluntary or mandatory",
+    "reference": "Product Lifecycle Environmental Impacts",
+    "page": "14",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When disclosing the annual production activity metric (CG-AM-000.A), how should companies present the data?",
+    "optionA": "As a single total number of units produced",
+    "optionB": "As revenue generated from production",
+    "optionC": "As number of units produced by product category",
+    "optionD": "As percentage of market share by product",
+    "optionE": "As production capacity utilization rate",
+    "answer": "C. As number of units produced by product category",
+    "reference": "Table 2. Activity Metrics",
+    "page": "11",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "For the metric CG-AM-410a.2, how should a company determine which products are considered 'eligible' for certification to an AHAM sustainability standard?",
+    "optionA": "All products manufactured by the company",
+    "optionB": "Only products that have already been certified",
+    "optionC": "Products that meet minimum energy efficiency requirements",
+    "optionD": "Products addressed by the scope of an AHAM sustainability standard",
+    "optionE": "Products sold in markets where AHAM standards are mandatory",
+    "answer": "D. Products addressed by the scope of an AHAM sustainability standard",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+    "page": "13",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When describing efforts to manage products' end-of-life impacts (CG-AM-410a.3), which of the following is NOT mentioned as a specific aspect to discuss regarding participation in extended producer responsibility (EPR) initiatives?",
+    "optionA": "Whether the initiative is voluntary or mandatory",
+    "optionB": "If the entity directly conducts product take-back",
+    "optionC": "Performance measures or targets for the initiative",
+    "optionD": "Partnerships with retailers for product recovery",
+    "optionE": "The percentage of products covered by EPR initiatives",
+    "answer": "E. The percentage of products covered by EPR initiatives",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+    "page": "14",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When reporting on product lifecycle environmental impacts, which of the following is NOT considered a key aspect for appliance manufacturers to address?",
+    "optionA": "Energy efficiency certifications",
+    "optionB": "AHAM sustainability standards",
+    "optionC": "End-of-life product management",
+    "optionD": "Carbon offsetting programs",
+    "optionE": "Product differentiation strategies",
+    "answer": "D. Carbon offsetting programs",
+    "reference": "Product Lifecycle Environmental Impacts",
+    "page": "12",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When reporting on AHAM sustainability standard certifications (CG-AM-410a.2), how should a company handle updates or additions to the scope of AHAM sustainability standards?",
+    "optionA": "Ignore new standards until the next reporting cycle",
+    "optionB": "Only report on standards that existed at the beginning of the fiscal year",
+    "optionC": "Exclude new standards to maintain consistency with previous reports",
+    "optionD": "Include new standards as additions to the scope of disclosure",
+    "optionE": "Consult with AHAM before deciding whether to include new standards",
+    "answer": "D. Include new standards as additions to the scope of disclosure",
+    "reference": "Product Lifecycle Environmental Impacts",
+    "page": "13",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When reporting on efforts to manage products' end-of-life impacts in the Appliance Manufacturing industry, which of the following presents a unique challenge specific to this sector?",
+    "optionA": "Developing biodegradable electronic components",
+    "optionB": "Implementing take-back programs for large household appliances",
+    "optionC": "Ensuring compliance with food safety regulations",
+    "optionD": "Reporting on the carbon emissions of retail stores",
+    "optionE": "Measuring the impact of product usage on indoor air quality",
+    "answer": "B. Implementing take-back programs for large household appliances",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+    "page": "13-14",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  }
+]

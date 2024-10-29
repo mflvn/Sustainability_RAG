@@ -1,0 +1,392 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the two categories of equipment mentioned in the fuel consumption metric EM-SV-110a.1?",
+    "optionA": "On-road and off-road equipment",
+    "optionB": "Stationary and mobile equipment",
+    "optionC": "Drilling and transportation equipment",
+    "optionD": "Land-based and offshore equipment",
+    "optionE": "Owned and leased equipment",
+    "answer": "A. On-road and off-road equipment",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "127",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the industry description, what are the two main segments of oil and gas services companies?",
+    "optionA": "Exploration and production",
+    "optionB": "Drilling and oilfield services",
+    "optionC": "Upstream and downstream",
+    "optionD": "Onshore and offshore",
+    "optionE": "Equipment manufacturing and transportation",
+    "answer": "B. Drilling and oilfield services",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "124-125",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What is the unit of measure for the activity metric 'Total amount of drilling performed'?",
+    "optionA": "Feet",
+    "optionB": "Yards",
+    "optionC": "Meters",
+    "optionD": "Kilometers",
+    "optionE": "Miles",
+    "answer": "C. Meters",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "124",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What is the definition of 'flowback' in the context of water management in oil and gas services?",
+    "optionA": "Water brought up from the hydrocarbon bearing formation strata",
+    "optionB": "The process of allowing fluids to flow from a well following a treatment",
+    "optionC": "Water used in hydraulic fracturing fluids",
+    "optionD": "The separation of oil and water in production",
+    "optionE": "The injection of water into a well for enhanced oil recovery",
+    "answer": "B. The process of allowing fluids to flow from a well following a treatment",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "130-131",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might an oil and gas services company demonstrate its commitment to emissions reduction while also improving its competitive advantage?",
+    "optionA": "By increasing fuel consumption in off-road equipment",
+    "optionB": "By focusing solely on short-term emission reduction strategies",
+    "optionC": "By providing customers with services and equipment that reduce emissions and fuel consumption while capturing saleable gas",
+    "optionD": "By ignoring customer demands for emissions reduction technologies",
+    "optionE": "By exclusively using renewable fuels in all operations",
+    "answer": "C. By providing customers with services and equipment that reduce emissions and fuel consumption while capturing saleable gas",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "126",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "What factors should an oil and gas services company consider when developing a comprehensive strategy to address air emissions-related risks and opportunities?",
+    "optionA": "Only focus on reducing emissions from combustion sources",
+    "optionB": "Implement short-term strategies without considering long-term plans",
+    "optionC": "Address emissions from multiple sources including combustion, flaring, venting, and fugitive emissions, while considering both short-term and long-term strategies",
+    "optionD": "Ignore customer demand for emissions reduction technologies",
+    "optionE": "Only focus on reducing emissions from off-road equipment",
+    "answer": "C. Address emissions from multiple sources including combustion, flaring, venting, and fugitive emissions, while considering both short-term and long-term strategies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "127-128",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How can an oil and gas services company effectively manage water-related risks while capitalizing on market opportunities?",
+    "optionA": "By increasing fresh water consumption in all operations",
+    "optionB": "By ignoring water recycling technologies",
+    "optionC": "By focusing solely on water disposal methods",
+    "optionD": "By developing and offering services that reduce water consumption, increase recycling, and minimize wastewater production for their customers",
+    "optionE": "By only addressing water management in non-water-stressed regions",
+    "answer": "D. By developing and offering services that reduce water consumption, increase recycling, and minimize wastewater production for their customers",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "130-132",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "What approach should an oil and gas services company take to improve its environmental performance and competitiveness in both emissions reduction and water management?",
+    "optionA": "Focus exclusively on emissions reduction, ignoring water management",
+    "optionB": "Prioritize water management while neglecting emissions reduction efforts",
+    "optionC": "Implement short-term strategies without considering long-term sustainability",
+    "optionD": "Develop integrated strategies addressing both emissions and water management, offering innovative technologies and services to customers in both areas",
+    "optionE": "Maintain current practices without adapting to changing environmental concerns",
+    "answer": "D. Develop integrated strategies addressing both emissions and water management, offering innovative technologies and services to customers in both areas",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "126-132",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is the significance of 'engine families' in the context of emissions standards compliance for oil and gas services companies?",
+    "optionA": "Groups of engines with similar fuel consumption rates",
+    "optionB": "Engine product lines expected to have similar emissions characteristics",
+    "optionC": "Engines manufactured by the same company",
+    "optionD": "Engines used in the same type of equipment",
+    "optionE": "Engines with the same horsepower rating",
+    "answer": "B. Engine product lines expected to have similar emissions characteristics",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "129",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "How is 'renewable fuel' defined in the context of oil and gas services emissions reporting?",
+    "optionA": "Any fuel derived from plant-based sources",
+    "optionB": "Fuel that reduces greenhouse gas emissions by at least 50%",
+    "optionC": "Fuel produced from renewable biomass, replacing fossil fuel, and achieving net GHG emissions reduction",
+    "optionD": "Any alternative fuel not derived from petroleum",
+    "optionE": "Fuel that is carbon-neutral in its production and use",
+    "answer": "C. Fuel produced from renewable biomass, replacing fossil fuel, and achieving net GHG emissions reduction",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "126-127",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What does the term 'handled water' encompass in the context of water management for oil and gas services companies?",
+    "optionA": "Only water directly obtained by the company",
+    "optionB": "Water used solely for hydraulic fracturing",
+    "optionC": "All water that passes through the company's treatment facilities",
+    "optionD": "Water transferred from third parties and directly obtained water used in operations",
+    "optionE": "Only freshwater sources used in operations",
+    "answer": "D. Water transferred from third parties and directly obtained water used in operations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "130",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What distinguishes 'short-term strategies' from 'long-term strategies' in addressing air emissions-related risks for oil and gas services companies?",
+    "optionA": "Short-term strategies focus on cost reduction, while long-term strategies focus on environmental impact",
+    "optionB": "Short-term strategies involve immediate equipment upgrades, while long-term strategies involve research and development",
+    "optionC": "Short-term strategies include fuel substitution and maintenance, while long-term strategies involve process redesigns and technological innovations",
+    "optionD": "Short-term strategies are implemented within a year, while long-term strategies take over five years to implement",
+    "optionE": "Short-term strategies focus on regulatory compliance, while long-term strategies aim for industry leadership",
+    "answer": "C. Short-term strategies include fuel substitution and maintenance, while long-term strategies involve process redesigns and technological innovations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "128",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How can oil and gas services companies leverage their expertise in emissions reduction and water management to gain a competitive advantage in the industry?",
+    "optionA": "By focusing solely on reducing their own operational costs",
+    "optionB": "By developing and offering innovative technologies that help E&P companies reduce emissions and water consumption",
+    "optionC": "By lobbying for less stringent environmental regulations",
+    "optionD": "By outsourcing all environmental management services",
+    "optionE": "By maintaining current practices without any changes",
+    "answer": "B. By developing and offering innovative technologies that help E&P companies reduce emissions and water consumption",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "126, 130",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How does the contractual relationship between oil and gas services companies and their customers influence sustainability performance in the industry?",
+    "optionA": "It has no impact on sustainability performance",
+    "optionB": "It only affects pricing and not sustainability",
+    "optionC": "It creates competition solely based on service rates",
+    "optionD": "It drives innovation in sustainable technologies and practices to meet customer demands",
+    "optionE": "It discourages any focus on sustainability",
+    "answer": "D. It drives innovation in sustainable technologies and practices to meet customer demands",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "125, 126",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "What is the significance of closed-loop water recycling systems in the context of water management services for oil and gas operations?",
+    "optionA": "They increase water consumption in oil and gas operations",
+    "optionB": "They have no impact on water management",
+    "optionC": "They reduce the need for fresh water and minimize wastewater disposal, addressing key environmental concerns",
+    "optionD": "They are only used for aesthetic purposes in oil fields",
+    "optionE": "They increase the cost of oil and gas production without any benefits",
+    "answer": "C. They reduce the need for fresh water and minimize wastewater disposal, addressing key environmental concerns",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "130, 131",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to IFRS S2 Climate-related Disclosures, how should oil and gas services companies calculate the percentage of renewable fuel consumed?",
+    "optionA": "By dividing the amount of renewable fuel by the total fuel consumed, including non-renewable sources",
+    "optionB": "By comparing renewable fuel consumption to the previous year's total fuel consumption",
+    "optionC": "By calculating the ratio of renewable fuel to fossil fuel used in transportation only",
+    "optionD": "By measuring the percentage of renewable fuel used in stationary equipment only",
+    "optionE": "By estimating the renewable fuel consumption based on industry averages",
+    "answer": "A. By dividing the amount of renewable fuel by the total fuel consumed, including non-renewable sources",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "126-127",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the correct procedure for determining if a non-road diesel engine complies with the highest level of emissions standards according to IFRS S2?",
+    "optionA": "By checking if the engine was manufactured in the last five years",
+    "optionB": "By verifying that the engine belongs to a family with test results showing official emission results at or below standards, and has received confirmation from the certifying body",
+    "optionC": "By conducting annual emissions tests on each individual engine",
+    "optionD": "By ensuring the engine is used only in jurisdictions with the strictest emissions standards",
+    "optionE": "By comparing the engine's emissions to the average emissions of all engines in the company's fleet",
+    "answer": "B. By verifying that the engine belongs to a family with test results showing official emission results at or below standards, and has received confirmation from the certifying body",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "128-129",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "Under IFRS S2, what is the correct procedure for calculating the total fuel consumed by an oil and gas services company?",
+    "optionA": "Estimating fuel consumption based on equipment specifications",
+    "optionB": "Using only fuel purchase receipts from the reporting period",
+    "optionC": "Calculating based on actual fuel consumed, using methodologies such as adding fuel purchases to beginning inventory, less ending inventory",
+    "optionD": "Measuring exhaust emissions to estimate fuel consumption",
+    "optionE": "Relying on industry average fuel consumption rates",
+    "answer": "C. Calculating based on actual fuel consumed, using methodologies such as adding fuel purchases to beginning inventory, less ending inventory",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "126-127",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to IFRS S2, how should an oil and gas services company determine the volume of fresh water handled in its operations?",
+    "optionA": "By measuring only the water directly obtained by the company",
+    "optionB": "By estimating water usage based on industry averages",
+    "optionC": "By including only water used in hydraulic fracturing",
+    "optionD": "By measuring water transferred from third parties for the company's services and water directly obtained and used by the company",
+    "optionE": "By calculating the difference between water intake and wastewater output",
+    "answer": "D. By measuring water transferred from third parties for the company's services and water directly obtained and used by the company",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "130-131",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "What potential long-term strategies could oil and gas services companies adopt to address air quality management concerns in their operations?",
+    "optionA": "Exclusively using electric vehicles for all transportation needs",
+    "optionB": "Implementing carbon capture and storage technologies alongside alternative fuel equipment and process redesigns",
+    "optionC": "Completely phasing out all fossil fuel-based operations within a year",
+    "optionD": "Focusing solely on short-term strategies like engine maintenance",
+    "optionE": "Relocating all operations to areas with less stringent air quality regulations",
+    "answer": "B. Implementing carbon capture and storage technologies alongside alternative fuel equipment and process redesigns",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "128",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the increasing regulation and high costs of fuels associated with emissions impact the business model of oil and gas services companies in the future?",
+    "optionA": "It will have no impact as services companies don't directly produce emissions",
+    "optionB": "It will lead to the immediate collapse of the oil and gas services industry",
+    "optionC": "It may drive innovation in emissions-reducing technologies and services, creating new revenue streams and competitive advantages",
+    "optionD": "It will force all services companies to switch to renewable energy production",
+    "optionE": "It will only affect large corporations, leaving small services companies unaffected",
+    "answer": "C. It may drive innovation in emissions-reducing technologies and services, creating new revenue streams and competitive advantages",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "126",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "Given the increasing focus on water management in oil and gas operations, how might service companies strategically position themselves to address both environmental concerns and customer needs in water-stressed regions?",
+    "optionA": "By ignoring water management issues and focusing solely on traditional oil and gas services",
+    "optionB": "By developing and offering advanced water recycling technologies, closed-loop systems, and water efficiency solutions tailored to specific regional challenges",
+    "optionC": "By lobbying for less stringent water usage regulations in water-stressed regions",
+    "optionD": "By recommending that customers relocate operations to regions with abundant water resources",
+    "optionE": "By focusing exclusively on water importation services for oil and gas operations",
+    "answer": "B. By developing and offering advanced water recycling technologies, closed-loop systems, and water efficiency solutions tailored to specific regional challenges",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "130-132",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following topics is NOT mentioned as a sustainability disclosure topic for the oil and gas services industry in IFRS S2?",
+    "optionA": "Emissions Reduction Services & Fuels Management",
+    "optionB": "Water Management Services",
+    "optionC": "Waste Management and Recycling",
+    "optionD": "Air Quality Management",
+    "optionE": "Energy Efficiency",
+    "answer": "C. Waste Management and Recycling",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "124",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT included in the scope of disclosure for air emissions-related risks and opportunities?",
+    "optionA": "Combustion emissions",
+    "optionB": "Flaring of hydrocarbons",
+    "optionC": "Process emissions",
+    "optionD": "Venting of hydrocarbons",
+    "optionE": "Methane emissions from livestock",
+    "answer": "E. Methane emissions from livestock",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "128",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as an activity metric for oil and gas services companies in IFRS S2?",
+    "optionA": "Number of active rig sites",
+    "optionB": "Number of active well sites",
+    "optionC": "Total amount of drilling performed",
+    "optionD": "Total number of hours worked by all employees",
+    "optionE": "Total revenue generated from sustainable services",
+    "answer": "E. Total revenue generated from sustainable services",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "124",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT considered in the definition of 'recycled water' for oil and gas services companies under IFRS S2?",
+    "optionA": "Water recycled in closed-loop systems",
+    "optionB": "Water recycled in open-loop systems",
+    "optionC": "Recycled produced water",
+    "optionD": "Recycled flowback",
+    "optionE": "Rainwater harvesting",
+    "answer": "E. Rainwater harvesting",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "130-131",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  }
+]

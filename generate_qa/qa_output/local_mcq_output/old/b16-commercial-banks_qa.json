@@ -1,0 +1,377 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What is the unit of measure for the metric 'Gross exposure to carbon-related industries' in the IFRS S2 Climate-related Disclosures for Commercial Banks?",
+    "optionA": "Number of loans",
+    "optionB": "Metric tons CO2-e",
+    "optionC": "Percentage %",
+    "optionD": "Presentation currency",
+    "optionE": "Kilowatt hours",
+    "answer": "D. Presentation currency",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "145",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the IFRS S2 Climate-related Disclosures, what classification system should commercial banks use for classifying counterparties in carbon-related industries?",
+    "optionA": "Standard Industrial Classification (SIC)",
+    "optionB": "North American Industry Classification System (NAICS)",
+    "optionC": "Global Industry Classification Standard (GICS)",
+    "optionD": "International Standard Industrial Classification (ISIC)",
+    "optionE": "Bloomberg Industry Classification System (BICS)",
+    "answer": "C. Global Industry Classification Standard (GICS)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "150",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "In the context of financed emissions for commercial banks, how is 'gross exposure' defined for derivatives?",
+    "optionA": "The market value of the derivative",
+    "optionB": "The notional value of the derivative",
+    "optionC": "The contractual amounts to be exchanged for gross cash flows or net amounts for net cash flows",
+    "optionD": "The potential future exposure of the derivative",
+    "optionE": "The initial margin requirement for the derivative",
+    "answer": "C. The contractual amounts to be exchanged for gross cash flows or net amounts for net cash flows",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "152",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What does the term 'financed emissions' refer to in the context of commercial banks' climate-related disclosures?",
+    "optionA": "Emissions from the bank's own operations",
+    "optionB": "Emissions from the bank's employee commuting",
+    "optionC": "Emissions from the bank's energy use",
+    "optionD": "Portion of gross emissions of an investee or counterparty attributed to the bank's loans and investments",
+    "optionE": "Emissions from the bank's supply chain",
+    "answer": "D. Portion of gross emissions of an investee or counterparty attributed to the bank's loans and investments",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "151-152",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might a commercial bank's approach to incorporating ESG factors in credit analysis impact its exposure to carbon-related industries and financed emissions?",
+    "optionA": "It has no impact on carbon-related industry exposure or financed emissions",
+    "optionB": "It only affects the bank's reputation but not its financial metrics",
+    "optionC": "It could lead to reduced exposure to carbon-related industries and lower financed emissions over time",
+    "optionD": "It increases exposure to carbon-related industries to maximize short-term profits",
+    "optionE": "It only impacts the bank's Scope 1 and 2 emissions, not its financed emissions",
+    "answer": "C. It could lead to reduced exposure to carbon-related industries and lower financed emissions over time",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "146-154",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "If a commercial bank discloses that 80% of its gross exposure is included in the financed emissions calculation, what implications does this have for understanding the bank's climate-related risks?",
+    "optionA": "The bank has fully accounted for all its climate-related risks",
+    "optionB": "20% of the bank's exposure may have additional, undisclosed climate-related risks",
+    "optionC": "The bank is non-compliant with IFRS S2 requirements",
+    "optionD": "The bank's financed emissions are insignificant",
+    "optionE": "The bank is outperforming its peers in climate risk management",
+    "answer": "B. 20% of the bank's exposure may have additional, undisclosed climate-related risks",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "150-151",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How does the disclosure of both absolute gross financed emissions and emissions intensity for each industry by asset class contribute to a more comprehensive understanding of a bank's climate-related risks?",
+    "optionA": "It only provides redundant information without additional insights",
+    "optionB": "It allows for comparison between banks regardless of their size",
+    "optionC": "It helps identify which industries contribute most to the bank's total emissions",
+    "optionD": "It provides context for the bank's exposure relative to its portfolio size and allows for industry comparisons",
+    "optionE": "It only matters for regulatory compliance and has no practical use",
+    "answer": "D. It provides context for the bank's exposure relative to its portfolio size and allows for industry comparisons",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "151-154",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "Considering the IFRS S2 requirements for commercial banks, how might the disclosure of the methodology used to calculate financed emissions impact stakeholders' assessment of the bank's climate-related risks?",
+    "optionA": "It has no impact on stakeholders' assessment",
+    "optionB": "It only matters for internal bank operations",
+    "optionC": "It allows stakeholders to evaluate the accuracy and completeness of the bank's reported financed emissions",
+    "optionD": "It is only relevant for comparing banks within the same country",
+    "optionE": "It exclusively affects the bank's credit rating",
+    "answer": "C. It allows stakeholders to evaluate the accuracy and completeness of the bank's reported financed emissions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "154",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What are 'carbon-related industries' as defined in the IFRS S2 Climate-related Disclosures for commercial banks, and why are they significant?",
+    "optionA": "Industries that produce carbon fiber materials",
+    "optionB": "Industries responsible for relatively high direct or indirect GHG emissions, including oil and gas, chemicals, and utilities",
+    "optionC": "Only industries involved in fossil fuel extraction",
+    "optionD": "Industries that exclusively use carbon-based fuels",
+    "optionE": "Industries that offset all their carbon emissions",
+    "answer": "B. Industries responsible for relatively high direct or indirect GHG emissions, including oil and gas, chemicals, and utilities",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "149-150",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "In the context of IFRS S2 disclosures for commercial banks, how is 'gross exposure' defined for funded amounts?",
+    "optionA": "The net amount after subtracting loss allowances",
+    "optionB": "The total amount of loans issued, including interest",
+    "optionC": "The funded carrying amounts before subtracting the loss allowance, expressed in the presentation currency",
+    "optionD": "The market value of all assets held by the bank",
+    "optionE": "The total amount of deposits held by the bank",
+    "answer": "C. The funded carrying amounts before subtracting the loss allowance, expressed in the presentation currency",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "149-150",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What does 'emissions intensity' mean in the context of financed emissions for commercial banks under IFRS S2?",
+    "optionA": "The total amount of GHG emissions produced by the bank's operations",
+    "optionB": "The percentage of a bank's portfolio invested in renewable energy",
+    "optionC": "The amount of Scope 1, 2, and 3 emissions per unit of economic or physical activity",
+    "optionD": "The number of carbon credits purchased by the bank",
+    "optionE": "The ratio of green loans to total loans in the bank's portfolio",
+    "answer": "C. The amount of Scope 1, 2, and 3 emissions per unit of economic or physical activity",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "153",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is the Global Industry Classification Standard (GICS) and how is it used in the context of commercial banks' climate-related disclosures?",
+    "optionA": "A system for classifying countries by their economic development",
+    "optionB": "A standard for categorizing companies' environmental performance",
+    "optionC": "A classification system used to categorize counterparties by industry, particularly for identifying carbon-related industries",
+    "optionD": "A method for calculating greenhouse gas emissions",
+    "optionE": "A regulatory framework for bank lending practices",
+    "answer": "C. A classification system used to categorize counterparties by industry, particularly for identifying carbon-related industries",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "149-150",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "Why is the disclosure of financed emissions important for commercial banks according to IFRS S2?",
+    "optionA": "It's only for marketing purposes",
+    "optionB": "It helps banks attract more customers",
+    "optionC": "It's a regulatory requirement with no practical implications",
+    "optionD": "It helps users understand the bank's exposure to transition risks in carbon-related industries",
+    "optionE": "It's solely used to calculate tax deductions",
+    "answer": "D. It helps users understand the bank's exposure to transition risks in carbon-related industries",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "149-150",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "What broader implications does the inclusion of Scope 3 emissions in financed emissions calculations have for commercial banks?",
+    "optionA": "It only affects the bank's internal operations",
+    "optionB": "It has no impact on the bank's risk profile",
+    "optionC": "It provides a more comprehensive view of the bank's indirect impact on climate change through its investments",
+    "optionD": "It only matters for loans to energy companies",
+    "optionE": "It's solely used for complying with local regulations",
+    "answer": "C. It provides a more comprehensive view of the bank's indirect impact on climate change through its investments",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "151-152",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "What potential challenges might commercial banks face when implementing scenario analysis for ESG trends in their credit exposure portfolio?",
+    "optionA": "Lack of historical data on ESG factors",
+    "optionB": "Difficulty in quantifying certain ESG risks",
+    "optionC": "Rapidly changing regulatory environment",
+    "optionD": "Variability in ESG impacts across different sectors and geographies",
+    "optionE": "All of the above",
+    "answer": "E. All of the above",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "147-148",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to IFRS S2, what are commercial banks required to disclose regarding their approach to incorporating ESG factors in credit analysis?",
+    "optionA": "Only the financial impact of ESG factors on their loan portfolio",
+    "optionB": "A description of their policies, implementation, and oversight of ESG incorporation",
+    "optionC": "The names of clients with high ESG risks",
+    "optionD": "The percentage of loans rejected due to ESG concerns",
+    "optionE": "Only climate-related risks in their credit analysis",
+    "answer": "B. A description of their policies, implementation, and oversight of ESG incorporation",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "146-148",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to IFRS S2, how should commercial banks calculate and disclose the percentage of gross exposure included in their financed emissions calculation?",
+    "optionA": "By dividing the number of carbon-related loans by total loans",
+    "optionB": "By subtracting excluded assets from total assets",
+    "optionC": "It's optional and doesn't need to be calculated",
+    "optionD": "By dividing gross exposure included in financed emissions by total gross exposure to all industries and asset classes",
+    "optionE": "By multiplying the carbon intensity of each loan by its value",
+    "answer": "D. By dividing gross exposure included in financed emissions by total gross exposure to all industries and asset classes",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "150-151",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "Based on the IFRS S2 requirements, how might the inclusion of undrawn loan commitments in financed emissions calculations affect a bank's overall climate risk profile?",
+    "optionA": "It would have no effect on the bank's climate risk profile",
+    "optionB": "It would always decrease the bank's reported climate risk",
+    "optionC": "It would only affect the bank's risk profile for carbon-related industries",
+    "optionD": "It could potentially increase the bank's reported climate risk exposure and provide a more comprehensive view of future commitments",
+    "optionE": "It would only be relevant for short-term loan commitments",
+    "answer": "D: It could potentially increase the bank's reported climate risk exposure and provide a more comprehensive view of future commitments",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "150-151",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the requirement to disclose the methodology used to calculate financed emissions (FN-CB-5) influence the comparability and transparency of climate-related disclosures across different commercial banks?",
+    "optionA": "It would have no impact on comparability or transparency",
+    "optionB": "It would make disclosures less transparent but more comparable",
+    "optionC": "It would only affect comparability for large multinational banks",
+    "optionD": "It would improve transparency but reduce comparability between banks",
+    "optionE": "It could enhance both transparency and comparability, allowing stakeholders to better understand and compare different banks' approaches and results",
+    "answer": "E: It could enhance both transparency and comparability, allowing stakeholders to better understand and compare different banks' approaches and results",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "154",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the disclosure of emissions intensity by industry and asset class (FN-CB-4) impact a commercial bank's lending strategies and risk management practices?",
+    "optionA": "It would have no impact on lending strategies or risk management",
+    "optionB": "It could lead to reduced lending to high-emission industries without considering other factors",
+    "optionC": "It might result in immediate divestment from all carbon-intensive sectors",
+    "optionD": "It could drive banks to only lend to industries with the lowest emissions intensity",
+    "optionE": "It may encourage more nuanced risk assessment and targeted engagement with high-emission clients to support their transition efforts",
+    "answer": "E. It may encourage more nuanced risk assessment and targeted engagement with high-emission clients to support their transition efforts",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "152-153",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the disclosure requirements for financed emissions in carbon-related industries affect a commercial bank's long-term business strategy and relationships with clients in these sectors?",
+    "optionA": "Banks may need to gradually reduce exposure to carbon-intensive industries, potentially straining relationships with long-standing clients.",
+    "optionB": "The requirements will have no significant impact on bank strategies or client relationships.",
+    "optionC": "Banks will likely increase their exposure to carbon-intensive industries to maximize short-term profits.",
+    "optionD": "The disclosures will lead to immediate divestment from all carbon-related industries, regardless of client relationships.",
+    "optionE": "Banks will only need to make minor adjustments to their reporting practices without affecting their business strategies.",
+    "answer": "A. Banks may need to gradually reduce exposure to carbon-intensive industries, potentially straining relationships with long-standing clients.",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "149-154",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following asset classes is NOT explicitly mentioned in the scope of disclosure for financed emissions calculations?",
+    "optionA": "Loans",
+    "optionB": "Project finance",
+    "optionC": "Bonds",
+    "optionD": "Equity investments",
+    "optionE": "Cryptocurrencies",
+    "answer": "E. Cryptocurrencies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "151-152",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT required to be disclosed when describing the methodology used to calculate financed emissions?",
+    "optionA": "Method used to attribute the entity's share of emissions",
+    "optionB": "Approach to collecting underlying emissions data",
+    "optionC": "Use of estimations, proxies or assumptions",
+    "optionD": "Reasons for omission if unable to include GHG emissions of an investee",
+    "optionE": "Projected future emissions reductions of financed companies",
+    "answer": "E. Projected future emissions reductions of financed companies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "154",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a component of the 'Description of approach to incorporation of environmental, social, and governance (ESG) factors in credit analysis' metric?",
+    "optionA": "Parties responsible for day-to-day incorporation of ESG factors",
+    "optionB": "Approach to conducting ESG-related research",
+    "optionC": "Criteria used in assessing the quality of ESG incorporation",
+    "optionD": "Specific ESG rating agencies used for data collection",
+    "optionE": "Roles and responsibilities of employees involved",
+    "answer": "D. Specific ESG rating agencies used for data collection",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "146-148",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT listed as a required disclosure for the 'Transition Risk Exposure' topic in the IFRS S2 requirements for commercial banks?",
+    "optionA": "Gross exposure to carbon-related industries",
+    "optionB": "Percentage of gross exposure included in financed emissions calculation",
+    "optionC": "Absolute gross Scope 1, 2, and 3 emissions for each industry by asset class",
+    "optionD": "Gross emissions intensity by Scope 1, 2, and 3 emissions for each industry",
+    "optionE": "Scenario analysis of potential climate-related impacts on loan portfolios",
+    "answer": "E. Scenario analysis of potential climate-related impacts on loan portfolios",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "149-154",
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  }
+]

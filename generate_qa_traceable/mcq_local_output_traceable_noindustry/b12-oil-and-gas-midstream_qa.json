@@ -1,0 +1,178 @@
+[
+  {
+    "question": "What is the code for the metric 'Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations' in the Oil & Gas - Midstream industry?",
+    "optionA": "EM-MD-110a.2",
+    "optionB": "EM-MD-000.A",
+    "optionC": "EM-MD-110a.1",
+    "optionD": "EM-EP-110a.1",
+    "optionE": "EM-RM-110a.1",
+    "answer": "C",
+    "pages": [
+      "108"
+    ],
+    "reference_text": [
+      "TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%) | EM-MD-110a.1 |"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "question": "For the metric 'Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations', what does a company in the Oil & Gas - Midstream industry need to disclose?",
+    "optionA": "The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol.",
+    "optionB": "The entity shall disclose the percentage of its emissions that are covered under an emissions-limiting regulation or that is intended to directly limit or reduce emissions.",
+    "optionC": "The entity shall disclose the percentage of gross global Scope 1 emissions from methane emissions.",
+    "optionD": "All of the above.",
+    "optionE": "None of the above.",
+    "answer": "D",
+    "pages": [
+      "110"
+    ],
+    "reference_text": [
+      "1 The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol\u2014carbon dioxide (CO\u2082), methane (CH\u2084), nitrous oxide (N\u2082O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF\u2086), and nitrogen trifluoride (NF\u2083).",
+      "3 The entity shall disclose the percentage of gross global Scope 1 emissions from methane emissions.",
+      "4 The entity shall disclose the percentage of its emissions that are covered under an emissions-limiting regulation or that is intended to directly limit or reduce emissions, such as cap-and-trade schemes, carbon tax/fee systems, and other emissions control (e.g., command-and-control approach) and permit-based mechanisms."
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "question": "What is the category of the activity metric 'Total metric ton-kilometers of: (1) natural gas, (2) crude oil, and (3) refined petroleum products transported, by mode of transport' in the Oil & Gas - Midstream industry?",
+    "optionA": "Quantitative",
+    "optionB": "Discussion and Analysis",
+    "optionC": "Qualitative",
+    "optionD": "Descriptive",
+    "optionE": "The category is not specified.",
+    "answer": "A",
+    "pages": [
+      "108"
+    ],
+    "reference_text": [
+      "ACTIVITY METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "Total metric ton-kilometers of: (1) natural gas, (2) crude oil, and (3) refined petroleum products transported, by mode of transport \u00b9\u2074 | Quantitative | Metric ton (t) kilometers | EM-MD-000.A |"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "question": "For the listed requirement EM-MD-110a.2 'Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets', what metric should a company in the Oil & Gas - Midstream industry use for its emission reduction target?",
+    "optionA": "The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the scope of the emission reduction target.",
+    "optionB": "The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including whether the target is absolute or intensity-based, and the metric denominator, if it is an intensity-based target.",
+    "optionC": "The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the percentage reduction against the base year, with the base year representing the first year against which emissions are evaluated towards the achievement of the target.",
+    "optionD": "All of the above.",
+    "optionE": "None of the above.",
+    "answer": "D",
+    "pages": [
+      "111-112"
+    ],
+    "reference_text": [
+      "2 The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the following, where relevant:",
+      "2.1 The scope of the emission reduction target (e.g., the percentage of total emissions to which the target is applicable);",
+      "2.2 Whether the target is absolute or intensity-based, and the metric denominator, if it is an intensity-based target;",
+      "2.3 The percentage reduction against the base year, with the base year representing the first year against which emissions are evaluated towards the achievement of the target;"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "question": "What is the category of the 'Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations' metric in the Oil & Gas - Midstream industry and how should this metric be calculated?",
+    "optionA": "The category is Quantitative. This metric should be calculated as metric tons (t) CO\u2082-e for gross global Scope 1 emissions, percentage for methane emissions, and percentage for emissions covered under emissions-limiting regulations.",
+    "optionB": "The category is Discussion and Analysis. There are no specific calculation instructions provided for this metric.",
+    "optionC": "The category is Quantitative. This metric should be calculated using the GHG Protocol methodology for Scope 1 emissions, with methane emissions as a percentage and emissions under regulations as a percentage.",
+    "optionD": "The category is Quantitative. This metric requires reporting total Scope 1 emissions in metric tons, but no calculation details are provided for the percentage values.",
+    "optionE": "The category is not specified. No calculation methodology is provided for this metric.",
+    "answer": "C",
+    "pages": [
+      "109",
+      "110",
+      "111"
+    ],
+    "reference_text": [
+      "EM-MD-110a.1. Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations",
+      "1 The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol\u2014carbon dioxide (CO\u2082), methane (CH\u2084), nitrous oxide (N\u2082O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF\u2086), and nitrogen trifluoride (NF\u2083).",
+      "3 The entity shall disclose the percentage of gross global Scope 1 emissions from methane emissions.",
+      "4 The entity shall disclose the percentage of its emissions that are covered under an emissions-limiting regulation or that is intended to directly limit or reduce emissions, such as cap-and-trade schemes, carbon tax/fee systems, and other emissions control (e.g., command-and-control approach) and permit-based mechanisms."
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "question": "For the requirement 'Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets', what metric should a company in the Oil & Gas - Midstream industry use and how should this metric be disclosed?",
+    "optionA": "Companies should use the 'Gross global Scope 1 emissions' metric and disclose their strategy, targets, and performance analysis for reducing this metric.",
+    "optionB": "There is no specific metric associated with this requirement. Companies should provide a qualitative discussion of their emissions management strategies, targets, and performance.",
+    "optionC": "Companies should use the 'Total metric ton-kilometers transported' activity metric and discuss their emissions strategies and targets related to this metric.",
+    "optionD": "Companies should disclose their total Scope 1 and Scope 2 emissions and discuss strategies to reduce these combined emissions.",
+    "optionE": "Companies should use the 'Percentage methane' metric from EM-MD-110a.1 and discuss strategies specifically for reducing methane emissions.",
+    "answer": "B",
+    "pages": [
+      "111",
+      "112"
+    ],
+    "reference_text": [
+      "EM-MD-110a.2. Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets",
+      "1 The entity shall discuss its long-term and short-term strategy or plan to manage its Scope 1 greenhouse gas (GHG) emissions.",
+      "2 The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the following, where relevant: ...",
+      "3 The entity shall discuss activities and investments required to achieve the plans and/or targets, and any risks or limiting factors that might affect achievements of the plans and/or targets."
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "question": "Can you tell me if I reported the 'Greenhouse Gas Emissions' topic correctly for the Oil & Gas - Midstream industry? I disclosed our total Scope 1 emissions in metric tons CO2e and provided a discussion of our methane leak detection and repair program.",
+    "optionA": "Yes, you have reported the 'Greenhouse Gas Emissions' topic correctly by providing the required Scope 1 emissions data and discussing your methane emissions management approach.",
+    "optionB": "No, you have not reported this topic fully. You still need to disclose the percentage of Scope 1 emissions from methane and the percentage covered by emissions regulations.",
+    "optionC": "Partially, you provided the total Scope 1 emissions data correctly but are still missing the percentage of emissions covered by emissions regulations for full reporting.",
+    "optionD": "Partially, you discussed methane emissions management which is relevant, but are still missing the actual Scope 1 emissions data and percentage of emissions covered by regulations.",
+    "optionE": "No, the reporting requirements for this topic are to disclose only a discussion of your long-term and short-term emissions management strategy, not any quantitative emissions data.",
+    "answer": "B",
+    "pages": [
+      "109",
+      "110",
+      "111"
+    ],
+    "reference_text": [
+      "EM-MD-110a.1. Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations",
+      "1 The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere...",
+      "3 The entity shall disclose the percentage of gross global Scope 1 emissions from methane emissions.",
+      "4 The entity shall disclose the percentage of its emissions that are covered under an emissions-limiting regulation..."
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "question": "What is the code for the activity metric 'Total metric ton-kilometers transported' in the Oil & Gas - Midstream industry and how should this metric be calculated?",
+    "optionA": "The code is EM-MD-000.A. This metric should be calculated as the total metric ton-kilometers of natural gas, crude oil, and refined petroleum products transported by all relevant modes like pipeline, tanker, truck, etc.",
+    "optionB": "The code is EM-MD-110a.1. This metric covers gross global Scope 1 emissions and should be calculated using the GHG Protocol methodology.",
+    "optionC": "The code is EM-MD-110a.2. This metric requires a discussion of the company's emissions management strategy and targets, not a quantitative calculation.",
+    "optionD": "There is no specific code provided for this activity metric in the document.",
+    "optionE": "The code is EM-MD-000.B. The calculation methodology is not specified for this metric.",
+    "answer": "A",
+    "pages": [
+      "108"
+    ],
+    "reference_text": [
+      "Table 2. Activity Metrics",
+      "ACTIVITY METRIC | CATEGORY | UNIT OF MEASURE | CODE",
+      "Total metric ton-kilometers of: (1) natural gas, (2) crude oil, and (3) refined petroleum products transported, by mode of transport \u00b9\u2074 | Quantitative | Metric ton (t) kilometers | EM-MD-000.A",
+      "\u00b9\u2074 Note to EM-MD-000.A \u2013 Relevant modes of transport include: pipeline, tanker, truck, etc."
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  }
+]

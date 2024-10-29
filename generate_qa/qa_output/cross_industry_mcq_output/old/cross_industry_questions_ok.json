@@ -1,0 +1,26 @@
+[
+  {
+    "qa_type": "1",
+    "question": "Which of the following sustainability challenges is shared by both the Apparel, Accessories & Footwear industry and the Coal Operations industry?",
+    "optionA": "Managing animal welfare in the supply chain",
+    "optionB": "Reducing greenhouse gas emissions from mining activities",
+    "optionC": "Addressing water stress and management in global supply chains",
+    "optionD": "Implementing third-party certifications for raw materials",
+    "optionE": "Reducing methane emissions from coal seams",
+    "answer": "C. Addressing water stress and management in global supply chains",
+    "explanation": "Both the Apparel, Accessories & Footwear industry and the Coal Operations industry face significant challenges related to water stress and management in their global supply chains. For the apparel industry, water stress affects cotton production, a key raw material (CG-AA-440a.1). The coal industry faces water management challenges in its operations, including water withdrawal and recycling, particularly in regions with high water stress (EM-CO-140a.1). Both industries must address water-related risks in their supply chains to ensure sustainability and operational efficiency.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations"
+    ],
+    "pages": [
+      "9",
+      "47"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ]
+  }
+]

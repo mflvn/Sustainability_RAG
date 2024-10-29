@@ -1,0 +1,332 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What is the primary collateral used in mortgage lending according to the industry description?",
+    "optionA": "Vehicles",
+    "optionB": "Stocks and bonds",
+    "optionC": "Property",
+    "optionD": "Personal guarantees",
+    "optionE": "Business assets",
+    "answer": "C. Property",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance",
+    "page": "184",
+    "industries": [
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT considered a weather-related natural catastrophe in the context of mortgage loan defaults?",
+    "optionA": "Hurricanes",
+    "optionB": "Floods",
+    "optionC": "Droughts",
+    "optionD": "Wildfires",
+    "optionE": "Earthquakes",
+    "answer": "E. Earthquakes",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance",
+    "page": "186",
+    "industries": [
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "How is Loss Given Default (LGD) defined in the context of mortgage finance?",
+    "optionA": "The probability of a loan defaulting",
+    "optionB": "The total value of all possible losses",
+    "optionC": "The share of an asset lost in the situation of default",
+    "optionD": "The expected return on a mortgage investment",
+    "optionE": "The interest rate charged on high-risk mortgages",
+    "answer": "C. The share of an asset lost in the situation of default",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance",
+    "page": "186",
+    "industries": [
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT included in the scope of mortgage loans for disclosure of properties in 100-year flood zones?",
+    "optionA": "First mortgages (1-4 family)",
+    "optionB": "Junior lien (1-4 family second mortgages)",
+    "optionC": "Home equity lines of credit",
+    "optionD": "Mortgages held for sale",
+    "optionE": "Loan assets held by the entity",
+    "answer": "D. Mortgages held for sale",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance",
+    "page": "186",
+    "industries": [
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might the incorporation of climate change risks into mortgage origination processes impact both the valuation of collateral and credit risk analysis?",
+    "optionA": "It may lead to higher property valuations and lower credit risk assessments",
+    "optionB": "It could result in lower collateral valuations and increased likelihood of default assumptions",
+    "optionC": "It would only affect the credit risk analysis, not the collateral valuation",
+    "optionD": "It would increase property valuations but have no impact on credit risk analysis",
+    "optionE": "It would only be considered for properties in coastal areas",
+    "answer": "B: It could result in lower collateral valuations and increased likelihood of default assumptions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance",
+    "page": "186-187",
+    "industries": [
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "If a mortgage finance company reports an increase in both the number and value of mortgages in 100-year flood zones, along with a rise in expected losses due to weather-related catastrophes, what might this suggest about the company's risk profile and future financial performance?",
+    "optionA": "The company is likely to see improved financial performance due to increased lending activity",
+    "optionB": "The company's risk profile remains unchanged as long as it maintains its current underwriting standards",
+    "optionC": "The company may face higher potential losses and may need to adjust its risk management strategies",
+    "optionD": "The company should immediately stop lending in flood-prone areas",
+    "optionE": "This information has no bearing on the company's risk profile or financial performance",
+    "answer": "C: The company may face higher potential losses and may need to adjust its risk management strategies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance",
+    "page": "185-186",
+    "industries": [
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might the recent regulatory trends mentioned in the industry description impact a mortgage finance company's approach to environmental risk disclosures?",
+    "optionA": "They would have no impact on environmental risk disclosures",
+    "optionB": "They would lead to less detailed environmental risk disclosures",
+    "optionC": "They would result in more comprehensive environmental risk disclosures and integration into business practices",
+    "optionD": "They would only affect disclosures related to consumer protection, not environmental risks",
+    "optionE": "They would require companies to stop lending in environmentally risky areas altogether",
+    "answer": "C: They would result in more comprehensive environmental risk disclosures and integration into business practices",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance",
+    "page": "184-185",
+    "industries": [
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "Based on the information provided, how might a mortgage finance company's disclosure of its approach to incorporating climate change risks into its processes affect its perception among long-term investors?",
+    "optionA": "It would have no effect on investor perception",
+    "optionB": "Investors would view the company negatively for considering climate change risks",
+    "optionC": "Investors would only be interested in short-term profitability, not long-term risk management",
+    "optionD": "It could positively influence investors' view of the company's long-term risk management and value protection",
+    "optionE": "Investors would prefer companies that do not disclose their climate change risk approaches",
+    "answer": "D: It could positively influence investors' view of the company's long-term risk management and value protection",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance",
+    "page": "184, 187",
+    "industries": [
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What does the term '100-year flood zone' mean in the context of environmental risk to mortgaged properties?",
+    "optionA": "Areas that flood once every 100 years",
+    "optionB": "Land areas subject to a one-percent or greater chance of flooding in any given year",
+    "optionC": "Regions that have been flooded for the past 100 years",
+    "optionD": "Coastal areas with a 100% chance of flooding",
+    "optionE": "Zones where flood insurance is mandatory for 100 years",
+    "answer": "B. Land areas subject to a one-percent or greater chance of flooding in any given year",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance",
+    "page": "185",
+    "industries": [
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "In the context of environmental risks to mortgaged properties, what does 'Expected loss' refer to?",
+    "optionA": "The average loss from all previous natural disasters",
+    "optionB": "The maximum potential loss from a single catastrophic event",
+    "optionC": "The minimum loss expected from climate change impacts",
+    "optionD": "The sum of the values of all possible losses, each multiplied by its probability of occurring",
+    "optionE": "The predicted loss based on the worst-case climate scenario",
+    "answer": "D. The sum of the values of all possible losses, each multiplied by its probability of occurring",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance",
+    "page": "186",
+    "industries": [
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is the primary purpose of the Mortgage Finance industry as described in the industry description?",
+    "optionA": "To maximize profits for shareholders",
+    "optionB": "To provide an essential public good in enabling consumers to purchase homes",
+    "optionC": "To create complex financial instruments",
+    "optionD": "To regulate the housing market",
+    "optionE": "To manage real estate investments",
+    "answer": "B. To provide an essential public good in enabling consumers to purchase homes",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance",
+    "page": "184",
+    "industries": [
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might the breakdown of expected losses and Loss Given Default (LGD) by geographic region impact investment strategies in the mortgage finance sector?",
+    "optionA": "It would have no effect on investment strategies",
+    "optionB": "It would only impact short-term trading decisions",
+    "optionC": "It could lead investors to avoid the mortgage finance sector entirely",
+    "optionD": "It might encourage investors to focus solely on companies with the lowest reported losses",
+    "optionE": "It could help investors make more informed decisions about regional risks and diversification within their mortgage finance portfolios",
+    "answer": "E. It could help investors make more informed decisions about regional risks and diversification within their mortgage finance portfolios",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance",
+    "page": "186",
+    "industries": [
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "Considering the industry's role in enabling home ownership, how might increased environmental risk disclosures affect social equality in housing markets?",
+    "optionA": "It would have no impact on social equality in housing markets",
+    "optionB": "It would only affect luxury home markets",
+    "optionC": "It could lead to more equitable lending practices across all communities",
+    "optionD": "It might exacerbate housing inequality by making mortgages more difficult to obtain in certain areas",
+    "optionE": "It would exclusively impact commercial mortgage markets",
+    "answer": "D. It might exacerbate housing inequality by making mortgages more difficult to obtain in certain areas",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance",
+    "page": "184-185",
+    "industries": [
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "Based on the industry description and environmental risk considerations, how might the Mortgage Finance industry's role evolve in response to increasing climate-related risks?",
+    "optionA": "The industry will likely become obsolete due to environmental risks",
+    "optionB": "It may shift towards primarily financing properties in low-risk areas",
+    "optionC": "The industry's role will remain unchanged",
+    "optionD": "It could play a crucial role in promoting climate-resilient housing and development",
+    "optionE": "The industry will focus exclusively on commercial mortgages",
+    "answer": "D: It could play a crucial role in promoting climate-resilient housing and development",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance",
+    "page": "184-185",
+    "industries": [
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the IFRS S2 Climate-related Disclosures, what specific weather-related natural catastrophes should be included when calculating expected losses and Loss Given Default (LGD) for mortgage loans?",
+    "optionA": "Only meteorological events like hurricanes and storms",
+    "optionB": "Meteorological, hydrological, and climatological events, but not geophysical events",
+    "optionC": "All natural disasters, including earthquakes and volcanic eruptions",
+    "optionD": "Only hydrological events like floods",
+    "optionE": "Climatological events and geophysical events only",
+    "answer": "B. Meteorological, hydrological, and climatological events, but not geophysical events",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance",
+    "page": "186",
+    "industries": [
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "In the context of incorporating climate change and environmental risks into mortgage origination and underwriting, what specific aspect of the valuation process does the IFRS S2 guidance highlight?",
+    "optionA": "Focusing solely on the current market value of the property",
+    "optionB": "Ignoring environmental factors in property valuation",
+    "optionC": "Accounting for inherent risks due to location and assessing for basic adaptive measures",
+    "optionD": "Only considering the borrower's credit score",
+    "optionE": "Evaluating the property's historical sale prices",
+    "answer": "C. Accounting for inherent risks due to location and assessing for basic adaptive measures",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance",
+    "page": "187",
+    "industries": [
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the IFRS S2 guidelines, how should mortgage finance entities disclose their exposure to environmental risks in 100-year flood zones?",
+    "optionA": "By reporting only the total value of affected mortgages",
+    "optionB": "By disclosing the number of affected mortgages without their value",
+    "optionC": "By providing both the number and value of mortgage loans in 100-year flood zones",
+    "optionD": "By estimating potential losses without specific loan details",
+    "optionE": "By reporting only on mortgages in areas that have experienced recent flooding",
+    "answer": "C. By providing both the number and value of mortgage loans in 100-year flood zones",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance",
+    "page": "185-186",
+    "industries": [
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What specific action does IFRS S2 recommend for mortgage finance entities when considering climate change risks in their credit risk analysis?",
+    "optionA": "Ignore climate change risks as they are not financially material",
+    "optionB": "Only consider risks from earthquakes and volcanic eruptions",
+    "optionC": "Assume increases in natural disaster frequency and severity will decrease the likelihood of default",
+    "optionD": "Assume increases in natural disaster frequency and severity will increase the likelihood of default due to properties being un-insured or under-insured",
+    "optionE": "Only consider risks for properties in coastal areas",
+    "answer": "D. Assume increases in natural disaster frequency and severity will increase the likelihood of default due to properties being un-insured or under-insured",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance",
+    "page": "187",
+    "industries": [
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the requirement to disclose Loss Given Default (LGD) attributable to weather-related catastrophes influence investor behavior in the mortgage finance sector?",
+    "optionA": "Investors will likely avoid all mortgage finance companies regardless of their risk management practices",
+    "optionB": "It may lead to increased investment in companies with robust climate risk management strategies",
+    "optionC": "Investors will probably ignore this information as it's too complex to understand",
+    "optionD": "It could result in a shift towards investing only in regions with no weather-related risks",
+    "optionE": "This disclosure will have no impact on investor behavior in the mortgage finance sector",
+    "answer": "B. It may lead to increased investment in companies with robust climate risk management strategies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance",
+    "page": "186",
+    "industries": [
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "Based on the IFRS S2 guidelines, how might mortgage finance companies need to adapt their business models to balance profitability with environmental risk management?",
+    "optionA": "Focus exclusively on low-risk areas, abandoning all high-risk markets",
+    "optionB": "Ignore environmental risks to maintain current profitability levels",
+    "optionC": "Develop more sophisticated risk assessment tools, adjust pricing models, and diversify portfolios geographically",
+    "optionD": "Shift entirely to commercial mortgages, avoiding residential properties",
+    "optionE": "Outsource all environmental risk assessments to third-party agencies",
+    "answer": "C. Develop more sophisticated risk assessment tools, adjust pricing models, and diversify portfolios geographically",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance",
+    "page": "185-187",
+    "industries": [
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a factor to consider when incorporating climate change and environmental risks into mortgage origination and underwriting?",
+    "optionA": "Impact on collateral valuation",
+    "optionB": "Effect on credit risk analysis",
+    "optionC": "Influence on interest rates",
+    "optionD": "Frequency of weather-related natural catastrophes",
+    "optionE": "Occurrence of geophysical events",
+    "answer": "C. Influence on interest rates",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance",
+    "page": "186-187",
+    "industries": [
+      "b19-mortgage-finance"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following metrics is NOT required to be disclosed in the activity metrics for the Mortgage Finance industry?",
+    "optionA": "Number of mortgages originated",
+    "optionB": "Value of mortgages originated",
+    "optionC": "Number of mortgages purchased",
+    "optionD": "Value of mortgages purchased",
+    "optionE": "Average interest rate of mortgages",
+    "answer": "E. Average interest rate of mortgages",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Mortgage Finance",
+    "page": "184",
+    "industries": [
+      "b19-mortgage-finance"
+    ]
+  }
+]

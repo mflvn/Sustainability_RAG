@@ -1,0 +1,150 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "According to IFRS standards, which of the following metrics is required to be disclosed by both Internet Media & Services and Software & IT Services companies, but not by Telecommunication Services companies?",
+    "optionA": "Total energy consumed",
+    "optionB": "Percentage of renewable energy consumed",
+    "optionC": "Total water withdrawn",
+    "optionD": "Number of performance issues and service disruptions",
+    "optionE": "Network traffic in petabytes",
+    "answer": "C: Total water withdrawn",
+    "explanation": "Both Internet Media & Services (TC-IM-130a.2) and Software & IT Services (TC-SI-130a.2) are required to disclose total water withdrawn, while this metric is not listed as a requirement for Telecommunication Services companies in the provided standards. All three industries are required to report on total energy consumed and percentage of renewable energy, while network traffic is specific to Telecommunication Services and performance issues are not universally required across all three.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "559",
+      "576",
+      "584"
+    ],
+    "pairing_explanation": "Technology and communications industries have large impacts through electronic waste, energy consumption, and data privacy issues, making them crucial for sustainability comparisons.",
+    "industries": [
+      "b56-internet-media-and-services",
+      "b58-software-and-it-services",
+      "b59-telecommunication-services"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When disclosing information about renewable energy consumption, what specific requirement is common to Internet Media & Services, Software & IT Services, and Telecommunication Services industries?",
+    "optionA": "Only grid-supplied renewable energy can be included",
+    "optionB": "Renewable energy certificates (RECs) must be sold to claim renewable energy use",
+    "optionC": "Biomass energy sources must be certified by a third-party standard",
+    "optionD": "Renewable energy can only be claimed if generated on-site",
+    "optionE": "The renewable portion of the general electricity grid mix can always be claimed",
+    "answer": "C: Biomass energy sources must be certified by a third-party standard",
+    "explanation": "For all three industries, the standards specify that for the purposes of renewable energy disclosure, energy from biomass sources is limited to materials certified to a third-party standard (e.g., Forest Stewardship Council, Sustainable Forest Initiative, etc.) or those considered eligible according to specific green energy frameworks or state renewable portfolio standards.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "561",
+      "579",
+      "586"
+    ],
+    "pairing_explanation": "Technology and communications industries have large impacts through electronic waste, energy consumption, and data privacy issues, making them crucial for sustainability comparisons.",
+    "industries": [
+      "b56-internet-media-and-services",
+      "b58-software-and-it-services",
+      "b59-telecommunication-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of energy consumed from renewable sources, which of the following is NOT included in the scope for Internet Media & Services, Software & IT Services, and Telecommunication Services companies?",
+    "optionA": "Renewable fuel directly consumed by the entity",
+    "optionB": "Renewable energy directly produced by the entity",
+    "optionC": "Renewable energy purchased through a PPA with explicit RECs",
+    "optionD": "Green-e Energy Certified utility program purchases",
+    "optionE": "The renewable portion of the general electricity grid mix",
+    "answer": "E: The renewable portion of the general electricity grid mix",
+    "explanation": "For all three industries, the standards explicitly state that 'The renewable portion of the electricity grid mix that is outside of the control or influence of the entity is excluded from the scope of renewable energy.' This means companies cannot claim the general renewable portion of the grid mix in their calculations unless they have specifically purchased or contracted for renewable energy.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "561",
+      "579",
+      "586"
+    ],
+    "pairing_explanation": "Technology and communications industries have large impacts through electronic waste, energy consumption, and data privacy issues, making them crucial for sustainability comparisons.",
+    "industries": [
+      "b56-internet-media-and-services",
+      "b58-software-and-it-services",
+      "b59-telecommunication-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When reporting on energy consumption, what unit of measure is commonly required for Internet Media & Services, Software & IT Services, and Telecommunication Services companies?",
+    "optionA": "Kilowatt-hours (kWh)",
+    "optionB": "Megawatt-hours (MWh)",
+    "optionC": "British Thermal Units (BTU)",
+    "optionD": "Gigajoules (GJ)",
+    "optionE": "Therms",
+    "answer": "D: Gigajoules (GJ)",
+    "explanation": "The standards for all three industries specify that total energy consumed should be reported as an aggregate figure in gigajoules (GJ). This ensures consistency and comparability across different types of energy sources and across companies in these sectors.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "560",
+      "578",
+      "585"
+    ],
+    "pairing_explanation": "Technology and communications industries have large impacts through electronic waste, energy consumption, and data privacy issues, making them crucial for sustainability comparisons.",
+    "industries": [
+      "b56-internet-media-and-services",
+      "b58-software-and-it-services",
+      "b59-telecommunication-services"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the IFRS sustainability reporting requirements differ between Internet Media & Services and Telecommunication Services industries regarding the disclosure of business continuity risks?",
+    "optionA": "Only Internet Media & Services companies must disclose this information",
+    "optionB": "Only Telecommunication Services companies must disclose this information",
+    "optionC": "Internet Media & Services focus on data center risks, while Telecommunication Services focus on network infrastructure risks",
+    "optionD": "Both industries have identical requirements for disclosing business continuity risks",
+    "optionE": "Neither industry is required to disclose business continuity risks",
+    "answer": "C: Internet Media & Services focus on data center risks, while Telecommunication Services focus on network infrastructure risks",
+    "explanation": "While both industries are required to discuss business continuity risks, the focus differs. Internet Media & Services companies are specifically required to discuss 'the integration of environmental considerations into strategic planning for data center needs' (TC-IM-130a.3). In contrast, Telecommunication Services companies must discuss 'business continuity risks associated with technology disruptions affecting operations,' with a focus on network infrastructure and service interruptions (TC-TL-550a.2).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "563",
+      "588"
+    ],
+    "pairing_explanation": "Technology and communications industries have large impacts through electronic waste, energy consumption, and data privacy issues, making them crucial for sustainability comparisons.",
+    "industries": [
+      "b56-internet-media-and-services",
+      "b58-software-and-it-services",
+      "b59-telecommunication-services"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "In terms of activity metrics, what key difference exists between Software & IT Services and Telecommunication Services industries?",
+    "optionA": "Only Software & IT Services report on data processing capacity",
+    "optionB": "Only Telecommunication Services report on network traffic",
+    "optionC": "Software & IT Services report on subscriptions, while Telecommunication Services do not",
+    "optionD": "Telecommunication Services report on data storage, while Software & IT Services do not",
+    "optionE": "There are no differences in activity metrics between these industries",
+    "answer": "B: Only Telecommunication Services report on network traffic",
+    "explanation": "A key difference in activity metrics is that Telecommunication Services companies are required to report on 'Network traffic' in Petabytes (TC-TL-000.D), while this is not a required metric for Software & IT Services companies. Both industries report on data processing capacity and data storage, but the specific subscriber metrics differ, with Telecommunication Services focusing on wireless, wireline, and broadband subscribers.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "576",
+      "584"
+    ],
+    "pairing_explanation": "Technology and communications industries have large impacts through electronic waste, energy consumption, and data privacy issues, making them crucial for sustainability comparisons.",
+    "industries": [
+      "b56-internet-media-and-services",
+      "b58-software-and-it-services",
+      "b59-telecommunication-services"
+    ]
+  }
+]

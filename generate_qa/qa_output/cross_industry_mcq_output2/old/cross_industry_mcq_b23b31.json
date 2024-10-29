@@ -1,0 +1,142 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "According to IFRS standards, which of the following is a required disclosure for both Meat, Poultry & Dairy and Medical Equipment & Supplies industries regarding their environmental impact management?",
+    "optionA": "Total water withdrawn and consumed",
+    "optionB": "Gross global Scope 1 emissions",
+    "optionC": "Number of processing facilities",
+    "optionD": "Total amount of products accepted for take-back",
+    "optionE": "Discussion of strategies to manage environmental impacts",
+    "answer": "E. Discussion of strategies to manage environmental impacts",
+    "explanation": "Both industries are required to discuss strategies for managing environmental impacts. For Meat, Poultry & Dairy, this includes water management risks and strategies (FB-MP-140a.2). For Medical Equipment & Supplies, this involves discussing processes to assess and manage environmental considerations in product design (HC-MS-410a.1).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies"
+    ],
+    "pages": [
+      "236",
+      "295"
+    ],
+    "pairing_explanation": "Both sectors require intensive resource use and have stringent health and safety standards influencing their sustainability milestones.",
+    "industries": [
+      "b23-meat-poultry-and-dairy",
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When reporting on greenhouse gas (GHG) emissions, what specific disclosure is required for the Meat, Poultry & Dairy industry but not for the Medical Equipment & Supplies industry?",
+    "optionA": "Total energy consumed",
+    "optionB": "Percentage of renewable energy used",
+    "optionC": "Gross global Scope 1 emissions",
+    "optionD": "Carbon offsets purchased",
+    "optionE": "Emissions from product transportation",
+    "answer": "C. Gross global Scope 1 emissions",
+    "explanation": "The Meat, Poultry & Dairy industry is specifically required to disclose gross global Scope 1 emissions (FB-MP-110a.1), while this is not a listed requirement for the Medical Equipment & Supplies industry in the provided standards.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies"
+    ],
+    "pages": [
+      "230",
+      "294-296"
+    ],
+    "pairing_explanation": "Both sectors require intensive resource use and have stringent health and safety standards influencing their sustainability milestones.",
+    "industries": [
+      "b23-meat-poultry-and-dairy",
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of animal feed sourced from water-stressed regions for the Meat, Poultry & Dairy industry, which tool is specifically mentioned for classifying water stress levels?",
+    "optionA": "CDP Water Security Questionnaire",
+    "optionB": "World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "optionC": "UN Global Compact CEO Water Mandate",
+    "optionD": "Global Reporting Initiative (GRI) 303: Water and Effluents",
+    "optionE": "Alliance for Water Stewardship (AWS) Standard",
+    "answer": "B. World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "explanation": "The standard specifically mentions using the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct, to identify locations with High (40-80%) or Extremely High (>80%) Baseline Water Stress for calculating the percentage of animal feed sourced from water-stressed regions (FB-MP-440a.1).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy"
+    ],
+    "pages": [
+      "241"
+    ],
+    "pairing_explanation": "Both sectors require intensive resource use and have stringent health and safety standards influencing their sustainability milestones.",
+    "industries": [
+      "b23-meat-poultry-and-dairy",
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "In the Medical Equipment & Supplies industry, how should companies report on product take-back and reuse according to the IFRS standards?",
+    "optionA": "As a percentage of total products sold",
+    "optionB": "In monetary value of products recovered",
+    "optionC": "By number of units recovered",
+    "optionD": "In metric tons, broken down by devices/equipment and supplies",
+    "optionE": "As a ratio of recovered to discarded products",
+    "answer": "D. In metric tons, broken down by devices/equipment and supplies",
+    "explanation": "The standard requires Medical Equipment & Supplies companies to disclose the total amount of products accepted for take-back and reused, recycled, or donated, measured in metric tons and broken down into (1) devices and equipment and (2) supplies (HC-MS-410a.2).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies"
+    ],
+    "pages": [
+      "296"
+    ],
+    "pairing_explanation": "Both sectors require intensive resource use and have stringent health and safety standards influencing their sustainability milestones.",
+    "industries": [
+      "b23-meat-poultry-and-dairy",
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the IFRS sustainability reporting requirements differ between the Meat, Poultry & Dairy and Medical Equipment & Supplies industries in terms of addressing chemical management?",
+    "optionA": "Only Meat, Poultry & Dairy must report on chemical use in feed",
+    "optionB": "Only Medical Equipment & Supplies must discuss chemical management in products",
+    "optionC": "Both industries must report detailed chemical inventories",
+    "optionD": "Neither industry has specific chemical management reporting requirements",
+    "optionE": "Both industries must report on chemical emissions to air and water",
+    "answer": "B. Only Medical Equipment & Supplies must discuss chemical management in products",
+    "explanation": "The Medical Equipment & Supplies industry is required to discuss processes for assessing and managing environmental and human health considerations associated with chemicals in products (HC-MS-410a.1). The Meat, Poultry & Dairy industry standards do not have a similar specific requirement for chemical management reporting.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies"
+    ],
+    "pages": [
+      "230-242",
+      "295-296"
+    ],
+    "pairing_explanation": "Both sectors require intensive resource use and have stringent health and safety standards influencing their sustainability milestones.",
+    "industries": [
+      "b23-meat-poultry-and-dairy",
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "Which sustainability topic is explicitly addressed in the reporting requirements for the Meat, Poultry & Dairy industry but not for the Medical Equipment & Supplies industry?",
+    "optionA": "Energy management",
+    "optionB": "Product design",
+    "optionC": "Water management",
+    "optionD": "Waste reduction",
+    "optionE": "Supply chain management",
+    "answer": "C. Water management",
+    "explanation": "Water management is a specific sustainability disclosure topic for the Meat, Poultry & Dairy industry, with multiple metrics addressing water withdrawal, consumption, and management risks (FB-MP-140a.1, FB-MP-140a.2, FB-MP-140a.3). The Medical Equipment & Supplies industry requirements do not explicitly address water management as a separate topic.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies"
+    ],
+    "pages": [
+      "235-238",
+      "294-296"
+    ],
+    "pairing_explanation": "Both sectors require intensive resource use and have stringent health and safety standards influencing their sustainability milestones.",
+    "industries": [
+      "b23-meat-poultry-and-dairy",
+      "b31-medical-equipment-and-supplies"
+    ]
+  }
+]

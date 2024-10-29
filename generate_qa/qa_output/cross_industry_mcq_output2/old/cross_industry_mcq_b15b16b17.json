@@ -1,0 +1,152 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "According to IFRS standards, which of the following metrics is specifically required for Asset Management & Custody Activities companies but not for Commercial Banks when reporting on incorporation of ESG factors?",
+    "optionA": "Description of proxy voting policies",
+    "optionB": "Amount of assets under management by asset class",
+    "optionC": "Probable Maximum Loss (PML) from weather-related events",
+    "optionD": "Net premiums written for energy efficiency policies",
+    "optionE": "Gross exposure to carbon-related industries",
+    "answer": "A. Description of proxy voting policies",
+    "explanation": "Asset Management & Custody Activities companies are specifically required to disclose their approach to proxy voting and investee engagement (FN-AC-410a.3), which includes a description of proxy voting policies. This is not a requirement for Commercial Banks. Both industries have requirements related to ESG incorporation, but the specific metrics differ based on the nature of their businesses.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Asset Management & Custody Activities",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Commercial Banks"
+    ],
+    "pages": [
+      "135-140",
+      "158-163"
+    ],
+    "pairing_explanation": "Financials industries play crucial roles in the allocation of capital and risk management, and their investments and policies can significantly influence sustainability outcomes.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b16-commercial-banks",
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When reporting on transition risk exposure, which of the following is required for both Insurance companies and Commercial Banks according to IFRS standards?",
+    "optionA": "Disclosure of Scope 3 emissions for investment portfolios",
+    "optionB": "Description of climate-related scenarios used in risk assessment",
+    "optionC": "Percentage of gross exposure included in financed emissions calculations",
+    "optionD": "Amount of premiums written for low-carbon technologies",
+    "optionE": "Number of policies incorporating ESG clauses",
+    "answer": "C. Percentage of gross exposure included in financed emissions calculations",
+    "explanation": "Both Insurance companies and Commercial Banks are required to disclose the percentage of gross exposure included in their financed emissions calculations (FN-IN-2 for Insurance and FN-CB-2 for Commercial Banks). This metric helps assess the completeness of their financed emissions reporting and is crucial for understanding their transition risk exposure.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Insurance",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Commercial Banks"
+    ],
+    "pages": [
+      "169-170",
+      "158-160"
+    ],
+    "pairing_explanation": "Financials industries play crucial roles in the allocation of capital and risk management, and their investments and policies can significantly influence sustainability outcomes.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b16-commercial-banks",
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating financed emissions for Asset Management & Custody Activities and Insurance companies, which of the following is a key difference in the required metrics?",
+    "optionA": "Asset Managers report on AUM, while Insurers report on gross exposure",
+    "optionB": "Asset Managers exclude Scope 3 emissions, while Insurers include them",
+    "optionC": "Asset Managers report emissions intensity, while Insurers only report absolute emissions",
+    "optionD": "Asset Managers use GICS classification, while Insurers use their own industry categories",
+    "optionE": "Asset Managers report at the portfolio level, while Insurers report at the individual policy level",
+    "answer": "A. Asset Managers report on AUM, while Insurers report on gross exposure",
+    "explanation": "A key difference in the financed emissions calculation metrics is that Asset Management & Custody Activities companies report on Assets Under Management (AUM) (FN-AC-2, FN-AC-3), while Insurance companies report on gross exposure (FN-IN-1, FN-IN-3). This reflects the different nature of their businesses and how they engage with the assets they manage or insure.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Asset Management & Custody Activities",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Insurance"
+    ],
+    "pages": [
+      "136-137",
+      "168-171"
+    ],
+    "pairing_explanation": "Financials industries play crucial roles in the allocation of capital and risk management, and their investments and policies can significantly influence sustainability outcomes.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b16-commercial-banks",
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When reporting on transition risk exposure, how do the requirements for calculating emissions intensity differ between Commercial Banks and Insurance companies?",
+    "optionA": "Banks report intensity per dollar of revenue, while Insurers report per unit of economic output",
+    "optionB": "Banks only report Scope 1 and 2 intensities, while Insurers report all three scopes",
+    "optionC": "Banks report intensity at the portfolio level, while Insurers report at the individual policy level",
+    "optionD": "Banks use a different base year for calculations than Insurers",
+    "optionE": "There is no significant difference in the emissions intensity calculation requirements",
+    "answer": "E. There is no significant difference in the emissions intensity calculation requirements",
+    "explanation": "There is no significant difference in the emissions intensity calculation requirements for Commercial Banks and Insurance companies when reporting on transition risk exposure. Both are required to disclose gross emissions intensity by Scope 1, 2, and 3 emissions for each industry by asset class (FN-CB-4 for Banks, FN-IN-4 for Insurers). The metrics are defined similarly for both industries, reflecting a consistent approach to assessing transition risk across these financial sectors.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Commercial Banks",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Insurance"
+    ],
+    "pages": [
+      "161-162",
+      "171-173"
+    ],
+    "pairing_explanation": "Financials industries play crucial roles in the allocation of capital and risk management, and their investments and policies can significantly influence sustainability outcomes.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b16-commercial-banks",
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How does the approach to incorporating environmental risks differ between Insurance companies and Commercial Banks in their underwriting and credit analysis processes?",
+    "optionA": "Insurance companies focus on physical risks, while banks focus on transition risks",
+    "optionB": "Banks consider ESG factors in credit analysis, while insurers do not in underwriting",
+    "optionC": "Insurers use catastrophe modeling, while banks rely solely on traditional credit metrics",
+    "optionD": "Banks incorporate environmental risks at the portfolio level, while insurers focus on individual contracts",
+    "optionE": "Insurers consider both individual contracts and firm-level risks, while banks focus primarily on firm-level risks",
+    "answer": "E. Insurers consider both individual contracts and firm-level risks, while banks focus primarily on firm-level risks",
+    "explanation": "Insurance companies are required to describe their approach to incorporating environmental risks into both (1) the underwriting process for individual contracts and (2) the management of firm-level risks and capital adequacy (FN-IN-450a.3). In contrast, Commercial Banks are required to describe their approach to incorporating ESG factors in credit analysis (FN-CB-410a.2), which primarily focuses on firm-level risks. This difference reflects the distinct nature of insurance underwriting versus bank lending practices.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Insurance",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Commercial Banks"
+    ],
+    "pages": [
+      "165-168",
+      "158-160"
+    ],
+    "pairing_explanation": "Financials industries play crucial roles in the allocation of capital and risk management, and their investments and policies can significantly influence sustainability outcomes.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b16-commercial-banks",
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing Asset Management & Custody Activities with Insurance companies, which of the following statements is true regarding their approach to incentivizing responsible behavior through their products or services?",
+    "optionA": "Both industries are required to report on products that incentivize health and safety",
+    "optionB": "Asset Managers focus on proxy voting, while Insurers focus on policy features",
+    "optionC": "Insurers must report on premiums for energy efficiency, while Asset Managers do not have a similar requirement",
+    "optionD": "Asset Managers report on ESG-themed funds, while Insurers have no product-related ESG disclosures",
+    "optionE": "Both industries have identical requirements for reporting on ESG-related product features",
+    "answer": "B. Asset Managers focus on proxy voting, while Insurers focus on policy features",
+    "explanation": "Asset Management & Custody Activities companies are required to describe their proxy voting and investee engagement policies (FN-AC-410a.3), which is a way they can influence responsible behavior in their investees. Insurance companies, on the other hand, are required to discuss products and product features that incentivize health, safety, and environmentally responsible actions or behaviors (FN-IN-410b.2). This difference reflects the distinct ways these industries can influence sustainability outcomes through their core business activities.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Asset Management & Custody Activities",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Insurance"
+    ],
+    "pages": [
+      "138-140",
+      "161-163"
+    ],
+    "pairing_explanation": "Financials industries play crucial roles in the allocation of capital and risk management, and their investments and policies can significantly influence sustainability outcomes.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b16-commercial-banks",
+      "b17-insurance"
+    ]
+  }
+]

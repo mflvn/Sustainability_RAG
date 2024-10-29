@@ -1,0 +1,167 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When calculating the percentage of water utility revenues from rate structures designed to promote conservation and revenue resilience, which of the following rate structures should be excluded?",
+    "optionA": "Revenue decoupled rate structures",
+    "optionB": "Lost revenue adjustment mechanisms (LRAM)",
+    "optionC": "Straight fixed-variable rate design without conservation mechanisms",
+    "optionD": "Rate structures with explicit conservation incentives",
+    "optionE": "All rate structures approved by regulatory bodies",
+    "answer": "C. Straight fixed-variable rate design without conservation mechanisms",
+    "reference": "IFRS S2 Climate-related Disclosures",
+    "page": "414-415",
+    "industries": [
+      "b39-water-utilities-and-services"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing the volume of recycled water delivered to customers, which of the following definitions should be used for recycled water?",
+    "optionA": "Any water that has been used more than once",
+    "optionB": "Water treated to remove all contaminants",
+    "optionC": "Wastewater treated to meet specific quality criteria for intended uses",
+    "optionD": "Rainwater collected and distributed without treatment",
+    "optionE": "Desalinated seawater",
+    "answer": "C. Wastewater treated to meet specific quality criteria for intended uses",
+    "reference": "IFRS S2 Climate-related Disclosures",
+    "page": "419",
+    "industries": [
+      "b39-water-utilities-and-services"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When reporting on wastewater treatment capacity located in flood zones, which definition should be used for '100-year flood zones'?",
+    "optionA": "Areas that flood every 100 years",
+    "optionB": "Land areas with a 1% or greater chance of flooding in any given year",
+    "optionC": "Regions that have experienced flooding in the past century",
+    "optionD": "Coastal areas below sea level",
+    "optionE": "Zones designated as high-risk by local authorities",
+    "answer": "B. Land areas with a 1% or greater chance of flooding in any given year",
+    "reference": "IFRS S2 Climate-related Disclosures",
+    "page": "422",
+    "industries": [
+      "b39-water-utilities-and-services"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing information about unplanned service disruptions, how should a company define a 'scheduled disruption' if local regulations do not provide a definition?",
+    "optionA": "Any disruption lasting less than 1 hour",
+    "optionB": "Disruptions occurring during off-peak hours",
+    "optionC": "Disruptions announced on the company website",
+    "optionD": "A disruption for which the entity has provided a minimum of 24 hours advance notification",
+    "optionE": "Any disruption that does not affect more than 100 customers",
+    "answer": "D. A disruption for which the entity has provided a minimum of 24 hours advance notification",
+    "reference": "IFRS S2 Climate-related Disclosures",
+    "page": "424",
+    "industries": [
+      "b39-water-utilities-and-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When reporting on customer water savings from efficiency measures, how should a company calculate water savings if state or local regulations do not exist?",
+    "optionA": "Use the net savings approach only",
+    "optionB": "Estimate based on historical data",
+    "optionC": "Use the company's internal calculation method",
+    "optionD": "Follow the Efficiency Valuation Organization's International Performance Measurement and Verification Protocol",
+    "optionE": "Use the average savings reported by other companies in the same region",
+    "answer": "D. Follow the Efficiency Valuation Organization's International Performance Measurement and Verification Protocol",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "416",
+    "industries": [
+      "b39-water-utilities-and-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When disclosing the total water sourced from regions with High or Extremely High Baseline Water Stress, which tool should be used to classify water stress levels?",
+    "optionA": "The company's internal water stress assessment tool",
+    "optionB": "United Nations Water Scarcity Index",
+    "optionC": "World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "optionD": "OECD Water Stress Indicator",
+    "optionE": "Global Water Tool by World Business Council for Sustainable Development",
+    "answer": "C. World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "418-419",
+    "industries": [
+      "b39-water-utilities-and-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When reporting on sanitary sewer overflows (SSOs), how should a company calculate the percentage of SSO volume recovered if regulations do not require reporting?",
+    "optionA": "Use only the measured volume method",
+    "optionB": "Use only the visual estimation method",
+    "optionC": "Average the results from all available calculation methods",
+    "optionD": "Use either the measured volume method or visual estimation method",
+    "optionE": "Assume 50% recovery for all SSOs",
+    "answer": "D. Use either the measured volume method or visual estimation method",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "423",
+    "industries": [
+      "b39-water-utilities-and-services"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When preparing a sustainability report for a water utility company, what is considered the most significant challenge in reporting energy management data according to the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Calculating the total energy consumed",
+    "optionB": "Determining the percentage of grid electricity used",
+    "optionC": "Measuring the percentage of renewable energy consumed",
+    "optionD": "Disclosing energy data for wastewater operations",
+    "optionE": "Reporting energy consumption in gigajoules",
+    "answer": "C: Measuring the percentage of renewable energy consumed",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Water Utilities & Services",
+    "page": "409-411",
+    "industries": [
+      "b39-water-utilities-and-services"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "In preparing a sustainability report for a water utility, what is the primary challenge when disclosing information about distribution network efficiency?",
+    "optionA": "Calculating the total length of water mains",
+    "optionB": "Determining the water main replacement rate",
+    "optionC": "Measuring the volume of non-revenue real water losses",
+    "optionD": "Describing the use of planned and corrective maintenance",
+    "optionE": "Reporting the number of pipe repairs",
+    "answer": "D: Describing the use of planned and corrective maintenance",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Water Utilities & Services",
+    "page": "412-413",
+    "industries": [
+      "b39-water-utilities-and-services"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What is the most challenging aspect of reporting on end-use efficiency for a water utility company's sustainability report?",
+    "optionA": "Calculating total water utility revenues",
+    "optionB": "Determining the percentage of revenues from conservation-promoting rate structures",
+    "optionC": "Measuring customer water savings in cubic meters",
+    "optionD": "Describing regulatory requirements for efficiency measures",
+    "optionE": "Reporting on the number of customers served",
+    "answer": "B: Determining the percentage of revenues from conservation-promoting rate structures",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Water Utilities & Services",
+    "page": "414-417",
+    "industries": [
+      "b39-water-utilities-and-services"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When reporting on network resiliency and impacts of climate change, what is the most complex aspect for a water utility to address in its sustainability report?",
+    "optionA": "Calculating the number of unplanned service disruptions",
+    "optionB": "Measuring wastewater treatment capacity in flood zones",
+    "optionC": "Reporting the volume of sanitary sewer overflows",
+    "optionD": "Counting the number of customers affected by disruptions",
+    "optionE": "Describing efforts to manage risks related to climate change impacts on infrastructure",
+    "answer": "E: Describing efforts to manage risks related to climate change impacts on infrastructure",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Water Utilities & Services",
+    "page": "422-425",
+    "industries": [
+      "b39-water-utilities-and-services"
+    ]
+  }
+]

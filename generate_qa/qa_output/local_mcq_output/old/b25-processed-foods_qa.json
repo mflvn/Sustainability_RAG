@@ -1,0 +1,362 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the three components of the energy management metric FB-PF-130a.1 for the Processed Foods industry?",
+    "optionA": "Total energy consumed, percentage of coal energy, percentage of nuclear energy",
+    "optionB": "Total energy produced, percentage of solar energy, percentage of wind energy",
+    "optionC": "Total energy consumed, percentage grid electricity, percentage renewable",
+    "optionD": "Total energy exported, percentage of hydroelectric energy, percentage of geothermal energy",
+    "optionE": "Total energy saved, percentage of biomass energy, percentage of tidal energy",
+    "answer": "C. Total energy consumed, percentage grid electricity, percentage renewable",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods",
+    "page": "259",
+    "industries": [
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the water management metric FB-PF-140a.1, how is water consumption defined in the Processed Foods industry?",
+    "optionA": "Water that is used for irrigation purposes only",
+    "optionB": "Water that is recycled and reused within the facility",
+    "optionC": "Water that evaporates during withdrawal, usage, and discharge; is incorporated into products; or does not return to the same catchment area",
+    "optionD": "Water that is purchased from municipal sources",
+    "optionE": "Water that is used for cleaning and sanitation processes",
+    "answer": "C. Water that evaporates during withdrawal, usage, and discharge; is incorporated into products; or does not return to the same catchment area",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods",
+    "page": "261-262",
+    "industries": [
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What tool is used to classify regions with High or Extremely High Baseline Water Stress in the Processed Foods industry?",
+    "optionA": "United Nations Water Scarcity Index",
+    "optionB": "World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "optionC": "Food and Agriculture Organization's (FAO) AQUASTAT",
+    "optionD": "World Bank's Water Stress Indicator",
+    "optionE": "Environmental Protection Agency's (EPA) WaterSense Program",
+    "answer": "B. World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods",
+    "page": "262",
+    "industries": [
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "In the context of supplier audits for social and environmental responsibility, how is a major non-conformance defined in the Processed Foods industry?",
+    "optionA": "A minor issue that can be easily corrected",
+    "optionB": "An isolated incident with low risk to workers or the environment",
+    "optionC": "The highest severity of non-conformance requiring escalation by auditors, including issues like underage workers or immediate danger to life",
+    "optionD": "A systemic issue that doesn't pose immediate risks",
+    "optionE": "Any non-compliance with local regulations",
+    "answer": "C. The highest severity of non-conformance requiring escalation by auditors, including issues like underage workers or immediate danger to life",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods",
+    "page": "266-267",
+    "industries": [
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might a processed foods company's strategy to mitigate water management risks be connected to its approach for sourcing priority food ingredients?",
+    "optionA": "By focusing solely on reducing water consumption in its own facilities",
+    "optionB": "By ignoring water stress in supplier regions and prioritizing cost-effectiveness",
+    "optionC": "By considering water stress in supplier regions and diversifying suppliers to mitigate risks",
+    "optionD": "By increasing water usage to improve product quality",
+    "optionE": "By relocating all production facilities to water-abundant regions",
+    "answer": "C: By considering water stress in supplier regions and diversifying suppliers to mitigate risks",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods",
+    "page": "262-269",
+    "industries": [
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might a processed foods company's efforts to address environmental and social impacts in its ingredient supply chain relate to its water management and energy consumption strategies?",
+    "optionA": "These aspects are completely unrelated and should be managed separately",
+    "optionB": "By focusing solely on reducing costs in the supply chain",
+    "optionC": "By implementing an integrated approach that considers supplier certifications, water stress in sourcing regions, and energy efficiency throughout the supply chain",
+    "optionD": "By prioritizing social impacts over environmental concerns",
+    "optionE": "By outsourcing all sustainability efforts to third-party organizations",
+    "answer": "C: By implementing an integrated approach that considers supplier certifications, water stress in sourcing regions, and energy efficiency throughout the supply chain",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods",
+    "page": "259-269",
+    "industries": [
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is the significance of 'Baseline Water Stress' in the context of ingredient sourcing for processed foods companies?",
+    "optionA": "It refers to the percentage of rainfall in a region",
+    "optionB": "It indicates the level of water pollution in sourcing areas",
+    "optionC": "It measures the ratio of total water withdrawals to available renewable surface and groundwater supplies",
+    "optionD": "It represents the amount of water used in food processing",
+    "optionE": "It is a measure of water quality in food ingredients",
+    "answer": "C. It measures the ratio of total water withdrawals to available renewable surface and groundwater supplies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "261-262",
+    "industries": [
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What does the term 'renewable energy' encompass in the context of energy management for processed foods companies?",
+    "optionA": "Only solar and wind energy",
+    "optionB": "Any energy source that is not fossil fuel-based",
+    "optionC": "Energy from sources replenished at a rate greater than or equal to their depletion rate, including geothermal, wind, solar, hydro, and biomass",
+    "optionD": "Electricity purchased from the grid",
+    "optionE": "Energy generated from nuclear power plants",
+    "answer": "C. Energy from sources replenished at a rate greater than or equal to their depletion rate, including geothermal, wind, solar, hydro, and biomass",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "259-260",
+    "industries": [
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "In the context of food ingredient sourcing, what are 'priority food ingredients' for processed foods companies?",
+    "optionA": "Ingredients with the lowest cost",
+    "optionB": "Organic certified ingredients only",
+    "optionC": "Ingredients sourced from local suppliers",
+    "optionD": "Ingredients that constitute the largest expense and/or those identified as essential or having significant environmental or social risks",
+    "optionE": "Ingredients with the longest shelf life",
+    "answer": "D. Ingredients that constitute the largest expense and/or those identified as essential or having significant environmental or social risks",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "268-269",
+    "industries": [
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is the 'Bonsucro' certification in the context of food ingredient sourcing for processed foods companies?",
+    "optionA": "A certification for sustainable rice production",
+    "optionB": "A certification for sustainable sugar production",
+    "optionC": "A certification for sustainable palm oil production",
+    "optionD": "A certification for sustainable soy production",
+    "optionE": "A certification for sustainable coffee production",
+    "answer": "B: A certification for sustainable sugar production",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods",
+    "page": "265-266",
+    "industries": [
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might climate change impact the Processed Foods industry's ability to source ingredients?",
+    "optionA": "It will have no significant impact on ingredient sourcing",
+    "optionB": "It may lead to increased price volatility and supply disruptions",
+    "optionC": "It will only affect tropical ingredient sourcing",
+    "optionD": "It will improve the availability of all ingredients",
+    "optionE": "It will only impact organic ingredient sourcing",
+    "answer": "B. It may lead to increased price volatility and supply disruptions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods",
+    "page": "268",
+    "industries": [
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "What is the significance of water management for companies in the Processed Foods industry?",
+    "optionA": "It only affects the taste of final products",
+    "optionB": "It's mainly important for marketing purposes",
+    "optionC": "It's critical for cooking, processing, cleaning, and managing operational risks",
+    "optionD": "It only matters in drought-prone regions",
+    "optionE": "It's irrelevant to the industry's operations",
+    "answer": "C. It's critical for cooking, processing, cleaning, and managing operational risks",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods",
+    "page": "261",
+    "industries": [
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How can processed foods companies mitigate risks associated with volatile energy costs?",
+    "optionA": "By increasing product prices",
+    "optionB": "By reducing production volume",
+    "optionC": "By diversifying their energy portfolio and improving energy efficiency",
+    "optionD": "By outsourcing all energy-intensive processes",
+    "optionE": "By lobbying for lower energy taxes",
+    "answer": "C. By diversifying their energy portfolio and improving energy efficiency",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods",
+    "page": "259",
+    "industries": [
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "Why is supplier engagement important for processed foods companies in managing environmental and social risks?",
+    "optionA": "It's only important for public relations",
+    "optionB": "It helps in reducing production costs",
+    "optionC": "It improves supply chain resiliency and mitigates reputational risks",
+    "optionD": "It's mandated by government regulations",
+    "optionE": "It only matters for organic product lines",
+    "answer": "C. It improves supply chain resiliency and mitigates reputational risks",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods",
+    "page": "265",
+    "industries": [
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What specific disclosure is required for companies in the Processed Foods industry regarding their water consumption in water-stressed regions?",
+    "optionA": "Total water withdrawn globally",
+    "optionB": "Percentage of water recycled",
+    "optionC": "Water quality metrics",
+    "optionD": "Percentage of water consumed in regions with High or Extremely High Baseline Water Stress",
+    "optionE": "Annual water reduction targets",
+    "answer": "D. Percentage of water consumed in regions with High or Extremely High Baseline Water Stress",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods",
+    "page": "261-262",
+    "industries": [
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the disclosure requirements, how should a processed foods company calculate the percentage of food ingredients certified to third-party environmental and/or social standards?",
+    "optionA": "By volume of ingredients purchased",
+    "optionB": "By number of suppliers certified",
+    "optionC": "By cost of food ingredients purchased from certified Tier 1 suppliers divided by total cost of food ingredients purchased",
+    "optionD": "By weight of certified ingredients",
+    "optionE": "By number of certifications obtained",
+    "answer": "C. By cost of food ingredients purchased from certified Tier 1 suppliers divided by total cost of food ingredients purchased",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods",
+    "page": "265-266",
+    "industries": [
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the required timeframe for completing a corrective action in response to a non-conformance identified during a supplier's social and environmental responsibility audit?",
+    "optionA": "30 days",
+    "optionB": "60 days",
+    "optionC": "90 days",
+    "optionD": "120 days",
+    "optionE": "180 days",
+    "answer": "C. 90 days",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods",
+    "page": "267",
+    "industries": [
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the IFRS S2 Climate-related Disclosures, what specific information must a processed foods company disclose regarding its energy consumption from renewable sources?",
+    "optionA": "Only the total amount of renewable energy consumed",
+    "optionB": "The percentage of renewable energy consumed and its sources",
+    "optionC": "The percentage of renewable energy consumed, including specific eligibility criteria for biomass sources",
+    "optionD": "The total amount of renewable energy produced on-site",
+    "optionE": "The cost savings from using renewable energy sources",
+    "answer": "C. The percentage of renewable energy consumed, including specific eligibility criteria for biomass sources",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods",
+    "page": "259-260",
+    "industries": [
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might a processed foods company's approach to water management in water-stressed regions impact its long-term operational resilience and stakeholder relationships?",
+    "optionA": "It would only affect short-term profitability with no long-term consequences",
+    "optionB": "It could lead to improved operational efficiency and stronger community relations, enhancing long-term resilience",
+    "optionC": "It would have no impact on stakeholder relationships or operational resilience",
+    "optionD": "It would only impact the company's public image without affecting operations",
+    "optionE": "It would solely influence regulatory compliance without other significant effects",
+    "answer": "B. It could lead to improved operational efficiency and stronger community relations, enhancing long-term resilience",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods",
+    "page": "261-264",
+    "industries": [
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "What potential strategic advantages could a processed foods company gain by increasing its sourcing of ingredients certified to third-party environmental and social standards?",
+    "optionA": "It would only increase costs without any strategic benefits",
+    "optionB": "It would solely improve the company's public image",
+    "optionC": "It could enhance supply chain resilience, mitigate reputational risks, and potentially capture new market opportunities",
+    "optionD": "It would only affect the company's relationship with suppliers",
+    "optionE": "It would exclusively impact the company's regulatory compliance status",
+    "answer": "C. It could enhance supply chain resilience, mitigate reputational risks, and potentially capture new market opportunities",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods",
+    "page": "265-266",
+    "industries": [
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following food safety certifications is NOT mentioned as an example of third-party environmental and social standards in the document?",
+    "optionA": "Bonsucro",
+    "optionB": "Fairtrade International",
+    "optionC": "Rainforest Alliance",
+    "optionD": "USDA Organic",
+    "optionE": "Global Food Safety Initiative (GFSI)",
+    "answer": "E. Global Food Safety Initiative (GFSI)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods",
+    "page": "265-266",
+    "industries": [
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following metrics is NOT included in the 'Water Management' topic for processed foods companies?",
+    "optionA": "Total water withdrawn",
+    "optionB": "Total water consumed",
+    "optionC": "Number of incidents of non-compliance with water permits",
+    "optionD": "Description of water management risks",
+    "optionE": "Water recycling rate",
+    "answer": "E. Water recycling rate",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods",
+    "page": "261-264",
+    "industries": [
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a component of the energy management disclosure for processed foods companies?",
+    "optionA": "Total energy consumed",
+    "optionB": "Percentage of grid electricity",
+    "optionC": "Percentage of renewable energy",
+    "optionD": "Energy intensity per unit of production",
+    "optionE": "Use of higher heating values (HHV) for fuel calculations",
+    "answer": "D. Energy intensity per unit of production",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods",
+    "page": "259-260",
+    "industries": [
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following supplier audit aspects is NOT explicitly required to be disclosed by processed foods companies according to the document?",
+    "optionA": "Non-conformance rate for major issues",
+    "optionB": "Non-conformance rate for minor issues",
+    "optionC": "Corrective action rate for major non-conformances",
+    "optionD": "Corrective action rate for minor non-conformances",
+    "optionE": "Percentage of suppliers that have undergone audits",
+    "answer": "E. Percentage of suppliers that have undergone audits",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods",
+    "page": "266-267",
+    "industries": [
+      "b25-processed-foods"
+    ]
+  }
+]

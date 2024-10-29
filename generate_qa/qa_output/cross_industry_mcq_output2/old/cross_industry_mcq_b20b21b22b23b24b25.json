@@ -1,0 +1,178 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When reporting on water management for the Agricultural Products, Alcoholic Beverages, and Non-Alcoholic Beverages industries, which of the following is NOT a required disclosure under IFRS S2?",
+    "optionA": "Total water withdrawn",
+    "optionB": "Total water consumed",
+    "optionC": "Percentage of water withdrawn in regions with High or Extremely High Baseline Water Stress",
+    "optionD": "Percentage of water consumed in regions with High or Extremely High Baseline Water Stress",
+    "optionE": "Water recycling rate",
+    "answer": "E. Water recycling rate",
+    "explanation": "The IFRS S2 standard requires companies in these industries to disclose total water withdrawn, total water consumed, and the percentages of each in regions with High or Extremely High Baseline Water Stress. Water recycling rate is not a required disclosure under this standard for these industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages"
+    ],
+    "pages": [
+      "196-197",
+      "249-250",
+      "249-250"
+    ],
+    "pairing_explanation": "These industries are interconnected within the food supply chain. Their sustainability practices are relevant in addressing environmental impacts, food safety, and ethical sourcing, ultimately influencing consumer health and environmental sustainability.",
+    "industries": [
+      "b20-agricultural-products",
+      "b21-alcoholic-beverages",
+      "b22-food-retailers-and-distributors",
+      "b23-meat-poultry-and-dairy",
+      "b24-non-alcoholic-beverages",
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "For the Meat, Poultry & Dairy industry, which additional water management metric is required that is not explicitly required for the Agricultural Products, Alcoholic Beverages, or Non-Alcoholic Beverages industries?",
+    "optionA": "Water consumption intensity",
+    "optionB": "Wastewater treatment efficiency",
+    "optionC": "Number of incidents of non-compliance with water quality permits, standards, and regulations",
+    "optionD": "Percentage of facilities located in water-stressed regions",
+    "optionE": "Volume of water reused in operations",
+    "answer": "C. Number of incidents of non-compliance with water quality permits, standards, and regulations",
+    "explanation": "The Meat, Poultry & Dairy industry is specifically required to report on the number of incidents of non-compliance with water quality permits, standards, and regulations (FB-MP-140a.3). This metric is not explicitly required for the Agricultural Products, Alcoholic Beverages, or Non-Alcoholic Beverages industries under IFRS S2.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages"
+    ],
+    "pages": [
+      "238",
+      "196-199",
+      "249-252",
+      "249-252"
+    ],
+    "pairing_explanation": "These industries are interconnected within the food supply chain. Their sustainability practices are relevant in addressing environmental impacts, food safety, and ethical sourcing, ultimately influencing consumer health and environmental sustainability.",
+    "industries": [
+      "b20-agricultural-products",
+      "b21-alcoholic-beverages",
+      "b22-food-retailers-and-distributors",
+      "b23-meat-poultry-and-dairy",
+      "b24-non-alcoholic-beverages",
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "A company operates in both the Alcoholic Beverages and Non-Alcoholic Beverages industries. When calculating the percentage of beverage ingredients sourced from regions with High or Extremely High Baseline Water Stress, what is the correct denominator to use?",
+    "optionA": "Total volume of beverage ingredients sourced",
+    "optionB": "Total weight of beverage ingredients sourced",
+    "optionC": "Total number of beverage ingredients sourced",
+    "optionD": "Total cost of beverage ingredients purchased from Tier 1 suppliers",
+    "optionE": "Total revenue from beverage sales",
+    "answer": "D. Total cost of beverage ingredients purchased from Tier 1 suppliers",
+    "explanation": "For both the Alcoholic Beverages and Non-Alcoholic Beverages industries, the percentage of beverage ingredients sourced from regions with High or Extremely High Baseline Water Stress is calculated using the cost of ingredients. The denominator should be the total cost of beverage ingredients purchased from Tier 1 suppliers.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages"
+    ],
+    "pages": [
+      "255",
+      "255"
+    ],
+    "pairing_explanation": "These industries are interconnected within the food supply chain. Their sustainability practices are relevant in addressing environmental impacts, food safety, and ethical sourcing, ultimately influencing consumer health and environmental sustainability.",
+    "industries": [
+      "b20-agricultural-products",
+      "b21-alcoholic-beverages",
+      "b22-food-retailers-and-distributors",
+      "b23-meat-poultry-and-dairy",
+      "b24-non-alcoholic-beverages",
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "A company in the Food Retailers & Distributors industry is preparing its sustainability report. When calculating the percentage of revenue from eggs that originated from a cage-free environment, which of the following is the correct method?",
+    "optionA": "Number of cage-free eggs sold divided by total number of eggs sold",
+    "optionB": "Weight of cage-free eggs sold divided by total weight of eggs sold",
+    "optionC": "Revenue from cage-free eggs sold divided by total revenue from eggs sold",
+    "optionD": "Cost of cage-free eggs purchased divided by total cost of eggs purchased",
+    "optionE": "Number of cage-free egg suppliers divided by total number of egg suppliers",
+    "answer": "C. Revenue from cage-free eggs sold divided by total revenue from eggs sold",
+    "explanation": "According to the IFRS S2 standard for the Food Retailers & Distributors industry, the percentage of revenue from eggs that originated from a cage-free environment should be calculated as the revenue from cage-free eggs sold divided by the total revenue from eggs sold.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors"
+    ],
+    "pages": [
+      "224"
+    ],
+    "pairing_explanation": "These industries are interconnected within the food supply chain. Their sustainability practices are relevant in addressing environmental impacts, food safety, and ethical sourcing, ultimately influencing consumer health and environmental sustainability.",
+    "industries": [
+      "b20-agricultural-products",
+      "b21-alcoholic-beverages",
+      "b22-food-retailers-and-distributors",
+      "b23-meat-poultry-and-dairy",
+      "b24-non-alcoholic-beverages",
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing the Processed Foods industry with the Agricultural Products industry, which of the following sustainability considerations is more likely to be a direct focus for the Processed Foods industry but not for the Agricultural Products industry?",
+    "optionA": "Water management in agricultural operations",
+    "optionB": "Greenhouse gas emissions from livestock",
+    "optionC": "Soil health and conservation practices",
+    "optionD": "Environmental impact of packaging",
+    "optionE": "Use of genetically modified organisms (GMOs)",
+    "answer": "D. Environmental impact of packaging",
+    "explanation": "The Processed Foods industry is more likely to focus directly on the environmental impact of packaging as part of their sustainability considerations. This is evident in the IFRS S2 requirements for the Processed Foods industry, which include a discussion of strategies to reduce the environmental impact of packaging. The Agricultural Products industry, being primarily focused on raw material production, does not have a specific requirement to address packaging impacts in the same way.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products"
+    ],
+    "pages": [
+      "226-227",
+      "188-202"
+    ],
+    "pairing_explanation": "These industries are interconnected within the food supply chain. Their sustainability practices are relevant in addressing environmental impacts, food safety, and ethical sourcing, ultimately influencing consumer health and environmental sustainability.",
+    "industries": [
+      "b20-agricultural-products",
+      "b21-alcoholic-beverages",
+      "b22-food-retailers-and-distributors",
+      "b23-meat-poultry-and-dairy",
+      "b24-non-alcoholic-beverages",
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When preparing sustainability reports, which of the following metrics is uniquely required for the Meat, Poultry & Dairy industry compared to the Agricultural Products, Alcoholic Beverages, and Non-Alcoholic Beverages industries?",
+    "optionA": "Total energy consumed",
+    "optionB": "Percentage of renewable energy used",
+    "optionC": "Water withdrawal in water-stressed regions",
+    "optionD": "Greenhouse gas emissions",
+    "optionE": "Amount of animal litter and manure generated",
+    "answer": "E. Amount of animal litter and manure generated",
+    "explanation": "The Meat, Poultry & Dairy industry uniquely requires reporting on the amount of animal litter and manure generated, and the percentage managed according to a nutrient management plan (FB-MP-160a.1). This metric is specific to the animal production aspects of this industry and is not required for the Agricultural Products, Alcoholic Beverages, or Non-Alcoholic Beverages industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Meat, Poultry & Dairy",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Agricultural Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Non-Alcoholic Beverages"
+    ],
+    "pages": [
+      "239-240",
+      "188-202",
+      "203-213",
+      "244-256"
+    ],
+    "pairing_explanation": "These industries are interconnected within the food supply chain. Their sustainability practices are relevant in addressing environmental impacts, food safety, and ethical sourcing, ultimately influencing consumer health and environmental sustainability.",
+    "industries": [
+      "b20-agricultural-products",
+      "b21-alcoholic-beverages",
+      "b22-food-retailers-and-distributors",
+      "b23-meat-poultry-and-dairy",
+      "b24-non-alcoholic-beverages",
+      "b25-processed-foods"
+    ]
+  }
+]

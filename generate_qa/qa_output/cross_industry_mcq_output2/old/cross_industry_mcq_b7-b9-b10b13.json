@@ -1,0 +1,171 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When disclosing Scope 1 greenhouse gas emissions for Coal Operations and Iron & Steel Producers, which of the following is NOT a required component according to IFRS S2?",
+    "optionA": "Emissions of all seven GHGs covered under the Kyoto Protocol",
+    "optionB": "Calculation using 100-year time horizon global warming potential (GWP) values",
+    "optionC": "Disclosure of gross emissions before accounting for offsets",
+    "optionD": "Percentage of emissions covered under emissions-limiting regulations",
+    "optionE": "Breakdown of emissions by individual facility locations",
+    "answer": "E. Breakdown of emissions by individual facility locations",
+    "explanation": "While both Coal Operations (EM-CO-110a.1) and Iron & Steel Producers (EM-IS-110a.1) are required to disclose gross global Scope 1 emissions, including all seven Kyoto Protocol GHGs, using 100-year GWP values, and the percentage covered under emissions-limiting regulations, neither standard explicitly requires a breakdown of emissions by individual facility locations. This level of granularity is not mandated in the IFRS S2 requirements for these industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers"
+    ],
+    "pages": [
+      "43",
+      "44",
+      "45",
+      "82",
+      "83",
+      "84"
+    ],
+    "pairing_explanation": "These industries are major contributors to environmental degradation, facing significant regulatory and societal pressure. Comparative sustainability reporting can help assess their environmental footprints, resource usage, and mitigation strategies.",
+    "industries": [
+      "b7-coal-operations",
+      "b9-iron-and-steel-producers",
+      "b10-metals-and-mining",
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "For Metals & Mining and Oil & Gas - Refining & Marketing industries, which water management metric is consistently required by IFRS S2 across both sectors?",
+    "optionA": "Total fresh water withdrawn",
+    "optionB": "Percentage of water recycled",
+    "optionC": "Number of incidents of non-compliance with water quality permits",
+    "optionD": "Total water consumed",
+    "optionE": "Percentage of water withdrawn in regions with High or Extremely High Baseline Water Stress",
+    "answer": "A. Total fresh water withdrawn",
+    "explanation": "Both Metals & Mining (EM-MM-140a.1) and Oil & Gas - Refining & Marketing (EM-RM-140a.1) industries are required to disclose total fresh water withdrawn according to IFRS S2. While other metrics like water recycled or consumed are required for one industry or the other, 'total fresh water withdrawn' is the consistent requirement across both sectors, highlighting its importance in sustainability reporting for water-intensive industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas - Refining & Marketing"
+    ],
+    "pages": [
+      "88",
+      "89",
+      "121",
+      "122"
+    ],
+    "pairing_explanation": "These industries are major contributors to environmental degradation, facing significant regulatory and societal pressure. Comparative sustainability reporting can help assess their environmental footprints, resource usage, and mitigation strategies.",
+    "industries": [
+      "b7-coal-operations",
+      "b9-iron-and-steel-producers",
+      "b10-metals-and-mining",
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of Scope 1 emissions covered under emissions-limiting regulations for Coal Operations and Iron & Steel Producers, which of the following should be excluded?",
+    "optionA": "Emissions covered under the European Union Emissions Trading Scheme (EU ETS)",
+    "optionB": "Emissions subject to the California Cap-and-Trade program",
+    "optionC": "Emissions regulated by the Quebec Cap-and-Trade system",
+    "optionD": "Emissions reported under voluntary trading systems",
+    "optionE": "Emissions subject to multiple emissions-limiting regulations",
+    "answer": "D. Emissions reported under voluntary trading systems",
+    "explanation": "For both Coal Operations (EM-CO-110a.1) and Iron & Steel Producers (EM-IS-110a.1), when calculating the percentage of Scope 1 emissions covered under emissions-limiting regulations, voluntary emissions-limiting regulations should be excluded. The standards specifically state that the scope of emissions-limiting regulations excludes emissions covered under voluntary emissions-limiting regulations, such as voluntary trading systems. Emissions subject to mandatory schemes like EU ETS, California Cap-and-Trade, and Quebec Cap-and-Trade should be included, while ensuring not to double-count emissions subject to multiple regulations.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers"
+    ],
+    "pages": [
+      "44",
+      "45",
+      "83",
+      "84"
+    ],
+    "pairing_explanation": "These industries are major contributors to environmental degradation, facing significant regulatory and societal pressure. Comparative sustainability reporting can help assess their environmental footprints, resource usage, and mitigation strategies.",
+    "industries": [
+      "b7-coal-operations",
+      "b9-iron-and-steel-producers",
+      "b10-metals-and-mining",
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When disclosing energy consumption for Metals & Mining and Oil & Gas - Refining & Marketing industries, which of the following is a required component of calculating the percentage of renewable energy consumed?",
+    "optionA": "Including all grid electricity as renewable energy",
+    "optionB": "Counting purchased renewable energy credits (RECs) without associated electricity",
+    "optionC": "Including renewable energy from biomass sources without certification",
+    "optionD": "Retaining and retiring RECs for on-site generated renewable electricity",
+    "optionE": "Excluding all hydroelectric power regardless of source",
+    "answer": "D. Retaining and retiring RECs for on-site generated renewable electricity",
+    "explanation": "For both Metals & Mining (EM-MM-130a.1) and Oil & Gas - Refining & Marketing (EM-RM-130a.1) industries, when calculating the percentage of renewable energy consumed, the standards require that for any renewable electricity generated on-site, the associated RECs must be retained (not sold) and retired or cancelled on behalf of the entity to claim it as renewable energy. This ensures that the renewable attributes are not double-counted and accurately reflect the entity's renewable energy consumption.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas - Refining & Marketing"
+    ],
+    "pages": [
+      "86",
+      "87",
+      "116",
+      "117"
+    ],
+    "pairing_explanation": "These industries are major contributors to environmental degradation, facing significant regulatory and societal pressure. Comparative sustainability reporting can help assess their environmental footprints, resource usage, and mitigation strategies.",
+    "industries": [
+      "b7-coal-operations",
+      "b9-iron-and-steel-producers",
+      "b10-metals-and-mining",
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the IFRS S2 requirements for disclosing water management metrics differ between the Coal Operations and Iron & Steel Producers industries?",
+    "optionA": "Coal Operations must report total water consumed, while Iron & Steel Producers do not",
+    "optionB": "Iron & Steel Producers must disclose water quality violations, while Coal Operations do not",
+    "optionC": "Coal Operations must report the number of incidents of non-compliance with water quality permits, while Iron & Steel Producers do not",
+    "optionD": "Iron & Steel Producers must report the percentage of water recycled, while Coal Operations do not",
+    "optionE": "There are no significant differences in water management disclosure requirements between these industries",
+    "answer": "C. Coal Operations must report the number of incidents of non-compliance with water quality permits, while Iron & Steel Producers do not",
+    "explanation": "The main difference in water management disclosure requirements between Coal Operations and Iron & Steel Producers is that Coal Operations (EM-CO-140a.2) must report the number of incidents of non-compliance associated with water quality permits, standards, and regulations. This metric is not included in the Iron & Steel Producers' water management disclosures. Both industries are required to report total fresh water withdrawn, percentage recycled, and percentage in regions with High or Extremely High Baseline Water Stress, but the additional compliance metric for Coal Operations reflects the industry-specific water quality concerns associated with coal mining and processing.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Iron & Steel Producers"
+    ],
+    "pages": [
+      "47",
+      "48",
+      "49",
+      "80"
+    ],
+    "pairing_explanation": "These industries are major contributors to environmental degradation, facing significant regulatory and societal pressure. Comparative sustainability reporting can help assess their environmental footprints, resource usage, and mitigation strategies.",
+    "industries": [
+      "b7-coal-operations",
+      "b9-iron-and-steel-producers",
+      "b10-metals-and-mining",
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing the IFRS S2 requirements for Metals & Mining and Oil & Gas - Refining & Marketing industries, which of the following statements is true regarding their respective activity metrics?",
+    "optionA": "Both industries are required to report total number of employees",
+    "optionB": "Metals & Mining must report production of finished metal products, while Oil & Gas - Refining & Marketing reports refining throughput",
+    "optionC": "Oil & Gas - Refining & Marketing must disclose the number of refineries, while Metals & Mining does not have an equivalent metric",
+    "optionD": "Metals & Mining reports total ore processed, while Oil & Gas - Refining & Marketing reports total crude oil refined",
+    "optionE": "Both industries have identical activity metrics with different units of measure",
+    "answer": "B. Metals & Mining must report production of finished metal products, while Oil & Gas - Refining & Marketing reports refining throughput",
+    "explanation": "When comparing the activity metrics for Metals & Mining and Oil & Gas - Refining & Marketing industries, a key difference is in their production reporting. Metals & Mining (EM-MM-000.A) is required to report the production of metal ores and finished metal products in metric tons. In contrast, Oil & Gas - Refining & Marketing (EM-RM-000.A) must report the refining throughput of crude oil and other feedstocks in barrels of oil equivalent (BOE). This difference reflects the distinct nature of their production processes and outputs, highlighting the industry-specific focus of IFRS S2 requirements.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Metals & Mining",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas - Refining & Marketing"
+    ],
+    "pages": [
+      "81",
+      "114",
+      "115"
+    ],
+    "pairing_explanation": "These industries are major contributors to environmental degradation, facing significant regulatory and societal pressure. Comparative sustainability reporting can help assess their environmental footprints, resource usage, and mitigation strategies.",
+    "industries": [
+      "b7-coal-operations",
+      "b9-iron-and-steel-producers",
+      "b10-metals-and-mining",
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  }
+]

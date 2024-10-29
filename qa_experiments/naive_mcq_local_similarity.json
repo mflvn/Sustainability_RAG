@@ -1,0 +1,38 @@
+{
+  "single_hop": {
+    "0": {
+      "similarity_percentage": 1.5873015873015872,
+      "total_questions": 28
+    },
+    "0.2": {
+      "similarity_percentage": 1.6129032258064515,
+      "total_questions": 32
+    },
+    "0.5": {
+      "similarity_percentage": 2.620967741935484,
+      "total_questions": 32
+    },
+    "1": {
+      "similarity_percentage": 0.8064516129032258,
+      "total_questions": 32
+    }
+  },
+  "multi_hop": {
+    "0": {
+      "similarity_percentage": 2.82258064516129,
+      "total_questions": 32
+    },
+    "0.2": {
+      "similarity_percentage": 1.2096774193548387,
+      "total_questions": 32
+    },
+    "0.5": {
+      "similarity_percentage": 0.4032258064516129,
+      "total_questions": 32
+    },
+    "1": {
+      "similarity_percentage": 0.0,
+      "total_questions": 32
+    }
+  }
+}

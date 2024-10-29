@@ -1,0 +1,167 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When reporting on Scope 1 GHG emissions for an oil refinery, which of the following is NOT considered a direct emission source according to the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Stationary equipment at production facilities",
+    "optionB": "Mobile drilling rigs",
+    "optionC": "Marine vessels transporting products",
+    "optionD": "Emissions from purchased electricity",
+    "optionE": "Flaring and venting emissions",
+    "answer": "D. Emissions from purchased electricity",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Refining & Marketing",
+    "page": "116-117",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2, when disclosing the percentage of Scope 1 emissions covered under emissions-limiting regulations, which of the following should NOT be included?",
+    "optionA": "Emissions covered by cap-and-trade schemes",
+    "optionB": "Emissions subject to carbon tax systems",
+    "optionC": "Emissions controlled by permit-based mechanisms",
+    "optionD": "Emissions covered by voluntary trading systems",
+    "optionE": "Emissions subject to command-and-control approaches",
+    "answer": "D. Emissions covered by voluntary trading systems",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Refining & Marketing",
+    "page": "117-118",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When discussing long-term and short-term strategies to manage Scope 1 emissions, which of the following is NOT a required element for disclosure according to IFRS S2?",
+    "optionA": "The scope of the emission reduction target",
+    "optionB": "Whether the target is absolute or intensity-based",
+    "optionC": "The timeline for the reduction activity",
+    "optionD": "The cost savings associated with emission reductions",
+    "optionE": "The mechanism(s) for achieving the target",
+    "answer": "D. The cost savings associated with emission reductions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Refining & Marketing",
+    "page": "118-119",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "In reporting water management metrics for a refinery, how should 'fresh water' be defined according to IFRS S2?",
+    "optionA": "Water with less than 500 parts per million of dissolved solids",
+    "optionB": "Water obtained from any natural source",
+    "optionC": "Water that has been treated in a purification plant",
+    "optionD": "Water with less than 1000 parts per million of dissolved solids, unless otherwise defined by local regulations",
+    "optionE": "Any water that is not seawater",
+    "answer": "D. Water with less than 1000 parts per million of dissolved solids, unless otherwise defined by local regulations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Refining & Marketing",
+    "page": "121",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of recycled water for IFRS S2 reporting, how should a refinery account for water that is reused multiple times?",
+    "optionA": "Count it only once in the total recycled volume",
+    "optionB": "Count it as recycled each time it is reused",
+    "optionC": "Exclude it from the calculation entirely",
+    "optionD": "Average the number of times it is reused",
+    "optionE": "Only count it if it's reused more than three times",
+    "answer": "B. Count it as recycled each time it is reused",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "121",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When determining the total addressable market for advanced biofuels, which of the following is NOT considered an advanced biofuel according to IFRS S2?",
+    "optionA": "Biofuel with 50% lower lifecycle GHG emissions than gasoline",
+    "optionB": "Ethanol derived from cellulosic biomass",
+    "optionC": "Biodiesel produced from algae",
+    "optionD": "Ethanol derived from corn starch (kernels)",
+    "optionE": "Renewable diesel from waste cooking oil",
+    "answer": "D. Ethanol derived from corn starch (kernels)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "122",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the market share for advanced biofuels and associated infrastructure, what formula should be used according to IFRS S2?",
+    "optionA": "Total production capacity / Total addressable market",
+    "optionB": "Number of retail outlets / Total number of fuel stations",
+    "optionC": "Revenues from advanced biofuels / Size of total addressable market",
+    "optionD": "Volume of advanced biofuels sold / Total fuel sales volume",
+    "optionE": "R&D expenses for advanced biofuels / Total R&D budget",
+    "answer": "C. Revenues from advanced biofuels / Size of total addressable market",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "122",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When reporting on water withdrawn from regions with High or Extremely High Baseline Water Stress, which tool should be used to classify water stress levels according to IFRS S2?",
+    "optionA": "UN Water Scarcity Index",
+    "optionB": "World Bank Water Stress Indicator",
+    "optionC": "OECD Water Risk Assessment Tool",
+    "optionD": "World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "optionE": "Global Water Partnership Stress Mapper",
+    "answer": "D. World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "121",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A refining company is struggling to accurately report its Scope 1 GHG emissions due to the complexity of its operations. According to IFRS S2, which of the following is NOT an acceptable calculation methodology for Scope 1 emissions in the Oil & Gas - Refining & Marketing industry?",
+    "optionA": "GHG Reporting Guidance for the Aerospace Industry",
+    "optionB": "Petroleum Industry Guidelines for reporting GHG emissions",
+    "optionC": "ISO 14064-1",
+    "optionD": "The GHG Protocol",
+    "optionE": "IPCC National Greenhouse Gas Inventories Programme",
+    "answer": "E. IPCC National Greenhouse Gas Inventories Programme",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Refining & Marketing",
+    "page": "117",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "An Oil & Gas Refining company is preparing to disclose its GHG emissions reduction targets. Which of the following elements is NOT required to be included in the discussion of emission reduction targets according to IFRS S2?",
+    "optionA": "The scope of the emission reduction target",
+    "optionB": "Whether the target is absolute or intensity-based",
+    "optionC": "The percentage reduction against the base year",
+    "optionD": "The mechanism(s) for achieving the target",
+    "optionE": "The projected financial impact of achieving the target",
+    "answer": "E. The projected financial impact of achieving the target",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Refining & Marketing",
+    "page": "118-119",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A refinery is preparing its sustainability report and needs to disclose its water management practices. According to IFRS S2, which of the following is NOT a required disclosure for the Water Management topic?",
+    "optionA": "Total fresh water withdrawn",
+    "optionB": "Percentage of water recycled",
+    "optionC": "Percentage of water withdrawn from regions with High or Extremely High Baseline Water Stress",
+    "optionD": "Percentage of water consumed in regions with High or Extremely High Baseline Water Stress",
+    "optionE": "Total wastewater generated and treated on-site",
+    "answer": "E. Total wastewater generated and treated on-site",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Refining & Marketing",
+    "page": "121-122",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  }
+]

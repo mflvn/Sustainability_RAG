@@ -1,0 +1,171 @@
+[
+  {
+    "qa_type": "single_hop",
+    "question": "What category of activity metric is used for reporting annual production in the Appliance Manufacturing industry?",
+    "optionA": "Qualitative",
+    "optionB": "Quantitative",
+    "optionC": "Discussion and Analysis",
+    "optionD": "Percentage",
+    "optionE": "n/a",
+    "answer": "B",
+    "reference_text": [
+      "Annual production \u00b2 | Quantitative | Number of units | CG-AM-000.A"
+    ],
+    "pages": [
+      "11"
+    ],
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "For the listed Product Lifecycle Environmental Impacts requirement, what metric should a company in the Appliance Manufacturing industry use for energy efficiency certification?",
+    "optionA": "Percentage of eligible products by revenue",
+    "optionB": "Number of certified products",
+    "optionC": "Total energy savings from certified products",
+    "optionD": "Market share of certified products",
+    "optionE": "Percentage of certified products by cost",
+    "answer": "A",
+    "reference_text": [
+      "Percentage of eligible products by revenue certified to an energy efficiency certification | Quantitative | Percentage (%) by revenue | CG-AM-410a.1"
+    ],
+    "pages": [
+      "11"
+    ],
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What is the code of the metric related to efforts to manage products' end-of-life impacts in the Appliance Manufacturing industry?",
+    "optionA": "CG-AM-410a.1",
+    "optionB": "CG-AM-410a.2",
+    "optionC": "CG-AM-410a.3",
+    "optionD": "CG-AM-000.A",
+    "optionE": "CG-AM-000.B",
+    "answer": "C",
+    "reference_text": [
+      "Description of efforts to manage products' end-of-life impacts | Discussion and Analysis | n/a | CG-AM-410a.3"
+    ],
+    "pages": [
+      "11"
+    ],
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "For the listed requirement on managing products' end-of-life impacts, what does a company in the Appliance Manufacturing industry need to do regarding extended producer responsibility (EPR) initiatives?",
+    "optionA": "Report on EPR initiatives, but not on voluntary measures",
+    "optionB": "Focus solely on product take-back programs",
+    "optionC": "Report on EPR initiatives only if they are profitable",
+    "optionD": "Companies in this industry do not need to report on managing products' end-of-life impacts",
+    "optionE": "Discuss participation in EPR initiatives, including voluntary or mandatory nature and performance measures",
+    "answer": "E",
+    "reference_text": [
+      "The entity shall discuss its participation in extended producer responsibility (EPR) initiatives, including the following aspects:",
+      "4.1    Whether the entity directly conducts product take-back, recovery, and recycling or if the entity supports infrastructure for product recovery and recycling through joint ventures, partnerships with retailers and others, or by funding research into recycling technologies",
+      "4.2    Whether the initiative is voluntary or mandatory (e.g., in order to maintain compliance with EU Directive 2012/19/EU on waste electrical and electronic equipment (WEEE) or the Japan home appliance recycling law)",
+      "4.3    Relevant performance measures or targets for the initiative such as the total amount of material recovered and the total amount of material recycled"
+    ],
+    "pages": [
+      "13",
+      "14"
+    ],
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the category of the 'Percentage of eligible products by revenue certified to an energy efficiency certification' metric in the Appliance Manufacturing industry, and how should this metric be calculated?",
+    "optionA": "Quantitative; Calculate as the revenue from certified products divided by total revenue from all products",
+    "optionB": "Quantitative; Calculate as the revenue from products meeting certification requirements divided by total revenue from eligible products for each certification",
+    "optionC": "Discussion and Analysis; Provide a narrative description of energy efficiency certifications obtained",
+    "optionD": "Qualitative; List all energy efficiency certifications achieved without calculating percentages",
+    "optionE": "Qualitative; List all energy efficiency certifications achieved with narrative descriptions",
+    "answer": "B",
+    "reference_text": [
+      "CG-AM-410a.1. Percentage of eligible products by revenue certified to the an energy efficiency certification",
+      "1 The entity shall disclose the percentage of its revenue from eligible products certified to an energy efficiency certification.",
+      "1.1 The entity shall calculate the percentage as the revenue from products meeting the requirements for the applicable certification divided by total revenue from products eligible for certification by each certification.",
+      "1.1.1 Eligible products are those in a product category for which certification exists, including but not limited to: heating and cooling product categories such as air purifiers, clothes dryers, clothes washers, dehumidifiers, dishwashers, freezers, refrigerators, air conditioning, boilers, ductless heating and cooling, furnaces, heat pumps, and ventilation fans."
+    ],
+    "pages": [
+      "12"
+    ],
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the code of the 'Percentage of eligible products certified to an Association of Home Appliance Manufacturers (AHAM) sustainability standard' metric in the Appliance Manufacturing industry, and how should this metric be disclosed?",
+    "optionA": "CG-AM-410a.1; Disclose the percentage of revenue from all products certified to any sustainability standard",
+    "optionB": "CG-AM-410a.3; Provide a narrative description of AHAM sustainability standards achieved",
+    "optionC": "CG-AM-410a.2; Disclose the percentage of revenue from eligible products certified to AHAM sustainability standards, calculated as certified product revenue divided by total eligible product revenue",
+    "optionD": "CG-AM-000.A; Report the number of units produced that are certified to AHAM sustainability standards",
+    "optionE": "CG-AM-000.C; Report the number of units produced that are certified to AHAM sustainability standards",
+    "answer": "C",
+    "reference_text": [
+      "CG-AM-410a.2. Percentage of eligible products certified to an Association of Home Appliance Manufacturers (AHAM) sustainability standard",
+      "1 The entity shall disclose the percentage of its revenue from eligible products certified to an Association of Home Appliance Manufacturers (AHAM) sustainability standard.",
+      "1.1 Eligible products are those addressed by the scope of an AHAM sustainability standard.",
+      "1.2 The entity shall calculate the percentage as the revenue from products certified to an AHAM sustainability standard divided by total revenue from products eligible for certification to an AHAM sustainability standard."
+    ],
+    "pages": [
+      "13"
+    ],
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "Can you tell me what topics are covered in the 'Product Lifecycle Environmental Impacts' section of the Appliance Manufacturing document and what are the key takeaways I need to know as a company writing my sustainability report in the Appliance Manufacturing industry?",
+    "optionA": "The topic covers energy efficiency certifications only; Key takeaway is to focus on obtaining energy star ratings for all products",
+    "optionB": "The topic covers AHAM sustainability standards only; Key takeaway is to certify all products to AHAM standards",
+    "optionC": "The topic covers energy efficiency, AHAM sustainability standards, and end-of-life impacts; Key takeaways include differentiating products through environmental impact, improving energy and water efficiency, and managing end-of-life disposal",
+    "optionD": "The topic covers production volumes only; Key takeaway is to report annual production numbers for small and major appliances",
+    "optionE": "The topic covers end-of-life impacts only; Key takeaway is to manage end-of-life disposal",
+    "answer": "C",
+    "reference_text": [
+      "# Product Lifecycle Environmental Impacts",
+      "## Topic Summary",
+      "Companies in the Appliance Manufacturing industry are constantly seeking to differentiate their products from those of their competitors. One key differentiating factor is the environmental impact of products over their lifecycle, which is often associated with the cost of using appliances. This issue involves a company's ability to design products with the entire lifecycle in mind, from creation and use to disposal. In particular, this covers energy and water efficiency in appliances, which account for a significant proportion of a home's energy and water use, as well as designing for and facilitating safe end-of-life disposal and recycling. Companies that prioritize designing and manufacturing products with improved environmental impacts are more likely to grow consumer demand and market share. Furthermore, companies that are able to minimize the environmental impacts of products are more likely to be better positioned to increased regulation related to areas such as extended producer responsibility."
+    ],
+    "pages": [
+      "12"
+    ],
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "For the listed 'Description of efforts to manage products' end-of-life impacts' requirement, what metric should a company in the Appliance Manufacturing industry use for extended producer responsibility (EPR) initiatives and how should this metric be disclosed?",
+    "optionA": "Quantitative metric measuring the percentage of products recycled; Disclose as a percentage of total products sold",
+    "optionB": "Financial metric reporting the cost of EPR initiatives; Disclose as a monetary value in the company's reporting currency",
+    "optionC": "Discussion and Analysis; Describe participation in EPR initiatives, including voluntary or mandatory nature, direct product take-back or support for recycling infrastructure, and relevant performance measures or targets",
+    "optionD": "Binary metric indicating presence or absence of EPR program; Disclose as 'Yes' or 'No' without further details",
+    "optionE": "Qualitative metric; listing the EPR initiatives the company is participating in",
+    "answer": "C",
+    "reference_text": [
+      "CG-AM-410a.3. Description of efforts to manage products' end-of-life impacts",
+      "4    The entity shall discuss its participation in extended producer responsibility (EPR) initiatives, including the following aspects:",
+      "4.1    Whether the entity directly conducts product take-back, recovery, and recycling or if the entity supports infrastructure for product recovery and recycling through joint ventures, partnerships with retailers and others, or by funding research into recycling technologies",
+      "4.2    Whether the initiative is voluntary or mandatory (e.g., in order to maintain compliance with EU Directive 2012/19/EU on waste electrical and electronic equipment (WEEE) or the Japan home appliance recycling law)",
+      "4.3    Relevant performance measures or targets for the initiative such as the total amount of material recovered and the total amount of material recycled"
+    ],
+    "pages": [
+      "13",
+      "14"
+    ],
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  }
+]

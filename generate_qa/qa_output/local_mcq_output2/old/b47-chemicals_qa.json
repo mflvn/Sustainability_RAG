@@ -1,0 +1,167 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "What is the correct unit of measure for reporting gross global Scope 1 emissions in the Chemicals industry?",
+    "optionA": "Kilograms (kg) CO2-e",
+    "optionB": "Metric tons (t) CO2-e",
+    "optionC": "Pounds (lbs) CO2-e",
+    "optionD": "Gigagrams (Gg) CO2-e",
+    "optionE": "Short tons CO2-e",
+    "answer": "B. Metric tons (t) CO2-e",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Chemicals",
+    "page": "493",
+    "industries": [
+      "b47-chemicals"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing the percentage of Scope 1 emissions covered under emissions-limiting regulations, which of the following should be excluded?",
+    "optionA": "California Cap-and-Trade",
+    "optionB": "European Union Emissions Trading Scheme (EU ETS)",
+    "optionC": "Quebec Cap-and-Trade",
+    "optionD": "Voluntary emissions-limiting regulations",
+    "optionE": "All emissions-limiting regulations",
+    "answer": "D. Voluntary emissions-limiting regulations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Chemicals",
+    "page": "494-495",
+    "industries": [
+      "b47-chemicals"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "In the context of energy management disclosure for the Chemicals industry, which of the following is NOT a required component of the total energy consumed metric?",
+    "optionA": "Total energy consumed",
+    "optionB": "Percentage grid electricity",
+    "optionC": "Percentage renewable energy",
+    "optionD": "Total self-generated energy",
+    "optionE": "Energy efficiency improvements",
+    "answer": "E. Energy efficiency improvements",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Chemicals",
+    "page": "497-498",
+    "industries": [
+      "b47-chemicals"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing water management risks, which of the following is NOT considered a risk associated with water withdrawals and consumption?",
+    "optionA": "Operating in water-stressed regions",
+    "optionB": "Drought",
+    "optionC": "Volatility in water costs",
+    "optionD": "Stakeholder perceptions related to withdrawals",
+    "optionE": "Water treatment technology failures",
+    "answer": "E. Water treatment technology failures",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Chemicals",
+    "page": "501-502",
+    "industries": [
+      "b47-chemicals"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of renewable energy consumed by a chemical company, which of the following sources should NOT be included?",
+    "optionA": "Renewable fuel directly consumed by the entity",
+    "optionB": "Renewable energy directly produced by the entity",
+    "optionC": "Renewable energy purchased through a PPA with explicit RECs",
+    "optionD": "The renewable portion of the electricity grid mix outside the entity's control",
+    "optionE": "Green-e Energy Certified utility program purchases",
+    "answer": "D. The renewable portion of the electricity grid mix outside the entity's control",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Chemicals",
+    "page": "497-498",
+    "industries": [
+      "b47-chemicals"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "In calculating energy consumption from fuels for a chemical company's sustainability report, which value should be used?",
+    "optionA": "Lower heating values (LHV)",
+    "optionB": "Higher heating values (HHV)",
+    "optionC": "Average of LHV and HHV",
+    "optionD": "Net calorific values (NCV)",
+    "optionE": "Standardized energy content values",
+    "answer": "B. Higher heating values (HHV)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Chemicals",
+    "page": "497",
+    "industries": [
+      "b47-chemicals"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When disclosing water consumption for a chemical company, which of the following is NOT considered as consumed water?",
+    "optionA": "Water that evaporates during usage",
+    "optionB": "Water incorporated into the product",
+    "optionC": "Water returned to a different catchment area",
+    "optionD": "Water that returns to the same catchment area it was withdrawn from",
+    "optionE": "Water that evaporates during discharge",
+    "answer": "D. Water that returns to the same catchment area it was withdrawn from",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Chemicals",
+    "page": "500-501",
+    "industries": [
+      "b47-chemicals"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating revenue from products designed for use-phase resource efficiency in the chemical industry, which of the following products should NOT be included?",
+    "optionA": "Insulation materials that improve energy efficiency",
+    "optionB": "Fuel additives that result in more efficient combustion",
+    "optionC": "Materials that enable vehicle lightweighting",
+    "optionD": "High-albedo paints and coatings",
+    "optionE": "A conventional product that is slightly lighter than its previous version",
+    "answer": "E. A conventional product that is slightly lighter than its previous version",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Chemicals",
+    "page": "504-505",
+    "industries": [
+      "b47-chemicals"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A chemical company is preparing its sustainability report and needs to disclose its Scope 1 GHG emissions. Which of the following gases is NOT required to be included in this disclosure?",
+    "optionA": "Carbon dioxide (CO\u2082)",
+    "optionB": "Methane (CH\u2084)",
+    "optionC": "Nitrous oxide (N\u2082O)",
+    "optionD": "Sulfur dioxide (SO\u2082)",
+    "optionE": "Hydrofluorocarbons (HFCs)",
+    "answer": "D. Sulfur dioxide (SO\u2082)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Chemicals",
+    "page": "493",
+    "industries": [
+      "b47-chemicals"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When discussing long-term and short-term strategies to manage Scope 1 emissions in a chemical company's sustainability report, which of the following is NOT a required element to address?",
+    "optionA": "The scope of the emission reduction target",
+    "optionB": "Whether the target is absolute- or intensity-based",
+    "optionC": "The percentage reduction against the base year",
+    "optionD": "The mechanism(s) for achieving the target",
+    "optionE": "The company's market share in relation to competitors",
+    "answer": "E. The company's market share in relation to competitors",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Chemicals",
+    "page": "495-496",
+    "industries": [
+      "b47-chemicals"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When disclosing strategies to mitigate water management risks in a chemical company's sustainability report, which of the following is NOT considered an appropriate mechanism for achieving water management targets?",
+    "optionA": "Use of water recycling systems",
+    "optionB": "Process innovations to reduce aquatic impingements",
+    "optionC": "Product redesigns to require less water",
+    "optionD": "Collaborations with local communities",
+    "optionE": "Increasing water withdrawals from high-stress regions",
+    "answer": "E. Increasing water withdrawals from high-stress regions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Chemicals",
+    "page": "503",
+    "industries": [
+      "b47-chemicals"
+    ]
+  }
+]

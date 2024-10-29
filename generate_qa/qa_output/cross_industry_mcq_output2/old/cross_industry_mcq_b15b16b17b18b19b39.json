@@ -1,0 +1,165 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "For which of the following industries does IFRS S2 require disclosure of the percentage of total assets under management (AUM) included in the financed emissions calculation?",
+    "optionA": "Asset Management & Custody Activities",
+    "optionB": "Commercial Banks",
+    "optionC": "Insurance",
+    "optionD": "Investment Banking & Brokerage",
+    "optionE": "All of the above",
+    "answer": "E. All of the above",
+    "explanation": "IFRS S2 requires disclosure of the percentage of total AUM included in the financed emissions calculation for Asset Management & Custody Activities (FN-AC-1), Commercial Banks (FN-CB-2), Insurance (FN-IN-2), and Investment Banking & Brokerage (as part of their overall emissions disclosure). This metric is crucial for understanding the scope of an entity's climate-related risk exposure across these financial industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "135",
+      "169",
+      "170",
+      "176"
+    ],
+    "pairing_explanation": "These industries have a crucial role in financing and investing, impacting broader economic activities. Their sustainability practices influence risk management, customer protection, and the allocation of capital toward sustainable projects.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b16-commercial-banks",
+      "b17-insurance",
+      "b18-investment-banking-and-brokerage",
+      "b19-mortgage-finance",
+      "b39-water-utilities-and-services"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "Which of the following industries is required to disclose the 'Volume of recycled water delivered to customers' according to IFRS S2?",
+    "optionA": "Asset Management & Custody Activities",
+    "optionB": "Commercial Banks",
+    "optionC": "Insurance",
+    "optionD": "Water Utilities & Services",
+    "optionE": "Mortgage Finance",
+    "answer": "D. Water Utilities & Services",
+    "explanation": "IFRS S2 requires Water Utilities & Services to disclose the 'Volume of recycled water delivered to customers' under metric IF-WU-440a.2. This disclosure is specific to the water industry and reflects the importance of water recycling and conservation in sustainability reporting for water utilities.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "419"
+    ],
+    "pairing_explanation": "These industries have a crucial role in financing and investing, impacting broader economic activities. Their sustainability practices influence risk management, customer protection, and the allocation of capital toward sustainable projects.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b16-commercial-banks",
+      "b17-insurance",
+      "b18-investment-banking-and-brokerage",
+      "b19-mortgage-finance",
+      "b39-water-utilities-and-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating financed emissions for the Insurance industry, which of the following is NOT included in the definition of 'gross exposure'?",
+    "optionA": "Funded carrying amounts",
+    "optionB": "Full amount of undrawn loan commitments",
+    "optionC": "Contractual amounts for derivatives with gross cash flows",
+    "optionD": "Net amounts for derivatives with net cash flows",
+    "optionE": "Insurance policy premiums",
+    "answer": "E. Insurance policy premiums",
+    "explanation": "For the Insurance industry, the calculation of gross exposure for financed emissions includes funded carrying amounts, undrawn loan commitments, and both gross and net amounts for derivatives. Insurance policy premiums are not specifically included in this calculation of gross exposure for financed emissions.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "169",
+      "170"
+    ],
+    "pairing_explanation": "These industries have a crucial role in financing and investing, impacting broader economic activities. Their sustainability practices influence risk management, customer protection, and the allocation of capital toward sustainable projects.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b16-commercial-banks",
+      "b17-insurance",
+      "b18-investment-banking-and-brokerage",
+      "b19-mortgage-finance",
+      "b39-water-utilities-and-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "In the Water Utilities & Services industry, how is the 'water main replacement rate' calculated according to IFRS S2?",
+    "optionA": "Total length of pipe replaced during reporting period / Total length of distribution system",
+    "optionB": "Total length of pipe replaced during reporting period / Total length of water mains in distribution system",
+    "optionC": "Number of pipes replaced / Total number of pipes in distribution system",
+    "optionD": "Cost of pipe replacement / Total value of distribution system",
+    "optionE": "Volume of water saved through replacements / Total water volume distributed",
+    "answer": "B. Total length of pipe replaced during reporting period / Total length of water mains in distribution system",
+    "explanation": "According to IFRS S2, the water main replacement rate for Water Utilities & Services is calculated as the total length of pipe replaced during the reporting period divided by the total length of water mains in its distribution system. This metric helps assess the utility's efforts in maintaining and upgrading its infrastructure.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "412",
+      "413"
+    ],
+    "pairing_explanation": "These industries have a crucial role in financing and investing, impacting broader economic activities. Their sustainability practices influence risk management, customer protection, and the allocation of capital toward sustainable projects.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b16-commercial-banks",
+      "b17-insurance",
+      "b18-investment-banking-and-brokerage",
+      "b19-mortgage-finance",
+      "b39-water-utilities-and-services"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "Which of the following sustainability disclosure topics is common to both the Asset Management & Custody Activities and Investment Banking & Brokerage industries?",
+    "optionA": "Incorporation of Environmental, Social, and Governance Factors in Investment Management",
+    "optionB": "Transition Risk Exposure",
+    "optionC": "Environmental Risk to Mortgaged Properties",
+    "optionD": "Network Resiliency & Impacts of Climate Change",
+    "optionE": "Distribution Network Efficiency",
+    "answer": "B. Transition Risk Exposure",
+    "explanation": "Both Asset Management & Custody Activities and Investment Banking & Brokerage industries have 'Transition Risk Exposure' as a common sustainability disclosure topic in IFRS S2. This reflects the importance of assessing and disclosing risks related to the transition to a low-carbon economy across these financial sectors.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "141",
+      "181"
+    ],
+    "pairing_explanation": "These industries have a crucial role in financing and investing, impacting broader economic activities. Their sustainability practices influence risk management, customer protection, and the allocation of capital toward sustainable projects.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b16-commercial-banks",
+      "b17-insurance",
+      "b18-investment-banking-and-brokerage",
+      "b19-mortgage-finance",
+      "b39-water-utilities-and-services"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "In contrast to the financial industries (Asset Management, Commercial Banks, Insurance, and Investment Banking), which unique sustainability topic does the Water Utilities & Services industry address in its IFRS S2 disclosures?",
+    "optionA": "Incorporation of ESG Factors in Credit Analysis",
+    "optionB": "Facilitated Emissions",
+    "optionC": "End-Use Efficiency",
+    "optionD": "Transition Risk Exposure",
+    "optionE": "Environmental Risk to Mortgaged Properties",
+    "answer": "C. End-Use Efficiency",
+    "explanation": "The Water Utilities & Services industry uniquely addresses 'End-Use Efficiency' as a sustainability topic in its IFRS S2 disclosures. This topic focuses on how utilities work with regulators to promote water conservation and ensure revenue resilience, which is specific to the water industry and not applicable to the financial industries mentioned.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B"
+    ],
+    "pages": [
+      "414",
+      "415"
+    ],
+    "pairing_explanation": "These industries have a crucial role in financing and investing, impacting broader economic activities. Their sustainability practices influence risk management, customer protection, and the allocation of capital toward sustainable projects.",
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b16-commercial-banks",
+      "b17-insurance",
+      "b18-investment-banking-and-brokerage",
+      "b19-mortgage-finance",
+      "b39-water-utilities-and-services"
+    ]
+  }
+]

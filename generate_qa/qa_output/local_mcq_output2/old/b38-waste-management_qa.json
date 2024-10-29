@@ -1,0 +1,167 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When reporting on Scope 1 emissions for a waste management company, which of the following greenhouse gases should be included?",
+    "optionA": "Only carbon dioxide (CO\u2082) and methane (CH\u2084)",
+    "optionB": "Carbon dioxide (CO\u2082), methane (CH\u2084), and nitrous oxide (N\u2082O) only",
+    "optionC": "The six gases covered under the Kyoto Protocol",
+    "optionD": "Only the gases directly related to landfill operations",
+    "optionE": "All seven GHGs covered under the Kyoto Protocol",
+    "answer": "E. All seven GHGs covered under the Kyoto Protocol",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Waste Management",
+    "page": "399",
+    "industries": [
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When calculating the percentage of Scope 1 emissions covered under emissions-limiting regulations, how should a waste management company handle emissions subject to multiple regulations?",
+    "optionA": "Add the percentages for each regulation",
+    "optionB": "Use the highest percentage among the applicable regulations",
+    "optionC": "Calculate an average of the percentages",
+    "optionD": "Account for those emissions only once",
+    "optionE": "Exclude those emissions from the calculation",
+    "answer": "D. Account for those emissions only once",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Waste Management",
+    "page": "400-401",
+    "industries": [
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "In discussing the long-term and short-term strategy to manage Scope 1 and lifecycle emissions, which of the following is NOT a relevant aspect for a waste management company to address?",
+    "optionA": "Trade-offs between lifecycle emissions and Scope 1 emissions",
+    "optionB": "Impact of waste-to-energy operations on emissions",
+    "optionC": "Prioritization of short-term Scope 1 vs long-term lifecycle emissions management",
+    "optionD": "How emissions management factors into business strategy and capital expenditure",
+    "optionE": "Detailed financial projections for the next fiscal year",
+    "answer": "E. Detailed financial projections for the next fiscal year",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Waste Management",
+    "page": "402-403",
+    "industries": [
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing the percentage of fleet fuel consumed that is renewable, what is the correct approach for a waste management company?",
+    "optionA": "Include all biofuels regardless of their lifecycle GHG emissions",
+    "optionB": "Only include fuels certified by a national renewable energy program",
+    "optionC": "Include fuels that replace fossil fuels and have net lifecycle GHG emissions reduction",
+    "optionD": "Exclude all fuels derived from biomass",
+    "optionE": "Only include electricity used in electric vehicles",
+    "answer": "C. Include fuels that replace fossil fuels and have net lifecycle GHG emissions reduction",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Waste Management",
+    "page": "405-406",
+    "industries": [
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the total landfill gas generated for IF-WM-110a.2, which of the following is NOT included in the definition of landfill gas?",
+    "optionA": "Gas produced from anaerobic decomposition of waste materials",
+    "optionB": "Gas collected through capture systems",
+    "optionC": "Gas that is flared through air injection",
+    "optionD": "Gas produced from aerobic decomposition of waste materials",
+    "optionE": "Gas used for on-site energy production",
+    "answer": "D. Gas produced from aerobic decomposition of waste materials",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "401-402",
+    "industries": [
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating Scope 1 emissions for IF-WM-110a.1, which of the following greenhouse gases should NOT be included?",
+    "optionA": "Carbon dioxide (CO\u2082)",
+    "optionB": "Methane (CH\u2084)",
+    "optionC": "Nitrous oxide (N\u2082O)",
+    "optionD": "Sulfur hexafluoride (SF\u2086)",
+    "optionE": "Ozone (O\u2083)",
+    "answer": "E. Ozone (O\u2083)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "399-400",
+    "industries": [
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "For IF-WM-110b.2, how should a waste management company determine the percentage of alternative fuel vehicles in its fleet?",
+    "optionA": "Total fuel consumption of alternative fuel vehicles / Total fleet fuel consumption",
+    "optionB": "Number of alternative fuel vehicles / Total number of vehicles in fleet",
+    "optionC": "Miles driven by alternative fuel vehicles / Total miles driven by fleet",
+    "optionD": "Cost of alternative fuel vehicles / Total cost of fleet vehicles",
+    "optionE": "CO2 emissions from alternative fuel vehicles / Total CO2 emissions from fleet",
+    "answer": "B. Number of alternative fuel vehicles / Total number of vehicles in fleet",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "406",
+    "industries": [
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When disclosing the percentage of landfill gas flared (IF-WM-110a.2), a waste management company is unsure about the definition of flared gas. Which of the following is correctly included in the definition of flared landfill gas?",
+    "optionA": "Gas used for on-site energy production",
+    "optionB": "Gas conveyed through pipelines for off-site combustion",
+    "optionC": "Gas combusted through an open flame with uncontrolled ambient air",
+    "optionD": "Gas used in vehicles as an alternative fuel",
+    "optionE": "Gas stored in pressurized containers for future use",
+    "answer": "C. Gas combusted through an open flame with uncontrolled ambient air",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Waste Management",
+    "page": "401-402",
+    "industries": [
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A waste management company is struggling to calculate its fleet fuel consumption for sustainability reporting. According to IF-WM-110b.1, which of the following is NOT an acceptable calculation methodology for fuel consumed?",
+    "optionA": "Adding fuel purchases to beginning inventory, less ending inventory",
+    "optionB": "Tracking fuel consumed by vehicle",
+    "optionC": "Tracking fuel expenses",
+    "optionD": "Using manufacturer-provided fuel efficiency ratings",
+    "optionE": "Measuring actual fuel consumed through fuel tank sensors",
+    "answer": "D. Using manufacturer-provided fuel efficiency ratings",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Waste Management",
+    "page": "405-406",
+    "industries": [
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A waste management company is preparing to disclose its emission reduction targets. Which of the following elements is NOT required to be included in the discussion of these targets according to IF-WM-110a.3?",
+    "optionA": "The scope of the emission reduction target",
+    "optionB": "Whether the target is absolute- or intensity-based",
+    "optionC": "The percentage reduction against the base year",
+    "optionD": "The timelines for the reduction activity",
+    "optionE": "The projected cost savings from achieving the target",
+    "answer": "E. The projected cost savings from achieving the target",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Waste Management",
+    "page": "403-404",
+    "industries": [
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A waste management company is evaluating the trade-offs between lifecycle emissions and Scope 1 emissions for its sustainability report. According to IF-WM-110a.3, which of the following aspects should NOT be discussed when addressing this challenge?",
+    "optionA": "The impact of waste-to-energy operations on lifecycle emissions versus Scope 1 emissions",
+    "optionB": "How trade-offs between lifecycle and Scope 1 emissions are evaluated within the context of the entity's business strategy",
+    "optionC": "The extent to which these trade-offs factor into the entity's capital expenditure strategy",
+    "optionD": "Whether short-term management of Scope 1 emissions or long-term management of lifecycle emissions is prioritized",
+    "optionE": "The specific brands of equipment used in waste-to-energy facilities",
+    "answer": "E. The specific brands of equipment used in waste-to-energy facilities",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "402-403",
+    "industries": [
+      "b38-waste-management"
+    ]
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are two factors that may impact growth in the Medical Equipment & Supplies industry?",
+    "optionA": "Increased prevalence of diseases associated with unhealthy lifestyles",
+    "optionB": "Declining population in developed countries",
+    "optionC": "Reduction in government insurance programs",
+    "optionD": "Decreased demand for specialized equipment",
+    "optionE": "A. Increased prevalence of diseases associated with unhealthy lifestyles and an aging population",
+    "answer": "E. A. Increased prevalence of diseases associated with unhealthy lifestyles and an aging population",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies",
+    "page": "294",
+    "industries": [
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the industry description, what factor may result in downward pricing pressure for medical equipment and supplies?",
+    "optionA": "Increased competition from emerging markets",
+    "optionB": "Rising costs of raw materials",
+    "optionC": "Extension of government insurance programs",
+    "optionD": "Declining demand for medical products",
+    "optionE": "Expansion of private health insurance",
+    "answer": "C. Extension of government insurance programs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies",
+    "page": "294",
+    "industries": [
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are companies in the Medical Equipment & Supplies industry required to disclose regarding their product design considerations?",
+    "optionA": "The cost of implementing environmental considerations",
+    "optionB": "The number of employees involved in sustainable product design",
+    "optionC": "The percentage of products, by revenue, that have integrated environmental considerations into the design",
+    "optionD": "The names of suppliers providing eco-friendly materials",
+    "optionE": "The projected sales increase due to sustainable product features",
+    "answer": "C. The percentage of products, by revenue, that have integrated environmental considerations into the design",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies",
+    "page": "296",
+    "industries": [
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "How should companies in the Medical Equipment & Supplies industry report the amount of products accepted for take-back and reused, recycled, or donated?",
+    "optionA": "As a percentage of total products sold",
+    "optionB": "In units of currency (e.g., dollars)",
+    "optionC": "By number of individual items",
+    "optionD": "In metric tons, broken down into (1) devices and equipment and (2) supplies",
+    "optionE": "As a ratio of take-back products to new products manufactured",
+    "answer": "D. In metric tons, broken down into (1) devices and equipment and (2) supplies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies",
+    "page": "296",
+    "industries": [
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might a company in the Medical Equipment & Supplies industry demonstrate its commitment to addressing environmental and human health impacts while also meeting consumer demand for sustainable products?",
+    "optionA": "By focusing solely on energy efficiency of products during use",
+    "optionB": "By implementing product take-back programs and using restricted substances lists",
+    "optionC": "By increasing product packaging to protect against environmental damage",
+    "optionD": "By prioritizing low-cost production methods over environmental considerations",
+    "optionE": "By outsourcing all sustainability efforts to third-party organizations",
+    "answer": "B. By implementing product take-back programs and using restricted substances lists",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies",
+    "page": "295-296",
+    "industries": [
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How can a company in this industry demonstrate a comprehensive approach to product lifecycle management while adhering to sustainability disclosure requirements?",
+    "optionA": "By focusing solely on product packaging improvements",
+    "optionB": "By disclosing only the financial aspects of product design",
+    "optionC": "By implementing take-back programs for devices and supplies, and discussing environmental considerations in product design",
+    "optionD": "By prioritizing short-term profits over long-term sustainability goals",
+    "optionE": "By outsourcing all product design to third-party manufacturers",
+    "answer": "C. By implementing take-back programs for devices and supplies, and discussing environmental considerations in product design",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies",
+    "page": "295-296",
+    "industries": [
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "What combination of factors should a company in this industry consider to align with sustainability disclosure requirements while addressing market dynamics?",
+    "optionA": "Focus only on emerging markets and ignore environmental concerns",
+    "optionB": "Prioritize cost reduction and ignore product lifecycle management",
+    "optionC": "Balance product innovation, environmental considerations, and market expansion strategies",
+    "optionD": "Emphasize only high-end medical equipment and ignore disposable supplies",
+    "optionE": "Concentrate solely on domestic markets and ignore global trends",
+    "answer": "C. Balance product innovation, environmental considerations, and market expansion strategies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies",
+    "page": "294-296",
+    "industries": [
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might a company in the Medical Equipment & Supplies industry demonstrate compliance with sustainability disclosure requirements while also addressing potential market challenges mentioned in the industry description?",
+    "optionA": "By focusing solely on expanding into emerging markets",
+    "optionB": "By prioritizing the development of high-cost specialized equipment",
+    "optionC": "By implementing product take-back programs and designing for energy efficiency to meet sustainability requirements, while also innovating to address diseases associated with aging populations",
+    "optionD": "By reducing research and development efforts to cut costs",
+    "optionE": "By ignoring sustainability requirements and focusing only on market expansion",
+    "answer": "C. By implementing product take-back programs and designing for energy efficiency to meet sustainability requirements, while also innovating to address diseases associated with aging populations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies",
+    "page": "294, 295, 296",
+    "industries": [
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What does the term 'restricted substances list (RSL)' refer to in the context of medical equipment and supplies manufacturing?",
+    "optionA": "A list of materials that are in short supply for manufacturing",
+    "optionB": "A catalog of substances that require special handling during shipping",
+    "optionC": "A compilation of chemicals and materials limited or prohibited in product manufacturing due to environmental or health concerns",
+    "optionD": "A list of substances that enhance product performance",
+    "optionE": "A inventory of materials that are exempt from regulatory oversight",
+    "answer": "C. A compilation of chemicals and materials limited or prohibited in product manufacturing due to environmental or health concerns",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies",
+    "page": "296",
+    "industries": [
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "In the context of product lifecycle management, what does 'material efficiency' refer to?",
+    "optionA": "The speed at which materials can be processed in manufacturing",
+    "optionB": "The cost-effectiveness of materials used in production",
+    "optionC": "The durability of materials used in medical equipment",
+    "optionD": "The optimal use of resources to minimize waste and environmental impact in product design and manufacturing",
+    "optionE": "The ability of materials to withstand sterilization processes",
+    "answer": "D. The optimal use of resources to minimize waste and environmental impact in product design and manufacturing",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies",
+    "page": "295",
+    "industries": [
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is meant by 'product take-back' in the medical equipment and supplies industry?",
+    "optionA": "A warranty program for defective products",
+    "optionB": "A system where companies accept used products for reuse, recycling, or proper disposal",
+    "optionC": "A marketing strategy to encourage repeat purchases",
+    "optionD": "A method of tracking product usage in hospitals",
+    "optionE": "A program to replace outdated equipment with newer models",
+    "answer": "B. A system where companies accept used products for reuse, recycling, or proper disposal",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies",
+    "page": "296",
+    "industries": [
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "How does the industry standard define 'devices and equipment' in the context of product take-back and recycling?",
+    "optionA": "Any medical product that requires electricity to operate",
+    "optionB": "Disposable items used in medical procedures",
+    "optionC": "Products that can be sterilized and reused",
+    "optionD": "High-value machines and advanced devices",
+    "optionE": "Items that are used exclusively in surgical settings",
+    "answer": "D. High-value machines and advanced devices",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies",
+    "page": "296",
+    "industries": [
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might the aging population impact the Medical Equipment & Supplies industry according to the industry description?",
+    "optionA": "It may lead to decreased demand for medical equipment",
+    "optionB": "It may result in more focus on pediatric supplies",
+    "optionC": "It may contribute to industry growth",
+    "optionD": "It may cause a shift towards more cosmetic medical devices",
+    "optionE": "It may have no significant impact on the industry",
+    "answer": "C. It may contribute to industry growth",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies",
+    "page": "294",
+    "industries": [
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "What potential challenge does the industry face regarding pricing, as mentioned in the industry description?",
+    "optionA": "Increased demand leading to higher prices",
+    "optionB": "Fluctuating raw material costs",
+    "optionC": "Currency exchange rate volatility",
+    "optionD": "Downward pricing pressure due to various factors",
+    "optionE": "Price fixing investigations",
+    "answer": "D. Downward pricing pressure due to various factors",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies",
+    "page": "294",
+    "industries": [
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "According to the topic summary, how can companies in this industry be better positioned to meet consumer demand and reduce future liabilities?",
+    "optionA": "By focusing solely on product innovation",
+    "optionB": "By reducing production costs at all costs",
+    "optionC": "By addressing environmental concerns and enhancing product take-back",
+    "optionD": "By increasing marketing budgets",
+    "optionE": "By outsourcing all manufacturing processes",
+    "answer": "C. By addressing environmental concerns and enhancing product take-back",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies",
+    "page": "295",
+    "industries": [
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "In the context of product design and lifecycle management, what does the standard require companies to disclose regarding environmental considerations?",
+    "optionA": "The cost of implementing environmental considerations",
+    "optionB": "The percentage of products, by revenue, integrating environmental considerations",
+    "optionC": "The number of employees involved in environmental design",
+    "optionD": "The years spent on developing environmental considerations",
+    "optionE": "The number of patents related to environmental considerations",
+    "answer": "B. The percentage of products, by revenue, integrating environmental considerations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies",
+    "page": "296",
+    "industries": [
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What specific environmental and human health impacts should a medical equipment company address in its strategic approach to product design?",
+    "optionA": "Only energy efficiency of products during use",
+    "optionB": "Only disposal of products and material efficiency",
+    "optionC": "Only product packaging and toxicity of materials",
+    "optionD": "Energy efficiency, disposal, material efficiency, packaging, and toxicity of materials",
+    "optionE": "Only water consumption and waste generation",
+    "answer": "D: Energy efficiency, disposal, material efficiency, packaging, and toxicity of materials",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies",
+    "page": "295",
+    "industries": [
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the standard, how should a company determine if a product design consideration delivers a specific, demonstrable environmental benefit?",
+    "optionA": "By conducting market research",
+    "optionB": "By making a determination in good faith and clarifying whether the benefit relates to the product, package, or service",
+    "optionC": "By comparing with competitors' products",
+    "optionD": "By seeking approval from environmental agencies",
+    "optionE": "By only considering benefits during the manufacturing process",
+    "answer": "B: By making a determination in good faith and clarifying whether the benefit relates to the product, package, or service",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies",
+    "page": "295-296",
+    "industries": [
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "When disclosing the amount of products accepted for take-back, how should a company categorize the recovered items according to the standard?",
+    "optionA": "By weight and volume",
+    "optionB": "By manufacturing date and expiration date",
+    "optionC": "By customer type and geographic region",
+    "optionD": "By (1) devices and equipment and (2) supplies",
+    "optionE": "By recycled, reused, and discarded",
+    "answer": "D: By (1) devices and equipment and (2) supplies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies",
+    "page": "296",
+    "industries": [
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the IFRS S2 Climate-related Disclosures, what information must a medical equipment company provide when discussing its process to assess and manage environmental and human health considerations associated with chemicals in products?",
+    "optionA": "Only the energy efficiency of products during use",
+    "optionB": "The percentage of revenue from environmentally friendly products",
+    "optionC": "The specific environmental benefits and lifecycle stages considered, implementation mechanisms, and percentage of products incorporating these considerations",
+    "optionD": "The number of products accepted for take-back and recycled",
+    "optionE": "The total amount of packaging materials used in product manufacturing",
+    "answer": "C. The specific environmental benefits and lifecycle stages considered, implementation mechanisms, and percentage of products incorporating these considerations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies",
+    "page": "295-296",
+    "industries": [
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "In what ways could a medical equipment company's approach to product lifecycle management impact its competitive position in the market?",
+    "optionA": "It would have no significant impact on market position",
+    "optionB": "It would only affect the company's short-term profitability",
+    "optionC": "It could enhance brand reputation, meet consumer demand, and reduce future liabilities",
+    "optionD": "It would only be relevant for companies operating in developed markets",
+    "optionE": "It would primarily impact the company's relationship with suppliers",
+    "answer": "C. It could enhance brand reputation, meet consumer demand, and reduce future liabilities",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies",
+    "page": "295",
+    "industries": [
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the requirement to disclose the percentage of products with integrated environmental considerations affect a company's product development strategy?",
+    "optionA": "It would have no impact on product development strategy",
+    "optionB": "It would lead to abandoning all environmentally harmful products",
+    "optionC": "It might encourage a shift towards more sustainable design across the product portfolio",
+    "optionD": "It would only affect the packaging of products",
+    "optionE": "It would result in outsourcing all product development",
+    "answer": "C. It might encourage a shift towards more sustainable design across the product portfolio",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies",
+    "page": "296",
+    "industries": [
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How could the implementation of product take-back programs influence a medical equipment company's relationship with its customers and its overall business model?",
+    "optionA": "It would have no effect on customer relationships or business model",
+    "optionB": "It would only increase operational costs without any benefits",
+    "optionC": "It might lead to a shift towards a more circular economy model and improved customer loyalty",
+    "optionD": "It would exclusively benefit the company's shareholders",
+    "optionE": "It would result in the company focusing solely on disposable products",
+    "answer": "C. It might lead to a shift towards a more circular economy model and improved customer loyalty",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies",
+    "page": "296",
+    "industries": [
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following aspects is NOT mentioned as part of the strategic approach to addressing environmental and human health impacts of products?",
+    "optionA": "Energy efficiency of products during use",
+    "optionB": "Disposal of the products",
+    "optionC": "Material efficiency",
+    "optionD": "Product packaging",
+    "optionE": "Carbon footprint during manufacturing",
+    "answer": "E. Carbon footprint during manufacturing",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies",
+    "page": "295",
+    "industries": [
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as an environmental benefit to be considered in product design?",
+    "optionA": "Energy consumption",
+    "optionB": "Environmental health",
+    "optionC": "Human health",
+    "optionD": "Waste generation",
+    "optionE": "Biodegradability",
+    "answer": "E. Biodegradability",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies",
+    "page": "295",
+    "industries": [
+      "b31-medical-equipment-and-supplies"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT included in the breakdown of products accepted for take-back and reused, recycled, or donated?",
+    "optionA": "Devices",
+    "optionB": "Equipment",
+    "optionC": "Supplies",
+    "optionD": "Packaging materials",
+    "optionE": "Simple supplies",
+    "answer": "D. Packaging materials",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Medical Equipment & Supplies",
+    "page": "296",
+    "industries": [
+      "b31-medical-equipment-and-supplies"
+    ]
+  }
+]

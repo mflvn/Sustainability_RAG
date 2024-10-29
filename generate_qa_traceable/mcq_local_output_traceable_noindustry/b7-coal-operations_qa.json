@@ -1,0 +1,171 @@
+[
+  {
+    "qa_type": "single_hop",
+    "question": "What is the code for the metric 'Production of thermal coal' in the Coal Operations industry?",
+    "optionA": "EM-CO-000.A",
+    "optionB": "EM-CO-000.B",
+    "optionC": "EM-CO-110a.1",
+    "optionD": "EM-CO-140a.1",
+    "optionE": "EM-CO-140b.1",
+    "answer": "A. EM-CO-000.A",
+    "reference_text": [
+      "Production of thermal coal | Quantitative | Million metric tons (Mt) | EM-CO-000.A"
+    ],
+    "pages": [
+      "42"
+    ],
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What is the unit of measure for the 'Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations' metric in the Coal Operations industry (as listed in the relevant table)?",
+    "optionA": "Metric tons (t) CO\u2082-e",
+    "optionB": "Percentage (%)",
+    "optionC": "Metric tons (t) CO\u2082-e, Percentage (%)",
+    "optionD": "Million metric tons (Mt)",
+    "optionE": "n/a",
+    "answer": "C. Metric tons (t) CO\u2082-e, Percentage (%)",
+    "reference_text": [
+      "Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%) | EM-CO-110a.1"
+    ],
+    "pages": [
+      "43"
+    ],
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "On what page can I find details about the 'Water Management' topic for the Coal Operations industry?",
+    "optionA": "Page 43",
+    "optionB": "Page 45",
+    "optionC": "Page 44",
+    "optionD": "Page 49",
+    "optionE": "Page 47",
+    "answer": "E. Page 47",
+    "reference_text": [
+      "# Water Management"
+    ],
+    "pages": [
+      "47"
+    ],
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "For the listed water management requirement, what does a company in the Coal Operations industry need to do regarding water withdrawn in locations with High or Extremely High Baseline Water Stress?",
+    "optionA": "Disclose the total amount of water withdrawn",
+    "optionB": "Disclose the percentage of water recycled",
+    "optionC": "Disclose its water recycled as a percentage of the total water withdrawn",
+    "optionD": "Disclose the number of incidents of non-compliance",
+    "optionE": "Disclose its water withdrawn as a percentage of the total water withdrawn",
+    "answer": "E. Disclose its water withdrawn as a percentage of the total water withdrawn",
+    "reference_text": [
+      "The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn."
+    ],
+    "pages": [
+      "47"
+    ],
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "single_hop",
+    "question": "What formula is used to calculate the EM-CO-420a.2 metric 'Estimated carbon dioxide emissions embedded in proven coal reserves' in the Coal Operations industry?",
+    "optionA": "E = R \u00d7 V \u00d7 C, where: E are the potential emissions in kilograms of carbon dioxide (kg CO2); R are the proven reserves in gigagrams (Gg); V is the net calorific value in terajoules per gigagram (TJ/Gg); and C is the effective carbon dioxide emission factor in kilograms CO2 per terajoule (kg/TJ).",
+    "optionB": "There is no formula provided for calculating this metric.",
+    "optionC": "The formula uses engineering estimates based on the weight of coal reserves and default carbon content values from the IPCC Guidelines.",
+    "optionD": "The formula is not explicitly stated but uses factors like proven reserves, calorific value, and emission factors from established sources.",
+    "optionE": "No formula is needed to calculate this metric, it is based on the company's own internal data and assumptions.",
+    "answer": "A",
+    "reference_text": [
+      "Estimated potential carbon dioxide emissions from proven coal reserves shall be calculated according to the following formula, derived from Meinshausen et al: E = R \u00d7 V \u00d7 C, where: E are the potential emissions in kilograms of carbon dioxide (kg CO2); R are the proven reserves in gigagrams (Gg); V is the net calorific value in terajoules per gigagram (TJ/Gg); and C is the effective carbon dioxide emission factor in kilograms CO2 per terajoule (kg/TJ)."
+    ],
+    "pages": [
+      "51"
+    ],
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the code of the metric related to water quality incidents in the Coal Operations industry, and how should this metric be disclosed?",
+    "optionA": "The code is EM-CO-140a.1, and it should be disclosed as the total number of non-compliance incidents, including only those resulting in formal enforcement actions.",
+    "optionB": "The code is EM-CO-140a.2, and it should be disclosed as the total number of non-compliance incidents, regardless of enforcement actions.",
+    "optionC": "The code is EM-CO-140a.2, and it should be disclosed as the total number of non-compliance incidents that resulted in formal enforcement actions.",
+    "optionD": "The code is EM-CO-140b.2, and it should be disclosed as the total number of non-compliance incidents that resulted in formal enforcement actions.",
+    "optionE": "The code is EM-CO-140a.1, and it should be disclosed as the total number of non-compliance incidents, including violations of technology-based standards and quality-based standards.",
+    "answer": "C. The code is EM-CO-140a.2, and it should be disclosed as the total number of non-compliance incidents that resulted in formal enforcement actions.",
+    "reference_text": [
+      "EM-CO-140a.2. Number of incidents of non-compliance associated with water quality permits, standards, and regulations",
+      "1 The entity shall disclose the total number of instances of non-compliance, including violations of a technology-based standard and exceedances of quantity and/or quality-based standards.",
+      "3 The scope of disclosure shall only include incidents of non-compliance that resulted in a formal enforcement action(s).",
+      "3.1 Formal enforcement actions are defined as governmental recognized actions that address a violation or threatened violation of water quantity and/or quality laws, regulations, policies, or orders, and can result in administrative penalty orders, administrative orders, and judicial actions, among others."
+    ],
+    "pages": [
+      "47",
+      "48"
+    ],
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "Can you tell me what topics are covered in the 'Reserves Valuation & Capital Expenditures' section of the Coal Operations document and what are the key takeaways I need to know as a company writing my sustainability report in this industry?",
+    "optionA": "The section covers reserve sensitivity analysis and carbon emissions. Key takeaways are to disclose proven and probable reserves under different price scenarios and estimate CO2 emissions from reserves.",
+    "optionB": "The section covers reserve valuation methods and capital expenditure strategies. Key takeaways are to explain how coal prices affect valuation and describe future investment plans.",
+    "optionC": "The section covers reserve sensitivity analysis and capital expenditure strategy only. Key takeaways are to perform sensitivity analysis using IEA scenarios and discuss how climate regulation affects CAPEX strategy.",
+    "optionD": "The section covers reserve reporting requirements and financial risks. Key takeaways are to disclose proven reserves and discuss potential financial impacts of climate change on the business.",
+    "optionE": "The section covers reserve sensitivity analysis, carbon emissions estimation, and capital expenditure strategy. Key takeaways are to perform sensitivity analysis using IEA scenarios, estimate CO2 in reserves, and discuss how climate regulation affects CAPEX strategy.",
+    "answer": "E. The section covers reserve sensitivity analysis, carbon emissions estimation, and capital expenditure strategy. Key takeaways are to perform sensitivity analysis using IEA scenarios, estimate CO2 in reserves, and discuss how climate regulation affects CAPEX strategy.",
+    "reference_text": [
+      "EM-CO-420a.1. Sensitivity of coal reserve levels to future price projection scenarios that account for a price on carbon emissions",
+      "EM-CO-420a.2. Estimated carbon dioxide emissions embedded in proven coal reserves",
+      "EM-CO-420a.3. Discussion of how price and demand for coal and/or climate regulation influence the capital expenditure strategy for exploration, acquisition, and development of assets",
+      "1 The entity shall perform a sensitivity analysis of its reserves to determine how several future scenarios may affect its determination of whether the reserves are proven or probable.",
+      "2 The entity shall analyze the sensitivity of its current proven and probable reserves using the price trajectories published by the International Energy Agency (IEA) in its World Energy Outlook (WEO) publication",
+      "1 The entity shall calculate and disclose an estimate of the carbon dioxide emissions embedded in its proven coal reserves.",
+      "1 The entity shall discuss how projections for price and demand for coal and the path of air quality and climate regulation influence the entity's capital expenditure (CAPEX) strategy."
+    ],
+    "pages": [
+      "49",
+      "50",
+      "51",
+      "52"
+    ],
+    "industries": [
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "multi_hop",
+    "question": "What is the category of the metric related to water withdrawal in the Coal Operations industry and how should this metric be disclosed?",
+    "optionA": "The category is Qualitative, and it should be disclosed as a narrative description of water management practices.",
+    "optionB": "The category is Quantitative, and it should be disclosed as the total volume of water withdrawn in cubic meters.",
+    "optionC": "The category is Quantitative, and it should be disclosed as three separate components: total fresh water withdrawn, percentage recycled, and percentage in water-stressed regions.",
+    "optionD": "The category is Discussion and Analysis, and it should be disclosed as a detailed report on water usage trends and conservation efforts.",
+    "optionE": "The category is Qualitative, and it should be disclosed as a detailed report on water usage trends and conservation efforts",
+    "answer": "C. The category is Quantitative, and it should be disclosed as three separate components: total fresh water withdrawn, percentage recycled, and percentage in water-stressed regions.",
+    "reference_text": [
+      "EM-CO-140a.1. (1) Total fresh water withdrawn, (2) percentage recycled, (3) percentage in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%)",
+      "1 The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from freshwater sources:",
+      "2 The entity shall disclose the percentage of water recycled as the volume, in thousands of cubic meters, recycled divided by the volume of water withdrawn.",
+      "4 The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn."
+    ],
+    "pages": [
+      "47",
+      "48"
+    ],
+    "industries": [
+      "b7-coal-operations"
+    ]
+  }
+]

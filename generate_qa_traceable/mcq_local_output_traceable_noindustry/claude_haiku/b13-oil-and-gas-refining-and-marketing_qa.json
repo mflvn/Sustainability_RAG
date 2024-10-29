@@ -1,0 +1,184 @@
+[
+  {
+    "question": "According to the IFRS S2 standard, what is the unit of measure for the metric 'Refining throughput of crude oil and other feedstocks'?",
+    "optionA": "Metric tons (t) CO2-e",
+    "optionB": "Thousand cubic meters (m\u00b3)",
+    "optionC": "Barrels of oil equivalent (BOE)",
+    "optionD": "Reporting currency",
+    "optionE": "Million barrels per calendar day (MBPD)",
+    "answer": "C",
+    "reference_text": [
+      "Refining throughput of crude oil and other feedstocks | Quantitative | Barrels of oil equivalent (BOE) | EM-RM-000.A"
+    ],
+    "pages": [
+      "115"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "question": "According to the IFRS S2 standard, which of the following is NOT an acceptable calculation methodology for reporting Scope 1 greenhouse gas emissions?",
+    "optionA": "GHG Reporting Guidance for the Aerospace Industry published by International Aerospace Environmental Group (IAEG)",
+    "optionB": "Greenhouse Gas Inventory Guidance: Direct Emissions from Stationary Combustion Sources published by the U.S. Environmental Protection Agency (EPA)",
+    "optionC": "India GHG Inventory Program",
+    "optionD": "Petroleum Industry Guidelines for reporting GHG emissions, 2nd edition, 2011, published by IPIECA",
+    "optionE": "Protocol for the quantification of greenhouse gas emissions from waste management activities published by Entreprises pour l'Environnement (EpE)",
+    "answer": "E",
+    "reference_text": [
+      "Acceptable calculation methodologies include those that conform to the GHG Protocol as the base reference, but provide additional guidance, such as industry- or region-specific guidance. Examples include, but are not limited to:\n2.2.1 GHG Reporting Guidance for the Aerospace Industry published by International Aerospace Environmental Group (IAEG)\n2.2.2 Greenhouse Gas Inventory Guidance: Direct Emissions from Stationary Combustion Sources published by the U.S. Environmental Protection Agency (EPA)\n2.2.3 India GHG Inventory Program\n2.2.4 ISO 14064-1\n2.2.5 Petroleum Industry Guidelines for reporting GHG emissions, 2nd edition, 2011, published by IPIECA\n2.2.6 Protocol for the quantification of greenhouse gas emissions from waste management activities published by Entreprises pour l'Environnement (EpE)"
+    ],
+    "pages": [
+      "116",
+      "117"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "question": "According to the IFRS S2 standard, which of the following is NOT considered a source of Scope 1 greenhouse gas emissions for oil and gas refining and marketing companies?",
+    "optionA": "Emissions from stationary devices, including boilers, heaters, and furnaces",
+    "optionB": "Emissions from mobile sources, including barges, ships, and trucks",
+    "optionC": "Emissions from process equipment, including hydrogen plants and amine units",
+    "optionD": "Emissions from wastewater treatment and surface impoundments",
+    "optionE": "Emissions from the combustion of renewable fuels",
+    "answer": "E",
+    "reference_text": [
+      "Scope 1 emissions are defined and shall be calculated according to the methodology contained in The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (GHG Protocol), Revised Edition, March 2004, published by the World Resources Institute and the World Business Council on Sustainable Development (WRI/WBCSD).\n2.1 These emissions include direct emissions of GHGs from stationary or mobile sources; these sources include but are not limited to: equipment at well sites, production facilities, refineries, chemical plants, terminals, fixed site drilling rigs, office buildings, marine vessels transporting products, tank truck fleets, mobile drilling rigs, and moveable equipment at drilling and production facilities."
+    ],
+    "pages": [
+      "116",
+      "117",
+      "118",
+      "119",
+      "120"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "question": "According to the IFRS S2 standard, which of the following is NOT considered an acceptable method for an oil and gas refining and marketing company to consolidate its greenhouse gas emissions data?",
+    "optionA": "The financial approach detailed in the IPIECA/API/OGP Petroleum Industry Guidelines for Reporting Greenhouse Gas Emissions",
+    "optionB": "The approach provided by the Climate Disclosure Standards Board (CDSB) in the CDSB Framework for reporting environmental information",
+    "optionC": "The operational control approach defined by the GHG Protocol",
+    "optionD": "The equity share approach defined by the GHG Protocol",
+    "optionE": "The financial control approach defined by the GHG Protocol",
+    "answer": "C",
+    "reference_text": [
+      "2.3 GHG emissions data shall be consolidated according to the approach with which the entity consolidates its financial reporting data, which is generally aligned with the \"financial control\" approach defined by the GHG Protocol as well as:\n2.3.1 The financial approach detailed in Chapter 3 of the IPIECA/API/OGP Petroleum Industry Guidelines for Reporting Greenhouse Gas Emissions, Second Edition, 2011 (hereafter, the \"IPIECA GHG Guidelines\")\n2.3.2 The approach provided by the Climate Disclosure Standards Board (CDSB) that is described in REQ-07, \"Organisational boundary,\" of the CDSB Framework for reporting environmental information, natural capital and associated business impacts (April 2018)"
+    ],
+    "pages": [
+      "117",
+      "118"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "question": "According to the IFRS S2 Climate-related Disclosures, what are the two acceptable calculation methodologies that companies can use to conform to the GHG Protocol for reporting their Scope 1 greenhouse gas emissions?",
+    "optionA": "GHG Reporting Guidance for the Aerospace Industry and Greenhouse Gas Inventory Guidance: Direct Emissions from Stationary Combustion Sources",
+    "optionB": "India GHG Inventory Program and ISO 14064-1",
+    "optionC": "Petroleum Industry Guidelines for reporting GHG emissions and Protocol for the quantification of greenhouse gas emissions from waste management activities",
+    "optionD": "All of the above",
+    "optionE": "None of the above",
+    "answer": "D",
+    "reference_text": [
+      "2.2 Acceptable calculation methodologies include those that conform to the GHG Protocol as the base reference, but provide additional guidance, such as industry- or region-specific guidance. Examples include, but are not limited to:",
+      "2.2.1 GHG Reporting Guidance for the Aerospace Industry published by International Aerospace Environmental Group (IAEG)",
+      "2.2.2 Greenhouse Gas Inventory Guidance: Direct Emissions from Stationary Combustion Sources published by the U.S. Environmental Protection Agency (EPA)",
+      "2.2.3 India GHG Inventory Program",
+      "2.2.4 ISO 14064-1",
+      "2.2.5 Petroleum Industry Guidelines for reporting GHG emissions, 2nd edition, 2011, published by IPIECA",
+      "2.2.6 Protocol for the quantification of greenhouse gas emissions from waste management activities published by Entreprises pour l'Environnement (EpE)"
+    ],
+    "pages": [
+      "116",
+      "117"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "question": "According to the IFRS S2 Climate-related Disclosures, what are the two key components that companies must discuss in their long-term and short-term strategy or plan to manage their Scope 1 greenhouse gas emissions?",
+    "optionA": "Emission reduction targets and the mechanism for achieving those targets",
+    "optionB": "Emissions-limiting regulations and the percentage of emissions covered under those regulations",
+    "optionC": "Scope of emissions sources and the activities/investments required to achieve the plans/targets",
+    "optionD": "Both A and C",
+    "optionE": "All of the above",
+    "answer": "D",
+    "reference_text": [
+      "2 The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the following, where relevant:",
+      "2.1 The scope of the emission reduction target (e.g., the percentage of total emissions to which the target is applicable);",
+      "2.2 Whether the target is absolute or intensity-based, and the metric denominator, if it is an intensity-based target;",
+      "2.3 The percentage reduction against the base year, with the base year representing the first year against which emissions are evaluated towards the achievement of the target;",
+      "2.4 The timelines for the reduction activity, including the start year, the target year, and the base year;",
+      "2.5 The mechanism(s) for achieving the target; and",
+      "3 The entity shall discuss activities and investments required to achieve the plans and/or targets, and any risks or limiting factors that might affect achievement of the plans and/or targets."
+    ],
+    "pages": [
+      "118",
+      "119"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "question": "According to the IFRS S2 Climate-related Disclosures, which of the following is NOT considered a category of emissions sources that companies should discuss in their long-term and short-term strategy or plan to manage Scope 1 greenhouse gas emissions?",
+    "optionA": "Flared hydrocarbons",
+    "optionB": "Other combusted emissions",
+    "optionC": "Process emissions",
+    "optionD": "Fugitive emissions",
+    "optionE": "Emissions from employee commuting",
+    "answer": "E",
+    "reference_text": [
+      "4.1 Categories of emissions sources may include:",
+      "4.1.1 Flared hydrocarbons, including all emissions emitted from flares and which are associated with the management and disposal of unrecoverable natural gas via combustion of hydrocarbon products from routine operations, upsets, or emergencies",
+      "4.1.2 Other combusted emissions, including, but not limited to: (1) emissions from stationary devices, including, but not limited to boilers, heaters, furnaces, reciprocating internal combustion engines and turbines, incinerators, and thermal/catalytic oxidizers, (2) emissions from mobile sources, including, but not limited to barges, ships, railcars, and trucks for material transport; planes/ helicopters and other company vehicles for personnel transport; forklifts, all terrain vehicles, construction equipment, and other off-road mobile equipment, and (3) other combusted emissions",
+      "4.1.3 Process emissions, including, but not limited to those emissions that are not combusted and are intentional or designed into the process or technology to occur during normal operations and are a result of some form of chemical transformation or processing step.",
+      "4.1.4 Vented emissions, including those emissions that are not combusted and are intentional or designed into the process or technology to occur during normal operations",
+      "4.1.5 Fugitive emissions, including those emissions which can be individually found and \"fixed\" to make emissions \"near zero\""
+    ],
+    "pages": [
+      "119",
+      "120"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "question": "According to the IFRS S2 Climate-related Disclosures, what are the two key components that companies must disclose in relation to their total addressable market and share of market for advanced biofuels and associated infrastructure?",
+    "optionA": "The total addressable market size and the company's current market share",
+    "optionB": "The company's target 3-year market share and the projected growth of the total addressable market",
+    "optionC": "The company's revenue from advanced biofuel products and the percentage of that revenue compared to total revenue",
+    "optionD": "Both A and B",
+    "optionE": "All of the above",
+    "answer": "D",
+    "reference_text": [
+      "1 The entity shall provide an estimation of the total addressable market for advanced biofuels and associated infrastructure.",
+      "2 The entity shall disclose the share of the total addressable market for advanced biofuels and/or associated infrastructure that it currently captures with its products.",
+      "6.1 The entity may disclose its target three-year market share as a measurement of targeted growth, where the target is the percentage of the total addressable market that the entity plans to address over a three-year time horizon.",
+      "6 The entity may provide a projection of growth of this market, where the projected addressable market is represented\u2014based on a reasonable set of assumptions about changes in market conditions\u2014 as a percentage of year-on-year growth or as an estimate of the market size after a defined period (i.e., the market size in 10 years)."
+    ],
+    "pages": [
+      "122",
+      "123"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  }
+]

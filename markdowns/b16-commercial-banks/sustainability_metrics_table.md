@@ -1,0 +1,8 @@
+| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |
+|-------|--------|----------|-----------------|------|
+| Incorporation of Environ- mental, Social, and Governance Factors in Credit Analysis | Description of approach to incorporation of environmental, social, and governance (ESG) factors in credit analysis | Discussion and Analysis | n/a | FN-CB-410a.2 |
+| | (1) Gross exposure to carbon-related industries, by industry, (2) total gross exposure to all industries, and (3) percentage of total gross exposure for each carbon-related industry | Quantitative | Presentation currency, Percentage % | FN-CB-1 |
+| | Percentage of gross exposure included in the financed emissions calculation | Quantitative | Percentage % | FN-CB-2 |
+| Transition Risk Exposure | For each industry by asset class: (1) absolute gross (a) Scope 1 emissions, (b) Scope 2 emissions, (c) Scope 3 emissions and (2) gross exposure (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e, Presentation currency | FN-CB-3 |
+| | For each industry by asset class: (1) gross emissions intensity by (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) gross exposure (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e per unit of physical or economic output, Presentation currency | FN-CB-4 |
+| | Description of the methodology used to calculate financed emissions | Discussion and Analysis | n/a | FN-CB-5 |

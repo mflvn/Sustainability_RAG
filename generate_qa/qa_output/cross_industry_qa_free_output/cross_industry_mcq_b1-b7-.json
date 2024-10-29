@@ -1,0 +1,138 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "According to IFRS standards, what specific information must both apparel companies and coal operations disclose regarding their environmental and social risks in the supply chain?",
+    "answer": "Apparel companies must describe environmental and social risks associated with sourcing priority raw materials, while coal operations must discuss long-term and short-term strategies to manage Scope 1 emissions.",
+    "explanation": "The IFRS standards require different but related disclosures for these industries. Apparel companies need to provide a description of environmental and social risks associated with sourcing priority raw materials (CG-AA-440a.1). This includes discussing risks related to climate change impacts, environmental regulations, and social issues in their supply chain. Coal operations, on the other hand, must discuss their long-term and short-term strategy to manage Scope 1 emissions (EM-CO-110a.2), which includes direct GHG emissions from their operations. While both disclosures address environmental and social risks, they focus on different aspects of the supply chain relevant to each industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations"
+    ],
+    "reference_text": [
+      "Description of environmental and social risks associated with sourcing priority raw materials",
+      "Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets"
+    ],
+    "pages": [
+      "8",
+      "45"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "What water-related metrics are coal operations required to disclose according to IFRS standards, and how does this compare to the water-related disclosures required for apparel companies?",
+    "answer": "Coal operations must disclose total fresh water withdrawn, percentage recycled, percentage in water-stressed regions, and incidents of non-compliance with water regulations. Apparel companies have no specific water-related metrics required.",
+    "explanation": "The IFRS standards for coal operations include specific water-related metrics under EM-CO-140a.1 and EM-CO-140a.2. These require disclosure of total fresh water withdrawn, percentage recycled, percentage in regions with high water stress, and the number of incidents of non-compliance with water quality permits and regulations. In contrast, the apparel industry standards do not include specific water-related metrics. This difference reflects the higher water-intensity and potential environmental impact of coal operations compared to apparel manufacturing. However, apparel companies may still need to consider water usage in their supply chain as part of their overall environmental risk assessment.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear"
+    ],
+    "reference_text": [
+      "(1) Total fresh water withdrawn, (2) percentage recycled, (3) percentage in regions with High or Extremely High Baseline Water Stress",
+      "Number of incidents of non-compliance associated with water quality permits, standards, and regulations"
+    ],
+    "pages": [
+      "47",
+      "48"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of raw materials third-party certified to environmental or social sustainability standards for an apparel company, which of the following is the correct approach?",
+    "answer": "Calculate the weight of certified raw materials divided by the total weight of raw materials in finished products",
+    "explanation": "According to the IFRS standards for the Apparel, Accessories & Footwear industry (CG-AA-440a.2), the correct method to calculate the percentage of raw materials third-party certified to environmental or social sustainability standards is to divide the weight of raw materials certified to such standards by the total weight of raw materials that compose the entity's finished products. This approach ensures a consistent and comparable metric across companies in the industry. It's important to note that this calculation should be done by weight, not by value or number of items, to accurately represent the proportion of sustainable materials used.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear"
+    ],
+    "reference_text": [
+      "The entity shall calculate the percentage as the weight of raw materials third-party certified to an environmental and/or social standard divided by the total weight of raw materials that compose the entity's finished products."
+    ],
+    "pages": [
+      "10"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "For a coal operations company, how should the sensitivity of coal reserve levels to future price projection scenarios be calculated and presented?",
+    "answer": "Analyze reserves using IEA's World Energy Outlook scenarios and present results in a table showing proven and probable reserves for each scenario",
+    "explanation": "According to EM-CO-420a.1, coal operations companies should perform a sensitivity analysis of their reserves using price trajectories published by the International Energy Agency (IEA) in its World Energy Outlook (WEO). This includes the Current Policies Scenario, New Policies Scenario, and Sustainable Development Scenario. The results should be presented in a table format showing proven and probable reserves for each scenario. This approach allows for a standardized comparison of how different climate policy scenarios might impact the company's reserve valuations, which is crucial for investors to understand the potential long-term risks associated with climate change and energy transitions.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations"
+    ],
+    "reference_text": [
+      "The entity shall perform a sensitivity analysis of its reserves to determine how several future scenarios may affect its determination of whether the reserves are proven or probable.",
+      "The entity shall analyze the sensitivity of its current proven and probable reserves using the price trajectories published by the International Energy Agency (IEA) in its World Energy Outlook (WEO) publication"
+    ],
+    "pages": [
+      "49",
+      "50"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges",
+    "question": "How do the challenges of measuring and reporting Scope 1 emissions differ between the apparel and coal operations industries?",
+    "answer": "Coal operations have more direct emissions from extraction and processing, while apparel companies focus more on supply chain emissions",
+    "explanation": "The challenges of measuring and reporting Scope 1 emissions differ significantly between these industries due to their operational nature. Coal operations have substantial direct (Scope 1) emissions from their extraction and processing activities, including methane released during mining and CO2 from fuel use in equipment. These emissions are more straightforward to measure but can be extensive. The IFRS standards require detailed reporting of these emissions (EM-CO-110a.1 and EM-CO-110a.2). In contrast, apparel companies typically have lower direct emissions from their own operations, with most of their emissions occurring in their supply chain (Scope 3). While the apparel standards don't explicitly require Scope 1 emissions reporting, companies need to consider emissions in their overall environmental risk assessment, particularly in relation to raw material sourcing (CG-AA-440a.1). This difference highlights the need for industry-specific approaches to emissions reporting and management.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear"
+    ],
+    "reference_text": [
+      "Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations",
+      "Description of environmental and social risks associated with sourcing priority raw materials"
+    ],
+    "pages": [
+      "43",
+      "8"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges",
+    "question": "What unique challenge do both apparel and coal operations companies face when it comes to assessing and reporting on the environmental impact of their raw materials sourcing?",
+    "answer": "Both industries must consider complex global supply chains with varying levels of transparency and traceability",
+    "explanation": "Both apparel and coal operations companies face the challenge of assessing and reporting on the environmental impact of their raw materials sourcing within complex global supply chains. For apparel companies, IFRS standards require a description of environmental and social risks associated with sourcing priority raw materials (CG-AA-440a.1). This involves tracing materials like cotton, synthetic fibers, and animal-derived materials through multi-tier supply chains, often with limited visibility. Similarly, coal operations must consider the environmental impact of their mining activities and supply chain, including water use and emissions (EM-CO-140a.1, EM-CO-110a.1). Both industries struggle with transparency and traceability issues, making it difficult to accurately assess and report on the full environmental impact of their raw materials. This challenge is compounded by the global nature of their supply chains, which may involve regions with different environmental standards and reporting practices.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations"
+    ],
+    "reference_text": [
+      "Description of environmental and social risks associated with sourcing priority raw materials",
+      "Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations",
+      "(1) Total fresh water withdrawn, (2) percentage recycled, (3) percentage in regions with High or Extremely High Baseline Water Stress"
+    ],
+    "pages": [
+      "8",
+      "43",
+      "47"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ]
+  }
+]

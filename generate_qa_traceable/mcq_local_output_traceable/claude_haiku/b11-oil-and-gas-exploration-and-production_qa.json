@@ -1,0 +1,169 @@
+[
+  {
+    "question": "What percentage of a company's gross global Scope 1 greenhouse gas emissions must be from methane emissions?",
+    "optionA": "10%",
+    "optionB": "20%",
+    "optionC": "The company must disclose the percentage of its gross global Scope 1 greenhouse gas emissions that are from methane emissions",
+    "optionD": "30%",
+    "optionE": "40%",
+    "answer": "C",
+    "reference_text": [
+      "The entity shall disclose the percentage of gross global Scope 1 greenhouse gas (GHG) emissions from methane emissions."
+    ],
+    "pages": [
+      "93"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "question": "Which of the following is NOT included in the definition of 'other combusted emissions' for the purpose of reporting Scope 1 greenhouse gas emissions?",
+    "optionA": "Emissions from stationary devices like boilers and furnaces",
+    "optionB": "Emissions from mobile sources like trucks and planes",
+    "optionC": "Emissions from flared hydrocarbons",
+    "optionD": "Emissions from thermal/catalytic oxidizers",
+    "optionE": "All of the above are included in the definition of 'other combusted emissions'",
+    "answer": "C",
+    "reference_text": [
+      "Other combusted emissions shall exclude those emissions disclosed as flared hydrocarbons."
+    ],
+    "pages": [
+      "95-96"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "question": "What is the minimum frequency required for ongoing monitoring of ground or surface water quality at hydraulic fracturing sites?",
+    "optionA": "Once per year",
+    "optionB": "Once every 2 years",
+    "optionC": "Once every 3 years",
+    "optionD": "Once every 5 years",
+    "optionE": "Ongoing monitoring is not required",
+    "answer": "A",
+    "reference_text": [
+      "Ongoing monitoring shall occur with at least the following frequency:",
+      "One subsequent sampling between 12 and 18 months after well completion or facility installation"
+    ],
+    "pages": [
+      "101-102"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "question": "Which of the following price and demand scenarios must a company analyze to determine the sensitivity of its hydrocarbon reserve levels?",
+    "optionA": "Only the Current Policies Scenario",
+    "optionB": "Only the New Policies Scenario",
+    "optionC": "Only the Sustainable Development Scenario",
+    "optionD": "The Current Policies, New Policies, and Sustainable Development Scenarios",
+    "optionE": "Any price and demand scenario the company chooses",
+    "answer": "D",
+    "reference_text": [
+      "The entity shall analyze the sensitivity of its current proven and probable reserves using the price trajectories published by the International Energy Agency (IEA) in its World Energy Outlook (WEO) publication, including:",
+      "Current Policies Scenario, which assumes no changes in policies from the mid-point of the year of publication of the WEO.",
+      "New Policies Scenario, which assumes that broad policy commitments and plans that have been announced by countries (including national pledges to reduce greenhouse gas emissions and plans to phase out fossil-energy subsidies), occur even if the measures to implement these commitments have yet to be identified or announced. This broadly serves as the IEA baseline scenario.",
+      "Sustainable Development Scenario, which assumes that an energy pathway occurs that is consistent with the goal of limiting the global increase in temperature to 1.5\u00b0C by limiting concentration of greenhouse gases in the atmosphere."
+    ],
+    "pages": [
+      "103-104"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "question": "According to the IFRS S2 standard, what percentage of a company's gross global Scope 1 greenhouse gas emissions must be covered under emissions-limiting regulations for the company to disclose that percentage?",
+    "optionA": "At least 10% of emissions must be covered",
+    "optionB": "At least 25% of emissions must be covered",
+    "optionC": "At least 50% of emissions must be covered",
+    "optionD": "There is no minimum percentage requirement, the company must disclose the percentage covered",
+    "optionE": "The standard does not specify a minimum percentage requirement",
+    "answer": "D",
+    "reference_text": [
+      "The entity shall disclose the percentage of its emissions that are covered under an emissions-limiting regulation or that is intended to directly limit or reduce emissions, such as cap-and-trade schemes, carbon tax/fee systems, and other emissions control (e.g., command-and-control approach) and permit-based mechanisms."
+    ],
+    "pages": [
+      "94"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "question": "According to the IFRS S2 standard, which of the following is NOT considered a source of fugitive emissions for oil and gas exploration and production companies?",
+    "optionA": "Valves",
+    "optionB": "Flanges",
+    "optionC": "Compressor seal leaks",
+    "optionD": "Wastewater treatment and surface impoundments",
+    "optionE": "Emissions from mobile sources like trucks and planes",
+    "answer": "E",
+    "reference_text": [
+      "Fugitive emissions shall include those emissions which can be individually found and \"fixed\" to make emissions \"near zero\" and which include, but are not limited to emissions from valves, flanges, connectors, pumps, compressor seal leaks, catadyne heaters, and wastewater treatment and surface impoundments."
+    ],
+    "pages": [
+      "96-97"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "question": "According to the IFRS S2 standard, which of the following is NOT a required component of the discussion of a company's long-term and short-term strategy or plan to manage Scope 1 greenhouse gas emissions?",
+    "optionA": "The scope of the emission reduction target",
+    "optionB": "Whether the target is absolute- or intensity-based",
+    "optionC": "The percentage reduction against the base year",
+    "optionD": "The mechanism(s) for achieving the target",
+    "optionE": "The company's financial performance over the reporting period",
+    "answer": "E",
+    "reference_text": [
+      "The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the following, where relevant:",
+      "2.1 The scope of the emission reduction target (e.g., the percentage of total emissions to which the target is applicable);",
+      "2.2 Whether the target is absolute- or intensity-based, and the metric denominator, if it is an intensity-based target;",
+      "2.3 The percentage reduction against the base year, with the base year representing the first year against which emissions are evaluated towards the achievement of the target;",
+      "2.4 The timelines for the reduction activity, including the start year, the target year, and the base year;",
+      "2.5 The mechanism(s) for achieving the target; and",
+      "2.6 Any circumstances in which the target or base year emissions have been, or may be, recalculated retrospectively or the target or base year has been reset which may include, but are not limited to energy efficiency efforts, energy source diversification, carbon capture and storage, or the implementation of leak detection and repair processes."
+    ],
+    "pages": [
+      "97-98"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "question": "According to the IFRS S2 standard, which of the following is NOT a required component of the disclosure on the volume of produced water and flowback generated by oil and gas exploration and production companies?",
+    "optionA": "The percentage of produced water and flowback that was discharged",
+    "optionB": "The percentage of produced water and flowback that was injected",
+    "optionC": "The percentage of produced water and flowback that was recycled",
+    "optionD": "The amount of hydrocarbons in the discharged produced water and flowback",
+    "optionE": "The total volume of produced water and flowback generated",
+    "answer": "B",
+    "reference_text": [
+      "The entity shall disclose the volume, in thousands of cubic meters, of produced water and flowback fluid generated during its activities.",
+      "The entity shall calculate the percentage of produced water and flowback fluid that was:",
+      "4.1 Discharged directly to the environment or indirectly discharged through a third party, such as a local wastewater treatment plant;",
+      "4.2 Injected;",
+      "4.3 Recycled for use in other wells in fracturing fluids or in other drilling and production processes.",
+      "The entity shall disclose the amount, in metric tons, of hydrocarbons water that was discharged to the environment."
+    ],
+    "pages": [
+      "99-100"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Quantitative' for Commercial Banks and Fuel Cells & Industrial Batteries industries.",
+    "answer": "Commercial Banks:\n- (1) Gross exposure to carbon-related industries, by industry, (2) total gross exposure to all industries, and (3) percentage of total gross exposure for each carbon-related industry | Quantitative | Presentation currency, Percentage % | FN-CB-1\n- Percentage of gross exposure included in the financed emissions calculation | Quantitative | Percentage % | FN-CB-2\n- For each industry by asset class: (1) absolute gross (a) Scope 1 emissions, (b) Scope 2 emissions, (c) Scope 3 emissions and (2) gross exposure (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e, Presentation currency | FN-CB-3\n- For each industry by asset class: (1) gross emissions intensity by (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) gross exposure (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e per unit of physical or economic output, Presentation currency | FN-CB-4\n\nFuel Cells & Industrial Batteries:\n- (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | RR-FC-130a.1\n- Average storage capacity of batteries, by product application and technology type | Quantitative | Specific energy (Wh/kg) | RR-FC-410a.1\n- Average energy efficiency of fuel cells as (1) electrical efficiency and (2) thermal efficiency, by product application and technology type | Quantitative | Percentage (%) | RR-FC-410a.2\n- Average battery efficiency as coulombic efficiency, by product application and technology type | Quantitative | Percentage (%) | RR-FC-410a.3\n- Average operating lifetime of fuel cells, by product application and technology type | Quantitative | Hours (h) | RR-FC-410a.4\n- Average operating lifetime of batteries, by product application and technology type | Quantitative | Number of cycles | RR-FC-410a.5",
+    "reference_text": [
+      "| (1) Gross exposure to carbon-related industries, by industry, (2) total gross exposure to all industries, and (3) percentage of total gross exposure for each carbon-related industry | Quantitative | Presentation currency, Percentage % | FN-CB-1 |",
+      "| Percentage of gross exposure included in the financed emissions calculation | Quantitative | Percentage % | FN-CB-2 |",
+      "| For each industry by asset class: (1) absolute gross (a) Scope 1 emissions, (b) Scope 2 emissions, (c) Scope 3 emissions and (2) gross exposure (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e, Presentation currency | FN-CB-3 |",
+      "| For each industry by asset class: (1) gross emissions intensity by (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) gross exposure (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e per unit of physical or economic output, Presentation currency | FN-CB-4 |",
+      "| (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | RR-FC-130a.1 |",
+      "| Average storage capacity of batteries, by product application and technology type | Quantitative | Specific energy (Wh/kg) | RR-FC-410a.1 |",
+      "| Average energy efficiency of fuel cells as (1) electrical efficiency and (2) thermal efficiency, by product application and technology type | Quantitative | Percentage (%) | RR-FC-410a.2 |",
+      "| Average battery efficiency as coulombic efficiency, by product application and technology type | Quantitative | Percentage (%) | RR-FC-410a.3 |",
+      "| Average operating lifetime of fuel cells, by product application and technology type | Quantitative | Hours (h) | RR-FC-410a.4 |",
+      "| Average operating lifetime of batteries, by product application and technology type | Quantitative | Number of cycles | RR-FC-410a.5 |"
+    ],
+    "pages": [
+      "Page 144",
+      "Page 447"
+    ],
+    "industries": [
+      "b16-commercial-banks",
+      "b42-fuel-cells-and-industrial-batteries"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0.2
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Commercial Banks and Fuel Cells & Industrial Batteries industries?",
+    "answer": "Fuel Cells & Industrial Batteries industry has more 'Quantitative' metrics to disclose in Table 1.",
+    "reference_text": [
+      "| (1) Gross exposure to carbon-related industries, by industry, (2) total gross exposure to all industries, and (3) percentage of total gross exposure for each carbon-related industry | Quantitative | Presentation currency, Percentage % | FN-CB-1 |",
+      "| Percentage of gross exposure included in the financed emissions calculation | Quantitative | Percentage % | FN-CB-2 |",
+      "| For each industry by asset class: (1) absolute gross (a) Scope 1 emissions, (b) Scope 2 emissions, (c) Scope 3 emissions and (2) gross exposure (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e, Presentation currency | FN-CB-3 |",
+      "| For each industry by asset class: (1) gross emissions intensity by (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) gross exposure (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e per unit of physical or economic output, Presentation currency | FN-CB-4 |",
+      "| (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | RR-FC-130a.1 |",
+      "| Average storage capacity of batteries, by product application and technology type | Quantitative | Specific energy (Wh/kg) | RR-FC-410a.1 |",
+      "| Average energy efficiency of fuel cells as (1) electrical efficiency and (2) thermal efficiency, by product application and technology type | Quantitative | Percentage (%) | RR-FC-410a.2 |",
+      "| Average battery efficiency as coulombic efficiency, by product application and technology type | Quantitative | Percentage (%) | RR-FC-410a.3 |",
+      "| Average operating lifetime of fuel cells, by product application and technology type | Quantitative | Hours (h) | RR-FC-410a.4 |",
+      "| Average operating lifetime of batteries, by product application and technology type | Quantitative | Number of cycles | RR-FC-410a.5 |"
+    ],
+    "pages": [
+      "Page 144",
+      "Page 447"
+    ],
+    "industries": [
+      "b16-commercial-banks",
+      "b42-fuel-cells-and-industrial-batteries"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0.2
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Commercial Banks and Fuel Cells & Industrial Batteries industries.",
+    "answer": "Commercial Banks:\n- FN-CB-1\n- FN-CB-2\n- FN-CB-3\n- FN-CB-4\n\nFuel Cells & Industrial Batteries:\n- RR-FC-130a.1\n- RR-FC-410a.1\n- RR-FC-410a.2\n- RR-FC-410a.3\n- RR-FC-410a.4\n- RR-FC-410a.5",
+    "reference_text": [
+      "| Incorporation of Environ- mental, Social, and Governance Factors in Credit Analysis | Description of approach to incorporation of environmental, social, and governance (ESG) factors in credit analysis | Discussion and Analysis | n/a | FN-CB-410a.2 |",
+      "| | (1) Gross exposure to carbon-related industries, by industry, (2) total gross exposure to all industries, and (3) percentage of total gross exposure for each carbon-related industry | Quantitative | Presentation currency, Percentage % | FN-CB-1 |",
+      "| | Percentage of gross exposure included in the financed emissions calculation | Quantitative | Percentage % | FN-CB-2 |",
+      "| Transition Risk Exposure | For each industry by asset class: (1) absolute gross (a) Scope 1 emissions, (b) Scope 2 emissions, (c) Scope 3 emissions and (2) gross exposure (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e, Presentation currency | FN-CB-3 |",
+      "| | For each industry by asset class: (1) gross emissions intensity by (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) gross exposure (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e per unit of physical or economic output, Presentation currency | FN-CB-4 |",
+      "| Energy Management | (1) Total energy consumed, (2) percent- age grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | RR-FC-130a.1 |",
+      "| Energy Management | Average storage capacity of batteries, by product application and technology type | Quantitative | Specific energy (Wh/kg) | RR-FC-410a.1 |",
+      "| Energy Management | Average energy efficiency of fuel cells as (1) electrical efficiency and (2) thermal efficiency, by product application and technology type | Quantitative | Percentage (%) | RR-FC-410a.2 |",
+      "| Product Efficiency | Average battery efficiency as coulombic efficiency, by product application and technology type | Quantitative | Percentage (%) | RR-FC-410a.3 |",
+      "| Product Efficiency | Average operating lifetime of fuel cells, by product application and technology type | Quantitative | Hours (h) | RR-FC-410a.4 |",
+      "| Product Efficiency | Average operating lifetime of batteries, by product application and technology type | Quantitative | Number of cycles | RR-FC-410a.5 |"
+    ],
+    "pages": [
+      "Page 144",
+      "Page 447"
+    ],
+    "industries": [
+      "b16-commercial-banks",
+      "b42-fuel-cells-and-industrial-batteries"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0.2
+  },
+  {
+    "question": "What units of measurement are used across Commercial Banks and Fuel Cells & Industrial Batteries industries for measuring quantitative metrics?",
+    "answer": "Commercial Banks:\n- Presentation currency\n- Percentage %\n- Metric tons (t) CO2-e\n- Metric tons (t) CO2-e per unit of physical or economic output\n\nFuel Cells & Industrial Batteries:\n- Gigajoules (GJ)\n- Percentage (%)\n- Specific energy (Wh/kg)\n- Hours (h)\n- Number of cycles",
+    "reference_text": [
+      "| Incorporation of Environ- mental, Social, and Governance Factors in Credit Analysis | Description of approach to incorporation of environmental, social, and governance (ESG) factors in credit analysis | Discussion and Analysis | n/a | FN-CB-410a.2 |",
+      "| | (1) Gross exposure to carbon-related industries, by industry, (2) total gross exposure to all industries, and (3) percentage of total gross exposure for each carbon-related industry | Quantitative | Presentation currency, Percentage % | FN-CB-1 |",
+      "| | Percentage of gross exposure included in the financed emissions calculation | Quantitative | Percentage % | FN-CB-2 |",
+      "| Transition Risk Exposure | For each industry by asset class: (1) absolute gross (a) Scope 1 emissions, (b) Scope 2 emissions, (c) Scope 3 emissions and (2) gross exposure (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e, Presentation currency | FN-CB-3 |",
+      "| | For each industry by asset class: (1) gross emissions intensity by (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) gross exposure (i.e., financed emissions) | Quantitative | Metric tons (t) CO2-e per unit of physical or economic output, Presentation currency | FN-CB-4 |",
+      "| Energy Management | (1) Total energy consumed, (2) percent- age grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | RR-FC-130a.1 |",
+      "| Energy Management | Average storage capacity of batteries, by product application and technology type | Quantitative | Specific energy (Wh/kg) | RR-FC-410a.1 |",
+      "| Energy Management | Average energy efficiency of fuel cells as (1) electrical efficiency and (2) thermal efficiency, by product application and technology type | Quantitative | Percentage (%) | RR-FC-410a.2 |",
+      "| Product Efficiency | Average battery efficiency as coulombic efficiency, by product application and technology type | Quantitative | Percentage (%) | RR-FC-410a.3 |",
+      "| Product Efficiency | Average operating lifetime of fuel cells, by product application and technology type | Quantitative | Hours (h) | RR-FC-410a.4 |",
+      "| Product Efficiency | Average operating lifetime of batteries, by product application and technology type | Quantitative | Number of cycles | RR-FC-410a.5 |"
+    ],
+    "pages": [
+      "Page 144",
+      "Page 447"
+    ],
+    "industries": [
+      "b16-commercial-banks",
+      "b42-fuel-cells-and-industrial-batteries"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0.2
+  }
+]

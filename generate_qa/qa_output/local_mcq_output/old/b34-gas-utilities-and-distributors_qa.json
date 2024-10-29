@@ -1,0 +1,347 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the three components that make up the 'Integrity of Gas Delivery Infrastructure' metric IF-GU-540a.1?",
+    "optionA": "Number of pipeline leaks, repair costs, and customer complaints",
+    "optionB": "Number of reportable pipeline incidents, corrective actions received, and violations of pipeline safety statutes",
+    "optionC": "Number of pipeline replacements, safety inspections, and employee training sessions",
+    "optionD": "Number of gas explosions, injuries, and property damage incidents",
+    "optionE": "Number of regulatory fines, customer lawsuits, and insurance claims",
+    "answer": "B. Number of reportable pipeline incidents, corrective actions received, and violations of pipeline safety statutes",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "340-341",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the industry standard, how is a 'reportable pipeline incident' defined?",
+    "optionA": "Any gas leak, regardless of its size or impact",
+    "optionB": "An event resulting in property damage of at least $100,000",
+    "optionC": "An incident causing at least one fatality",
+    "optionD": "A gas release resulting in death, hospitalization, property damage of $50,000 or more, or unintentional gas loss of 3 million cubic feet or more",
+    "optionE": "Any pipeline repair that takes more than 24 hours to complete",
+    "answer": "D. A gas release resulting in death, hospitalization, property damage of $50,000 or more, or unintentional gas loss of 3 million cubic feet or more",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "340-341",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What does the metric IF-GU-540a.2 measure regarding distribution pipelines?",
+    "optionA": "The percentage of pipelines that are made of plastic",
+    "optionB": "The percentage of pipelines that are underground",
+    "optionC": "The percentage of pipelines that are (1) cast and/or wrought iron and (2) unprotected steel",
+    "optionD": "The percentage of pipelines that are less than 10 years old",
+    "optionE": "The percentage of pipelines that are scheduled for replacement",
+    "answer": "C. The percentage of pipelines that are (1) cast and/or wrought iron and (2) unprotected steel",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "342",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are companies in the Gas Utilities & Distributors industry required to disclose regarding their efforts to manage the integrity of gas delivery infrastructure?",
+    "optionA": "Only the total cost of infrastructure maintenance",
+    "optionB": "A description of efforts including safety culture, emergency preparedness, and risks related to safety and emissions",
+    "optionC": "The names of third-party contractors responsible for pipeline maintenance",
+    "optionD": "Only the number of employees dedicated to infrastructure management",
+    "optionE": "A list of all pipeline locations and their current condition",
+    "answer": "B. A description of efforts including safety culture, emergency preparedness, and risks related to safety and emissions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "343-345",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might a gas utility's approach to end-use efficiency impact its financial performance, and what policy mechanisms can influence this relationship?",
+    "optionA": "End-use efficiency always reduces utility revenues, regardless of regulatory environment",
+    "optionB": "Alternative rate designs like decoupling can align utility incentives with efficiency goals, potentially improving financial performance",
+    "optionC": "Utilities are not allowed to implement any customer efficiency measures",
+    "optionD": "Energy efficiency initiatives only affect residential customers, not commercial or industrial ones",
+    "optionE": "Gas utilities are required to pay for all customer efficiency upgrades out of pocket",
+    "answer": "B: Alternative rate designs like decoupling can align utility incentives with efficiency goals, potentially improving financial performance",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "337-339",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "What are the potential consequences of gas leaks for a utility company, and how do these relate to the company's infrastructure management strategy?",
+    "optionA": "Gas leaks only affect the environment and have no impact on the company's finances",
+    "optionB": "Leaks can lead to safety risks, emissions, and financial impacts, driving the need for comprehensive infrastructure management",
+    "optionC": "Gas leaks are solely the responsibility of customers and do not affect the utility company",
+    "optionD": "Infrastructure management is only focused on expanding the pipeline network, not maintaining existing infrastructure",
+    "optionE": "Regulators always cover the costs of gas leaks, so companies have no incentive to prevent them",
+    "answer": "B: Leaks can lead to safety risks, emissions, and financial impacts, driving the need for comprehensive infrastructure management",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "340-341",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How do pipeline material types and inspection practices relate to a gas utility's risk management and regulatory compliance efforts?",
+    "optionA": "Pipeline material and inspections are unrelated to risk management and compliance",
+    "optionB": "Only new pipelines need to be inspected for regulatory compliance",
+    "optionC": "Cast iron and unprotected steel pipelines, along with regular inspections, are key factors in risk management and compliance",
+    "optionD": "Regulatory compliance only requires reporting on pipeline length, not materials or inspections",
+    "optionE": "Risk management focuses solely on customer usage patterns, not infrastructure",
+    "answer": "C: Cast iron and unprotected steel pipelines, along with regular inspections, are key factors in risk management and compliance",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "342-343",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How does a gas utility's approach to infrastructure integrity management intersect with its financial opportunities and stakeholder relations?",
+    "optionA": "Infrastructure integrity management has no impact on financial opportunities or stakeholder relations",
+    "optionB": "Integrity management only affects internal operations and has no external impact",
+    "optionC": "Effective integrity management can lead to capital investment opportunities, improved operational efficiency, and better stakeholder relations",
+    "optionD": "Stakeholders are only concerned with gas prices, not infrastructure integrity",
+    "optionE": "Financial opportunities in gas utilities are solely derived from expanding customer base, not infrastructure management",
+    "answer": "C: Effective integrity management can lead to capital investment opportunities, improved operational efficiency, and better stakeholder relations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "344-345",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is 'decoupling' in the context of gas utility rate structures, and how does it relate to energy efficiency initiatives?",
+    "optionA": "A process of separating gas transmission from distribution operations",
+    "optionB": "A rate design that disconnects utility revenues from customer consumption volumes",
+    "optionC": "A method of isolating different customer segments for billing purposes",
+    "optionD": "A technique for separating natural gas into its component elements",
+    "optionE": "A strategy to deregulate gas utility markets",
+    "answer": "B. A rate design that disconnects utility revenues from customer consumption volumes",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "339",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "How is a 'distribution pipeline' defined in the context of gas utilities?",
+    "optionA": "A pipeline that transports gas from production facilities to transmission lines",
+    "optionB": "A pipeline operating at 20% or more of specified minimum yield strength",
+    "optionC": "A pipeline that transports gas within a storage field",
+    "optionD": "A pipeline other than a gathering or transmission line",
+    "optionE": "A pipeline that connects directly to residential customers",
+    "answer": "D. A pipeline other than a gathering or transmission line",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "342",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What constitutes a 'covered task' for pipeline operators in the gas utility industry?",
+    "optionA": "Any task performed by a certified pipeline engineer",
+    "optionB": "Activities related to customer service and billing",
+    "optionC": "An operation or maintenance task on a pipeline facility that affects its operation or integrity",
+    "optionD": "Tasks performed during the construction of new pipelines",
+    "optionE": "Administrative duties related to pipeline management",
+    "answer": "C. An operation or maintenance task on a pipeline facility that affects its operation or integrity",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "344",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "What are the potential financial implications for gas utilities that successfully manage the integrity of their gas delivery infrastructure?",
+    "optionA": "Increased regulatory fines and penalties",
+    "optionB": "Reduced customer base and market share",
+    "optionC": "Higher operational costs without any benefits",
+    "optionD": "Opportunities for capital investments and improved stakeholder relations",
+    "optionE": "Mandatory transition to renewable energy sources",
+    "answer": "D. Opportunities for capital investments and improved stakeholder relations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "345",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How does the composition of distribution pipelines relate to the industry's efforts to improve safety and reduce emissions?",
+    "optionA": "It has no impact on safety or emissions",
+    "optionB": "Only steel pipelines are considered for safety improvements",
+    "optionC": "Cast iron and unprotected steel pipelines are monitored for potential replacement to enhance safety and reduce fugitive emissions",
+    "optionD": "Plastic pipelines are the sole focus of safety and emission reduction efforts",
+    "optionE": "Pipeline composition is only relevant for aesthetic purposes",
+    "answer": "C. Cast iron and unprotected steel pipelines are monitored for potential replacement to enhance safety and reduce fugitive emissions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "342",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might the transition towards reducing greenhouse gas emissions impact the business model of gas utilities and distributors?",
+    "optionA": "It will have no impact as natural gas is already a clean fuel",
+    "optionB": "It will lead to immediate shutdown of all gas utilities",
+    "optionC": "It may require utilities to adapt their strategies, potentially focusing more on efficiency and alternative rate structures",
+    "optionD": "It will result in increased profits due to higher gas consumption",
+    "optionE": "It will force all gas utilities to convert to electric utilities",
+    "answer": "C: It may require utilities to adapt their strategies, potentially focusing more on efficiency and alternative rate structures",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "337-338",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "What are the potential broader implications of gas leaks for gas utilities beyond the direct cost of lost gas?",
+    "optionA": "There are no implications beyond the cost of lost gas",
+    "optionB": "Only minor inconvenience to customers",
+    "optionC": "Increased profit due to higher gas demand",
+    "optionD": "Potential for safety hazards, environmental impact, regulatory scrutiny, and reputational damage",
+    "optionE": "Automatic increase in stock prices",
+    "answer": "D: Potential for safety hazards, environmental impact, regulatory scrutiny, and reputational damage",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "340-341",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What are the key components of a gas utility's approach to ensuring pipeline operator qualifications?",
+    "optionA": "Annual written exams and physical fitness tests",
+    "optionB": "Ongoing reviews of qualifications, supervision of unqualified workers, and maintaining sufficient qualified operators",
+    "optionC": "Monthly safety drills and emergency response simulations",
+    "optionD": "Quarterly pipeline inspection certifications",
+    "optionE": "Mandatory retirement after 20 years of service",
+    "answer": "B. Ongoing reviews of qualifications, supervision of unqualified workers, and maintaining sufficient qualified operators",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "344",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "How are gas savings from efficiency measures calculated and reported by gas utilities?",
+    "optionA": "Based on estimated future savings over 10 years",
+    "optionB": "Only counting savings from residential customers",
+    "optionC": "Using a net savings approach that excludes natural efficiency improvements",
+    "optionD": "On a gross basis, consistent with national, state, or local EM&V regulations",
+    "optionE": "By subtracting total gas usage from the previous year's usage",
+    "answer": "D. On a gross basis, consistent with national, state, or local EM&V regulations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "337-338",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What specific actions are gas utilities required to take when discussing notable pipeline incidents in their disclosures?",
+    "optionA": "Only report the financial costs associated with the incident",
+    "optionB": "Provide a detailed description of the incident, its impact, and mitigation actions taken",
+    "optionC": "Simply state the number of incidents without any additional context",
+    "optionD": "Discuss only fatalities, ignoring other types of injuries or service disruptions",
+    "optionE": "Report incidents to regulatory bodies but not in public disclosures",
+    "answer": "B: Provide a detailed description of the incident, its impact, and mitigation actions taken",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "341",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the composition of a gas utility's distribution pipeline infrastructure affect its risk profile and strategic planning?",
+    "optionA": "It has no significant impact on risk or planning",
+    "optionB": "Higher percentages of cast iron and unprotected steel pipelines may lead to increased safety risks and emissions",
+    "optionC": "Modern pipeline materials eliminate all risks associated with gas distribution",
+    "optionD": "Pipeline composition only affects aesthetic aspects of infrastructure",
+    "optionE": "Older pipeline materials provide better long-term stability",
+    "answer": "B: Higher percentages of cast iron and unprotected steel pipelines may lead to increased safety risks and emissions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "342-343",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "In what ways could a gas utility's approach to managing fugitive emissions impact its regulatory relationships and operational strategies?",
+    "optionA": "It has no impact on regulatory relationships or strategies",
+    "optionB": "Focusing on fugitive emissions may lead to decreased profitability",
+    "optionC": "Proactive management could improve regulatory relations and drive operational improvements",
+    "optionD": "Ignoring fugitive emissions is the best strategy for maintaining good regulatory relationships",
+    "optionE": "Managing fugitive emissions is solely the responsibility of regulators",
+    "answer": "C: Proactive management could improve regulatory relations and drive operational improvements",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "344-345",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a policy mechanism for incentivizing energy efficiency in the gas utilities industry?",
+    "optionA": "Deferral decoupling",
+    "optionB": "Current period decoupling",
+    "optionC": "Single fixed variable rates",
+    "optionD": "Lost revenue adjustments",
+    "optionE": "Carbon credit trading",
+    "answer": "E. Carbon credit trading",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "339",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a type of pipeline in the context of gas delivery infrastructure inspection?",
+    "optionA": "Transmission pipelines",
+    "optionB": "Distribution pipelines",
+    "optionC": "Gathering lines",
+    "optionD": "Storage facility pipelines",
+    "optionE": "Offshore pipelines",
+    "answer": "E. Offshore pipelines",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "342-343",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as part of the efforts to manage the integrity of gas delivery infrastructure?",
+    "optionA": "Employee training",
+    "optionB": "Emergency preparedness",
+    "optionC": "Process safety",
+    "optionD": "Asset integrity management",
+    "optionE": "Cybersecurity protocols",
+    "answer": "E. Cybersecurity protocols",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "343-345",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  }
+]

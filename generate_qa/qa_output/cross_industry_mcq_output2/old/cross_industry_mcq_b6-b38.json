@@ -1,0 +1,138 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When reporting on energy consumption for Multiline and Specialty Retailers & Distributors, which of the following is NOT a required disclosure according to IFRS S2?",
+    "optionA": "Total energy consumed",
+    "optionB": "Percentage of grid electricity",
+    "optionC": "Percentage of renewable energy",
+    "optionD": "Percentage of energy from fossil fuels",
+    "optionE": "Higher heating values (HHV) for fuel usage",
+    "answer": "D. Percentage of energy from fossil fuels",
+    "explanation": "According to the IFRS S2 requirements for Multiline and Specialty Retailers & Distributors, companies must disclose (1) total energy consumed, (2) percentage of grid electricity, and (3) percentage of renewable energy. The percentage of energy from fossil fuels is not explicitly required. Higher heating values (HHV) for fuel usage are mentioned as part of the calculation methodology but are not a separate disclosure requirement.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors"
+    ],
+    "pages": [
+      "40-41"
+    ],
+    "pairing_explanation": "The retail industry's waste generation and disposal strategies can be directly compared with dedicated waste management firms to find best practices.",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors",
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "For Waste Management companies reporting on Greenhouse Gas Emissions under IFRS S2, which of the following is NOT a required disclosure?",
+    "optionA": "Gross global Scope 1 emissions",
+    "optionB": "Percentage of emissions covered under emissions-limiting regulations",
+    "optionC": "Percentage of emissions covered under emissions-reporting regulations",
+    "optionD": "Total landfill gas generated",
+    "optionE": "Scope 2 emissions",
+    "answer": "E. Scope 2 emissions",
+    "explanation": "According to the IFRS S2 requirements for Waste Management, companies must disclose (1) gross global Scope 1 emissions, (2) percentage covered under emissions-limiting regulations, (3) percentage covered under emissions-reporting regulations, and (4) total landfill gas generated. Scope 2 emissions are not explicitly required in the given metrics for this industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Waste Management"
+    ],
+    "pages": [
+      "399-402"
+    ],
+    "pairing_explanation": "The retail industry's waste generation and disposal strategies can be directly compared with dedicated waste management firms to find best practices.",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors",
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of renewable energy consumed by a Multiline and Specialty Retailer, which of the following sources should NOT be included?",
+    "optionA": "On-site generated renewable electricity with retained RECs",
+    "optionB": "Purchased renewable energy through a PPA with explicit RECs",
+    "optionC": "Green-e Energy Certified utility program",
+    "optionD": "Renewable portion of the standard electricity grid mix",
+    "optionE": "Eligible biomass sources certified by third-party standards",
+    "answer": "D. Renewable portion of the standard electricity grid mix",
+    "explanation": "According to the IFRS S2 requirements for Multiline and Specialty Retailers & Distributors, the renewable portion of the electricity grid mix that is outside of the control or influence of the entity is excluded from the scope of renewable energy. All other options listed are valid sources of renewable energy for this calculation.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors"
+    ],
+    "pages": [
+      "41"
+    ],
+    "pairing_explanation": "The retail industry's waste generation and disposal strategies can be directly compared with dedicated waste management firms to find best practices.",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors",
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When a Waste Management company is calculating the percentage of its fleet that consists of alternative fuel vehicles, which of the following vehicle types should NOT be included?",
+    "optionA": "Vehicles powered by biodiesel",
+    "optionB": "Hybrid electric vehicles",
+    "optionC": "Vehicles powered by natural gas",
+    "optionD": "Fuel cell vehicles",
+    "optionE": "Conventional gasoline-powered vehicles with improved fuel efficiency",
+    "answer": "E. Conventional gasoline-powered vehicles with improved fuel efficiency",
+    "explanation": "According to the IFRS S2 requirements for Waste Management, alternative fuel vehicles include those powered by biodiesel, electricity, hydrogen, natural gas, propane, as well as hybrid electric vehicles and fuel cell vehicles. Conventional gasoline-powered vehicles, even with improved fuel efficiency, are not considered alternative fuel vehicles unless they achieve a significant reduction in petroleum consumption.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Waste Management"
+    ],
+    "pages": [
+      "406"
+    ],
+    "pairing_explanation": "The retail industry's waste generation and disposal strategies can be directly compared with dedicated waste management firms to find best practices.",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors",
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing the energy management strategies of Multiline and Specialty Retailers & Distributors with Waste Management companies, which of the following statements is most accurate?",
+    "optionA": "Retailers focus on facility energy consumption, while Waste Management companies prioritize vehicle fleet fuel management",
+    "optionB": "Both industries have identical energy management metrics and strategies",
+    "optionC": "Waste Management companies do not need to report on energy consumption",
+    "optionD": "Retailers are required to report on fleet fuel consumption, while Waste Management companies are not",
+    "optionE": "Both industries focus exclusively on renewable energy adoption",
+    "answer": "A. Retailers focus on facility energy consumption, while Waste Management companies prioritize vehicle fleet fuel management",
+    "explanation": "The IFRS S2 requirements show that Multiline and Specialty Retailers & Distributors focus on energy management in retail facilities and warehouses, including total energy consumed and percentages of grid and renewable electricity. In contrast, Waste Management companies have specific metrics related to fleet fuel management, including fleet fuel consumed and the percentage of alternative fuel vehicles. This reflects the different operational focuses of these industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Waste Management"
+    ],
+    "pages": [
+      "40-41",
+      "405-406"
+    ],
+    "pairing_explanation": "The retail industry's waste generation and disposal strategies can be directly compared with dedicated waste management firms to find best practices.",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors",
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the greenhouse gas (GHG) emission reporting requirements differ between Multiline and Specialty Retailers & Distributors and Waste Management companies under IFRS S2?",
+    "optionA": "Retailers must report Scope 1, 2, and 3 emissions, while Waste Management companies only report Scope 1",
+    "optionB": "Waste Management companies must report on landfill gas emissions, while Retailers do not have specific GHG reporting requirements",
+    "optionC": "Both industries have identical GHG reporting requirements",
+    "optionD": "Retailers focus on energy-related emissions, while Waste Management companies report on both direct emissions and landfill gas",
+    "optionE": "Neither industry is required to report on GHG emissions",
+    "answer": "D. Retailers focus on energy-related emissions, while Waste Management companies report on both direct emissions and landfill gas",
+    "explanation": "The IFRS S2 requirements show that Multiline and Specialty Retailers & Distributors focus on energy consumption and related emissions, including the percentage of renewable energy. Waste Management companies, on the other hand, have more comprehensive GHG reporting requirements, including gross global Scope 1 emissions, percentages covered under emissions regulations, and specific metrics for landfill gas generation and management. This reflects the different environmental impacts and priorities of these industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Waste Management"
+    ],
+    "pages": [
+      "40-41",
+      "399-402"
+    ],
+    "pairing_explanation": "The retail industry's waste generation and disposal strategies can be directly compared with dedicated waste management firms to find best practices.",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors",
+      "b38-waste-management"
+    ]
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2 Climate-related Disclosures, which of the following is NOT a required component when discussing long-term and short-term strategies to manage Scope 1 emissions for semiconductor companies?",
+    "optionA": "The scope of the emission reduction target",
+    "optionB": "Whether the target is absolute- or intensity-based",
+    "optionC": "The percentage reduction against the base year",
+    "optionD": "The specific semiconductor manufacturing processes to be modified",
+    "optionE": "The mechanism(s) for achieving the target",
+    "answer": "D. The specific semiconductor manufacturing processes to be modified",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Semiconductors",
+    "page": "567-568",
+    "industries": [
+      "b57-semiconductors"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing renewable energy consumption for semiconductor companies, which of the following sources is NOT included in the scope of renewable energy according to IFRS S2?",
+    "optionA": "Renewable fuel the entity consumed",
+    "optionB": "Renewable energy the entity directly produced",
+    "optionC": "Renewable energy purchased through a PPA with explicit RECs",
+    "optionD": "Green-e Energy Certified utility program purchases",
+    "optionE": "The renewable portion of the electricity grid mix outside the entity's control",
+    "answer": "E. The renewable portion of the electricity grid mix outside the entity's control",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Semiconductors",
+    "page": "569-570",
+    "industries": [
+      "b57-semiconductors"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When reporting on water management for semiconductor companies, how is water consumption defined according to IFRS S2?",
+    "optionA": "Total water withdrawn from all sources",
+    "optionB": "Water that evaporates during withdrawal, usage, and discharge",
+    "optionC": "Water returned to the same catchment area from which it was withdrawn",
+    "optionD": "Water used in manufacturing processes and then treated",
+    "optionE": "Total water purchased from municipal water supplies",
+    "answer": "B. Water that evaporates during withdrawal, usage, and discharge",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Semiconductors",
+    "page": "571-572",
+    "industries": [
+      "b57-semiconductors"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing processor energy efficiency for laptops, which of the following metrics is NOT required according to IFRS S2?",
+    "optionA": "Performance qualification score",
+    "optionB": "Battery life score in minutes",
+    "optionC": "SPECspeed2017_int_base score/watt",
+    "optionD": "SPECspeed2017_fp_base score/watt",
+    "optionE": "Results from MobileMark\u00ae 2014 v1.5 testing",
+    "answer": "C. SPECspeed2017_int_base score/watt",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Semiconductors",
+    "page": "574-575",
+    "industries": [
+      "b57-semiconductors"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of products containing IEC 62474 declarable substances, how should a semiconductor company determine the revenue basis according to IFRS S2?",
+    "optionA": "Total company revenue",
+    "optionB": "Revenue from semiconductor products only",
+    "optionC": "Revenue from products containing any amount of declarable substances",
+    "optionD": "Revenue from electrical, electronic, and related technology products sold",
+    "optionE": "Revenue from products exceeding regulatory thresholds",
+    "answer": "D. Revenue from electrical, electronic, and related technology products sold",
+    "reference": "Product Lifecycle Management",
+    "page": "573-574",
+    "industries": [
+      "b57-semiconductors"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "According to IFRS S2, how should a semiconductor company calculate its gross global Scope 1 emissions?",
+    "optionA": "In metric tons of CO2 only",
+    "optionB": "In metric tons of CO2-e, using 20-year time horizon GWP values",
+    "optionC": "In metric tons of CO2-e, using 100-year time horizon GWP values from IPCC Fifth Assessment Report",
+    "optionD": "Separately for each type of greenhouse gas, without conversion",
+    "optionE": "Using regional emission factors without standardization",
+    "answer": "C. In metric tons of CO2-e, using 100-year time horizon GWP values from IPCC Fifth Assessment Report",
+    "reference": "Greenhouse Gas Emissions",
+    "page": "566-567",
+    "industries": [
+      "b57-semiconductors"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When disclosing energy consumption, how should a semiconductor company calculate the percentage of renewable energy according to IFRS S2?",
+    "optionA": "Renewable energy generated / Total energy consumed",
+    "optionB": "Renewable energy consumed / Total energy purchased",
+    "optionC": "Renewable energy consumed / Total electricity consumed",
+    "optionD": "Renewable energy consumed / Total energy consumed",
+    "optionE": "Renewable energy purchased / Total energy purchased",
+    "answer": "D. Renewable energy consumed / Total energy consumed",
+    "reference": "Energy Management in Manufacturing",
+    "page": "569-570",
+    "industries": [
+      "b57-semiconductors"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What unique challenge does IFRS S2 highlight for semiconductor companies regarding water management in their sustainability reporting?",
+    "optionA": "Reporting on water recycling rates",
+    "optionB": "Disclosing water quality parameters",
+    "optionC": "Calculating water intensity per unit of production",
+    "optionD": "Reporting water consumption in regions with High or Extremely High Baseline Water Stress",
+    "optionE": "Tracking rainwater harvesting volumes",
+    "answer": "D: Reporting water consumption in regions with High or Extremely High Baseline Water Stress",
+    "reference": "Water Management",
+    "page": "571-572",
+    "industries": [
+      "b57-semiconductors"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "According to IFRS S2, what specific aspect of greenhouse gas emissions reporting poses a unique challenge for semiconductor manufacturers?",
+    "optionA": "Reporting on methane emissions",
+    "optionB": "Disclosing emissions from transportation",
+    "optionC": "Calculating emissions from perfluorinated compounds",
+    "optionD": "Reporting on indirect Scope 3 emissions",
+    "optionE": "Estimating emissions from product use",
+    "answer": "C: Calculating emissions from perfluorinated compounds",
+    "reference": "Greenhouse Gas Emissions",
+    "page": "566-567",
+    "industries": [
+      "b57-semiconductors"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What unique challenge does IFRS S2 present for semiconductor companies when reporting on product lifecycle management?",
+    "optionA": "Disclosing product lifespan estimates",
+    "optionB": "Reporting on recycling rates of semiconductors",
+    "optionC": "Calculating the carbon footprint of each product",
+    "optionD": "Disclosing processor energy efficiency at a system-level for different device categories",
+    "optionE": "Tracking the number of conflict minerals used in products",
+    "answer": "D: Disclosing processor energy efficiency at a system-level for different device categories",
+    "reference": "Product Lifecycle Management",
+    "page": "574-575",
+    "industries": [
+      "b57-semiconductors"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "According to IFRS S2, what unique aspect of energy management reporting is particularly challenging for semiconductor manufacturing companies?",
+    "optionA": "Reporting on energy storage capacities",
+    "optionB": "Disclosing energy consumption from office buildings",
+    "optionC": "Calculating the percentage of grid electricity and renewable energy consumed",
+    "optionD": "Estimating energy use in the supply chain",
+    "optionE": "Reporting on energy efficiency of manufacturing equipment",
+    "answer": "C: Calculating the percentage of grid electricity and renewable energy consumed",
+    "reference": "Energy Management in Manufacturing",
+    "page": "569-570",
+    "industries": [
+      "b57-semiconductors"
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Quantitative' for Metals & Mining and Electrical & Electronic Equipment industries.",
+    "answer": "Metals & Mining:\n- Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO2-e, Percentage (%) | EM-MM-110a.1\n- (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | EM-MM-130a.1\n- (1) Total fresh water withdrawn, (2) total fresh water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%) | EM-MM-140a.1\n- Number of incidents of non-compliance associated with water quality permits, standards, and regulations | Quantitative | Number | EM-MM-140a.2\n\nElectrical & Electronic Equipment:\n- (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | RT-EE-130a.1\n- Percentage of products by revenue that contain IEC 62474 declarable substances | Quantitative | Percentage (%) by revenue | RT-EE-410a.1\n- Percentage of eligible products, by revenue, that meet ENERGY STAR\u00ae criteria certified to an energy efficiency certification | Quantitative | Percentage (%) by revenue | RT-EE-410a.2\n- Revenue from renewable energy-related and energy efficiency-related products | Quantitative | Reporting currency | RT-EE-410a.3",
+    "reference_text": [
+      "| Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO2-e, Percentage (%) | EM-MM-110a.1 |",
+      "| Energy Management | (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | EM-MM-130a.1 |",
+      "| Water Management | (1) Total fresh water withdrawn, (2) total fresh water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%) | EM-MM-140a.1 |",
+      "| Water Management | Number of incidents of non-compliance associated with water quality permits, standards, and regulations | Quantitative | Number | EM-MM-140a.2 |",
+      "| Energy Management | (1) Total energy consumed, (2) percent- age grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | RT-EE-130a.1 |",
+      "| | Percentage of products by revenue that contain IEC 62474 declarable substan- ces | Quantitative | Percentage (%) by revenue | RT-EE-410a.1 |",
+      "| Product Lifecycle Management | Percentage of eligible products, by revenue, that meet ENERGY STAR\u00ae criteria certified to an energy efficiency certification | Quantitative | Percentage (%) by revenue | RT-EE-410a.2 |",
+      "| | Revenue from renewable energy-related and energy efficiency-related products | Quantitative | Reporting currency | RT-EE-410a.3 |"
+    ],
+    "pages": [
+      "81",
+      "522"
+    ],
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Metals & Mining and Electrical & Electronic Equipment industries?",
+    "answer": "Metals & Mining industry has 4 'Quantitative' metrics to disclose in Table 1, while Electrical & Electronic Equipment industry has 4 'Quantitative' metrics to disclose in Table 1.",
+    "reference_text": [
+      "| Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO2-e, Percentage (%) | EM-MM-110a.1 |",
+      "| Energy Management | (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | EM-MM-130a.1 |",
+      "| Water Management | (1) Total fresh water withdrawn, (2) total fresh water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%) | EM-MM-140a.1 |",
+      "| Water Management | Number of incidents of non-compliance associated with water quality permits, standards, and regulations | Quantitative | Number | EM-MM-140a.2 |",
+      "| Energy Management | (1) Total energy consumed, (2) percent- age grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | RT-EE-130a.1 |",
+      "| | Percentage of products by revenue that contain IEC 62474 declarable substan- ces | Quantitative | Percentage (%) by revenue | RT-EE-410a.1 |",
+      "| Product Lifecycle Management | Percentage of eligible products, by revenue, that meet ENERGY STAR\u00ae criteria certified to an energy efficiency certification | Quantitative | Percentage (%) by revenue | RT-EE-410a.2 |",
+      "| | Revenue from renewable energy-related and energy efficiency-related products | Quantitative | Reporting currency | RT-EE-410a.3 |"
+    ],
+    "pages": [
+      "81",
+      "522"
+    ],
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Metals & Mining and Electrical & Electronic Equipment industries.",
+    "answer": "Metals & Mining: EM-MM-110a.1, EM-MM-130a.1, EM-MM-140a.1, EM-MM-140a.2\nElectrical & Electronic Equipment: RT-EE-130a.1, RT-EE-410a.1, RT-EE-410a.2, RT-EE-410a.3",
+    "reference_text": [
+      "| Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO2-e, Percentage (%) | EM-MM-110a.1 |",
+      "| Energy Management | (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | EM-MM-130a.1 |",
+      "| Water Management | (1) Total fresh water withdrawn, (2) total fresh water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%) | EM-MM-140a.1 |",
+      "| Water Management | Number of incidents of non-compliance associated with water quality permits, standards, and regulations | Quantitative | Number | EM-MM-140a.2 |",
+      "| Energy Management | (1) Total energy consumed, (2) percent- age grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | RT-EE-130a.1 |",
+      "| | Percentage of products by revenue that contain IEC 62474 declarable substan- ces | Quantitative | Percentage (%) by revenue | RT-EE-410a.1 |",
+      "| Product Lifecycle Management | Percentage of eligible products, by revenue, that meet ENERGY STAR\u00ae criteria certified to an energy efficiency certification | Quantitative | Percentage (%) by revenue | RT-EE-410a.2 |",
+      "| | Revenue from renewable energy-related and energy efficiency-related products | Quantitative | Reporting currency | RT-EE-410a.3 |"
+    ],
+    "pages": [
+      "Page 81",
+      "Page 522"
+    ],
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0
+  },
+  {
+    "question": "What units of measurement are used across Metals & Mining and Electrical & Electronic Equipment industries for measuring energy management?",
+    "answer": "Metals & Mining: Gigajoules (GJ), Percentage (%)\nElectrical & Electronic Equipment: Gigajoules (GJ), Percentage (%)",
+    "reference_text": [
+      "| Energy Management | (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | EM-MM-130a.1 |",
+      "| Energy Management | (1) Total energy consumed, (2) percent- age grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | RT-EE-130a.1 |"
+    ],
+    "pages": [
+      "Page 81",
+      "Page 522"
+    ],
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0
+  }
+]

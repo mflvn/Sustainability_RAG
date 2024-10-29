@@ -1,0 +1,167 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2, what specific metric is used to measure customer gas savings from efficiency measures for Gas Utilities & Distributors?",
+    "optionA": "Kilowatt-hours (kWh)",
+    "optionB": "Cubic feet (cf)",
+    "optionC": "Million British Thermal Units (MMBtu)",
+    "optionD": "Therms",
+    "optionE": "Joules (J)",
+    "answer": "C. Million British Thermal Units (MMBtu)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "337",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing reportable pipeline incidents, which of the following is NOT considered a criterion for a reportable incident according to IFRS S2?",
+    "optionA": "A death or personal injury necessitating in-patient hospitalization",
+    "optionB": "Estimated property damage of $50,000 or more",
+    "optionC": "An unintentional estimated gas loss of three million cubic feet or more",
+    "optionD": "An event that is significant in the judgment of the operator",
+    "optionE": "Any gas leak, regardless of its size or impact",
+    "answer": "E. Any gas leak, regardless of its size or impact",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "340-341",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When reporting on the integrity of gas delivery infrastructure, which of the following is NOT a required disclosure under IFRS S2?",
+    "optionA": "Percentage of distribution pipeline that is cast and/or wrought iron",
+    "optionB": "Percentage of distribution pipeline that is unprotected steel",
+    "optionC": "Percentage of gas transmission pipelines inspected",
+    "optionD": "Percentage of gas distribution pipelines inspected",
+    "optionE": "Percentage of pipeline made from polyethylene",
+    "answer": "E. Percentage of pipeline made from polyethylene",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "342-343",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2, when discussing efforts to manage the integrity of gas delivery infrastructure, which of the following is NOT considered part of the 'project lifecycle' that should be addressed?",
+    "optionA": "Pipeline design",
+    "optionB": "Construction",
+    "optionC": "Operation",
+    "optionD": "Financing",
+    "optionE": "Decommissioning",
+    "answer": "D. Financing",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "344",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating customer gas savings from efficiency measures (IF-GU-420a.2), which of the following approaches should be used according to IFRS S2?",
+    "optionA": "Net savings approach",
+    "optionB": "Gross savings approach",
+    "optionC": "Adjusted gross savings approach",
+    "optionD": "Lifetime savings approach",
+    "optionE": "Incremental savings approach",
+    "answer": "B. Gross savings approach",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "337",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of distribution pipeline that is cast and/or wrought iron (IF-GU-540a.2), which formula should be used?",
+    "optionA": "Length of cast/wrought iron pipelines / Total length of all pipelines",
+    "optionB": "Length of cast/wrought iron pipelines / Total length of transmission pipelines",
+    "optionC": "Length of cast/wrought iron pipelines / Total length of distribution pipelines",
+    "optionD": "Volume of gas in cast/wrought iron pipelines / Total volume of gas in all pipelines",
+    "optionE": "Number of cast/wrought iron pipeline segments / Total number of pipeline segments",
+    "answer": "C. Length of cast/wrought iron pipelines / Total length of distribution pipelines",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "342",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When reporting on the percentage of gas transmission pipelines inspected (IF-GU-540a.3), which of the following is NOT considered an acceptable inspection activity?",
+    "optionA": "Internal inspection tool capable of detecting corrosion",
+    "optionB": "Pressure tests",
+    "optionC": "Direct assessment to address threats of external corrosion",
+    "optionD": "Visual inspection without specialized tools",
+    "optionE": "Other technology that provides an equivalent understanding of pipeline condition",
+    "answer": "D. Visual inspection without specialized tools",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "342-343",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What is a unique challenge for gas utilities when reporting on end-use efficiency measures in markets with different regulatory oversight?",
+    "optionA": "Calculating total gas savings uniformly across all markets",
+    "optionB": "Reporting gas savings only for residential customers",
+    "optionC": "Disclosing savings separately for each market with distinct public utility regulatory oversight",
+    "optionD": "Ignoring regulatory differences and reporting aggregate savings",
+    "optionE": "Focusing solely on industrial customer savings",
+    "answer": "C: Disclosing savings separately for each market with distinct public utility regulatory oversight",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "337-338",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When reporting on pipeline incidents (IF-GU-540a.1), what specific challenge do gas utilities face in providing comprehensive disclosure?",
+    "optionA": "Reporting only fatal incidents",
+    "optionB": "Excluding property damage from incident reports",
+    "optionC": "Focusing solely on environmental impacts",
+    "optionD": "Discussing notable incidents that affected customers, caused extended disruptions, or resulted in serious injuries",
+    "optionE": "Reporting incidents only to regulatory bodies, not in sustainability reports",
+    "answer": "D: Discussing notable incidents that affected customers, caused extended disruptions, or resulted in serious injuries",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "341-342",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What unique challenge do gas utilities face when reporting on efforts to manage the integrity of gas delivery infrastructure (IF-GU-540a.4)?",
+    "optionA": "Focusing only on pipeline maintenance",
+    "optionB": "Ignoring emergency preparedness measures",
+    "optionC": "Excluding discussion of financial opportunities",
+    "optionD": "Addressing only transmission pipelines",
+    "optionE": "Integrating safety culture, emergency preparedness, and emissions management across the entire project lifecycle",
+    "answer": "E: Integrating safety culture, emergency preparedness, and emissions management across the entire project lifecycle",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "343-345",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What specific challenge do gas utilities face when reporting on pipeline operator qualifications as part of infrastructure integrity management?",
+    "optionA": "Reporting only on the number of operators employed",
+    "optionB": "Focusing solely on academic qualifications of operators",
+    "optionC": "Describing the approach to ensure operators are qualified or supervised for covered tasks, including ongoing reviews and proper supervision of unqualified workers",
+    "optionD": "Discussing operator qualifications only for transmission pipelines",
+    "optionE": "Reporting on operator salaries and benefits",
+    "answer": "C: Describing the approach to ensure operators are qualified or supervised for covered tasks, including ongoing reviews and proper supervision of unqualified workers",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Gas Utilities & Distributors",
+    "page": "344",
+    "industries": [
+      "b34-gas-utilities-and-distributors"
+    ]
+  }
+]

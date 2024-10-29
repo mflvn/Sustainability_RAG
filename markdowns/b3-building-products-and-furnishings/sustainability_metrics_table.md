@@ -1,0 +1,6 @@
+| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |
+|-------|--------|----------|------------------|------|
+| Energy Management in Manufacturing | (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | CG-BF-130a.1 |
+| Product Lifecycle Environmental Impacts | Description of efforts to manage product lifecycle impacts and meet demand for sustainable products | Discussion and Analysis | n/a | CG-BF-410a.1 |
+| Product Lifecycle Environmental Impacts | (1) Weight of end-of-life material recovered, (2) percentage of recovered materials recycled | Quantitative | Metric tons (t), Percentage (%) by weight | CG-BF-410a.2 |
+| Wood Supply Chain Management | (1) Total weight of wood fiber materials purchased, (2) percentage from third-party certified forestlands, (3) percentage by standard, and (4) percentage certified to other wood fiber standards, (5) percentage by standard³ | Quantitative | Metric tons (t), Percentage (%) by weight | CG-BF-430a.1 |

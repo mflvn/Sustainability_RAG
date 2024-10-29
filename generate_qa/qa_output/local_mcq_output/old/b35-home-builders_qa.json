@@ -1,0 +1,362 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the two metrics used to measure the number of homes and lots delivered on redevelopment sites?",
+    "optionA": "Number of homes and average square footage",
+    "optionB": "Number of lots and average price",
+    "optionC": "Number of lots and number of homes",
+    "optionD": "Number of homes and total acreage",
+    "optionE": "Number of communities and number of homes",
+    "answer": "C: Number of lots and number of homes",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders",
+    "page": "348-349",
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the document, what tool should be used to identify controlled lots in locations with High or Extremely High Baseline Water Stress?",
+    "optionA": "EPA Water Scarcity Index",
+    "optionB": "World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "optionC": "United Nations Global Water Assessment Program",
+    "optionD": "USGS Water Availability Tool",
+    "optionE": "World Bank Water Stress Indicator",
+    "answer": "B: World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders",
+    "page": "349",
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the five aspects that a third-party multi-attribute green building standard for homes must address at a minimum?",
+    "optionA": "Energy efficiency, water conservation, material efficiency, indoor air quality, and landscaping",
+    "optionB": "Energy efficiency, water conservation, material and resource efficiency, indoor environmental quality, and owner education",
+    "optionC": "Energy efficiency, waste reduction, sustainable materials, outdoor environmental impact, and home automation",
+    "optionD": "Energy efficiency, water conservation, recycling, indoor air quality, and community design",
+    "optionE": "Energy efficiency, water conservation, material efficiency, outdoor environmental quality, and builder certification",
+    "answer": "B: Energy efficiency, water conservation, material and resource efficiency, indoor environmental quality, and owner education",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders",
+    "page": "353",
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "How is a 100-year flood zone defined in the document?",
+    "optionA": "Areas that flood once every 100 years",
+    "optionB": "Land areas with a 10% chance of flooding annually",
+    "optionC": "Coastal regions prone to hurricanes and tsunamis",
+    "optionD": "Land areas subject to a one-percent or greater chance of flooding in any given year",
+    "optionE": "Regions that have experienced severe flooding in the past century",
+    "answer": "D: Land areas subject to a one-percent or greater chance of flooding in any given year",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders",
+    "page": "355",
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might a home builder's approach to integrating environmental considerations into site selection and development impact their financial performance and future growth opportunities?",
+    "optionA": "By increasing construction costs without any benefits",
+    "optionB": "By reducing the number of available development sites",
+    "optionC": "By improving compliance with regulations and potentially mitigating financial risks while enhancing growth opportunities",
+    "optionD": "By increasing the speed of construction and delivery of homes",
+    "optionE": "By eliminating the need for environmental impact assessments",
+    "answer": "C: By improving compliance with regulations and potentially mitigating financial risks while enhancing growth opportunities",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders",
+    "page": "348-351",
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "What potential benefits could a home builder realize by focusing on delivering homes certified to third-party multi-attribute green building standards and communicating these benefits to customers?",
+    "optionA": "Reduced construction costs and faster building times",
+    "optionB": "Increased land acquisition opportunities in protected areas",
+    "optionC": "Higher sales price premiums, increased target market demand, and competitive advantages",
+    "optionD": "Simplified permitting processes and reduced regulatory oversight",
+    "optionE": "Elimination of the need for energy efficiency measurements",
+    "answer": "C: Higher sales price premiums, increased target market demand, and competitive advantages",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders",
+    "page": "352-354",
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How can a home builder's strategy for addressing climate change risks in their development activities affect their long-term business prospects?",
+    "optionA": "It has no impact on long-term business prospects",
+    "optionB": "It only affects short-term construction costs",
+    "optionC": "It can lead to reduced long-term demand and land value depreciation in high-risk areas",
+    "optionD": "It guarantees increased profits regardless of location choices",
+    "optionE": "It only impacts the company's marketing strategy",
+    "answer": "C: It can lead to reduced long-term demand and land value depreciation in high-risk areas",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders",
+    "page": "355-356",
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How does the integration of resource efficiency into home design potentially impact both the home builder and the homeowner?",
+    "optionA": "It only benefits the home builder through increased profits",
+    "optionB": "It only benefits the homeowner through lower utility bills",
+    "optionC": "It has no significant impact on either party",
+    "optionD": "It can provide competitive advantages for the builder and long-term cost savings for the homeowner",
+    "optionE": "It negatively impacts both parties by increasing costs without benefits",
+    "answer": "D: It can provide competitive advantages for the builder and long-term cost savings for the homeowner",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders",
+    "page": "352-354",
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is the Home Energy Rating System (HERS) Index Score, and why is it important for home builders?",
+    "optionA": "A score that measures the energy efficiency of appliances in a home",
+    "optionB": "A standardized measurement of a home's energy efficiency, with lower scores indicating better efficiency",
+    "optionC": "A rating system for the aesthetic appeal of a home's design",
+    "optionD": "A score that only measures the water efficiency of a home",
+    "optionE": "A rating system for the structural integrity of a home",
+    "answer": "B: A standardized measurement of a home's energy efficiency, with lower scores indicating better efficiency",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders",
+    "page": "352-353",
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What are 'controlled lots' in the context of home building, and why are they significant for environmental impact assessments?",
+    "optionA": "Lots where construction has already begun",
+    "optionB": "Lots owned by the government and leased to builders",
+    "optionC": "Lots that are owned or contractually available for ownership by the home builder",
+    "optionD": "Lots that have been fully developed and are ready for sale",
+    "optionE": "Lots that are controlled by environmental agencies",
+    "answer": "C: Lots that are owned or contractually available for ownership by the home builder",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders",
+    "page": "348-349",
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is a 'redevelopment site' in the context of home building, and how does it differ from other types of development sites?",
+    "optionA": "A site where homes are renovated but not rebuilt",
+    "optionB": "A previously undeveloped rural area",
+    "optionC": "A site that was previously developed, including the replacement, remodeling, or reuse of existing structures",
+    "optionD": "A site designated for future development",
+    "optionE": "A site where only commercial buildings can be constructed",
+    "answer": "C: A site that was previously developed, including the replacement, remodeling, or reuse of existing structures",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders",
+    "page": "348-349",
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is a '100-year flood zone' in the context of home building, and why is it significant for builders to track the number of lots located in these areas?",
+    "optionA": "A zone that floods every 100 years, with no significance for builders",
+    "optionB": "An area with a 1% chance of flooding annually, important for assessing long-term risks and property values",
+    "optionC": "A zone that requires flood insurance every 100 years, affecting home sales",
+    "optionD": "An area that has not flooded in the last 100 years, ideal for new developments",
+    "optionE": "A designation for areas that will be underwater in 100 years due to climate change",
+    "answer": "B: An area with a 1% chance of flooding annually, important for assessing long-term risks and property values",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders",
+    "page": "355-356",
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "In the context of climate change adaptation for home builders, why is it important to consider the long-term impacts on homebuyer demand and land value?",
+    "optionA": "It only affects short-term sales figures",
+    "optionB": "Climate change has no impact on homebuyer demand or land value",
+    "optionC": "It's only relevant for coastal properties",
+    "optionD": "Long-term climate risks can lead to reduced demand, land value depreciation, and concerns over understated costs of home ownership",
+    "optionE": "It only matters for luxury home developments",
+    "answer": "D. Long-term climate risks can lead to reduced demand, land value depreciation, and concerns over understated costs of home ownership",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders",
+    "page": "355",
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "How should home builders calculate the percentage of installed water fixtures certified to water efficiency standards?",
+    "optionA": "By comparing the cost of certified fixtures to non-certified ones",
+    "optionB": "By counting only fixtures in completed homes",
+    "optionC": "By dividing certified fixtures by total fixtures installed, regardless of construction stage",
+    "optionD": "By estimating based on previous years' data",
+    "optionE": "By excluding fixtures not eligible for certification",
+    "answer": "C. By dividing certified fixtures by total fixtures installed, regardless of construction stage",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "352-353",
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What should be included in a home builder's climate change risk exposure analysis?",
+    "optionA": "Only financial projections for the next fiscal year",
+    "optionB": "Identification of risks, opportunities, timelines, and scenarios used",
+    "optionC": "Exclusive focus on current weather patterns",
+    "optionD": "Analysis of competitors' building practices",
+    "optionE": "Only considerations of immediate market demand",
+    "answer": "B. Identification of risks, opportunities, timelines, and scenarios used",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "356",
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What process should home builders follow to integrate environmental considerations into site selection, design, and development according to IFRS S2?",
+    "optionA": "Focus solely on cost-effectiveness of the land",
+    "optionB": "Prioritize only the aesthetic appeal of the site",
+    "optionC": "Assess ecological sensitivity, minimize impacts, and follow relevant codes and guidelines",
+    "optionD": "Ignore environmental factors and focus on rapid development",
+    "optionE": "Consult only with local authorities for environmental approvals",
+    "answer": "C. Assess ecological sensitivity, minimize impacts, and follow relevant codes and guidelines",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders",
+    "page": "350-351",
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to IFRS S2, how should home builders communicate the benefits of resource-efficient home design to customers?",
+    "optionA": "Focus only on the aesthetic aspects of the home",
+    "optionB": "Highlight lower purchase prices without mentioning efficiency",
+    "optionC": "Provide energy and water efficiency data, projected cost savings, and third-party certifications",
+    "optionD": "Avoid discussing resource efficiency to simplify the sales process",
+    "optionE": "Only mention resource efficiency if specifically asked by the customer",
+    "answer": "C. Provide energy and water efficiency data, projected cost savings, and third-party certifications",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders",
+    "page": "354-355",
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might a home builder's strategy for developing properties in water-stressed regions impact their long-term business prospects?",
+    "optionA": "It would have no significant impact on their business prospects",
+    "optionB": "It could lead to increased profits due to higher demand in water-stressed areas",
+    "optionC": "It may result in reduced long-term demand, land value depreciation, and permitting challenges",
+    "optionD": "It would only affect their business if the water stress becomes severe",
+    "optionE": "It would improve their reputation as an environmentally conscious builder",
+    "answer": "C: It may result in reduced long-term demand, land value depreciation, and permitting challenges",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders",
+    "page": "351, 355",
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How could a home builder effectively balance the costs of implementing resource-efficient designs with potential market advantages?",
+    "optionA": "By only implementing the cheapest resource-efficient designs",
+    "optionB": "By ignoring resource efficiency to keep costs low",
+    "optionC": "By passing all costs of resource efficiency directly to customers",
+    "optionD": "By strategically investing in cost-effective efficiency measures and educating customers on long-term benefits",
+    "optionE": "By focusing solely on luxury homes where efficiency costs don't matter",
+    "answer": "D: By strategically investing in cost-effective efficiency measures and educating customers on long-term benefits",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders",
+    "page": "352, 354-355",
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "What potential impacts could the reclassification of 100-year flood zones have on a home builder's operations and risk management strategies?",
+    "optionA": "It would have no impact on their operations or strategies",
+    "optionB": "It would only affect coastal properties",
+    "optionC": "It could lead to increased property values in all areas",
+    "optionD": "It might result in easier permitting processes for all developments",
+    "optionE": "It could lead to risks of expansion of flood-prone areas into controlled lots, affecting land value, permitting, and long-term demand",
+    "answer": "E: It could lead to risks of expansion of flood-prone areas into controlled lots, affecting land value, permitting, and long-term demand",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders",
+    "page": "355-356",
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following environmental considerations is NOT mentioned as part of the process for integrating environmental factors into site selection, design, and development?",
+    "optionA": "Ecological impacts",
+    "optionB": "Biodiversity impacts",
+    "optionC": "Emissions to air",
+    "optionD": "Noise pollution",
+    "optionE": "Waste management",
+    "answer": "D. Noise pollution",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders",
+    "page": "350",
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT listed as a category in the Sustainability Disclosure Topics & Metrics table for Home Builders?",
+    "optionA": "Land Use & Ecological Impacts",
+    "optionB": "Design for Resource Efficiency",
+    "optionC": "Climate Change Adaptation",
+    "optionD": "Supply Chain Management",
+    "optionE": "Activity Metrics",
+    "answer": "D. Supply Chain Management",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders",
+    "page": "346",
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a risk or opportunity related to incorporating resource efficiency into home design?",
+    "optionA": "Failing to achieve adequate returns on investments in technology",
+    "optionB": "Risks to market demand from failing to evolve design approach",
+    "optionC": "Opportunities to achieve sales price premiums",
+    "optionD": "Risks associated with meeting evolving building codes",
+    "optionE": "Potential for government subsidies for eco-friendly designs",
+    "answer": "E. Potential for government subsidies for eco-friendly designs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders",
+    "page": "354-355",
+    "industries": [
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a product category for water fixtures eligible for certification to a jurisdictional water efficiency standard?",
+    "optionA": "Bathroom sink faucets",
+    "optionB": "Showerheads",
+    "optionC": "Toilets",
+    "optionD": "Dishwashers",
+    "optionE": "Irrigation controllers",
+    "answer": "D. Dishwashers",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders",
+    "page": "353",
+    "industries": [
+      "b35-home-builders"
+    ]
+  }
+]

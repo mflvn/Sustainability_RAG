@@ -1,0 +1,11 @@
+{
+  "pairings": [
+    {
+      "industries": [
+        "b7-coal-operations",
+        "b9-iron-and-steel-producers",
+        "b12-oil-and-gas-midstream"
+      ],
+      "explanation": "These extractive industries have substantial environmental impacts, including emissions, land use, and water consumption, making them critical to compare in sustainability reporting."
+    } ]
+}

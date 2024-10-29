@@ -1,0 +1,179 @@
+[
+  {
+    "question": "What are the qualitative metrics related to Greenhouse Gas Emissions that need to be disclosed for the Metals & Mining industry?",
+    "optionA": "Number of incidents of non-compliance associated with water quality permits, standards, and regulations.",
+    "optionB": "Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets.",
+    "optionC": "(1) Total fresh water withdrawn, (2) total fresh water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress.",
+    "optionD": "Number of units produced by product category.",
+    "optionE": "Production of (1) metal ores and (2) finished metal products.",
+    "answer": "B",
+    "reference_text": [
+      "EM-MM-110a.2. Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets"
+    ],
+    "pages": [
+      "84"
+    ],
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "pairing_explanation": "Mining provides critical raw materials for electronic equipment, presenting issues of resource depletion and recycling within closed-loop systems.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "What are the required disclosure topics for the Electrical & Electronic Equipment industry related to energy and product lifecycle management?",
+    "optionA": "Energy Management, Product Lifecycle Management",
+    "optionB": "Greenhouse Gas Emissions, Water Management",
+    "optionC": "Greenhouse Gas Emissions, Energy Management",
+    "optionD": "Water Management, Product Lifecycle Management",
+    "optionE": "Energy Management, Waste Management",
+    "answer": "A",
+    "reference_text": [
+      "Table 1. Sustainability Disclosure Topics & Metrics",
+      "TOPIC",
+      "Energy Management",
+      "Product Lifecycle Management"
+    ],
+    "pages": [
+      "522"
+    ],
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "pairing_explanation": "Mining provides critical raw materials for electronic equipment, presenting issues of resource depletion and recycling within closed-loop systems.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "What quantitative metric should be disclosed for the percentage of products containing IEC 62474 declarable substances for the Electrical & Electronic Equipment industry?",
+    "optionA": "Percentage of products by revenue that meet ENERGY STAR\u00ae criteria for energy efficiency certification.",
+    "optionB": "Percentage of products by revenue that contain IEC 62474 declarable substances.",
+    "optionC": "Revenue from renewable energy-related and energy efficiency-related products.",
+    "optionD": "Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations.",
+    "optionE": "(1) Total fresh water withdrawn, (2) total fresh water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress.",
+    "answer": "B",
+    "reference_text": [
+      "RT-EE-410a.1. Percentage of products by revenue that contain IEC 62474 declarable substances"
+    ],
+    "pages": [
+      "525"
+    ],
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "pairing_explanation": "Mining provides critical raw materials for electronic equipment, presenting issues of resource depletion and recycling within closed-loop systems.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1, Metals & Mining or Electrical & Electronic Equipment?",
+    "optionA": "Metals & Mining industry has more Quantitative metrics.",
+    "optionB": "Both industries have equal number of Quantitative metrics.",
+    "optionC": "Electrical & Electronic Equipment industry has more Quantitative metrics.",
+    "optionD": "Neither industry has any Quantitative metrics.",
+    "optionE": "The information to determine this cannot be derived from the given content.",
+    "answer": "A",
+    "reference_text": [
+      "For Metals & Mining: EM-MM-110a.1, EM-MM-130a.1, EM-MM-140a.1 are all Quantitative. For Electrical & Electronic Equipment: Only RT-EE-130a.1, RT-EE-410a.1, RT-EE-410a.2, RT-EE-410a.3 are Quantitative."
+    ],
+    "pages": [
+      "81",
+      "522"
+    ],
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "pairing_explanation": "Mining provides critical raw materials for electronic equipment, presenting issues of resource depletion and recycling within closed-loop systems.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "What units of measurement are used across the Electrical & Electronic Equipment and Metals & Mining industries for measuring water management metrics?",
+    "optionA": "Thousand cubic meters (m\u00b3), Percentage (%)",
+    "optionB": "Metric tons (t), Percentage (%)",
+    "optionC": "Gigajoules (GJ), Percentage (%)",
+    "optionD": "Number, Reporting currency",
+    "optionE": "Percentage (%) by revenue, Reporting currency",
+    "answer": "A",
+    "reference_text": [
+      "(1) Total fresh water withdrawn, (2) total fresh water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%)"
+    ],
+    "pages": [
+      "88_b10",
+      "525_b49"
+    ],
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "pairing_explanation": "Mining provides critical raw materials for electronic equipment, presenting issues of resource depletion and recycling within closed-loop systems.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for the Electrical & Electronic Equipment and Metals & Mining industries.",
+    "optionA": "RT-EE-130a.1, RT-EE-410a.1, RT-EE-410a.2, EM-MM-110a.1, EM-MM-130a.1, EM-MM-140a.1, EM-MM-140a.2",
+    "optionB": "RT-EE-130a.1, RT-EE-410a.1, RT-EE-410a.2, RT-EE-410a.3, EM-MM-110a.1, EM-MM-130a.1, EM-MM-140a.1, EM-MM-140a.2",
+    "optionC": "RT-EE-410a.1, RT-EE-410a.2, EM-MM-110a.1, EM-MM-130a.1, EM-MM-140a.1, EM-MM-140a.2",
+    "optionD": "RT-EE-130a.1, RT-EE-410a.1, RT-EE-410a.3, EM-MM-110a.1, EM-MM-130a.1, EM-MM-140a.1",
+    "optionE": "RT-EE-130a.1, RT-EE-410a.1, RT-EE-410a.2, RT-EE-410a.3, EM-MM-000.A, EM-MM-000.B, EM-MM-110a.1, EM-MM-130a.1, EM-MM-140a.1, EM-MM-140a.2",
+    "answer": "B",
+    "reference_text": [
+      "RT-EE-130a.1, RT-EE-410a.1, RT-EE-410a.2, RT-EE-410a.3",
+      "EM-MM-110a.1, EM-MM-130a.1, EM-MM-140a.1, EM-MM-140a.2"
+    ],
+    "pages": [
+      "522_b49",
+      "81_b10"
+    ],
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "pairing_explanation": "Mining provides critical raw materials for electronic equipment, presenting issues of resource depletion and recycling within closed-loop systems.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Are there any common sustainability topics between the Electrical & Electronic Equipment and Metals & Mining industries, and if so, how do their reporting requirements differ?",
+    "optionA": "Yes, the common topic is Energy Management. The Metals & Mining industry has to report total energy consumed, percentage grid electricity, and percentage renewable. The Electrical & Electronic Equipment industry has similar reporting requirements but also needs to report the percentage of products by revenue that contain IEC 62474 declarable substances.",
+    "optionB": "No, there are no common sustainability topics between the two industries.",
+    "optionC": "Yes, the common topic is Water Management. The reporting requirements are identical for both industries.",
+    "optionD": "Yes, the common topic is Greenhouse Gas Emissions. The Metals & Mining industry has to report gross global Scope 1 emissions and a discussion of strategy, while the Electrical & Electronic Equipment industry does not have any GHG emissions reporting requirements.",
+    "optionE": "Yes, the common topic is Product Lifecycle Management. The Electrical & Electronic Equipment industry has more extensive reporting requirements related to products containing declarable substances and energy efficiency certifications.",
+    "answer": "A",
+    "reference_text": [
+      "(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%)",
+      "Percentage of products by revenue that contain IEC 62474 declarable substances | Quantitative | Percentage (%) by revenue"
+    ],
+    "pages": [
+      "87_b10",
+      "523_b49"
+    ],
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "pairing_explanation": "Mining provides critical raw materials for electronic equipment, presenting issues of resource depletion and recycling within closed-loop systems.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "When calculating greenhouse gas emissions metrics, what is the key difference between Electrical & Electronic Equipment and Metals & Mining companies?",
+    "optionA": "Metals & Mining companies have to report Scope 1 and Scope 2 emissions, while Electrical & Electronic Equipment companies only report Scope 1 emissions.",
+    "optionB": "Metals & Mining companies have to report emissions covered under emissions-limiting regulations, while Electrical & Electronic Equipment companies do not have this requirement.",
+    "optionC": "Electrical & Electronic Equipment companies have to report emissions from their products' use phase, while Metals & Mining companies only report operational emissions.",
+    "optionD": "There are no key differences in how the two industries calculate greenhouse gas emissions metrics.",
+    "optionE": "The emissions reporting requirements for the two industries are not specified in enough detail to determine a key difference.",
+    "answer": "B",
+    "reference_text": [
+      "The entity shall disclose the percentage of its gross global Scope 1 GHG emissions that are covered under an emissions-limiting regulation or program that is intended to directly limit or reduce emissions, such as cap-and-trade schemes, carbon tax/fee systems, and other emissions control (e.g., command-and-control approach) and permit-based mechanisms."
+    ],
+    "pages": [
+      "83_b10"
+    ],
+    "industries": [
+      "b10-metals-and-mining",
+      "b49-electrical-and-electronic-equipment"
+    ],
+    "pairing_explanation": "Mining provides critical raw materials for electronic equipment, presenting issues of resource depletion and recycling within closed-loop systems.",
+    "qa_type": "multi_hop"
+  }
+]

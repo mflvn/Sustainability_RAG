@@ -1,0 +1,146 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When comparing the IFRS S2 disclosure requirements for Car Rental & Leasing and Health Care Distributors industries, which of the following statements is correct?",
+    "optionA": "Both industries are required to disclose the number of vehicles in their fleet",
+    "optionB": "Only the Car Rental & Leasing industry is required to disclose fleet utilization rate",
+    "optionC": "Both industries must report on fuel economy, but using different metrics",
+    "optionD": "Health Care Distributors are required to disclose the number of rental days",
+    "optionE": "Car Rental & Leasing companies must report on pharmaceutical units sold",
+    "answer": "C: Both industries must report on fuel economy, but using different metrics",
+    "explanation": "The Car Rental & Leasing industry is required to disclose 'Rental day-weighted average rental fleet fuel economy' (TR-CR-410a.1), while Health Care Distributors must report 'Payload fuel economy' (HC-DI-110a.1). Both metrics relate to fuel economy but are calculated differently based on the specific nature of each industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Car Rental & Leasing",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors"
+    ],
+    "pages": [
+      "615",
+      "290"
+    ],
+    "pairing_explanation": "Both dealing with extensive logistics, health care distributors and car rental services can share insights on emissions management and operational sustainability.",
+    "industries": [
+      "b29-health-care-distributors",
+      "b64-car-rental-and-leasing"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "Which of the following is a unique reporting requirement for the Health Care Distributors industry that is not present in the Car Rental & Leasing industry's IFRS S2 disclosure requirements?",
+    "optionA": "Disclosure of average vehicle age",
+    "optionB": "Reporting on fleet utilization rate",
+    "optionC": "Description of efforts to reduce the environmental impact of logistics",
+    "optionD": "Disclosure of total available rental days",
+    "optionE": "Reporting on rental day-weighted average fleet fuel economy",
+    "answer": "C: Description of efforts to reduce the environmental impact of logistics",
+    "explanation": "The Health Care Distributors industry has a unique requirement (HC-DI-110a.2) to provide a 'Description of efforts to reduce the environmental impact of logistics'. This discussion and analysis metric is not present in the Car Rental & Leasing industry's requirements, which focus more on quantitative metrics related to fleet fuel economy and utilization.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Car Rental & Leasing",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors"
+    ],
+    "pages": [
+      "615",
+      "290"
+    ],
+    "pairing_explanation": "Both dealing with extensive logistics, health care distributors and car rental services can share insights on emissions management and operational sustainability.",
+    "industries": [
+      "b29-health-care-distributors",
+      "b64-car-rental-and-leasing"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When preparing sustainability reports, how do the fuel economy calculations differ between the Car Rental & Leasing and Health Care Distributors industries?",
+    "optionA": "Car Rental uses a time-based weighting, while Health Care Distributors use a distance-based calculation",
+    "optionB": "Health Care Distributors include vehicle weight in calculations, while Car Rental excludes it",
+    "optionC": "Car Rental calculates per vehicle, while Health Care Distributors calculate for the entire fleet",
+    "optionD": "Health Care Distributors use a payload-based calculation, while Car Rental uses a passenger-based calculation",
+    "optionE": "Both industries use identical calculations based on total fuel consumed divided by total distance traveled",
+    "answer": "D: Health Care Distributors use a payload-based calculation, while Car Rental uses a passenger-based calculation",
+    "explanation": "Health Care Distributors calculate 'Payload fuel economy' as total gallons of fuel consumed divided by revenue ton miles (RTM), where RTM is based on the weight of paid tonnage transported. Car Rental & Leasing, on the other hand, calculates 'Rental day-weighted average rental fleet fuel economy' based on passenger vehicles, using metrics like mpg or gCO\u2082/km, which are passenger-oriented rather than payload-oriented.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Car Rental & Leasing",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors"
+    ],
+    "pages": [
+      "615",
+      "290"
+    ],
+    "pairing_explanation": "Both dealing with extensive logistics, health care distributors and car rental services can share insights on emissions management and operational sustainability.",
+    "industries": [
+      "b29-health-care-distributors",
+      "b64-car-rental-and-leasing"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "A sustainability reporting team is preparing reports for both a car rental company and a health care distribution company. Which of the following metrics would be applicable to both companies?",
+    "optionA": "Number of pharmaceutical units sold",
+    "optionB": "Average vehicle age",
+    "optionC": "Fleet utilization rate",
+    "optionD": "Number of medical devices sold",
+    "optionE": "Fuel economy of the fleet",
+    "answer": "E: Fuel economy of the fleet",
+    "explanation": "While the specific calculations and units may differ, both the Car Rental & Leasing industry (TR-CR-410a.1) and the Health Care Distributors industry (HC-DI-110a.1) are required to report on the fuel economy of their fleets. This is the only metric that is directly applicable to both industries among the given options.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Car Rental & Leasing",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors"
+    ],
+    "pages": [
+      "615",
+      "290"
+    ],
+    "pairing_explanation": "Both dealing with extensive logistics, health care distributors and car rental services can share insights on emissions management and operational sustainability.",
+    "industries": [
+      "b29-health-care-distributors",
+      "b64-car-rental-and-leasing"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing the sustainability reporting focus areas for Car Rental & Leasing and Health Care Distributors industries, which of the following statements is most accurate?",
+    "optionA": "Car Rental focuses on vehicle efficiency, while Health Care Distributors focus on product sales",
+    "optionB": "Health Care Distributors emphasize logistics impact, while Car Rental emphasizes customer behavior",
+    "optionC": "Both industries have an equal emphasis on renewable energy usage in their operations",
+    "optionD": "Car Rental prioritizes fleet age, while Health Care Distributors prioritize route optimization",
+    "optionE": "Both industries focus primarily on water consumption in their sustainability metrics",
+    "answer": "B: Health Care Distributors emphasize logistics impact, while Car Rental emphasizes customer behavior",
+    "explanation": "The Health Care Distributors industry has a specific requirement (HC-DI-110a.2) to describe efforts to reduce the environmental impact of logistics, indicating a strong emphasis on this area. The Car Rental & Leasing industry, with its focus on rental day-weighted fuel economy and fleet utilization rate, puts more emphasis on the efficiency of vehicle use, which is directly related to customer behavior in renting and using vehicles.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Car Rental & Leasing",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors"
+    ],
+    "pages": [
+      "615",
+      "290"
+    ],
+    "pairing_explanation": "Both dealing with extensive logistics, health care distributors and car rental services can share insights on emissions management and operational sustainability.",
+    "industries": [
+      "b29-health-care-distributors",
+      "b64-car-rental-and-leasing"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "A sustainability consultant is advising both a car rental company and a health care distributor on their climate-related disclosures. Which of the following recommendations would be most appropriate for both clients?",
+    "optionA": "Focus on improving the fuel efficiency of passenger vehicles",
+    "optionB": "Implement strategies to reduce empty miles in logistics operations",
+    "optionC": "Increase the number of electric vehicles in the fleet",
+    "optionD": "Optimize the transportation network to reduce overall fuel consumption",
+    "optionE": "Prioritize reporting on the sales volume of products",
+    "answer": "D: Optimize the transportation network to reduce overall fuel consumption",
+    "explanation": "Both the Car Rental & Leasing and Health Care Distributors industries have metrics related to fuel efficiency and consumption (TR-CR-410a.1 and HC-DI-110a.1 respectively). Optimizing the transportation network to reduce overall fuel consumption would be beneficial for both industries, as it would improve their performance on these metrics while also potentially reducing costs and environmental impact. This recommendation addresses the core sustainability concerns for both industries related to their logistics and transportation operations.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Car Rental & Leasing",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Health Care Distributors"
+    ],
+    "pages": [
+      "615",
+      "290"
+    ],
+    "pairing_explanation": "Both dealing with extensive logistics, health care distributors and car rental services can share insights on emissions management and operational sustainability.",
+    "industries": [
+      "b29-health-care-distributors",
+      "b64-car-rental-and-leasing"
+    ]
+  }
+]

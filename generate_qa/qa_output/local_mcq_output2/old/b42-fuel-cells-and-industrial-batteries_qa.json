@@ -1,0 +1,167 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2, what is the correct unit of measure for reporting the average storage capacity of batteries in the Fuel Cells & Industrial Batteries industry?",
+    "optionA": "Megawatt hours (MWh)",
+    "optionB": "Ampere hours (Ah)",
+    "optionC": "Specific energy (Wh/kg)",
+    "optionD": "Kilowatt hours (kWh)",
+    "optionE": "Joules (J)",
+    "answer": "C. Specific energy (Wh/kg)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Fuel Cells & Industrial Batteries",
+    "page": "450",
+    "industries": [
+      "b42-fuel-cells-and-industrial-batteries"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing the percentage of renewable energy consumed, which of the following sources is NOT included in the scope of renewable energy according to IFRS S2?",
+    "optionA": "Geothermal energy",
+    "optionB": "Wind energy",
+    "optionC": "Solar energy",
+    "optionD": "Hydro energy",
+    "optionE": "The renewable portion of the electricity grid mix outside the entity's control",
+    "answer": "E. The renewable portion of the electricity grid mix outside the entity's control",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Fuel Cells & Industrial Batteries",
+    "page": "449",
+    "industries": [
+      "b42-fuel-cells-and-industrial-batteries"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When reporting on fuel cell efficiency, which heating value should be used in the calculations according to IFRS S2?",
+    "optionA": "Higher Heating Value (HHV)",
+    "optionB": "Lower Heating Value (LHV)",
+    "optionC": "Average Heating Value (AHV)",
+    "optionD": "Gross Calorific Value (GCV)",
+    "optionE": "Net Calorific Value (NCV)",
+    "answer": "B. Lower Heating Value (LHV)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Fuel Cells & Industrial Batteries",
+    "page": "450-451",
+    "industries": [
+      "b42-fuel-cells-and-industrial-batteries"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2, how is the operating lifetime of batteries calculated in the Fuel Cells & Industrial Batteries industry?",
+    "optionA": "Total hours of continuous operation",
+    "optionB": "Years of service before replacement",
+    "optionC": "Number of charge-discharge cycles until 10% capacity degradation",
+    "optionD": "Number of charge-discharge cycles until 20% capacity degradation",
+    "optionE": "Kilowatt-hours delivered over the product lifetime",
+    "answer": "D. Number of charge-discharge cycles until 20% capacity degradation",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Fuel Cells & Industrial Batteries",
+    "page": "452-453",
+    "industries": [
+      "b42-fuel-cells-and-industrial-batteries"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "How should a company calculate the percentage of energy consumed that was supplied from grid electricity?",
+    "optionA": "Total energy consumed divided by purchased grid electricity",
+    "optionB": "Purchased grid electricity divided by total energy consumed",
+    "optionC": "Renewable energy consumed divided by purchased grid electricity",
+    "optionD": "Purchased grid electricity minus renewable energy consumed",
+    "optionE": "Total energy consumed minus renewable energy consumed",
+    "answer": "B. Purchased grid electricity divided by total energy consumed",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Fuel Cells & Industrial Batteries",
+    "page": "448",
+    "industries": [
+      "b42-fuel-cells-and-industrial-batteries"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When reporting on fuel cell efficiency, how is electrical efficiency calculated according to IFRS S2?",
+    "optionA": "Total fuel energy input divided by net electricity produced",
+    "optionB": "Net electricity produced divided by total fuel energy input",
+    "optionC": "Net useful power output divided by total fuel energy input",
+    "optionD": "Total fuel energy input minus energy losses",
+    "optionE": "Net electricity produced plus thermal energy output",
+    "answer": "B. Net electricity produced divided by total fuel energy input",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Fuel Cells & Industrial Batteries",
+    "page": "450-451",
+    "industries": [
+      "b42-fuel-cells-and-industrial-batteries"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "How is the coulombic efficiency of batteries calculated according to IFRS S2?",
+    "optionA": "Energy used during charging divided by energy removed during discharge",
+    "optionB": "Energy removed during discharge plus energy used during charging",
+    "optionC": "Energy removed during discharge divided by battery capacity",
+    "optionD": "Energy removed during discharge divided by energy used during charging",
+    "optionE": "Battery capacity divided by energy used during charging",
+    "answer": "D. Energy removed during discharge divided by energy used during charging",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Fuel Cells & Industrial Batteries",
+    "page": "451",
+    "industries": [
+      "b42-fuel-cells-and-industrial-batteries"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What unique consideration should a fuel cell manufacturer address when reporting renewable energy consumption in their sustainability report?",
+    "optionA": "Only include energy from solar and wind sources",
+    "optionB": "Exclude all biomass sources from renewable energy calculations",
+    "optionC": "Include biomass sources only if certified by third-party standards",
+    "optionD": "Report all biomass as non-renewable energy",
+    "optionE": "Ignore renewable energy consumption entirely",
+    "answer": "C: Include biomass sources only if certified by third-party standards",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "449",
+    "industries": [
+      "b42-fuel-cells-and-industrial-batteries"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When reporting on battery storage capacity, what specific challenge does a company in this industry face according to IFRS S2?",
+    "optionA": "Reporting capacity in kilowatt-hours only",
+    "optionB": "Calculating capacity based on theoretical maximum",
+    "optionC": "Disclosing capacity for lead-acid batteries only",
+    "optionD": "Measuring capacity as specific energy (Wh/kg) weighted by sales volume",
+    "optionE": "Reporting capacity without considering technology type",
+    "answer": "D: Measuring capacity as specific energy (Wh/kg) weighted by sales volume",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "450",
+    "industries": [
+      "b42-fuel-cells-and-industrial-batteries"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What unique reporting challenge does a fuel cell manufacturer face when disclosing the operating lifetime of their products?",
+    "optionA": "Reporting lifetime in calendar years only",
+    "optionB": "Calculating lifetime based on theoretical maximum",
+    "optionC": "Disclosing lifetime until complete failure",
+    "optionD": "Measuring lifetime as operating hours until 20% net power degradation",
+    "optionE": "Reporting lifetime without considering technology type",
+    "answer": "D: Measuring lifetime as operating hours until 20% net power degradation",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "452",
+    "industries": [
+      "b42-fuel-cells-and-industrial-batteries"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What specific requirement must a company in this industry follow when reporting energy consumption from renewable PPAs (Power Purchase Agreements)?",
+    "optionA": "Include all PPAs regardless of their terms",
+    "optionB": "Exclude all PPAs from renewable energy calculations",
+    "optionC": "Only include PPAs that explicitly convey RECs or GOs",
+    "optionD": "Report PPAs separately from other renewable sources",
+    "optionE": "Calculate PPA energy based on grid mix percentages",
+    "answer": "C: Only include PPAs that explicitly convey RECs or GOs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "449",
+    "industries": [
+      "b42-fuel-cells-and-industrial-batteries"
+    ]
+  }
+]

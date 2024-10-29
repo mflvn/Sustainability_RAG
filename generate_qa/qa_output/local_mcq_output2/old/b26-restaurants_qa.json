@@ -1,0 +1,137 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2, which of the following is NOT included in the scope of renewable energy for restaurants?",
+    "optionA": "Renewable fuel consumed by the entity",
+    "optionB": "Renewable energy directly produced by the entity",
+    "optionC": "Renewable energy purchased through a PPA with explicit RECs",
+    "optionD": "Renewable portion of the electricity grid mix outside the entity's control",
+    "optionE": "Green-e Energy Certified utility programs",
+    "answer": "D. Renewable portion of the electricity grid mix outside the entity's control",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "272",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing water consumption for restaurants, which of the following is considered as water consumed according to IFRS S2?",
+    "optionA": "Water that is recycled and reused within the facility",
+    "optionB": "Water that is directly incorporated into the entity's product or service",
+    "optionC": "Water that is returned to the same catchment area from which it was withdrawn",
+    "optionD": "Water that is temporarily stored on-site for later use",
+    "optionE": "Water that is used for landscaping and immediately absorbed by plants",
+    "answer": "B. Water that is directly incorporated into the entity's product or service",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "273-274",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When reporting on food sourcing standards for restaurants, how should the percentage of food purchased meeting environmental and social standards be calculated?",
+    "optionA": "Volume of food meeting standards divided by total volume of food purchased",
+    "optionB": "Number of suppliers meeting standards divided by total number of suppliers",
+    "optionC": "Cost of food meeting standards divided by total cost of food purchased",
+    "optionD": "Weight of food meeting standards divided by total weight of food purchased",
+    "optionE": "Number of menu items meeting standards divided by total number of menu items",
+    "answer": "C. Cost of food meeting standards divided by total cost of food purchased",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "275-276",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When discussing strategies to manage environmental and social risks in the supply chain for restaurants, which of the following is NOT mentioned as a potential risk in the IFRS S2 guidance?",
+    "optionA": "Impacts on crop and livestock production due to climate change",
+    "optionB": "Labor rights and immigration reforms affecting food prices and availability",
+    "optionC": "Commercial catch limits affecting seafood supply",
+    "optionD": "Customer preferences for organic and locally-sourced ingredients",
+    "optionE": "International trade barriers and varying levels of food safety oversight",
+    "answer": "D. Customer preferences for organic and locally-sourced ingredients",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "277-278",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of renewable energy consumed by a restaurant chain, which of the following sources should NOT be included in the scope of renewable energy?",
+    "optionA": "On-site generated solar power with retained RECs",
+    "optionB": "Purchased wind power through a PPA with explicitly included RECs",
+    "optionC": "Biomass energy from Forest Stewardship Council certified materials",
+    "optionD": "Renewable portion of the electricity grid mix outside the entity's control",
+    "optionE": "Geothermal energy purchased with Green-e Energy Certified RECs",
+    "answer": "D. Renewable portion of the electricity grid mix outside the entity's control",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "272",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of pork produced without gestation crates for a restaurant's sustainability report, which measurement should be used?",
+    "optionA": "Number of pigs",
+    "optionB": "Number of pork products",
+    "optionC": "Live weight of pigs",
+    "optionD": "Carcass weight or retail weight of pork",
+    "optionE": "Monetary value of pork purchased",
+    "answer": "D. Carcass weight or retail weight of pork",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "276-277",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When disclosing water consumption in regions with High or Extremely High Baseline Water Stress for a restaurant chain, which tool should be used to classify water stress levels?",
+    "optionA": "United Nations Water Scarcity Index",
+    "optionB": "OECD Water Risk Indicator",
+    "optionC": "World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "optionD": "FAO Global Water Information System",
+    "optionE": "EPA Water Shortage Classification System",
+    "answer": "C. World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "274",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A restaurant chain is preparing to disclose its cage-free egg sourcing in its sustainability report. Which of the following statements is correct regarding the calculation of cage-free eggs?",
+    "optionA": "It should be calculated based on the cost of eggs purchased",
+    "optionB": "It should include only eggs from company-owned locations",
+    "optionC": "It should be calculated as a percentage of total egg weight",
+    "optionD": "It should be calculated as a percentage of the number of eggs purchased",
+    "optionE": "It should exclude eggs that originated from a free-range environment",
+    "answer": "D. It should be calculated as a percentage of the number of eggs purchased",
+    "reference": "Supply Chain Management & Food Sourcing",
+    "page": "276-277",
+    "industries": [
+      "b26-restaurants"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A restaurant chain is trying to improve its energy management practices. Which of the following strategies would NOT be considered an effective approach to reducing exposure to greenhouse gas (GHG) emissions regulations?",
+    "optionA": "Implementing energy efficiency upgrades",
+    "optionB": "Increasing the use of renewable energy resources",
+    "optionC": "Focusing solely on reducing grid electricity consumption",
+    "optionD": "Managing energy consumption at both company-owned and franchise locations",
+    "optionE": "Investing in commercial kitchen appliances with higher energy efficiency",
+    "answer": "C. Focusing solely on reducing grid electricity consumption",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+    "page": "271-272",
+    "industries": [
+      "b26-restaurants"
+    ]
+  }
+]

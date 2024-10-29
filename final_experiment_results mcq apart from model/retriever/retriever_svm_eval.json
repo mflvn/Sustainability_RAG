@@ -1,0 +1,549 @@
+{
+  "evaluation_date": "2024-09-01T23:49:31.369991",
+  "total_questions": 31,
+  "correct_answers": 12,
+  "questions": [
+    {
+      "question": "What is the code for the 'Revenue from products designed to increase fuel efficiency and/or reduce emissions' metric in the Auto Parts industry?",
+      "correct_answer": "C",
+      "rag_response": "D",
+      "is_correct": false,
+      "reference": [
+        "| Design for Fuel Efficien\u00adcy | Revenue from products designed to increase fuel efficiency and/or reduce emissions | Quantitative | Reporting currency | TR-AP-410a.1 |"
+      ],
+      "page": [
+        "Page 604"
+      ],
+      "industries": [
+        "b62-auto-parts"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "For the listed requirement of discussing processes to assess and manage environmental risks, what metric should a company in the Engineering & Construction Services industry use and how should this metric be calculated?",
+      "correct_answer": "B",
+      "rag_response": "B",
+      "is_correct": true,
+      "reference": [
+        "IF-EN-160a.2. Discussion of processes to assess and manage environmental risks associated with project design, siting, and construction",
+        "1 The entity shall discuss the processes it employs to assess and manage the environmental risks associated with project siting, design and construction.",
+        "1.1 Environmental risks may include, but are not limited to, ecological impacts, biodiversity impacts, emissions to air, discharges to water, slope disturbance, soil disturbance and erosion, storm water management, waste management, natural resource consumption, and hazardous chemical usage."
+      ],
+      "page": [
+        "324"
+      ],
+      "industries": [
+        "b33-engineering-and-construction-services"
+      ],
+      "qa_type": "multi_hop"
+    },
+    {
+      "question": "What is the code of the 'Total energy consumed' metric in the Auto Parts industry, and how should this metric be calculated?",
+      "correct_answer": "A",
+      "rag_response": "B",
+      "is_correct": false,
+      "reference": [
+        "| Energy Management | (1) Total energy consumed, (2) percent\u00adage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent\u00adage (%) | TR-AP-130a.1 |",
+        "1. The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ)."
+      ],
+      "page": [
+        "Page 604",
+        "Page 605"
+      ],
+      "industries": [
+        "b62-auto-parts"
+      ],
+      "qa_type": "multi_hop"
+    },
+    {
+      "question": "For the listed requirement IF-EN-410a.2, what metric should a company in the Engineering & Construction Services industry use for discussing the process to incorporate operational-phase energy and water efficiency considerations into project planning and design?",
+      "correct_answer": "C",
+      "rag_response": "C",
+      "is_correct": true,
+      "reference": [
+        "IF-EN-410a.2. Discussion of process to incorporate operational-phase energy and water efficiency considerations into project planning and design"
+      ],
+      "page": [
+        "329"
+      ],
+      "industries": [
+        "b33-engineering-and-construction-services"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "On what page can I find details about the 'Energy Management' topic for the Auto Parts industry?",
+      "correct_answer": "C",
+      "rag_response": "A",
+      "is_correct": false,
+      "reference": [
+        "# Energy Management",
+        "## Topic Summary",
+        "Most of the energy consumed in the automobile manufacturing process happens in the supply chain. The use of electricity and fossil fuels by auto parts manufacturers in their production processes results in direct and indirect emissions of greenhouse gases (GHGs). Purchased electricity represents a major share of the energy used in the Auto Parts industry. Sustainability initiatives such as incentives for energy efficiency and renewable energy are making alternative sources of energy more cost-competitive. Regulators and consumers are also pressuring the industry to reduce GHG emissions. Therefore, it is becoming increasingly important for companies in energy-intensive industries to manage the cost and reliability risks associated with their overall energy efficiency, their reliance on different types of energy, and their access to alternative energy sources."
+      ],
+      "page": [
+        "Page 605"
+      ],
+      "industries": [
+        "b62-auto-parts"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "On what page can I find details about the 'Water Management' topic for the Restaurants industry?",
+      "correct_answer": "D",
+      "rag_response": "A",
+      "is_correct": false,
+      "reference": [
+        "# Water Management",
+        "## Topic Summary",
+        "Water is used throughout restaurant operations, from cooking and dishwashing to cleaning. The restaurant format, size, and equipment all affect water use. Restaurants located in water-stressed regions may be exposed to water usage restrictions or face high water costs. Long-term historic increases in the costs of water, and expectations around continued increases due to overconsumption and constrained supplies resulting from population growth and shifts, pollution, and climate change, indicate the heightened importance of water management. Companies can reduce water use and associated operational costs through implementing water-efficient practices and using water-efficient commercial kitchen equipment.",
+        "## Metrics",
+        "FB-RN-140a.1. (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress"
+      ],
+      "page": [
+        "Page 273"
+      ],
+      "industries": [
+        "b26-restaurants"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "What is the code of the metric related to the amount of defect- and safety-related rework costs in the Engineering & Construction Services industry and how should this metric be calculated?",
+      "correct_answer": "B",
+      "rag_response": "A",
+      "is_correct": false,
+      "reference": [
+        "### IF-EN-250a.1. Amount of defect- and safety-related rework costs",
+        "1    The entity shall disclose the total amount of defect- and safety-related rework costs incurred.",
+        "1.1    Rework is defined, as activities in the field that have to be done more than once in the field or activities that remove work previously installed as part of the project.",
+        "1.2    For the purposes of this disclosure, the scope of rework costs excludes costs resulting from client- or project-owner-driven modifications including, but not limited to, change orders, revisions to scope, or revisions to design.",
+        "1.3    The scope of rework costs includes, but is not limited to, costs associated with labor, materials, design, equipment, and subcontractors."
+      ],
+      "page": [
+        "326"
+      ],
+      "industries": [
+        "b33-engineering-and-construction-services"
+      ],
+      "qa_type": "multi_hop"
+    },
+    {
+      "question": "What is the code of the metric 'Description of proxy voting and investee engagement policies and procedures' in the Asset Management & Custody Activities industry and how should this metric be disclosed?",
+      "correct_answer": "C",
+      "rag_response": "C",
+      "is_correct": true,
+      "reference": [
+        "FN-AC-410a.3. Description of proxy voting and investee engagement policies and procedures",
+        "1 The entity shall describe its approach to proxy voting, including, but not limited to, its process for making proxy voting decisions, including its approach to defining materiality.",
+        "1.1 The discussion shall include, but is not limited to, elements highlighted in the PRI's Reporting Framework for Direct \u2013 Listed Equity Active Ownership:",
+        "1.1.1 The scope of the entity's voting activities",
+        "1.1.2 The objectives of the entity's voting activities",
+        "1.1.3 How, if at all, the entity's voting approach differs among markets",
+        "1.1.4 Whether the entity has a default position of voting in favor of management in particular markets or on particular issues",
+        "1.1.5 Whether and how local regulatory or other requirements influence the entity's approach to voting",
+        "1.1.6 Whether the entity votes by proxy or in person by attending annual general meetings (AGMs) (or a combination of both)"
+      ],
+      "page": [
+        "138"
+      ],
+      "industries": [
+        "b15-asset-management-and-custody-activities"
+      ],
+      "qa_type": "multi_hop"
+    },
+    {
+      "question": "For the 'Energy Management' topic, what metric should a company in the Casinos & Gaming industry use for 'percentage renewable' and how should this metric be calculated?",
+      "correct_answer": "B",
+      "rag_response": "B",
+      "is_correct": true,
+      "reference": [
+        "3 The entity shall disclose (3) the percentage of energy it consumed that is renewable energy.",
+        "3.1 Renewable energy is defined as energy from sources that are replenished at a rate greater than or equal to their rate of depletion, such as geothermal, wind, solar, hydro, and biomass.",
+        "3.2 The percentage shall be calculated as renewable energy consumption divided by total energy consumption."
+      ],
+      "page": [
+        "Page 535"
+      ],
+      "industries": [
+        "b51-casinos-and-gaming"
+      ],
+      "qa_type": "multi_hop"
+    },
+    {
+      "question": "What is the code of the metric for the percentage of eligible products certified to an energy efficiency certification in the Appliance Manufacturing industry?",
+      "correct_answer": "A",
+      "rag_response": "D",
+      "is_correct": false,
+      "reference": [
+        "CG-AM-410a.1. Percentage of eligible products by revenue certified to an energy efficiency certification"
+      ],
+      "page": [
+        "11"
+      ],
+      "industries": [
+        "b2-appliance-manufacturing"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "For the listed 'Incorporation of Environmental, Social, and Governance Factors in Investment Management & Advisory' requirement, what metric should a company in the Asset Management & Custody Activities industry use for 'Description of approach to incorporation of ESG factors' and how should this metric be disclosed?",
+      "correct_answer": "B",
+      "rag_response": "B",
+      "is_correct": true,
+      "reference": [
+        "FN-AC-410a.2. Description of approach to incorporation of environmental, social, and governance (ESG) factors in investment and/or wealth management processes and strategies",
+        "1 The entity shall describe its approach to incorporation of environmental, social, and governance (ESG) factors in its investment and/or wealth management processes and strategies.",
+        "1.1 The definition of incorporation of ESG factors is aligned with that of the Global Sustainable Investment Alliance (GSIA) and includes the use of ESG information in investment decision-making processes.",
+        "1.2 Examples of ESG factors/issues are provided in the PRI Reporting Framework \u2013 Main definitions 2018, section \"ESG issues.\""
+      ],
+      "page": [
+        "136"
+      ],
+      "industries": [
+        "b15-asset-management-and-custody-activities"
+      ],
+      "qa_type": "multi_hop"
+    },
+    {
+      "question": "What is the code of the 'Total area of gaming floor' metric in the Casinos & Gaming industry and how should this metric be disclosed?",
+      "correct_answer": "B",
+      "rag_response": "D: SV-CA-000.B; Disclosed in square meters",
+      "is_correct": false,
+      "reference": [
+        "| Total area of gaming floor | Quantitative | Square meters (m\u00b2) | SV-CA-000.D |"
+      ],
+      "page": [
+        "Page 534"
+      ],
+      "industries": [
+        "b51-casinos-and-gaming"
+      ],
+      "qa_type": "multi_hop"
+    },
+    {
+      "question": "What is the code of the metric for total energy consumed in the Restaurants industry and how should this metric be calculated?",
+      "correct_answer": "A",
+      "rag_response": "D",
+      "is_correct": false,
+      "reference": [
+        "FB-RN-130a.1. (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable",
+        "1 The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ)."
+      ],
+      "page": [
+        "271"
+      ],
+      "industries": [
+        "b26-restaurants"
+      ],
+      "qa_type": "multi_hop"
+    },
+    {
+      "question": "For the listed requirement 'Managing Systemic Risks from Technology Disruptions', what does a company in the Telecommunication Services industry need to do?",
+      "correct_answer": "B",
+      "rag_response": "B",
+      "is_correct": true,
+      "reference": [
+        "TC-TL-550a.2. Discussion of systems to provide unimpeded service during service interruptions",
+        "1    The entity shall discuss business continuity risks associated with technology disruptions affecting operations."
+      ],
+      "page": [
+        "Page 588"
+      ],
+      "industries": [
+        "b59-telecommunication-services"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "What is the code for the 'Total energy consumed' metric in the Solar Technology & Project Developers industry?",
+      "correct_answer": "C",
+      "rag_response": "D",
+      "is_correct": false,
+      "reference": [
+        "| Energy Management in Manufacturing | (1) Total energy consumed, (2) percent- age grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | RR-ST-130a.1 |"
+      ],
+      "page": [
+        "Page 471"
+      ],
+      "industries": [
+        "b44-solar-technology-and-project-developers"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "For the listed requirement of describing efforts to manage products' end-of-life impacts, what does a company in the Appliance Manufacturing industry need to do?",
+      "correct_answer": "B",
+      "rag_response": "B",
+      "is_correct": true,
+      "reference": [
+        "The entity shall describe its efforts to manage the end-of-life impacts of its products, including those related to safe and proper disposal or recycling of constituent chemicals and other product components, including, but not limited to, toxic heavy metals (e.g., mercury, cadmium), rigid polymers, refrigerants, and other metals (e.g., steel and aluminum)."
+      ],
+      "page": [
+        "13"
+      ],
+      "industries": [
+        "b2-appliance-manufacturing"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "What is the code for the metric 'Number of broadband subscribers' in the Telecommunication Services industry?",
+      "correct_answer": "C",
+      "rag_response": "A",
+      "is_correct": false,
+      "reference": [
+        "| Number of broadband subscribers 109 | Quantitative | Number | TC-TL-000.C |"
+      ],
+      "page": [
+        "Page 584"
+      ],
+      "industries": [
+        "b59-telecommunication-services"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "What is the code of the metric 'Percentage of eligible products certified to an Association of Home Appliance Manufacturers (AHAM) sustainability standard' in the Appliance Manufacturing industry and how should this metric be calculated?",
+      "correct_answer": "B",
+      "rag_response": "A",
+      "is_correct": false,
+      "reference": [
+        "| Product Lifecycle Environmental Impacts | Percentage of eligible products certified to an Association of Home Appliance Manufacturers (AHAM) sustainability standard | Quantitative | Percentage (%) by revenue | CG-AM-410a.2 |",
+        "1 The entity shall disclose the percentage of its revenue from eligible products certified to an Association of Home Appliance Manufacturers (AHAM) sustainability standard.",
+        "1.2 The entity shall calculate the percentage as the revenue from products certified to an AHAM sustainability standard divided by total revenue from products eligible for certification to an AHAM sustainability standard."
+      ],
+      "page": [
+        "11",
+        "13"
+      ],
+      "industries": [
+        "b2-appliance-manufacturing"
+      ],
+      "qa_type": "multi_hop"
+    },
+    {
+      "question": "What is the code for the metric 'Percentage of food purchased that meets environmental and social sourcing standards' in the Restaurants industry?",
+      "correct_answer": "C",
+      "rag_response": "B",
+      "is_correct": false,
+      "reference": [
+        "| | Percentage of food purchased that (1) meets environmental and social sourcing standards and (2) is certified to third-party environmental and/or social standards | Quantitative | Percentage (%) by cost | FB-RN-430a.1 |"
+      ],
+      "page": [
+        "Page 275"
+      ],
+      "industries": [
+        "b26-restaurants"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "What is the code of the metric related to the total energy consumed in the Telecommunication Services industry and how should this metric be calculated?",
+      "correct_answer": "A",
+      "rag_response": "A",
+      "is_correct": true,
+      "reference": [
+        "TC-TL-130a.1. (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable",
+        "1 The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ)."
+      ],
+      "page": [
+        "Page 585"
+      ],
+      "industries": [
+        "b59-telecommunication-services"
+      ],
+      "qa_type": "multi_hop"
+    },
+    {
+      "question": "What is the code of the metric for the 'Percentage of total assets under management (AUM) included in the financed emissions calculation' in the Asset Management & Custody Activities industry?",
+      "correct_answer": "C",
+      "rag_response": "A",
+      "is_correct": false,
+      "reference": [
+        "FN-AC-1. Percentage of total assets under management (AUM) included in the financed emissions calculation"
+      ],
+      "page": [
+        "141"
+      ],
+      "industries": [
+        "b15-asset-management-and-custody-activities"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "What is the code of the metric for the percentage of eggs that originated from a cage-free environment in the Restaurants industry and how should this metric be calculated?",
+      "correct_answer": "A",
+      "rag_response": "D",
+      "is_correct": false,
+      "reference": [
+        "FB-RN-430a.2. Percentage of (1) eggs that originated from a cage-free environment and (2) pork that was produced without the use of gestation crates",
+        "1 The entity shall disclose (1) the percentage of eggs purchased that originated from a cage-free environment.",
+        "1.2 The percentage shall be calculated as the number of eggs purchased that originated from a cage-free environment divided by the total number of eggs purchased."
+      ],
+      "page": [
+        "276"
+      ],
+      "industries": [
+        "b26-restaurants"
+      ],
+      "qa_type": "multi_hop"
+    },
+    {
+      "question": "For the listed 'Annual production' requirement, what metric should a company in the Appliance Manufacturing industry use for reporting and how should this metric be calculated?",
+      "correct_answer": "C",
+      "rag_response": "C",
+      "is_correct": true,
+      "reference": [
+        "| ACTIVITY METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+        "|-----------------|----------|------------------|------|",
+        "| Annual production \u00b2 | Quantitative | Number of units | CG-AM-000.A |",
+        "\u00b2 Note to CG-AM-000.A \u2013 Production shall be disclosed as the number of units produced by product category, where relevant product categories may include small appliances and major appliances."
+      ],
+      "page": [
+        "11"
+      ],
+      "industries": [
+        "b2-appliance-manufacturing"
+      ],
+      "qa_type": "multi_hop"
+    },
+    {
+      "question": "What is the code for the metric related to the number of active online gaming customers in the Casinos & Gaming industry?",
+      "correct_answer": "C",
+      "rag_response": "A",
+      "is_correct": false,
+      "reference": [
+        "| Number of active online gaming customers 90 | Quantitative | Number | SV-CA-000.C |"
+      ],
+      "page": [
+        "Page 534"
+      ],
+      "industries": [
+        "b51-casinos-and-gaming"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "For the listed requirement of discussing systems to provide unimpeded service during service interruptions, what metric should a company in the Telecommunication Services industry use and how should this metric be calculated?",
+      "correct_answer": "A",
+      "rag_response": "A",
+      "is_correct": true,
+      "reference": [
+        "TC-TL-550a.2. Discussion of systems to provide unimpeded service during service interruptions",
+        "1 The entity shall discuss business continuity risks associated with technology disruptions affecting operations."
+      ],
+      "page": [
+        "Page 588"
+      ],
+      "industries": [
+        "b59-telecommunication-services"
+      ],
+      "qa_type": "multi_hop"
+    },
+    {
+      "question": "On what page can I find details about 'Water Management in Manufacturing' for the Solar Technology & Project Developers industry?",
+      "correct_answer": "D",
+      "rag_response": "A",
+      "is_correct": false,
+      "reference": [
+        "#### Page 476",
+        "## RR-ST-140a.2. Description of water management risks and discussion of strategies and practices to mitigate those risks"
+      ],
+      "page": [
+        "Page 476"
+      ],
+      "industries": [
+        "b44-solar-technology-and-project-developers"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "What is the code of the metric for the 'Amount of defect- and safety-related rework costs' in the Engineering & Construction Services industry?",
+      "correct_answer": "B",
+      "rag_response": "A",
+      "is_correct": false,
+      "reference": [
+        "| Structural Integrity & Safety | Amount of defect- and safety-related rework costs | Quantitative | Reporting currency | IF-EN-250a.1 |"
+      ],
+      "page": [
+        "321"
+      ],
+      "industries": [
+        "b33-engineering-and-construction-services"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "What is the code of the metric 'Total water withdrawn' in the Solar Technology & Project Developers industry and how should this metric be disclosed?",
+      "correct_answer": "A",
+      "rag_response": "D",
+      "is_correct": false,
+      "reference": [
+        "| Water Management in Manufacturing | (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percent- age (%) | RR-ST-140a.1 |",
+        "1 The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from all sources."
+      ],
+      "page": [
+        "471",
+        "475"
+      ],
+      "industries": [
+        "b44-solar-technology-and-project-developers"
+      ],
+      "qa_type": "multi_hop"
+    },
+    {
+      "question": "On what page can I find details about the 'Transition Risk Exposure' topic for the Asset Management & Custody Activities industry?",
+      "correct_answer": "B",
+      "rag_response": "A",
+      "is_correct": false,
+      "reference": [
+        "#### Page 134",
+        "Transition Risk Exposure"
+      ],
+      "page": [
+        "134"
+      ],
+      "industries": [
+        "b15-asset-management-and-custody-activities"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "For the energy management disclosure in the Casinos & Gaming industry, what must a company do to claim renewable electricity generated on-site as renewable energy?",
+      "correct_answer": "B",
+      "rag_response": "B",
+      "is_correct": true,
+      "reference": [
+        "3.3.1  For any renewable electricity generated on-site, any RECs and GOs must be retained (i.e., not sold) and retired or cancelled on behalf of the entity in order for the entity to claim them as renewable energy."
+      ],
+      "page": [
+        "Page 536"
+      ],
+      "industries": [
+        "b51-casinos-and-gaming"
+      ],
+      "qa_type": "single_hop"
+    },
+    {
+      "question": "For the 'Design for Fuel Efficiency' topic, what metric should a company in the Auto Parts industry use for revenue, and how should this metric be calculated?",
+      "correct_answer": "A",
+      "rag_response": "A",
+      "is_correct": true,
+      "reference": [
+        "| Design for Fuel Efficien\u00adcy | Revenue from products designed to increase fuel efficiency and/or reduce emissions | Quantitative | Reporting currency | TR-AP-410a.1 |",
+        "1. The entity shall disclose its total revenue from products that are designed to increase fuel efficiency and/or reduce emissions during their use phase."
+      ],
+      "page": [
+        "Page 604",
+        "Page 607"
+      ],
+      "industries": [
+        "b62-auto-parts"
+      ],
+      "qa_type": "multi_hop"
+    }
+  ],
+  "accuracy": 38.70967741935484
+}

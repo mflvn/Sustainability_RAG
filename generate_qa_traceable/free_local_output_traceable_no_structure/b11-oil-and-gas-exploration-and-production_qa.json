@@ -1,0 +1,118 @@
+[
+  {
+    "question": "What does a company need to disclose regarding the percentage of its emissions covered under emissions-limiting regulations?",
+    "answer": "The entity shall disclose the percentage of its emissions that are covered under an emissions-limiting regulation or that is intended to directly limit or reduce emissions, such as cap-and-trade schemes, carbon tax/fee systems, and other emissions control (e.g., command-and-control approach) and permit-based mechanisms.",
+    "reference_text": [
+      "The entity shall disclose the percentage of its emissions that are covered under an emissions-limiting regulation or that is intended to directly limit or reduce emissions, such as cap-and-trade schemes, carbon tax/fee systems, and other emissions control (e.g., command-and-control approach) and permit-based mechanisms."
+    ],
+    "pages": [
+      "94"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "question": "What does a company need to disclose regarding the volume of produced water and flowback generated from its operations?",
+    "answer": "The entity shall disclose the volume, in thousands of cubic meters, of produced water and flowback fluid generated during its activities.",
+    "reference_text": [
+      "The entity shall disclose the volume, in thousands of cubic meters, of produced water and flowback fluid generated during its activities."
+    ],
+    "pages": [
+      "100"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "question": "What should a company disclose regarding the sensitivity of its hydrocarbon reserve levels to future price projection scenarios?",
+    "answer": "The entity shall analyze the sensitivity of its current proven and probable reserves using the price trajectories published by the International Energy Agency (IEA) in its World Energy Outlook (WEO) publication, including: Current Policies Scenario, New Policies Scenario, and Sustainable Development Scenario.",
+    "reference_text": [
+      "The entity shall analyze the sensitivity of its current proven and probable reserves using the price trajectories published by the International Energy Agency (IEA) in its World Energy Outlook (WEO) publication, including: 2.1 Current Policies Scenario, which assumes no changes in policies from the mid-point of the year of publication of the WEO. 2.2 New Policies Scenario, which assumes that broad policy commitments and plans that have been announced by countries (including national pledges to reduce greenhouse gas emissions and plans to phase out fossil-energy subsidies), occur even if the measures to implement these commitments have yet to be identified or announced. This broadly serves as the IEA baseline scenario. 2.3 Sustainable Development Scenario, which assumes that an energy pathway occurs that is consistent with the goal of limiting the global increase in temperature to 1.5\u00b0C by limiting concentration of greenhouse gases in the atmosphere."
+    ],
+    "pages": [
+      "103"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "question": "What should a company disclose regarding the estimated carbon dioxide emissions embedded in its proved hydrocarbon reserves?",
+    "answer": "The entity shall calculate and disclose an estimate of the carbon dioxide emissions embedded in its proved hydrocarbon reserves.",
+    "reference_text": [
+      "The entity shall calculate and disclose an estimate of the carbon dioxide emissions embedded in its proved hydrocarbon reserves."
+    ],
+    "pages": [
+      "105"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "question": "What does a company need to disclose regarding the percentage of its emissions that are covered under emissions-limiting regulations?",
+    "answer": "The entity shall disclose the percentage of its emissions that are covered under an emissions-limiting regulation or that is intended to directly limit or reduce emissions, such as cap-and-trade schemes, carbon tax/fee systems, and other emissions control (e.g., command-and-control approach) and permit-based mechanisms.",
+    "reference_text": [
+      "4      The entity shall disclose the percentage of its emissions that are covered under an emissions-limiting regulation or that is intended to directly limit or reduce emissions, such as cap-and-trade schemes, carbon tax/fee systems, and other emissions control (e.g., command-and-control approach) and permit-based mechanisms."
+    ],
+    "pages": [
+      "94"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "question": "How should a company calculate the percentage of hydraulically fractured wells for which there is public disclosure of all fracturing fluid chemicals used?",
+    "answer": "The percentage shall be calculated as the number of hydraulically fractured wells for which it provides public disclosure of all of the chemical content of fracturing fluid, divided by the total number of hydraulically fractured wells.",
+    "reference_text": [
+      "1.1 The percentage shall be calculated as the number of hydraulically fractured wells for which it provides public disclosure of all of the chemical content of fracturing fluid, divided by the total number of hydraulically fractured wells."
+    ],
+    "pages": [
+      "100"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "question": "What scenarios should a company analyze to determine the sensitivity of its hydrocarbon reserve levels to future price projections that account for a price on carbon emissions?",
+    "answer": "The entity shall analyze the sensitivity of its current proven and probable reserves using the price trajectories published by the International Energy Agency (IEA) in its World Energy Outlook (WEO) publication, including: Current Policies Scenario, New Policies Scenario, and Sustainable Development Scenario.",
+    "reference_text": [
+      "2 The entity shall analyze the sensitivity of its current proven and probable reserves using the price trajectories published by the International Energy Agency (IEA) in its World Energy Outlook (WEO) publication, including:",
+      "2.1 Current Policies Scenario, which assumes no changes in policies from the mid-point of the year of publication of the WEO.",
+      "2.2 New Policies Scenario, which assumes that broad policy commitments and plans that have been announced by countries (including national pledges to reduce greenhouse gas emissions and plans to phase out fossil-energy subsidies), occur even if the measures to implement these commitments have yet to be identified or announced. This broadly serves as the IEA baseline scenario.",
+      "2.3 Sustainable Development Scenario, which assumes that an energy pathway occurs that is consistent with the goal of limiting the global increase in temperature to 1.5\u00b0C by limiting concentration of greenhouse gases in the atmosphere."
+    ],
+    "pages": [
+      "103"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "question": "What should a company disclose regarding the amount invested in renewable energy and revenue generated from renewable energy sales?",
+    "answer": "1. The entity shall disclose the total amount spent, including capital and research and development expenditures, on renewable or alternative energy sources. 2. The entity shall disclose the sales generated from renewable energy sources.",
+    "reference_text": [
+      "1. The entity shall disclose the total amount spent, including capital and research and development expenditures, on renewable or alternative energy sources.",
+      "2. The entity shall disclose the sales generated from renewable energy sources."
+    ],
+    "pages": [
+      "106"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  }
+]

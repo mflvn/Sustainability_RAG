@@ -1,0 +1,392 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the three components of the energy management metric (FB-AB-130a.1) for the Alcoholic Beverages industry?",
+    "optionA": "Total energy consumed, percentage of solar energy, percentage of wind energy",
+    "optionB": "Total energy consumed, percentage of nuclear energy, percentage of fossil fuels",
+    "optionC": "Total energy consumed, percentage grid electricity, percentage renewable",
+    "optionD": "Total energy produced, percentage grid electricity, percentage non-renewable",
+    "optionE": "Total energy consumed, percentage of hydroelectric power, percentage of geothermal energy",
+    "answer": "C. Total energy consumed, percentage grid electricity, percentage renewable",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+    "page": "204",
+    "industries": [
+      "b21-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the water management metric FB-AB-140a.1, how is water consumption defined in the Alcoholic Beverages industry?",
+    "optionA": "Water that is used in the production process and then recycled",
+    "optionB": "Water that is withdrawn from sources but not used in products",
+    "optionC": "Water that evaporates, is incorporated into products, or doesn't return to the same catchment area",
+    "optionD": "Water that is used for cleaning and sanitation purposes only",
+    "optionE": "Water that is purchased from municipal sources for any purpose",
+    "answer": "C. Water that evaporates, is incorporated into products, or doesn't return to the same catchment area",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+    "page": "206-207",
+    "industries": [
+      "b21-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What tool is used to classify regions with High or Extremely High Baseline Water Stress in the Alcoholic Beverages industry disclosures?",
+    "optionA": "United Nations Water Scarcity Index",
+    "optionB": "World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "optionC": "Global Water Partnership Stress Indicator",
+    "optionD": "OECD Water Risk Assessment Framework",
+    "optionE": "FAO Aquastat Database",
+    "answer": "B. World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+    "page": "207",
+    "industries": [
+      "b21-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "How is a 'major non-conformance' defined in the context of suppliers' social and environmental responsibility audits for the Alcoholic Beverages industry?",
+    "optionA": "A minor violation of local environmental regulations",
+    "optionB": "The highest severity of non-conformance requiring escalation by auditors",
+    "optionC": "A delay in submitting required documentation",
+    "optionD": "An isolated incident of non-compliance with company policies",
+    "optionE": "A failure to meet voluntary sustainability targets",
+    "answer": "B. The highest severity of non-conformance requiring escalation by auditors",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+    "page": "210",
+    "industries": [
+      "b21-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might a company in the Alcoholic Beverages industry demonstrate its commitment to renewable energy while also addressing water management risks in water-stressed regions?",
+    "optionA": "By using only grid electricity and reducing water consumption",
+    "optionB": "By investing in solar panels and implementing water recycling systems",
+    "optionC": "By purchasing carbon offsets and donating to water conservation charities",
+    "optionD": "By increasing production in water-rich areas and using more fossil fuels",
+    "optionE": "By focusing solely on energy efficiency without considering water management",
+    "answer": "B: By investing in solar panels and implementing water recycling systems",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+    "page": "204-209",
+    "industries": [
+      "b21-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "A company in the Alcoholic Beverages industry is facing pressure to improve its environmental impact. Which combination of strategies would best address both energy and water management concerns?",
+    "optionA": "Increase grid electricity usage and expand production to water-rich areas",
+    "optionB": "Implement renewable energy sources and focus on water efficiency in high-stress regions",
+    "optionC": "Reduce total energy consumption without considering water management",
+    "optionD": "Increase water withdrawals and switch to non-renewable energy sources",
+    "optionE": "Outsource production to regions with fewer environmental regulations",
+    "answer": "B: Implement renewable energy sources and focus on water efficiency in high-stress regions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+    "page": "204-209",
+    "industries": [
+      "b21-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How can a company in the Alcoholic Beverages industry best mitigate risks associated with both ingredient sourcing and water management?",
+    "optionA": "By only sourcing ingredients from water-rich regions",
+    "optionB": "By ignoring water stress in supplier regions and focusing on price",
+    "optionC": "By diversifying suppliers and implementing water efficiency programs in high-stress areas",
+    "optionD": "By reducing product variety to simplify the supply chain",
+    "optionE": "By increasing water consumption to improve product quality",
+    "answer": "C: By diversifying suppliers and implementing water efficiency programs in high-stress areas",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+    "page": "206-213",
+    "industries": [
+      "b21-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "Which approach would most effectively address both environmental and social concerns in the supply chain of an Alcoholic Beverages company?",
+    "optionA": "Focusing solely on reducing costs in the supply chain",
+    "optionB": "Implementing strict environmental standards without considering social impacts",
+    "optionC": "Conducting supplier audits for social responsibility but ignoring environmental factors",
+    "optionD": "Engaging suppliers in environmental best practices and labor rights training programs",
+    "optionE": "Relocating all production to regions with the least regulation",
+    "answer": "D: Engaging suppliers in environmental best practices and labor rights training programs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+    "page": "210-213",
+    "industries": [
+      "b21-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is the significance of the 'Water Risk Atlas tool, Aqueduct' in the context of the Alcoholic Beverages industry?",
+    "optionA": "It's a tool used to measure alcohol content in beverages",
+    "optionB": "It's a system for tracking water usage in production facilities",
+    "optionC": "It's a classification tool for identifying regions with high or extremely high baseline water stress",
+    "optionD": "It's a database of global water quality standards",
+    "optionE": "It's a software for optimizing water transportation in the supply chain",
+    "answer": "C: It's a classification tool for identifying regions with high or extremely high baseline water stress",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+    "page": "207, 212",
+    "industries": [
+      "b21-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "How is 'water consumption' defined in the Alcoholic Beverages industry's sustainability metrics?",
+    "optionA": "Only water used in the final product",
+    "optionB": "Total water withdrawn minus water discharged",
+    "optionC": "Water that evaporates, is incorporated into products, or doesn't return to the same catchment area",
+    "optionD": "Water used for cleaning and sanitation processes",
+    "optionE": "Any water that enters the production facility",
+    "answer": "C: Water that evaporates, is incorporated into products, or doesn't return to the same catchment area",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+    "page": "206-207",
+    "industries": [
+      "b21-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What constitutes 'renewable energy' in the context of the Alcoholic Beverages industry's energy management metrics?",
+    "optionA": "Only solar and wind energy",
+    "optionB": "Any energy source that is not fossil fuel-based",
+    "optionC": "Energy from sources replenished at a rate greater than or equal to their depletion rate, including geothermal, wind, solar, hydro, and biomass",
+    "optionD": "Electricity purchased from the local grid",
+    "optionE": "Energy produced on-site, regardless of the source",
+    "answer": "C: Energy from sources replenished at a rate greater than or equal to their depletion rate, including geothermal, wind, solar, hydro, and biomass",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+    "page": "204-205",
+    "industries": [
+      "b21-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "How are 'priority beverage ingredients' defined in the Alcoholic Beverages industry's ingredient sourcing metrics?",
+    "optionA": "Ingredients with the highest alcohol content",
+    "optionB": "Only water and fermentable sugars",
+    "optionC": "Ingredients that constitute the largest expense and/or those identified as essential or having significant environmental or social risks",
+    "optionD": "Ingredients sourced from international suppliers",
+    "optionE": "Any ingredient used in the company's bestselling product",
+    "answer": "C: Ingredients that constitute the largest expense and/or those identified as essential or having significant environmental or social risks",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+    "page": "212-213",
+    "industries": [
+      "b21-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might climate change impact the Alcoholic Beverages industry's supply chain, and what strategies could companies employ to mitigate these risks?",
+    "optionA": "Climate change has no impact on the industry's supply chain",
+    "optionB": "Companies can only focus on finding new suppliers in unaffected regions",
+    "optionC": "The industry is immune to climate change effects due to its diverse product range",
+    "optionD": "Climate change could lead to price volatility and supply disruptions, requiring strategies like diversification and supplier engagement",
+    "optionE": "The only viable strategy is to switch to synthetic ingredients",
+    "answer": "D. Climate change could lead to price volatility and supply disruptions, requiring strategies like diversification and supplier engagement",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+    "page": "212",
+    "industries": [
+      "b21-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "In the context of water management for Alcoholic Beverage companies, why is it important to consider both water withdrawal and water consumption?",
+    "optionA": "Only water withdrawal matters for sustainability reporting",
+    "optionB": "Water consumption is irrelevant in the production process",
+    "optionC": "Considering both provides a comprehensive view of water usage and its impact on local water resources",
+    "optionD": "Water withdrawal and consumption are always the same amount",
+    "optionE": "Regulators only care about water withdrawal figures",
+    "answer": "C. Considering both provides a comprehensive view of water usage and its impact on local water resources",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+    "page": "206-207",
+    "industries": [
+      "b21-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How can the concept of 'social license to operate' impact Alcoholic Beverage companies in water-stressed regions?",
+    "optionA": "It has no impact on company operations",
+    "optionB": "It only affects marketing strategies",
+    "optionC": "Companies may face operational risks and potential closure if they fail to address local water concerns",
+    "optionD": "It's a legal requirement for all companies",
+    "optionE": "It only applies to companies in developing countries",
+    "answer": "C. Companies may face operational risks and potential closure if they fail to address local water concerns",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+    "page": "206",
+    "industries": [
+      "b21-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "What broader implications does the industry's focus on supplier social and environmental responsibility audits have?",
+    "optionA": "It only affects the company's public image",
+    "optionB": "It has no impact on the company's operations or profitability",
+    "optionC": "It's solely a regulatory compliance issue",
+    "optionD": "It can enhance supply chain resiliency, mitigate reputational risks, and potentially increase consumer demand",
+    "optionE": "It only matters for small, artisanal producers",
+    "answer": "D. It can enhance supply chain resiliency, mitigate reputational risks, and potentially increase consumer demand",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+    "page": "210",
+    "industries": [
+      "b21-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the procedure for calculating the percentage of renewable energy consumed by an Alcoholic Beverages company according to the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Divide the total renewable energy by the total grid electricity consumed",
+    "optionB": "Subtract non-renewable energy from total energy consumed",
+    "optionC": "Divide renewable energy consumption by total energy consumption",
+    "optionD": "Add all sources of renewable energy and divide by 100",
+    "optionE": "Multiply renewable energy production by the number of production facilities",
+    "answer": "C. Divide renewable energy consumption by total energy consumption",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+    "page": "204-205",
+    "industries": [
+      "b21-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the IFRS S2 Climate-related Disclosures, what is the correct procedure for disclosing water consumption in regions with High or Extremely High Baseline Water Stress?",
+    "optionA": "Report total water consumed in all regions",
+    "optionB": "Disclose water consumed in stressed regions as a percentage of total water consumed",
+    "optionC": "Only report water consumption in Extremely High Baseline Water Stress regions",
+    "optionD": "Calculate water consumption as a ratio of production volume",
+    "optionE": "Subtract water discharged from water withdrawn in stressed regions",
+    "answer": "B. Disclose water consumed in stressed regions as a percentage of total water consumed",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+    "page": "206-207",
+    "industries": [
+      "b21-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the correct procedure for calculating the non-conformance rate in supplier social and environmental responsibility audits?",
+    "optionA": "Divide the number of non-conformances by the total number of audit criteria",
+    "optionB": "Subtract conforming suppliers from the total number of suppliers",
+    "optionC": "Divide the total number of non-conformances by the number of supplier facilities audited",
+    "optionD": "Calculate the percentage of suppliers with at least one non-conformance",
+    "optionE": "Multiply the number of major non-conformances by two and add minor non-conformances",
+    "answer": "C. Divide the total number of non-conformances by the number of supplier facilities audited",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+    "page": "210-211",
+    "industries": [
+      "b21-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the IFRS S2 Climate-related Disclosures, what is the correct procedure for identifying suppliers in water-stressed regions when calculating the percentage of beverage ingredients sourced from these areas?",
+    "optionA": "Use internal company water risk assessments",
+    "optionB": "Rely on supplier self-reporting of water stress",
+    "optionC": "Consult local government water scarcity data",
+    "optionD": "Use the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "optionE": "Calculate based on the frequency of water shortages reported by suppliers",
+    "answer": "D. Use the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+    "page": "212",
+    "industries": [
+      "b21-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How could the implementation of comprehensive water management strategies impact an alcoholic beverage company's financial performance and stakeholder relationships?",
+    "optionA": "It would only increase costs without any tangible benefits",
+    "optionB": "It would improve financial performance through cost savings and risk mitigation, while enhancing stakeholder trust and brand reputation",
+    "optionC": "It would solely benefit the environment without affecting the company's performance",
+    "optionD": "It would negatively impact relationships with suppliers who may not be able to meet new water standards",
+    "optionE": "It would only be relevant for companies operating in water-stressed regions",
+    "answer": "B. It would improve financial performance through cost savings and risk mitigation, while enhancing stakeholder trust and brand reputation",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+    "page": "206-209",
+    "industries": [
+      "b21-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the increasing focus on environmental and social impacts in the Alcoholic Beverages industry's supply chain reshape consumer preferences and market dynamics in the coming years?",
+    "optionA": "Consumers will become less interested in the environmental and social impacts of alcoholic beverages",
+    "optionB": "The industry will see a shift towards locally-sourced ingredients only, regardless of quality or cost",
+    "optionC": "There will be a growing demand for transparently sourced, sustainably produced alcoholic beverages, potentially creating new market segments and influencing brand loyalty",
+    "optionD": "The focus on environmental and social impacts will have no effect on consumer preferences or market dynamics",
+    "optionE": "Consumers will prioritize price over environmental and social considerations, leading to a race to the bottom in terms of sustainability practices",
+    "answer": "C. There will be a growing demand for transparently sourced, sustainably produced alcoholic beverages, potentially creating new market segments and influencing brand loyalty",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+    "page": "210-213",
+    "industries": [
+      "b21-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the increasing emphasis on environmental and social responsibility audits in the Alcoholic Beverages industry's supply chain impact brand reputation and consumer behavior in the coming years?",
+    "optionA": "It will have no significant impact on consumer behavior or brand reputation",
+    "optionB": "It will lead to decreased sales as consumers become overwhelmed with ethical information",
+    "optionC": "It will result in higher prices, causing consumers to choose less responsible alternatives",
+    "optionD": "It will create a niche market for ethically sourced products but won't affect mainstream brands",
+    "optionE": "It will enhance brand reputation, drive consumer loyalty, and potentially create new market opportunities for responsible brands",
+    "answer": "E. It will enhance brand reputation, drive consumer loyalty, and potentially create new market opportunities for responsible brands",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+    "page": "210-211",
+    "industries": [
+      "b21-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT listed as a required activity metric for the Alcoholic Beverages industry?",
+    "optionA": "Volume of products sold",
+    "optionB": "Number of production facilities",
+    "optionC": "Total fleet road miles traveled",
+    "optionD": "Number of employees",
+    "optionE": "Total water consumed",
+    "answer": "D. Number of employees",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+    "page": "203",
+    "industries": [
+      "b21-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a component of the scope of energy consumption for alcoholic beverage companies?",
+    "optionA": "Direct fuel usage",
+    "optionB": "Purchased electricity",
+    "optionC": "Heating energy",
+    "optionD": "Cooling energy",
+    "optionE": "Energy used in third-party distribution",
+    "answer": "E. Energy used in third-party distribution",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+    "page": "204-205",
+    "industries": [
+      "b21-alcoholic-beverages"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a risk associated with water withdrawals and consumption in the Alcoholic Beverages industry?",
+    "optionA": "Operating in water-stressed regions",
+    "optionB": "Drought conditions",
+    "optionC": "Seasonal variability",
+    "optionD": "Stakeholder perceptions",
+    "optionE": "Soil erosion",
+    "answer": "E. Soil erosion",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Alcoholic Beverages",
+    "page": "207",
+    "industries": [
+      "b21-alcoholic-beverages"
+    ]
+  }
+]

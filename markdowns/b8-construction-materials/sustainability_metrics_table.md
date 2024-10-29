@@ -1,0 +1,10 @@
+| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |
+|-------|--------|----------|-----------------|------|
+| Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO₂-e, Percentage (%) | EM-CM-110a.1 |
+| Greenhouse Gas Emissions | Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a | EM-CM-110a.2 |
+| Air Quality | Air emissions of the following pollutants: (1) NOx (excluding N₂O), (2) SOx, (3) particulate matter (PM10), (4) dioxins/furans, (5) volatile organic compounds (VOCs), (6) polycyclic aromatic hydrocarbons (PAHs), and (7) heavy metals | Quantitative | Metric tons (t) | EM-CM-120a.1 |
+| Energy Management | (1) Total energy consumed, (2) percent­age grid electricity, (3) percentage alternative, (4) percentage renewable | Quantitative | Gigajoules (GJ), Percent­age (%) | EM-CM-130a.1 |
+| Water Management | (1) Total fresh water withdrawn, (2) percentage recycled, (3) percentage in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m³), Percent­age (%) | EM-CM-140a.1 |
+| Waste Management | Amount of waste generated, percentage hazardous, percentage recycled | Quantitative | Metric tons (t), Percentage (%) | EM-CM-150a.1 |
+| Product Innovation | Percentage of products that qualify for credits in sustainable building design and construction certifications | Quantitative | Percentage (%) by annual sales revenue | EM-CM-410a.1 |
+| Product Innovation | Total addressable market and share of market for products that reduce energy, water, and/or material impacts during usage and/or production | Quantitative | Reporting currency, Percentage (%) | EM-CM-410a.2 |

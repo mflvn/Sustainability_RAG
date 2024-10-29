@@ -1,0 +1,392 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the three components of the total energy consumption metric for the E-Commerce industry?",
+    "optionA": "Total energy consumed, percentage of solar energy, percentage of wind energy",
+    "optionB": "Total energy consumed, percentage of nuclear energy, percentage of fossil fuels",
+    "optionC": "Total energy consumed, percentage grid electricity, percentage renewable",
+    "optionD": "Total energy produced, percentage grid electricity, percentage non-renewable",
+    "optionE": "Total energy consumed, percentage of hydroelectric power, percentage of geothermal energy",
+    "answer": "C. Total energy consumed, percentage grid electricity, percentage renewable",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+    "page": "27-28",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the document, what is the definition of Power Usage Effectiveness (PUE) for data centers?",
+    "optionA": "The ratio of total power used by a data center to the power used for cooling",
+    "optionB": "The ratio of renewable energy to non-renewable energy used in a data center",
+    "optionC": "The ratio of the total amount of power used by a computer data center facility to the amount of power delivered to computing equipment",
+    "optionD": "The percentage of energy efficiency improvement in a data center over a year",
+    "optionE": "The total amount of power consumed by a data center in gigajoules",
+    "answer": "C. The ratio of the total amount of power used by a computer data center facility to the amount of power delivered to computing equipment",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+    "page": "28-29",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What tool is used to classify regions with High or Extremely High Baseline Water Stress for water risk analysis?",
+    "optionA": "NOAA Climate Prediction Center",
+    "optionB": "World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "optionC": "UN Environment Programme Water Risk Index",
+    "optionD": "Global Water Partnership's Risk Assessment Framework",
+    "optionE": "IPCC Water Stress Classification System",
+    "answer": "B. World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+    "page": "29",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What standard should be used to calculate the greenhouse gas (GHG) footprint of product shipments in the E-Commerce industry?",
+    "optionA": "ISO 14064-1:2018",
+    "optionB": "GHG Protocol Corporate Standard",
+    "optionC": "PAS 2050:2011",
+    "optionD": "EN 16258:2012",
+    "optionE": "ASTM E2727-10",
+    "answer": "D. EN 16258:2012",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+    "page": "31-32",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might an e-commerce company's decision to use water cooling in its data centers impact both its energy consumption and water usage in regions with high water stress?",
+    "optionA": "It would increase energy consumption but decrease water usage in high-stress regions",
+    "optionB": "It would decrease energy consumption but increase water usage in high-stress regions",
+    "optionC": "It would increase both energy consumption and water usage in high-stress regions",
+    "optionD": "It would have no impact on either energy consumption or water usage in high-stress regions",
+    "optionE": "It would decrease both energy consumption and water usage in high-stress regions",
+    "answer": "B: It would decrease energy consumption but increase water usage in high-stress regions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+    "page": "27, 28, 29",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "If an e-commerce company wants to claim that 100% of its energy comes from renewable sources, which of the following combinations of actions would fulfill this requirement?",
+    "optionA": "Purchasing grid electricity and separately buying renewable energy certificates (RECs)",
+    "optionB": "Generating solar power on-site and selling the associated RECs",
+    "optionC": "Entering into a renewable power purchase agreement (PPA) that includes RECs and generating wind power on-site while retaining the RECs",
+    "optionD": "Using the renewable portion of the standard electricity grid mix",
+    "optionE": "Purchasing biomass energy from any available source",
+    "answer": "C: Entering into a renewable power purchase agreement (PPA) that includes RECs and generating wind power on-site while retaining the RECs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+    "page": "27, 28",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "An e-commerce company is considering strategies to reduce its environmental impact. Which combination of actions would likely have the most significant positive effect on both its GHG footprint and packaging waste?",
+    "optionA": "Increasing air freight and using larger packaging sizes",
+    "optionB": "Optimizing route efficiency and using recycled packaging materials",
+    "optionC": "Expanding next-day delivery options and using single-use plastics",
+    "optionD": "Outsourcing all deliveries and using standard packaging sizes",
+    "optionE": "Increasing warehouse locations and using biodegradable packing peanuts",
+    "answer": "B: Optimizing route efficiency and using recycled packaging materials",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+    "page": "31, 32",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "If an e-commerce company reports a high percentage of water consumption in regions with High Baseline Water Stress and a low PUE for its data centers, what can be inferred about its operational efficiency and environmental impact?",
+    "optionA": "The company is inefficient in both water and energy use",
+    "optionB": "The company is efficient in energy use but may face water-related risks",
+    "optionC": "The company is efficient in water use but inefficient in energy use",
+    "optionD": "The company has no significant environmental impact",
+    "optionE": "The company's data is inconsistent and cannot be interpreted",
+    "answer": "B: The company is efficient in energy use but may face water-related risks",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+    "page": "28, 29, 30",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "In the context of e-commerce water management, how is water consumption defined?",
+    "optionA": "The total amount of water withdrawn from all sources",
+    "optionB": "Water that evaporates, is incorporated into products, or doesn't return to the original catchment area",
+    "optionC": "The amount of water used for cooling data centers",
+    "optionD": "Water obtained from municipal supplies only",
+    "optionE": "The difference between water withdrawn and water discharged",
+    "answer": "B: Water that evaporates, is incorporated into products, or doesn't return to the original catchment area",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+    "page": "29",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What does the term 'tank-to-wheels emissions' refer to in the context of e-commerce product shipments?",
+    "optionA": "Emissions from fuel production and distribution",
+    "optionB": "Total lifecycle emissions of delivery vehicles",
+    "optionC": "Emissions related to vehicle processes, excluding upstream energy production",
+    "optionD": "Emissions from warehousing and packaging",
+    "optionE": "Combined emissions from production, shipping, and end-use of products",
+    "answer": "C: Emissions related to vehicle processes, excluding upstream energy production",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+    "page": "31",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "How is 'renewable energy' defined for e-commerce companies reporting their energy consumption?",
+    "optionA": "Any energy not sourced from fossil fuels",
+    "optionB": "Energy from sources replenished at a rate greater than or equal to their depletion rate",
+    "optionC": "Electricity generated from solar and wind sources only",
+    "optionD": "Energy produced on-site by the company",
+    "optionE": "Any energy purchased through a green power program",
+    "answer": "B: Energy from sources replenished at a rate greater than or equal to their depletion rate",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+    "page": "27-28",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might an e-commerce company's decision to switch from air freight to rail transport for product delivery impact its environmental footprint and operational costs?",
+    "optionA": "It would likely increase both environmental impact and costs",
+    "optionB": "It would likely reduce environmental impact but increase costs",
+    "optionC": "It would likely reduce both environmental impact and costs",
+    "optionD": "It would likely increase environmental impact but reduce costs",
+    "optionE": "It would have no significant impact on either environmental footprint or costs",
+    "answer": "C. It would likely reduce both environmental impact and costs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+    "page": "31-32",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "What broader implications might arise for an e-commerce company that consistently reports high PUE (Power Usage Effectiveness) values for its data centers?",
+    "optionA": "Increased market share due to efficient operations",
+    "optionB": "Higher profitability from energy savings",
+    "optionC": "Improved customer satisfaction rates",
+    "optionD": "Potential regulatory scrutiny and reputational risks",
+    "optionE": "Easier access to renewable energy sources",
+    "answer": "D. Potential regulatory scrutiny and reputational risks",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+    "page": "27-29",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might an e-commerce company's decision to invest in renewable energy for its data centers affect its long-term business strategy and stakeholder relationships?",
+    "optionA": "It would likely lead to immediate profit increases",
+    "optionB": "It would probably result in loss of competitive advantage",
+    "optionC": "It could enhance brand image and attract environmentally conscious consumers and investors",
+    "optionD": "It would have no significant impact on business strategy or stakeholder relationships",
+    "optionE": "It would likely lead to increased regulatory scrutiny",
+    "answer": "C. It could enhance brand image and attract environmentally conscious consumers and investors",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+    "page": "27-29",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "In the context of e-commerce environmental reporting, why might a company choose to disclose its trailing twelve-month (TTM) weighted average power usage effectiveness (PUE) for its data centers?",
+    "optionA": "To comply with mandatory reporting requirements",
+    "optionB": "To demonstrate superior energy efficiency compared to industry peers",
+    "optionC": "To avoid disclosing actual energy consumption figures",
+    "optionD": "To justify higher product prices to consumers",
+    "optionE": "To qualify for government subsidies",
+    "answer": "B. To demonstrate superior energy efficiency compared to industry peers",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+    "page": "28-29",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the IFRS S2 Climate-related Disclosures, what specific types of renewable energy sources are considered within scope for e-commerce companies when calculating their renewable energy consumption percentage?",
+    "optionA": "Only solar and wind energy",
+    "optionB": "Any energy source that is replenished faster than it's depleted",
+    "optionC": "Only energy directly produced by the company",
+    "optionD": "Exclusively hydroelectric power",
+    "optionE": "Only biomass certified by third-party standards",
+    "answer": "B. Any energy source that is replenished faster than it's depleted",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "27-28",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What procedure must an e-commerce company follow to claim renewable energy credits (RECs) from on-site renewable electricity generation in their sustainability disclosures?",
+    "optionA": "Sell the RECs to other companies",
+    "optionB": "Report the generation without any action on RECs",
+    "optionC": "Retain and retire or cancel the RECs on behalf of the entity",
+    "optionD": "Transfer the RECs to local utility companies",
+    "optionE": "Ignore RECs in sustainability reporting",
+    "answer": "C. Retain and retire or cancel the RECs on behalf of the entity",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "28",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "When disclosing water consumption data, how should an e-commerce company determine if a region has 'High' baseline water stress according to the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Consult local water utility companies",
+    "optionB": "Use the World Resources Institute's Water Risk Atlas tool, Aqueduct, and look for 40-80% stress levels",
+    "optionC": "Measure annual rainfall in the area",
+    "optionD": "Analyze the company's water bills",
+    "optionE": "Survey local residents about water availability",
+    "answer": "B. Use the World Resources Institute's Water Risk Atlas tool, Aqueduct, and look for 40-80% stress levels",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "29",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What specific procedure does the IFRS S2 Climate-related Disclosures require e-commerce companies to follow when calculating the total greenhouse gas (GHG) footprint of their product shipments?",
+    "optionA": "Use the well-to-wheel emissions calculation method",
+    "optionB": "Calculate emissions based on the entity's own assets (Scope 1) only",
+    "optionC": "Follow the tank-to-wheels GHG emissions calculation as described in EN 16258:2012",
+    "optionD": "Include only emissions from road freight transportation",
+    "optionE": "Base calculations solely on default emissions values provided by carriers",
+    "answer": "C. Follow the tank-to-wheels GHG emissions calculation as described in EN 16258:2012",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+    "page": "31-32",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might an e-commerce company's decision to integrate environmental considerations into data center planning impact its long-term operational costs and sustainability efforts?",
+    "optionA": "It would only increase costs without providing any tangible benefits",
+    "optionB": "It could lead to reduced energy consumption and water usage, potentially lowering operational costs and improving sustainability metrics",
+    "optionC": "Environmental considerations are irrelevant for data center planning in e-commerce",
+    "optionD": "It would only affect the company's public image without any real operational impact",
+    "optionE": "Environmental considerations in data center planning are only relevant for companies operating in regions with strict environmental regulations",
+    "answer": "B: It could lead to reduced energy consumption and water usage, potentially lowering operational costs and improving sustainability metrics",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+    "page": "29-30",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "In what ways could an e-commerce company's strategies to reduce the environmental impact of product delivery create a competitive advantage in the market?",
+    "optionA": "Environmental strategies have no impact on competitive advantage in e-commerce",
+    "optionB": "Such strategies only increase costs and reduce profitability",
+    "optionC": "These strategies might lead to improved brand reputation, cost savings from efficient packaging and shipping, and appeal to environmentally conscious consumers",
+    "optionD": "Environmental strategies in delivery are only relevant for luxury e-commerce brands",
+    "optionE": "Reducing environmental impact of delivery is only important for regulatory compliance",
+    "answer": "C: These strategies might lead to improved brand reputation, cost savings from efficient packaging and shipping, and appeal to environmentally conscious consumers",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+    "page": "31-32",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the disclosure of water consumption in regions with high water stress affect an e-commerce company's strategic decisions regarding data center locations?",
+    "optionA": "Water consumption disclosure has no impact on data center location decisions",
+    "optionB": "It might lead companies to prioritize locations with lower water stress, invest in water-efficient cooling technologies, or develop water recycling systems",
+    "optionC": "Companies would always choose high water stress areas for data centers to highlight their sustainability efforts",
+    "optionD": "Water consumption is irrelevant for e-commerce data centers",
+    "optionE": "Disclosing water consumption would only affect companies operating in desert regions",
+    "answer": "B: It might lead companies to prioritize locations with lower water stress, invest in water-efficient cooling technologies, or develop water recycling systems",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+    "page": "29-30",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the increasing focus on environmental impact in e-commerce affect the industry's approach to last-mile delivery, and what innovative solutions could potentially emerge?",
+    "optionA": "Companies will likely ignore environmental concerns and continue with current delivery methods",
+    "optionB": "The industry may shift towards using exclusively electric vehicles for all deliveries",
+    "optionC": "E-commerce firms might invest more in drone technology for all deliveries, regardless of practicality",
+    "optionD": "The industry could see a combination of technological innovations and operational changes, such as optimized routing, alternative fuel vehicles, and increased use of local fulfillment centers",
+    "optionE": "E-commerce companies may completely outsource all delivery operations to third-party providers to avoid environmental responsibilities",
+    "answer": "D. The industry could see a combination of technological innovations and operational changes, such as optimized routing, alternative fuel vehicles, and increased use of local fulfillment centers",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+    "page": "31-32",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following environmental considerations is NOT mentioned in the document as part of the strategic planning for data center needs?",
+    "optionA": "Energy-efficiency standards",
+    "optionB": "Hot aisle/cold aisle layouts",
+    "optionC": "Regional humidity and average temperature",
+    "optionD": "Noise pollution levels",
+    "optionE": "Water availability and groundwater stress",
+    "answer": "D. Noise pollution levels",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+    "page": "29-30",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT included in the scope of renewable energy sources as defined in the document for e-commerce companies?",
+    "optionA": "Geothermal energy",
+    "optionB": "Wind energy",
+    "optionC": "Solar energy",
+    "optionD": "Nuclear energy",
+    "optionE": "Hydro energy",
+    "answer": "D. Nuclear energy",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+    "page": "27-28",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following metrics is NOT mentioned as part of the activity metrics for e-commerce companies in the document?",
+    "optionA": "Entity-defined measure of user activity",
+    "optionB": "Data processing capacity",
+    "optionC": "Number of shipments",
+    "optionD": "Total revenue",
+    "optionE": "Percentage of outsourced data processing",
+    "answer": "D. Total revenue",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+    "page": "25-26",
+    "industries": [
+      "b4-e-commerce"
+    ]
+  }
+]

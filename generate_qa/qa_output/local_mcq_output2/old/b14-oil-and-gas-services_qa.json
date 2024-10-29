@@ -1,0 +1,182 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2 Climate-related Disclosures for the Oil & Gas Services industry, which of the following is NOT a required activity metric?",
+    "optionA": "Number of active rig sites",
+    "optionB": "Number of active well sites",
+    "optionC": "Total amount of drilling performed",
+    "optionD": "Total number of hours worked by all employees",
+    "optionE": "Total revenue generated from drilling services",
+    "answer": "E. Total revenue generated from drilling services",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "125",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing the percentage of engines that comply with the highest level of emissions standards for non-road diesel engine emissions, which of the following is correct?",
+    "optionA": "Only new engines should be included in the calculation",
+    "optionB": "The calculation should only include engines manufactured by the entity",
+    "optionC": "Engines exempt from jurisdictional standards should still be included",
+    "optionD": "The scope includes all operations, regardless of jurisdiction",
+    "optionE": "The calculation should be based on engine design parameters, not actual emissions",
+    "answer": "D. The scope includes all operations, regardless of jurisdiction",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "129",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When discussing strategies to address air emissions-related risks, which of the following is NOT considered a short-term strategy according to IFRS S2?",
+    "optionA": "Fuel substitution (e.g., drop-in biodiesel)",
+    "optionB": "Use of dual fuel equipment",
+    "optionC": "Engine maintenance",
+    "optionD": "Carbon capture and storage",
+    "optionE": "Immediate equipment replacements",
+    "answer": "D. Carbon capture and storage",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "128",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing the total volume of fresh water handled in operations, which of the following definitions should be used if there is no regulatory definition in the local jurisdiction?",
+    "optionA": "Water with less than 500 parts per million of dissolved solids",
+    "optionB": "Water with less than 1000 parts per million of dissolved solids",
+    "optionC": "Any water that is not seawater",
+    "optionD": "Water that has been treated in a municipal facility",
+    "optionE": "Water with a pH between 6.5 and 8.5",
+    "answer": "B. Water with less than 1000 parts per million of dissolved solids",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "130",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of renewable fuel consumed by an oil and gas services company, which of the following is the correct method?",
+    "optionA": "Divide the amount of renewable fuel by the total fuel purchased",
+    "optionB": "Divide the amount of renewable fuel by the total fuel inventory",
+    "optionC": "Divide the amount of renewable fuel consumed by the total amount of fuel consumed",
+    "optionD": "Divide the cost of renewable fuel by the total fuel cost",
+    "optionE": "Divide the volume of renewable fuel by the volume of non-renewable fuel",
+    "answer": "C. Divide the amount of renewable fuel consumed by the total amount of fuel consumed",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "126-127",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating total fuel consumed for sustainability reporting, which of the following methodologies is NOT acceptable according to IFRS S2?",
+    "optionA": "Adding fuel purchases to beginning inventory, less ending inventory",
+    "optionB": "Tracking fuel consumed by vehicles",
+    "optionC": "Tracking fuel expenses",
+    "optionD": "Using fuel efficiency ratings of equipment",
+    "optionE": "Measuring actual fuel consumed by all sources",
+    "answer": "D. Using fuel efficiency ratings of equipment",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "126-127",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When disclosing the percentage of water recycled in operations, how should a company treat water that is reused multiple times?",
+    "optionA": "Count it only once as recycled water",
+    "optionB": "Count it as recycled water each time it is recycled and reused",
+    "optionC": "Count it twice: once for the initial use and once for all subsequent uses",
+    "optionD": "Exclude it from the calculation of recycled water",
+    "optionE": "Average the number of times it is reused and count it that many times",
+    "answer": "B. Count it as recycled water each time it is recycled and reused",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "130-131",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of engines in service that comply with the highest level of emissions standards for non-road diesel engines, how should an oil and gas services company treat engines that are exempt from the jurisdictional standard?",
+    "optionA": "Include them in the calculation as non-compliant engines",
+    "optionB": "Include them in the calculation as compliant engines",
+    "optionC": "Exclude them from the calculation entirely",
+    "optionD": "Include them only if they meet half of the compliance requirements",
+    "optionE": "Include them based on their manufacturing date",
+    "answer": "C. Exclude them from the calculation entirely",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "129",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "An oil and gas services company is preparing its sustainability report and needs to disclose its strategy for addressing air emissions. Which of the following emission sources does NOT need to be included in this disclosure according to IFRS S2?",
+    "optionA": "Combustion emissions from fuel use in gas compression",
+    "optionB": "Flaring of hydrocarbons during well testing",
+    "optionC": "Venting of hydrocarbons during normal operations",
+    "optionD": "Fugitive emissions of greenhouse gases from equipment leaks",
+    "optionE": "Emissions from employee commuting to work sites",
+    "answer": "E. Emissions from employee commuting to work sites",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "128",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When disclosing the total volume of fresh water handled in operations for an oil and gas services company's sustainability report, how should water obtained from a water utility be classified?",
+    "optionA": "It should always be excluded from the total volume",
+    "optionB": "It should be classified as recycled water",
+    "optionC": "It can be assumed to meet the definition of fresh water if in compliance with drinking water regulations",
+    "optionD": "It should be reported separately from other fresh water sources",
+    "optionE": "It should only be included if it exceeds 1000 parts per million of dissolved solids",
+    "answer": "C. It can be assumed to meet the definition of fresh water if in compliance with drinking water regulations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "130",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "An oil and gas services company is preparing its sustainability report and needs to disclose the percentage of its engines that comply with emissions standards. Which of the following statements is correct regarding the scope of this disclosure?",
+    "optionA": "It only includes new non-road diesel engines",
+    "optionB": "It excludes engines used in pumps and compressors",
+    "optionC": "It is limited to operations in the company's home country",
+    "optionD": "It includes all operations, regardless of jurisdiction",
+    "optionE": "It only applies to engines manufactured by the company",
+    "answer": "D. It includes all operations, regardless of jurisdiction",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "129",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When discussing strategies to address water consumption in an oil and gas services company's sustainability report, which of the following is NOT considered a short-term strategy according to IFRS S2?",
+    "optionA": "Adopting best practices in water recycling",
+    "optionB": "Implementing water efficiency initiatives",
+    "optionC": "Using dual fuel equipment for water pumps",
+    "optionD": "Maintaining water treatment equipment regularly",
+    "optionE": "Redesigning processes to lower fresh water withdrawal in constrained regions",
+    "answer": "E. Redesigning processes to lower fresh water withdrawal in constrained regions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services",
+    "page": "131-132",
+    "industries": [
+      "b14-oil-and-gas-services"
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the environmental impact reduction strategies for product delivery differ between the E-Commerce and Oil & Gas Services industries?",
+    "optionA": "E-Commerce focuses on packaging optimization, while Oil & Gas Services focus on engine emissions standards",
+    "optionB": "E-Commerce prioritizes renewable energy use, while Oil & Gas Services emphasize water recycling",
+    "optionC": "Both industries equally prioritize carbon capture and storage technologies",
+    "optionD": "E-Commerce focuses on logistics efficiency, while Oil & Gas Services have no environmental impact reduction strategies",
+    "optionE": "Both industries primarily focus on reducing water consumption in their operations",
+    "answer": "A. E-Commerce focuses on packaging optimization, while Oil & Gas Services focus on engine emissions standards",
+    "explanation": "The E-Commerce industry, as per CG-EC-410a.2, discusses strategies to reduce environmental impact through packaging choices and logistics efficiency. In contrast, the Oil & Gas Services industry, according to EM-SV-110a.3, focuses on compliance with emissions standards for non-road diesel engines.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services"
+    ],
+    "pages": [
+      "32",
+      "128-129"
+    ],
+    "pairing_explanation": "E-commerce distribution involves significant fuel usage, making a comparison with oil and gas service\u2019s environmental and logistics sustainability useful.",
+    "industries": [
+      "b4-e-commerce",
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "Which metric is common to both the E-Commerce and Oil & Gas Services industries in their sustainability reporting?",
+    "optionA": "Total greenhouse gas footprint of product shipments",
+    "optionB": "Percentage of renewable energy consumed",
+    "optionC": "Total water withdrawn and consumed",
+    "optionD": "Number of active well sites",
+    "optionE": "Data processing capacity",
+    "answer": "B. Percentage of renewable energy consumed",
+    "explanation": "Both industries report on the percentage of renewable energy consumed. For E-Commerce, this is covered in metric CG-EC-130a.1, which includes '(3) percentage renewable' in energy consumption. For Oil & Gas Services, EM-SV-110a.1 includes 'percentage renewable' in fuel consumption reporting.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services"
+    ],
+    "pages": [
+      "27-28",
+      "126-127"
+    ],
+    "pairing_explanation": "E-commerce distribution involves significant fuel usage, making a comparison with oil and gas service\u2019s environmental and logistics sustainability useful.",
+    "industries": [
+      "b4-e-commerce",
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Comparison",
+    "question": "How does the reporting of water-related metrics differ between the E-Commerce and Oil & Gas Services industries?",
+    "optionA": "E-Commerce reports on water stress, while Oil & Gas Services reports on water recycling",
+    "optionB": "E-Commerce focuses on data center water use, while Oil & Gas Services emphasizes freshwater handling",
+    "optionC": "Oil & Gas Services reports on produced water, while E-Commerce doesn't mention water metrics",
+    "optionD": "Both industries report identical water consumption metrics",
+    "optionE": "E-Commerce reports on water quality, while Oil & Gas Services only reports on water quantity",
+    "answer": "A. E-Commerce reports on water stress, while Oil & Gas Services reports on water recycling",
+    "explanation": "E-Commerce metric CG-EC-130a.2 requires reporting on water withdrawn and consumed in regions with High or Extremely High Baseline Water Stress. Oil & Gas Services metric EM-SV-140a.1 focuses on the total volume of fresh water handled and the percentage recycled.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services"
+    ],
+    "pages": [
+      "29-30",
+      "130-131"
+    ],
+    "pairing_explanation": "E-commerce distribution involves significant fuel usage, making a comparison with oil and gas service\u2019s environmental and logistics sustainability useful.",
+    "industries": [
+      "b4-e-commerce",
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Comparison",
+    "question": "Which activity metric is unique to the Oil & Gas Services industry compared to the E-Commerce industry?",
+    "optionA": "Number of active rig sites",
+    "optionB": "Total amount of data processed",
+    "optionC": "Number of employees",
+    "optionD": "Total revenue generated",
+    "optionE": "Number of customers served",
+    "answer": "A. Number of active rig sites",
+    "explanation": "The Oil & Gas Services industry specifically reports on the 'Number of active rig sites' as an activity metric (EM-SV-000.A), which is unique to this industry and not present in the E-Commerce industry's metrics.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services"
+    ],
+    "pages": [
+      "26",
+      "124"
+    ],
+    "pairing_explanation": "E-commerce distribution involves significant fuel usage, making a comparison with oil and gas service\u2019s environmental and logistics sustainability useful.",
+    "industries": [
+      "b4-e-commerce",
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Trend Identification",
+    "question": "What common trend in environmental impact reduction is evident in both the E-Commerce and Oil & Gas Services industries?",
+    "optionA": "Focus on reducing plastic waste",
+    "optionB": "Emphasis on carbon capture technologies",
+    "optionC": "Prioritization of energy efficiency and emissions reduction",
+    "optionD": "Investment in biodiversity conservation",
+    "optionE": "Development of circular economy initiatives",
+    "answer": "C. Prioritization of energy efficiency and emissions reduction",
+    "explanation": "Both industries show a trend towards prioritizing energy efficiency and emissions reduction. E-Commerce discusses strategies to reduce environmental impact of product delivery (CG-EC-410a.2), including logistics efficiency. Oil & Gas Services focuses on emissions reduction services and compliance with emissions standards (EM-SV-110a.2 and EM-SV-110a.3).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services"
+    ],
+    "pages": [
+      "31-32",
+      "127-129"
+    ],
+    "pairing_explanation": "E-commerce distribution involves significant fuel usage, making a comparison with oil and gas service\u2019s environmental and logistics sustainability useful.",
+    "industries": [
+      "b4-e-commerce",
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Trend Identification",
+    "question": "What emerging trend in sustainability reporting is evident in both the E-Commerce and Oil & Gas Services industries?",
+    "optionA": "Increased focus on social equity metrics",
+    "optionB": "Adoption of blockchain for sustainability tracking",
+    "optionC": "Integration of AI in environmental management",
+    "optionD": "Emphasis on strategic planning for environmental considerations",
+    "optionE": "Mandatory reporting of scope 3 emissions",
+    "answer": "D. Emphasis on strategic planning for environmental considerations",
+    "explanation": "Both industries show a trend towards emphasizing strategic planning for environmental considerations. E-Commerce requires discussion of environmental considerations in strategic planning for data center needs (CG-EC-130a.3), while Oil & Gas Services demands discussion of strategies to address air emissions-related risks and opportunities (EM-SV-110a.2).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services"
+    ],
+    "pages": [
+      "29-30",
+      "127-128"
+    ],
+    "pairing_explanation": "E-commerce distribution involves significant fuel usage, making a comparison with oil and gas service\u2019s environmental and logistics sustainability useful.",
+    "industries": [
+      "b4-e-commerce",
+      "b14-oil-and-gas-services"
+    ]
+  }
+]

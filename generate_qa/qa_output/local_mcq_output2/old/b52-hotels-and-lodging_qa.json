@@ -1,0 +1,182 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to the IFRS S2 Climate-related Disclosures for the Hotels & Lodging industry, which of the following is NOT a required disclosure under the Energy Management topic?",
+    "optionA": "Total energy consumed",
+    "optionB": "Percentage of grid electricity used",
+    "optionC": "Percentage of renewable energy used",
+    "optionD": "Total carbon emissions from energy consumption",
+    "optionE": "Energy consumption from all sources, including self-generated",
+    "answer": "D. Total carbon emissions from energy consumption",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hotels & Lodging",
+    "page": "539-540",
+    "industries": [
+      "b52-hotels-and-lodging"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing renewable energy consumption for the Hotels & Lodging industry, which of the following sources is NOT included in the scope of renewable energy?",
+    "optionA": "Geothermal energy",
+    "optionB": "Wind energy",
+    "optionC": "Solar energy",
+    "optionD": "Hydroelectric energy",
+    "optionE": "The renewable portion of the electricity grid mix outside the entity's control",
+    "answer": "E. The renewable portion of the electricity grid mix outside the entity's control",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hotels & Lodging",
+    "page": "540",
+    "industries": [
+      "b52-hotels-and-lodging"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "In the context of water management disclosure for the Hotels & Lodging industry, how is water consumption defined?",
+    "optionA": "Only water that evaporates during withdrawal, usage, and discharge",
+    "optionB": "Only water that is directly incorporated into the entity's product or service",
+    "optionC": "Only water that does not return to the same catchment area",
+    "optionD": "All of the above",
+    "optionE": "None of the above",
+    "answer": "D. All of the above",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hotels & Lodging",
+    "page": "541",
+    "industries": [
+      "b52-hotels-and-lodging"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "For the Climate Change Adaptation topic in the Hotels & Lodging industry, what specific disclosure is required regarding lodging facilities?",
+    "optionA": "Number of lodging facilities located in coastal areas",
+    "optionB": "Number of lodging facilities with flood insurance",
+    "optionC": "Number of lodging facilities located in 100-year flood zones",
+    "optionD": "Number of lodging facilities with climate adaptation plans",
+    "optionE": "Number of lodging facilities that experienced flooding in the past year",
+    "answer": "C. Number of lodging facilities located in 100-year flood zones",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hotels & Lodging",
+    "page": "543",
+    "industries": [
+      "b52-hotels-and-lodging"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of grid electricity consumed in the Hotels & Lodging industry, what is the correct formula to use?",
+    "optionA": "Grid electricity consumption divided by total energy production",
+    "optionB": "Grid electricity consumption divided by total energy consumption",
+    "optionC": "Total energy consumption divided by grid electricity consumption",
+    "optionD": "Renewable energy consumption divided by grid electricity consumption",
+    "optionE": "Grid electricity consumption minus renewable energy consumption",
+    "answer": "B. Grid electricity consumption divided by total energy consumption",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hotels & Lodging",
+    "page": "539",
+    "industries": [
+      "b52-hotels-and-lodging"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "In the Hotels & Lodging industry, which conversion factor should be used when calculating energy consumption from fuels and biofuels?",
+    "optionA": "Lower heating values (LHV)",
+    "optionB": "Net calorific values (NCV)",
+    "optionC": "Higher heating values (HHV)",
+    "optionD": "Gross energy content (GEC)",
+    "optionE": "Standard energy units (SEU)",
+    "answer": "C. Higher heating values (HHV)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hotels & Lodging",
+    "page": "539",
+    "industries": [
+      "b52-hotels-and-lodging"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When disclosing water-related metrics for the Hotels & Lodging industry, how should the percentage of water withdrawn in high water stress regions be calculated?",
+    "optionA": "Water withdrawn in high stress regions divided by total water consumed",
+    "optionB": "Water withdrawn in high stress regions divided by total water withdrawn",
+    "optionC": "Total water withdrawn divided by water withdrawn in high stress regions",
+    "optionD": "Water consumed in high stress regions divided by total water withdrawn",
+    "optionE": "Water withdrawn in high stress regions minus water consumed in high stress regions",
+    "answer": "B. Water withdrawn in high stress regions divided by total water withdrawn",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hotels & Lodging",
+    "page": "541-542",
+    "industries": [
+      "b52-hotels-and-lodging"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "For the Hotels & Lodging industry, how is the average occupancy rate calculated according to the activity metrics?",
+    "optionA": "Number of available room-nights divided by total area of lodging facilities",
+    "optionB": "Number of occupied room-nights divided by total number of rooms",
+    "optionC": "Number of occupied room-nights divided by available room-nights across all properties",
+    "optionD": "Total revenue divided by number of available room-nights",
+    "optionE": "Number of guests divided by number of available room-nights",
+    "answer": "C. Number of occupied room-nights divided by available room-nights across all properties",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hotels & Lodging",
+    "page": "537",
+    "industries": [
+      "b52-hotels-and-lodging"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When preparing a sustainability report for a hotel chain, how should renewable energy from biomass sources be accounted for?",
+    "optionA": "Include all biomass sources without restriction",
+    "optionB": "Only include biomass sources certified by any local authority",
+    "optionC": "Exclude all biomass sources due to potential controversies",
+    "optionD": "Include only biomass sources certified to third-party standards or eligible for renewable portfolio standards",
+    "optionE": "Include biomass sources only if they are carbon-neutral",
+    "answer": "D. Include only biomass sources certified to third-party standards or eligible for renewable portfolio standards",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hotels & Lodging",
+    "page": "540",
+    "industries": [
+      "b52-hotels-and-lodging"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "In preparing a sustainability report for a hotel company, how should water consumption be calculated?",
+    "optionA": "Total water withdrawn minus water discharged",
+    "optionB": "Only water used in guest rooms",
+    "optionC": "Water that evaporates, is incorporated into products, or doesn't return to the same catchment area",
+    "optionD": "Total water withdrawn from all sources",
+    "optionE": "Water used in all hotel operations except landscaping",
+    "answer": "C. Water that evaporates, is incorporated into products, or doesn't return to the same catchment area",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hotels & Lodging",
+    "page": "541",
+    "industries": [
+      "b52-hotels-and-lodging"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When assessing climate change adaptation for a hotel chain's sustainability report, what specific metric should be reported regarding flood risk?",
+    "optionA": "Percentage of revenue from properties in flood-prone areas",
+    "optionB": "Number of lodging facilities located in 100-year flood zones",
+    "optionC": "Total insurance costs for properties in coastal regions",
+    "optionD": "Number of days operations were disrupted due to flooding in the past year",
+    "optionE": "Projected sea level rise impact on beachfront properties over the next decade",
+    "answer": "B. Number of lodging facilities located in 100-year flood zones",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hotels & Lodging",
+    "page": "543",
+    "industries": [
+      "b52-hotels-and-lodging"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When reporting on renewable energy usage in a hotel chain's sustainability report, which of the following scenarios allows the company to claim the energy as renewable?",
+    "optionA": "Purchasing grid electricity from a region with high renewable mix",
+    "optionB": "Buying renewable energy certificates (RECs) separately from electricity consumption",
+    "optionC": "Installing solar panels but selling the associated RECs to other entities",
+    "optionD": "Generating on-site renewable electricity and retaining the associated RECs",
+    "optionE": "Sourcing electricity from a supplier that claims to use renewable sources without providing certificates",
+    "answer": "D. Generating on-site renewable electricity and retaining the associated RECs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Hotels & Lodging",
+    "page": "540",
+    "industries": [
+      "b52-hotels-and-lodging"
+    ]
+  }
+]

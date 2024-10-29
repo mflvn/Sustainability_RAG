@@ -1,0 +1,7 @@
+Experiment Type,Parameter,Model Name,Model Size (B),Accuracy,Total Questions,Correct Answers
+retriever,default,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,8,80.64516129032258,31,25
+retriever,hybrid,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,8,80.64516129032258,31,25
+retriever,semantic_hybrid,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,8,45.16129032258064,31,14
+retriever,svm,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,8,41.935483870967744,31,13
+retriever,linear_regression,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,8,45.16129032258064,31,14
+retriever,mmr,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,8,35.483870967741936,31,11

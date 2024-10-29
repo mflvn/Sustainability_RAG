@@ -1,0 +1,16 @@
+| TOPIC | ACCOUNTING METRIC | CATEGORY | UNIT OF MEASURE | CODE |
+|-------|-------------------|----------|-----------------|------|
+| Energy Management | Energy consumption data coverage as a percentage of total floor area, by property subsector | Quantitative | Percentage (%) by floor area | IF-RE-130a.1 |
+| Energy Management | (1) Total energy consumed by portfolio area with data coverage, (2) percentage grid electricity, and (3) percentage renewable, by property subsector | Quantitative | Gigajoules (GJ), Percent­age (%) | IF-RE-130a.2 |
+| Energy Management | Like-for-like percentage change in energy consumption for the portfolio area with data coverage, by property subsector | Quantitative | Percentage (%) | IF-RE-130a.3 |
+| Energy Management | Percentage of eligible portfolio that (1) has an energy rating and (2) is certified to ENERGY STAR, by property subsector | Quantitative | Percentage (%) by floor area | IF-RE-130a.4 |
+| Energy Management | Description of how building energy management considerations are integrated into property investment analysis and operational strategy | Discussion and Analysis | n/a | IF-RE-130a.5 |
+| Water Management | Water withdrawal data coverage as a percentage of (1) total floor area and (2) floor area in regions with High or Extremely High Baseline Water Stress, by property subsector | Quantitative | Percentage (%) by floor area | IF-RE-140a.1 |
+| Water Management | (1) Total water withdrawn by portfolio area with data coverage and (2) percentage in regions with High or Extremely High Baseline Water Stress, by property subsector | Quantitative | Thousand cubic meters (m³), Percent­age (%) | IF-RE-140a.2 |
+| Water Management | Like-for-like percentage change in water withdrawn for portfolio area with data coverage, by property subsector | Quantitative | Percentage (%) | IF-RE-140a.3 |
+| Water Management | Description of water management risks and discussion of strategies and practi­ces to mitigate those risks | Discussion and Analysis | n/a | IF-RE-140a.4 |
+| Management of Tenant Sustainability Impacts | (1) Percentage of new leases that contain a cost recovery clause for resource efficiency-related capital improvements and (2) associated leased floor area, by property subsector | Quantitative | Percentage (%) by floor area, Square feet (ft²) | IF-RE-410a.1 |
+| Management of Tenant Sustainability Impacts | Percentage of tenants that are separately metered or submetered for (1) grid electricity consumption and (2) water withdrawals, by property subsector | Quantitative | Percentage (%) by floor area | IF-RE-410a.2 |
+| Management of Tenant Sustainability Impacts | Discussion of approach to measuring, incentivizing, and improving sustainabili­ty impacts of tenants | Discussion and Analysis | n/a | IF-RE-410a.3 |
+| Climate Change Adaptation | Area of properties located in 100-year flood zones, by property subsector | Quantitative | Square feet (ft²) | IF-RE-450a.1 |
+| Climate Change Adaptation | Description of climate change risk exposure analysis, degree of systematic portfolio exposure, and strategies for mitigating risks | Discussion and Analysis | n/a | IF-RE-450a.2 |

@@ -1,0 +1,187 @@
+[
+  {
+    "question": "What is the unit of measure for the activity metric 'Number of manufacturing facilities' in the Electronic Manufacturing Services & Original Design Manufacturing industry?",
+    "optionA": "Thousand cubic meters (m\u00b3)",
+    "optionB": "Metric tons (t)",
+    "optionC": "Square feet (ft\u00b2)",
+    "optionD": "Number",
+    "optionE": "Percentage (%)",
+    "answer": "D",
+    "reference_text": [
+      "| Number of manufacturing facilities | Quantitative | Number | TC-ES-000.A |"
+    ],
+    "pages": [
+      "Page 547"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 1.0,
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ]
+  },
+  {
+    "question": "What is the code for the water management metric concerning the total water withdrawn and consumed in regions with high water stress in the Electronic Manufacturing Services & Original Design Manufacturing industry?",
+    "optionA": "TC-ES-140a.1",
+    "optionB": "TC-ES-410a.1",
+    "optionC": "TC-ES-000.A",
+    "optionD": "TC-ES-000.B",
+    "optionE": "TC-HW-100a.1",
+    "answer": "A",
+    "reference_text": [
+      "| Water Management | (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percent- age (%) | TC-ES-140a.1 |"
+    ],
+    "pages": [
+      "Page 547"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 1.0,
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ]
+  },
+  {
+    "question": "What topics are covered in the 'Product Lifecycle Management' section of the Electronic Manufacturing Services & Original Design Manufacturing document?",
+    "optionA": "Sources of water and regulatory risks related to water management",
+    "optionB": "End-of-life product recovery and recycling percentages",
+    "optionC": "Regulatory risks associated with carbon emissions",
+    "optionD": "Energy efficiency metrics for manufacturing processes",
+    "optionE": "Supply chain logistics efficiency",
+    "answer": "B",
+    "reference_text": [
+      "## Topic Summary",
+      "Companies in the Electronic Manufacturing Services (EMS) & Original Design Manufacturing (ODM) industry, along with the industry's customers such as hardware companies, face increasing challenges associated with environmental externalities attributed to product manufacturing, transport, use, and disposal. Rapid obsolescence of hardware products exacerbates such externalities. The industry's products commonly contain hazardous materials, making safe end-of-life disposal a critical aspect to manage. Companies unable to minimize the environmental externalities of their products may face increased regulatory costs as local, regional, and national environmental laws place increasing emphasis on resource conservation and waste management. Through product innovation that facilitates end-of-life product recovery and the use of less-impactful materials, EMS & ODM manufacturers can achieve improvements in lifecycle impacts, reduce regulatory risk, and realize cost savings."
+    ],
+    "pages": [
+      "Pages 550-551"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 1.0,
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ]
+  },
+  {
+    "question": "For the 'Water Management' requirement, what does a company in the Electronic Manufacturing Services & Original Design Manufacturing industry need to disclose regarding water consumption?",
+    "optionA": "Total amount of water recycled",
+    "optionB": "Total amount of water evaporated",
+    "optionC": "Amount of water consumed, including water directly incorporated into the product",
+    "optionD": "Amount of fresh water obtained from ocean sources",
+    "optionE": "Proportion of water consumed returned to the original catchment area",
+    "answer": "C",
+    "reference_text": [
+      "3 The entity shall disclose the amount of water, in thousands of cubic meters, that was consumed in its operations.",
+      "3.1 Water consumption is defined as:",
+      "3.1.1 Water that evaporates during withdrawal, usage, and discharge;",
+      "3.1.2 Water that is directly or indirectly incorporated into the entity's product or service;"
+    ],
+    "pages": [
+      "Page 549"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 1.0,
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ]
+  },
+  {
+    "question": "What is the category of the metric 'Weight of end-of-life products and e-waste recovered, percentage recycled' in the Electronic Manufacturing Services & Original Design Manufacturing industry, and how should this metric be calculated?",
+    "optionA": "Quantitative; Calculated as the total weight recovered and percentage recycled.",
+    "optionB": "Qualitative; Estimated based on observational data.",
+    "optionC": "Descriptive; Described narratively in reports.",
+    "optionD": "Predictive; Estimated using predictive models.",
+    "optionE": "Quantitative; Calculated as the weight in metric tons of recovered materials and the percentage subsequently recycled.",
+    "answer": "E",
+    "reference_text": [
+      "| Product Lifecycle Management | Weight of end-of-life products and e- waste recovered, percentage recycled | Quantitative | Metric tons (t), Percentage (%) | TC-ES-410a.1 |",
+      "TC-ES-410a.1. Weight of end-of-life products and e-waste recovered, percentage recycled",
+      "1 The entity shall disclose the weight, in metric tons, of end-of-life material that was recovered, including through reverse logistics services, recycling services, product take-back programs, and refurbishment services.",
+      "2 The entity shall disclose the percentage of end-of-life material that was recovered and subsequently recycled.",
+      "2.1 The percentage shall be calculated as the weight of end-of-life material that was recovered and subsequently recycled divided by the total weight of end-of-life material that was recovered."
+    ],
+    "pages": [
+      "Page 547",
+      "Page 550"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 1.0,
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ]
+  },
+  {
+    "question": "Can you provide the code of the metric related to 'Total water withdrawn and consumed in regions with High or Extremely High Baseline Water Stress' in the Electronic Manufacturing Services & Original Design Manufacturing industry and explain how it should be calculated?",
+    "optionA": "TC-ES-410a.1; Disclose metric tons of water, fraction representing stress level.",
+    "optionB": "TC-ES-000.C; Quantify in liters extracted from each source.",
+    "optionC": "TC-ES-140a.1; Calculate total water withdrawn and consumed in thousands of cubic meters and as a percentage in stress regions.",
+    "optionD": "TC-ES-000.A; Report number of facilities using water.",
+    "optionE": "TC-ES-140a.1; Utilize gallons for measurement and assess against local regulations.",
+    "answer": "C",
+    "reference_text": [
+      "| Water Management | (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percent- age (%) | TC-ES-140a.1 |",
+      "1 The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from all sources.",
+      "3 The entity shall disclose the amount of water, in thousands of cubic meters, that was consumed in its operations.",
+      "5 The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn.",
+      "6 The entity shall disclose its water consumed in locations with High or Extremely High High Baseline Water Stress as a percentage of the total water consumed."
+    ],
+    "pages": [
+      "Page 547",
+      "Page 548",
+      "Page 549"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 1.0,
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ]
+  },
+  {
+    "question": "What topics are covered in the Water Management section of the sustainability document for the Electronic Manufacturing Services & Original Design Manufacturing industry, and what are the key metrics that companies need to report on?",
+    "optionA": "Energy Usage; Report on total energy produced and used.",
+    "optionB": "Emission Levels; Disclose carbon footprint measurements.",
+    "optionC": "Water Management; Report on total water use, consumption, and stress region percentages.",
+    "optionD": "Recycling Programs; Provide data on recycling efficiency.",
+    "optionE": "Land Use; Detail changes in land utilization.",
+    "answer": "C",
+    "reference_text": [
+      "# Water Management",
+      "## Topic Summary",
+      "The manufacturing of computers, computer components, and other electronics requires significant volumes of water.",
+      "Metrics",
+      "TC-ES-140a.1. (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress",
+      "1 The entity shall disclose the amount of water, in thousands of cubic meters, that was withdrawn from all sources.",
+      "3 The entity shall disclose the amount of water, in thousands of cubic meters, that was consumed in its operations.",
+      "5 The entity shall disclose its water withdrawn in locations with High or Extremely High Baseline Water Stress as a percentage of the total water withdrawn.",
+      "6 The entity shall disclose its water consumed in locations with High or Extremely High High Baseline Water Stress as a percentage of the total water consumed."
+    ],
+    "pages": [
+      "Page 548",
+      "Page 549"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 1.0,
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ]
+  },
+  {
+    "question": "What is the unit of measure for the 'Number of manufacturing facilities' in the Electronic Manufacturing Services & Original Design Manufacturing industry, and how should this metric be disclosed in a sustainability report?",
+    "optionA": "Number; Disclose as a quantitative measure of total facilities.",
+    "optionB": "Square feet; Measure area of each facility.",
+    "optionC": "Metric tons; Aggregate weight of facility materials.",
+    "optionD": "Percentage; Proportionate share of total industry facilities.",
+    "optionE": "Cubic meters; Volume analysis of facility space.",
+    "answer": "A",
+    "reference_text": [
+      "| Number of manufacturing facilities | Quantitative | Number | TC-ES-000.A |",
+      "## Table 2. Activity Metrics"
+    ],
+    "pages": [
+      "Page 547"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 1.0,
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ]
+  }
+]

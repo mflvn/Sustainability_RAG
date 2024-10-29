@@ -1,0 +1,162 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When disclosing information about raw materials sourcing for the Apparel, Accessories & Footwear industry, which of the following is NOT required according to the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Description of environmental risks associated with sourcing priority raw materials",
+    "optionB": "Description of social risks associated with sourcing priority raw materials",
+    "optionC": "Percentage of raw materials third-party certified to a sustainability standard",
+    "optionD": "List of all suppliers and their locations",
+    "optionE": "Methodology for identifying priority raw materials",
+    "answer": "D. List of all suppliers and their locations",
+    "explanation": "According to the IFRS S2 Climate-related Disclosures for the Apparel, Accessories & Footwear industry, companies are required to disclose environmental and social risks associated with sourcing priority raw materials, the percentage of raw materials certified to sustainability standards, and the methodology for identifying priority raw materials. However, a list of all suppliers and their locations is not explicitly required in the disclosure requirements.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear"
+    ],
+    "pages": [
+      "8",
+      "9",
+      "10"
+    ],
+    "pairing_explanation": "These industries all involve consumer goods that have significant global supply chains, environmental impacts from manufacturing, and considerations around labor practices in emerging markets.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b2-appliance-manufacturing",
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "In the Building Products & Furnishings industry, when disclosing information about wood supply chain management, which of the following is NOT required according to the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Total weight of wood fiber materials purchased",
+    "optionB": "Percentage of wood fiber from third-party certified forestlands",
+    "optionC": "Percentage of wood fiber certified to other wood fiber standards",
+    "optionD": "Description of practices for sourcing from non-certified forestlands",
+    "optionE": "Detailed map of all forestlands used for sourcing",
+    "answer": "E. Detailed map of all forestlands used for sourcing",
+    "explanation": "According to the IFRS S2 Climate-related Disclosures for the Building Products & Furnishings industry, companies are required to disclose the total weight of wood fiber materials purchased, percentages from certified forestlands and other wood fiber standards, and practices for sourcing from non-certified forestlands. However, a detailed map of all forestlands used for sourcing is not explicitly required in the disclosure requirements.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings"
+    ],
+    "pages": [
+      "22",
+      "23",
+      "24"
+    ],
+    "pairing_explanation": "These industries all involve consumer goods that have significant global supply chains, environmental impacts from manufacturing, and considerations around labor practices in emerging markets.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b2-appliance-manufacturing",
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of raw materials certified to sustainability standards in the Apparel, Accessories & Footwear industry and the percentage of wood fiber materials certified to standards in the Building Products & Furnishings industry, what is a key difference in the calculation method?",
+    "optionA": "Apparel uses revenue, while Building Products uses weight",
+    "optionB": "Apparel uses weight, while Building Products uses volume",
+    "optionC": "Apparel uses units, while Building Products uses weight",
+    "optionD": "Both use the same calculation method based on weight",
+    "optionE": "Apparel uses volume, while Building Products uses revenue",
+    "answer": "D. Both use the same calculation method based on weight",
+    "explanation": "Both industries use weight as the basis for calculating the percentage of materials certified to sustainability standards. For Apparel, Accessories & Footwear, the calculation is based on the weight of raw materials. For Building Products & Furnishings, the calculation is based on the weight of wood fiber materials in air-dried metric tons. This similarity reflects the importance of standardized measurement across industries for comparable sustainability reporting.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings"
+    ],
+    "pages": [
+      "9",
+      "10",
+      "22",
+      "23"
+    ],
+    "pairing_explanation": "These industries all involve consumer goods that have significant global supply chains, environmental impacts from manufacturing, and considerations around labor practices in emerging markets.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b2-appliance-manufacturing",
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When comparing the energy management metrics for the Appliance Manufacturing industry and the Building Products & Furnishings industry, what is a key difference in the required disclosures?",
+    "optionA": "Appliance Manufacturing requires disclosure of grid electricity percentage, while Building Products & Furnishings does not",
+    "optionB": "Building Products & Furnishings requires disclosure of renewable energy percentage, while Appliance Manufacturing does not",
+    "optionC": "Appliance Manufacturing requires disclosure of energy intensity, while Building Products & Furnishings does not",
+    "optionD": "Building Products & Furnishings requires disclosure of energy consumption by fuel type, while Appliance Manufacturing does not",
+    "optionE": "Both industries have identical energy management disclosure requirements",
+    "answer": "E. Both industries have identical energy management disclosure requirements",
+    "explanation": "Both the Appliance Manufacturing and Building Products & Furnishings industries have identical energy management disclosure requirements according to the IFRS S2 Climate-related Disclosures. They both require disclosure of (1) total energy consumed, (2) percentage grid electricity, and (3) percentage renewable energy. This similarity reflects the importance of standardized energy management reporting across manufacturing industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings"
+    ],
+    "pages": [
+      "11",
+      "16",
+      "17"
+    ],
+    "pairing_explanation": "These industries all involve consumer goods that have significant global supply chains, environmental impacts from manufacturing, and considerations around labor practices in emerging markets.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b2-appliance-manufacturing",
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing the product lifecycle environmental impact disclosures for the Appliance Manufacturing industry and the Building Products & Furnishings industry, which of the following is a key difference?",
+    "optionA": "Only Appliance Manufacturing requires disclosure of energy efficiency certifications",
+    "optionB": "Only Building Products & Furnishings requires disclosure of end-of-life material recovery",
+    "optionC": "Appliance Manufacturing focuses on energy efficiency, while Building Products & Furnishings focuses on material sustainability",
+    "optionD": "Building Products & Furnishings requires Life Cycle Assessment, while Appliance Manufacturing does not",
+    "optionE": "Only Appliance Manufacturing requires disclosure of efforts to manage end-of-life impacts",
+    "answer": "C. Appliance Manufacturing focuses on energy efficiency, while Building Products & Furnishings focuses on material sustainability",
+    "explanation": "A key difference in product lifecycle environmental impact disclosures between these industries is their focus. Appliance Manufacturing emphasizes energy efficiency certifications and standards (e.g., AHAM sustainability standards), reflecting the importance of energy consumption in appliance use. Building Products & Furnishings, on the other hand, focuses more on material sustainability, including the use of sustainable materials and end-of-life recovery and recycling. This difference reflects the distinct environmental impacts and consumer concerns associated with each industry's products.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings"
+    ],
+    "pages": [
+      "12",
+      "13",
+      "14",
+      "18",
+      "19",
+      "20"
+    ],
+    "pairing_explanation": "These industries all involve consumer goods that have significant global supply chains, environmental impacts from manufacturing, and considerations around labor practices in emerging markets.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b2-appliance-manufacturing",
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing the supply chain management disclosures for the Apparel, Accessories & Footwear industry and the Building Products & Furnishings industry, which of the following is a key similarity?",
+    "optionA": "Both industries require disclosure of the number of suppliers",
+    "optionB": "Both industries focus on water usage in the supply chain",
+    "optionC": "Both industries require disclosure of third-party certifications for raw materials",
+    "optionD": "Both industries mandate disclosure of supplier audit results",
+    "optionE": "Both industries require disclosure of labor practices in the supply chain",
+    "answer": "C. Both industries require disclosure of third-party certifications for raw materials",
+    "explanation": "A key similarity in supply chain management disclosures between the Apparel, Accessories & Footwear industry and the Building Products & Furnishings industry is the requirement to disclose third-party certifications for raw materials. In the Apparel industry, companies must disclose the percentage of raw materials certified to environmental and/or social sustainability standards. Similarly, in the Building Products & Furnishings industry, companies must disclose the percentage of wood fiber materials certified to third-party forest management standards. This similarity reflects the importance of sustainable sourcing and transparency in both industries' supply chains.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings"
+    ],
+    "pages": [
+      "9",
+      "10",
+      "22",
+      "23",
+      "24"
+    ],
+    "pairing_explanation": "These industries all involve consumer goods that have significant global supply chains, environmental impacts from manufacturing, and considerations around labor practices in emerging markets.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b2-appliance-manufacturing",
+      "b3-building-products-and-furnishings"
+    ]
+  }
+]

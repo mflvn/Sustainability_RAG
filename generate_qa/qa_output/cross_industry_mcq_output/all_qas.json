@@ -1,0 +1,1090 @@
+[
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the Apparel, Accessories & Footwear and Coal Operations industries differ in their approach to managing environmental risks in their supply chains?",
+    "optionA": "Apparel focuses on raw material sourcing, while Coal focuses on water management",
+    "optionB": "Coal focuses on greenhouse gas emissions, while Apparel focuses on labor practices",
+    "optionC": "Apparel emphasizes animal welfare, while Coal emphasizes land reclamation",
+    "optionD": "Coal prioritizes air quality, while Apparel prioritizes chemical management",
+    "optionE": "Both industries have identical environmental risk management approaches",
+    "answer": "A. Apparel focuses on raw material sourcing, while Coal focuses on water management",
+    "explanation": "The Apparel, Accessories & Footwear industry emphasizes environmental risks associated with sourcing priority raw materials, as evidenced by metric CG-AA-440a.1. In contrast, the Coal Operations industry focuses on water management, with metrics EM-CO-140a.1 and EM-CO-140a.2 addressing water withdrawal, recycling, and compliance with water quality regulations.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations"
+    ],
+    "pages": [
+      "8",
+      "47-48"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Metric Comparison",
+    "question": "Which sustainability metric is common to both the Apparel, Accessories & Footwear and Coal Operations industries, but measured differently?",
+    "optionA": "Greenhouse gas emissions",
+    "optionB": "Water consumption",
+    "optionC": "Energy efficiency",
+    "optionD": "Waste management",
+    "optionE": "Biodiversity impact",
+    "answer": "B. Water consumption",
+    "explanation": "Both industries measure water consumption, but differently. The Apparel industry focuses on the percentage of raw materials third-party certified to sustainability standards (CG-AA-440a.2), which can include water efficiency. The Coal industry directly measures total fresh water withdrawn, percentage recycled, and percentage in water-stressed regions (EM-CO-140a.1).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations"
+    ],
+    "pages": [
+      "9-10",
+      "47-48"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Trend Identification",
+    "question": "What common trend in sustainability reporting is evident in both the Apparel, Accessories & Footwear and Coal Operations industries?",
+    "optionA": "Increasing focus on circular economy principles",
+    "optionB": "Growing emphasis on biodiversity conservation",
+    "optionC": "Rising importance of scope 3 emissions reporting",
+    "optionD": "Heightened attention to climate-related financial risks",
+    "optionE": "Expanding use of blockchain for supply chain traceability",
+    "answer": "D. Heightened attention to climate-related financial risks",
+    "explanation": "Both industries show a trend towards increased attention to climate-related financial risks. The Apparel industry addresses this through raw materials sourcing risks (CG-AA-440a.1), while the Coal industry directly addresses it through sensitivity analysis of coal reserves to carbon pricing scenarios (EM-CO-420a.1) and discussion of how climate regulation influences capital expenditure strategies (EM-CO-420a.3).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Coal Operations"
+    ],
+    "pages": [
+      "8-9",
+      "49-52"
+    ],
+    "pairing_explanation": "Both industries are heavily reliant on global supply chains that pose significant environmental and social sustainability challenges, including labor practices and carbon emissions.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b7-coal-operations"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the Appliance Manufacturing and Oil & Gas Refining & Marketing industries differ in their approach to managing greenhouse gas (GHG) emissions?",
+    "optionA": "Appliance Manufacturing focuses on product energy efficiency, while Oil & Gas Refining focuses on direct emissions from operations",
+    "optionB": "Both industries primarily focus on Scope 3 emissions",
+    "optionC": "Appliance Manufacturing has no GHG emissions to manage",
+    "optionD": "Oil & Gas Refining only manages emissions through carbon offsets",
+    "optionE": "Both industries have identical approaches to GHG emissions management",
+    "answer": "A: Appliance Manufacturing focuses on product energy efficiency, while Oil & Gas Refining focuses on direct emissions from operations",
+    "explanation": "The Appliance Manufacturing industry focuses on product lifecycle environmental impacts, including energy efficiency certifications for products (CG-AM-410a.1), which indirectly reduces GHG emissions during product use. In contrast, the Oil & Gas Refining & Marketing industry directly manages Scope 1 GHG emissions from their operations (EM-RM-110a.1 and EM-RM-110a.2), including strategies to reduce emissions from various sources like flaring, combustion, and process emissions.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Refining & Marketing"
+    ],
+    "pages": [
+      "12",
+      "116-120"
+    ],
+    "pairing_explanation": "Resource-intensive manufacturing in appliance production can be compared with the heavy industrial processes and significant emissions found in oil refining.",
+    "industries": [
+      "b2-appliance-manufacturing",
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Metric Comparison",
+    "question": "Which sustainability metric is common to both the Appliance Manufacturing and Oil & Gas Refining & Marketing industries?",
+    "optionA": "Percentage of products certified to energy efficiency standards",
+    "optionB": "Total fresh water withdrawn",
+    "optionC": "Gross global Scope 1 emissions",
+    "optionD": "Percentage of revenue from advanced biofuels",
+    "optionE": "Number of units produced annually",
+    "answer": "B: Total fresh water withdrawn",
+    "explanation": "While both industries have different focal points for sustainability, water management is a common concern. The Oil & Gas Refining & Marketing industry explicitly measures 'Total fresh water withdrawn' (EM-RM-140a.1). Although not directly stated for Appliance Manufacturing, water efficiency is implied in their product lifecycle considerations and sustainability standards (CG-AM-410a.2). Both industries are water-intensive and likely track fresh water withdrawal, making this the most relevant common metric.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Refining & Marketing"
+    ],
+    "pages": [
+      "12-14",
+      "121-122"
+    ],
+    "pairing_explanation": "Resource-intensive manufacturing in appliance production can be compared with the heavy industrial processes and significant emissions found in oil refining.",
+    "industries": [
+      "b2-appliance-manufacturing",
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Trend Identification",
+    "question": "What common sustainability trend is emerging in both the Appliance Manufacturing and Oil & Gas Refining & Marketing industries?",
+    "optionA": "Increased focus on employee safety",
+    "optionB": "Adoption of circular economy principles",
+    "optionC": "Emphasis on biodiversity conservation",
+    "optionD": "Investment in carbon capture technologies",
+    "optionE": "Transition towards more sustainable product lifecycles and fuel alternatives",
+    "answer": "E: Transition towards more sustainable product lifecycles and fuel alternatives",
+    "explanation": "Both industries show a trend towards more sustainable products and alternatives. The Appliance Manufacturing industry is focusing on product lifecycle environmental impacts, including energy efficiency certifications and end-of-life management (CG-AM-410a.1, CG-AM-410a.2, CG-AM-410a.3). Similarly, the Oil & Gas Refining & Marketing industry is moving towards clean fuel blends and advanced biofuels (EM-RM-410a.2), indicating a shift towards more sustainable fuel alternatives. This trend reflects both industries' efforts to address environmental concerns and adapt to changing market demands for more sustainable products.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Refining & Marketing"
+    ],
+    "pages": [
+      "12-14",
+      "122-123"
+    ],
+    "pairing_explanation": "Resource-intensive manufacturing in appliance production can be compared with the heavy industrial processes and significant emissions found in oil refining.",
+    "industries": [
+      "b2-appliance-manufacturing",
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the Building Products & Furnishings and Real Estate industries differ in their approach to energy management?",
+    "optionA": "Building Products focuses on manufacturing energy, while Real Estate focuses on operational energy",
+    "optionB": "Building Products emphasizes renewable energy, while Real Estate prioritizes grid electricity",
+    "optionC": "Building Products targets energy efficiency in production, while Real Estate manages energy consumption in buildings",
+    "optionD": "Building Products considers only embodied energy, while Real Estate only considers operational energy",
+    "optionE": "There is no significant difference in energy management approaches between the two industries",
+    "answer": "C. Building Products targets energy efficiency in production, while Real Estate manages energy consumption in buildings",
+    "explanation": "The Building Products & Furnishings industry focuses on energy management in manufacturing processes, aiming to reduce energy consumption and costs in production. In contrast, the Real Estate industry emphasizes energy management in existing buildings, focusing on operational energy consumption, tenant behavior, and building performance. This difference reflects their distinct roles in the building lifecycle.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate"
+    ],
+    "pages": [
+      "16",
+      "360-363"
+    ],
+    "pairing_explanation": "Both industries deal with materials for buildings, offering a perspective on sustainability in product lifecycle and land use.",
+    "industries": [
+      "b3-building-products-and-furnishings",
+      "b36-real-estate"
+    ]
+  },
+  {
+    "qa_type": "Metric Comparison",
+    "question": "Which sustainability metric is common to both the Building Products & Furnishings and Real Estate industries, but applied differently?",
+    "optionA": "Percentage of recycled materials used",
+    "optionB": "Water consumption data coverage",
+    "optionC": "Energy consumption data",
+    "optionD": "Greenhouse gas emissions",
+    "optionE": "Waste management practices",
+    "answer": "C. Energy consumption data",
+    "explanation": "Both industries track energy consumption data, but apply it differently. The Building Products & Furnishings industry focuses on total energy consumed in manufacturing, percentage of grid electricity, and percentage of renewable energy (CG-BF-130a.1). The Real Estate industry measures energy consumption data coverage as a percentage of floor area, total energy consumed by portfolio area, and like-for-like percentage change in energy consumption (IF-RE-130a.1, IF-RE-130a.2, IF-RE-130a.3). This reflects their different roles in the building lifecycle \u2013 production vs. operation.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate"
+    ],
+    "pages": [
+      "16-18",
+      "360-366"
+    ],
+    "pairing_explanation": "Both industries deal with materials for buildings, offering a perspective on sustainability in product lifecycle and land use.",
+    "industries": [
+      "b3-building-products-and-furnishings",
+      "b36-real-estate"
+    ]
+  },
+  {
+    "qa_type": "Trend Identification",
+    "question": "What common sustainability trend is emerging in both the Building Products & Furnishings and Real Estate industries?",
+    "optionA": "Increased focus on biodiversity conservation",
+    "optionB": "Adoption of circular economy principles",
+    "optionC": "Emphasis on employee health and safety",
+    "optionD": "Integration of sustainability into product lifecycle and building operations",
+    "optionE": "Prioritization of local sourcing for all materials",
+    "answer": "D. Integration of sustainability into product lifecycle and building operations",
+    "explanation": "Both industries are increasingly integrating sustainability throughout their operations. In Building Products & Furnishings, this is evident in the focus on product lifecycle environmental impacts (CG-BF-410a.1, CG-BF-410a.2) and efforts to manage impacts from raw material sourcing to end-of-life. In Real Estate, this trend is seen in the management of tenant sustainability impacts (IF-RE-410a.1, IF-RE-410a.2, IF-RE-410a.3) and the integration of energy and water management into property investment and operational strategies. This shared trend reflects a holistic approach to sustainability across the building material production and use cycle.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate"
+    ],
+    "pages": [
+      "18-21",
+      "383-390"
+    ],
+    "pairing_explanation": "Both industries deal with materials for buildings, offering a perspective on sustainability in product lifecycle and land use.",
+    "industries": [
+      "b3-building-products-and-furnishings",
+      "b36-real-estate"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the biofuels and solar technology industries differ in their approach to water management in manufacturing?",
+    "optionA": "Biofuels focus on water recycling, while solar technology emphasizes water quality",
+    "optionB": "Solar technology uses more water overall, while biofuels prioritize water reduction",
+    "optionC": "Biofuels require ultra-pure water, while solar technology uses untreated water",
+    "optionD": "Solar technology focuses on water scarcity risks, while biofuels prioritize wastewater treatment",
+    "optionE": "Both industries have identical water management approaches",
+    "answer": "D: Solar technology focuses on water scarcity risks, while biofuels prioritize wastewater treatment",
+    "explanation": "The biofuels industry emphasizes wastewater treatment and effluent management due to the organic compounds and dissolved solids in their wastewater. Solar technology, on the other hand, focuses more on water scarcity risks and reducing water consumption in water-stressed regions, as ultra-pure water is a critical input in some processes.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Biofuels",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Solar Technology & Project Developers"
+    ],
+    "pages": [
+      "428",
+      "475-478"
+    ],
+    "pairing_explanation": "These industries are central to the renewable energy sector. Comparing their sustainability practices highlights the advancements and challenges in alternative energy systems and their role in reducing carbon emissions.",
+    "industries": [
+      "b40-biofuels",
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "Which renewable energy industry faces the most significant challenges in integrating with existing energy infrastructure?",
+    "optionA": "Biofuels",
+    "optionB": "Solar technology",
+    "optionC": "Wind technology",
+    "optionD": "Hydroelectric power",
+    "optionE": "Geothermal energy",
+    "answer": "B: Solar technology",
+    "explanation": "Solar technology faces significant challenges in integrating with existing energy infrastructure due to issues such as limited transmission network connectivity, variability in interconnection standards, and the need for smart inverters. The industry actively works on overcoming these technical challenges and engages with regulatory agencies to reduce barriers to adoption.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Solar Technology & Project Developers"
+    ],
+    "pages": [
+      "479-482"
+    ],
+    "pairing_explanation": "These industries are central to the renewable energy sector. Comparing their sustainability practices highlights the advancements and challenges in alternative energy systems and their role in reducing carbon emissions.",
+    "industries": [
+      "b40-biofuels",
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Metric Comparison",
+    "question": "Which sustainability metric is common to both the biofuels and solar technology industries?",
+    "optionA": "Lifecycle greenhouse gas (GHG) emissions",
+    "optionB": "Total water withdrawn and consumed",
+    "optionC": "Amount of subsidies received through government programs",
+    "optionD": "Percentage of production third-party certified to an environmental standard",
+    "optionE": "Top five materials consumed by weight",
+    "answer": "B: Total water withdrawn and consumed",
+    "explanation": "Both the biofuels and solar technology industries use the metric of total water withdrawn and consumed, with a focus on regions with High or Extremely High Baseline Water Stress. This metric is crucial for both industries due to their water-intensive manufacturing processes.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Biofuels",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Solar Technology & Project Developers"
+    ],
+    "pages": [
+      "428",
+      "475-476"
+    ],
+    "pairing_explanation": "These industries are central to the renewable energy sector. Comparing their sustainability practices highlights the advancements and challenges in alternative energy systems and their role in reducing carbon emissions.",
+    "industries": [
+      "b40-biofuels",
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Metric Comparison",
+    "question": "How does the wind technology industry's approach to materials efficiency differ from the biofuels and solar technology industries?",
+    "optionA": "Wind focuses on recycling materials, while biofuels and solar do not",
+    "optionB": "Wind emphasizes reducing material weight, while biofuels and solar focus on water efficiency",
+    "optionC": "Wind measures top head mass per turbine capacity, while biofuels and solar do not have comparable metrics",
+    "optionD": "Wind uses more renewable materials, while biofuels and solar rely on non-renewable resources",
+    "optionE": "There is no significant difference in materials efficiency approaches",
+    "answer": "C: Wind measures top head mass per turbine capacity, while biofuels and solar do not have comparable metrics",
+    "explanation": "The wind technology industry has a unique focus on materials efficiency, measuring average top head mass per turbine capacity. This metric is specific to wind turbines and aims to optimize the use of materials in relation to energy output. Biofuels and solar technologies do not have directly comparable metrics for materials efficiency.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Wind Technology & Project Developers"
+    ],
+    "pages": [
+      "485-486"
+    ],
+    "pairing_explanation": "These industries are central to the renewable energy sector. Comparing their sustainability practices highlights the advancements and challenges in alternative energy systems and their role in reducing carbon emissions.",
+    "industries": [
+      "b40-biofuels",
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Trend Identification",
+    "question": "What common trend is emerging across the biofuels, solar, and wind technology industries regarding government policies?",
+    "optionA": "Decreasing reliance on government subsidies",
+    "optionB": "Shift towards more stringent environmental regulations",
+    "optionC": "Increasing focus on international trade policies",
+    "optionD": "Growing emphasis on local content requirements",
+    "optionE": "Transition from production-based to performance-based incentives",
+    "answer": "E: Transition from production-based to performance-based incentives",
+    "explanation": "Across the biofuels, solar, and wind technology industries, there is a trend towards performance-based incentives rather than production-based subsidies. This shift encourages more efficient and effective renewable energy systems, focusing on actual energy output and grid integration rather than just installation or production volume.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Biofuels",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Solar Technology & Project Developers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Wind Technology & Project Developers"
+    ],
+    "pages": [
+      "435-436",
+      "481-482",
+      "486"
+    ],
+    "pairing_explanation": "These industries are central to the renewable energy sector. Comparing their sustainability practices highlights the advancements and challenges in alternative energy systems and their role in reducing carbon emissions.",
+    "industries": [
+      "b40-biofuels",
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Trend Identification",
+    "question": "What common challenge do biofuels, solar, and wind technology industries face in terms of environmental impact?",
+    "optionA": "Increasing carbon emissions during manufacturing",
+    "optionB": "Rising concerns about end-of-life disposal",
+    "optionC": "Growing competition for land use",
+    "optionD": "Decreasing efficiency of energy conversion",
+    "optionE": "Increasing noise pollution from operations",
+    "answer": "C: Growing competition for land use",
+    "explanation": "Biofuels, solar, and wind technology industries all face growing competition for land use. Biofuels require large areas for feedstock cultivation, solar farms need extensive land for panel installation, and wind farms require significant space for turbine placement. This competition can lead to conflicts with other land uses, such as agriculture or conservation, and is a common environmental concern across these renewable energy sectors.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Biofuels",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Solar Technology & Project Developers",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Wind Technology & Project Developers"
+    ],
+    "pages": [
+      "433-434",
+      "479-480",
+      "483-484"
+    ],
+    "pairing_explanation": "These industries are central to the renewable energy sector. Comparing their sustainability practices highlights the advancements and challenges in alternative energy systems and their role in reducing carbon emissions.",
+    "industries": [
+      "b40-biofuels",
+      "b44-solar-technology-and-project-developers",
+      "b45-wind-technology-and-project-developers"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the Software & IT Services and Internet Media & Services industries differ in their approach to disclosing energy consumption from renewable sources?",
+    "optionA": "Only Software & IT Services discloses renewable energy consumption",
+    "optionB": "Internet Media & Services uses a different calculation method for renewable energy percentage",
+    "optionC": "Software & IT Services includes grid mix in renewable energy calculations",
+    "optionD": "Internet Media & Services doesn't consider biomass as a renewable energy source",
+    "optionE": "There is no significant difference in their approach to disclosing renewable energy consumption",
+    "answer": "E. There is no significant difference in their approach to disclosing renewable energy consumption",
+    "explanation": "Both industries use the same approach for disclosing renewable energy consumption. They both calculate the percentage as renewable energy consumption divided by total energy consumption, exclude the renewable portion of the grid mix outside their control, and have the same requirements for claiming renewable energy from on-site generation, PPAs, and biomass sources.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services"
+    ],
+    "pages": [
+      "561",
+      "562",
+      "579",
+      "580"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "What key environmental consideration is explicitly mentioned for both Software & IT Services and Internet Media & Services industries when planning for data center needs?",
+    "optionA": "Soil contamination risks",
+    "optionB": "Biodiversity impact",
+    "optionC": "Air quality standards",
+    "optionD": "Water availability",
+    "optionE": "Noise pollution",
+    "answer": "D. Water availability",
+    "explanation": "Both industries explicitly mention water availability as a key environmental factor to consider in data center planning. The disclosures for both sectors state that 'Environmental factors and criteria may include, but are not limited to: Location-based environmental factors, such as regional humidity, average temperature, and water availability.'",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services"
+    ],
+    "pages": [
+      "563",
+      "581"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Comparison",
+    "question": "How do the activity metrics for data processing capacity differ between the Software & IT Services and Internet Media & Services industries?",
+    "optionA": "Software & IT Services uses MFLOPS, while Internet Media & Services uses MIPS",
+    "optionB": "Internet Media & Services includes rack space, while Software & IT Services doesn't",
+    "optionC": "Software & IT Services measures in petabytes, while Internet Media & Services uses gigabytes",
+    "optionD": "Internet Media & Services considers only cloud services, while Software & IT Services includes on-premise solutions",
+    "optionE": "There is no significant difference in how they measure data processing capacity",
+    "answer": "E. There is no significant difference in how they measure data processing capacity",
+    "explanation": "Both industries use the same approach for measuring data processing capacity. They both allow for reporting in units such as Million Service Units (MSUs), Million Instructions per Second (MIPS), Mega Floating-Point Operations per Second (MFLOPS), compute cycles, or other units typically tracked by the entity. Both also allow for alternative measures such as rack space or data center square footage, and include the same types of services in the percentage outsourced calculation.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services"
+    ],
+    "pages": [
+      "560",
+      "577"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Comparison",
+    "question": "What is a key difference in the activity metrics reported by Software & IT Services companies compared to Internet Media & Services companies?",
+    "optionA": "Only Software & IT Services reports on data storage amounts",
+    "optionB": "Internet Media & Services reports on user activity, while Software & IT Services doesn't",
+    "optionC": "Software & IT Services reports on number of licenses, while Internet Media & Services doesn't",
+    "optionD": "Only Internet Media & Services reports on data processing capacity",
+    "optionE": "Software & IT Services reports on cloud-based percentages, while Internet Media & Services doesn't",
+    "answer": "C. Software & IT Services reports on number of licenses, while Internet Media & Services doesn't",
+    "explanation": "A key difference in activity metrics is that Software & IT Services companies report on '(1) Number of licenses or subscriptions, (2) percentage cloud-based' (TC-SI-000.A), while Internet Media & Services companies instead report on 'Entity-defined measure of user activity' (TC-IM-000.A). Both industries report on data processing capacity and data storage amounts.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services"
+    ],
+    "pages": [
+      "559",
+      "576"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ]
+  },
+  {
+    "qa_type": "Trend Identification",
+    "question": "What common trend in sustainable data center management is reflected in the disclosure requirements for both Software & IT Services and Internet Media & Services industries?",
+    "optionA": "Focus on reducing e-waste",
+    "optionB": "Emphasis on using only renewable energy sources",
+    "optionC": "Balancing energy efficiency and water consumption",
+    "optionD": "Prioritizing biodiversity conservation near data centers",
+    "optionE": "Mandating the use of specific cooling technologies",
+    "answer": "C. Balancing energy efficiency and water consumption",
+    "explanation": "Both industries' disclosure requirements reflect a trend of balancing energy efficiency and water consumption in data center management. The documentation for both sectors mentions the trade-off between energy and water consumption due to cooling needs, stating that 'cooling data centers with water instead of chillers is a means of improving energy efficiency, but it can lead to dependence on significant local water resources.'",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services"
+    ],
+    "pages": [
+      "560",
+      "578"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ]
+  },
+  {
+    "qa_type": "Trend Identification",
+    "question": "What emerging trend in sustainable technology infrastructure is addressed in the disclosure requirements for both Software & IT Services and Internet Media & Services industries?",
+    "optionA": "Mandatory use of artificial intelligence for energy management",
+    "optionB": "Integration of environmental considerations into strategic planning for data centers",
+    "optionC": "Exclusive use of edge computing to reduce energy consumption",
+    "optionD": "Implementation of blockchain for tracking carbon emissions",
+    "optionE": "Requirement for all data centers to be underground for natural cooling",
+    "answer": "B. Integration of environmental considerations into strategic planning for data centers",
+    "explanation": "Both industries are required to discuss the integration of environmental considerations into strategic planning for data center needs. This reflects an emerging trend in sustainable technology infrastructure where companies are expected to consider environmental factors in their data center strategies, including siting, design, construction, refurbishment, and operations.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Software & IT Services"
+    ],
+    "pages": [
+      "563",
+      "581"
+    ],
+    "pairing_explanation": "Both industries heavily rely on data centers and digital infrastructures that consume significant energy. Their approaches to energy efficiency and carbon footprint management are critical for sustainable development in the tech sector.",
+    "industries": [
+      "b58-software-and-it-services",
+      "b56-internet-media-and-services"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the environmental impact reduction strategies for product delivery differ between the E-Commerce and Oil & Gas Services industries?",
+    "optionA": "E-Commerce focuses on packaging optimization, while Oil & Gas Services focus on engine emissions standards",
+    "optionB": "E-Commerce prioritizes renewable energy use, while Oil & Gas Services emphasize water recycling",
+    "optionC": "Both industries equally prioritize carbon capture and storage technologies",
+    "optionD": "E-Commerce focuses on logistics efficiency, while Oil & Gas Services have no environmental impact reduction strategies",
+    "optionE": "Both industries primarily focus on reducing water consumption in their operations",
+    "answer": "A. E-Commerce focuses on packaging optimization, while Oil & Gas Services focus on engine emissions standards",
+    "explanation": "The E-Commerce industry, as per CG-EC-410a.2, discusses strategies to reduce environmental impact through packaging choices and logistics efficiency. In contrast, the Oil & Gas Services industry, according to EM-SV-110a.3, focuses on compliance with emissions standards for non-road diesel engines.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services"
+    ],
+    "pages": [
+      "32",
+      "128-129"
+    ],
+    "pairing_explanation": "E-commerce distribution involves significant fuel usage, making a comparison with oil and gas service\u2019s environmental and logistics sustainability useful.",
+    "industries": [
+      "b4-e-commerce",
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "Which metric is common to both the E-Commerce and Oil & Gas Services industries in their sustainability reporting?",
+    "optionA": "Total greenhouse gas footprint of product shipments",
+    "optionB": "Percentage of renewable energy consumed",
+    "optionC": "Total water withdrawn and consumed",
+    "optionD": "Number of active well sites",
+    "optionE": "Data processing capacity",
+    "answer": "B. Percentage of renewable energy consumed",
+    "explanation": "Both industries report on the percentage of renewable energy consumed. For E-Commerce, this is covered in metric CG-EC-130a.1, which includes '(3) percentage renewable' in energy consumption. For Oil & Gas Services, EM-SV-110a.1 includes 'percentage renewable' in fuel consumption reporting.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services"
+    ],
+    "pages": [
+      "27-28",
+      "126-127"
+    ],
+    "pairing_explanation": "E-commerce distribution involves significant fuel usage, making a comparison with oil and gas service\u2019s environmental and logistics sustainability useful.",
+    "industries": [
+      "b4-e-commerce",
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Comparison",
+    "question": "How does the reporting of water-related metrics differ between the E-Commerce and Oil & Gas Services industries?",
+    "optionA": "E-Commerce reports on water stress, while Oil & Gas Services reports on water recycling",
+    "optionB": "E-Commerce focuses on data center water use, while Oil & Gas Services emphasizes freshwater handling",
+    "optionC": "Oil & Gas Services reports on produced water, while E-Commerce doesn't mention water metrics",
+    "optionD": "Both industries report identical water consumption metrics",
+    "optionE": "E-Commerce reports on water quality, while Oil & Gas Services only reports on water quantity",
+    "answer": "A. E-Commerce reports on water stress, while Oil & Gas Services reports on water recycling",
+    "explanation": "E-Commerce metric CG-EC-130a.2 requires reporting on water withdrawn and consumed in regions with High or Extremely High Baseline Water Stress. Oil & Gas Services metric EM-SV-140a.1 focuses on the total volume of fresh water handled and the percentage recycled.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services"
+    ],
+    "pages": [
+      "29-30",
+      "130-131"
+    ],
+    "pairing_explanation": "E-commerce distribution involves significant fuel usage, making a comparison with oil and gas service\u2019s environmental and logistics sustainability useful.",
+    "industries": [
+      "b4-e-commerce",
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Comparison",
+    "question": "Which activity metric is unique to the Oil & Gas Services industry compared to the E-Commerce industry?",
+    "optionA": "Number of active rig sites",
+    "optionB": "Total amount of data processed",
+    "optionC": "Number of employees",
+    "optionD": "Total revenue generated",
+    "optionE": "Number of customers served",
+    "answer": "A. Number of active rig sites",
+    "explanation": "The Oil & Gas Services industry specifically reports on the 'Number of active rig sites' as an activity metric (EM-SV-000.A), which is unique to this industry and not present in the E-Commerce industry's metrics.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services"
+    ],
+    "pages": [
+      "26",
+      "124"
+    ],
+    "pairing_explanation": "E-commerce distribution involves significant fuel usage, making a comparison with oil and gas service\u2019s environmental and logistics sustainability useful.",
+    "industries": [
+      "b4-e-commerce",
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Trend Identification",
+    "question": "What common trend in environmental impact reduction is evident in both the E-Commerce and Oil & Gas Services industries?",
+    "optionA": "Focus on reducing plastic waste",
+    "optionB": "Emphasis on carbon capture technologies",
+    "optionC": "Prioritization of energy efficiency and emissions reduction",
+    "optionD": "Investment in biodiversity conservation",
+    "optionE": "Development of circular economy initiatives",
+    "answer": "C. Prioritization of energy efficiency and emissions reduction",
+    "explanation": "Both industries show a trend towards prioritizing energy efficiency and emissions reduction. E-Commerce discusses strategies to reduce environmental impact of product delivery (CG-EC-410a.2), including logistics efficiency. Oil & Gas Services focuses on emissions reduction services and compliance with emissions standards (EM-SV-110a.2 and EM-SV-110a.3).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services"
+    ],
+    "pages": [
+      "31-32",
+      "127-129"
+    ],
+    "pairing_explanation": "E-commerce distribution involves significant fuel usage, making a comparison with oil and gas service\u2019s environmental and logistics sustainability useful.",
+    "industries": [
+      "b4-e-commerce",
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Trend Identification",
+    "question": "What emerging trend in sustainability reporting is evident in both the E-Commerce and Oil & Gas Services industries?",
+    "optionA": "Increased focus on social equity metrics",
+    "optionB": "Adoption of blockchain for sustainability tracking",
+    "optionC": "Integration of AI in environmental management",
+    "optionD": "Emphasis on strategic planning for environmental considerations",
+    "optionE": "Mandatory reporting of scope 3 emissions",
+    "answer": "D. Emphasis on strategic planning for environmental considerations",
+    "explanation": "Both industries show a trend towards emphasizing strategic planning for environmental considerations. E-Commerce requires discussion of environmental considerations in strategic planning for data center needs (CG-EC-130a.3), while Oil & Gas Services demands discussion of strategies to address air emissions-related risks and opportunities (EM-SV-110a.2).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Services"
+    ],
+    "pages": [
+      "29-30",
+      "127-128"
+    ],
+    "pairing_explanation": "E-commerce distribution involves significant fuel usage, making a comparison with oil and gas service\u2019s environmental and logistics sustainability useful.",
+    "industries": [
+      "b4-e-commerce",
+      "b14-oil-and-gas-services"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How does water management in the Household & Personal Products industry differ from the Processed Foods industry in terms of regulatory compliance?",
+    "optionA": "Only Household & Personal Products companies face water-related regulatory compliance issues",
+    "optionB": "Only Processed Foods companies are required to disclose incidents of non-compliance with water regulations",
+    "optionC": "Both industries have similar water management regulatory requirements",
+    "optionD": "Processed Foods companies must report specific incidents of non-compliance, while Household & Personal Products companies only report general water management strategies",
+    "optionE": "Neither industry has significant water-related regulatory compliance requirements",
+    "answer": "D: Processed Foods companies must report specific incidents of non-compliance, while Household & Personal Products companies only report general water management strategies",
+    "explanation": "The Processed Foods industry has a specific metric (FB-PF-140a.2) requiring disclosure of the number of incidents of non-compliance associated with water quantity and/or quality permits, standards, and regulations. In contrast, the Household & Personal Products industry's water management metric (CG-HP-140a.2) focuses on describing water management risks and strategies to mitigate those risks, without specific requirements for reporting non-compliance incidents.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods"
+    ],
+    "pages": [
+      "34-37",
+      "261-264"
+    ],
+    "pairing_explanation": "Household and personal products, like processed foods, involve complex supply chains, with sustainability metrics focused on waste, resource use, and packaging.",
+    "industries": [
+      "b5-household-and-personal-products",
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Metric Comparison",
+    "question": "Which of the following is a key difference in the water management metrics between the Household & Personal Products and Processed Foods industries?",
+    "optionA": "Only Household & Personal Products companies report on water consumption",
+    "optionB": "Only Processed Foods companies report on water stress levels",
+    "optionC": "Processed Foods companies must report on non-compliance incidents, while Household & Personal Products companies do not have this requirement",
+    "optionD": "Household & Personal Products companies report on wastewater discharge, while Processed Foods companies do not",
+    "optionE": "There are no significant differences in water management metrics between the two industries",
+    "answer": "C: Processed Foods companies must report on non-compliance incidents, while Household & Personal Products companies do not have this requirement",
+    "explanation": "The Processed Foods industry has a specific metric (FB-PF-140a.2) requiring disclosure of the number of incidents of non-compliance associated with water quantity and/or quality permits, standards, and regulations. This requirement is not present in the Household & Personal Products industry metrics, which focus more on general water management strategies and risks.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods"
+    ],
+    "pages": [
+      "34-37",
+      "261-264"
+    ],
+    "pairing_explanation": "Household and personal products, like processed foods, involve complex supply chains, with sustainability metrics focused on waste, resource use, and packaging.",
+    "industries": [
+      "b5-household-and-personal-products",
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the Household & Personal Products and Processed Foods industries differ in their approach to sourcing certified ingredients?",
+    "optionA": "Only Household & Personal Products companies source certified ingredients",
+    "optionB": "Processed Foods companies focus on a wider range of certifications, while Household & Personal Products companies primarily focus on palm oil certification",
+    "optionC": "Household & Personal Products companies use cost-based metrics for certification, while Processed Foods companies use volume-based metrics",
+    "optionD": "Only Processed Foods companies are required to disclose percentages of certified ingredients",
+    "optionE": "Neither industry has specific requirements for sourcing certified ingredients",
+    "answer": "B: Processed Foods companies focus on a wider range of certifications, while Household & Personal Products companies primarily focus on palm oil certification",
+    "explanation": "The Household & Personal Products industry specifically focuses on palm oil certification through the Roundtable on Sustainable Palm Oil (RSPO) supply chains (CG-HP-430a.1). In contrast, the Processed Foods industry has a broader metric (FB-PF-430a.1) that covers various third-party environmental and social standards for food ingredients, including but not limited to Bonsucro, Fairtrade International, RSPO, Rainforest Alliance, and USDA Organic.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods"
+    ],
+    "pages": [
+      "38",
+      "265-266"
+    ],
+    "pairing_explanation": "Household and personal products, like processed foods, involve complex supply chains, with sustainability metrics focused on waste, resource use, and packaging.",
+    "industries": [
+      "b5-household-and-personal-products",
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Metric Comparison",
+    "question": "What is a key difference in energy management metrics between the Household & Personal Products and Processed Foods industries?",
+    "optionA": "Only Household & Personal Products companies report on total energy consumed",
+    "optionB": "Only Processed Foods companies report on renewable energy usage",
+    "optionC": "Household & Personal Products companies report on grid electricity percentage, while Processed Foods companies do not",
+    "optionD": "Processed Foods companies report on energy intensity, while Household & Personal Products companies do not",
+    "optionE": "There are no significant differences in energy management metrics between the two industries",
+    "answer": "E: There are no significant differences in energy management metrics between the two industries",
+    "explanation": "Both the Household & Personal Products industry (CG-HP-130a.1) and the Processed Foods industry (FB-PF-130a.1) have very similar energy management metrics. They both require reporting on (1) total energy consumed, (2) percentage grid electricity, and (3) percentage renewable energy. The metrics are essentially identical for both industries, reflecting the importance of energy management across these manufacturing sectors.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods"
+    ],
+    "pages": [
+      "259-260",
+      "259"
+    ],
+    "pairing_explanation": "Household and personal products, like processed foods, involve complex supply chains, with sustainability metrics focused on waste, resource use, and packaging.",
+    "industries": [
+      "b5-household-and-personal-products",
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Trend Identification",
+    "question": "What common trend in supply chain management is evident in both the Household & Personal Products and Processed Foods industries?",
+    "optionA": "Increasing focus on vertical integration",
+    "optionB": "Shift towards local sourcing of all ingredients",
+    "optionC": "Growing emphasis on third-party certifications for environmental and social standards",
+    "optionD": "Mandatory implementation of blockchain technology for traceability",
+    "optionE": "Elimination of all international suppliers",
+    "answer": "C: Growing emphasis on third-party certifications for environmental and social standards",
+    "explanation": "Both industries show a clear trend towards emphasizing third-party certifications for environmental and social standards in their supply chains. The Household & Personal Products industry focuses on palm oil certification through RSPO (CG-HP-430a.1), while the Processed Foods industry has a broader metric (FB-PF-430a.1) covering various third-party environmental and social standards for food ingredients. This trend reflects the increasing importance of sustainable and responsible sourcing practices in both industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods"
+    ],
+    "pages": [
+      "38",
+      "265-266"
+    ],
+    "pairing_explanation": "Household and personal products, like processed foods, involve complex supply chains, with sustainability metrics focused on waste, resource use, and packaging.",
+    "industries": [
+      "b5-household-and-personal-products",
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Trend Identification",
+    "question": "What emerging trend related to water management is common to both the Household & Personal Products and Processed Foods industries?",
+    "optionA": "Exclusive use of recycled water in all operations",
+    "optionB": "Increasing focus on water stress and scarcity in sourcing and operations",
+    "optionC": "Mandatory implementation of zero liquid discharge systems",
+    "optionD": "Complete elimination of water use in product formulations",
+    "optionE": "Shift towards using only rainwater for all water needs",
+    "answer": "B: Increasing focus on water stress and scarcity in sourcing and operations",
+    "explanation": "Both industries show a growing emphasis on water stress and scarcity in their sourcing and operations. The Household & Personal Products industry requires reporting on water withdrawn and consumed in regions with High or Extremely High Baseline Water Stress (CG-HP-140a.1). Similarly, the Processed Foods industry not only requires reporting on water stress for direct operations (FB-PF-140a.1) but also extends this to ingredient sourcing (FB-PF-440a.1), asking for the percentage of food ingredients sourced from regions with High or Extremely High Baseline Water Stress. This trend reflects the increasing importance of water management and the recognition of water scarcity as a critical issue in both industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Household & Personal Products",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods"
+    ],
+    "pages": [
+      "34-37",
+      "261-264",
+      "268-269"
+    ],
+    "pairing_explanation": "Household and personal products, like processed foods, involve complex supply chains, with sustainability metrics focused on waste, resource use, and packaging.",
+    "industries": [
+      "b5-household-and-personal-products",
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How does the approach to energy management differ between Multiline and Specialty Retailers & Distributors and the Waste Management industry?",
+    "optionA": "Retailers focus on grid electricity, while Waste Management focuses on landfill gas",
+    "optionB": "Waste Management prioritizes fleet fuel efficiency, while Retailers focus on store energy consumption",
+    "optionC": "Retailers emphasize renewable energy, while Waste Management focuses on emissions reduction",
+    "optionD": "Waste Management concentrates on energy production, while Retailers focus on energy consumption",
+    "optionE": "Both industries have identical approaches to energy management",
+    "answer": "D. Waste Management concentrates on energy production, while Retailers focus on energy consumption",
+    "explanation": "The Multiline and Specialty Retailers & Distributors industry focuses on managing energy consumption in retail facilities and warehouses, emphasizing efficiency and renewable sources. In contrast, the Waste Management industry not only manages energy consumption but also produces energy through landfill gas capture and waste-to-energy facilities, making energy production a key focus.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Waste Management"
+    ],
+    "pages": [
+      "40",
+      "399-400"
+    ],
+    "pairing_explanation": "The retail industry's waste generation and disposal strategies can be directly compared with dedicated waste management firms to find best practices.",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors",
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "Which of the following statements best describes the relationship between the Multiline and Specialty Retailers & Distributors industry and the Waste Management industry in terms of their environmental impact?",
+    "optionA": "Retailers generate waste while Waste Management processes it, creating a circular economy",
+    "optionB": "Both industries have equal environmental impacts through their operations",
+    "optionC": "Waste Management has a larger environmental footprint due to landfill emissions",
+    "optionD": "Retailers have a larger environmental footprint due to their global supply chains",
+    "optionE": "The two industries have no significant environmental relationship",
+    "answer": "A. Retailers generate waste while Waste Management processes it, creating a circular economy",
+    "explanation": "The Multiline and Specialty Retailers & Distributors industry generates significant waste through its operations and supply chains. The Waste Management industry, in turn, collects, processes, and manages this waste. This relationship creates a circular economy where the waste generated by one industry becomes the primary material for the other, highlighting the interconnectedness of their environmental impacts and the potential for collaborative sustainability efforts.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Waste Management"
+    ],
+    "pages": [
+      "39",
+      "397"
+    ],
+    "pairing_explanation": "The retail industry's waste generation and disposal strategies can be directly compared with dedicated waste management firms to find best practices.",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors",
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Metric Comparison",
+    "question": "When comparing the energy-related metrics of the Multiline and Specialty Retailers & Distributors industry with the Waste Management industry, which of the following is a key difference?",
+    "optionA": "Retailers report on total energy consumed, while Waste Management doesn't track energy use",
+    "optionB": "Waste Management reports on fleet fuel consumption, while Retailers don't consider transportation energy",
+    "optionC": "Retailers focus on renewable energy percentage, while Waste Management only reports on fossil fuels",
+    "optionD": "Waste Management reports on landfill gas generation, while Retailers have no equivalent metric",
+    "optionE": "Both industries use identical energy-related metrics",
+    "answer": "D. Waste Management reports on landfill gas generation, while Retailers have no equivalent metric",
+    "explanation": "A key difference in energy-related metrics between these industries is that the Waste Management industry specifically reports on landfill gas generation, including total landfill gas generated, percentage flared, and percentage used for energy (metric IF-WM-110a.2). The Multiline and Specialty Retailers & Distributors industry has no equivalent metric, as their operations do not involve landfills. Both industries do report on energy consumption and renewable energy usage, but the landfill gas metric is unique to Waste Management.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Waste Management"
+    ],
+    "pages": [
+      "40",
+      "401-402"
+    ],
+    "pairing_explanation": "The retail industry's waste generation and disposal strategies can be directly compared with dedicated waste management firms to find best practices.",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors",
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Metric Comparison",
+    "question": "How do the activity metrics differ between the Multiline and Specialty Retailers & Distributors industry and the Waste Management industry?",
+    "optionA": "Retailers report on number of stores, while Waste Management reports on number of landfills",
+    "optionB": "Waste Management reports on fleet size, while Retailers don't track vehicle metrics",
+    "optionC": "Retailers focus on sales per square foot, while Waste Management reports on tons of waste processed",
+    "optionD": "Waste Management reports on customer categories, while Retailers only report total customers",
+    "optionE": "Both industries use identical activity metrics",
+    "answer": "A. Retailers report on number of stores, while Waste Management reports on number of landfills",
+    "explanation": "The activity metrics for these industries differ significantly due to their distinct operations. Multiline and Specialty Retailers & Distributors report on the number of retail locations and distribution centers (metric CG-MR-000.A), reflecting their focus on retail operations. In contrast, Waste Management reports on the number of landfills, transfer stations, recycling centers, and other facilities (metric IF-WM-000.C), which are central to their waste processing operations. This difference in metrics highlights the unique aspects of each industry's business model and environmental impact.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Waste Management"
+    ],
+    "pages": [
+      "39",
+      "397"
+    ],
+    "pairing_explanation": "The retail industry's waste generation and disposal strategies can be directly compared with dedicated waste management firms to find best practices.",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors",
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Trend Identification",
+    "question": "What common trend in sustainability practices can be observed in both the Multiline and Specialty Retailers & Distributors industry and the Waste Management industry?",
+    "optionA": "Increased focus on water conservation",
+    "optionB": "Adoption of circular economy principles",
+    "optionC": "Emphasis on biodiversity protection",
+    "optionD": "Prioritization of employee health and safety",
+    "optionE": "Investment in carbon capture technologies",
+    "answer": "B. Adoption of circular economy principles",
+    "explanation": "Both industries show a trend towards adopting circular economy principles. For Multiline and Specialty Retailers & Distributors, this is evident in their focus on energy efficiency and renewable energy use, which can reduce waste and resource consumption. The Waste Management industry directly contributes to the circular economy by recycling materials, composting organic waste, and generating energy from waste. Both industries are moving towards more sustainable practices that minimize waste and maximize resource efficiency, aligning with circular economy principles.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Waste Management"
+    ],
+    "pages": [
+      "40-41",
+      "399-403"
+    ],
+    "pairing_explanation": "The retail industry's waste generation and disposal strategies can be directly compared with dedicated waste management firms to find best practices.",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors",
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Trend Identification",
+    "question": "What emerging trend is evident in both the Multiline and Specialty Retailers & Distributors industry and the Waste Management industry regarding their approach to emissions reduction?",
+    "optionA": "Exclusive focus on Scope 1 emissions",
+    "optionB": "Ignoring emissions in favor of other environmental metrics",
+    "optionC": "Consideration of both direct emissions and lifecycle impacts",
+    "optionD": "Offsetting all emissions through carbon credits",
+    "optionE": "Shifting all responsibility for emissions to suppliers or customers",
+    "answer": "C. Consideration of both direct emissions and lifecycle impacts",
+    "explanation": "Both industries show a trend towards considering not just their direct (Scope 1) emissions, but also the lifecycle impacts of their operations. For Multiline and Specialty Retailers & Distributors, this is evident in their focus on energy efficiency and renewable energy throughout their operations and supply chains. The Waste Management industry explicitly discusses the need to balance Scope 1 emissions with lifecycle emissions in their long-term strategy (IF-WM-110a.3), considering factors like landfill gas management, waste-to-energy, recycling, and composting. This holistic approach to emissions management is an emerging trend in both industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Waste Management"
+    ],
+    "pages": [
+      "40-41",
+      "402-404"
+    ],
+    "pairing_explanation": "The retail industry's waste generation and disposal strategies can be directly compared with dedicated waste management firms to find best practices.",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors",
+      "b38-waste-management"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the Construction Materials and Home Builders industries differ in their approach to water management?",
+    "optionA": "Construction Materials focuses on water recycling, while Home Builders focus on water fixture efficiency",
+    "optionB": "Construction Materials prioritizes reducing water consumption, while Home Builders focus on flood risk",
+    "optionC": "Home Builders emphasize water conservation in landscaping, while Construction Materials focus on process water reuse",
+    "optionD": "Construction Materials considers water stress in site selection, while Home Builders focus on stormwater management",
+    "optionE": "Both industries have identical approaches to water management",
+    "answer": "A: Construction Materials focuses on water recycling, while Home Builders focus on water fixture efficiency",
+    "explanation": "The Construction Materials industry metric EM-CM-140a.1 emphasizes total fresh water withdrawn and percentage recycled, while the Home Builders industry metric IF-HB-410a.2 focuses on the percentage of installed water fixtures certified to water efficiency standards like WaterSense\u00ae.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Construction Materials",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders"
+    ],
+    "pages": [
+      "64",
+      "352-353"
+    ],
+    "pairing_explanation": "Home building and the creation of construction materials both have substantial impacts on resource extraction, land use, and waste generation.",
+    "industries": [
+      "b8-construction-materials",
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Metric Comparison",
+    "question": "Which sustainability metric is common to both the Construction Materials and Home Builders industries?",
+    "optionA": "Percentage of products qualifying for sustainable building credits",
+    "optionB": "Number of homes delivered in water-stressed regions",
+    "optionC": "Total energy consumed and percentage from renewable sources",
+    "optionD": "Air emissions of specific pollutants",
+    "optionE": "Total amount of monetary losses from environmental regulation proceedings",
+    "answer": "E: Total amount of monetary losses from environmental regulation proceedings",
+    "explanation": "Both industries have metrics related to monetary losses from environmental regulation proceedings. For Construction Materials, it's metric EM-CM-160a.3, and for Home Builders, it's metric IF-HB-160a.3.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Construction Materials",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders"
+    ],
+    "pages": [
+      "59-60",
+      "349-350"
+    ],
+    "pairing_explanation": "Home building and the creation of construction materials both have substantial impacts on resource extraction, land use, and waste generation.",
+    "industries": [
+      "b8-construction-materials",
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Trend Identification",
+    "question": "What common trend is driving innovation in both the Construction Materials and Home Builders industries?",
+    "optionA": "Increasing demand for larger homes",
+    "optionB": "Growing preference for urban living",
+    "optionC": "Rising interest in sustainable and resource-efficient buildings",
+    "optionD": "Shift towards prefabricated construction methods",
+    "optionE": "Declining importance of energy efficiency",
+    "answer": "C: Rising interest in sustainable and resource-efficient buildings",
+    "explanation": "Both industries show a trend towards sustainability and resource efficiency. The Construction Materials industry focuses on product innovation for sustainable building credits (EM-CM-410a.1) and reduced environmental impact products (EM-CM-410a.2). The Home Builders industry emphasizes design for resource efficiency (IF-HB-410a.1 to IF-HB-410a.4) and green building certifications (IF-HB-410a.3).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Construction Materials",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders"
+    ],
+    "pages": [
+      "67-68",
+      "352-354"
+    ],
+    "pairing_explanation": "Home building and the creation of construction materials both have substantial impacts on resource extraction, land use, and waste generation.",
+    "industries": [
+      "b8-construction-materials",
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the Construction Materials and Home Builders industries differ in their approach to climate change risks?",
+    "optionA": "Construction Materials focuses on emissions reduction, while Home Builders emphasize flood risk assessment",
+    "optionB": "Home Builders consider long-term climate scenarios, while Construction Materials focus on short-term weather patterns",
+    "optionC": "Construction Materials prioritize adaptation strategies, while Home Builders focus on mitigation",
+    "optionD": "Both industries have identical approaches to climate change risks",
+    "optionE": "Neither industry considers climate change risks in their reporting",
+    "answer": "A: Construction Materials focuses on emissions reduction, while Home Builders emphasize flood risk assessment",
+    "explanation": "The Construction Materials industry metrics (EM-CM-110a.1 and EM-CM-110a.2) focus on greenhouse gas emissions and reduction strategies. In contrast, the Home Builders industry metrics (IF-HB-420a.1 and IF-HB-420a.2) emphasize flood zone risk assessment and climate change risk exposure analysis.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Construction Materials",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders"
+    ],
+    "pages": [
+      "55-58",
+      "355-356"
+    ],
+    "pairing_explanation": "Home building and the creation of construction materials both have substantial impacts on resource extraction, land use, and waste generation.",
+    "industries": [
+      "b8-construction-materials",
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Metric Comparison",
+    "question": "Which sustainability metric is unique to the Home Builders industry when compared to the Construction Materials industry?",
+    "optionA": "Percentage of renewable energy used in operations",
+    "optionB": "Number of homes delivered certified to a third-party multi-attribute green building standard",
+    "optionC": "Total water consumption and recycling rate",
+    "optionD": "Amount of waste generated and recycled",
+    "optionE": "Air quality impact of manufacturing processes",
+    "answer": "B: Number of homes delivered certified to a third-party multi-attribute green building standard",
+    "explanation": "The Home Builders industry has a unique metric (IF-HB-410a.3) that measures the number of homes delivered certified to a third-party multi-attribute green building standard. This metric is not present in the Construction Materials industry disclosures.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Construction Materials",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders"
+    ],
+    "pages": [
+      "353-354"
+    ],
+    "pairing_explanation": "Home building and the creation of construction materials both have substantial impacts on resource extraction, land use, and waste generation.",
+    "industries": [
+      "b8-construction-materials",
+      "b35-home-builders"
+    ]
+  },
+  {
+    "qa_type": "Trend Identification",
+    "question": "What emerging trend is likely to affect both the Construction Materials and Home Builders industries in terms of sustainability reporting?",
+    "optionA": "Decreased focus on environmental impacts",
+    "optionB": "Shift towards voluntary sustainability disclosures",
+    "optionC": "Increasing emphasis on social metrics over environmental ones",
+    "optionD": "Growing importance of climate change adaptation and mitigation strategies",
+    "optionE": "Reduced investor interest in sustainability performance",
+    "answer": "D: Growing importance of climate change adaptation and mitigation strategies",
+    "explanation": "Both industries show a trend towards increased focus on climate change. The Construction Materials industry emphasizes greenhouse gas emissions management and reduction strategies (EM-CM-110a.2), while the Home Builders industry highlights climate change risk exposure analysis and mitigation strategies (IF-HB-420a.2). This trend is likely to continue and grow in importance for both industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Construction Materials",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Home Builders"
+    ],
+    "pages": [
+      "57-58",
+      "356"
+    ],
+    "pairing_explanation": "Home building and the creation of construction materials both have substantial impacts on resource extraction, land use, and waste generation.",
+    "industries": [
+      "b8-construction-materials",
+      "b35-home-builders"
+    ]
+  }
+]

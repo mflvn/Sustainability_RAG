@@ -1,0 +1,152 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2 Climate-related Disclosures, what specific information should a real estate services company disclose regarding its revenue from energy and sustainability services?",
+    "optionA": "Only the total revenue from all services combined",
+    "optionB": "Revenue from energy services, but not sustainability services",
+    "optionC": "Revenue from energy and sustainability services, with a description of the services offered",
+    "optionD": "Only the percentage increase in revenue from these services compared to the previous year",
+    "optionE": "Revenue from sustainability services, excluding energy-related services",
+    "answer": "C. Revenue from energy and sustainability services, with a description of the services offered",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate Services",
+    "page": "393-394",
+    "industries": [
+      "b37-real-estate-services"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing the floor area under management provided with energy and sustainability services, how is 'operational control' defined according to IFRS S2?",
+    "optionA": "When the entity owns more than 50% of the building",
+    "optionB": "When the entity has full access to all areas of the building",
+    "optionC": "When the entity has the ability to introduce and implement operating, health and safety, and environmental policies",
+    "optionD": "When the entity is responsible for paying utility bills",
+    "optionE": "When the entity has a long-term lease agreement for the entire building",
+    "answer": "C. When the entity has the ability to introduce and implement operating, health and safety, and environmental policies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate Services",
+    "page": "394-395",
+    "industries": [
+      "b37-real-estate-services"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "Which of the following is NOT considered a valid energy rating scheme for disclosure purposes according to IFRS S2 for Real Estate Services?",
+    "optionA": "ENERGY STAR\u00ae for operations in the United States and Canada",
+    "optionB": "EU Energy Performance Certificates (EPC) for operations in the European Union",
+    "optionC": "National Australian Build Environment Rating System (NABERS) Energy for operations in Australia",
+    "optionD": "LEED certification for green buildings",
+    "optionE": "NABERSNZ for operations in New Zealand",
+    "answer": "D. LEED certification for green buildings",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate Services",
+    "page": "395-396",
+    "industries": [
+      "b37-real-estate-services"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing the number of buildings that obtained an energy rating, what is the correct timeframe for inclusion according to IFRS S2?",
+    "optionA": "Only ratings obtained in the current reporting year",
+    "optionB": "Ratings obtained in the last five years",
+    "optionC": "All ratings ever obtained for the buildings under management",
+    "optionD": "Ratings awarded before or during the reporting period that are still valid and official",
+    "optionE": "Only pre-assessments or unofficial forms of pre-certification",
+    "answer": "D. Ratings awarded before or during the reporting period that are still valid and official",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate Services",
+    "page": "396",
+    "industries": [
+      "b37-real-estate-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating revenue from energy and sustainability services (IF-RS-410a.1), which of the following services should NOT be included?",
+    "optionA": "Utility data management",
+    "optionB": "Energy procurement consulting",
+    "optionC": "Sustainability certification assistance",
+    "optionD": "Regular janitorial services",
+    "optionE": "Corporate sustainability training",
+    "answer": "D. Regular janitorial services",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate Services",
+    "page": "393-394",
+    "industries": [
+      "b37-real-estate-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "In calculating the floor area under management provided with energy and sustainability services (IF-RS-410a.2), how should the entity determine the scope?",
+    "optionA": "Include all properties regardless of operational control",
+    "optionB": "Only include properties with full ownership",
+    "optionC": "Include gross rentable floor area where services are provided and the owner has operational control",
+    "optionD": "Only include properties with energy ratings",
+    "optionE": "Include all properties managed in the last five years",
+    "answer": "C. Include gross rentable floor area where services are provided and the owner has operational control",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate Services",
+    "page": "394-395",
+    "industries": [
+      "b37-real-estate-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When disclosing the number of buildings that obtained an energy rating (IF-RS-410a.3), which of the following is NOT a valid energy rating scheme according to IFRS S2?",
+    "optionA": "ENERGY STAR\u00ae",
+    "optionB": "EU Energy Performance Certificates (EPC)",
+    "optionC": "National Australian Build Environment Rating System (NABERS)",
+    "optionD": "LEED Certification",
+    "optionE": "NABERSNZ",
+    "answer": "D. LEED Certification",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate Services",
+    "page": "395-396",
+    "industries": [
+      "b37-real-estate-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "In calculating the activity metric 'Number of leases transacted' (IF-RS-000.D), how should dual agency transactions be treated?",
+    "optionA": "Excluded from both tenant and real estate owner categories",
+    "optionB": "Included only in the tenant category",
+    "optionC": "Included only in the real estate owner category",
+    "optionD": "Included in both tenant and real estate owner categories",
+    "optionE": "Counted as half a transaction in each category",
+    "answer": "D. Included in both tenant and real estate owner categories",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate Services",
+    "page": "392",
+    "industries": [
+      "b37-real-estate-services"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A real estate services company is preparing its sustainability report and wants to disclose additional information about its energy and sustainability services. Which of the following is NOT mentioned as a relevant aspect to include in this description?",
+    "optionA": "The degree of integration with base property management services",
+    "optionB": "Market dynamics of energy and sustainability services",
+    "optionC": "Opportunities associated with providing market-leading services",
+    "optionD": "Risks associated with providing inadequate services",
+    "optionE": "The company's plans for expanding into new geographic markets",
+    "answer": "E. The company's plans for expanding into new geographic markets",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate Services",
+    "page": "394",
+    "industries": [
+      "b37-real-estate-services"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A real estate services company is preparing to disclose the floor area and number of buildings that obtained an energy rating (IF-RS-410a.3). Which of the following statements is TRUE regarding the timing of these energy ratings?",
+    "optionA": "Only energy ratings obtained during the reporting period should be included",
+    "optionB": "Energy ratings from the past five years can be included",
+    "optionC": "Pre-assessments and unofficial forms of pre-certification are valid for inclusion",
+    "optionD": "Energy ratings that will be awarded in the next reporting period can be included",
+    "optionE": "Energy ratings that were awarded before or during the reporting period should be included, and must be effective and official during the reporting period",
+    "answer": "E. Energy ratings that were awarded before or during the reporting period should be included, and must be effective and official during the reporting period",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Real Estate Services",
+    "page": "395-396",
+    "industries": [
+      "b37-real-estate-services"
+    ]
+  }
+]

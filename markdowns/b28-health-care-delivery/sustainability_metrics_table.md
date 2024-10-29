@@ -1,0 +1,6 @@
+| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |
+|-------|--------|----------|-----------------|------|
+| Energy Management | (1) Total energy consumed, (2) percent- age grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | HC-DY-130a.1 |
+| Waste Management | Total amount of medical waste, percent- age (a) incinerated, (b) recycled or treated, and (c) landfilled | Quantitative | Metric tons (t) | HC-DY-150a.1 |
+| Waste Management | Total amount of: (1) hazardous and (2) non-hazardous pharmaceutical waste, percentage (a) incinerated, (b) recycled or treated, and (c) landfilled | Quantitative | Metric tons (t), Percentage (%) | HC-DY-150a.2 |
+| Climate Change Impacts on Human Health & Infrastruc- ture | Description of policies and practices to address: (1) the physical risks due to an increased frequency and intensity of extreme weather events and (2) changes in the morbidity and mortal- ity rates of illnesses and diseases, associated with climate change | Discussion and Analysis | n/a | HC-DY-450a.1 |

@@ -1,0 +1,74 @@
+[
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the Appliance Manufacturing and Oil & Gas Refining & Marketing industries differ in their approach to managing greenhouse gas (GHG) emissions?",
+    "optionA": "Appliance Manufacturing focuses on product energy efficiency, while Oil & Gas Refining focuses on direct emissions from operations",
+    "optionB": "Both industries primarily focus on Scope 3 emissions",
+    "optionC": "Appliance Manufacturing has no GHG emissions to manage",
+    "optionD": "Oil & Gas Refining only manages emissions through carbon offsets",
+    "optionE": "Both industries have identical approaches to GHG emissions management",
+    "answer": "A: Appliance Manufacturing focuses on product energy efficiency, while Oil & Gas Refining focuses on direct emissions from operations",
+    "explanation": "The Appliance Manufacturing industry focuses on product lifecycle environmental impacts, including energy efficiency certifications for products (CG-AM-410a.1), which indirectly reduces GHG emissions during product use. In contrast, the Oil & Gas Refining & Marketing industry directly manages Scope 1 GHG emissions from their operations (EM-RM-110a.1 and EM-RM-110a.2), including strategies to reduce emissions from various sources like flaring, combustion, and process emissions.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Refining & Marketing"
+    ],
+    "pages": [
+      "12",
+      "116-120"
+    ],
+    "pairing_explanation": "Resource-intensive manufacturing in appliance production can be compared with the heavy industrial processes and significant emissions found in oil refining.",
+    "industries": [
+      "b2-appliance-manufacturing",
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Metric Comparison",
+    "question": "Which sustainability metric is common to both the Appliance Manufacturing and Oil & Gas Refining & Marketing industries?",
+    "optionA": "Percentage of products certified to energy efficiency standards",
+    "optionB": "Total fresh water withdrawn",
+    "optionC": "Gross global Scope 1 emissions",
+    "optionD": "Percentage of revenue from advanced biofuels",
+    "optionE": "Number of units produced annually",
+    "answer": "B: Total fresh water withdrawn",
+    "explanation": "While both industries have different focal points for sustainability, water management is a common concern. The Oil & Gas Refining & Marketing industry explicitly measures 'Total fresh water withdrawn' (EM-RM-140a.1). Although not directly stated for Appliance Manufacturing, water efficiency is implied in their product lifecycle considerations and sustainability standards (CG-AM-410a.2). Both industries are water-intensive and likely track fresh water withdrawal, making this the most relevant common metric.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Refining & Marketing"
+    ],
+    "pages": [
+      "12-14",
+      "121-122"
+    ],
+    "pairing_explanation": "Resource-intensive manufacturing in appliance production can be compared with the heavy industrial processes and significant emissions found in oil refining.",
+    "industries": [
+      "b2-appliance-manufacturing",
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  },
+  {
+    "qa_type": "Trend Identification",
+    "question": "What common sustainability trend is emerging in both the Appliance Manufacturing and Oil & Gas Refining & Marketing industries?",
+    "optionA": "Increased focus on employee safety",
+    "optionB": "Adoption of circular economy principles",
+    "optionC": "Emphasis on biodiversity conservation",
+    "optionD": "Investment in carbon capture technologies",
+    "optionE": "Transition towards more sustainable product lifecycles and fuel alternatives",
+    "answer": "E: Transition towards more sustainable product lifecycles and fuel alternatives",
+    "explanation": "Both industries show a trend towards more sustainable products and alternatives. The Appliance Manufacturing industry is focusing on product lifecycle environmental impacts, including energy efficiency certifications and end-of-life management (CG-AM-410a.1, CG-AM-410a.2, CG-AM-410a.3). Similarly, the Oil & Gas Refining & Marketing industry is moving towards clean fuel blends and advanced biofuels (EM-RM-410a.2), indicating a shift towards more sustainable fuel alternatives. This trend reflects both industries' efforts to address environmental concerns and adapt to changing market demands for more sustainable products.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Appliance Manufacturing",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Refining & Marketing"
+    ],
+    "pages": [
+      "12-14",
+      "122-123"
+    ],
+    "pairing_explanation": "Resource-intensive manufacturing in appliance production can be compared with the heavy industrial processes and significant emissions found in oil refining.",
+    "industries": [
+      "b2-appliance-manufacturing",
+      "b13-oil-and-gas-refining-and-marketing"
+    ]
+  }
+]

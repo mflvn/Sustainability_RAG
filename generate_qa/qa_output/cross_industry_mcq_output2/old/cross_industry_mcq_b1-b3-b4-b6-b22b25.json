@@ -1,0 +1,176 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When reporting on energy consumption for the Apparel, Accessories & Footwear industry and the Processed Foods industry, which of the following is a key difference in the disclosure requirements?",
+    "optionA": "Only the Processed Foods industry needs to disclose renewable energy percentage",
+    "optionB": "The Apparel industry must report energy consumption in kWh, while Processed Foods uses gigajoules",
+    "optionC": "Processed Foods must include fleet vehicle energy, while Apparel excludes it",
+    "optionD": "Apparel must disclose energy intensity, while Processed Foods does not",
+    "optionE": "The Apparel industry needs to report grid electricity percentage, while Processed Foods does not",
+    "answer": "C: Processed Foods must include fleet vehicle energy, while Apparel excludes it",
+    "explanation": "The key difference is that the Processed Foods industry's energy consumption metric (FB-PF-130a.1) explicitly includes all energy sources, while the Apparel industry's metric (CG-AA-130a.1) specifically excludes fuel consumed by fleet vehicles. This distinction is important for companies to accurately report their energy consumption within the appropriate boundaries for their industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods"
+    ],
+    "pages": [
+      "9",
+      "259"
+    ],
+    "pairing_explanation": "These industries involve extensive supply chain management, global sourcing, and retail operations. Comparing their sustainability practices can provide insights into managing environmental impacts and ethical sourcing throughout extensive supply chains.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b3-building-products-and-furnishings",
+      "b4-e-commerce",
+      "b6-multiline-and-specialty-retailers-and-distributors",
+      "b22-food-retailers-and-distributors",
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When preparing sustainability reports for the E-Commerce, Multiline and Specialty Retailers & Distributors, and Food Retailers & Distributors industries, which of the following is a unique reporting requirement for the Food Retailers & Distributors industry?",
+    "optionA": "Disclosure of total energy consumed",
+    "optionB": "Reporting on percentage of grid electricity used",
+    "optionC": "Disclosure of gross global Scope 1 emissions from refrigerants",
+    "optionD": "Reporting on renewable energy percentage",
+    "optionE": "Disclosure of data processing capacity",
+    "answer": "C: Disclosure of gross global Scope 1 emissions from refrigerants",
+    "explanation": "While all three industries have requirements related to energy consumption, only the Food Retailers & Distributors industry has a specific requirement (FB-FR-110b.1) to disclose gross global Scope 1 emissions from refrigerants. This is due to the significant use of refrigeration in food retail, which is not as prominent in the other two industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Multiline and Specialty Retailers & Distributors",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors"
+    ],
+    "pages": [
+      "27",
+      "40",
+      "218"
+    ],
+    "pairing_explanation": "These industries involve extensive supply chain management, global sourcing, and retail operations. Comparing their sustainability practices can provide insights into managing environmental impacts and ethical sourcing throughout extensive supply chains.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b3-building-products-and-furnishings",
+      "b4-e-commerce",
+      "b6-multiline-and-specialty-retailers-and-distributors",
+      "b22-food-retailers-and-distributors",
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of sustainably sourced materials for the Apparel, Accessories & Footwear industry and the Processed Foods industry, what is a key difference in the metric calculation?",
+    "optionA": "Apparel uses weight, while Processed Foods uses cost",
+    "optionB": "Apparel includes all materials, while Processed Foods only includes organic ingredients",
+    "optionC": "Processed Foods considers Tier 2 suppliers, while Apparel only looks at Tier 1",
+    "optionD": "Apparel uses revenue, while Processed Foods uses volume",
+    "optionE": "Processed Foods excludes water, while Apparel includes all inputs",
+    "answer": "A: Apparel uses weight, while Processed Foods uses cost",
+    "explanation": "The key difference is in the calculation method. For the Apparel industry, the metric CG-AA-440a.2 calculates the percentage based on the weight of raw materials. In contrast, the Processed Foods industry metric FB-PF-430a.1 uses the cost of food ingredients purchased from Tier 1 suppliers. This difference reflects the distinct nature of inputs in each industry and affects how companies must track and report their sustainably sourced materials.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods"
+    ],
+    "pages": [
+      "10",
+      "265"
+    ],
+    "pairing_explanation": "These industries involve extensive supply chain management, global sourcing, and retail operations. Comparing their sustainability practices can provide insights into managing environmental impacts and ethical sourcing throughout extensive supply chains.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b3-building-products-and-furnishings",
+      "b4-e-commerce",
+      "b6-multiline-and-specialty-retailers-and-distributors",
+      "b22-food-retailers-and-distributors",
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When reporting on water management for the Building Products & Furnishings industry and the Processed Foods industry, which of the following represents a key difference in the required metrics?",
+    "optionA": "Only Processed Foods reports on water consumption",
+    "optionB": "Building Products reports on water quality, while Processed Foods does not",
+    "optionC": "Processed Foods must disclose water-related non-compliance incidents, while Building Products does not",
+    "optionD": "Building Products reports on water recycling rates, while Processed Foods does not",
+    "optionE": "Only Building Products reports on water withdrawn in water-stressed regions",
+    "answer": "C: Processed Foods must disclose water-related non-compliance incidents, while Building Products does not",
+    "explanation": "A key difference in water management reporting between these industries is that the Processed Foods industry has a specific metric (FB-PF-140a.2) requiring disclosure of the number of incidents of non-compliance associated with water quantity and/or quality permits, standards, and regulations. The Building Products & Furnishings industry does not have a similar requirement for reporting water-related non-compliance incidents. This reflects the higher regulatory scrutiny on water usage and quality in food processing operations.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods"
+    ],
+    "pages": [
+      "19",
+      "262"
+    ],
+    "pairing_explanation": "These industries involve extensive supply chain management, global sourcing, and retail operations. Comparing their sustainability practices can provide insights into managing environmental impacts and ethical sourcing throughout extensive supply chains.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b3-building-products-and-furnishings",
+      "b4-e-commerce",
+      "b6-multiline-and-specialty-retailers-and-distributors",
+      "b22-food-retailers-and-distributors",
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing the sustainability reporting requirements for the E-Commerce, Food Retailers & Distributors, and Processed Foods industries, which environmental impact is uniquely emphasized in the Food Retailers & Distributors industry?",
+    "optionA": "Energy management in data centers",
+    "optionB": "Water consumption in operations",
+    "optionC": "Greenhouse gas emissions from product transportation",
+    "optionD": "Refrigerant emissions and management",
+    "optionE": "Packaging waste reduction",
+    "answer": "D: Refrigerant emissions and management",
+    "explanation": "While all three industries have sustainability reporting requirements, the Food Retailers & Distributors industry uniquely emphasizes refrigerant emissions and management. This is evident in the specific metrics for gross global Scope 1 emissions from refrigerants (FB-FR-110b.1), percentage of refrigerants with zero ozone-depleting potential (FB-FR-110b.2), and average refrigerant emissions rate (FB-FR-110b.3). This focus reflects the significant use of refrigeration in food retail operations, which is not as prominent in E-Commerce or Processed Foods industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: E-Commerce",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Food Retailers & Distributors",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods"
+    ],
+    "pages": [
+      "27",
+      "218",
+      "259"
+    ],
+    "pairing_explanation": "These industries involve extensive supply chain management, global sourcing, and retail operations. Comparing their sustainability practices can provide insights into managing environmental impacts and ethical sourcing throughout extensive supply chains.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b3-building-products-and-furnishings",
+      "b4-e-commerce",
+      "b6-multiline-and-specialty-retailers-and-distributors",
+      "b22-food-retailers-and-distributors",
+      "b25-processed-foods"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "In comparing the supply chain management reporting requirements for the Apparel, Accessories & Footwear, Building Products & Furnishings, and Processed Foods industries, which aspect is uniquely emphasized for the Processed Foods industry?",
+    "optionA": "Traceability of raw materials",
+    "optionB": "Use of recycled materials",
+    "optionC": "Supplier social and environmental audits",
+    "optionD": "Certifications for sustainable forestry",
+    "optionE": "Animal welfare in the supply chain",
+    "answer": "E: Animal welfare in the supply chain",
+    "explanation": "While all three industries have supply chain management reporting requirements, the Processed Foods industry uniquely emphasizes animal welfare in the supply chain. This is evident in the metric FB-FR-430a.2, which requires reporting on the percentage of eggs from cage-free environments and pork produced without gestation crates. Additionally, FB-FR-430a.3 explicitly mentions discussing animal welfare standards in the supply chain. This focus is not present in the reporting requirements for the Apparel or Building Products industries, reflecting the unique ethical considerations in food production.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Apparel, Accessories & Footwear",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Processed Foods"
+    ],
+    "pages": [
+      "8",
+      "22",
+      "224"
+    ],
+    "pairing_explanation": "These industries involve extensive supply chain management, global sourcing, and retail operations. Comparing their sustainability practices can provide insights into managing environmental impacts and ethical sourcing throughout extensive supply chains.",
+    "industries": [
+      "b1-apparel-accessories-and-footwear",
+      "b3-building-products-and-furnishings",
+      "b4-e-commerce",
+      "b6-multiline-and-specialty-retailers-and-distributors",
+      "b22-food-retailers-and-distributors",
+      "b25-processed-foods"
+    ]
+  }
+]

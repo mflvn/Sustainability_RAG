@@ -1,0 +1,146 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When reporting on energy consumption for both the Restaurants and Auto Parts industries, which of the following is a common requirement according to IFRS standards?",
+    "optionA": "Disclosing only renewable energy consumption",
+    "optionB": "Reporting energy consumption in kilowatt-hours only",
+    "optionC": "Including only company-owned facilities in the scope",
+    "optionD": "Disclosing total energy consumed, percentage grid electricity, and percentage renewable",
+    "optionE": "Excluding self-generated energy from the total consumption figure",
+    "answer": "D. Disclosing total energy consumed, percentage grid electricity, and percentage renewable",
+    "explanation": "Both the Restaurants (FB-RN-130a.1) and Auto Parts (TR-AP-130a.1) industries are required to disclose (1) total energy consumed, (2) percentage grid electricity, and (3) percentage renewable energy. This common requirement allows for consistency in energy reporting across different industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Auto Parts"
+    ],
+    "pages": [
+      "272",
+      "605-606"
+    ],
+    "industries": [
+      "b26-restaurants",
+      "b62-auto-parts"
+    ],
+    "pairing_explanation": "Both industries emphasize sustainability in supply chains, waste management, and resource use, from food sourcing to automotive component production."
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "In the context of sustainability reporting, what is a key difference between the Restaurants and Auto Parts industries regarding supply chain disclosures?",
+    "optionA": "Only Restaurants need to report on supply chain management",
+    "optionB": "Auto Parts must disclose supplier locations, while Restaurants do not",
+    "optionC": "Restaurants must discuss animal welfare standards, while Auto Parts focus on emissions reduction",
+    "optionD": "Auto Parts report on raw material sourcing, while Restaurants do not",
+    "optionE": "There are no differences in supply chain reporting requirements",
+    "answer": "C. Restaurants must discuss animal welfare standards, while Auto Parts focus on emissions reduction",
+    "explanation": "The Restaurants industry (FB-RN-430a.3) requires discussion of animal welfare standards in the supply chain, including policies for production conditions and use of certifications. The Auto Parts industry (TR-AP-410a.1) focuses on products designed to increase fuel efficiency and reduce emissions, reflecting the different nature and priorities of these industries' supply chains.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Auto Parts"
+    ],
+    "pages": [
+      "277-278",
+      "607-608"
+    ],
+    "industries": [
+      "b26-restaurants",
+      "b62-auto-parts"
+    ],
+    "pairing_explanation": "Both industries emphasize sustainability in supply chains, waste management, and resource use, from food sourcing to automotive component production."
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of renewable energy consumed, what is a common consideration for both the Restaurants and Auto Parts industries?",
+    "optionA": "Including only solar and wind energy sources",
+    "optionB": "Excluding all grid electricity from the calculation",
+    "optionC": "Considering only energy produced on-site",
+    "optionD": "Including renewable energy purchased through PPAs with explicit RECs or GOs",
+    "optionE": "Calculating based on cost rather than energy content",
+    "answer": "D. Including renewable energy purchased through PPAs with explicit RECs or GOs",
+    "explanation": "Both industries share the same consideration for calculating renewable energy percentage. They should include renewable energy purchased through power purchase agreements (PPAs) that explicitly include renewable energy certificates (RECs) or Guarantees of Origin (GOs). This ensures that only verifiable renewable energy sources are counted in the percentage calculation.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Auto Parts"
+    ],
+    "pages": [
+      "272-273",
+      "605-606"
+    ],
+    "industries": [
+      "b26-restaurants",
+      "b62-auto-parts"
+    ],
+    "pairing_explanation": "Both industries emphasize sustainability in supply chains, waste management, and resource use, from food sourcing to automotive component production."
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "How does the calculation of revenue from sustainable products differ between the Restaurants and Auto Parts industries?",
+    "optionA": "Restaurants calculate based on food cost, while Auto Parts use total revenue",
+    "optionB": "Auto Parts focus on fuel efficiency, while Restaurants consider only organic products",
+    "optionC": "Restaurants report on certified products, while Auto Parts have no such requirement",
+    "optionD": "Auto Parts calculate based on emissions reduction, while Restaurants use water conservation",
+    "optionE": "There is no difference; both use the same calculation method",
+    "answer": "C. Restaurants report on certified products, while Auto Parts have no such requirement",
+    "explanation": "The Restaurants industry (FB-RN-430a.1) requires reporting on the percentage of food purchased that is certified to third-party environmental and/or social standards. In contrast, the Auto Parts industry (TR-AP-410a.1) focuses on revenue from products designed to increase fuel efficiency and/or reduce emissions, without a specific certification requirement. This reflects the different nature of sustainability concerns in these industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Auto Parts"
+    ],
+    "pages": [
+      "275-276",
+      "607-608"
+    ],
+    "industries": [
+      "b26-restaurants",
+      "b62-auto-parts"
+    ],
+    "pairing_explanation": "Both industries emphasize sustainability in supply chains, waste management, and resource use, from food sourcing to automotive component production."
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the Restaurants and Auto Parts industries differ in their approach to environmental impact reduction in their respective supply chains?",
+    "optionA": "Restaurants focus on food sourcing, while Auto Parts emphasize energy efficiency",
+    "optionB": "Auto Parts consider only emissions, while Restaurants look at water usage",
+    "optionC": "Restaurants prioritize packaging, while Auto Parts focus on raw materials",
+    "optionD": "Auto Parts emphasize supplier locations, while Restaurants focus on transportation",
+    "optionE": "There is no difference in their approaches",
+    "answer": "A. Restaurants focus on food sourcing, while Auto Parts emphasize energy efficiency",
+    "explanation": "The Restaurants industry emphasizes sustainable food sourcing, including environmental and social standards for food purchases (FB-RN-430a.1). In contrast, the Auto Parts industry focuses on designing products that increase fuel efficiency and reduce emissions (TR-AP-410a.1). This difference reflects the distinct ways each industry can most effectively reduce its environmental impact within its supply chain.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Auto Parts"
+    ],
+    "pages": [
+      "275-276",
+      "607-608"
+    ],
+    "industries": [
+      "b26-restaurants",
+      "b62-auto-parts"
+    ],
+    "pairing_explanation": "Both industries emphasize sustainability in supply chains, waste management, and resource use, from food sourcing to automotive component production."
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "In terms of sustainability reporting, how do the activity metrics differ between the Restaurants and Auto Parts industries?",
+    "optionA": "Restaurants report on number of locations, while Auto Parts focus on production volume",
+    "optionB": "Auto Parts report on employee numbers, while Restaurants don't",
+    "optionC": "Restaurants disclose food waste, while Auto Parts report on raw material usage",
+    "optionD": "Auto Parts report on manufacturing plant area, while Restaurants have no spatial metrics",
+    "optionE": "There is no difference in activity metrics between the two industries",
+    "answer": "A. Restaurants report on number of locations, while Auto Parts focus on production volume",
+    "explanation": "The activity metrics for the Restaurants industry include the number of company-owned and franchise restaurants (FB-RN-000.A), focusing on location count. In contrast, the Auto Parts industry reports on the number and weight of parts produced (TR-AP-000.A and TR-AP-000.B), emphasizing production volume. This difference reflects the distinct operational characteristics and sustainability concerns of each industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Restaurants",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Auto Parts"
+    ],
+    "pages": [
+      "271",
+      "604"
+    ],
+    "industries": [
+      "b26-restaurants",
+      "b62-auto-parts"
+    ],
+    "pairing_explanation": "Both industries emphasize sustainability in supply chains, waste management, and resource use, from food sourcing to automotive component production."
+  }
+]

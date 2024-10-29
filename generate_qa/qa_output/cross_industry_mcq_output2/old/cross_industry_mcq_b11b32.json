@@ -1,0 +1,142 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When disclosing greenhouse gas emissions for the Oil & Gas - Exploration & Production and Electric Utilities & Power Generators industries, which of the following is a key difference in reporting requirements?",
+    "optionA": "Only Oil & Gas companies must report Scope 1 emissions",
+    "optionB": "Electric Utilities must report emissions from power deliveries, while Oil & Gas does not have an equivalent requirement",
+    "optionC": "Oil & Gas companies must report emissions by source type, while Electric Utilities do not",
+    "optionD": "Electric Utilities are exempt from reporting emissions covered under regulations",
+    "optionE": "Both industries have identical GHG reporting requirements",
+    "answer": "B. Electric Utilities must report emissions from power deliveries, while Oil & Gas does not have an equivalent requirement",
+    "explanation": "While both industries must report Scope 1 emissions, the Electric Utilities & Power Generators industry has an additional requirement (IF-EU-110a.2) to disclose greenhouse gas emissions associated with power deliveries. This includes emissions from both owned generation and purchased power. The Oil & Gas - Exploration & Production industry does not have a directly equivalent metric, making this a key difference in reporting requirements between the two industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Exploration & Production",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators"
+    ],
+    "pages": [
+      "90",
+      "300"
+    ],
+    "pairing_explanation": "Both industries are central to energy production, and comparisons can highlight differences and synergies in carbon footprints and renewable integration.",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "In terms of water management reporting, what is a key difference between the Oil & Gas - Exploration & Production and Electric Utilities & Power Generators industries?",
+    "optionA": "Only Oil & Gas companies must report total water withdrawn and consumed",
+    "optionB": "Electric Utilities are not required to report water stress information",
+    "optionC": "Oil & Gas companies must report on hydraulic fracturing water quality, while Electric Utilities have no specific water quality metric",
+    "optionD": "Electric Utilities must report on water recycling, while Oil & Gas companies do not",
+    "optionE": "Both industries have identical water management reporting requirements",
+    "answer": "C. Oil & Gas companies must report on hydraulic fracturing water quality, while Electric Utilities have no specific water quality metric",
+    "explanation": "A key difference in water management reporting between these industries is that Oil & Gas - Exploration & Production companies must report on water quality related to hydraulic fracturing (EM-EP-140a.4), including the percentage of hydraulic fracturing sites where ground or surface water quality deteriorated. Electric Utilities & Power Generators do not have a directly equivalent water quality metric, although they do report on water quantity and general water management risks.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Exploration & Production",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators"
+    ],
+    "pages": [
+      "101",
+      "306"
+    ],
+    "pairing_explanation": "Both industries are central to energy production, and comparisons can highlight differences and synergies in carbon footprints and renewable integration.",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating greenhouse gas emissions for the Oil & Gas - Exploration & Production industry, which of the following emission sources is specifically required to be reported separately?",
+    "optionA": "Emissions from office buildings",
+    "optionB": "Emissions from flared hydrocarbons",
+    "optionC": "Emissions from employee commuting",
+    "optionD": "Emissions from purchased electricity",
+    "optionE": "Emissions from waste management",
+    "answer": "B. Emissions from flared hydrocarbons",
+    "explanation": "For the Oil & Gas - Exploration & Production industry, the metric EM-EP-110a.2 specifically requires reporting the amount of gross global Scope 1 emissions from flared hydrocarbons, along with other categories such as other combustion, process emissions, other vented emissions, and fugitive emissions. This level of detail in emission sources is unique to this industry and reflects the significant contribution of flaring to overall emissions in oil and gas operations.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Exploration & Production"
+    ],
+    "pages": [
+      "95"
+    ],
+    "pairing_explanation": "Both industries are central to energy production, and comparisons can highlight differences and synergies in carbon footprints and renewable integration.",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "In the Electric Utilities & Power Generators industry, which of the following metrics is used to measure the frequency of power outages?",
+    "optionA": "SAIDI (System Average Interruption Duration Index)",
+    "optionB": "CAIDI (Customer Average Interruption Duration Index)",
+    "optionC": "SAIFI (System Average Interruption Frequency Index)",
+    "optionD": "MAIFI (Momentary Average Interruption Frequency Index)",
+    "optionE": "ASAI (Average Service Availability Index)",
+    "answer": "C. SAIFI (System Average Interruption Frequency Index)",
+    "explanation": "In the Electric Utilities & Power Generators industry, the System Average Interruption Frequency Index (SAIFI) is specifically used to measure the frequency of power outages. As defined in IF-EU-550a.2, SAIFI represents the average number of times that a system customer experiences an outage during the reporting period. It is calculated by dividing the total number of customers interrupted by the total number of customers served.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators"
+    ],
+    "pages": [
+      "319"
+    ],
+    "pairing_explanation": "Both industries are central to energy production, and comparisons can highlight differences and synergies in carbon footprints and renewable integration.",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the Oil & Gas - Exploration & Production and Electric Utilities & Power Generators industries differ in their approach to reporting on renewable energy investments?",
+    "optionA": "Only Oil & Gas companies are required to report on renewable energy investments",
+    "optionB": "Electric Utilities must report on customer electricity savings from efficiency measures, while Oil & Gas has no equivalent metric",
+    "optionC": "Oil & Gas companies report on renewable energy investments and revenue, while Electric Utilities only report on smart grid technology",
+    "optionD": "Electric Utilities report on renewable energy generation percentages, while Oil & Gas reports on investment amounts",
+    "optionE": "Both industries have identical renewable energy reporting requirements",
+    "answer": "B. Electric Utilities must report on customer electricity savings from efficiency measures, while Oil & Gas has no equivalent metric",
+    "explanation": "The Electric Utilities & Power Generators industry has a specific metric (IF-EU-420a.3) requiring reporting on customer electricity savings from efficiency measures by market. This reflects the industry's role in promoting energy efficiency and demand management. The Oil & Gas - Exploration & Production industry, while it does report on renewable energy investments (EM-EP-420a.3), does not have an equivalent metric for customer energy savings. This difference highlights the varying roles these industries play in energy efficiency and end-user consumption.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Exploration & Production",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators"
+    ],
+    "pages": [
+      "106",
+      "312"
+    ],
+    "pairing_explanation": "Both industries are central to energy production, and comparisons can highlight differences and synergies in carbon footprints and renewable integration.",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "In terms of safety and emergency management, what is a key difference in reporting requirements between the Oil & Gas - Exploration & Production and Electric Utilities & Power Generators industries?",
+    "optionA": "Only Oil & Gas companies must report on safety incidents",
+    "optionB": "Electric Utilities must report on nuclear safety, while Oil & Gas has no equivalent requirement",
+    "optionC": "Oil & Gas companies must report on process safety events, while Electric Utilities do not",
+    "optionD": "Electric Utilities are exempt from reporting on emergency preparedness",
+    "optionE": "Both industries have identical safety reporting requirements",
+    "answer": "B. Electric Utilities must report on nuclear safety, while Oil & Gas has no equivalent requirement",
+    "explanation": "A key difference in safety and emergency management reporting between these industries is that the Electric Utilities & Power Generators industry has specific metrics related to nuclear safety (IF-EU-540a.1 and IF-EU-540a.2). These require reporting on nuclear power units and efforts to manage nuclear safety and emergency preparedness. The Oil & Gas - Exploration & Production industry, while it has its own safety metrics, does not have equivalent nuclear safety requirements. This reflects the unique risks and regulatory environment associated with nuclear power generation in the Electric Utilities industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Exploration & Production",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electric Utilities & Power Generators"
+    ],
+    "pages": [
+      "90",
+      "315"
+    ],
+    "pairing_explanation": "Both industries are central to energy production, and comparisons can highlight differences and synergies in carbon footprints and renewable integration.",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production",
+      "b32-electric-utilities-and-power-generators"
+    ]
+  }
+]

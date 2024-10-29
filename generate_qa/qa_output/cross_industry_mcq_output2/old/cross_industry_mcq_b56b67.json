@@ -1,0 +1,146 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When disclosing energy consumption for Internet Media & Services and Rail Transportation industries, which of the following is a key difference in reporting requirements?",
+    "optionA": "Internet Media & Services must report percentage of grid electricity, while Rail Transportation does not",
+    "optionB": "Rail Transportation must report Scope 1 emissions, while Internet Media & Services does not",
+    "optionC": "Internet Media & Services must report data processing capacity, while Rail Transportation must report track miles",
+    "optionD": "Rail Transportation must report percentage of renewable fuel, while Internet Media & Services does not",
+    "optionE": "Both industries have identical energy consumption reporting requirements",
+    "answer": "A: Internet Media & Services must report percentage of grid electricity, while Rail Transportation does not",
+    "explanation": "The Internet Media & Services industry is required to disclose the percentage of energy consumed that was supplied from grid electricity (TC-IM-130a.1), while the Rail Transportation industry does not have this specific requirement. Instead, Rail Transportation focuses on total fuel consumed and percentage renewable (TR-RA-110a.3).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Rail Transportation"
+    ],
+    "pages": [
+      "561",
+      "635"
+    ],
+    "pairing_explanation": "The growth of digital services affects sustainability in how goods are transported, focusing on emissions, energy use, and operational efficiency.",
+    "industries": [
+      "b56-internet-media-and-services",
+      "b67-rail-transportation"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "In preparing sustainability reports, how do the water-related disclosure requirements differ between Internet Media & Services and Rail Transportation industries?",
+    "optionA": "Only Internet Media & Services must report water consumption",
+    "optionB": "Only Rail Transportation must report water consumption",
+    "optionC": "Both industries must report the same water-related metrics",
+    "optionD": "Internet Media & Services must report water consumption and stress, while Rail Transportation has no water-related requirements",
+    "optionE": "Rail Transportation must report water quality, while Internet Media & Services reports water quantity",
+    "answer": "D: Internet Media & Services must report water consumption and stress, while Rail Transportation has no water-related requirements",
+    "explanation": "The Internet Media & Services industry is required to disclose total water withdrawn, total water consumed, and the percentage of each in regions with High or Extremely High Baseline Water Stress (TC-IM-130a.2). In contrast, the Rail Transportation industry does not have specific water-related disclosure requirements in the provided IFRS standards.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Rail Transportation"
+    ],
+    "pages": [
+      "562-563",
+      "630-635"
+    ],
+    "pairing_explanation": "The growth of digital services affects sustainability in how goods are transported, focusing on emissions, energy use, and operational efficiency.",
+    "industries": [
+      "b56-internet-media-and-services",
+      "b67-rail-transportation"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating and reporting on energy consumption, what is a key difference in the metrics used for Internet Media & Services compared to Rail Transportation?",
+    "optionA": "Internet Media & Services uses kilowatt-hours, while Rail Transportation uses gigajoules",
+    "optionB": "Rail Transportation reports on renewable energy percentage, while Internet Media & Services does not",
+    "optionC": "Internet Media & Services reports on data center PUE, while Rail Transportation reports on locomotive efficiency",
+    "optionD": "Rail Transportation focuses on Scope 1 emissions, while Internet Media & Services focuses on Scope 2",
+    "optionE": "Internet Media & Services reports on renewable energy percentage, while Rail Transportation does not",
+    "answer": "E: Internet Media & Services reports on renewable energy percentage, while Rail Transportation does not",
+    "explanation": "The Internet Media & Services industry is required to disclose the percentage of energy consumed that is renewable energy (TC-IM-130a.1), while the Rail Transportation industry is not specifically required to report this metric. Instead, Rail Transportation focuses on total fuel consumed and the percentage of renewable fuel (TR-RA-110a.3), which is different from overall energy consumption.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Rail Transportation"
+    ],
+    "pages": [
+      "561",
+      "635"
+    ],
+    "pairing_explanation": "The growth of digital services affects sustainability in how goods are transported, focusing on emissions, energy use, and operational efficiency.",
+    "industries": [
+      "b56-internet-media-and-services",
+      "b67-rail-transportation"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "In the context of activity metrics, what is a key difference between how Internet Media & Services and Rail Transportation industries measure their operational scale?",
+    "optionA": "Internet Media & Services uses data storage, while Rail Transportation uses track miles",
+    "optionB": "Rail Transportation uses revenue ton miles, while Internet Media & Services uses page views",
+    "optionC": "Internet Media & Services uses monthly active users, while Rail Transportation uses fuel efficiency",
+    "optionD": "Rail Transportation uses number of employees, while Internet Media & Services uses server capacity",
+    "optionE": "Both industries use identical metrics to measure operational scale",
+    "answer": "A: Internet Media & Services uses data storage, while Rail Transportation uses track miles",
+    "explanation": "The Internet Media & Services industry uses metrics such as amount of data storage (TC-IM-000.C) to measure operational scale, while the Rail Transportation industry uses track miles (TR-RA-000.C) as one of its key activity metrics. These different metrics reflect the distinct nature of operations in each industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Rail Transportation"
+    ],
+    "pages": [
+      "559",
+      "630"
+    ],
+    "pairing_explanation": "The growth of digital services affects sustainability in how goods are transported, focusing on emissions, energy use, and operational efficiency.",
+    "industries": [
+      "b56-internet-media-and-services",
+      "b67-rail-transportation"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the environmental considerations in strategic planning differ between Internet Media & Services and Rail Transportation industries?",
+    "optionA": "Internet Media & Services focuses on data center siting, while Rail Transportation focuses on route optimization",
+    "optionB": "Rail Transportation considers fuel types, while Internet Media & Services does not consider energy sources",
+    "optionC": "Internet Media & Services prioritizes water availability, while Rail Transportation prioritizes air quality",
+    "optionD": "Rail Transportation focuses on biodiversity impact, while Internet Media & Services focuses on e-waste",
+    "optionE": "Both industries have identical environmental considerations in strategic planning",
+    "answer": "A: Internet Media & Services focuses on data center siting, while Rail Transportation focuses on route optimization",
+    "explanation": "The Internet Media & Services industry is required to discuss the integration of environmental considerations into strategic planning for data center needs, including siting decisions (TC-IM-130a.3). In contrast, the Rail Transportation industry's environmental considerations are more focused on managing emissions and fuel consumption, which would involve route optimization to improve efficiency and reduce emissions.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Rail Transportation"
+    ],
+    "pages": [
+      "563",
+      "633-635"
+    ],
+    "pairing_explanation": "The growth of digital services affects sustainability in how goods are transported, focusing on emissions, energy use, and operational efficiency.",
+    "industries": [
+      "b56-internet-media-and-services",
+      "b67-rail-transportation"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When considering emissions reduction strategies, what is a key difference between the approaches likely to be taken by Internet Media & Services companies compared to Rail Transportation companies?",
+    "optionA": "Internet Media & Services focuses on renewable energy procurement, while Rail Transportation focuses on fuel efficiency",
+    "optionB": "Rail Transportation invests in electric locomotives, while Internet Media & Services invests in nuclear power",
+    "optionC": "Internet Media & Services prioritizes carbon capture, while Rail Transportation prioritizes reforestation",
+    "optionD": "Rail Transportation focuses on reducing Scope 3 emissions, while Internet Media & Services focuses on Scope 1",
+    "optionE": "Both industries would likely adopt identical emissions reduction strategies",
+    "answer": "A: Internet Media & Services focuses on renewable energy procurement, while Rail Transportation focuses on fuel efficiency",
+    "explanation": "Internet Media & Services companies are likely to focus on renewable energy procurement for their data centers and operations, as evidenced by the requirement to report on renewable energy percentage (TC-IM-130a.1). Rail Transportation companies, on the other hand, are more likely to focus on fuel efficiency improvements for their locomotive fleets, as indicated by their requirements to report on fuel consumption and strategies to manage Scope 1 emissions (TR-RA-110a.2 and TR-RA-110a.3).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Internet Media & Services",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Rail Transportation"
+    ],
+    "pages": [
+      "561",
+      "633-635"
+    ],
+    "pairing_explanation": "The growth of digital services affects sustainability in how goods are transported, focusing on emissions, energy use, and operational efficiency.",
+    "industries": [
+      "b56-internet-media-and-services",
+      "b67-rail-transportation"
+    ]
+  }
+]

@@ -1,0 +1,175 @@
+[
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Wind Technology & Project Developers and Solar Technology & Project Developers industries?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "B",
+    "is_correct": false,
+    "industries": []
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Construction Materials and Home Builders industries.",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "C",
+    "is_correct": false,
+    "industries": []
+  },
+  {
+    "question": "List the activity metrics for Appliance Manufacturing and Oil & Gas - Refining & Marketing industries.",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "C",
+    "is_correct": false,
+    "industries": []
+  },
+  {
+    "question": "What units of measurement are used across the Road Transportation and Car Rental & Leasing industries for measuring fuel-related metrics?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "What units of measurement are used across the Rail Transportation and Internet Media & Services industries for measuring energy consumption?",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "A",
+    "is_correct": false,
+    "industries": []
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Commercial Banks and Fuel Cells & Industrial Batteries industries.",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "B",
+    "is_correct": true,
+    "industries": [
+      "b14-oil-and-gas-services",
+      "b15-asset-management-and-custody-activities"
+    ]
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Hotels & Lodging and Electrical & Electronic Equipment industries?",
+    "type": "mcq",
+    "correct_answer": "C",
+    "model_answer": "A",
+    "is_correct": false,
+    "industries": []
+  },
+  {
+    "question": "Are there any common sustainability topics between the Aerospace & Defense and Auto Parts industries? If so, how do their reporting requirements differ?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "Analyze the reporting complexity of Coal Operations and Apparel, Accessories & Footwear industries by comparing the number of required metrics and the diversity of measurement units used.",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Metals & Mining and Electrical & Electronic Equipment industries?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Industrial Machinery & Goods and Iron & Steel Producers industries?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "B",
+    "is_correct": false,
+    "industries": []
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Commercial Banks and Fuel Cells & Industrial Batteries industries?",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "A",
+    "is_correct": false,
+    "industries": []
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Coal Operations and Apparel, Accessories & Footwear industries.",
+    "type": "mcq",
+    "correct_answer": "C",
+    "model_answer": "C",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Metals & Mining and Biofuels industries.",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Investment Banking & Brokerage and Marine Transportation industries?",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "A",
+    "is_correct": false,
+    "industries": []
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Electronic Manufacturing Services & Original Design Manufacturing and Casinos & Gaming industries?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "What units of measurement are used across Metals & Mining and Electrical & Electronic Equipment industries for measuring energy management metrics?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": [
+      "b9-iron-and-steel-producers"
+    ]
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Coal Operations and Apparel, Accessories & Footwear industries?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Health Care Distributors and Gas Utilities & Distributors industries?",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "B",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Non-Alcoholic Beverages and Air Freight & Logistics industries.",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "List the activity metrics for Metals & Mining and Electrical & Electronic Equipment industries.",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": []
+  }
+]

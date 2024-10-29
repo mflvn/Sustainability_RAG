@@ -1,0 +1,137 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to the IFRS S2 Climate-related Disclosures for the Casinos & Gaming industry, which of the following is NOT a required activity metric?",
+    "optionA": "Number of tables",
+    "optionB": "Number of slots",
+    "optionC": "Number of active online gaming customers",
+    "optionD": "Total area of gaming floor",
+    "optionE": "Number of employees",
+    "answer": "E. Number of employees",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Casinos & Gaming",
+    "page": "534",
+    "industries": [
+      "b51-casinos-and-gaming"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing the percentage of renewable energy consumed, which of the following sources is NOT included in the scope of renewable energy for the Casinos & Gaming industry?",
+    "optionA": "Geothermal energy",
+    "optionB": "Wind energy",
+    "optionC": "Solar energy",
+    "optionD": "Hydroelectric energy",
+    "optionE": "The renewable portion of the electricity grid mix outside the entity's control",
+    "answer": "E. The renewable portion of the electricity grid mix outside the entity's control",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Casinos & Gaming",
+    "page": "536",
+    "industries": [
+      "b51-casinos-and-gaming"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When reporting on energy consumption for the Casinos & Gaming industry, which unit of measure should be used for total energy consumed?",
+    "optionA": "Kilowatt-hours (kWh)",
+    "optionB": "Megawatt-hours (MWh)",
+    "optionC": "British Thermal Units (BTU)",
+    "optionD": "Gigajoules (GJ)",
+    "optionE": "Therms",
+    "answer": "D. Gigajoules (GJ)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Casinos & Gaming",
+    "page": "535",
+    "industries": [
+      "b51-casinos-and-gaming"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of grid electricity consumed for the Casinos & Gaming industry, which of the following formulas should be used?",
+    "optionA": "Grid electricity consumption / Total renewable energy consumption",
+    "optionB": "Grid electricity consumption / Total energy produced on-site",
+    "optionC": "Grid electricity consumption / Total energy consumption",
+    "optionD": "Grid electricity consumption / Total fossil fuel consumption",
+    "optionE": "Grid electricity consumption / Total number of facilities",
+    "answer": "C. Grid electricity consumption / Total energy consumption",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Casinos & Gaming",
+    "page": "535",
+    "industries": [
+      "b51-casinos-and-gaming"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating energy consumption from fuels for a casino, which calorific value should be used according to the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Lower heating values (LHV)",
+    "optionB": "Average heating values (AHV)",
+    "optionC": "Higher heating values (HHV)",
+    "optionD": "Nominal heating values (NHV)",
+    "optionE": "Standard heating values (SHV)",
+    "answer": "C. Higher heating values (HHV)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Casinos & Gaming",
+    "page": "535",
+    "industries": [
+      "b51-casinos-and-gaming"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "For a casino company reporting renewable energy consumption, how should on-site generated renewable electricity be accounted for?",
+    "optionA": "It can be claimed without any conditions",
+    "optionB": "It can be claimed only if the electricity is sold to the grid",
+    "optionC": "It can be claimed if RECs are sold to other entities",
+    "optionD": "It can be claimed if RECs are retained and retired on behalf of the entity",
+    "optionE": "It cannot be claimed as renewable energy at all",
+    "answer": "D. It can be claimed if RECs are retained and retired on behalf of the entity",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Casinos & Gaming",
+    "page": "536",
+    "industries": [
+      "b51-casinos-and-gaming"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A casino is considering using biomass as a renewable energy source. According to IFRS S2, which certification is NOT mentioned as acceptable for biomass sources in sustainability reporting?",
+    "optionA": "Forest Stewardship Council",
+    "optionB": "Sustainable Forest Initiative",
+    "optionC": "Programme for the Endorsement of Forest Certification",
+    "optionD": "American Tree Farm System",
+    "optionE": "Global Biomass Partnership",
+    "answer": "E. Global Biomass Partnership",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Casinos & Gaming",
+    "page": "536",
+    "industries": [
+      "b51-casinos-and-gaming"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A casino operator is preparing its sustainability report and needs to disclose its energy consumption. Which of the following is NOT a required component of the energy consumption disclosure according to IFRS S2?",
+    "optionA": "Total energy consumed",
+    "optionB": "Percentage of grid electricity",
+    "optionC": "Percentage of renewable energy",
+    "optionD": "Energy intensity per square meter of gaming floor",
+    "optionE": "Energy from all sources, including self-generated",
+    "answer": "D. Energy intensity per square meter of gaming floor",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Casinos & Gaming",
+    "page": "535-536",
+    "industries": [
+      "b51-casinos-and-gaming"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When reporting the number of active online gaming customers, which timeframe should a casino use to determine if a customer is 'active' according to the IFRS S2 standard?",
+    "optionA": "Within the last 30 days",
+    "optionB": "Within the last 60 days",
+    "optionC": "Within the last 90 days",
+    "optionD": "Within the last 180 days",
+    "optionE": "Within the reporting period",
+    "answer": "E. Within the reporting period",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Casinos & Gaming",
+    "page": "534",
+    "industries": [
+      "b51-casinos-and-gaming"
+    ]
+  }
+]

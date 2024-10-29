@@ -1,0 +1,70 @@
+[
+  {
+    "question": "What does the IFRS require companies to disclose regarding payload fuel economy for the Health Care Distributors industry?",
+    "answer": "The entity shall disclose its aggregate payload fuel economy for its transportation fleet.",
+    "reference_text": [
+      "The entity shall disclose its aggregate payload fuel economy for its transportation fleet."
+    ],
+    "pages": [
+      "Page 290"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 1.0,
+    "industries": [
+      "b29-health-care-distributors"
+    ]
+  },
+  {
+    "question": "Describe the calculation method for payload fuel economy metric for the Health Care Distributors industry.",
+    "answer": "Payload fuel economy shall be calculated as: total gallons of fuel consumed / revenue ton miles (RTM), where revenue ton miles (RTM) = total weight of paid tonnage transported (payload) \u00d7 total distance in miles goods were transported.",
+    "reference_text": [
+      "Payload fuel economy shall be calculated as: total gallons of fuel consumed / revenue ton miles (RTM), where revenue ton miles (RTM) = total weight of paid tonnage transported (payload) \u00d7 total distance in miles goods were transported."
+    ],
+    "pages": [
+      "Page 290"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 1.0,
+    "industries": [
+      "b29-health-care-distributors"
+    ]
+  },
+  {
+    "question": "Compare and contrast the reporting requirements for 'Payload fuel economy' and 'Description of efforts to reduce the environmental impact of logistics' topics in the health care distributors industry.",
+    "answer": "For 'Payload fuel economy', the entity shall disclose its aggregate payload fuel economy for its transportation fleet. It includes calculating payload fuel economy across its delivery fleet limited to vehicles used for the delivery of products, the calculation method involves using total gallons of fuel consumed / revenue tons miles, and this should be done for different types of transportation like air, marine, rail, and road.\n\nFor 'Description of efforts to reduce the environmental impact of logistics', the entity shall describe the nature, scope, and implementation of its programs and initiatives to reduce the environmental impact of its logistics operations. Relevant efforts to describe include upgrades to fleet (fuel efficiency), usage of alternative and/or renewable fuels, optimized logistics routes, and idling reduction programs.",
+    "reference_text": [
+      "For 'Payload fuel economy', the entity shall disclose its aggregate payload fuel economy for its transportation fleet. It",
+      "calculating payload fuel economy across its delivery fleet, limited to vehicles used for the delivery of products (excluding vehicles used primarily for the transportation of passengers).",
+      "'Payload fuel economy': total gallons of fuel consumed / revenue tons miles (RTM), where revenue ton miles (RTM) = total weight of paid tonnage transported (payload) \u00d7 total distance in miles goods were transported.",
+      "4 The entity shall aggregate payload fuel economy for types of transportation, which include, but are not limited to:",
+      "4.1 Air transportation",
+      "4.2 Marine transportation",
+      "4.3 Rail transportation",
+      "4.4 Road transportation"
+    ],
+    "pages": [
+      "290"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 1.0,
+    "industries": [
+      "b29-health-care-distributors"
+    ]
+  },
+  {
+    "question": "Can you provide the unit of measure (as listed in the relevant table) for all the metrics for 'Fleet Fuel Management' topics in the health care distributors industry?",
+    "answer": "The unit of measure for 'Payload fuel economy' is Gallons, Tons (U.S.), Miles. The other metric does not have a unit of measure as it is Discussion and Analysis.",
+    "reference_text": [
+      "| Fleet Fuel Management | Payload fuel economy | Quantitative | Gallons, Tons (U.S.), Miles | HC-DI-110a.1 |",
+      "| Fleet Fuel Management | Description of efforts to reduce the environmental impact of logistics | Discussion and Analysis | n/a | HC-DI-110a.2 |"
+    ],
+    "pages": [
+      "289"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 1.0,
+    "industries": [
+      "b29-health-care-distributors"
+    ]
+  }
+]

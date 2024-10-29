@@ -1,0 +1,129 @@
+[
+  {
+    "question": "What does a metals and mining company need to disclose regarding its gross global Scope 1 greenhouse gas emissions?",
+    "answer": "The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol\u2014carbon dioxide (CO\u2082), methane (CH\u2084), nitrous oxide (N\u2082O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF\u2086), and nitrogen trifluoride (NF\u2083).",
+    "reference_text": [
+      "1 The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol\u2014carbon dioxide (CO\u2082), methane (CH\u2084), nitrous oxide (N\u2082O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF\u2086), and nitrogen trifluoride (NF\u2083)."
+    ],
+    "pages": [
+      "82"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "question": "What should a metals and mining company discuss regarding its strategy to manage Scope 1 emissions?",
+    "answer": "The entity shall discuss its long-term and short-term strategy or plan to manage its Scope 1 greenhouse gas (GHG) emissions. The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s).",
+    "reference_text": [
+      "1. The entity shall discuss its long-term and short-term strategy or plan to manage its Scope 1 greenhouse gas (GHG) emissions.",
+      "2. The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the following, where relevant:"
+    ],
+    "pages": [
+      "84"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "question": "What information should a metals and mining company disclose regarding its total energy consumption?",
+    "answer": "The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ). The entity shall disclose (2) the percentage of energy it consumed that was supplied from grid electricity. The entity shall disclose (3) the percentage of energy it consumed that is renewable energy.",
+    "reference_text": [
+      "1 The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ).",
+      "2 The entity shall disclose (2) the percentage of energy it consumed that was supplied from grid electricity.",
+      "3 The entity shall disclose (3) the percentage of energy it consumed that is renewable energy."
+    ],
+    "pages": [
+      "86"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "question": "What should a metals and mining company disclose regarding incidents of non-compliance with water quality regulations?",
+    "answer": "The entity shall disclose the total number of instances of non-compliance, including violations of a technology-based standard and exceedances of quality-based standards.",
+    "reference_text": [
+      "1 The entity shall disclose the total number of instances of non-compliance, including violations of a technology-based standard and exceedances of quality-based standards."
+    ],
+    "pages": [
+      "89"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "question": "What information must a company disclose regarding its gross global Scope 1 greenhouse gas emissions according to the IFRS standards?",
+    "answer": "The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol\u2014carbon dioxide (CO\u2082), methane (CH\u2084), nitrous oxide (N\u2082O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF\u2086), and nitrogen trifluoride (NF\u2083). Emissions of all GHGs shall be consolidated and disclosed in metric tons of carbon dioxide equivalents (CO\u2082-e), and calculated in accordance with published 100-year time horizon global warming potential (GWP) values.",
+    "reference_text": [
+      "1 The entity shall disclose its gross global Scope 1 greenhouse gas (GHG) emissions to the atmosphere of the seven GHGs covered under the Kyoto Protocol\u2014carbon dioxide (CO\u2082), methane (CH\u2084), nitrous oxide (N\u2082O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF\u2086), and nitrogen trifluoride (NF\u2083).",
+      "1.1 Emissions of all GHGs shall be consolidated and disclosed in metric tons of carbon dioxide equivalents (CO\u2082-e), and calculated in accordance with published 100-year time horizon global warming potential (GWP) values. To date, the preferred source for GWP values is the Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report (2014)."
+    ],
+    "pages": [
+      "82"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "question": "What must a company discuss regarding its strategy and targets for managing Scope 1 emissions according to the IFRS standards?",
+    "answer": "The entity shall discuss its long-term and short-term strategy or plan to manage its Scope 1 greenhouse gas (GHG) emissions. The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the scope of the target, whether it is absolute or intensity-based, the percentage reduction, timelines, mechanisms for achieving it, and any circumstances where the target may be recalculated.",
+    "reference_text": [
+      "1. The entity shall discuss its long-term and short-term strategy or plan to manage its Scope 1 greenhouse gas (GHG) emissions.",
+      "2. The entity shall discuss its emission reduction target(s) and analyze its performance against the target(s), including the following, where relevant:",
+      "2.1 The scope of the emission reduction target (e.g., the percentage of total emissions the target is applicable to);",
+      "2.2 Whether the target is absolute- or intensity-based, and the metric denominator, if it is an intensity-based target;",
+      "2.3 The percentage reduction against the base year, with the base year representing the first year against which emissions are evaluated toward the achievement of the target;",
+      "2.4 The timelines for the reduction activity, including the start year, the target year, and the base year;",
+      "2.5 The mechanism(s) for achieving the target; and",
+      "2.6 Any circumstances in which the target or base year emissions have been, or may be, recalculated retrospectively or the target or base year has been reset."
+    ],
+    "pages": [
+      "84"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "question": "What information must a company disclose regarding its total energy consumption according to the IFRS standards?",
+    "answer": "The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ). The entity shall disclose (2) the percentage of energy it consumed that was supplied from grid electricity. The entity shall disclose (3) the percentage of energy it consumed that is renewable energy.",
+    "reference_text": [
+      "1 The entity shall disclose (1) the total amount of energy it consumed as an aggregate figure, in gigajoules (GJ).",
+      "2 The entity shall disclose (2) the percentage of energy it consumed that was supplied from grid electricity.",
+      "3 The entity shall disclose (3) the percentage of energy it consumed that is renewable energy."
+    ],
+    "pages": [
+      "86"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  },
+  {
+    "question": "What must a company disclose regarding incidents of non-compliance with water quality regulations according to the IFRS standards?",
+    "answer": "The entity shall disclose the total number of instances of non-compliance, including violations of a technology-based standard and exceedances of quality-based standards. The scope of disclosure includes incidents governed by national, state, and local statutory permits and regulations, including, but not limited to, the discharge of a hazardous substances, violation of pretreatment requirements, or total maximum daily load (TMDL) exceedances. The scope of disclosure shall only include incidents of non-compliance that resulted in a formal enforcement action(s).",
+    "reference_text": [
+      "1 The entity shall disclose the total number of instances of non-compliance, including violations of a technology-based standard and exceedances of quality-based standards.",
+      "2 The scope of disclosure includes incidents governed by national, state, and local statutory permits and regulations, including, but not limited to, the discharge of a hazardous substances, violation of pretreatment requirements, or total maximum daily load (TMDL) exceedances.",
+      "3 The scope of disclosure shall only include incidents of non-compliance that resulted in a formal enforcement action(s)."
+    ],
+    "pages": [
+      "89"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b10-metals-and-mining"
+    ]
+  }
+]

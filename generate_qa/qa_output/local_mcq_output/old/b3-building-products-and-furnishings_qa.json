@@ -1,0 +1,392 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the three components of the 'Total energy consumed' metric for the Building Products & Furnishings industry?",
+    "optionA": "Total energy consumed, percentage of solar energy, percentage of wind energy",
+    "optionB": "Total energy consumed, percentage of nuclear energy, percentage of fossil fuels",
+    "optionC": "Total energy consumed, percentage grid electricity, percentage renewable",
+    "optionD": "Total energy consumed, percentage of hydroelectric power, percentage of geothermal energy",
+    "optionE": "Total energy consumed, percentage of biomass energy, percentage of tidal energy",
+    "answer": "C. Total energy consumed, percentage grid electricity, percentage renewable",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+    "page": "16",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the document, what is the scope of renewable energy for hydro and biomass sources?",
+    "optionA": "All hydro and biomass sources without restrictions",
+    "optionB": "Only small-scale hydro and locally-sourced biomass",
+    "optionC": "Hydro from all sources and biomass from certified forests",
+    "optionD": "Only biomass sources certified to a third-party standard or eligible for state renewable portfolio standards",
+    "optionE": "Hydro from rivers and biomass from agricultural waste",
+    "answer": "D. Only biomass sources certified to a third-party standard or eligible for state renewable portfolio standards",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+    "page": "17-18",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What does the metric CG-BF-410a.2 measure in the Building Products & Furnishings industry?",
+    "optionA": "The total weight of products sold",
+    "optionB": "The percentage of recycled materials used in production",
+    "optionC": "The weight of end-of-life material recovered and percentage recycled",
+    "optionD": "The energy efficiency of manufacturing processes",
+    "optionE": "The carbon footprint of the supply chain",
+    "answer": "C. The weight of end-of-life material recovered and percentage recycled",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+    "page": "19-20",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT listed as a third-party forest management standard in the document?",
+    "optionA": "American Tree Farm (ATF)",
+    "optionB": "Forest Stewardship Council (FSC)",
+    "optionC": "Programme for the Endorsement of Forest Certification (PEFC)",
+    "optionD": "Sustainable Forest Initiative (SFI)",
+    "optionE": "Global Forest Certification (GFC)",
+    "answer": "E. Global Forest Certification (GFC)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+    "page": "22-23",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might a company in the Building Products & Furnishings industry demonstrate its commitment to sustainable practices through both energy management and product lifecycle management?",
+    "optionA": "By using only grid electricity and recycling all wood products",
+    "optionB": "By implementing energy-efficient manufacturing processes and sourcing wood from certified forestlands",
+    "optionC": "By using renewable energy, implementing product take-back programs, and sourcing certified wood materials",
+    "optionD": "By reducing total energy consumption and using only recycled materials in production",
+    "optionE": "By offsetting carbon emissions and using only locally sourced materials",
+    "answer": "C. By using renewable energy, implementing product take-back programs, and sourcing certified wood materials",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+    "page": "16-24",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "What combination of factors could potentially lead to improved financial performance for a company in this industry while also addressing environmental concerns?",
+    "optionA": "Increasing use of fossil fuels and expanding product lines",
+    "optionB": "Reducing energy consumption, using renewable energy, and developing sustainable products",
+    "optionC": "Outsourcing manufacturing and focusing solely on product design",
+    "optionD": "Investing in conventional grid electricity and expanding global shipping",
+    "optionE": "Increasing production volume and reducing product prices",
+    "answer": "B. Reducing energy consumption, using renewable energy, and developing sustainable products",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+    "page": "16-19",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How can a company in this industry address both customer demand and regulatory requirements while minimizing environmental impact throughout its supply chain?",
+    "optionA": "By focusing solely on price reduction and ignoring environmental concerns",
+    "optionB": "By using only locally sourced materials and limiting product variety",
+    "optionC": "By implementing energy-efficient processes, obtaining product certifications, and sourcing wood from certified forestlands",
+    "optionD": "By increasing production volume and expanding into new markets",
+    "optionE": "By outsourcing all manufacturing to reduce direct environmental impact",
+    "answer": "C. By implementing energy-efficient processes, obtaining product certifications, and sourcing wood from certified forestlands",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+    "page": "16-24",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "What strategy would best address the industry's environmental impacts while also potentially providing new business opportunities?",
+    "optionA": "Focusing exclusively on high-end luxury products",
+    "optionB": "Reducing product variety to streamline manufacturing",
+    "optionC": "Developing 'green building materials' with recycled content, implementing take-back programs, and obtaining forest management certifications",
+    "optionD": "Relocating all manufacturing to countries with less stringent environmental regulations",
+    "optionE": "Discontinuing all wood-based products to eliminate forestry concerns",
+    "answer": "C. Developing 'green building materials' with recycled content, implementing take-back programs, and obtaining forest management certifications",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+    "page": "18-24",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is the concept of 'extended producer responsibility' (EPR) in the context of the Building Products & Furnishings industry?",
+    "optionA": "A strategy to increase product prices",
+    "optionB": "A method to reduce manufacturing costs",
+    "optionC": "An approach to manage product lifecycle impacts, including end-of-life considerations",
+    "optionD": "A marketing technique to promote luxury furnishings",
+    "optionE": "A way to outsource all environmental responsibilities to third parties",
+    "answer": "C. An approach to manage product lifecycle impacts, including end-of-life considerations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+    "page": "19",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "In the context of energy consumption disclosure for the Building Products & Furnishings industry, how is renewable energy defined?",
+    "optionA": "Energy from non-replenishable sources",
+    "optionB": "Energy from sources replenished at a rate greater than or equal to their rate of depletion",
+    "optionC": "Only solar and wind energy",
+    "optionD": "Energy produced exclusively from fossil fuels",
+    "optionE": "Any energy that is not grid electricity",
+    "answer": "B. Energy from sources replenished at a rate greater than or equal to their rate of depletion",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+    "page": "16-17",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What does the term 'remanufactured materials' refer to in the context of end-of-life material recovery in the Building Products & Furnishings industry?",
+    "optionA": "Materials that are simply resold without any processing",
+    "optionB": "Materials that are incinerated for energy recovery",
+    "optionC": "Waste materials reprocessed or treated by manufacturing processes into a final product or component",
+    "optionD": "Materials that are always landfilled",
+    "optionE": "Only materials made from virgin resources",
+    "answer": "C. Waste materials reprocessed or treated by manufacturing processes into a final product or component",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+    "page": "20",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What are 'green building materials' in the Building Products & Furnishings industry?",
+    "optionA": "Materials that are always colored green",
+    "optionB": "Products developed to meet rising consumer and regulatory preference for less-impactful products",
+    "optionC": "Materials exclusively made from recycled plastics",
+    "optionD": "Building products that are more expensive than standard options",
+    "optionE": "Materials that can only be used in eco-friendly buildings",
+    "answer": "B. Products developed to meet rising consumer and regulatory preference for less-impactful products",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+    "page": "18",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might the increasing focus on product lifecycle environmental impacts affect the competitive landscape in the Building Products & Furnishings industry?",
+    "optionA": "It will have no significant impact on competition",
+    "optionB": "It will lead to decreased competition as only large companies can afford sustainable practices",
+    "optionC": "It will drive innovation and create new market opportunities for companies that can effectively manage and reduce their products' environmental impacts",
+    "optionD": "It will result in all companies adopting identical sustainability practices",
+    "optionE": "It will cause a shift towards importing more products from countries with lax environmental regulations",
+    "answer": "C. It will drive innovation and create new market opportunities for companies that can effectively manage and reduce their products' environmental impacts",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+    "page": "18-19",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "What are the potential implications of unsustainable wood sourcing practices for companies in the Building Products & Furnishings industry?",
+    "optionA": "Increased profitability due to lower costs",
+    "optionB": "No significant impact on business operations",
+    "optionC": "Improved relationships with environmental organizations",
+    "optionD": "Reputational damage, regulatory penalties, and potential loss of market share",
+    "optionE": "Guaranteed long-term supply of wood fiber materials",
+    "answer": "D. Reputational damage, regulatory penalties, and potential loss of market share",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+    "page": "22",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might the adoption of Life Cycle Assessment (LCA) and Environmental Product Declarations (EPD) impact product development and marketing strategies in the Building Products & Furnishings industry?",
+    "optionA": "They would have no impact on product development or marketing",
+    "optionB": "They would lead to the discontinuation of all non-environmentally friendly products",
+    "optionC": "They would only affect luxury product lines",
+    "optionD": "They would primarily influence packaging design",
+    "optionE": "They would inform design choices, highlight areas for improvement, and provide quantifiable environmental claims for marketing",
+    "answer": "E. They would inform design choices, highlight areas for improvement, and provide quantifiable environmental claims for marketing",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+    "page": "18-19",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "In the context of energy management, how might the evolving climate change regulations and renewable energy incentives affect the long-term strategy of companies in the Building Products & Furnishings industry?",
+    "optionA": "They will have no impact on long-term strategy",
+    "optionB": "Companies will likely abandon energy-intensive manufacturing processes",
+    "optionC": "It may drive companies to invest in energy efficiency, explore alternative energy sources, and potentially restructure their energy sourcing strategies",
+    "optionD": "Companies will probably relocate all manufacturing to countries with less stringent regulations",
+    "optionE": "The industry will shift entirely to manual production methods to avoid energy concerns",
+    "answer": "C. It may drive companies to invest in energy efficiency, explore alternative energy sources, and potentially restructure their energy sourcing strategies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+    "page": "16-17",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What are the key components that should be included in a company's strategy to assess and manage the environmental impact of products throughout their lifecycle?",
+    "optionA": "Only focus on manufacturing processes",
+    "optionB": "Implement environmentally focused design principles and use sustainability performance standards",
+    "optionC": "Prioritize cost-cutting measures over environmental considerations",
+    "optionD": "Rely solely on customer feedback for product improvements",
+    "optionE": "Outsource all environmental impact assessments to third parties",
+    "answer": "B. Implement environmentally focused design principles and use sustainability performance standards",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "18",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the industry standards, what is the correct approach for calculating the percentage of renewable energy consumed by a company?",
+    "optionA": "Total energy consumption divided by renewable energy consumption",
+    "optionB": "Renewable energy consumption minus grid electricity consumption",
+    "optionC": "Renewable energy consumption divided by total energy consumption",
+    "optionD": "Grid electricity consumption divided by renewable energy consumption",
+    "optionE": "Total energy consumption minus non-renewable energy consumption",
+    "answer": "C. Renewable energy consumption divided by total energy consumption",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "16-17",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the proper procedure for a company to claim renewable electricity generated on-site as part of its renewable energy consumption?",
+    "optionA": "Simply generate the electricity on-site",
+    "optionB": "Sell the generated electricity to the grid",
+    "optionC": "Purchase additional RECs from the market",
+    "optionD": "Retain and retire or cancel the associated RECs or GOs on behalf of the company",
+    "optionE": "Transfer the RECs to a third-party for management",
+    "answer": "D. Retain and retire or cancel the associated RECs or GOs on behalf of the company",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "17",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "When disclosing the percentage of recovered materials recycled, what is the correct way to treat materials incinerated for energy recovery?",
+    "optionA": "Include them as recycled materials",
+    "optionB": "Exclude them from the calculation entirely",
+    "optionC": "Count them as 50% recycled",
+    "optionD": "Include them only if they produce zero emissions",
+    "optionE": "Consider them as reused materials",
+    "answer": "B. Exclude them from the calculation entirely",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "20",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "In what ways could the increasing emphasis on energy management in manufacturing influence the competitive landscape and investment strategies in the Building Products & Furnishings industry?",
+    "optionA": "Energy management will only affect companies with large factories",
+    "optionB": "It will have no impact on investment strategies or competitiveness",
+    "optionC": "The focus on energy management could drive investments in efficient technologies, potentially reshaping competitive advantages based on operational efficiency and sustainability credentials",
+    "optionD": "It will only influence companies producing energy-consuming products",
+    "optionE": "The emphasis will exclusively lead to increased energy costs for all companies",
+    "answer": "C. The focus on energy management could drive investments in efficient technologies, potentially reshaping competitive advantages based on operational efficiency and sustainability credentials",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "16-17",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "In what ways could the increasing focus on sustainable wood sourcing and third-party certifications reshape the supply chain dynamics and competitive landscape of the Building Products & Furnishings industry?",
+    "optionA": "It would have no significant impact on the industry as wood sourcing practices are already optimal",
+    "optionB": "It would only affect companies that exclusively use exotic or rare wood species",
+    "optionC": "It could lead to increased costs and reduced profitability across the industry",
+    "optionD": "It might create new market opportunities, differentiate products, and potentially reshape supplier relationships and sourcing strategies",
+    "optionE": "It would only impact companies selling directly to environmentally conscious consumers",
+    "answer": "D: It might create new market opportunities, differentiate products, and potentially reshape supplier relationships and sourcing strategies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+    "page": "22-24",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT listed as a strategy for managing product lifecycle impacts in the Building Products & Furnishings industry?",
+    "optionA": "Changes in materials selection",
+    "optionB": "Use of recycled materials",
+    "optionC": "Design for product take-back",
+    "optionD": "Optimization of packaging",
+    "optionE": "Implementation of carbon offset programs",
+    "answer": "E. Implementation of carbon offset programs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "18",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a disclosure requirement for wood fiber materials in the Building Products & Furnishings industry?",
+    "optionA": "Total weight of wood fiber materials purchased",
+    "optionB": "Percentage from third-party certified forestlands",
+    "optionC": "Percentage certified to other wood fiber standards",
+    "optionD": "Percentage by standard",
+    "optionE": "Carbon footprint of wood fiber transportation",
+    "answer": "E. Carbon footprint of wood fiber transportation",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "22",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a factor driving demand for sustainable building and furnishings products?",
+    "optionA": "Green building certification programs",
+    "optionB": "Federal procurement criteria",
+    "optionC": "State procurement criteria",
+    "optionD": "Demand from retailers",
+    "optionE": "Social media influencer endorsements",
+    "answer": "E. Social media influencer endorsements",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "18",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a topic covered in the Environmental Product Declarations (EPD) for the Building Products & Furnishings industry?",
+    "optionA": "ISO 14040 standards",
+    "optionB": "ISO 14044 standards",
+    "optionC": "ISO 14025 standards",
+    "optionD": "ISO 21930:2017 for construction products",
+    "optionE": "ASTM E1333 for formaldehyde emissions",
+    "answer": "E. ASTM E1333 for formaldehyde emissions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+    "page": "19",
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  }
+]

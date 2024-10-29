@@ -1,0 +1,167 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing the percentage of renewable energy consumed, which of the following sources should NOT be included in the calculation?",
+    "optionA": "Geothermal energy",
+    "optionB": "Wind energy",
+    "optionC": "Solar energy",
+    "optionD": "Hydroelectric energy",
+    "optionE": "Grid electricity from non-renewable sources",
+    "answer": "E. Grid electricity from non-renewable sources",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Telecommunication Services",
+    "page": "586",
+    "industries": [
+      "b59-telecommunication-services"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When calculating the total energy consumed for disclosure purposes, which of the following should be included?",
+    "optionA": "Only energy purchased from external sources",
+    "optionB": "Only self-generated energy",
+    "optionC": "Energy consumed in previous reporting periods",
+    "optionD": "Energy directly consumed by the entity during the reporting period",
+    "optionE": "Estimated future energy consumption",
+    "answer": "D. Energy directly consumed by the entity during the reporting period",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Telecommunication Services",
+    "page": "585",
+    "industries": [
+      "b59-telecommunication-services"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "For renewable energy from biomass sources to be included in sustainability reporting, which certification is NOT mentioned as acceptable?",
+    "optionA": "Forest Stewardship Council",
+    "optionB": "Sustainable Forest Initiative",
+    "optionC": "Programme for the Endorsement of Forest Certification",
+    "optionD": "American Tree Farm System",
+    "optionE": "International Organization for Standardization (ISO)",
+    "answer": "E. International Organization for Standardization (ISO)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Telecommunication Services",
+    "page": "586",
+    "industries": [
+      "b59-telecommunication-services"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When discussing systems to provide unimpeded service during interruptions, which of the following is NOT mentioned as an example of a disruption in the IFRS guidelines?",
+    "optionA": "Technical failures",
+    "optionB": "Programming errors",
+    "optionC": "Cyber attacks",
+    "optionD": "Weather events",
+    "optionE": "Employee strikes",
+    "answer": "E. Employee strikes",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Telecommunication Services",
+    "page": "588",
+    "industries": [
+      "b59-telecommunication-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When disclosing the Power Usage Effectiveness (PUE) for data centers, what is the correct definition of PUE?",
+    "optionA": "The ratio of renewable energy to total energy consumed",
+    "optionB": "The percentage of grid electricity used in data centers",
+    "optionC": "The ratio of total power used by a data center to power delivered to computing equipment",
+    "optionD": "The amount of energy saved through efficiency measures",
+    "optionE": "The total energy consumed by data centers in gigajoules",
+    "answer": "C. The ratio of total power used by a data center to power delivered to computing equipment",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Telecommunication Services",
+    "page": "587",
+    "industries": [
+      "b59-telecommunication-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When reporting on total energy consumption, which unit of measure should be used according to the IFRS guidelines?",
+    "optionA": "Kilowatt hours (kWh)",
+    "optionB": "Megawatt hours (MWh)",
+    "optionC": "British Thermal Units (BTU)",
+    "optionD": "Gigajoules (GJ)",
+    "optionE": "Terajoules (TJ)",
+    "answer": "D. Gigajoules (GJ)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Telecommunication Services",
+    "page": "585",
+    "industries": [
+      "b59-telecommunication-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating energy consumption from fuels, which calorific value should be used according to the IFRS guidelines?",
+    "optionA": "Lower Heating Values (LHV)",
+    "optionB": "Higher Heating Values (HHV)",
+    "optionC": "Average Heating Values (AHV)",
+    "optionD": "Standardized Heating Values (SHV)",
+    "optionE": "Net Calorific Values (NCV)",
+    "answer": "B. Higher Heating Values (HHV)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Telecommunication Services",
+    "page": "585",
+    "industries": [
+      "b59-telecommunication-services"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What is a key challenge for telecommunication companies when reporting on the environmental footprint of their operations?",
+    "optionA": "Measuring water consumption",
+    "optionB": "Calculating carbon emissions from employee commutes",
+    "optionC": "Balancing increasing energy consumption with improved energy efficiency",
+    "optionD": "Reporting on biodiversity impacts",
+    "optionE": "Quantifying noise pollution from cell towers",
+    "answer": "C. Balancing increasing energy consumption with improved energy efficiency",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Telecommunication Services",
+    "page": "585",
+    "industries": [
+      "b59-telecommunication-services"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When reporting on renewable energy consumption, what specific challenge do telecommunication companies face regarding on-site generated renewable electricity?",
+    "optionA": "Determining the correct unit of measurement",
+    "optionB": "Calculating the cost-effectiveness of renewable sources",
+    "optionC": "Ensuring RECs and GOs are retained and retired on behalf of the entity",
+    "optionD": "Differentiating between solar and wind energy sources",
+    "optionE": "Reporting on the carbon footprint of renewable energy equipment",
+    "answer": "C. Ensuring RECs and GOs are retained and retired on behalf of the entity",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Telecommunication Services",
+    "page": "586",
+    "industries": [
+      "b59-telecommunication-services"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What unique challenge do telecommunication companies face when reporting on systemic risks from technology disruptions?",
+    "optionA": "Calculating the financial impact of cybersecurity breaches",
+    "optionB": "Assessing the environmental impact of network equipment",
+    "optionC": "Reporting on customer privacy concerns",
+    "optionD": "Addressing the increasing physical threats to network infrastructure due to climate change",
+    "optionE": "Measuring the social impact of digital divide",
+    "answer": "D. Addressing the increasing physical threats to network infrastructure due to climate change",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Telecommunication Services",
+    "page": "588",
+    "industries": [
+      "b59-telecommunication-services"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When reporting on business continuity risks, what specific challenge do telecommunication companies face in relation to potential losses?",
+    "optionA": "Calculating the cost of network upgrades",
+    "optionB": "Estimating the amount, probability, and timeframe of potential losses",
+    "optionC": "Determining the impact on customer satisfaction",
+    "optionD": "Assessing the effectiveness of cybersecurity measures",
+    "optionE": "Reporting on the environmental impact of disaster recovery plans",
+    "answer": "B. Estimating the amount, probability, and timeframe of potential losses",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Telecommunication Services",
+    "page": "588",
+    "industries": [
+      "b59-telecommunication-services"
+    ]
+  }
+]

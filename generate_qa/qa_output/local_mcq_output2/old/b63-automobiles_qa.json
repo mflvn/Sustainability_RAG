@@ -1,0 +1,152 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When disclosing the sales-weighted average passenger fleet fuel economy by region, which of the following units of measure is NOT mentioned in the IFRS S2 Climate-related Disclosures for the Automobiles industry?",
+    "optionA": "Miles per gallon (mpg)",
+    "optionB": "Liters per kilometer (L/km)",
+    "optionC": "Grams of CO\u2082 per kilometer (gCO\u2082/km)",
+    "optionD": "Kilometers per liter (km/L)",
+    "optionE": "Miles per liter (mpl)",
+    "answer": "E. Miles per liter (mpl)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Automobiles",
+    "page": "610-611",
+    "industries": [
+      "b63-automobiles"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2, how should an automobile company calculate the average fuel economy of its passenger and light-duty vehicle fleet in the absence of regulatory guidance?",
+    "optionA": "Based on the fuel economy of vehicles manufactured during the reporting period",
+    "optionB": "Based on the fuel economy of vehicles sold during the reporting period, weighted by sales volume",
+    "optionC": "Based on the fuel economy of the top-selling model in each vehicle category",
+    "optionD": "Based on the average fuel economy of all models in the company's lineup",
+    "optionE": "Based on the fuel economy of vehicles in development for future release",
+    "answer": "B. Based on the fuel economy of vehicles sold during the reporting period, weighted by sales volume",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Automobiles",
+    "page": "610",
+    "industries": [
+      "b63-automobiles"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When discussing the strategy for managing fleet fuel economy and emissions risks and opportunities, which of the following is NOT mentioned as a relevant aspect in the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Improvements to existing vehicles and technologies",
+    "optionB": "Introduction of new technologies",
+    "optionC": "Research and development efforts into advanced technologies",
+    "optionD": "Partnerships with peers, academic institutions, and/or customers",
+    "optionE": "Marketing campaigns promoting fuel-efficient vehicles",
+    "answer": "E. Marketing campaigns promoting fuel-efficient vehicles",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Automobiles",
+    "page": "611-612",
+    "industries": [
+      "b63-automobiles"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "According to IFRS S2, which of the following is NOT considered a zero emission vehicle (ZEV) when disclosing the number of vehicles sold?",
+    "optionA": "Battery electric vehicles",
+    "optionB": "Hydrogen fuel cell vehicles",
+    "optionC": "Plug-in hybrid electric vehicles",
+    "optionD": "Vehicles with no tailpipe emissions over their entire lifetime",
+    "optionE": "Vehicles powered by advanced-technology batteries",
+    "answer": "C. Plug-in hybrid electric vehicles",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Automobiles",
+    "page": "611",
+    "industries": [
+      "b63-automobiles"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When disclosing the number of hybrid vehicles sold, which of the following definitions should be used according to IFRS S2?",
+    "optionA": "Vehicles that can only be charged by plugging into an external power source",
+    "optionB": "Vehicles that use only an electric motor for propulsion",
+    "optionC": "Vehicles that can draw propulsion energy from both a consumable fuel and an energy storage device",
+    "optionD": "Vehicles that use hydrogen fuel cells as their primary power source",
+    "optionE": "Vehicles that use compressed natural gas as their primary fuel",
+    "answer": "C. Vehicles that can draw propulsion energy from both a consumable fuel and an energy storage device",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Automobiles",
+    "page": "611",
+    "industries": [
+      "b63-automobiles"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When discussing the strategy for managing fleet fuel economy and emissions risks, which of the following is considered a renewable fuel technology according to IFRS S2?",
+    "optionA": "Diesel",
+    "optionB": "Liquefied petroleum gas (LPG)",
+    "optionC": "Compressed natural gas (CNG)",
+    "optionD": "Hydrogen",
+    "optionE": "Ethanol",
+    "answer": "E. Ethanol",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Automobiles",
+    "page": "612",
+    "industries": [
+      "b63-automobiles"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "Which of the following is a unique challenge for automobile manufacturers when reporting on fuel economy and use-phase emissions according to IFRS S2?",
+    "optionA": "Reporting only on vehicles sold in the domestic market",
+    "optionB": "Calculating emissions based solely on manufacturing processes",
+    "optionC": "Disclosing fleet performance for multiple vehicle categories across different regions",
+    "optionD": "Focusing exclusively on electric vehicle sales",
+    "optionE": "Reporting fuel economy only in miles per gallon",
+    "answer": "C. Disclosing fleet performance for multiple vehicle categories across different regions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Automobiles",
+    "page": "610-611",
+    "industries": [
+      "b63-automobiles"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When reporting on sales-weighted average passenger fleet fuel economy by region, what unique challenge might an automobile manufacturer face if it operates in multiple markets?",
+    "optionA": "Deciding which fuel economy metric to use for global reporting",
+    "optionB": "Calculating the average fuel economy only for the domestic market",
+    "optionC": "Reporting fuel economy only in miles per gallon (mpg)",
+    "optionD": "Ignoring regional differences in fuel economy standards",
+    "optionE": "Using a single global standard for all regions",
+    "answer": "A. Deciding which fuel economy metric to use for global reporting",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Automobiles",
+    "page": "610-611",
+    "industries": [
+      "b63-automobiles"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "What unique challenge does an automobile manufacturer face when discussing its strategy for managing fleet fuel economy and emissions risks and opportunities?",
+    "optionA": "Focusing solely on electric vehicle production",
+    "optionB": "Ignoring emerging technologies in the industry",
+    "optionC": "Balancing improvements in existing vehicles with the introduction of new technologies",
+    "optionD": "Reporting only on fuel efficiency improvements",
+    "optionE": "Discussing only regulatory compliance measures",
+    "answer": "C. Balancing improvements in existing vehicles with the introduction of new technologies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Automobiles",
+    "page": "611-612",
+    "industries": [
+      "b63-automobiles"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "In the context of sustainability reporting for automobile manufacturers, what unique challenge arises when addressing use-phase emissions?",
+    "optionA": "Focusing solely on manufacturing emissions",
+    "optionB": "Ignoring consumer behavior in emissions calculations",
+    "optionC": "Reporting only on electric vehicle emissions",
+    "optionD": "Addressing emissions that occur downstream from manufacturing but are still subject to regulatory focus",
+    "optionE": "Excluding emissions data from the sustainability report",
+    "answer": "D. Addressing emissions that occur downstream from manufacturing but are still subject to regulatory focus",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Automobiles",
+    "page": "610",
+    "industries": [
+      "b63-automobiles"
+    ]
+  }
+]

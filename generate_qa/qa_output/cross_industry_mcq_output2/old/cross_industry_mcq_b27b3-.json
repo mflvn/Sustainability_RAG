@@ -1,0 +1,146 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When reporting on energy consumption for both Drug Retailers and Building Products & Furnishings industries, which of the following is NOT a required disclosure according to IFRS standards?",
+    "optionA": "Total energy consumed",
+    "optionB": "Percentage of grid electricity",
+    "optionC": "Percentage of renewable energy",
+    "optionD": "Energy intensity per square meter of retail/manufacturing space",
+    "optionE": "Higher heating values (HHV) for fuel usage calculations",
+    "answer": "D. Energy intensity per square meter of retail/manufacturing space",
+    "explanation": "Both industries are required to disclose total energy consumed, percentage of grid electricity, and percentage of renewable energy. They also must use higher heating values (HHV) for fuel usage calculations. However, energy intensity per square meter is not explicitly required in the IFRS standards for these industries.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers"
+    ],
+    "pages": [
+      "16-17",
+      "280-281"
+    ],
+    "pairing_explanation": "Drug retailers and building products both require extensive supply chain management and sustainability practices in sourcing and manufacturing.",
+    "industries": [
+      "b27-drug-retailers",
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "In the context of renewable energy reporting for Drug Retailers and Building Products & Furnishings, what is a key requirement for claiming on-site generated renewable electricity according to IFRS standards?",
+    "optionA": "The energy must be sold to the grid",
+    "optionB": "The energy must be used within 24 hours of generation",
+    "optionC": "Renewable Energy Certificates (RECs) must be retained and retired on behalf of the entity",
+    "optionD": "The energy must come from solar sources only",
+    "optionE": "The energy must be reported separately from purchased renewable energy",
+    "answer": "C. Renewable Energy Certificates (RECs) must be retained and retired on behalf of the entity",
+    "explanation": "For both industries, IFRS standards specify that for any renewable electricity generated on-site, any RECs and Guarantees of Origin (GOs) must be retained (i.e., not sold) and retired or cancelled on behalf of the entity in order for the entity to claim them as renewable energy.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers"
+    ],
+    "pages": [
+      "17",
+      "281"
+    ],
+    "pairing_explanation": "Drug retailers and building products both require extensive supply chain management and sustainability practices in sourcing and manufacturing.",
+    "industries": [
+      "b27-drug-retailers",
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of renewable energy consumed for both Drug Retailers and Building Products & Furnishings, which of the following is NOT included in the scope of renewable energy according to IFRS standards?",
+    "optionA": "Renewable fuel consumed by the entity",
+    "optionB": "Renewable energy directly produced by the entity",
+    "optionC": "Renewable energy purchased through a PPA with explicit RECs",
+    "optionD": "The renewable portion of the electricity grid mix outside the entity's control",
+    "optionE": "Green-e Energy Certified utility program purchases",
+    "answer": "D. The renewable portion of the electricity grid mix outside the entity's control",
+    "explanation": "For both industries, IFRS standards explicitly exclude the renewable portion of the electricity grid mix that is outside of the control or influence of the entity from the scope of renewable energy calculations. All other options listed are included in the scope of renewable energy for percentage calculations.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers"
+    ],
+    "pages": [
+      "17",
+      "280-281"
+    ],
+    "pairing_explanation": "Drug retailers and building products both require extensive supply chain management and sustainability practices in sourcing and manufacturing.",
+    "industries": [
+      "b27-drug-retailers",
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "In reporting energy consumption for Drug Retailers and Building Products & Furnishings, what unit of measure is required for disclosing total energy consumed according to IFRS standards?",
+    "optionA": "Kilowatt-hours (kWh)",
+    "optionB": "Megawatt-hours (MWh)",
+    "optionC": "British Thermal Units (BTU)",
+    "optionD": "Gigajoules (GJ)",
+    "optionE": "Therms",
+    "answer": "D. Gigajoules (GJ)",
+    "explanation": "For both Drug Retailers and Building Products & Furnishings industries, IFRS standards require that the total amount of energy consumed be disclosed as an aggregate figure in gigajoules (GJ).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers"
+    ],
+    "pages": [
+      "16",
+      "280"
+    ],
+    "pairing_explanation": "Drug retailers and building products both require extensive supply chain management and sustainability practices in sourcing and manufacturing.",
+    "industries": [
+      "b27-drug-retailers",
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How does the scope of sustainability reporting for energy management differ between Drug Retailers and Building Products & Furnishings industries?",
+    "optionA": "Drug Retailers focus on retail space, while Building Products & Furnishings include manufacturing facilities",
+    "optionB": "Drug Retailers report on prescription energy use, while Building Products & Furnishings report on product lifecycle energy",
+    "optionC": "Drug Retailers include pharmacy-specific energy metrics, while Building Products & Furnishings do not have industry-specific energy metrics",
+    "optionD": "Building Products & Furnishings report on renewable energy, while Drug Retailers do not",
+    "optionE": "There is no significant difference in energy management reporting between the two industries",
+    "answer": "A. Drug Retailers focus on retail space, while Building Products & Furnishings include manufacturing facilities",
+    "explanation": "The main difference in energy management reporting between these industries is the scope of operations covered. Drug Retailers primarily focus on energy consumption in retail spaces, as evidenced by their activity metric of 'Total area of retail space'. In contrast, Building Products & Furnishings industry includes energy consumption in manufacturing facilities, with an activity metric of 'Area of manufacturing facilities'.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers"
+    ],
+    "pages": [
+      "15",
+      "279"
+    ],
+    "pairing_explanation": "Drug retailers and building products both require extensive supply chain management and sustainability practices in sourcing and manufacturing.",
+    "industries": [
+      "b27-drug-retailers",
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "What unique sustainability reporting consideration does the Building Products & Furnishings industry have compared to Drug Retailers, as per IFRS standards?",
+    "optionA": "Reporting on customer medication adherence",
+    "optionB": "Disclosing the number of pharmacists employed",
+    "optionC": "Reporting on wood fiber materials and forestry management",
+    "optionD": "Disclosing the number of prescriptions filled",
+    "optionE": "Reporting on controlled substance management",
+    "answer": "C. Reporting on wood fiber materials and forestry management",
+    "explanation": "The Building Products & Furnishings industry has unique reporting requirements related to wood supply chain management, including disclosures on the total weight of wood fiber materials purchased and the percentage from certified forestlands. This consideration is specific to this industry and not applicable to Drug Retailers.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Building Products & Furnishings",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Drug Retailers"
+    ],
+    "pages": [
+      "22-24",
+      "279-281"
+    ],
+    "pairing_explanation": "Drug retailers and building products both require extensive supply chain management and sustainability practices in sourcing and manufacturing.",
+    "industries": [
+      "b27-drug-retailers",
+      "b3-building-products-and-furnishings"
+    ]
+  }
+]

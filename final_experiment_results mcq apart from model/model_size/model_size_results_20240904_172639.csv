@@ -1,0 +1,7 @@
+Experiment Type,Parameter,Model Name,Model Size (B),Average BLEU Score,Average ROUGE-L Score,Total Questions
+model_size,2b,google/gemma-2b-it,2,0.01919934253518987,0.040964560517007365,272
+model_size,8B,meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,8,0.04642812551932093,0.06837496574789988,272
+model_size,13B,meta-llama/Llama-2-13b-chat-hf,13,0.0192562086753418,0.03901201220463487,272
+model_size,70B,meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,70,0.04851343635845928,0.07089183532176081,272
+model_size,mixtral-8x7B,mistralai/Mixtral-8x7B-Instruct-v0.1,56,0.021695170747566432,0.04491359285272637,272
+model_size,finetuned-8B,dfsf/Meta-Llama-3.1-8B-Instruct-Reference-2024-08-11-16-13-33-bbac2fc3,8,0.0,0.0,272

@@ -1,0 +1,111 @@
+[
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between the Industrial Machinery & Goods and Iron & Steel Producers industries?",
+    "optionA": "Industrial Machinery & Goods has more 'Quantitative' metrics.",
+    "optionB": "Iron & Steel Producers has more 'Quantitative' metrics.",
+    "optionC": "Both industries have the same number of 'Quantitative' metrics.",
+    "optionD": "Neither industry has 'Quantitative' metrics to disclose.",
+    "optionE": "The number of 'Quantitative' metrics cannot be determined from the document.",
+    "answer": "A",
+    "reference_text": [
+      "| Energy Management | (1) Total energy consumed, (2) percent- age grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | RT-IG-130a.1 |",
+      "| Fuel Economy & Emissions in Use-phase | Sales-weighted fleet fuel efficiency for medium- and heavy-duty vehicles | Quantitative | Gallons per 1,000 ton- miles | RT-IG-410a.1 |",
+      "| Fuel Economy & Emissions in Use-phase | Sales-weighted fuel efficiency for non- road equipment | Quantitative | Gallons per hour | RT-IG-410a.2 |",
+      "| Fuel Economy & Emissions in Use-phase | Sales-weighted fuel efficiency for stationary generators | Quantitative | Watts per gallon | RT-IG-410a.3 |",
+      "| Fuel Economy & Emissions in Use-phase | Sales-weighted emissions | Quantitative | Grams per kilowatt-hour | RT-IG-410a.4 |",
+      "| Greenhouse Gas Emissions | Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations | Quantitative | Metric tons (t) CO\u2082-e, Percentage (%) | EM-IS-110a.1 |",
+      "| Energy Management | (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | EM-IS-130a.1 |",
+      "| Energy Management | (1) Total fuel consumed, (2) percentage coal, (3) percentage natural gas, (4) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | EM-IS-130a.2 |",
+      "| Water Management | (1) Total fresh water withdrawn, (2) percentage recycled, (3) percentage in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m\u00b3), Percentage (%) | EM-IS-140a.1 |"
+    ],
+    "pages": [
+      "Page 528",
+      "Page 69"
+    ],
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 1.0
+  },
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Iron & Steel Producers and Industrial Machinery & Goods industries.",
+    "optionA": "Iron & Steel Producers: Discussion of long-term and short-term strategy to manage Scope 1 emissions; Industrial Machinery & Goods: None",
+    "optionB": "Iron & Steel Producers: None; Industrial Machinery & Goods: Discussion of strategies for renewable energy use",
+    "optionC": "Iron & Steel Producers: Discussion of the process for managing iron ore and/or coking coal sourcing risks; Industrial Machinery & Goods: None",
+    "optionD": "Iron & Steel Producers: Discussion of energy management strategies; Industrial Machinery & Goods: Discussion of fleet emissions strategies",
+    "optionE": "Iron & Steel Producers: None; Industrial Machinery & Goods: None",
+    "answer": "A",
+    "reference_text": [
+      "| Greenhouse Gas Emissions | Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a | EM-IS-110a.2 |",
+      "| Supply Chain Management | Discussion of the process for managing iron ore and/or coking coal sourcing risks arising from environmental and social issues | Discussion and Analysis | n/a | EM-IS-430a.1 |",
+      "Note to RT-IG-410a.4 \u2013 The entity shall discuss its strategies and approach to managing fleet fuel economy and emissions risks and opportunities."
+    ],
+    "pages": [
+      "Page 70",
+      "Page 80",
+      "Page 531"
+    ],
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 1.0
+  },
+  {
+    "question": "Which industries require metrics for sales-weighted fuel efficiency, and how does the reporting differ for these metrics between the Iron & Steel Producers and Industrial Machinery & Goods industries?",
+    "optionA": "Only the Industrial Machinery & Goods industry has metrics for sales-weighted fuel efficiency, focusing on different types of vehicles and equipment.",
+    "optionB": "Both industries require metrics for sales-weighted fuel efficiency, but the Iron & Steel Producers focus on stationary equipment.",
+    "optionC": "Iron & Steel Producers report a broader scope of vehicles for sales-weighted fuel efficiency than Industrial Machinery & Goods.",
+    "optionD": "Sales-weighted fuel efficiency is only applicable to Iron & Steel Producers for raw materials transport.",
+    "optionE": "Iron & Steel Producers have no direct metrics for sales-weighted fuel efficiency compared to Industrial Machinery & Goods.",
+    "answer": "A",
+    "reference_text": [
+      "| Fuel Economy & Emissions in Use-phase | Sales-weighted fleet fuel efficiency for medium- and heavy-duty vehicles | Quantitative | Gallons per 1,000 ton- miles | RT-IG-410a.1 |",
+      "RT-IG-410a.2 | Sales-weighted fuel efficiency for non-road equipment | Quantitative | Gallons per hour |",
+      "RT-IG-410a.3 | Sales-weighted fuel efficiency for stationary generators | Quantitative | Watts per gallon |",
+      "Iron and steel companies could face disruptions as a result, or in some cases, may also be subject to regulatory penalties associated with the environmental or social impact of the mining company supplier."
+    ],
+    "pages": [
+      "Page 529",
+      "Page 530",
+      "Page 531",
+      "Page 79"
+    ],
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 1.0
+  },
+  {
+    "question": "What is the common topic between Industrial Machinery & Goods and Iron & Steel Producers industries, and how do their metric categories differ?",
+    "optionA": "Energy Management is a common topic, with only the Industrial Machinery & Goods using quantitative metrics while Iron & Steel Producers use both quantitative and discussion categories.",
+    "optionB": "Greenhouse Gas Emissions are reported in similar ways, with both using only quantitative metrics.",
+    "optionC": "The common topic of Water Management is measured using discussion metrics in the Iron & Steel Producers and quantitative in Industrial Machinery & Goods.",
+    "optionD": "Supply Chain Management is a common topic but is reported through discussion metrics only in Iron & Steel Producers.",
+    "optionE": "Fuel Economy & Emissions is a common topic, and both use quantitative metrics, with Iron & Steel Producers using less detailed metrics.",
+    "answer": "A",
+    "reference_text": [
+      "| Energy Management | (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | RT-IG-130a.1 |",
+      "| Energy Management | (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | EM-IS-130a.1 |",
+      "| Energy Management | (1) Total fuel consumed, (2) percentage coal, (3) percentage natural gas, (4) percentage renewable | Quantitative | Gigajoules (GJ), Percentage (%) | EM-IS-130a.2 |",
+      "| Greenhouse Gas Emissions | Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets | Discussion and Analysis | n/a | EM-IS-110a.2 |"
+    ],
+    "pages": [
+      "Page 529",
+      "Page 530",
+      "Page 75",
+      "Page 76"
+    ],
+    "industries": [
+      "b9-iron-and-steel-producers",
+      "b50-industrial-machinery-and-goods"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 1.0
+  }
+]

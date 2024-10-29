@@ -1,0 +1,146 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When reporting on greenhouse gas emissions, what is a key difference in the disclosure requirements between the Oil & Gas - Midstream and Telecommunication Services industries?",
+    "optionA": "Only Oil & Gas - Midstream companies need to report Scope 1 emissions",
+    "optionB": "Telecommunication Services companies must report the percentage of renewable energy used",
+    "optionC": "Oil & Gas - Midstream companies must disclose the percentage of methane in their Scope 1 emissions",
+    "optionD": "Telecommunication Services companies are required to report Scope 2 emissions",
+    "optionE": "Both industries have identical GHG reporting requirements",
+    "answer": "C: Oil & Gas - Midstream companies must disclose the percentage of methane in their Scope 1 emissions",
+    "explanation": "According to the IFRS S2 Climate-related Disclosures, Oil & Gas - Midstream companies are specifically required to disclose the percentage of methane in their Scope 1 emissions (EM-MD-110a.1). This requirement is not present for Telecommunication Services companies, which focus more on total energy consumption and the percentage of renewable energy used (TC-TL-130a.1).",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Telecommunication Services"
+    ],
+    "pages": [
+      "110",
+      "585-586"
+    ],
+    "pairing_explanation": "Both industries have extensive infrastructure needs and environmental footprints, including land use and emissions from operations.",
+    "industries": [
+      "b12-oil-and-gas-midstream",
+      "b59-telecommunication-services"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "Which of the following is a required disclosure for Telecommunication Services companies but not for Oil & Gas - Midstream companies according to the IFRS S2 Climate-related Disclosures?",
+    "optionA": "Total energy consumed",
+    "optionB": "Percentage of grid electricity used",
+    "optionC": "Greenhouse gas emissions reduction targets",
+    "optionD": "Systems to provide unimpeded service during interruptions",
+    "optionE": "Scope 1 emissions covered under emissions-limiting regulations",
+    "answer": "D: Systems to provide unimpeded service during interruptions",
+    "explanation": "According to the IFRS S2 Climate-related Disclosures, Telecommunication Services companies are required to discuss systems to provide unimpeded service during service interruptions (TC-TL-550a.2). This specific requirement is not present for Oil & Gas - Midstream companies, reflecting the critical nature of continuous service in the telecommunications industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Telecommunication Services"
+    ],
+    "pages": [
+      "109-113",
+      "588"
+    ],
+    "pairing_explanation": "Both industries have extensive infrastructure needs and environmental footprints, including land use and emissions from operations.",
+    "industries": [
+      "b12-oil-and-gas-midstream",
+      "b59-telecommunication-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of renewable energy consumed, what is a key difference between Oil & Gas - Midstream and Telecommunication Services industries?",
+    "optionA": "Only Telecommunication Services can include on-site generated renewable energy",
+    "optionB": "Oil & Gas - Midstream must exclude all biomass sources",
+    "optionC": "Telecommunication Services must include specific criteria for biomass sources",
+    "optionD": "Oil & Gas - Midstream can include all types of renewable energy without restrictions",
+    "optionE": "Both industries calculate renewable energy percentage identically",
+    "answer": "C: Telecommunication Services must include specific criteria for biomass sources",
+    "explanation": "The IFRS S2 Climate-related Disclosures for Telecommunication Services specifically state that for renewable energy from biomass sources, materials must be certified to a third-party standard or meet specific eligibility criteria (TC-TL-130a.1). This detailed requirement for biomass sources is not explicitly mentioned in the Oil & Gas - Midstream disclosures, indicating a more stringent approach for Telecommunication Services in classifying renewable energy from biomass.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Telecommunication Services"
+    ],
+    "pages": [
+      "109-113",
+      "585-587"
+    ],
+    "pairing_explanation": "Both industries have extensive infrastructure needs and environmental footprints, including land use and emissions from operations.",
+    "industries": [
+      "b12-oil-and-gas-midstream",
+      "b59-telecommunication-services"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "What unique metric is suggested for Telecommunication Services companies that is not mentioned for Oil & Gas - Midstream companies in their respective IFRS S2 Climate-related Disclosures?",
+    "optionA": "Percentage of methane emissions",
+    "optionB": "Total energy consumed",
+    "optionC": "Power Usage Effectiveness (PUE) for data centers",
+    "optionD": "Percentage of grid electricity used",
+    "optionE": "Network traffic in petabytes",
+    "answer": "C: Power Usage Effectiveness (PUE) for data centers",
+    "explanation": "The IFRS S2 Climate-related Disclosures for Telecommunication Services suggest that companies may disclose the trailing twelve-month (TTM) weighted average power usage effectiveness (PUE) for their data centers (TC-TL-130a.1). This metric is specific to the telecommunications industry and is not mentioned in the Oil & Gas - Midstream disclosures, reflecting the importance of data center efficiency in the telecommunications sector.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Telecommunication Services"
+    ],
+    "pages": [
+      "109-113",
+      "586-587"
+    ],
+    "pairing_explanation": "Both industries have extensive infrastructure needs and environmental footprints, including land use and emissions from operations.",
+    "industries": [
+      "b12-oil-and-gas-midstream",
+      "b59-telecommunication-services"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "How do the IFRS S2 Climate-related Disclosures differ in addressing physical climate risks for Oil & Gas - Midstream and Telecommunication Services industries?",
+    "optionA": "Only Oil & Gas - Midstream must discuss physical climate risks",
+    "optionB": "Telecommunication Services focus on network resilience, while Oil & Gas - Midstream focus on emissions management",
+    "optionC": "Both industries have identical requirements for physical climate risk disclosure",
+    "optionD": "Oil & Gas - Midstream must quantify financial impacts of physical risks, while Telecommunication Services do not",
+    "optionE": "Telecommunication Services must report on flood risks, while Oil & Gas - Midstream report on drought risks",
+    "answer": "B: Telecommunication Services focus on network resilience, while Oil & Gas - Midstream focus on emissions management",
+    "explanation": "The IFRS S2 Climate-related Disclosures show that Telecommunication Services companies are required to discuss systems to provide unimpeded service during interruptions (TC-TL-550a.2), which includes addressing physical climate risks to network infrastructure. In contrast, the Oil & Gas - Midstream disclosures focus more on emissions management and reduction strategies (EM-MD-110a.2), without specific mention of physical climate risk resilience.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Telecommunication Services"
+    ],
+    "pages": [
+      "111-113",
+      "588"
+    ],
+    "pairing_explanation": "Both industries have extensive infrastructure needs and environmental footprints, including land use and emissions from operations.",
+    "industries": [
+      "b12-oil-and-gas-midstream",
+      "b59-telecommunication-services"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing the activity metrics for Oil & Gas - Midstream and Telecommunication Services industries in their IFRS S2 Climate-related Disclosures, what is a key difference in how they quantify their operational scale?",
+    "optionA": "Oil & Gas - Midstream uses revenue, while Telecommunication Services uses subscriber numbers",
+    "optionB": "Telecommunication Services reports network traffic, while Oil & Gas - Midstream reports transport volume",
+    "optionC": "Oil & Gas - Midstream reports in metric tons, while Telecommunication Services reports in petabytes",
+    "optionD": "Telecommunication Services uses energy consumption, while Oil & Gas - Midstream uses emissions",
+    "optionE": "Both industries use identical metrics to quantify operational scale",
+    "answer": "C: Oil & Gas - Midstream reports in metric tons, while Telecommunication Services reports in petabytes",
+    "explanation": "The activity metrics for Oil & Gas - Midstream include reporting the total metric ton-kilometers of products transported (EM-MD-000.A), while Telecommunication Services report network traffic in petabytes (TC-TL-000.D). This difference reflects the distinct nature of their operations: physical product transport for Oil & Gas - Midstream versus data transmission for Telecommunication Services.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Oil & Gas \u2013 Midstream",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Telecommunication Services"
+    ],
+    "pages": [
+      "108",
+      "584"
+    ],
+    "pairing_explanation": "Both industries have extensive infrastructure needs and environmental footprints, including land use and emissions from operations.",
+    "industries": [
+      "b12-oil-and-gas-midstream",
+      "b59-telecommunication-services"
+    ]
+  }
+]

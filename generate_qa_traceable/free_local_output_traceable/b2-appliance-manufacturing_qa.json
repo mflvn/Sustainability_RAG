@@ -1,0 +1,130 @@
+[
+  {
+    "question": "What does the IFRS require companies to disclose regarding the percentage of eligible products certified to an energy efficiency certification?",
+    "answer": "The entity shall disclose the percentage of its revenue from eligible products certified to an energy efficiency certification. The entity shall calculate the percentage as the revenue from products meeting the requirements for the applicable certification divided by total revenue from products eligible for certification by each certification.",
+    "reference_text": [
+      "CG-AM-410a.1. Percentage of eligible products by revenue certified to the an energy efficiency certification",
+      "1 The entity shall disclose the percentage of its revenue from eligible products certified to an energy efficiency certification.",
+      "1.1 The entity shall calculate the percentage as the revenue from products meeting the requirements for the applicable certification divided by total revenue from products eligible for certification by each certification."
+    ],
+    "pages": [
+      "12"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "question": "How should I calculate the percentage of eligible products certified to an AHAM sustainability standard?",
+    "answer": "The entity shall calculate the percentage as the revenue from products certified to an AHAM sustainability standard divided by total revenue from products eligible for certification to an AHAM sustainability standard.",
+    "reference_text": [
+      "1.2 The entity shall calculate the percentage as the revenue from products certified to an AHAM sustainability standard divided by total revenue from products eligible for certification to an AHAM sustainability standard."
+    ],
+    "pages": [
+      "13"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "question": "What are some examples of AHAM sustainability standards that products can be certified to?",
+    "answer": "The scope of disclosure includes, but is not limited to, products certified to the following AHAM sustainability standards: ANSI/AHAM 7001.2-2015, AHAM 7002-2014, ANSI/AHAM 7003-2016, ANSI/AHAM 7004-2018, ANSI/AHAM 7005-2017, ANSI/AHAM 7006.2-2018, AHAM 7007-2017, AHAM 7008-2018.",
+    "reference_text": [
+      "2 The scope of disclosure includes, but is not limited to, products certified to the following AHAM sustainability standards:",
+      "2.1 ANSI/AHAM 7001.2-2015: Sustainability Standard for Household Refrigeration Appliances",
+      "2.2 AHAM 7002-2014: Sustainability Standard for Household Portable and Floor Care Appliances",
+      "2.3 ANSI/AHAM 7003-2016: Sustainability Standard for Household Clothes Washers",
+      "2.4 ANSI/AHAM 7004-2018: Sustainability Standard for Household Cooking Appliances",
+      "2.5 ANSI/AHAM 7005-2017: Sustainability Standard for Household Clothes Drying Appliances",
+      "2.6 ANSI/AHAM 7006.2-2018: Sustainability Standard for Household Room Air Conditioning Appliances-Second Edition",
+      "2.7 AHAM 7007-2017: Sustainability Standard for Household Microwave Oven Appliances",
+      "2.8 AHAM 7008-2018: Sustainability Standard for Household Dehumidifier Appliances"
+    ],
+    "pages": [
+      "13"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "question": "What targets do I need to discuss for managing products' end-of-life impacts?",
+    "answer": "The entity shall discuss relevant performance measures or targets for the initiative such as the total amount of material recovered and the total amount of material recycled.",
+    "reference_text": [
+      "4.3 Relevant performance measures or targets for the initiative such as the total amount of material recovered and the total amount of material recycled"
+    ],
+    "pages": [
+      "14"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "question": "What does a company in the Appliance Manufacturing industry need to disclose regarding the percentage of eligible products certified to energy efficiency certifications?",
+    "answer": "The entity shall disclose the percentage of its revenue from eligible products certified to an energy efficiency certification. The entity shall calculate the percentage as the revenue from products meeting the requirements for the applicable certification divided by total revenue from products eligible for certification by each certification.",
+    "reference_text": [
+      "CG-AM-410a.1. Percentage of eligible products by revenue certified to the an energy efficiency certification",
+      "1 The entity shall disclose the percentage of its revenue from eligible products certified to an energy efficiency certification.",
+      "1.1 The entity shall calculate the percentage as the revenue from products meeting the requirements for the applicable certification divided by total revenue from products eligible for certification by each certification."
+    ],
+    "pages": [
+      "12"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "question": "Compare and contrast the reporting requirements for the 'Product Lifecycle Environmental Impacts' and 'Activity Metrics' topics in the Appliance Manufacturing industry.",
+    "answer": "For the 'Product Lifecycle Environmental Impacts' topic, companies need to report quantitative metrics like the percentage of eligible products certified to energy efficiency and sustainability standards, as well as provide a discussion on efforts to manage products' end-of-life impacts. For the 'Activity Metrics' topic, companies only need to disclose their annual production numbers quantitatively.",
+    "reference_text": [
+      "Table 1. Sustainability Disclosure Topics & Metrics",
+      "Table 2. Activity Metrics"
+    ],
+    "pages": [
+      "11"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "question": "If a company has products certified to a previous version of an energy efficiency certification, what should it disclose?",
+    "answer": "If the entity has products certified to a previous version of certification requirements, it shall disclose this information, including to which version its products are certified, a breakdown of how many products are certified to that version, and its timeline(s) for achieving certification to the most current version of the requirements.",
+    "reference_text": [
+      "2.1 If the entity has products certified to a previous version of certification requirements, it shall disclose this information, including to which version its products are certified, a breakdown of how many products are certified to that version, and its timeline(s) for achieving certification to the most current version of the requirements."
+    ],
+    "pages": [
+      "12"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "question": "What should a company discuss regarding its participation in extended producer responsibility (EPR) initiatives for managing products' end-of-life impacts?",
+    "answer": "The entity shall discuss its participation in extended producer responsibility (EPR) initiatives, including the following aspects: Whether the entity directly conducts product take-back, recovery, and recycling or if the entity supports infrastructure for product recovery and recycling through joint ventures, partnerships with retailers and others, or by funding research into recycling technologies; Whether the initiative is voluntary or mandatory; Relevant performance measures or targets for the initiative such as the total amount of material recovered and the total amount of material recycled.",
+    "reference_text": [
+      "4 The entity shall discuss its participation in extended producer responsibility (EPR) initiatives, including the following aspects:",
+      "4.1 Whether the entity directly conducts product take-back, recovery, and recycling or if the entity supports infrastructure for product recovery and recycling through joint ventures, partnerships with retailers and others, or by funding research into recycling technologies",
+      "4.2 Whether the initiative is voluntary or mandatory (e.g., in order to maintain compliance with EU Directive 2012/19/EU on waste electrical and electronic equipment (WEEE) or the Japan home appliance recycling law)",
+      "4.3 Relevant performance measures or targets for the initiative such as the total amount of material recovered and the total amount of material recycled"
+    ],
+    "pages": [
+      "14"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  }
+]

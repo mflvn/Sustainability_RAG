@@ -1,0 +1,7 @@
+| TOPIC | METRIC | CATEGORY | UNIT OF MEASURE | CODE |
+|-------|--------|----------|------------------|------|
+| Energy Management in Manufacturing | (1) Total energy consumed, (2) percent- age grid electricity, (3) percentage renewable | Quantitative | Gigajoules (GJ), Percent- age (%) | RR-ST-130a.1 |
+| Water Management in Manufacturing | (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress | Quantitative | Thousand cubic meters (m³), Percent- age (%) | RR-ST-140a.1 |
+| Water Management in Manufacturing | Description of water management risks and discussion of strategies and practi- ces to mitigate those risks | Discussion and Analysis | n/a | RR-ST-140a.2 |
+| Management of Energy Infrastructure Integration & Related Regulations | Description of risks associated with integration of solar energy into existing energy infrastructure and discussion of efforts to manage those risks | Discussion and Analysis | n/a | RR-ST-410a.1 |
+| Management of Energy Infrastructure Integration & Related Regulations | Description of risks and opportunities associated with energy policy and its impact on the integration of solar energy into existing energy infrastructure | Discussion and Analysis | n/a | RR-ST-410a.2 |

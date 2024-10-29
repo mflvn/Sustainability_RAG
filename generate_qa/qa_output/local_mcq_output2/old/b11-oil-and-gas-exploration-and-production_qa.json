@@ -1,0 +1,167 @@
+[
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When calculating the percentage of gross global Scope 1 emissions from methane for EM-EP-110a.1, how should a company perform this calculation?",
+    "optionA": "Divide methane emissions by total CO2 emissions",
+    "optionB": "Divide methane emissions in CO2-e by gross global Scope 1 GHG emissions in CO2-e",
+    "optionC": "Divide methane emissions by total greenhouse gas emissions",
+    "optionD": "Divide methane emissions in CO2-e by Scope 2 emissions",
+    "optionE": "Divide methane emissions by total hydrocarbon production",
+    "answer": "B. Divide methane emissions in CO2-e by gross global Scope 1 GHG emissions in CO2-e",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "94",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "For EM-EP-110a.2, which of the following is NOT considered a source of 'other vented emissions' in the disclosure of gross global Scope 1 emissions?",
+    "optionA": "Venting from crude oil storage tanks",
+    "optionB": "Venting from gas-driven pneumatic devices",
+    "optionC": "Venting from exploratory drilling",
+    "optionD": "Venting from loading racks",
+    "optionE": "Venting from hydrogen plants",
+    "answer": "E. Venting from hydrogen plants",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "96",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "When discussing long-term and short-term strategies to manage Scope 1 emissions in EM-EP-110a.3, which of the following is NOT a required element for disclosing emission reduction targets?",
+    "optionA": "The scope of the emission reduction target",
+    "optionB": "Whether the target is absolute- or intensity-based",
+    "optionC": "The percentage reduction against the base year",
+    "optionD": "The timelines for the reduction activity",
+    "optionE": "The projected financial impact of achieving the target",
+    "answer": "E. The projected financial impact of achieving the target",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "97",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Disclosure Requirements: Questions about specific sustainability disclosure requirements for this industry.",
+    "question": "For EM-EP-140a.4, what is the minimum threshold for determining deterioration in water quality due to an increase in methane concentration between sampling periods?",
+    "optionA": "An increase of more than 2.5 mg/l",
+    "optionB": "An increase of more than 5.0 mg/l",
+    "optionC": "An increase of more than 7.5 mg/l",
+    "optionD": "An increase of more than 10.0 mg/l",
+    "optionE": "Any detectable increase in methane concentration",
+    "answer": "B. An increase of more than 5.0 mg/l",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "101",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the percentage of hydraulically fractured wells with public disclosure of fracturing fluid chemicals (EM-EP-140a.3), how should wells with partial disclosure be treated?",
+    "optionA": "Include them in the numerator as partially disclosed",
+    "optionB": "Exclude them from both numerator and denominator",
+    "optionC": "Include them in the denominator only",
+    "optionD": "Count them as fully disclosed wells",
+    "optionE": "Include only the percentage of chemicals disclosed for each well",
+    "answer": "C: Include them in the denominator only",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "100-101",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "For EM-EP-140a.1, how should an entity determine if a water source is considered 'fresh water' when there is no regulatory definition in the local jurisdiction?",
+    "optionA": "Use the WHO drinking water standards",
+    "optionB": "Consider all surface water as fresh water",
+    "optionC": "Use a threshold of 500 parts per million of dissolved solids",
+    "optionD": "Consider water with less than 1000 parts per million of dissolved solids",
+    "optionE": "Only use water from certified fresh water sources",
+    "answer": "D: Consider water with less than 1000 parts per million of dissolved solids",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "99",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "When calculating the sensitivity of hydrocarbon reserve levels to future price projection scenarios (EM-EP-420a.1), which of the following scenarios is NOT required to be included?",
+    "optionA": "Current Policies Scenario",
+    "optionB": "New Policies Scenario",
+    "optionC": "Sustainable Development Scenario",
+    "optionD": "Stated Policies Scenario",
+    "optionE": "Net Zero Emissions by 2050 Scenario",
+    "answer": "E: Net Zero Emissions by 2050 Scenario",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "103-104",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Metric Calculation: Questions about how to calculate or interpret specific sustainability metrics for this industry.",
+    "question": "In calculating the estimated carbon dioxide emissions embedded in proved hydrocarbon reserves (EM-EP-420a.2), what should be used if entity-specific data for hydrocarbon reserves is not available?",
+    "optionA": "Industry average emissions factors",
+    "optionB": "Estimates based on similar geological formations",
+    "optionC": "Default data from the IPCC Guidelines for National Greenhouse Gas Inventories",
+    "optionD": "Historical emissions data from the entity's operations",
+    "optionE": "Theoretical maximum carbon content for the type of hydrocarbon",
+    "answer": "C: Default data from the IPCC Guidelines for National Greenhouse Gas Inventories",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B",
+    "page": "105",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A company is preparing its sustainability report and needs to disclose its Scope 1 GHG emissions (EM-EP-110a.1). However, it operates in multiple countries with different emissions regulations. How should the company approach the disclosure of emissions covered under emissions-limiting regulations?",
+    "optionA": "Only disclose emissions from the country with the strictest regulations",
+    "optionB": "Average the emissions across all countries",
+    "optionC": "Disclose the total emissions covered under any emissions-limiting regulations, without double-counting",
+    "optionD": "Exclude all emissions from countries without regulations",
+    "optionE": "Only disclose emissions from voluntary emissions-limiting programs",
+    "answer": "C. Disclose the total emissions covered under any emissions-limiting regulations, without double-counting",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "94-95",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "A company is preparing to disclose its investment in renewable energy (EM-EP-420a.3). When considering biomass sources, which of the following is NOT within the scope of renewable energy for this disclosure?",
+    "optionA": "Biomass certified by the Forest Stewardship Council",
+    "optionB": "Biomass certified by the Sustainable Forest Initiative",
+    "optionC": "Biomass considered 'eligible renewables' by the Green-e Energy National Standard",
+    "optionD": "Biomass from uncertified sources",
+    "optionE": "Biomass certified by the Programme for the Endorsement of Forest Certification",
+    "answer": "D. Biomass from uncertified sources",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "106",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "qa_type": "Industry-Specific Challenges: Questions addressing unique sustainability reporting challenges or considerations specific to this industry.",
+    "question": "When discussing how price and demand for hydrocarbons influence capital expenditure strategy (EM-EP-420a.4), which of the following is NOT considered a material factor that should be discussed?",
+    "optionA": "The scope of climate change regulation in different countries and regions",
+    "optionB": "The alignment between climate regulation time horizons and return on capital expenditure time horizons",
+    "optionC": "How the structure of climate regulation (e.g., carbon tax vs. cap-and-trade) may affect price and demand",
+    "optionD": "The impact on different types of reserve expenditures (e.g., development, acquisition, exploration)",
+    "optionE": "The company's marketing strategies for promoting fossil fuels",
+    "answer": "E. The company's marketing strategies for promoting fossil fuels",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "106-107",
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  }
+]

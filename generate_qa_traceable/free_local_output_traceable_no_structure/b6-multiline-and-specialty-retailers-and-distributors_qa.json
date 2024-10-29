@@ -1,0 +1,117 @@
+[
+  {
+    "question": "What does a company need to disclose regarding the percentage of energy consumed that is renewable energy?",
+    "answer": "The entity shall disclose (3) the percentage of energy it consumed that is renewable energy. Renewable energy is defined as energy from sources that are replenished at a rate greater than or equal to their rate of depletion, such as geothermal, wind, solar, hydro, and biomass. The percentage shall be calculated as renewable energy consumption divided by total energy consumption.",
+    "reference_text": [
+      "Renewable energy is defined as energy from sources that are replenished at a rate greater than or equal to their rate of depletion, such as geothermal, wind, solar, hydro, and biomass.",
+      "The entity shall disclose (3) the percentage of energy it consumed that is renewable energy.",
+      "The percentage shall be calculated as renewable energy consumption divided by total energy consumption."
+    ],
+    "pages": [
+      "40",
+      "41"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "question": "What is included in the scope of renewable energy for this disclosure?",
+    "answer": "The scope of renewable energy includes renewable fuel the entity consumed, renewable energy the entity directly produced, and renewable energy the entity purchased, if purchased through a renewable power purchase agreement (PPA) that explicitly includes renewable energy certificates (RECs) or Guarantees of Origin (GOs), a Green-e Energy Certified utility or supplier program, or other green power products that explicitly include RECs or GOs, or for which Green-e Energy Certified RECs are paired with grid electricity.",
+    "reference_text": [
+      "The scope of renewable energy includes renewable fuel the entity consumed, renewable energy the entity directly produced, and renewable energy the entity purchased, if purchased through a renewable power purchase agreement (PPA) that explicitly includes renewable energy certificates (RECs) or Guarantees of Origin (GOs), a Green-e Energy Certified utility or supplier program, or other green power products that explicitly include RECs or GOs, or for which Green-e Energy Certified RECs are paired with grid electricity."
+    ],
+    "pages": [
+      "41"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "question": "What are the requirements for on-site renewable electricity generation to be counted as renewable energy?",
+    "answer": "For any renewable electricity generated on-site, any RECs and GOs must be retained (i.e., not sold) and retired or cancelled on behalf of the entity in order for the entity to claim them as renewable energy.",
+    "reference_text": [
+      "For any renewable electricity generated on-site, any RECs and GOs must be retained (i.e., not sold) and retired or cancelled on behalf of the entity in order for the entity to claim them as renewable energy."
+    ],
+    "pages": [
+      "41"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "question": "What are the limitations on biomass sources that can be counted as renewable energy?",
+    "answer": "For the purposes of this disclosure, the scope of renewable energy from biomass sources is limited to the following: Energy from biomass sources is limited to materials certified to a third-party standard (e.g., Forest Stewardship Council, Sustainable Forest Initiative, Programme for the Endorsement of Forest Certification, or American Tree Farm System), materials considered eligible sources of supply according to the Green-e Framework for Renewable Energy Certification, Version 1.0 (2017) or Green-e regional standards, and/or materials that are eligible for an applicable state renewable portfolio standard.",
+    "reference_text": [
+      "For the purposes of this disclosure, the scope of renewable energy from biomass sources is limited to the following: Energy from biomass sources is limited to materials certified to a third-party standard (e.g., Forest Stewardship Council, Sustainable Forest Initiative, Programme for the Endorsement of Forest Certification, or American Tree Farm System), materials considered eligible sources of supply according to the Green-e Framework for Renewable Energy Certification, Version 1.0 (2017) or Green-e regional standards, and/or materials that are eligible for an applicable state renewable portfolio standard."
+    ],
+    "pages": [
+      "41"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "question": "According to the IFRS standards, what must a multiline or specialty retailer include in the scope of its reported energy consumption?",
+    "answer": "The scope of energy consumption includes energy from all sources, including energy purchased from sources external to the entity and energy produced by the entity itself (self-generated). For example, direct fuel usage, purchased electricity, and heating, cooling, and steam energy are all included within the scope of energy consumption.",
+    "reference_text": [
+      "The scope of energy consumption includes energy from all sources, including energy purchased from sources external to the entity and energy produced by the entity itself (self-generated). For example, direct fuel usage, purchased electricity, and heating, cooling, and steam energy are all included within the scope of energy consumption."
+    ],
+    "pages": [
+      "40"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "question": "How should a multiline or specialty retailer calculate the percentage of renewable energy it consumes according to the IFRS standards?",
+    "answer": "The percentage shall be calculated as renewable energy consumption divided by total energy consumption.",
+    "reference_text": [
+      "The percentage shall be calculated as renewable energy consumption divided by total energy consumption."
+    ],
+    "pages": [
+      "40"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "question": "What types of biomass sources are considered renewable energy according to the IFRS standards for multiline and specialty retailers?",
+    "answer": "For the purposes of this disclosure, the scope of renewable energy from biomass sources is limited to the following: Energy from biomass sources is limited to materials certified to a third-party standard (e.g., Forest Stewardship Council, Sustainable Forest Initiative, Programme for the Endorsement of Forest Certification, or American Tree Farm System), materials considered eligible sources of supply according to the Green-e Framework for Renewable Energy Certification, Version 1.0 (2017) or Green-e regional standards, and/or materials that are eligible for an applicable state renewable portfolio standard.",
+    "reference_text": [
+      "For the purposes of this disclosure, the scope of renewable energy from biomass sources is limited to the following: Energy from biomass sources is limited to materials certified to a third-party standard (e.g., Forest Stewardship Council, Sustainable Forest Initiative, Programme for the Endorsement of Forest Certification, or American Tree Farm System), materials considered eligible sources of supply according to the Green-e Framework for Renewable Energy Certification, Version 1.0 (2017) or Green-e regional standards, and/or materials that are eligible for an applicable state renewable portfolio standard."
+    ],
+    "pages": [
+      "41"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  },
+  {
+    "question": "What are some key characteristics of the multiline and specialty retailers & distributors industry according to the industry description?",
+    "answer": "Common to these companies (except for the distribution segment) is that they manage global supply chains to anticipate consumer demands, keep costs low, and keep products stocked in their brick-and-mortar storefronts. This is a highly competitive industry, in which each company category generally has a small number of key players, characterized by generally low margins. The relatively substitutable nature of retail makes companies in this industry especially susceptible to reputational risks.",
+    "reference_text": [
+      "Common to these companies (except for the distribution segment) is that they manage global supply chains to anticipate consumer demands, keep costs low, and keep products stocked in their brick-and-mortar storefronts. This is a highly competitive industry, in which each company category generally has a small number of key players, characterized by generally low margins. The relatively substitutable nature of retail makes companies in this industry especially susceptible to reputational risks."
+    ],
+    "pages": [
+      "39"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b6-multiline-and-specialty-retailers-and-distributors"
+    ]
+  }
+]

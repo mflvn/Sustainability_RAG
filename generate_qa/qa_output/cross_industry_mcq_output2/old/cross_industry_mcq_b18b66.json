@@ -1,0 +1,146 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "In comparing the reporting requirements for Investment Banking & Brokerage and Marine Transportation industries, which of the following metrics is specifically required for the Investment Banking & Brokerage industry but not for the Marine Transportation industry?",
+    "optionA": "Gross global Scope 1 emissions",
+    "optionB": "Revenue from transactions incorporating ESG factors",
+    "optionC": "Total energy consumed",
+    "optionD": "Number of vessels in total shipping fleet",
+    "optionE": "Discussion of long-term and short-term strategy to manage emissions",
+    "answer": "B. Revenue from transactions incorporating ESG factors",
+    "explanation": "The Investment Banking & Brokerage industry is specifically required to report on 'Revenue from (1) underwriting, (2) advisory, and (3) securitization transactions incorporating integration of environmental, social, and governance (ESG) factors, by industry' (FN-IB-410a.1). This metric is not required for the Marine Transportation industry. Both industries are required to report on Scope 1 emissions, total energy consumed, and strategies to manage emissions, while the number of vessels is specific to Marine Transportation.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Investment Banking & Brokerage",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Marine Transportation"
+    ],
+    "pages": [
+      "176",
+      "623-624"
+    ],
+    "pairing_explanation": "Investment decisions in sectors like marine transportation, which have significant environmental impacts, drive sustainability considerations in finance.",
+    "industries": [
+      "b18-investment-banking-and-brokerage",
+      "b66-marine-transportation"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When preparing sustainability reports for both Investment Banking & Brokerage and Marine Transportation industries, which of the following metrics is required to be reported by both industries?",
+    "optionA": "Average Energy Efficiency Design Index (EEDI) for new ships",
+    "optionB": "Number and value of underwriting transactions",
+    "optionC": "Gross global Scope 1 emissions",
+    "optionD": "Revenue from advisory services incorporating ESG factors",
+    "optionE": "Number of shipboard employees",
+    "answer": "C. Gross global Scope 1 emissions",
+    "explanation": "Both the Investment Banking & Brokerage and Marine Transportation industries are required to report on gross global Scope 1 emissions. This is evident from the metrics TR-MT-110a.1 for Marine Transportation and the requirement for Investment Banking & Brokerage to report on absolute gross Scope 1 emissions as part of their transition risk exposure (FN-IB-1). The other options are specific to only one of the industries or not required at all.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Investment Banking & Brokerage",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Marine Transportation"
+    ],
+    "pages": [
+      "181-182",
+      "625-626"
+    ],
+    "pairing_explanation": "Investment decisions in sectors like marine transportation, which have significant environmental impacts, drive sustainability considerations in finance.",
+    "industries": [
+      "b18-investment-banking-and-brokerage",
+      "b66-marine-transportation"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "A sustainability reporting team is preparing reports for both an investment bank and a marine transportation company. When calculating Scope 1 emissions for both companies, which of the following statements is correct?",
+    "optionA": "Only the marine transportation company needs to report Scope 1 emissions",
+    "optionB": "The investment bank should use a different calculation methodology than the marine transportation company",
+    "optionC": "Both companies should use the GHG Protocol methodology, but the investment bank must also include facilitated emissions",
+    "optionD": "Both companies should calculate and report Scope 1 emissions using the same basic methodology as outlined in the GHG Protocol",
+    "optionE": "The investment bank should only report Scope 3 emissions from its investments",
+    "answer": "D. Both companies should calculate and report Scope 1 emissions using the same basic methodology as outlined in the GHG Protocol",
+    "explanation": "Both the Investment Banking & Brokerage and Marine Transportation industries are required to calculate and report Scope 1 emissions using the methodology contained in The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (GHG Protocol). This is specified in the reporting requirements for both industries. While the investment bank also needs to report on facilitated emissions, this is separate from its own Scope 1 emissions calculation.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Investment Banking & Brokerage",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Marine Transportation"
+    ],
+    "pages": [
+      "181-182",
+      "625-626"
+    ],
+    "pairing_explanation": "Investment decisions in sectors like marine transportation, which have significant environmental impacts, drive sustainability considerations in finance.",
+    "industries": [
+      "b18-investment-banking-and-brokerage",
+      "b66-marine-transportation"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When preparing sustainability reports for an investment bank and a marine transportation company, which of the following metrics would require fundamentally different calculation methodologies for each industry?",
+    "optionA": "Total energy consumed",
+    "optionB": "Gross global Scope 1 emissions",
+    "optionC": "Percentage of renewable energy consumed",
+    "optionD": "Revenue associated with environmental factors",
+    "optionE": "Discussion of long-term strategy to manage emissions",
+    "answer": "D. Revenue associated with environmental factors",
+    "explanation": "The calculation of revenue associated with environmental factors would differ significantly between the two industries. For Investment Banking & Brokerage, this involves calculating revenue from transactions incorporating ESG factors (FN-IB-410a.1). For Marine Transportation, there is no direct equivalent metric. Other metrics like total energy consumed, Scope 1 emissions, and percentage of renewable energy would use similar calculation methodologies across both industries, while the discussion of long-term strategy is a qualitative metric for both.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Investment Banking & Brokerage",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Marine Transportation"
+    ],
+    "pages": [
+      "176-177",
+      "623-629"
+    ],
+    "pairing_explanation": "Investment decisions in sectors like marine transportation, which have significant environmental impacts, drive sustainability considerations in finance.",
+    "industries": [
+      "b18-investment-banking-and-brokerage",
+      "b66-marine-transportation"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing the sustainability reporting requirements for Investment Banking & Brokerage and Marine Transportation industries, which of the following statements is most accurate?",
+    "optionA": "The Marine Transportation industry has more stringent emissions reporting requirements",
+    "optionB": "The Investment Banking & Brokerage industry focuses more on indirect emissions through financed activities",
+    "optionC": "The Marine Transportation industry is not required to report on energy efficiency",
+    "optionD": "The Investment Banking & Brokerage industry has no requirements related to renewable energy use",
+    "optionE": "Both industries have identical reporting requirements for Scope 1, 2, and 3 emissions",
+    "answer": "B. The Investment Banking & Brokerage industry focuses more on indirect emissions through financed activities",
+    "explanation": "The Investment Banking & Brokerage industry has specific requirements to report on 'facilitated emissions', which are the emissions attributed to their capital markets and financial advisory services (FN-IB-1 and FN-IB-2). This focus on indirect emissions through financed activities is not present in the Marine Transportation industry's requirements. While both industries must report on their own emissions, the Investment Banking industry has this additional layer of reporting on the emissions they indirectly contribute to through their financial activities.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Investment Banking & Brokerage",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Marine Transportation"
+    ],
+    "pages": [
+      "181-183",
+      "625-629"
+    ],
+    "pairing_explanation": "Investment decisions in sectors like marine transportation, which have significant environmental impacts, drive sustainability considerations in finance.",
+    "industries": [
+      "b18-investment-banking-and-brokerage",
+      "b66-marine-transportation"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "A sustainability consultant is advising both an investment bank and a marine transportation company. Which of the following statements about their respective sustainability reporting requirements is correct?",
+    "optionA": "Only the marine transportation company needs to report on energy efficiency",
+    "optionB": "The investment bank has more detailed requirements for reporting on greenhouse gas emissions",
+    "optionC": "Only the investment bank needs to disclose its approach to incorporating ESG factors in its activities",
+    "optionD": "The marine transportation company has no requirements related to renewable energy use",
+    "optionE": "Both companies have identical requirements for reporting on their long-term emission reduction strategies",
+    "answer": "C. Only the investment bank needs to disclose its approach to incorporating ESG factors in its activities",
+    "explanation": "The Investment Banking & Brokerage industry has a specific requirement (FN-IB-410a.3) to describe its approach to incorporation of environmental, social, and governance (ESG) factors in investment banking and brokerage activities. This requirement is not present in the Marine Transportation industry standards. Both industries have requirements related to energy efficiency, greenhouse gas emissions, renewable energy use, and long-term emission reduction strategies, but the specific focus on ESG factor incorporation is unique to the Investment Banking & Brokerage industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Investment Banking & Brokerage",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Marine Transportation"
+    ],
+    "pages": [
+      "178-180",
+      "623-629"
+    ],
+    "pairing_explanation": "Investment decisions in sectors like marine transportation, which have significant environmental impacts, drive sustainability considerations in finance.",
+    "industries": [
+      "b18-investment-banking-and-brokerage",
+      "b66-marine-transportation"
+    ]
+  }
+]

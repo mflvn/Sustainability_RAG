@@ -1,0 +1,104 @@
+[
+  {
+    "question": "What does the IFRS require companies to disclose regarding the incorporation of ESG factors in credit analysis for the Commercial Banks industry?",
+    "answer": "The entity shall describe its approach to the incorporating environmental, social, and governance (ESG) factors into its credit analysis. The scope of disclosure shall include commercial and industrial lending as well as project finance. The entity shall describe policies that determine its approach to the incorporation of ESG factors in credit analysis. The entity shall discuss how it incorporates ESG factors when estimating credit losses over the contractual term of the entity's financial assets. The entity shall describe its approach to implementation of the aspects of the entity's ESG incorporation practices. The entity shall describe its oversight/accountability approach to the incorporation of ESG factors. The entity shall discuss whether it conducts scenario analysis and/or modeling in which the risk profile of future ESG trends is calculated at the portfolio level of commercial and industrial credit exposure. The entity shall discuss ESG trends that it views as broadly applicable in terms of their impact on sectors and industries, as well as the trends it views as sector- or industry-specific. The entity shall describe significant concentrations of credit exposure to ESG factors, including, but not limited to, carbon-related assets, water-stressed regions, and cybersecurity risks. The entity shall describe how ESG factors are incorporated in the assessment of and influence the entity's perspectives on traditional macroeconomic factors, traditional microeconomic factors, overall creditworthiness of a borrower, maturity or tenor of a loan, expected loss, including probability of default, exposure at default, and loss given default, and value of posted collateral. The entity may disclose additional quantitative measures related to its approach to the incorporation of ESG factors in credit analysis.",
+    "reference_text": [
+      "The entity shall describe its approach to the incorporating environmental, social, and governance (ESG) factors into its credit analysis.",
+      "The scope of disclosure shall include commercial and industrial lending as well as project finance.",
+      "The entity shall describe policies that determine its approach to the incorporation of ESG factors in credit analysis.",
+      "The entity shall discuss how it incorporates ESG factors when estimating credit losses over the contractual term of the entity's financial assets.",
+      "The entity shall describe its approach to implementation of the aspects of the entity's ESG incorporation practices.",
+      "The entity shall describe its oversight/accountability approach to the incorporation of ESG factors.",
+      "The entity shall discuss whether it conducts scenario analysis and/or modeling in which the risk profile of future ESG trends is calculated at the portfolio level of commercial and industrial credit exposure.",
+      "The entity shall discuss ESG trends that it views as broadly applicable in terms of their impact on sectors and industries, as well as the trends it views as sector- or industry-specific.",
+      "The entity shall describe significant concentrations of credit exposure to ESG factors, including, but not limited to, carbon-related assets, water-stressed regions, and cybersecurity risks.",
+      "The entity shall describe how ESG factors are incorporated in the assessment of and influence the entity's perspectives on traditional macroeconomic factors, traditional microeconomic factors, overall creditworthiness of a borrower, maturity or tenor of a loan, expected loss, including probability of default, exposure at default, and loss given default, and value of posted collateral.",
+      "The entity may disclose additional quantitative measures related to its approach to the incorporation of ESG factors in credit analysis."
+    ],
+    "pages": [
+      "146",
+      "147",
+      "148"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0.5,
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "question": "Describe the calculation method for the gross exposure to carbon-related industries metric for the Commercial Banks industry.",
+    "answer": "The entity shall disclose its gross exposure to carbon-related industries, by industry. For funded amounts, gross exposure is defined as the funded carrying amounts expressed in the presentation currency of the entity's financial statements whether prepared in accordance with IFRS Accounting Standards or other GAAP. Carrying amount means the amount before subtracting the loss allowance, when applicable. For undrawn loan commitments, gross exposure is defined as the full amount of the commitment expressed in the presentation currency of the entity's financial statements. For derivatives, gross exposure is defined as the contractual amounts to be exchanged in a derivative for which gross cash flows are exchanged, or the net amounts in a derivative for which net cash flows are exchanged, as applicable, expressed in the presentation currency of the entity's financial statements. Carbon-related industries are industries responsible for relatively high direct or indirect GHG emissions. Carbon related industries include but are not limited to: Oil, Gas & Consumable Fuels; Chemicals, Construction Materials, Metals & Mining, and Paper & Forest Products; Air Freight & Logistics, Airlines, Marine, and Road & Rail; Automobiles; Homebuilding; Beverages and Food Products; Electric Utilities, Gas Utilities and Multi Utilities; Real Estate Management & Development. The entity shall use the Global Industry Classification Standard (GICS) 6-digit industry-level code for classifying counterparties. The entity shall disclose the classification standard used if different from GICS.",
+    "reference_text": [
+      "The entity shall disclose its gross exposure to carbon-related industries, by industry.",
+      "For funded amounts, gross exposure is defined as the funded carrying amounts expressed in the presentation currency of the entity's financial statements whether prepared in accordance with IFRS Accounting Standards or other GAAP.",
+      "Carrying amount means the amount before subtracting the loss allowance, when applicable.",
+      "For undrawn loan commitments, gross exposure is defined as the full amount of the commitment expressed in the presentation currency of the entity's financial statements.",
+      "For derivatives, gross exposure is defined as the contractual amounts to be exchanged in a derivative for which gross cash flows are exchanged, or the net amounts in a derivative for which net cash flows are exchanged, as applicable, expressed in the presentation currency of the entity's financial statements.",
+      "Carbon-related industries are industries responsible for relatively high direct or indirect GHG emissions.",
+      "Carbon related industries include but are not limited to: Oil, Gas & Consumable Fuels; Chemicals, Construction Materials, Metals & Mining, and Paper & Forest Products; Air Freight & Logistics, Airlines, Marine, and Road & Rail; Automobiles; Homebuilding; Beverages and Food Products; Electric Utilities, Gas Utilities and Multi Utilities; Real Estate Management & Development.",
+      "The entity shall use the Global Industry Classification Standard (GICS) 6-digit industry-level code for classifying counterparties.",
+      "The entity shall disclose the classification standard used if different from GICS."
+    ],
+    "pages": [
+      "149",
+      "150"
+    ],
+    "qa_type": "single_hop",
+    "temperature": 0.5,
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "question": "What do I need to discuss or disclose for the 'Incorporation of Environmental, Social, and Governance Factors in Credit Analysis' topic in the Commercial Banks industry?",
+    "answer": "1. The entity shall describe its approach to the incorporating environmental, social, and governance (ESG) factors into its credit analysis.\n\n   1.1 The definition of incorporation of ESG factors is aligned with that of the Global Sustainable Investment Alliance (GSIA) and includes the use of ESG information in the investment decision-making processes.\n\n   1.2 Examples of ESG factors/issues are provided in the PRI Reporting Framework \u2013 Main definitions 2018, section \"ESG issues.\"\n\n   1.3 Credit analysis is defined as method to calculate the creditworthiness of a business or organization, i.e., their ability to honor debt obligations, which seeks to identify the appropriate level of default risk associated with financing such business, organization, or project.\n\n2. The scope of disclosure shall include commercial and industrial lending as well as project finance.\n\n3. The entity shall describe policies that determine its approach to the incorporation of ESG factors in credit analysis.\n\n4. The entity shall discuss how it incorporates ESG factors when estimating credit losses over the contractual term of the entity's financial assets.\n\n5. The entity shall describe its approach to implementation of the aspects of the entity's ESG incorporation practices.\n\n6. The entity shall describe its oversight/accountability approach to the incorporation of ESG factors.\n\n7. The entity shall discuss whether it conducts scenario analysis and/or modeling in which the risk profile of future ESG trends is calculated at the portfolio level of commercial and industrial credit exposure.\n\n8. The entity shall discuss ESG trends that it views as broadly applicable in terms of their impact on sectors and industries, as well as the trends it views as sector- or industry-specific.\n\n9. The entity shall describe significant concentrations of credit exposure to ESG factors, including, but not limited to, carbon-related assets, water-stressed regions, and cybersecurity risks.\n\n10. The entity shall describe how ESG factors are incorporated in the assessment of and influence the entity's perspectives on:\n\n11. The entity may disclose additional quantitative measures related to its approach to the incorporation of ESG factors in credit analysis.",
+    "reference_text": [
+      "1. The entity shall describe its approach to the incorporating environmental, social, and governance (ESG) factors into its credit analysis.",
+      "   1.1 The definition of incorporation of ESG factors is aligned with that of the Global Sustainable Investment Alliance (GSIA) and includes the use of ESG information in the investment decision-making processes.",
+      "   1.2 Examples of ESG factors/issues are provided in the PRI Reporting Framework \u2013 Main definitions 2018, section \"ESG issues.\"",
+      "   1.3 Credit analysis is defined as method to calculate the creditworthiness of a business or organization, i.e., their ability to honor debt obligations, which seeks to identify the appropriate level of default risk associated with financing such business, organization, or project.",
+      "2. The scope of disclosure shall include commercial and industrial lending as well as project finance.",
+      "3. The entity shall describe policies that determine its approach to the incorporation of ESG factors in credit analysis.",
+      "4. The entity shall discuss how it incorporates ESG factors when estimating credit losses over the contractual term of the entity's financial assets.",
+      "5. The entity shall describe its approach to implementation of the aspects of the entity's ESG incorporation practices.",
+      "6. The entity shall describe its oversight/accountability approach to the incorporation of ESG factors.",
+      "7. The entity shall discuss whether it conducts scenario analysis and/or modeling in which the risk profile of future ESG trends is calculated at the portfolio level of commercial and industrial credit exposure.",
+      "8. The entity shall discuss ESG trends that it views as broadly applicable in terms of their impact on sectors and industries, as well as the trends it views as sector- or industry-specific.",
+      "9. The entity shall describe significant concentrations of credit exposure to ESG factors, including, but not limited to, carbon-related assets, water-stressed regions, and cybersecurity risks.",
+      "10. The entity shall describe how ESG factors are incorporated in the assessment of and influence the entity's perspectives on:",
+      "11. The entity may disclose additional quantitative measures related to its approach to the incorporation of ESG factors in credit analysis."
+    ],
+    "pages": [
+      "146",
+      "147",
+      "148"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0.5,
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  },
+  {
+    "question": "What is the category of the 'Gross exposure to carbon-related industries' metric in the Commercial Banks industry and how should this metric be calculated?",
+    "answer": "1. The entity shall disclose its gross exposure to carbon-related industries, by industry.\n\n   1.1 For funded amounts, gross exposure is defined as the funded carrying amounts expressed in the presentation currency of the entity's financial statements whether prepared in accordance with IFRS Accounting Standards or other GAAP.\n\n      1.1.1 Carrying amount means the amount before subtracting the loss allowance, when applicable.\n\n   1.2 For undrawn loan commitments, gross exposure is defined as the full amount of the commitment expressed in the presentation currency of the entity's financial statements.\n\n   1.3 For derivatives, gross exposure is defined as the contractual amounts to be exchanged in a derivative for which gross cash flows are exchanged, or the net amounts in a derivative for which net cash flows are exchanged, as applicable, expressed in the presentation currency of the entity's financial statements.\n\n   1.4 Carbon-related industries are industries responsible for relatively high direct or indirect GHG emissions.",
+    "reference_text": [
+      "1. The entity shall disclose its gross exposure to carbon-related industries, by industry.",
+      "   1.1 For funded amounts, gross exposure is defined as the funded carrying amounts expressed in the presentation currency of the entity's financial statements whether prepared in accordance with IFRS Accounting Standards or other GAAP.",
+      "      1.1.1 Carrying amount means the amount before subtracting the loss allowance, when applicable.",
+      "   1.2 For undrawn loan commitments, gross exposure is defined as the full amount of the commitment expressed in the presentation currency of the entity's financial statements.",
+      "   1.3 For derivatives, gross exposure is defined as the contractual amounts to be exchanged in a derivative for which gross cash flows are exchanged, or the net amounts in a derivative for which net cash flows are exchanged, as applicable, expressed in the presentation currency of the entity's financial statements.",
+      "   1.4 Carbon-related industries are industries responsible for relatively high direct or indirect GHG emissions."
+    ],
+    "pages": [
+      "149",
+      "150"
+    ],
+    "qa_type": "multi_hop",
+    "temperature": 0.5,
+    "industries": [
+      "b16-commercial-banks"
+    ]
+  }
+]

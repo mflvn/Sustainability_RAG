@@ -1,0 +1,212 @@
+[
+  {
+    "question": "For the 'Wood Supply Chain Management' topic, what metric should a company in the Building Products & Furnishings industry use for 'percentage from third-party certified forestlands' and how should this metric be calculated?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": [
+      "b3-building-products-and-furnishings"
+    ]
+  },
+  {
+    "question": "What is the code of the metric related to gross global Scope 1 emissions in the Chemicals industry and how should this metric be calculated?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": [
+      "b47-chemicals"
+    ]
+  },
+  {
+    "question": "What is the category of the metric related to the percentage of raw materials third-party certified to an environmental and/or social sustainability standard in the Apparel, Accessories & Footwear industry?",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "B",
+    "is_correct": true,
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "question": "On what page can I find details about the 'Deadweight tonnage' activity metric for the Marine Transportation industry?",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "B",
+    "is_correct": true,
+    "industries": [
+      "b66-marine-transportation"
+    ]
+  },
+  {
+    "question": "What is the category of the metric 'Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations' in the Oil & Gas - Exploration & Production industry and how should this metric be calculated?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": [
+      "b11-oil-and-gas-exploration-and-production"
+    ]
+  },
+  {
+    "question": "What is the category of the metric 'Gross global Scope 1 emissions from refrigerants' in the Food Retailers & Distributors industry and how should this metric be disclosed?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "question": "What is the category of the metric 'Total energy consumed' in the Software & IT Services industry and how should this metric be calculated?",
+    "type": "mcq",
+    "correct_answer": "C",
+    "model_answer": "C",
+    "is_correct": true,
+    "industries": [
+      "b58-software-and-it-services"
+    ]
+  },
+  {
+    "question": "What is the unit of measure for the 'Total water withdrawn' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry?",
+    "type": "mcq",
+    "correct_answer": "D",
+    "model_answer": "D",
+    "is_correct": true,
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ]
+  },
+  {
+    "question": "For the Internet Media & Services industry, what is the category of the metric related to the discussion of the integration of environmental considerations into strategic planning for data center needs?",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "B",
+    "is_correct": true,
+    "industries": [
+      "b56-internet-media-and-services"
+    ]
+  },
+  {
+    "question": "What is the code of the 'Total area of gaming floor' metric in the Casinos & Gaming industry and how should this metric be disclosed?",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "B",
+    "is_correct": true,
+    "industries": [
+      "b51-casinos-and-gaming"
+    ]
+  },
+  {
+    "question": "Can you provide for me the unit of measure I should use for the annual production metric in the Appliance Manufacturing industry?",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "B",
+    "is_correct": true,
+    "industries": [
+      "b2-appliance-manufacturing"
+    ]
+  },
+  {
+    "question": "What is the category of the 'Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets' metric in the Oil and Gas - Midstream industry and how should this metric be disclosed?",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "B",
+    "is_correct": true,
+    "industries": [
+      "b12-oil-and-gas-midstream"
+    ]
+  },
+  {
+    "question": "What is the code for the 'Weight of end-of-life products and e-waste recovered, percentage recycled' metric in the Electronic Manufacturing Services & Original Design Manufacturing industry?",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "B",
+    "is_correct": true,
+    "industries": [
+      "b54-electronic-manufacturing-services-and-original-design"
+    ]
+  },
+  {
+    "question": "What is the code of the 'Average Energy Efficiency Design Index (EEDI) for new ships' metric in the Cruise Lines industry and how should this metric be calculated?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": [
+      "b65-cruise-lines"
+    ]
+  },
+  {
+    "question": "What is the unit of measure for the total energy consumed metric in the Health Care Delivery industry?",
+    "type": "mcq",
+    "correct_answer": "C",
+    "model_answer": "C",
+    "is_correct": true,
+    "industries": [
+      "b28-health-care-delivery"
+    ]
+  },
+  {
+    "question": "What is the code of the metric 'Number of performance issues' in the Software & IT Services industry and how should this metric be disclosed?",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "B",
+    "is_correct": true,
+    "industries": [
+      "b58-software-and-it-services"
+    ]
+  },
+  {
+    "question": "What is the category of the 'Revenue from products third-party certified to environmental or social sustainability sourcing standard' metric in the Food Retailers & Distributors industry?",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "B",
+    "is_correct": true,
+    "industries": [
+      "b22-food-retailers-and-distributors"
+    ]
+  },
+  {
+    "question": "Can you provide for me the unit of measure I should use for the 'Water main replacement rate' metric in the Water Utilities & Services industry?",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "A",
+    "is_correct": false,
+    "industries": [
+      "b39-water-utilities-and-services"
+    ]
+  },
+  {
+    "question": "What is the code of the metric 'Number of zero emission vehicles (ZEV), hybrid vehicles, and plug-in hybrid vehicles sold' in the Automobiles industry and how should this metric be disclosed?",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "B",
+    "is_correct": true,
+    "industries": [
+      "b63-automobiles"
+    ]
+  },
+  {
+    "question": "What is the unit of measure for the 'Fleet fuel consumed' metric in the Waste Management industry?",
+    "type": "mcq",
+    "correct_answer": "C",
+    "model_answer": "C",
+    "is_correct": true,
+    "industries": [
+      "b38-waste-management"
+    ]
+  },
+  {
+    "question": "On what page can I find details about the 'Energy Management' topic summary for the Containers & Packaging industry?",
+    "type": "mcq",
+    "correct_answer": "D",
+    "model_answer": "B",
+    "is_correct": false,
+    "industries": [
+      "b48-containers-and-packaging"
+    ]
+  }
+]

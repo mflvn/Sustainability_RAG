@@ -1,0 +1,132 @@
+[
+  {
+    "question": "What is the code for the metric 'Percentage of raw materials third-party certified to an environmental and/or social sustainability standard, by standard' in the Apparel, Accessories & Footwear industry?",
+    "answer": "CG-AA-440a.2",
+    "reference_text": [
+      "Percentage of raw materials third-party certified to an environmental and/or social sustainability standard, by standard | Quantitative | Percentage (%) by weight | CG-AA-440a.2"
+    ],
+    "pages": [
+      "8"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "question": "On what page can I find details about the activity metric 'Number of (1) Tier 1 suppliers and (2) suppliers beyond Tier 1' for the Apparel, Accessories & Footwear industry?",
+    "answer": "7",
+    "reference_text": [
+      "Number of (1) Tier 1 suppliers and (2) suppliers beyond Tier 1 \u00b9 | Quantitative | Number | CG-AA-000.A"
+    ],
+    "pages": [
+      "7"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "question": "For the listed 'CG-AA-440a.1. Description of environmental and social risks associated with sourcing priority raw materials' requirement, what does a company in the Apparel, Accessories & Footwear industry need to do?",
+    "answer": "The entity shall discuss its strategic approach to managing environmental and social risks that arise from sourcing priority raw materials (disclosure corresponds to the Sustainable Apparel Coalition's Higg Brand & Retail Module (BRM).",
+    "reference_text": [
+      "The entity shall discuss its strategic approach to managing environmental and social risks that arise from sourcing priority raw materials (disclosure corresponds to the Sustainable Apparel Coalition's Higg Brand & Retail Module (BRM)."
+    ],
+    "pages": [
+      "8"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "question": "What is the category of the 'Number of (1) Tier 1 suppliers and (2) suppliers beyond Tier 1' metric in the Apparel, Accessories & Footwear industry (as listed in the relevant table)?",
+    "answer": "Quantitative",
+    "reference_text": [
+      "Number of (1) Tier 1 suppliers and (2) suppliers beyond Tier 1 \u00b9 | Quantitative | Number | CG-AA-000.A"
+    ],
+    "pages": [
+      "7"
+    ],
+    "qa_type": "single_hop",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "question": "What is the code of the metric 'Percentage of raw materials third-party certified to an environmental and/or social sustainability standard' in the Apparel, Accessories & Footwear industry and how should this metric be calculated?",
+    "answer": "The code for the metric 'Percentage of raw materials third-party certified to an environmental and/or social sustainability standard' is CG-AA-440a.2. This metric should be calculated as 'the weight of raw materials third-party certified to an environmental and/or social standard divided by the total weight of raw materials that compose the entity's finished products.'",
+    "reference_text": [
+      "CG-AA-440a.2. Percentage of raw materials third-party certified to an environmental and/or social sustainability standard, by standard",
+      "1 The entity shall disclose the percentage of raw materials that are third-party certified to an environmental or social sustainability standard.",
+      "1.3 The entity shall calculate the percentage as the weight of raw materials third-party certified to an environmental and/or social standard divided by the total weight of raw materials that compose the entity's finished products."
+    ],
+    "pages": [
+      "9",
+      "10"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "question": "Can you provide the unit of measure (as listed in the relevant table) for the metric 'Number of (1) Tier 1 suppliers and (2) suppliers beyond Tier 1' in the Apparel, Accessories & Footwear industry?",
+    "answer": "The unit of measure for the metric 'Number of (1) Tier 1 suppliers and (2) suppliers beyond Tier 1' is 'Number'.",
+    "reference_text": [
+      "| ACTIVITY METRIC | CATEGORY | UNIT OF MEASURE | CODE |",
+      "|-----------------|----------|------------------|------|",
+      "| Number of (1) Tier 1 suppliers and (2) suppliers beyond Tier 1 \u00b9 | Quantitative | Number | CG-AA-000.A |"
+    ],
+    "pages": [
+      "7"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "question": "Can you tell me what topics are covered in the 'Raw Materials Sourcing' section of the document and what are the key takeaways I need to know as a company writing my sustainability report in the Apparel, Accessories & Footwear industry?",
+    "answer": "The 'Raw Materials Sourcing' section covers the following topics and key takeaways for companies in the Apparel, Accessories & Footwear industry:\n\n1. Companies should discuss their strategic approach to managing environmental and social risks from sourcing priority raw materials like cotton, leather, wool, rubber, precious metals/minerals etc. (Metric CG-AA-440a.1)\n\n2. Companies should disclose the percentage of raw materials third-party certified to environmental/social sustainability standards like Organic Cotton Standard, Better Cotton Initiative, Forestry Stewardship Council etc. (Metric CG-AA-440a.2)\n\n3. Key risks include climate change impacts on natural fibers, greenhouse gas regulations affecting petroleum-derived materials, lack of supply chain traceability, improper land use practices, animal welfare issues, and sourcing from conflict regions.\n\n4. Strategies to mitigate risks include due diligence, audits, partnerships, using substitute materials, enhancing traceability, supplier diversification, codes of conduct etc.",
+    "reference_text": [
+      "# Raw Materials Sourcing",
+      "## Topic Summary",
+      "The Apparel, Accessories & Footwear industry relies on numerous raw materials as key inputs for finished products, including cotton, leather, wool, rubber, and precious minerals and metals. Sustainability impacts related to climate change, land use, resource scarcity, and conflict in regions where the industry's supply chain operates are increasingly shaping the industry's ability to source materials...",
+      "## Metrics",
+      "CG-AA-440a.1. Description of environmental and social risks associated with sourcing priority raw materials",
+      "CG-AA-440a.2. Percentage of raw materials third-party certified to an environmental and/or social sustainability standard, by standard"
+    ],
+    "pages": [
+      "8",
+      "9",
+      "10"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  },
+  {
+    "question": "For the listed requirement 'Description of environmental and social risks associated with sourcing priority raw materials', what metric should a company in the Apparel, Accessories & Footwear industry use and how should this metric be calculated?",
+    "answer": "For the requirement 'Description of environmental and social risks associated with sourcing priority raw materials', the metric a company in the Apparel, Accessories & Footwear industry should use is CG-AA-440a.1. \n\nThis metric should be calculated as follows:\n\n1. Discuss the strategic approach to managing environmental and social risks from sourcing priority raw materials.\n\n2. Priority raw materials are those essential to the principal products (accounting for >=10% of revenue in last 3 fiscal years).\n\n3. Disclose the methodology to identify priority raw materials.\n\n4. Raw materials include synthetic/natural fibers, fabrics, cellulosic materials, animal-derived materials etc.\n\n5. Disclose priority raw materials regardless of whether purchased directly or by suppliers.\n\n6. Environmental risks include climate impacts on natural fibers, GHG regulations, environmental regulations for suppliers, lack of traceability, improper land use etc.\n\n7. Social risks include animal welfare, labor issues, human rights issues, sourcing from conflict regions etc.",
+    "reference_text": [
+      "CG-AA-440a.1. Description of environmental and social risks associated with sourcing priority raw materials",
+      "1 The entity shall discuss its strategic approach to managing environmental and social risks that arise from sourcing priority raw materials...",
+      "2 Disclosure shall include the methodology of how the entity identified priority raw materials.",
+      "3 Raw materials include synthetic fibers and fabrics, natural fibers and fabrics, cellulosic materials, materials derived from animals, and any other materials used directly to make apparel, accessories, or footwear products, including, but not limited to: 3.1 Cotton, rayon, polyester, acrylic, spandex, nylon, rubber, leather, wool, flax, silk, hemp, and down",
+      "5 Environmental supply chain risks include, but are not limited to: ...",
+      "6 Social supply chain risks include, but are not limited to: ..."
+    ],
+    "pages": [
+      "8",
+      "9"
+    ],
+    "qa_type": "multi_hop",
+    "industries": [
+      "b1-apparel-accessories-and-footwear"
+    ]
+  }
+]

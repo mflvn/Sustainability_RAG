@@ -1,0 +1,196 @@
+[
+  {
+    "question": "Compare the number of 'Quantitative' metrics between the Mortgage Finance and Asset Management & Custody Activities industries.",
+    "optionA": "The Mortgage Finance industry has 4 'Quantitative' metrics, while the Asset Management & Custody Activities industry has 3.",
+    "optionB": "The Mortgage Finance industry has 2 'Quantitative' metrics, while the Asset Management & Custody Activities industry has 4.",
+    "optionC": "The Mortgage Finance industry has 3 'Quantitative' metrics, while the Asset Management & Custody Activities industry has 3.",
+    "optionD": "The Mortgage Finance industry has 2 'Quantitative' metrics, while the Asset Management & Custody Activities industry has 3.",
+    "optionE": "Both the Mortgage Finance and Asset Management & Custody Activities industries have 3 'Quantitative' metrics each.",
+    "answer": "D",
+    "reference_text": [
+      "For the Mortgage Finance industry, the 'Quantitative' metrics listed in Table 1 are: FN-MF-450a.1, FN-MF-450a.2.",
+      "For the Asset Management & Custody Activities industry, the 'Quantitative' metrics listed in Table 1 are: FN-AC-410a.1, FN-AC-1, FN-AC-2, FN-AC-3."
+    ],
+    "pages": [
+      "185_b19",
+      "135_b15"
+    ],
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b19-mortgage-finance"
+    ],
+    "pairing_explanation": "Asset management and mortgage finance are pivotal in funding sustainable projects and investments, focusing on long-term economic and environmental impacts.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "List the activity metrics for the Mortgage Finance and Asset Management & Custody Activities industries.",
+    "optionA": "For Mortgage Finance: (1) Number and (2) value of mortgages originated / purchased by category - residential and commercial. For Asset Management & Custody: Total assets under management (AUM), Total assets under custody and supervision.",
+    "optionB": "For Mortgage Finance: None listed. For Asset Management & Custody: Total assets under management (AUM), Total assets under custody and supervision.",
+    "optionC": "For Mortgage Finance: (1) Number and (2) value of mortgages originated by category - residential and commercial. For Asset Management & Custody: None listed.",
+    "optionD": "For Mortgage Finance: (1) Number and (2) value of mortgages purchased by category - residential and commercial. For Asset Management & Custody: Total assets under management (AUM).",
+    "optionE": "For Mortgage Finance: (1) Number and (2) value of mortgages originated by category - residential and commercial, (1) Number and (2) value of mortgages purchased by category - residential and commercial. For Asset Management & Custody: Total assets under management (AUM), Total assets under custody and supervision.",
+    "answer": "A",
+    "reference_text": [
+      "For the Mortgage Finance industry, the activity metrics listed in Table 2 are: (1) Number and (2) value of mortgages originated by category: (a) residential and (b) commercial, (1) Number and (2) value of mortgages purchased by category: (a) residential and (b) commercial.",
+      "For the Asset Management & Custody Activities industry, the activity metrics listed in Table 2 are: Total assets under management (AUM), Total assets under custody and supervision."
+    ],
+    "pages": [
+      "184_b19",
+      "133_b15"
+    ],
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b19-mortgage-finance"
+    ],
+    "pairing_explanation": "Asset management and mortgage finance are pivotal in funding sustainable projects and investments, focusing on long-term economic and environmental impacts.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for the Mortgage Finance and Asset Management & Custody Activities industries.",
+    "optionA": "For Mortgage Finance: FN-MF-450a.3. For Asset Management & Custody: FN-AC-410a.2, FN-AC-410a.3, FN-AC-4.",
+    "optionB": "For Mortgage Finance: None. For Asset Management & Custody: FN-AC-410a.2, FN-AC-410a.3.",
+    "optionC": "For Mortgage Finance: FN-MF-450a.3. For Asset Management & Custody: FN-AC-410a.2, FN-AC-4.",
+    "optionD": "For Mortgage Finance: FN-MF-450a.3. For Asset Management & Custody: FN-AC-410a.2, FN-AC-410a.3, FN-AC-4.",
+    "optionE": "For Mortgage Finance: None. For Asset Management & Custody: FN-AC-410a.2, FN-AC-4.",
+    "answer": "D",
+    "reference_text": [
+      "For the Mortgage Finance industry, the metric in the 'Discussion and Analysis' category from Table 1 is: FN-MF-450a.3.",
+      "For the Asset Management & Custody Activities industry, the metrics in the 'Discussion and Analysis' category from Table 1 are: FN-AC-410a.2, FN-AC-410a.3, FN-AC-4."
+    ],
+    "pages": [
+      "185_b19",
+      "135_b15"
+    ],
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b19-mortgage-finance"
+    ],
+    "pairing_explanation": "Asset management and mortgage finance are pivotal in funding sustainable projects and investments, focusing on long-term economic and environmental impacts.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "What are the common sustainability topics between the Mortgage Finance and Asset Management & Custody Activities industries?",
+    "optionA": "Environmental Risk to Mortgaged Properties, Incorporation of Environmental, Social, and Governance Factors in Investment Management & Advisory",
+    "optionB": "Environmental Risk to Mortgaged Properties, Transition Risk Exposure",
+    "optionC": "There are no common sustainability topics between the two industries.",
+    "optionD": "Incorporation of Environmental, Social, and Governance Factors in Investment Management & Advisory, Transition Risk Exposure",
+    "optionE": "Incorporation of Environmental, Social, and Governance Factors in Investment Management & Advisory",
+    "answer": "C",
+    "reference_text": [
+      "For the Mortgage Finance industry, the sustainability topics listed are: Environmental Risk to Mortgaged Properties.",
+      "For the Asset Management & Custody Activities industry, the sustainability topics listed are: Incorporation of Environmental, Social, and Governance Factors in Investment Management & Advisory, Transition Risk Exposure."
+    ],
+    "pages": [
+      "185_b19",
+      "135_b15"
+    ],
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b19-mortgage-finance"
+    ],
+    "pairing_explanation": "Asset management and mortgage finance are pivotal in funding sustainable projects and investments, focusing on long-term economic and environmental impacts.",
+    "qa_type": "single_hop"
+  },
+  {
+    "question": "What are the codes for all the 'Quantitative' metrics in Table 1 for the Asset Management & Custody Activities and Mortgage Finance industries?",
+    "optionA": "FN-AC-410a.1, FN-AC-1, FN-AC-2, FN-AC-3, FN-MF-450a.1, FN-MF-450a.2, FN-MF-000.A, FN-MF-000.B",
+    "optionB": "FN-AC-410a.2, FN-AC-410a.3, FN-AC-4, FN-MF-450a.3",
+    "optionC": "FN-AC-000.A, FN-AC-000.B",
+    "optionD": "FN-MF-450a.1, FN-MF-450a.2, FN-MF-000.A, FN-MF-000.B, FN-AC-410a.1, FN-AC-1, FN-AC-2, FN-AC-3",
+    "optionE": "<UNKNOWN>",
+    "answer": "D",
+    "reference_text": [
+      "FN-MF-450a.1. (1) Number and (2) value of mortgage loans in 100-year flood zones",
+      "FN-MF-450a.2. (1) Total expected loss and (2) Loss Given Default (LGD) attributable to mortgage loan default and delinquency due to weather-related natural catastrophes, by geographic region",
+      "FN-MF-000.A: (1) Number and (2) value of mortgages originated by category: (a) residential and (b) commercial",
+      "FN-MF-000.B: (1) Number and (2) value of mortgages purchased by category: (a) residential and (b) commercial",
+      "FN-AC-410a.1. Amount of assets under management, by asset class, that employ (1) integration of environmental, social, and governance (ESG) issues, (2) sustainability themed investing, and (3) screening",
+      "FN-AC-1: Percentage of total assets under management (AUM) included in the financed emissions calculation",
+      "FN-AC-2: (1) Absolute gross (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) associated amount of total AUM (i.e., financed emissions)",
+      "FN-AC-3: (1) Gross emissions intensity by (a) Scope 1 emissions, (b) Scope 2 emissions, and (c) Scope 3 emissions, and (2) associated amount of total AUM (i.e., financed emissions)"
+    ],
+    "pages": [
+      "185-187_b19",
+      "134-143_b15"
+    ],
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b19-mortgage-finance"
+    ],
+    "pairing_explanation": "Asset management and mortgage finance are pivotal in funding sustainable projects and investments, focusing on long-term economic and environmental impacts.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Give me the codes for all the 'Discussion and Analysis' metrics in Table 1 for the Asset Management & Custody Activities and Mortgage Finance industries.",
+    "optionA": "FN-AC-410a.2, FN-AC-410a.3, FN-AC-4, FN-MF-450a.3",
+    "optionB": "FN-MF-450a.1, FN-MF-450a.2, FN-MF-000.A, FN-MF-000.B",
+    "optionC": "FN-AC-410a.1, FN-AC-1, FN-AC-2, FN-AC-3",
+    "optionD": "<UNKNOWN>",
+    "optionE": "FN-AC-000.A, FN-AC-000.B",
+    "answer": "A",
+    "reference_text": [
+      "FN-AC-410a.2. Description of approach to incorporation of environmental, social, and governance (ESG) factors in investment and/or wealth management processes and strategies",
+      "FN-AC-410a.3. Description of proxy voting and investee engagement policies and procedures",
+      "FN-AC-4. Description of the methodology used to calculate financed emissions",
+      "FN-MF-450a.3. Description of how climate change and other environmental risks are incorporated into mortgage origination and underwriting"
+    ],
+    "pages": [
+      "135-138_b15",
+      "186-187_b19"
+    ],
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b19-mortgage-finance"
+    ],
+    "pairing_explanation": "Asset management and mortgage finance are pivotal in funding sustainable projects and investments, focusing on long-term economic and environmental impacts.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "When preparing sustainability reports, how do the metrics for measuring incorporation of environmental, social, and governance (ESG) factors differ between the Asset Management & Custody Activities and Mortgage Finance industries?",
+    "optionA": "There are no metrics related to ESG incorporation for the Mortgage Finance industry, while the Asset Management & Custody Activities industry has metrics FN-AC-410a.1, FN-AC-410a.2, and FN-AC-410a.3 covering this topic.",
+    "optionB": "Both industries have similar metrics covering the incorporation of ESG factors, such as FN-MF-450a.3 for Mortgage Finance and FN-AC-410a.1, FN-AC-410a.2, and FN-AC-410a.3 for Asset Management & Custody Activities.",
+    "optionC": "The Mortgage Finance industry has metric FN-MF-450a.3 related to ESG incorporation, while the Asset Management & Custody Activities industry does not have any metrics on this topic.",
+    "optionD": "The metrics for measuring ESG incorporation are identical for both industries, using the same code FN-XYZ-123.",
+    "optionE": "<UNKNOWN>",
+    "answer": "A",
+    "reference_text": [
+      "FN-AC-410a.1. Amount of assets under management, by asset class, that employ (1) integration of environmental, social, and governance (ESG) issues, (2) sustainability themed investing, and (3) screening",
+      "FN-AC-410a.2. Description of approach to incorporation of environmental, social, and governance (ESG) factors in investment and/or wealth management processes and strategies",
+      "FN-AC-410a.3. Description of proxy voting and investee engagement policies and procedures",
+      "FN-MF-450a.3. Description of how climate change and other environmental risks are incorporated into mortgage origination and underwriting"
+    ],
+    "pages": [
+      "135-138_b15",
+      "186-187_b19"
+    ],
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b19-mortgage-finance"
+    ],
+    "pairing_explanation": "Asset management and mortgage finance are pivotal in funding sustainable projects and investments, focusing on long-term economic and environmental impacts.",
+    "qa_type": "multi_hop"
+  },
+  {
+    "question": "Comparing the Asset Management & Custody Activities and Mortgage Finance industries, which sustainability topic is more prominently addressed in the Asset Management & Custody Activities industry but not explicitly covered for the Mortgage Finance industry?",
+    "optionA": "Environmental Risk to Mortgaged Properties",
+    "optionB": "Incorporation of Environmental, Social, and Governance Factors in Investment Management & Advisory",
+    "optionC": "Transition Risk Exposure",
+    "optionD": "<UNKNOWN>",
+    "optionE": "There are no sustainability topics covered more prominently in one industry versus the other",
+    "answer": "B",
+    "reference_text": [
+      "Industry: Mortgage Finance\n## Table 1. Sustainability Disclosure Topics & Metrics\n| TOPIC | \n|-------|\n| Environmental Risk to Mortgaged Properties |",
+      "Industry: Asset Management & Custody Activities  \n## Table 1. Sustainability Disclosure Topics & Metrics\n| TOPIC |\n|-------|\n| Incorporation of Environmental, Social, and Governance Factors in Investment Management & Advisory |\n| Transition Risk Exposure |"
+    ],
+    "pages": [
+      "185_b19",
+      "133_b15"
+    ],
+    "industries": [
+      "b15-asset-management-and-custody-activities",
+      "b19-mortgage-finance"
+    ],
+    "pairing_explanation": "Asset management and mortgage finance are pivotal in funding sustainable projects and investments, focusing on long-term economic and environmental impacts.",
+    "qa_type": "multi_hop"
+  }
+]

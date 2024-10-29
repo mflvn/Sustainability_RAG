@@ -1,0 +1,170 @@
+[
+  {
+    "question": "What units of measurement are used across Metals & Mining and Electrical & Electronic Equipment industries for measuring energy management metrics?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "What are the common metrics shared between Building Products & Furnishings and Real Estate industries, if any?",
+    "type": "mcq",
+    "correct_answer": "E",
+    "model_answer": "A",
+    "is_correct": false,
+    "industries": []
+  },
+  {
+    "question": "What units of measurement are used across Health Care Distributors and Gas Utilities & Distributors industries for measuring fleet fuel management and end-use efficiency, respectively?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "What units of measurement are used across the Oil & Gas - Midstream and Telecommunication Services industries for measuring greenhouse gas emissions and energy consumption?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "Are there any common sustainability topics between Metals & Mining and Electrical & Electronic Equipment industries? If so, how do their reporting requirements differ?",
+    "type": "mcq",
+    "correct_answer": "D",
+    "model_answer": "D",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "Compare the number of quantitative metrics between Building Products & Furnishings and Real Estate industries.",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "B",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Water Utilities & Services and Cruise Lines industries.",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "B",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "Give me the codes for all the 'Discussion and Analysis' metrics in Table 1 for Appliance Manufacturing and Oil & Gas - Refining & Marketing industries.",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Metals & Mining and Electrical & Electronic Equipment industries?",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Investment Banking & Brokerage and Marine Transportation industries?",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "B",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "How does the calculation of water-related metrics differ between Coal Operations and Apparel, Accessories & Footwear companies?",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "B",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "List the activity metrics for Building Products & Furnishings and Real Estate industries.",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for the Hardware and Oil & Gas - Exploration & Production industries.",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "List the activity metrics for Metals & Mining and Electrical & Electronic Equipment industries.",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "List the activity metrics for Aerospace & Defense and Auto Parts industries.",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "A",
+    "is_correct": true,
+    "industries": []
+  },
+  {
+    "question": "Give me all the metrics from Table 1 that are in category 'Discussion and Analysis' for Building Products & Furnishings and Real Estate industries.",
+    "type": "mcq",
+    "correct_answer": "A",
+    "model_answer": "C",
+    "is_correct": false,
+    "industries": []
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for the Software & IT Services and Semiconductors industries.",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "A",
+    "is_correct": false,
+    "industries": []
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Asset Management & Custody Activities and Mortgage Finance industries?",
+    "type": "mcq",
+    "correct_answer": "B",
+    "model_answer": "A",
+    "is_correct": false,
+    "industries": []
+  },
+  {
+    "question": "Give me the codes for all the 'Quantitative' metrics in Table 1 for Real Estate Services and Agricultural Products industries.",
+    "type": "mcq",
+    "correct_answer": "E",
+    "model_answer": "A",
+    "is_correct": false,
+    "industries": []
+  },
+  {
+    "question": "Which industry has more 'Quantitative' metrics to disclose in Table 1 between Aerospace & Defense and Auto Parts industries?",
+    "type": "mcq",
+    "correct_answer": "C",
+    "model_answer": "B",
+    "is_correct": false,
+    "industries": []
+  },
+  {
+    "question": "What are the common metrics shared between Appliance Manufacturing and Oil & Gas - Refining & Marketing industries, if any?",
+    "type": "mcq",
+    "correct_answer": "C",
+    "model_answer": "B",
+    "is_correct": false,
+    "industries": []
+  }
+]

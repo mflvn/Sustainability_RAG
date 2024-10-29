@@ -1,0 +1,347 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What is the Probable Maximum Loss (PML) in the insurance industry, and what likelihood scenarios are used to disclose it?",
+    "optionA": "PML is the largest potential loss, disclosed using 1%, 2%, and 3% likelihood scenarios",
+    "optionB": "PML is the average expected loss, disclosed using 1%, 5%, and 10% likelihood scenarios",
+    "optionC": "PML is the anticipated largest monetary loss, disclosed using 2%, 1%, and 0.4% likelihood scenarios",
+    "optionD": "PML is the median loss value, disclosed using 0.5%, 1%, and 1.5% likelihood scenarios",
+    "optionE": "PML is the total insured value, disclosed using 5%, 10%, and 15% likelihood scenarios",
+    "answer": "C. PML is the anticipated largest monetary loss, disclosed using 2%, 1%, and 0.4% likelihood scenarios",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "163-164",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the three components of climate-related risks as defined by the Task Force on Climate-related Financial Disclosures (TCFD)?",
+    "optionA": "Market risks, credit risks, and operational risks",
+    "optionB": "Physical risks, transition risks, and liability risks",
+    "optionC": "Regulatory risks, reputational risks, and financial risks",
+    "optionD": "Natural catastrophe risks, man-made risks, and technological risks",
+    "optionE": "Underwriting risks, investment risks, and capital adequacy risks",
+    "answer": "B. Physical risks, transition risks, and liability risks",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "166",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "In the context of insurance industry disclosures, how is 'gross exposure' defined for funded amounts?",
+    "optionA": "The net amount after subtracting loss allowances",
+    "optionB": "The total premium collected for all policies",
+    "optionC": "The funded carrying amount before subtracting loss allowances",
+    "optionD": "The market value of all assets held by the insurance company",
+    "optionE": "The total amount of claims paid out in a fiscal year",
+    "answer": "C. The funded carrying amount before subtracting loss allowances",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "168-169",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What does the term 'financed emissions' refer to in the insurance industry?",
+    "optionA": "Emissions directly produced by insurance company operations",
+    "optionB": "Emissions from vehicles insured by the company",
+    "optionC": "Emissions attributed to loans and investments made by the entity to investees or counterparties",
+    "optionD": "Emissions offset through carbon credit purchases",
+    "optionE": "Emissions from properties covered by insurance policies",
+    "answer": "C. Emissions attributed to loans and investments made by the entity to investees or counterparties",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "170-171",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might an insurance company's approach to incorporating environmental risks into individual contracts impact its enterprise-wide risk management and capital adequacy?",
+    "optionA": "It has no impact on enterprise-wide risk management",
+    "optionB": "It only affects pricing of individual policies",
+    "optionC": "It influences both individual policy underwriting and firm-level risk assessments",
+    "optionD": "It exclusively impacts the company's reinsurance strategy",
+    "optionE": "It only affects the company's investment portfolio",
+    "answer": "C. It influences both individual policy underwriting and firm-level risk assessments",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "165-167",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How does the incorporation of ESG factors in investment management relate to an insurance company's ability to pay claims over the long term?",
+    "optionA": "It has no relation to claim payments",
+    "optionB": "It only affects short-term profitability",
+    "optionC": "It ensures higher returns but increases portfolio risk",
+    "optionD": "It helps maintain asset-liability parity and enhances ability to issue claim payments",
+    "optionE": "It only impacts the company's regulatory compliance",
+    "answer": "D. It helps maintain asset-liability parity and enhances ability to issue claim payments",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "158-160",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How do insurance products that incentivize responsible behavior potentially impact both the company's risk profile and broader environmental and social outcomes?",
+    "optionA": "They only affect the company's short-term profits",
+    "optionB": "They have no impact on the company's risk profile",
+    "optionC": "They increase risks for the insurance company",
+    "optionD": "They only benefit the policyholders",
+    "optionE": "They can mitigate risks in the underwriting portfolio and generate positive externalities",
+    "answer": "E. They can mitigate risks in the underwriting portfolio and generate positive externalities",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "161-162",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might an insurance company's calculation and disclosure of financed emissions impact its investment strategies and exposure to transition risks?",
+    "optionA": "It has no impact on investment strategies",
+    "optionB": "It only affects regulatory reporting",
+    "optionC": "It leads to immediate divestment from all carbon-intensive industries",
+    "optionD": "It enhances understanding of exposure to transition risks and informs investment decisions",
+    "optionE": "It only impacts the company's marketing strategies",
+    "answer": "D. It enhances understanding of exposure to transition risks and informs investment decisions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "168-173",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "How does the insurance industry define 'carbon-related industries' in the context of transition risk exposure?",
+    "optionA": "Industries that exclusively produce or use fossil fuels",
+    "optionB": "Any industry that emits greenhouse gases",
+    "optionC": "Industries responsible for relatively high direct or indirect GHG emissions, including but not limited to specific sectors",
+    "optionD": "Only industries involved in coal mining and oil extraction",
+    "optionE": "Industries that have committed to net-zero emissions targets",
+    "answer": "C. Industries responsible for relatively high direct or indirect GHG emissions, including but not limited to specific sectors",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "168-169",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What does 'emissions intensity' mean in the context of financed emissions for insurance companies?",
+    "optionA": "The total amount of greenhouse gases emitted by the insurance company itself",
+    "optionB": "The percentage of a company's portfolio invested in high-emission industries",
+    "optionC": "The amount of Scope 1, 2, and 3 emissions per unit of economic or physical activity",
+    "optionD": "The ratio of green investments to carbon-intensive investments",
+    "optionE": "The total emissions of all companies insured by the insurance provider",
+    "answer": "C. The amount of Scope 1, 2, and 3 emissions per unit of economic or physical activity",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "171-172",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "In the context of incorporating environmental risks into insurance underwriting, what does the term 'transition risks' refer to?",
+    "optionA": "Risks associated with transferring policies between insurance companies",
+    "optionB": "Risks resulting from a reduction in insurable interest due to declining asset values, changing energy costs, or carbon regulation implementation",
+    "optionC": "Risks related to transitioning from traditional to digital insurance products",
+    "optionD": "Risks of policy cancellations during economic transitions",
+    "optionE": "Risks associated with transitioning between different types of insurance coverage",
+    "answer": "B. Risks resulting from a reduction in insurable interest due to declining asset values, changing energy costs, or carbon regulation implementation",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "166",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "What is the significance of calculating Probable Maximum Loss (PML) for different likelihood of exceedance scenarios in the context of climate-related risks?",
+    "optionA": "It only affects pricing of reinsurance policies",
+    "optionB": "It has no impact on the company's risk management strategies",
+    "optionC": "It helps in determining the company's marketing budget",
+    "optionD": "It provides insights into the company's exposure to extreme weather events at various probability levels",
+    "optionE": "It is solely used for regulatory compliance purposes",
+    "answer": "D. It provides insights into the company's exposure to extreme weather events at various probability levels",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "163-164",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How can the disclosure of an insurance company's approach to incorporating environmental risks into underwriting processes benefit investors?",
+    "optionA": "It only helps in comparing marketing strategies among insurers",
+    "optionB": "It has no relevance to investment decisions",
+    "optionC": "It allows investors to assess the company's preparedness for climate-related financial risks",
+    "optionD": "It only impacts the company's relationship with regulators",
+    "optionE": "It solely determines the company's credit rating",
+    "answer": "C. It allows investors to assess the company's preparedness for climate-related financial risks",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "165-167",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the IFRS S2 disclosure requirements, what are insurance companies expected to discuss regarding scenario analysis and modeling of ESG factors?",
+    "optionA": "Only climate change impacts on their investment portfolio",
+    "optionB": "Profitability forecasts based on ESG trends",
+    "optionC": "Whether they conduct scenario analysis for ESG factors at the portfolio level",
+    "optionD": "Competitor analysis in relation to ESG performance",
+    "optionE": "Historical ESG data trends in the insurance sector",
+    "answer": "C. Whether they conduct scenario analysis for ESG factors at the portfolio level",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "159-160",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "When disclosing information about financed emissions, what specific breakdown are insurance companies required to provide according to the IFRS S2 guidelines?",
+    "optionA": "Only total emissions across all industries",
+    "optionB": "Emissions by country and company size",
+    "optionC": "Absolute gross Scope 1, 2, and 3 emissions for each industry by asset class",
+    "optionD": "Emissions by product type and customer segment",
+    "optionE": "Historical emissions trends over the past decade",
+    "answer": "C. Absolute gross Scope 1, 2, and 3 emissions for each industry by asset class",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "170-171",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the IFRS S2 Climate-related Disclosures, how should insurance companies disclose their Probable Maximum Loss (PML) for weather-related natural catastrophes?",
+    "optionA": "Only for hurricanes and floods",
+    "optionB": "As a single aggregated figure for all catastrophes",
+    "optionC": "Using at least three likelihood of exceedance scenarios, broken down by geographic location and catastrophe type",
+    "optionD": "Only for events with a 1% probability of occurrence",
+    "optionE": "Excluding reinsurance considerations",
+    "answer": "C: Using at least three likelihood of exceedance scenarios, broken down by geographic location and catastrophe type",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "163-164",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "What potential impacts could the increasing frequency and severity of climate-related events have on an insurance company's underwriting strategies and capital adequacy?",
+    "optionA": "No significant impact as climate events are unpredictable",
+    "optionB": "Only short-term fluctuations in claims, with no long-term effects",
+    "optionC": "Increased need for reinsurance without affecting underwriting",
+    "optionD": "Potential for higher premiums without changes to risk assessment",
+    "optionE": "Necessitate more sophisticated risk modeling, stricter underwriting criteria, and potentially higher capital requirements",
+    "answer": "E. Necessitate more sophisticated risk modeling, stricter underwriting criteria, and potentially higher capital requirements",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "163-167",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "What potential challenges and opportunities might arise for insurance companies as they develop products to incentivize health, safety, and environmentally responsible behaviors?",
+    "optionA": "Increased regulatory scrutiny and potential legal liabilities",
+    "optionB": "Higher costs of product development with uncertain returns",
+    "optionC": "Difficulty in accurately pricing risks associated with new behavioral incentives",
+    "optionD": "Resistance from customers who prefer traditional insurance products",
+    "optionE": "Opportunity for market differentiation and reduced long-term claim payouts",
+    "answer": "E. Opportunity for market differentiation and reduced long-term claim payouts",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "161-162",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the disclosure of financed emissions and exposure to carbon-related industries impact an insurance company's strategy and stakeholder relationships?",
+    "optionA": "It could lead to immediate divestment from all carbon-related industries",
+    "optionB": "It may result in increased pressure from regulators but no change in strategy",
+    "optionC": "It would likely have no impact on strategy or stakeholder relationships",
+    "optionD": "It could drive a shift towards more sustainable investments and improved transparency with stakeholders",
+    "optionE": "It would only affect relationships with environmental NGOs",
+    "answer": "D. It could drive a shift towards more sustainable investments and improved transparency with stakeholders",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "168-173",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following asset classes is NOT explicitly mentioned in the scope of disclosure for financed emissions calculations?",
+    "optionA": "Loans",
+    "optionB": "Bonds",
+    "optionC": "Equity investments",
+    "optionD": "Derivatives",
+    "optionE": "Real estate holdings",
+    "answer": "E. Real estate holdings",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "170-171",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT listed as a carbon-related industry that insurance companies need to disclose their gross exposure to?",
+    "optionA": "Oil, Gas & Consumable Fuels",
+    "optionB": "Electric Utilities",
+    "optionC": "Automobiles",
+    "optionD": "Real Estate Management & Development",
+    "optionE": "Information Technology Services",
+    "answer": "E. Information Technology Services",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "168-169",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a required disclosure when describing the methodology used to calculate financed emissions?",
+    "optionA": "Method used to attribute the entity's share of emissions",
+    "optionB": "Approach to collecting underlying emissions data",
+    "optionC": "Use of estimations, proxies or assumptions",
+    "optionD": "Whether source data has been verified by a third party",
+    "optionE": "Projected emissions reduction targets for investees",
+    "answer": "E. Projected emissions reduction targets for investees",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "173",
+    "industries": [
+      "b17-insurance"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a climate-related scenario element that insurance companies should describe when calculating their Probable Maximum Loss (PML)?",
+    "optionA": "Critical input parameters",
+    "optionB": "Assumptions and considerations",
+    "optionC": "Analytical choices",
+    "optionD": "Time frames",
+    "optionE": "Regulatory compliance strategies",
+    "answer": "E. Regulatory compliance strategies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "164",
+    "industries": [
+      "b17-insurance"
+    ]
+  }
+]

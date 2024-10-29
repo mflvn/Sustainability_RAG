@@ -1,0 +1,407 @@
+[
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What are the seven GHGs covered under the Kyoto Protocol that construction materials companies need to disclose in their gross global Scope 1 emissions?",
+    "optionA": "Carbon dioxide, methane, nitrous oxide, hydrochlorofluorocarbons, chlorofluorocarbons, sulfur dioxide, and ozone",
+    "optionB": "Carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, sulfur hexafluoride, and nitrogen trifluoride",
+    "optionC": "Carbon monoxide, carbon dioxide, methane, nitrous oxide, ozone, water vapor, and chlorofluorocarbons",
+    "optionD": "Carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, sulfur hexafluoride, and sulfur dioxide",
+    "optionE": "Carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, nitrogen dioxide, and ozone",
+    "answer": "B. Carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, sulfur hexafluoride, and nitrogen trifluoride",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "55",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What is the preferred source for global warming potential (GWP) values when calculating greenhouse gas emissions in the Construction Materials industry?",
+    "optionA": "The U.S. Environmental Protection Agency's Greenhouse Gas Inventory",
+    "optionB": "The World Resources Institute's Greenhouse Gas Protocol",
+    "optionC": "The Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report (2014)",
+    "optionD": "The United Nations Framework Convention on Climate Change (UNFCCC) guidelines",
+    "optionE": "The International Energy Agency's World Energy Outlook",
+    "answer": "C. The Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report (2014)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "55",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "According to the industry standard, what are the three key components that should be disclosed regarding energy consumption in the Construction Materials industry?",
+    "optionA": "Total energy consumed, percentage of coal used, and percentage of natural gas used",
+    "optionB": "Total energy consumed, percentage of renewable energy, and percentage of nuclear energy",
+    "optionC": "Total energy consumed, percentage grid electricity, and percentage of solar energy",
+    "optionD": "Total energy consumed, percentage grid electricity, percentage alternative, and percentage renewable",
+    "optionE": "Total energy consumed, percentage of fossil fuels, and percentage of biomass energy",
+    "answer": "D. Total energy consumed, percentage grid electricity, percentage alternative, and percentage renewable",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "61-62",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Factual Retrieval: Questions that require finding and stating specific facts from the document, but without asking what is NOT mentioned or covered in the document.",
+    "question": "What tool is recommended for analyzing water risks and identifying activities that withdraw and consume water in locations with High or Extremely High Baseline Water Stress?",
+    "optionA": "The United Nations Water Scarcity Index",
+    "optionB": "The World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "optionC": "The Global Water Tool by the World Business Council for Sustainable Development",
+    "optionD": "The Water Footprint Network's Assessment Tool",
+    "optionE": "The CDP Water Security Questionnaire",
+    "answer": "B. The World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "64",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How might a construction materials company's strategy to reduce Scope 1 emissions impact its financial performance and regulatory compliance?",
+    "optionA": "It would only increase costs without any benefits",
+    "optionB": "It would have no impact on financial performance or regulatory compliance",
+    "optionC": "It could lead to operational efficiencies, cost savings, and improved regulatory compliance",
+    "optionD": "It would only improve regulatory compliance but decrease financial performance",
+    "optionE": "It would only be relevant for companies operating in the European Union",
+    "answer": "C. It could lead to operational efficiencies, cost savings, and improved regulatory compliance",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "55-58",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How does the use of alternative fuels in construction materials production relate to both energy management and air quality concerns?",
+    "optionA": "Alternative fuels always increase air pollution and energy costs",
+    "optionB": "Alternative fuels have no impact on air quality or energy management",
+    "optionC": "Alternative fuels can lower energy costs and GHG emissions but may potentially release harmful air pollutants",
+    "optionD": "Alternative fuels only affect energy costs without any impact on air quality",
+    "optionE": "Alternative fuels are only used for reducing GHG emissions, not for energy management",
+    "answer": "C. Alternative fuels can lower energy costs and GHG emissions but may potentially release harmful air pollutants",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "59-61",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How does water management in regions with high water stress relate to both operational risks and potential financial impacts for construction materials companies?",
+    "optionA": "It only affects the company's public image without any operational or financial impacts",
+    "optionB": "It leads to increased water usage but has no impact on financials",
+    "optionC": "It can lead to production disruptions and increased costs due to water scarcity and price volatility",
+    "optionD": "It only affects companies in desert regions",
+    "optionE": "It has no relation to operational risks or financial impacts",
+    "answer": "C. It can lead to production disruptions and increased costs due to water scarcity and price volatility",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "64-65",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Multi-hop Reasoning: Questions that require connecting information from multiple parts of the document.",
+    "question": "How do product innovations in sustainable construction materials potentially impact both a company's revenue and production costs?",
+    "optionA": "They only increase production costs without affecting revenue",
+    "optionB": "They have no impact on either revenue or production costs",
+    "optionC": "They can increase revenues through market demand and potentially reduce production costs through energy efficiency",
+    "optionD": "They only affect the company's environmental reputation",
+    "optionE": "They always increase both revenue and production costs equally",
+    "answer": "C. They can increase revenues through market demand and potentially reduce production costs through energy efficiency",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "67-68",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is cement kiln dust (CKD) and why is it significant in the construction materials industry?",
+    "optionA": "A type of cement used for specialized construction projects",
+    "optionB": "Fine-grained, solid, highly alkaline waste removed from cement kiln exhaust gas by air pollution control devices",
+    "optionC": "A raw material used in the production of concrete",
+    "optionD": "A byproduct of aggregate mining operations",
+    "optionE": "A chemical additive used to improve cement strength",
+    "answer": "B: Fine-grained, solid, highly alkaline waste removed from cement kiln exhaust gas by air pollution control devices",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "65",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What does the term 'alternative sources of energy' refer to in the context of the construction materials industry?",
+    "optionA": "Solar and wind power exclusively",
+    "optionB": "Any energy source that is not fossil fuel-based",
+    "optionC": "Nuclear and hydroelectric power",
+    "optionD": "Used tires, spent solvents, waste oils, processed municipal solid waste, and similar materials",
+    "optionE": "Geothermal energy sources only",
+    "answer": "D: Used tires, spent solvents, waste oils, processed municipal solid waste, and similar materials",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "61-62",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "How is 'fresh water' defined in the context of water management for construction materials companies?",
+    "optionA": "Water from natural springs only",
+    "optionB": "Any water that is not from the ocean",
+    "optionC": "Water with less than 1000 parts per million of dissolved solids, or as defined by local regulations",
+    "optionD": "Rainwater collected and stored for industrial use",
+    "optionE": "Water that has been treated in a purification plant",
+    "answer": "C: Water with less than 1000 parts per million of dissolved solids, or as defined by local regulations",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "64",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Definition or Explanation: Questions asking to define or explain industry-specific terms or concepts.",
+    "question": "What is meant by 'sustainable building design and construction certifications' in the context of product innovation for construction materials?",
+    "optionA": "Internal company standards for eco-friendly products",
+    "optionB": "Government-mandated energy efficiency ratings",
+    "optionC": "Certifications like BREEAM, Green Globes, LEED, and ICC-700 National Green Building Standard",
+    "optionD": "ISO 14001 environmental management system certification",
+    "optionE": "Patents for innovative construction technologies",
+    "answer": "C: Certifications like BREEAM, Green Globes, LEED, and ICC-700 National Green Building Standard",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "67",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might the increasing focus on sustainable construction impact the long-term strategy of companies in the Construction Materials industry?",
+    "optionA": "It will likely have no significant impact on their strategies",
+    "optionB": "Companies may need to invest more in research and development of eco-friendly materials",
+    "optionC": "It could lead to a decrease in overall construction activity",
+    "optionD": "Companies might focus solely on reducing their operational costs",
+    "optionE": "It may result in a shift towards using only traditional building materials",
+    "answer": "B. Companies may need to invest more in research and development of eco-friendly materials",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Construction Materials",
+    "page": "67-68",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "What broader implications does the industry's energy consumption have beyond just operational costs?",
+    "optionA": "It only affects the company's profitability",
+    "optionB": "It has no impact on climate change",
+    "optionC": "It influences the industry's contribution to greenhouse gas emissions and climate change",
+    "optionD": "It only impacts local air quality",
+    "optionE": "It solely affects the availability of raw materials",
+    "answer": "C. It influences the industry's contribution to greenhouse gas emissions and climate change",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Construction Materials",
+    "page": "61",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might the Construction Materials industry's approach to waste management impact its relationship with local communities and regulatory bodies?",
+    "optionA": "It has no significant impact on relationships with communities or regulators",
+    "optionB": "It only affects relationships with regulatory bodies, not local communities",
+    "optionC": "It can influence both community perception and regulatory compliance, potentially affecting operational freedom",
+    "optionD": "It only impacts relationships with local communities through job creation",
+    "optionE": "It exclusively affects the company's internal operations with no external impact",
+    "answer": "C. It can influence both community perception and regulatory compliance, potentially affecting operational freedom",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "65",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Contextual Understanding: Questions that test understanding of the broader context or implications of the information.",
+    "question": "How might the Construction Materials industry's management of air quality and emissions impact its broader relationship with society and its operational strategy?",
+    "optionA": "It only affects compliance with environmental regulations",
+    "optionB": "It influences public health, regulatory relationships, and potentially drives innovation in cleaner technologies",
+    "optionC": "It has no impact beyond the immediate production facilities",
+    "optionD": "It only impacts the company's energy consumption",
+    "optionE": "It solely affects the company's relationship with environmental NGOs",
+    "answer": "B. It influences public health, regulatory relationships, and potentially drives innovation in cleaner technologies",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Construction Materials",
+    "page": "59-60",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What specific steps are required for construction materials companies to disclose their Scope 1 greenhouse gas emissions according to the industry standard?",
+    "optionA": "Only report CO2 emissions from fuel combustion",
+    "optionB": "Disclose emissions of all seven Kyoto Protocol GHGs in CO2 equivalent",
+    "optionC": "Report emissions only if they exceed a certain threshold",
+    "optionD": "Exclude emissions from mobile sources like transportation fleets",
+    "optionE": "Report emissions only for cement production, not other materials",
+    "answer": "B. Disclose emissions of all seven Kyoto Protocol GHGs in CO2 equivalent",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "55-56",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the industry standard, how should a construction materials company calculate the percentage of its Scope 1 emissions covered under emissions-limiting regulations?",
+    "optionA": "Divide emissions covered by regulations by total revenue",
+    "optionB": "Subtract non-regulated emissions from total emissions",
+    "optionC": "Divide emissions covered by regulations by total Scope 1 emissions",
+    "optionD": "Calculate based on the number of facilities under regulation",
+    "optionE": "Use a fixed percentage provided by regulatory bodies",
+    "answer": "C. Divide emissions covered by regulations by total Scope 1 emissions",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "56",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "What is the correct procedure for disclosing renewable energy consumption in the Construction Materials industry?",
+    "optionA": "Include all grid electricity as renewable",
+    "optionB": "Only count on-site generated renewable energy",
+    "optionC": "Include renewable energy with retained or retired RECs/GOs, and certain PPAs",
+    "optionD": "Count all biomass sources regardless of certification",
+    "optionE": "Only include solar and wind energy sources",
+    "answer": "C. Include renewable energy with retained or retired RECs/GOs, and certain PPAs",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "62-63",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Policy or Procedure Questions: Questions about specific policies, standards, or procedures mentioned in the document.",
+    "question": "According to the industry standard, how should a construction materials company determine if its operations are in areas of High or Extremely High Baseline Water Stress?",
+    "optionA": "Consult local water utility providers",
+    "optionB": "Use internal company water risk assessments",
+    "optionC": "Rely on national government water scarcity reports",
+    "optionD": "Use the World Resources Institute's Water Risk Atlas tool, Aqueduct",
+    "optionE": "Base it on the frequency of droughts in the area",
+    "answer": "D. Use the World Resources Institute's Water Risk Atlas tool, Aqueduct",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "64",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the increasing focus on energy management and alternative fuels in the Construction Materials industry affect companies' operational strategies and risk profiles?",
+    "optionA": "It will have no impact on operational strategies or risk profiles",
+    "optionB": "It may lead to increased operational costs without any benefits",
+    "optionC": "It could result in improved cost efficiency and reduced regulatory risks",
+    "optionD": "It will only benefit companies that exclusively use fossil fuels",
+    "optionE": "It will lead to immediate closure of all energy-intensive production facilities",
+    "answer": "C: It could result in improved cost efficiency and reduced regulatory risks",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "61-63",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the Construction Materials industry's approach to water management in water-stressed regions influence its social license to operate and long-term sustainability?",
+    "optionA": "Water management has no influence on social license or sustainability",
+    "optionB": "It only affects companies operating in desert regions",
+    "optionC": "Effective water management could enhance community relations and ensure operational continuity",
+    "optionD": "Water management is solely a regulatory compliance issue",
+    "optionE": "It will lead to immediate relocation of all facilities to water-rich regions",
+    "answer": "C: Effective water management could enhance community relations and ensure operational continuity",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "64-65",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Open-ended Analysis: Questions that require synthesizing information to form an opinion or analysis.",
+    "question": "How might the industry's approach to waste management and recycling influence its overall sustainability profile and potential regulatory risks in the coming years?",
+    "optionA": "It will have little impact as waste management is a minor concern in the industry.",
+    "optionB": "It will lead to increased costs and reduced profitability due to stringent recycling requirements.",
+    "optionC": "It will result in new revenue streams from selling recycled materials to other industries.",
+    "optionD": "It will drive innovation in production processes to minimize waste generation.",
+    "optionE": "It will significantly improve the industry's sustainability profile and reduce regulatory risks through proactive waste reduction and recycling initiatives.",
+    "answer": "E. It will significantly improve the industry's sustainability profile and reduce regulatory risks through proactive waste reduction and recycling initiatives.",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "65-66",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following air pollutants is NOT mentioned as a required disclosure in the Construction Materials industry's air quality metrics?",
+    "optionA": "Nitrogen oxides (NOx)",
+    "optionB": "Sulfur oxides (SOx)",
+    "optionC": "Particulate matter (PM10)",
+    "optionD": "Carbon monoxide (CO)",
+    "optionE": "Dioxins/furans",
+    "answer": "D. Carbon monoxide (CO)",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "59-60",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following waste types is NOT included in the scope of waste disclosure for the Construction Materials industry?",
+    "optionA": "Slags",
+    "optionB": "Dusts",
+    "optionC": "Sludges",
+    "optionD": "Used oil",
+    "optionE": "Gaseous wastes",
+    "answer": "E. Gaseous wastes",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "65",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a required disclosure in the Energy Management topic for the Construction Materials industry?",
+    "optionA": "Total energy consumed",
+    "optionB": "Percentage grid electricity",
+    "optionC": "Percentage alternative energy",
+    "optionD": "Percentage renewable energy",
+    "optionE": "Energy intensity per unit of production",
+    "answer": "E. Energy intensity per unit of production",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "61-63",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  },
+  {
+    "qa_type": "Negative Questions: Questions about what is NOT mentioned or covered in the document.",
+    "question": "Which of the following is NOT mentioned as a strategy for reducing GHG emissions in the Construction Materials industry?",
+    "optionA": "Energy efficiency",
+    "optionB": "Use of alternative and renewable fuels",
+    "optionC": "Carbon sequestration",
+    "optionD": "Clinker substitution",
+    "optionE": "Increasing production volume",
+    "answer": "E. Increasing production volume",
+    "reference": "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements",
+    "page": "55",
+    "industries": [
+      "b8-construction-materials"
+    ]
+  }
+]

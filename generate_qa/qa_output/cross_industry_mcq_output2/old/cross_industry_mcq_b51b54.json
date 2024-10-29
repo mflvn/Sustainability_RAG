@@ -1,0 +1,147 @@
+[
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "When preparing sustainability reports for a company operating both casinos and electronic manufacturing facilities, which of the following energy-related metrics is required to be disclosed for BOTH industries according to IFRS standards?",
+    "optionA": "Percentage of renewable energy consumed",
+    "optionB": "Total energy consumed",
+    "optionC": "Percentage of grid electricity consumed",
+    "optionD": "Number of active online gaming customers",
+    "optionE": "Weight of end-of-life products recovered",
+    "answer": "B: Total energy consumed",
+    "explanation": "According to the IFRS standards, the Casinos & Gaming industry is required to disclose total energy consumed as part of the Energy Management topic (metric SV-CA-130a.1). While the Electronic Manufacturing Services & Original Design Manufacturing industry doesn't have an explicit energy consumption metric listed in the provided content, total energy consumed is a fundamental sustainability metric that would likely be included in their overall reporting. The other options are either specific to one industry or not mentioned as required disclosures for both.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Casinos & Gaming",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electronic Manufacturing Services & Original Design Manufacturing"
+    ],
+    "pages": [
+      "535",
+      "547"
+    ],
+    "pairing_explanation": "Both are service-oriented sectors where sustainability in electronic equipment use and facility management parallels operational efficiency and waste reduction.",
+    "industries": [
+      "b51-casinos-and-gaming",
+      "b54-electronic-manufacturing-services-and-original-design"
+    ]
+  },
+  {
+    "qa_type": "Reporting Requirements",
+    "question": "A company operating both casinos and electronic manufacturing services is preparing its sustainability report. Which of the following metrics is explicitly required to be reported for the Electronic Manufacturing Services industry but NOT for the Casinos & Gaming industry?",
+    "optionA": "Total water withdrawn",
+    "optionB": "Number of employees",
+    "optionC": "Total area of gaming floor",
+    "optionD": "Percentage of renewable energy consumed",
+    "optionE": "Number of manufacturing facilities",
+    "answer": "A: Total water withdrawn",
+    "explanation": "The Electronic Manufacturing Services & Original Design Manufacturing industry is explicitly required to report on total water withdrawn (metric TC-ES-140a.1). This metric is not listed as a required disclosure for the Casinos & Gaming industry in the provided IFRS standards. While both industries may track water usage, it's only explicitly mentioned as a required disclosure for the Electronic Manufacturing Services industry.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Casinos & Gaming",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electronic Manufacturing Services & Original Design Manufacturing"
+    ],
+    "pages": [
+      "534",
+      "547",
+      "548"
+    ],
+    "pairing_explanation": "Both are service-oriented sectors where sustainability in electronic equipment use and facility management parallels operational efficiency and waste reduction.",
+    "industries": [
+      "b51-casinos-and-gaming",
+      "b54-electronic-manufacturing-services-and-original-design"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "When calculating the percentage of renewable energy consumed for a casino operation, which of the following sources should NOT be included according to the IFRS standards?",
+    "optionA": "Solar energy produced on-site with retained RECs",
+    "optionB": "Wind energy purchased through a PPA with explicit inclusion of RECs",
+    "optionC": "Biomass energy from sources certified by the Forest Stewardship Council",
+    "optionD": "Hydroelectric energy purchased from a Green-e Energy Certified utility",
+    "optionE": "The renewable portion of the electricity grid mix outside the entity's control",
+    "answer": "E: The renewable portion of the electricity grid mix outside the entity's control",
+    "explanation": "According to the IFRS standards for the Casinos & Gaming industry, specifically in the Energy Management section (SV-CA-130a.1), the renewable portion of the electricity grid mix that is outside of the control or influence of the entity is excluded from the scope of renewable energy calculation. All other options listed are valid sources of renewable energy that can be included in the calculation, provided they meet the specified criteria for retention of RECs or appropriate certifications.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Casinos & Gaming"
+    ],
+    "pages": [
+      "535",
+      "536"
+    ],
+    "pairing_explanation": "Both are service-oriented sectors where sustainability in electronic equipment use and facility management parallels operational efficiency and waste reduction.",
+    "industries": [
+      "b51-casinos-and-gaming",
+      "b54-electronic-manufacturing-services-and-original-design"
+    ]
+  },
+  {
+    "qa_type": "Metric Selection and Calculation",
+    "question": "A company in the Electronic Manufacturing Services industry is calculating its water consumption in regions with High or Extremely High Baseline Water Stress. Which tool should they use to classify these regions according to IFRS standards?",
+    "optionA": "United Nations Water Scarcity Index",
+    "optionB": "World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "optionC": "OECD Water Stress Indicator",
+    "optionD": "Global Water Tool by World Business Council for Sustainable Development",
+    "optionE": "Water Footprint Network's Assessment Tool",
+    "answer": "B: World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct",
+    "explanation": "According to the IFRS standards for the Electronic Manufacturing Services & Original Design Manufacturing industry, specifically in the Water Management section (TC-ES-140a.1), companies should use the World Resources Institute's (WRI) Water Risk Atlas tool, Aqueduct, to classify regions with High (40-80 percent) or Extremely High (>80 percent) Baseline Water Stress. This tool is explicitly mentioned in the standard for identifying water-stressed areas when calculating and reporting water consumption metrics.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electronic Manufacturing Services & Original Design Manufacturing"
+    ],
+    "pages": [
+      "548",
+      "549"
+    ],
+    "pairing_explanation": "Both are service-oriented sectors where sustainability in electronic equipment use and facility management parallels operational efficiency and waste reduction.",
+    "industries": [
+      "b51-casinos-and-gaming",
+      "b54-electronic-manufacturing-services-and-original-design"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "When comparing the sustainability reporting requirements for the Casinos & Gaming industry and the Electronic Manufacturing Services industry, which of the following statements is correct?",
+    "optionA": "Both industries are required to report on total energy consumed",
+    "optionB": "The Casinos & Gaming industry has more specific water management metrics than the Electronic Manufacturing Services industry",
+    "optionC": "The Electronic Manufacturing Services industry is not required to report on any facility-related metrics",
+    "optionD": "Both industries have identical activity metrics for reporting",
+    "optionE": "The Casinos & Gaming industry has explicit requirements for e-waste recycling reporting",
+    "answer": "B: The Casinos & Gaming industry has more specific water management metrics than the Electronic Manufacturing Services industry",
+    "explanation": "Based on the provided IFRS standards, the Electronic Manufacturing Services industry has more specific water management metrics than the Casinos & Gaming industry. The EMS industry is required to report on total water withdrawn, total water consumed, and the percentage of each in regions with High or Extremely High Baseline Water Stress (TC-ES-140a.1). In contrast, the Casinos & Gaming industry does not have explicit water management metrics listed in the provided standards. This reflects the different environmental impacts and priorities of these industries, with water management being a more critical issue for electronic manufacturing.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Casinos & Gaming",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electronic Manufacturing Services & Original Design Manufacturing"
+    ],
+    "pages": [
+      "534",
+      "547",
+      "548"
+    ],
+    "pairing_explanation": "Both are service-oriented sectors where sustainability in electronic equipment use and facility management parallels operational efficiency and waste reduction.",
+    "industries": [
+      "b51-casinos-and-gaming",
+      "b54-electronic-manufacturing-services-and-original-design"
+    ]
+  },
+  {
+    "qa_type": "Cross-Industry Comparison",
+    "question": "A sustainability manager is preparing a report for a company with both casino operations and electronic manufacturing facilities. Which of the following metrics would be most relevant to report for BOTH divisions to demonstrate commitment to resource efficiency and waste reduction?",
+    "optionA": "Number of active online gaming customers",
+    "optionB": "Weight of end-of-life products and e-waste recovered",
+    "optionC": "Total energy consumed",
+    "optionD": "Number of gaming tables",
+    "optionE": "Area of manufacturing facilities",
+    "answer": "C: Total energy consumed",
+    "explanation": "Total energy consumed is the most relevant metric to report for both casino operations and electronic manufacturing facilities to demonstrate commitment to resource efficiency and waste reduction. For the Casinos & Gaming industry, total energy consumed is explicitly required (SV-CA-130a.1). While not explicitly listed for the Electronic Manufacturing Services industry in the provided content, energy consumption is a fundamental sustainability metric relevant to all industries, especially those with significant facility operations. This metric allows both divisions to showcase their efforts in energy efficiency and reduction of environmental impact, aligning with the theme of operational efficiency and waste reduction common to both sectors.",
+    "references": [
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Casinos & Gaming",
+      "IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements: Electronic Manufacturing Services & Original Design Manufacturing"
+    ],
+    "pages": [
+      "534",
+      "535",
+      "547"
+    ],
+    "pairing_explanation": "Both are service-oriented sectors where sustainability in electronic equipment use and facility management parallels operational efficiency and waste reduction.",
+    "industries": [
+      "b51-casinos-and-gaming",
+      "b54-electronic-manufacturing-services-and-original-design"
+    ]
+  }
+]
